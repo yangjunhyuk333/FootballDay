@@ -1,0 +1,12 @@
+{
+  "name": "footballday",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "update": "node scripts/update-news.mjs",
+    "validate": "node --check script.js && node --check scripts/update-news.mjs && node --check scripts/build-site.mjs",
+    "preview": "python -m http.server 8787"
+  }
+}

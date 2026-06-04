@@ -1,0 +1,37 @@
+[
+  {
+    "name": "BBC Football",
+    "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "homepage": "https://www.bbc.com/sport/football",
+    "category": "league",
+    "region": "england"
+  },
+  {
+    "name": "Sky Sports Football",
+    "url": "https://www.skysports.com/rss/12040",
+    "homepage": "https://www.skysports.com/football",
+    "category": "transfer",
+    "region": "england"
+  },
+  {
+    "name": "The Guardian Football",
+    "url": "https://www.theguardian.com/football/rss",
+    "homepage": "https://www.theguardian.com/football",
+    "category": "league",
+    "region": "england"
+  },
+  {
+    "name": "ESPN Soccer",
+    "url": "https://www.espn.com/espn/rss/soccer/news",
+    "homepage": "https://www.espn.com/soccer/",
+    "category": "league",
+    "region": "global"
+  },
+  {
+    "name": "Football365",
+    "url": "https://www.football365.com/rss",
+    "homepage": "https://www.football365.com/",
+    "category": "transfer",
+    "region": "england"
+  }
+]

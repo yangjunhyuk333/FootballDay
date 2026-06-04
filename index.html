@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>FootballDay | 축구 뉴스 브리프</title>
+    <meta
+      name="description"
+      content="유럽 축구, 이적시장, 월드컵, 평점 기반 베스트 XI를 자동 업데이트하는 FootballDay 뉴스 브리프"
+    />
+    <link rel="stylesheet" href="styles.css?v=20260604-2" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="FootballDay 홈">
+        <span class="brand-mark">FD</span>
+        <span>FootballDay</span>
+      </a>
+      <nav class="nav" aria-label="주요 섹션">
+        <a href="#latest">뉴스</a>
+        <a href="#markets">이적</a>
+        <a href="#xi">베스트 XI</a>
+        <a href="#radar">포텐</a>
+      </nav>
+      <button class="theme-toggle" type="button" aria-label="라이트 모드와 다크 모드 전환">
+        <span class="toggle-track"><span class="toggle-dot"></span></span>
+        <span class="theme-label">Dark</span>
+      </button>
+    </header>
+
+    <main id="top">
+      <section class="brief-shell" aria-labelledby="page-title">
+        <div class="brief-copy">
+          <p class="kicker">weekly football intelligence</p>
+          <h1 id="page-title">오늘의 축구 흐름.</h1>
+          <p>해외 주요 피드를 수집해 이적, 월드컵, UCL, 5대 리그 흐름을 정리합니다.</p>
+        </div>
+        <aside class="lead-visual" aria-label="편집 데스크 이미지">
+          <img src="assets/hero-football-news.png" alt="" />
+          <div>
+            <strong id="lead-source">FootballDay Desk</strong>
+            <span id="updated-at">업데이트 확인 중</span>
+          </div>
+        </aside>
+      </section>
+
+      <section class="control-strip" aria-label="기사 필터">
+        <div class="search-field">
+          <label for="search">검색</label>
+          <input id="search" type="search" placeholder="선수, 클럽, 리그, 키워드" autocomplete="off" />
+        </div>
+        <div class="category-tabs" id="category-tabs" aria-label="카테고리"></div>
+      </section>
+
+      <section class="content-grid" id="latest" aria-labelledby="latest-title">
+        <div class="main-column">
+          <div class="section-title">
+            <p class="kicker">latest brief</p>
+            <h2 id="latest-title">최신 기사</h2>
+          </div>
+          <div class="article-list" id="article-list" aria-live="polite"></div>
+        </div>
+
+        <aside class="side-column">
+          <section class="panel" id="markets" aria-labelledby="market-title">
+            <div class="panel-head">
+              <p class="kicker">market wire</p>
+              <h2 id="market-title">이적 신호</h2>
+            </div>
+            <div class="signal-list" id="transfer-signals"></div>
+          </section>
+
+          <section class="panel" id="radar" aria-labelledby="radar-title">
+            <div class="panel-head">
+              <p class="kicker">potential radar</p>
+              <h2 id="radar-title">포텐 레이더</h2>
+            </div>
+            <div class="radar-list" id="player-radar"></div>
+          </section>
+        </aside>
+      </section>
+
+      <section class="xi-section" id="xi" aria-labelledby="xi-title">
+        <div class="section-title">
+          <p class="kicker">rating board</p>
+          <h2 id="xi-title">평점 기반 베스트 XI</h2>
+        </div>
+        <div class="xi-tabs" id="xi-tabs" role="tablist" aria-label="대회 및 리그 선택"></div>
+        <div class="xi-grid">
+          <div class="pitch" id="pitch"></div>
+          <aside class="xi-summary" id="xi-summary"></aside>
+        </div>
+      </section>
+
+      <section class="source-section" aria-labelledby="source-title">
+        <div class="section-title">
+          <p class="kicker">source network</p>
+          <h2 id="source-title">수집 피드</h2>
+        </div>
+        <div class="source-list" id="source-list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>FootballDay는 공개 피드와 원문 링크를 기반으로 자동 갱신됩니다.</p>
+      <a href="#top">맨 위로</a>
+    </footer>
+
+    <script src="data/articles.js?v=20260604-2"></script>
+    <script src="script.js?v=20260604-2"></script>
+  </body>
+</html>
