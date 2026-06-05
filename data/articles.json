@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T04:12:48.490Z",
+  "generatedAt": "2026-06-05T10:00:49.973Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,56 +99,426 @@
       "pinned": true
     },
     {
-      "id": "32069219f4489c",
-      "title": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
-      "summary": "Andoni Iraola has been appointed Liverpool head coach after Arne Slot's sudden departure from Anfield and he has a whole host of issues to find answers to before the st...",
+      "id": "fc9f65c24adc0b",
+      "title": "Farrell extends Ireland deal to 2031 World Cup",
+      "summary": "Andy Farrell has signed a contract extension to remain as Ireland head coach until the end of the 2031 Rugby World Cup.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
-      "publishedAt": "2026-06-05T04:12:48.010Z",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13551022/andy-farrell-contract-ireland-head-coach-extends-deal-until-end-of-2031-rugby-world-cup",
+      "publishedAt": "2026-06-05T10:00:49.762Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "66c5df7e23b1c2",
+      "title": "Robertson relishing chance to lead Scotland at World Cup",
+      "summary": "Andy Robertson was expected to be named in Scotland's World Cup squad, but he admitted it was a \"huge pinch yourself moment\"when he was confirmed as one of Steve Clarke...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13549779/world-cup-2026-scotland-captain-andy-robertson-on-pinch-yourself-moment-of-being-part-of-historic-squad",
+      "publishedAt": "2026-06-05T10:00:49.762Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8cad2b00dfa214",
+      "title": "Liverpool: ‘Arrogant’ Slot aimed ‘personal digs’ at Florian Wirtz – ‘Did you win the Premier League?’",
+      "summary": "Arne Slot mixed ‘objective criticism’ with ‘arrogance’ while aiming ‘personal digs’ at new signings to bring about his downfall at Liverpool, according to a fresh report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-arrogant-slot-personal-digs-wirtz-did-you-win-premier-league",
+      "publishedAt": "2026-06-05T09:53:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Liverpool"
       ]
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
-      "summary": "Liverpool latest: 'I want to be one of you' - Iraola's first words as Reds boss",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-05T04:12:48.010Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7867b0d042ce83",
-      "title": "Papers: Arsenal receive huge boost in race for Kroupi Jr",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13550933/arsenal-transfer-news-mikel-arteta-handed-boost-in-race-for-eli-junior-kroupi-as-psg-drop-out-of-race-paper-talk",
-      "publishedAt": "2026-06-05T04:12:48.010Z",
+      "id": "4dc550809e6c37",
+      "title": "Ten best wingers available this summer: Arsenal, Liverpool targets ahoy as £112m star leads the way",
+      "summary": "Arsenal and Liverpool need attacking reinforcements this summer. Here are the 10 best wingers available for transfer, including Yan Diomande.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-wingers-available-this-summer-ranking-arsenal-liverpool-targets",
+      "publishedAt": "2026-06-05T09:50:20.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Arsenal"
+        "Arsenal",
+        "Liverpool"
       ]
     },
     {
-      "id": "14b49cfec1de44",
-      "title": "Liverpool announce Iraola as head coach",
-      "summary": "Liverpool have appointed Andoni Iraola as their new head coach.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
-      "publishedAt": "2026-06-05T04:12:48.009Z",
+      "id": "d17c9101235ef2",
+      "title": "World Cup 2026 news, PFA awards shortlists, transfer latest and more: football– live",
+      "summary": "⚽️ Latest football news before a big weekend of action ⚽️ Get in touch: email Dave | And follow us on TikTok The shortlists for the Men’s and Women’s PFA players’ award...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live",
+      "publishedAt": "2026-06-05T09:45:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "632dc8e3c3e704",
+      "title": "Manchester United hit by transfer ‘leak’, Amorim ‘green light’ and ‘complex’ Rashford swap",
+      "summary": "Manchester United have a transfer ‘leak’ and a ‘green light’, while ‘one major issue’ stands in the way of Liverpool and their main target.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-transfer-leak-green-light",
+      "publishedAt": "2026-06-05T09:42:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a3d6338f4ea37b",
+      "title": "Perez promises biggest deal in Real Madrid's history",
+      "summary": "Florentino Perez promises to make a club-record offer for an unnamed \"great player\" if re-elected as Real Madrid president on Sunday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T09:33:35.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8af7b4421158d3",
+      "title": "Iraola tears up Alisson deal in first act as Liverpool boss with eight players ‘in danger of exit’",
+      "summary": "Andoni Iraola could offload as many as eight players in the summer after taking over as Liverpool head coach, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-iraola-tears-up-alisson-contract-eight-players-leaving",
+      "publishedAt": "2026-06-05T09:30:12.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "296b8e35ed343d",
+      "title": "Shaw and Hasegawa on PFA women's award shortlist",
+      "summary": "Manchester City duo Khadija 'Bunny' Shaw and Yui Hasegawa are shortlisted for the Professional Footballers Association's Women's Player of the Year award.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T09:28:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "abb8dbabfdc7dd",
+      "title": "Football regulator faces 'defining test' over potential Derby investment",
+      "summary": "English football's independent regulator faces a \"defining test\" as Saudi Arabian government official Turki Al-Sheikh attempts to invest in Derby County, says Amnesty I...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T09:24:21.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "067c6b7b80e68b",
+      "title": "Fifa demands fans pay after ticketing error offered free World Cup tickets",
+      "summary": "Fifa says fans who were mistakenly given free tickets to World Cup group stage matches in Toronto must pay for them within seven days or lose the seats.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T09:10:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "375321c2b4de73",
+      "title": "Man City in talks to ‘trigger’ obscure Morgan Rogers ‘buy-back clause’ to deny Arsenal and Man Utd",
+      "summary": "Manchester City reportedly hold a surprise buy-back clause for Morgan Rogers and are in talks to “trigger” it to deny rivals his signing this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-talks-trigger-rogers-buy-back-deny-arsenal-man-utd",
+      "publishedAt": "2026-06-05T09:03:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cc6b23bbb96242",
+      "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+      "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T08:56:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b1831d8a116d86",
+      "title": "Football regulator will reject call to play bigger role in promoting equality at clubs",
+      "summary": "Kick It Out wants equality, diversity and inclusion targets Regulator decides against after licensing consultation The Independent Football Regulator (IFR) is poised to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/football-regulator-will-reject-call-equality-diversity-and-inclusion-kick-it-out",
+      "publishedAt": "2026-06-05T08:29:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5313b43a9b901a",
+      "title": "Liverpool mockery of Alexander-Arnold is ‘not bitterness’ as short-term Iraola plan enacted",
+      "summary": "Andoni Iraola and his penchant for a two-year contract ‘dovetails’ nicely with what seems to be a short-term grand plan at Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/iraola-appointed-diomande-liverpool",
+      "publishedAt": "2026-06-05T08:10:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ff279ea12faccd",
+      "title": "From EFL to World Cup - 11 players to look out for",
+      "summary": "BBC Sport takes a look at 11 EFL players to watch out for at this summer's World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cm2pdkjzw13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T08:05:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cea76a5e21aa98",
+      "title": "Man Utd to make transfer ‘exception’ as they chase PL superstar to replace Ten Hag signing",
+      "summary": "Man Utd will make an ‘exception’ if they sign Brentford striker Igor Thiago in the summer transfer window, according to Ben Jacobs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-exception-thiago-brentford-replace-zirkzee",
+      "publishedAt": "2026-06-05T08:02:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "c95742280e0e4d",
+      "title": "Arsenal surge in race for £100m striker as Romano confirms ‘movements’ on signing from PSG",
+      "summary": "Arsenal have been given a huge boost in their pursuit of Bournemouth star Junior Kroupi as the teenager looks set to be denied his ‘dream’ transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-race-100m-striker-romano-movements-signing-psg-star",
+      "publishedAt": "2026-06-05T07:37:34.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "5724582b1bec3d",
+      "title": "World Cup quiz: Name every player in England's squad",
+      "summary": "There are just 12 days until England play their World Cup opener against Croatia - but can you name ever member of the squad picked by Thomas Tuchel?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c202yprg4z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T07:33:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ed8274dd47c4f5",
+      "title": "Will club momentum boost NI's World Cup hopes?",
+      "summary": "With silverware fresh in their hands, many of Northern Ireland's players will arrive for international duty brimming with confidence.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cn4p53nwxw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T07:30:47.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b7380db99620e2",
+      "title": "The familiar phone call after Morrison's NI debut",
+      "summary": "Liverpool teenager Kieran Morrison said he was \"buzzing\" to make his senior Northern Ireland debut against Guinea on Thursday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c2d2dx73j31o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T07:29:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "be8c1fca931f87",
+      "title": "Podcast: Cotton wool or full tilt? Scotland’s World Cup call, Shankland debate & St Mirren decision",
+      "summary": "Scotland face Bolivia, Shankland stakes his claim, women push on and St Mirren decide",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nq80km?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "91702e9360681e",
+      "title": "World Cup 2026 wallchart: print out your own here",
+      "summary": "Print out and fill in our brilliant wallchart and follow the 48 teams at the tournament in USA, Mexico and Canada • All of our World Cup coverage in one handy place Con...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here",
+      "publishedAt": "2026-06-05T06:30:28.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "086f7d42260f71",
+      "title": "Iraola’s dynamic football will energise Liverpool despite worry over workload | Jonathan Wilson",
+      "summary": "New manager achieved much at Bournemouth with style reminiscent of Jürgen Klopp’s counterpress There comes a point in most discussions when all the detail and complicat...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/iraolas-dynamic-football-will-energise-liverpool-despite-worry-over-workload",
+      "publishedAt": "2026-06-05T06:30:28.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a5a7225de4511b",
+      "title": "Cape Verde World Cup 2026 team guide",
+      "summary": "Blue Sharks are in uncharted waters, making their finals debut after a meteoric rise This article is part of the Guardian’s 2026 World Cup Experts’ Network , a cooperat...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/cape-verde-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-05T06:30:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "490fa829c7eeb0",
+      "title": "‘It feels like being in an oven’ – the ‘shocking’ experience awaiting fans at the 2026 World Cup",
+      "summary": "One documentary maker believes ‘there’s almost no point’ talking about tactics, line-ups and the game itself if the 2026 World Cup is played in such absurd conditions.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/shocking-experience-2026-world-cup-fans-heat",
+      "publishedAt": "2026-06-05T06:23:41.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "02705a05ad1e03",
+      "title": "Ranking the eight Premier League manager survivors by who’s next for the sack",
+      "summary": "Been a manager in the Premier League for at least a year? That makes you a veteran these days. Only eight are still in place from the start of last ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-longest-serving-premier-league-bosses-next-for-sack",
+      "publishedAt": "2026-06-05T06:23:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6c40b48b6f1814",
+      "title": "Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?",
+      "summary": "Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T06:05:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fe05c5707ea408",
+      "title": "Carragher warns Iraola ‘ticks just one of three boxes’ for Liverpool in ‘dangerous’ Klopp pursuit",
+      "summary": "Carragher picked out three “main credentials” for coaching one of Europe’s top teams and claims new Liverpool manager Andoni Iraola “ticks one of those boxes”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carragher-warns-iraola-ticks-just-one-of-three-boxes-for-liverpool-in-dangerous-klopp-pursuit",
+      "publishedAt": "2026-06-05T05:55:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "63cd6e785f59eb",
+      "title": "Real Madrid: Perez confirms ‘€150m club-record offer’ for ‘Ronaldo-level Galactico’ – it’s ‘not Haaland’",
+      "summary": "After his rival candidate vowed to sign Haaland, Florentino Perez has confirmed a ‘club-record €150m offer’ for a Real Madrid ‘Galactico’ ahead of the presidential elec...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-perez-e150m-club-record-offer-ronaldo-level-galactico-not-haaland",
+      "publishedAt": "2026-06-05T05:32:46.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "9a4adabb5f795d",
+      "title": "Messi v Ronaldo: A rivalry that's dominated for two decades",
+      "summary": "Cristiano Ronaldo and Lionel Messi have been at the top of the game for the past 20 years, BBC Sport looks at a rivalry that has shaped football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/czr2p81g5zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T05:28:32.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -219,377 +589,6 @@
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "d74c671bc4aa47",
-      "title": "Carrick tells Man Utd to sign ‘next Declan Rice’ as Berrada outlines ‘clear transfer plan’",
-      "summary": "Man Utd head coach Michael Carrick is urging the club to sign Middlesbrough midfielder Hayden Hackney, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-carrick-demands-hackney-signing-berrada-outlines-transfer-plan",
-      "publishedAt": "2026-06-04T19:14:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "32dc8b85ff1158",
-      "title": "Why has Iraola only signed a two-year contract at Liverpool?",
-      "summary": "Our Ask Me Anything team looks into why Andoni Iraola has signed a contract for just two years as Liverpool manager.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cdxp15z708ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T18:50:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4ffd295005d3bf",
-      "title": "Iraola reveals why he is ‘excited’ to join Liverpool in his first 104 words as head coach",
-      "summary": "Andoni Iraola has revealed his reasons for taking over as Liverpool head coach after the Reds officially confirmed his appointment.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-andoni-iraola-official-statement-first-interview",
-      "publishedAt": "2026-06-04T18:47:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "59ddd2241b6da8",
-      "title": "Iraola will make Liverpool fans excited again - Murphy",
-      "summary": "Andoni Iraola is the new Liverpool head coach on a two-year contract - but what is the feeling around the city to his impending arrival?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c62dpn93n9mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T18:35:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "8509978f071f6b",
-      "title": "Liverpool confirm appointment of Andoni Iraola as new head coach",
-      "summary": "Spaniard replaces Arne Slot and signs two-year deal Iraola worked with Richard Hughes at Bournemouth Andoni Iraola has been appointed the new head coach of Liverpool on...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/04/liverpool-confirm-appointment-of-andoni-iraola-as-new-head-coach",
-      "publishedAt": "2026-06-04T18:31:22.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Milan"
-      ]
-    },
-    {
-      "id": "be4f83caab783e",
-      "title": "Top players, title fights - why Iraola feels ready for Liverpool",
-      "summary": "Liverpool appoint Andoni Iraola as their new head coach on a two-year contract following the sacking of Arne Slot.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T18:28:58.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "25dda86bc980f0",
-      "title": "‘We’d like him to stay’: Manchester United’s Berrada hints at Bruno Fernandes doubts",
-      "summary": "CEO praises ‘great leader’ who knows club’s values Captain’s mixed messages have raised doubts on future Omar Berrada has not ruled out Bruno Fernandes leaving Manchest...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/04/wed-like-him-to-stay-manchester-uniteds-berrada-hints-at-bruno-fernandes-doubts",
-      "publishedAt": "2026-06-04T18:25:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9a249621dd47f7",
-      "title": "First two Iraola signings at Liverpool now ‘advanced’ as Reds ‘agree’ Diomande terms",
-      "summary": "Liverpool are now ‘advanced’ in their talks for two players as Andoni Iraola closes in on his first deals of the summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-iraola-first-two-signings-diomande",
-      "publishedAt": "2026-06-04T18:15:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4b4472aa4e2c22",
-      "title": "Man Utd will not be swayed on transfer plan - Berrada",
-      "summary": "Manchester United chief executive Omar Berrada says the club will not bow to pressure and overpay in the summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c0e2enynl2qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T18:10:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3ad2d766b40b0e",
-      "title": "Tottenham star ‘offered’ to Euro giants as ‘crazy’ bid sees club set for unexpected windfall",
-      "summary": "Tottenham forward Mathys Tel has been ‘offered’ to Portuguese giants Porto ahead of the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-tel-offer-porto-crazy-offer-van-hecke-nac-breda-windfall",
-      "publishedAt": "2026-06-04T17:46:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "756807ce4fb0d6",
-      "title": "Like father like son - international goals run in the family",
-      "summary": "After Lewis Koumas followed in father Jason's footsteps to score for Wales, BBC Sport showcases the famous father-son footballers who have scored goals at international...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cwy20rjkn3ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T16:57:46.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "96ea28ea1b0a26",
-      "title": "EFL scraps three-window transfer ban for late payments",
-      "summary": "Clubs in the English Football League vote to reduce the length of free-restriction transfer windows for late payments.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cevprvr1l01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T16:37:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "5864627d979d0c",
-      "title": "Romano confirms Arsenal are ‘keen’ on Tonali as Newcastle star emerges as Plan B for Man City",
-      "summary": "Premier League champions Arsenal are ‘keen’ on a move to sign Man City transfer target Sandro Tonali, according to Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-keen-tonali-newcastle-plan-b-man-city",
-      "publishedAt": "2026-06-04T16:27:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3a60eca6114676",
-      "title": "Wilkinson spends night in airport but says Wales will be ready",
-      "summary": "Head coach Rhian Wilkinson says Wales cannot let travel chaos affect their performance in Friday's Women's World Cup qualifier in Montenegro.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c332ggpx76po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T16:16:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "381923a1b9159a",
-      "title": "What is happening with World Cup ticket prices?",
-      "summary": "With falling prices, fluctuating availability and a lack of clarity, could the biggest World Cup ever see swathes of empty seats?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpv7v4p9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T16:12:16.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0babdc2c13d9c9",
-      "title": "Lionesses seek to tame Spain again and show they are ready to conquer the world",
-      "summary": "England are upbeat going into the toughest fixture in international football but the hosts’ threat will be amplified by the returning Bonmatí The equation sounds simple...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world",
-      "publishedAt": "2026-06-04T15:31:17.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c432bb31dee0da",
-      "title": "Tottenham offered 154-goal striker but Juventus want two players in return",
-      "summary": "De Zerbi is looking to fix Spurs’ struggling frontline this summer and has been offered the chance to sign a Juventus frontman who could go some way to helping",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spurs-offered-jonathan-david-deal-but-juventus-want-two-players-in-return",
-      "publishedAt": "2026-06-04T15:27:42.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Juventus"
-      ]
-    },
-    {
-      "id": "ce30284a216eae",
-      "title": "Ornstein drops huge Diomande to Liverpool update after Leipzig star declares ‘love’ for PSG",
-      "summary": "David Ornstein has revealed that Liverpool are more ‘advanced’ than Paris Saint-Germain in the race to sign RB Leipzig winger Yan Diomande.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-ornstein-diomande-huge-transfer-update-psg",
-      "publishedAt": "2026-06-04T15:25:55.000Z",
-      "category": "transfer",
-      "region": "england france germany",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "21e40b077e21ef",
-      "title": "Iran World Cup 2026 team guide",
-      "summary": "All eyes will be on Team Melli amid the ongoing conflict with the US and Israel, making their campaign one of the most unusual and unpredictable of recent times This ar...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/04/iran-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-04T15:00:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5e21e5ef15f538",
-      "title": "Morgan Rogers decides ‘preferred destination’ after being warned off £80m Arsenal transfer",
-      "summary": "Morgan Rogers has decided his ‘preferred destination’ after being warned off a move to Arsenal by former Liverpool striker Emile Heskey.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/morgan-rogers-arsenal-preferred-destinational-warned-off-heskey",
-      "publishedAt": "2026-06-04T14:59:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ae1d235f0bfd85",
-      "title": "Football Daily | World Cup Omitted XI: the star players watching from the sofa this summer",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! With every squad for the Geopolitics World Cup now finalised – Turkey, Jordan, Ghana and Uzbekistan were the last te...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/04/football-daily-omitted-xi-geopolitics-world-cup",
-      "publishedAt": "2026-06-04T14:24:52.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f4206e409bc558",
-      "title": "Who are the World Cup's record holders?",
-      "summary": "BBC Sport's Ask Me Anything team looks at the record holders in World Cup history ahead of the 2026 tournament",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx217277w8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T14:24:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "75ea2fa2216dcd",
-      "title": "'I need to put myself first' - McCabe on Chelsea move",
-      "summary": "Republic of Ireland captain Katie McCabe says that she had to \"put myself first\" as she opens up about her switch from Arsenal to Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/articles/cy8284yz20eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T14:22:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8fa9cf3e2cffc6",
-      "title": "Pep Guardiola ‘quit 100 times’ before final Man City exit – Al Mubarak",
-      "summary": "In a wide-ranging interview with Man City’s in-house media, Al Mubarak said Guardiola repeatedly half-heartedly flirted with leaving over the years.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/khaldoon-al-mubarak-reveals-pep-guardiola-quit-city-100-times-before-final-exit",
-      "publishedAt": "2026-06-04T14:09:15.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "1594e5d349b6a3",
-      "title": "Shearer on Beckham, pressure and Argentina heartbreak",
-      "summary": "Alan Shearer reflects on his and England's performances at the 1998 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cgrpvk91vvro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T14:06:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1d2de9b1d04be1",
-      "title": "Arsenal: Newcastle in ‘firm’ talks for £30m Gunners star as Arteta wants players of a ‘higher level’",
-      "summary": "Newcastle have held “firm” talks to land the Arsenal star this summer as Mikel Arteta decides he needs players of a “higher level”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-newcastle-firm-talks-30m-gunners-star-arteta-players-higher-level",
-      "publishedAt": "2026-06-04T14:04:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "beac0286c79989",
-      "title": "‘A real health risk’: Fifa ban on reusable water bottles sparks anger among fans",
-      "summary": "Supporters groups condemn ‘immoral’ U-turn Fifa says policy a safety measure to prevent injury Fifa has been accused of putting revenue ahead of fans’ health after bann...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
-      "publishedAt": "2026-06-04T13:39:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
       ]
     }
   ],
