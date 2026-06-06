@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-06T08:39:43.363Z",
+  "generatedAt": "2026-06-06T13:53:50.297Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,81 +99,67 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "058b48958ba9b8",
-      "title": "Transfer rumors, news: Bayern's Olise is Perez's R...",
-      "summary": "Real Madrid will launch a €150 million offer to sign Bayern Munich winger Michael Olise if Florentino Perez wins the club's presidential election. Transfer Talk has the...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48981673/transfer-rumors-news-bayern-olise-real-madrid-target-perez",
-      "publishedAt": "2026-06-06T09:15:36.000Z",
+      "id": "99ca99d30a3b4c",
+      "title": "Ogbene earns Republic of Ireland draw with Canada",
+      "summary": "Chiedozie Ogbene's equaliser ensured the Republic of Ireland continued their good run of results as they drew 1-1 with World Cup co-hosts Canada in Montreal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13551279/canada-1-1-republic-of-ireland-chiedozie-ogbene-earns-draw-with-world-cup-co-hosts-in-friendly",
+      "publishedAt": "2026-06-06T13:53:49.993Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f76ca8ee01bfa3",
+      "title": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
+      "summary": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
+      "publishedAt": "2026-06-06T13:53:49.992Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2ebb0fe45e300d",
+      "title": "Liverpool told ‘huge offer’ for £100m star would be ‘accepted’ as summer ‘expectation’ revealed",
+      "summary": "According to reports, Bournemouth could be tempted into selling Junior Kroupi to Liverpool or another club in this summer’s transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-told-huge-offer-100m-star-accepted-summer-expectation-revealed",
+      "publishedAt": "2026-06-06T13:39:43.000Z",
       "category": "transfer",
-      "region": "spain germany",
+      "region": "england",
       "tags": [
         "Transfer",
-        "Real Madrid",
-        "Bayern"
+        "Liverpool"
       ]
     },
     {
-      "id": "74ed19dde30b41",
-      "title": "16 players who could use World Cup to get a big tr...",
-      "summary": "The World Cup is the biggest stage in sports, so which players can use it to get their next big transfer?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
-      "publishedAt": "2026-06-06T09:14:44.000Z",
+      "id": "a188d1a5d7bd87",
+      "title": "World Cup 2026 news; England and Scotland friendlies; Sullivan resigns at West Ham – matchday live",
+      "summary": "World Cup friendly football news from 8am UK time Your essential guide to every player at the World Cup You can email us here | Sign up for Football Daily As always, fe...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/06/world-cup-2026-buildup-as-england-and-scotland-gear-up-for-friendlies-matchday-live",
+      "publishedAt": "2026-06-06T13:37:43.000Z",
       "category": "transfer",
-      "region": "global",
+      "region": "italy",
       "tags": [
+        "Football",
         "World Cup",
-        "Transfer"
+        "Inter"
       ]
     },
     {
-      "id": "307c9b096f47aa",
-      "title": "Get ready for the biggest World Cup ever! What you...",
-      "summary": "The wait is almost over ... the 2026 FIFA World Cup is about to begin! ESPN's experts are here with what you need to know at a glance about all 48 teams.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48871263/world-cup-2026-key-players-facts-expectations-fixtures-odds-all-48-teams",
-      "publishedAt": "2026-06-06T08:47:03.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5a82a11e1e0a13",
-      "title": "Which World Cup records are most likely to be brok...",
-      "summary": "This summer's expanded tournament in North America could be one to rewrite the record books.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-      "publishedAt": "2026-06-06T08:47:02.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e9fb91ac169ea1",
-      "title": "Gregg Berhalter's USMNT firing helped pave the way...",
-      "summary": "Two years after Gregg Berhalter was fired as coach, son Sebastian will play for the USMNT at the World Cup. \"I never could have picked him,\" Gregg said.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48965570/gregg-berhalter-usmnt-firing-paved-way-son-sebastian-world-cup-dream",
-      "publishedAt": "2026-06-06T08:41:12.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3059bfdec16f06",
-      "title": "Littler not feeling pressure ahead of World Cup of Darts return with Humphries",
-      "summary": "Luke Littler admits he and Luke Humphries did not \"bond\" on the stage during the World Cup of Darts in 2025 but is expecting it to be different this time around.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13551270/luke-littler-not-feeling-the-pressure-ahead-of-world-cup-of-darts-return-with-luke-humphries-we-didnt-bond-on-the-stage-last-year",
-      "publishedAt": "2026-06-06T08:39:43.001Z",
+      "id": "2e23b1da262e0c",
+      "title": "Paraguay star Enciso injured in World Cup warm-up",
+      "summary": "Paraguay forward Julio Enciso's World Cup is in doubt after he was injured during a 4-0 friendly win over Nicaragua.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cq812vlx992o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-06T13:04:53.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -181,110 +167,227 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "4e7a1a10468ee8",
-      "title": "Papers: Slot turns down Fulham job offer",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551289/arne-slot-sacked-liverpool-boss-turns-down-immediate-premier-league-return-offer-by-fulham-paper-talk",
-      "publishedAt": "2026-06-06T08:39:43.000Z",
-      "category": "transfer",
+      "id": "52a442fdee268b",
+      "title": "England: Thomas Tuchel reveals his role in World Cup squad number decisions – ‘we then changed’",
+      "summary": "Head coach Thomas Tuchel has revealed his involvement with the decisions regarding World Cup squad numbers for his England players.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-tuchel-reveals-role-world-cup-squad-number-decisions-we-changed",
+      "publishedAt": "2026-06-06T13:01:11.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Transfer"
+        "World Cup"
       ]
     },
     {
-      "id": "42eba482489f25",
-      "title": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
-      "summary": "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in the United States - and there was a lot to cover.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
-      "publishedAt": "2026-06-06T08:39:43.000Z",
-      "category": "transfer",
+      "id": "ecd24fe475787a",
+      "title": "Listen: Off the Ball with guests Grant Stott & JJ Bull",
+      "summary": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m002xg23?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-06T13:00:00.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Transfer"
+        "Football"
       ]
     },
     {
-      "id": "f3ee28133a604d",
-      "title": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
-      "summary": "Real Madrid presidential candidate Enrique Riquelme has released a statement confirming that Jurgen Klopp will be his choice for the manager's job at the Bernabeu if he...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
-      "publishedAt": "2026-06-06T08:39:43.000Z",
-      "category": "transfer",
-      "region": "spain",
+      "id": "23de6a220fff23",
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-06T11:56:25.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1a1a4155a580c9",
+      "title": "Arsenal decide two ‘major transfer priorities’ this summer as first ‘new’ signing ‘virtually done’",
+      "summary": "According to reports, Arsenal have two ‘major priorities’ in the transfer market this summer, while their first ‘new’ signing is ‘virtually done’. The Gunners are comin...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-decide-two-major-transfer-priorities-summer-first-new-signing-virtually-done",
+      "publishedAt": "2026-06-06T11:51:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "bbda9df33dd1fa",
+      "title": "West Ham react to rumours Man Utd want to sign Mateus Fernandes",
+      "summary": "West Ham United have responded to claims that Manchester United are aiming to sign Mateus Fernandes in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mateus-fernandes-manchester-united-west-ham-united",
+      "publishedAt": "2026-06-06T11:30:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "65961f66623006",
+      "title": "Jürgen Klopp’s agent shoots down ‘annoying’ talk of Real Madrid move",
+      "summary": "Presidential candidate Riquelme wants German as coach Former Liverpool manager now works for Red Bull Jürgen Klopp’s agent has dismissed talk of the former Liverpool ma...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/06/jurgen-klopp-agent-shoots-down-annoying-talk-of-real-madrid-move",
+      "publishedAt": "2026-06-06T11:25:12.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Liverpool",
         "Real Madrid"
       ]
     },
     {
-      "id": "f37a090fff2c31",
-      "title": "Why England players wanting a transfer face a logistical NIGHTMARE",
-      "summary": "Thomas Tuchel says he does have some concerns that transfer speculation could become a distraction for some members of his squad during this World Cup, but he also says...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551277/englands-world-cup-schedule-why-its-a-logistical-nightmare-for-three-lions-players-wanting-a-transfer-this-summer-under-thomas-tuchels-rules",
-      "publishedAt": "2026-06-06T08:39:42.999Z",
+      "id": "86b0dea494d105",
+      "title": "Man Utd could sign Elliot Anderson on two conditions as one reason for transfer ‘preference’ mooted",
+      "summary": "A new report claims Manchester United could yet sign Elliot Anderson ahead of Manchester City on two conditions this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-could-sign-elliot-anderson-two-conditions-one-reason-transfer-preference",
+      "publishedAt": "2026-06-06T11:11:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Transfer"
+        "Transfer",
+        "Manchester"
       ]
     },
     {
-      "id": "c5f03db3edf8d4",
-      "title": "Barcelona Keep or Dump: How to replace Lewandowski...",
-      "summary": "How can Barcelona navigate their financial restrictions to reach even greater heights? Gab Marcotti and Sam Marsden break it down.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48976007/barcelona-keep-dump-summer-transfers-lewandowski-raphinha-marcus-rashford-joao-cancelo",
-      "publishedAt": "2026-06-06T08:34:09.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "339af71a8efdc5",
-      "title": "Should Mourinho's return to Madrid really be a su...",
-      "summary": "José Mourinho will return as Real Madrid manager if Florentino Pérez wins the club's presidential election.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48972917/should-jose-mourinho-return-real-madrid-coach-really-surprise",
-      "publishedAt": "2026-06-06T08:34:09.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "78b2d4a501a99d",
-      "title": "Predicting how all 48 World Cup teams will do: A r...",
-      "summary": "Who will win the FIFA World Cup? Instead of predicting a final winner, we've picked every single result to show HOW our predicted winner will do it.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48962628/world-cup-predictions-picking-winner-every-game-entire-tournament",
-      "publishedAt": "2026-06-06T08:30:16.000Z",
+      "id": "37e86fa74fea87",
+      "title": "Zohran Mamdani plays the Guardian's Bracketology to predict World Cup winner – video",
+      "summary": "The New York City mayor, Zohran Mamdani , briefly stepped away from City Hall to tackle the ultimate soccer challenge: predicting the entire World Cup bracket In the Gu...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
+      "publishedAt": "2026-06-06T11:03:53.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "italy",
       "tags": [
+        "Football",
+        "Soccer",
         "World Cup",
-        "Fifa"
+        "Inter"
       ]
     },
     {
-      "id": "9f49cb626ce5fd",
-      "title": "Simulating the World Cup: Who did EA Sports pick t...",
-      "summary": "EA Sports has correctly predicted the winners for the past four World Cups. And where did the USMNT finish?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48965907/simulating-world-cup-did-ea-predict-winners-how-did-usmnt-get-on",
-      "publishedAt": "2026-06-06T08:30:16.000Z",
+      "id": "1be6f8261f9a07",
+      "title": "Lightning halts pre-World Cup friendly in Texas for two hours",
+      "summary": "Saudi Arabia's World Cup warm-up game against Puerto Rico in Texas is halted for nearly two hours because of extreme weather.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz3p6vjd1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-06T10:56:09.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "3b6bc02997856b",
+      "title": "Andoni Iraola identifies the first Liverpool player he will ‘try to improve’ – ‘help him’",
+      "summary": "New Liverpool head coach Andoni Iraola has namechecked a current Anfield star he is looking forward to working with.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/andoni-iraola-milos-kerkez-liverpool-bournemouth",
+      "publishedAt": "2026-06-06T10:06:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e5b1a89cba318e",
+      "title": "Man Utd ‘favourites’ to sign Man City target and ‘ready’ to offer £80m for ‘next’ midfield signing",
+      "summary": "According to reports, Manchester United want Newcastle United star Sandro Tonali to be their ‘next’ midfield signing and they are ‘ready’ to offer around £80m.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-favourites-sign-man-city-target-ready-offer-80m-next-midfield-signing",
+      "publishedAt": "2026-06-06T09:56:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "aedf4f6aec7023",
+      "title": "Iran slams US ‘discriminatory treatment’ over World Cup visa refusals",
+      "summary": "Backroom staff denied entry visas for US, claims post on X Team have moved training base from Arizona to Mexico Iran has slammed World Cup co-hosts the United States ov...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-visas-united-states",
+      "publishedAt": "2026-06-06T09:52:29.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4c9d2ba55250b2",
+      "title": "£50m Italian star ‘interested in a move to Liverpool’ – report",
+      "summary": "An Atalanta and Italy international player wants to join Liverpool and play under head coach Andoni Iraola at Anfield, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/marco-palestra-wants-to-join-liverpool-from-atalanta",
+      "publishedAt": "2026-06-06T09:25:31.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bd5a013e853ac6",
+      "title": "Relentless rise of VAR, new red card offences and more: those new World Cup rules in full",
+      "summary": "2026 tournament will be the biggest, longest and most expensive – and the most intricately refereed – ever seen The 2026 World Cup will be the biggest, longest and most...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/06/relentless-rise-of-var-new-red-card-offences-and-more-those-new-world-cup-rules-in-full",
+      "publishedAt": "2026-06-06T09:00:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "75c36cd14c7522",
+      "title": "Liverpool ‘weird bunch’ hypocrites after Salah ‘sabotage’ as football can be fixed with seven changes",
+      "summary": "The Liverpool ‘weird bunch’ have had their hypocrisy called out after the contrasting treatment of Trent Alexander-Arnold and Mohamed Salah.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mailbox-liverpool-weird-bunch-hypocrites-salah-sabotage-football-fixed-seven-changes",
+      "publishedAt": "2026-06-06T08:45:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5c6fad7a977ad2",
+      "title": "Fifa backtracks on plastic water bottles ban at World Cup after fury from fans",
+      "summary": "Fans will now be allowed one sealed bottle at matches Keir Starmer among critics of previous U-turn on policy Fifa has again amended its water bottle policy for the Wor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban",
+      "publishedAt": "2026-06-06T08:33:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -313,6 +416,19 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "5aa99dbf0e77d7",
+      "title": "Watch: When Hagi's Romania thrashed Wales",
+      "summary": "Wales travel to Bucharest to face Romania on Saturday for the first time since their World Cup qualifying defeat in 1992.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cedp32xzxx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-06T07:45:14.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -478,113 +594,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "f40328a163dc6c",
-      "title": "Alvarez, Osimhen, Kroupi: Arsenal, Chelsea targets in ranking of top 10 available strikers",
-      "summary": "Barcelona-bound Julian Alvarez tops our ranking of the 10 best available strikers, ahead of Junior Kroupi and Victor Osimhen.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-chelsea-transfer-targets-10-best-available-strikers-ranking",
-      "publishedAt": "2026-06-06T05:57:24.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "ac4a09c1009047",
-      "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
-      "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T05:21:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8346cb05617023",
-      "title": "'The things that forge them are similar' - the origins of Messi & Ronaldo",
-      "summary": "Both from humble beginnings, BBC Sport looks at how Lionel Messi and Cristiano Ronaldo became two of the greatest footballers of all time.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c9363yer2deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T05:10:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1c5dd7fecfd478",
-      "title": "FIFA reverses WC water bottle ban after backlash",
-      "summary": "FIFA has reversed its decision to bar World Cup fans from bringing refillable water bottles into the tournament's 16 stadiums across North America, following fierce bac...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
-      "publishedAt": "2026-06-06T04:51:01.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "9425bcb8626000",
-      "title": "Messi 'doing well', could play World Cup warmups",
-      "summary": "Argentina coach Lionel Scaloni said Lionel Messi is improving from muscle fatigue in his left hamstring and could play some minutes in the warmups before his team's Wor...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48979047/scaloni-messi-doing-well-set-minutes-world-cup-warmups",
-      "publishedAt": "2026-06-06T04:51:01.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "dc8a18a38c969b",
-      "title": "SoFi workers authorize strike days before WCup",
-      "summary": "Service workers at SoFi Stadium have voted to authorize a potential strike just days before the venue is scheduled to host the United States opening World Cup match aga...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/espn/story/_/id/48980083/sofi-stadium-workers-authorize-strike-ahead-usa-world-cup-opener",
-      "publishedAt": "2026-06-06T04:51:01.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c24b184ff380f1",
-      "title": "Iran players receive U.S. visas for World Cup",
-      "summary": "A U.S. official confirmed to ABC News on Friday that the players on Iran's World Cup team have received visas that will allow them to enter and compete in the United St...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48977850/iran-players-receive-us-visas-2026-world-cup",
-      "publishedAt": "2026-06-06T04:51:01.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ba6477891ca030",
-      "title": "Madrid candidate Riquelme targets Klopp if elected...",
-      "summary": "Real Madrid presidential candidate Enrique Riquelme said in a statement that his chosen sporting director will reach out to Jürgen Klopp to offer him the coaching posit...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48978746/madrid-candidate-riquelme-pledges-pursue-jurgen-klopp-elected",
-      "publishedAt": "2026-06-06T04:51:01.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
       ]
     }
   ],
