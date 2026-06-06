@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-05T20:01:08.469Z",
+  "generatedAt": "2026-06-06T03:56:15.046Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,105 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "1c5dd7fecfd478",
+      "title": "FIFA reverses WC water bottle ban after backlash",
+      "summary": "FIFA has reversed its decision to bar World Cup fans from bringing refillable water bottles into the tournament's 16 stadiums across North America, following fierce bac...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9425bcb8626000",
+      "title": "Messi 'doing well', could play World Cup warmups",
+      "summary": "Argentina coach Lionel Scaloni said Lionel Messi is improving from muscle fatigue in his left hamstring and could play some minutes in the warmups before his team's Wor...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48979047/scaloni-messi-doing-well-set-minutes-world-cup-warmups",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "dc8a18a38c969b",
+      "title": "SoFi workers authorize strike days before WCup",
+      "summary": "Service workers at SoFi Stadium have voted to authorize a potential strike just days before the venue is scheduled to host the United States opening World Cup match aga...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/story/_/id/48980083/sofi-stadium-workers-authorize-strike-ahead-usa-world-cup-opener",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c24b184ff380f1",
+      "title": "Iran players receive U.S. visas for World Cup",
+      "summary": "A U.S. official confirmed to ABC News on Friday that the players on Iran's World Cup team have received visas that will allow them to enter and compete in the United St...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48977850/iran-players-receive-us-visas-2026-world-cup",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ba6477891ca030",
+      "title": "Madrid candidate Riquelme targets Klopp if elected...",
+      "summary": "Real Madrid presidential candidate Enrique Riquelme said in a statement that his chosen sporting director will reach out to Jürgen Klopp to offer him the coaching posit...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48978746/madrid-candidate-riquelme-pledges-pursue-jurgen-klopp-elected",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f7b1b3f74e9c9f",
+      "title": "Germany's Karl out of WC after training injury",
+      "summary": "Germany's 18-year-old midfielder Lennart Karl will miss the World Cup after suffering an injury in training on Friday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48977173/lennart-karl-injured-germany-training-miss-world-cup",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2d3d26b033e4d4",
+      "title": "📈 Ranking all 48 World Cup squads",
+      "summary": "We have the final 26-player squads that can win the FIFA World Cup, so let's go through all 48 teams and rank where they stand.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48941820/world-cup-final-squads-ranked-all-48-national-teams-win-summer",
+      "publishedAt": "2026-06-06T04:51:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
       "id": "955623871cb686",
       "title": "Crystal Palace latest: AC Milan considering Glasner move",
       "summary": "Crystal Palace latest: AC Milan considering Glasner move",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-06-05T20:01:08.224Z",
+      "publishedAt": "2026-06-06T03:56:14.652Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -112,16 +205,246 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d36cc730f70f42",
-      "title": "Spain v England: Women’s World Cup 2027 qualifying – live",
-      "summary": "⚽️ Crucial qualifier kicks off at 8pm BST in Mallorca ⚽️ Tom Garry’s preview | Sign up for Moving the Goalposts On the ground: What an atmosphere inside this stadium, w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/05/spain-v-england-womens-world-cup-2027-qualifying-live",
-      "publishedAt": "2026-06-05T19:48:42.000Z",
+      "id": "42eba482489f25",
+      "title": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
+      "summary": "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in the United States - and there was a lot to cover.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
+      "publishedAt": "2026-06-06T03:56:14.651Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f3ee28133a604d",
+      "title": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
+      "summary": "Real Madrid presidential candidate Enrique Riquelme has released a statement confirming that Jurgen Klopp will be his choice for the manager's job at the Bernabeu if he...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
+      "publishedAt": "2026-06-06T03:56:14.651Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "4e7a1a10468ee8",
+      "title": "Papers: Slot turns down Fulham job offer",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13551289/arne-slot-sacked-liverpool-boss-turns-down-immediate-premier-league-return-offer-by-fulham-paper-talk",
+      "publishedAt": "2026-06-06T03:56:14.650Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ac98cf12e9c2a3",
+      "title": "How the USMNT went from embarrassment in Italy to ...",
+      "summary": "A World Cup on home soil looms. The last time America hosted, things were very different.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48893158/how-usmnt-went-italia-90-embarrassment-world-cup-force-1994",
+      "publishedAt": "2026-06-06T03:30:38.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7e48ff8672157c",
+      "title": "Steve Clarke warns Scotland not to underestimate Haiti after New Zealand rout",
+      "summary": "Scotland face Haiti in Boston next Saturday Haiti beat New Zealand 4-0 in Florida friendly Napoli’s Billy Gilmour ruled out of World Cup Steve Clarke believes Haiti’s r...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/steve-clarke-scotland-haiti-world-cup-new-zealand",
+      "publishedAt": "2026-06-05T23:26:50.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
         "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "941cde7a2ba48d",
+      "title": "Fifa clarifies water bottle stadium rule",
+      "summary": "Fifa says fans will be able to bring sealed disposable water bottles into World Cup stadiums following criticism over a decision to ban reusable bottles.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c79490e8g37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T23:10:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "04e4a6cf3224ee",
+      "title": "How England can still qualify for the Women's World Cup",
+      "summary": "England, Wales, Scotland and Northern Ireland are all vying for places at the Women's World Cup - but how can they get there with one round of group games left in Europ...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c1k2k18r4ymo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T23:07:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9163b870b7c7d6",
+      "title": "Germany forward Karl ruled out of World Cup",
+      "summary": "Germany forward Lennart Karl is ruled out of the 2026 World Cup with a thigh injury.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cz020zdklmmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T23:04:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "29b479eaa99a79",
+      "title": "Spain World Cup 2026 team guide",
+      "summary": "Ranked only behind France and having a teenage prodigy in Lamine Yamal alongside an in-form Nico Williams, we can expect much from La Roja This article is part of the G...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/06/spain-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-05T23:01:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b460aab9535d16",
+      "title": "Advantage Scotland as they await Cuthbert injury news",
+      "summary": "Scotland stay top of their World Cup qualifying group on goal difference from Belgium amid fears of a serious injury to key midfielder Erin Cuthbert.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c3929el74pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T22:00:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8c0ca33b573ccd",
+      "title": "Why the USWNT might be better off losing to Brazil...",
+      "summary": "The best way for the USWNT to win the World Cup next summer? It just might be to go to Brazil and lose this week.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48946471/why-uswnt-better-losing-world-cup-hosts-brazil-friendlies",
+      "publishedAt": "2026-06-05T21:50:53.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5440bd2f3fd2d6",
+      "title": "Football Daily",
+      "summary": "Katie Smith is joined by Fran Kirby & Vicki Sparks reacting to England's defeat in Spain.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nqfjsp?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T21:45:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5a64e452518ac0",
+      "title": "Watch: Weir hat-trick as Scotland thump Israel",
+      "summary": "Watch as Scotland thump Israel 6-0 in World Cup qualifying Group B4, with captain Caroline Weir scoring a hat-trick.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/videos/c74d4gw755go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T21:35:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ab673b4fd0e27e",
+      "title": "Will transfers be a distraction for England at World Cup?",
+      "summary": "England's World Cup campaign is also in the middle of a busy summer transfer window, but how much of a distraction is it?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/crlpglx66z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T21:25:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "b0cdbb860469dc",
+      "title": "Putellas doubles up to lead Spain rout and leave England staring at playoffs",
+      "summary": "Spain 4-0 England Guijarro 19, Putellas 37 55, Pina 78 Only a minor miracle will save European champions England from having to come through World Cup qualifying playof...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/spain-england-world-cup-qualifying-match-report",
+      "publishedAt": "2026-06-05T21:07:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0bf8f2ef7e11a4",
+      "title": "Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup",
+      "summary": "Head coach says Bayern Munich striker is in ‘top shape’ England face New Zealand in warm-up on Saturday Thomas Tuchel has said that Harry Kane is in top shape and ready...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/05/tuchel-confident-sharp-kane-is-in-perfect-form-to-lead-england-at-world-cup",
+      "publishedAt": "2026-06-05T20:53:05.000Z",
+      "category": "worldcup",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "8c4906579d4b58",
+      "title": "Real Madrid plan Olise bid - Saturday's gossip",
+      "summary": "Real Madrid are lining up a £130m move for Bayern Munich winger Michael Olise, Arne Slot turns down Fulham after being sacked by Liverpool, Newcastle United are close t...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c87q758zgl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-05T20:48:36.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Liverpool",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "3b5623539c2b97",
+      "title": "Can South America maintain its 100% record at Nort...",
+      "summary": "South American teams have won every single World Cup hosted in North America, but can one of the six teams continue that trend this summer?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48951119/can-south-america-maintain-100-record-north-american-world-cups",
+      "publishedAt": "2026-06-05T20:38:31.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
         "World Cup"
       ]
     },
@@ -195,20 +518,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "aedf4f6aec7023",
-      "title": "Iran’s World Cup players receive visas to enter US, White House official says",
-      "summary": "Mexican ambassador had said squad were still waiting Team have moved training base from Arizona to Mexico Iran’s World Cup players have been granted visas to enter the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-visas-united-states",
-      "publishedAt": "2026-06-05T18:13:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "026bae1a55f6e1",
       "title": "Bayern Munich interested in Liverpool winger Ngumoha",
       "summary": "Bayern Munich are interested in signing Liverpool's 17-year-old winger Rio Ngumoha.",
@@ -221,6 +530,20 @@ window.FOOTBALLDAY_DATA = {
         "Liverpool",
         "Bayern",
         "Inter"
+      ]
+    },
+    {
+      "id": "78b2d4a501a99d",
+      "title": "Predicting every game of the entire World Cup: All the teams and all the winners",
+      "summary": "Who will win the FIFA World Cup? Instead of predicting a final winner, we've picked every single result to show HOW our predicted winner will do it.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48962628/world-cup-predictions-picking-winner-every-game-entire-tournament",
+      "publishedAt": "2026-06-05T17:55:24.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -252,351 +575,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a0267e26a8bc95",
-      "title": "Liverpool: Ornstein reveals Bayern Munich ‘surprise move’ to sign Reds star after ‘full verbal agreement’",
-      "summary": "According to reports, Bayern Munich have made a ‘surprise move’ for Liverpool star Rio Ngumoha and even reached an ‘agreement’ last week.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-ornstein-reveals-bayern-munich-surprise-move-sign-reds-star-agreement",
-      "publishedAt": "2026-06-05T16:24:31.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "6e086a062c4529",
-      "title": "French Open finals, Monaco GP and World Cup warm-ups for England and Scotland – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/jun/05/french-open-finals-monaco-gp-and-world-cup-warm-ups-for-england-and-scotland-follow-with-us",
-      "publishedAt": "2026-06-05T16:20:27.000Z",
+      "id": "1cc9f02503a5a6",
+      "title": "2026 World Cup betting preview: One bet to make on...",
+      "summary": "So many teams, so many games. Looking to place some bets? Here's one to make on every team in the 2026 World Cup tournament.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48807078/fifa-world-cup-betting-preview-best-bets-picks-odds-props-futures-2026",
+      "publishedAt": "2026-06-05T16:55:53.000Z",
       "category": "worldcup",
-      "region": "france",
+      "region": "global",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "ec93b1ffb5be74",
-      "title": "Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
-      "summary": "Pochettino ‘not happy’ with Palace’s injury assessment Richards missed Conference League final Predict your World Cup bracket | Complete player guide Chris Richards wil...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup",
-      "publishedAt": "2026-06-05T16:17:01.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6752c4ae904186",
-      "title": "Fifa expanding AI use at World Cup to reduce amount of abuse seen by players",
-      "summary": "Social media protection service offered by Fifa English FA yet to confirm whether it will use service Fifa will expand the use of AI at the World Cup to reduce the amou...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
-      "publishedAt": "2026-06-05T16:00:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "2bf2a8eb0d84ad",
-      "title": "Why is Fifa giving clubs $355m during the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team explains why clubs are being given a share of $355m by Fifa for having players involved in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c893ndl18y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T15:54:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "4ed1a1458ff8ad",
-      "title": "More than the Score",
-      "summary": "Messi, Ronaldo, Mbappé and Yamal prepare to compete at the biggest men's World Cup ever",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nqchfc?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T15:35:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0d6fe331847e97",
-      "title": "How thunderstorms and lightning could impact games at World Cup",
-      "summary": "With several host cities in peak thunderstorm season there is a high chance that some World Cup games could be disrupted. Here is how and why.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T15:33:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d6356482868c5f",
-      "title": "Marquinhos labels Arsenal star ‘best in the world’ ahead of World Cup",
-      "summary": "The PSG star revealed his conversation with Brazil teammate Gabriel, immediately after his side beat Arsenal on penalties in the Champions League final.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/marquinhos-labels-arsenal-star-gabriel-worlds-best-centre-back",
-      "publishedAt": "2026-06-05T15:25:53.000Z",
-      "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Champions League",
-        "World Cup",
-        "Arsenal",
-        "Psg"
-      ]
-    },
-    {
-      "id": "b9693bec90c3fb",
-      "title": "Europe's youngest manager on Arteta and leaving Arsenal for Parma",
-      "summary": "Carlos Cuesta discusses his time as assistant manager at Arsenal and becoming Europe's youngest manager at Parma.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/crepedgppq5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T15:13:58.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a9e71fd1c849a5",
-      "title": "Saudi Arabia World Cup 2026 team guide",
-      "summary": "A pre-tournament change of manager has complicated planning but, with the pressure off to an extent, Saudi talent has a chance to prove itself This article is part of t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/saudi-arabia-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-05T15:00:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7c34ffc88ea838",
-      "title": "Fifa asks fans mistakenly issued free World Cup tickets to re-buy at full price",
-      "summary": "Governing body ‘regrets’ website error that caused glitch Ticketing process being investigated by attorneys general Fifa has canceled World Cup tickets issued to about...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/fifa-free-world-cup-tickets-fans",
-      "publishedAt": "2026-06-05T14:48:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "0d9605ac930b52",
-      "title": "In Iran the World Cup used to trigger joy on our streets. It feels very different now",
-      "summary": "A growing divide between fans and team, coupled with economic hardship and war, has dampened the mood Abbas Kiarostami, the late Iranian director, made a film called Li...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-mood-streets",
-      "publishedAt": "2026-06-05T14:45:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0a72148e611eb3",
-      "title": "Man Utd takeover: Sheikh Jassim reaches decision on ‘making offer’ as Glazers hold ‘internal talks’",
-      "summary": "According to reports, Qatari businessman Sheikh Jassim has reached a decision on whether to make a fresh bid to buy Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-takeover-sheikh-jassim-reaches-decision-offer-glazers-internal-talks",
-      "publishedAt": "2026-06-05T14:35:50.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f4206e409bc558",
-      "title": "Who are the World Cup's record holders?",
-      "summary": "BBC Sport's Ask Me Anything team looks at the record holders in World Cup history ahead of the 2026 tournament",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx217277w8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T14:20:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9ba9147e36b5d7",
-      "title": "Mourinho could ruin ‘next summer signing’ at Man Utd after Ederson with Real Madrid bid",
-      "summary": "Incoming Real Madrid boss Jose Mourinho is looking to hijack a Man Utd transfer as he targets Mateus Fernandes, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mourinho-could-ruin-next-summer-signing-at-man-utd-after-ederson-with-real-madrid-bid",
-      "publishedAt": "2026-06-05T14:10:49.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "aca88e7b4ab9f6",
-      "title": "Will Marcus Rashford or Gabriel Martinelli join Harry Kane at Bayern Munich?",
-      "summary": "Bayern Munich could encounter a ‘little problem’ in contract talks with Harry Kane as they consider moves for Marcus Rashford or Gabriel Martinelli.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bayern-problem-kane-contract-rashford-martinelli-moves",
-      "publishedAt": "2026-06-05T14:02:35.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "b4bbe4837b2564",
-      "title": "Football Daily",
-      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball answer questions ahead of the FIFA World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0np2n6t?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T14:01:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "fa97277a87e850",
-      "title": "The story of Norway's Viking World Cup photoshoot",
-      "summary": "Renowned British photographer David Yarrow tells BBC Sport what inspired his viral Norway World Cup send-off photo.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T13:52:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cf9bb66152cc92",
-      "title": "Tottenham ‘plan’ stunning Liverpool transfer for fifth signing after exit request",
-      "summary": "Tottenham are reportedly preparing a summer offer to land Liverpool winger Cody Gakpo after the Netherlands international requested an exit.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-gakpo-liverpool-fifth-signing-exit-request",
-      "publishedAt": "2026-06-05T13:28:14.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bb116e130be14e",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T13:08:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d6b489c7e2e670",
-      "title": "Liverpool ‘consider £40m bid’ for ‘first Iraola signing’ with deal hinging on two conditions – report",
-      "summary": "According to reports, Liverpool are ‘considering a £40m bid’ to land Bournemouth star Alex Scott as Andoni Iraola’s ‘first summer signing’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-consider-40m-bid-first-iraola-signing",
-      "publishedAt": "2026-06-05T13:08:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6d6896554e2442",
-      "title": "Real Madrid: Perez’s €150m signing revealed as one of the four players he insisted it wasn’t",
-      "summary": "Real Madrid president Florentino Perez’s mystery €150m signing has been revealed and his lies exposed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-perez-150m-signing-revealed",
-      "publishedAt": "2026-06-05T13:04:04.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "4e836b1e2b3bdd",
-      "title": "England to use palm-cooling devices at World Cup",
-      "summary": "Midfielder Jordan Henderson praises the \"top level research\" on \"cool down and recovery\" by the \"team behind the team\" as England continue to prepare for the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cj0p0e90z9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T12:54:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6da31a811e0017",
-      "title": "Tottenham sign Robertson after Liverpool exit",
-      "summary": "Tottenham complete the signing of Scotland captain Andy Robertson as he leaves Liverpool at the end of his contract.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T12:52:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "aaf5c2ddbf0d55",
-      "title": "Real Madrid to launch €150m bid for Michael Olise if Florentino Pérez re-elected",
-      "summary": "Bayern midfielder to be No 1 target in summer window Olise was watched by potential new manager Mourinho Real Madrid will launch a €150m (£130m) bid for Bayern Munich’s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/05/real-madrid-to-launch-150m-bid-for-michael-olise-if-florentino-perez-re-elected",
-      "publishedAt": "2026-06-05T12:38:10.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
-      "tags": [
-        "Football",
-        "Manchester",
-        "Real Madrid",
-        "Bayern"
       ]
     }
   ],
