@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-07T09:22:03.724Z",
+  "generatedAt": "2026-06-07T14:04:02.532Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,39 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "ebb55013b1deed",
-      "title": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
-      "summary": "Cheavon Clarke recovered from being knocked down twice to deliver a sensational seventh-round stoppage of Jack Massey in a dramatic cruiserweight clash in Bournemouth.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
-      "publishedAt": "2026-06-07T09:22:03.440Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7dcd6a8a5ba216",
-      "title": "Papers: Gibbs-White on Arsenal shortlist as Rogers alternative",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551535/morgan-gibbs-white-nottingham-forest-forward-on-arsenal-shortlist-as-alternative-to-morgan-rogers-paper-talk",
-      "publishedAt": "2026-06-07T09:22:03.440Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
       "id": "26232bd11d57c6",
       "title": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
       "summary": "Thomas Tuchel was frustrated by England's \"freestyle\" first-half display against New Zealand as World Cup preparations stepped up with a scrappy 1-0 win in sweltering F...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
-      "publishedAt": "2026-06-07T09:22:03.439Z",
+      "publishedAt": "2026-06-07T14:04:02.231Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -144,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Che Adams scored twice as a dominant Scotland thrashed Bolivia 4-0 in New Jersey in their final friendly before getting their World Cup campaign under way next week.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
-      "publishedAt": "2026-06-07T09:22:03.439Z",
+      "publishedAt": "2026-06-07T14:04:02.231Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -157,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Harry Kane's header gave England a 1-0 win over New Zealand in their first World Cup warm-up game in Tampa, Florida.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
-      "publishedAt": "2026-06-07T09:22:03.439Z",
+      "publishedAt": "2026-06-07T14:04:02.231Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -165,16 +138,216 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "fe0a2b830f6410",
-      "title": "Clarke hails 'fantastic problems' with starting choices",
-      "summary": "Steve Clarke says he has \"fantastic problems\" in terms of selection after Scotland concluded their World Cup warm-up matches with an emphatic win over Bolivia.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551549/scotland-steve-clarke-has-fantastic-problems-in-terms-of-selection-ahead-of-world-cup-opener",
-      "publishedAt": "2026-06-07T09:22:03.439Z",
+      "id": "c503ebebdacff6",
+      "title": "Iran's World Cup team lands in Mexico amid US visa row",
+      "summary": "All of Iran's group games are in the US, but players and support staff will have to fly in and out of the country on match day.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T13:24:50.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "1951d36c9962b2",
+      "title": "How Scotland reached the World Cup - told by those who made it happen",
+      "summary": "Tom English speaks to those who returned Scotland to the men's World Cup finals for the first time since 1998 about the epic win over Denmark.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckgl75x45z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T13:09:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "74f7c05a9cbcde",
+      "title": "Merson tips Arsenal to sell £82m Arteta starter: ‘There’ll be teams queuing round the block’",
+      "summary": "Paul Merson reckons Arsenal will look to sell Martin Odegaard in the summer transfer window with the Norwegian likely to be in demand.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-merson-odegaard-transfer-arteta-sell",
+      "publishedAt": "2026-06-07T12:46:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0207ba73a77f2d",
+      "title": "Man Utd told to sign PSG ‘warrior’ who’s had a ‘strange season’ after first ‘official’ signing",
+      "summary": "Former France and Chelsea star Frank Leboeuf has urged Man Utd to sign Warren Zaire-Emery from Paris Saint-Germain over the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-sign-warrior-zaire-emery-strange-season-psg",
+      "publishedAt": "2026-06-07T12:00:48.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Chelsea",
+        "Psg"
+      ]
+    },
+    {
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "The summer transfer window is yet to officially open but that hasn’t stopped some big clubs from spending big money…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-06-07T12:00:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "7a106a4eaf4a33",
+      "title": "Argentina boss Scaloni hints at Messi comeback; Pochettino ‘happy’ with USMNT in Germany loss",
+      "summary": "Lionel Scaloni has raised hopes that Lionel Messi could feature in Argentina’s upcoming World Cup warm-up friendlies.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/argentina-world-cup-scaloni-messi-comeback-pochettino-happy-usa-germany",
+      "publishedAt": "2026-06-07T11:13:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-06-07T11:10:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "b9315af9bf6f15",
+      "title": "NZ boss tells England they ‘need to be better’ as Tuchel reacts to World Cup warm-up win",
+      "summary": "Harry Kane’s clinical first-half header proved enough to give England a 1-0 World Cup warm-up victory over New Zealand in Tampa on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-tuchel-new-zealand-world-cup-warm-up-reaction",
+      "publishedAt": "2026-06-07T11:01:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "87808f83722fab",
+      "title": "Every World Cup warm-up friendly fixture, result and how to watch on TV…",
+      "summary": "The 48 nations competing at the World Cup are stepping up their preparations, with every warm-up friendly fixture and result listed here…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-2026-warm-up-friendly-fixtures-results-kick-off-times-what-tv-channel",
+      "publishedAt": "2026-06-07T10:45:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "02eb515ce62e2c",
+      "title": "2026 World Cup: final confirmed squad lists and squad numbers for all 48 nations",
+      "summary": "The 2026 World Cup is almost here, and the deadline for each country to name the 26-man squads they will take to North America has now arrived.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-squads-full-48-teams-every-player",
+      "publishedAt": "2026-06-07T10:22:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "da29713449b769",
+      "title": "Ticket pain and Trump anger, but still room for ‘magic’: how readers feel about the World Cup",
+      "summary": "With this summer’s tournament nearly upon us, Guardian readers share their mixed emotions - unease and apathy, but also excitement and optimism World Cup newsletter | D...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/07/world-cup-emotions-tickets-trump-magic",
+      "publishedAt": "2026-06-07T10:00:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "34766d3a2e42ba",
+      "title": "Pre-World Cup friendlies - Messi rested & Leao sent off",
+      "summary": "Argentina great Lionel Messi is rested against Honduras, while Brazil, Germany, Belgium and Portugal each win warm-up games prior to the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cx24nglm5zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T09:49:42.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f29a0d66053ceb",
+      "title": "France's Camavinga attends Harvard after World Cup omission",
+      "summary": "France midfielder Eduardo Camavinga takes a Harvard Business School course after missing out on Didier Deschamps' World Cup squad.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cgk6y208pm2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T09:49:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1c9840d5ce9112",
+      "title": "Man Utd set for £52m transfer windfall as club make £104m ‘offer’ for Greenwood",
+      "summary": "Man Utd are set for a huge windfall from a potential huge Mason Greenwood deal after a club reportedly made a €120m (£104m) offer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-huge-windfall-greenwood-al-hilal-offer",
+      "publishedAt": "2026-06-07T09:40:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ed942cc2be3521",
+      "title": "Football Daily",
+      "summary": "Three fans reflect on being at USA '94 and the limited fanfare it received.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0npnn49?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T09:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "8273dfc9f91fcb",
+      "title": "Belief but work to do - Wales' two years under Bellamy",
+      "summary": "BBC Sport Wales looks at Craig Bellamy's time in charge of Wales as he reaches the midway stage of his four-year deal with the Football Association of Wales.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c62r235ygg1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T08:57:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -329,21 +502,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6a2b857b683278",
-      "title": "‘We looked quite good for 20 minutes’: Tony Popovic content after Socceroos draw with Switzerland",
-      "summary": "Australia coach praises competitiveness in final friendly Irankunda and Metcalfe impress ahead of World Cup opener Socceroos coach Tony Popovic is keeping his cards clo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/07/we-looked-quite-good-for-20-minutes-tony-popovic-content-after-socceroos-draw-with-switzerland",
-      "publishedAt": "2026-06-07T00:17:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
       "id": "a6b9acee890c85",
       "title": "Football Daily",
       "summary": "England and Scotland acclimatise to conditions in the US ahead of the World Cup.",
@@ -424,171 +582,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "World Cup",
         "Inter"
-      ]
-    },
-    {
-      "id": "34a4316aea6213",
-      "title": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
-      "summary": "Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link England may as well pack their bags and go home if Harry...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
-      "publishedAt": "2026-06-06T22:53:35.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "87808f83722fab",
-      "title": "Every World Cup warm-up friendly fixture, result and how to watch on TV…",
-      "summary": "The 48 nations competing at the World Cup are stepping up their preparations, with every warm-up friendly fixture and result listed here…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-2026-warm-up-friendly-fixtures-results-kick-off-times-what-tv-channel",
-      "publishedAt": "2026-06-06T22:45:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "23de6a220fff23",
-      "title": "Iran says staff blocked from entering US after players given World Cup visas",
-      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T22:38:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5b105b42c47341",
-      "title": "England toil in Tampa as Tuchel, players and fans go through the motions",
-      "summary": "The real interest came from the sweltering aesthetics in Tampa Bay as England failed to impress.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-new-zealand-world-cup-friendly-match-reaction",
-      "publishedAt": "2026-06-06T22:35:21.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac4a09c1009047",
-      "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
-      "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T22:30:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b1f239e5eab57d",
-      "title": "England ratings: Rashford, Bellingham edging Tuchel’s toughest choices",
-      "summary": "Marcus Rashford in the first half and Jude Bellingham in the second boosted their hopes of starting England’s World Cup opener…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-player-ratings-1-0-new-zealand-kane-rashford-gordon-bellingham-rogers",
-      "publishedAt": "2026-06-06T22:27:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d1e2d4987a4a16",
-      "title": "PSG could rival Arsenal for Gibbs-White - Sunday's gossip",
-      "summary": "Arsenal could face competition from Paris St-Germain for Morgan Gibbs-White, Khvicha Kvaratskhelia is the mystery player wanted by Real Madrid, and new Real coach Jose...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz3wy5d25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T21:43:30.000Z",
-      "category": "league",
-      "region": "england spain france",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Psg"
-      ]
-    },
-    {
-      "id": "678df6ac3f8c31",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T20:30:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3606a29c684dc9",
-      "title": "‘Let’s go with the heart’: Zohran Mamdani thinks this African team will win the World Cup",
-      "summary": "The New York City mayor sat down with the Guardian and, using our World Cup Bracketology game , made a historic prediction for this summer • World Cup newsletter | Dail...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/06/zohran-mamdani-world-cup-prediction-bracketology",
-      "publishedAt": "2026-06-06T19:31:47.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4542cfeaf6d1d3",
-      "title": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
-      "summary": "After living in the Argentina idol’s shadow, the 39-year-old star of Qatar is still capable of a final glorious chapter Lionel Messi in Qatar felt like the perfect stor...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
-      "publishedAt": "2026-06-06T19:00:12.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "18737787058305",
-      "title": "Gemmill beats McTominay in vote for your most iconic Scotland goal",
-      "summary": "The votes are in and the contest is now over - you have decided that Archie Gemmill's solo effort against the Netherlands at the 1978 World Cup is Scotland's Most Iconi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T18:29:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eacd71f5760997",
-      "title": "Tottenham to ‘launch’ club-record £73.5m bid for Liverpool star who ‘wishes to leave’ – report",
-      "summary": "Tottenham are ready to make a wantaway Liverpool star the most expensive signing in their history.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-launch-club-record-73-5m-bid-liverpool-cody-gakpo-report",
-      "publishedAt": "2026-06-06T18:18:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     }
   ],
