@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:04:02.532Z",
+  "generatedAt": "2026-06-07T19:39:37.469Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@
       "pinned": true
     },
     {
-      "id": "26232bd11d57c6",
-      "title": "Tuchel frustrated by 'freestyling' as NZ boss says England 'need to be better'",
-      "summary": "Thomas Tuchel was frustrated by England's \"freestyle\" first-half display against New Zealand as World Cup preparations stepped up with a scrappy 1-0 win in sweltering F...",
+      "id": "9be611abdbe2ea",
+      "title": "Chacarra claims KLM Open to win second DP World Tour title",
+      "summary": "Highlights of day four from the KLM Open at The International, Amsterdam, Netherlands.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13551562/thomas-tuchel-frustrated-by-freestyling-england-in-world-cup-warm-up-as-new-zealand-boss-says-they-will-have-to-be-better",
-      "publishedAt": "2026-06-07T14:04:02.231Z",
+      "url": "https://www.skysports.com/watch/video/13551716/klm-open-day-four-highlights",
+      "publishedAt": "2026-06-07T19:39:37.026Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "407da278d60934",
+      "title": "Sciver-Brunt gives key fitness update at ICC Women's T20 World Cup launch",
+      "summary": "Nat Sciver-Brunt revealed she is set to return from injury and will play for England during their ICC Women's T20 World Cup warm-up match against Australia on Monday ni...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13551695/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-gives-key-fitness-update-as-cricket-takes-over-waterloo-bridge",
+      "publishedAt": "2026-06-07T19:39:37.026Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -112,12 +125,12 @@
       ]
     },
     {
-      "id": "0c09aaaf8649c7",
-      "title": "Scotland thrash Bolivia ahead of World Cup opener",
-      "summary": "Che Adams scored twice as a dominant Scotland thrashed Bolivia 4-0 in New Jersey in their final friendly before getting their World Cup campaign under way next week.",
+      "id": "d22b9ee00080b7",
+      "title": "Man Utd latest: Ederson called up to Brazil World Cup squad",
+      "summary": "Man Utd latest: Ederson called up to Brazil World Cup squad",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
-      "publishedAt": "2026-06-07T14:04:02.231Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-06-07T19:39:37.025Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -125,16 +138,255 @@
       ]
     },
     {
-      "id": "3f2575c0d4e57d",
-      "title": "England beat New Zealand in first World Cup warm-up game",
-      "summary": "Harry Kane's header gave England a 1-0 win over New Zealand in their first World Cup warm-up game in Tampa, Florida.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
-      "publishedAt": "2026-06-07T14:04:02.231Z",
+      "id": "f706e6025c74b2",
+      "title": "Denmark midfielder Christian Eriksen collapses on pitch during international friendly",
+      "summary": "Match against Ukraine abandoned after incident Danish FA say Eriksen ‘conscious’ after treatment Denmark’s former Manchester United and Tottenham midfielder Christian E...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/07/denmark-midfielder-christian-eriksen-collapses-on-pitch-during-international-friendly",
+      "publishedAt": "2026-06-07T19:14:47.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "64d8788b404dd2",
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T18:31:56.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ff84e680d1f26b",
+      "title": "Man Utd-bound Ederson replaces Wesley in Brazil squad",
+      "summary": "Brazil full-back Wesley is ruled out of the World Cup because of a thigh injury, with Manchester United-bound midfielder Ederson called up to replace him.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c0ey82g18xjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T18:13:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "eecd60251f4b48",
+      "title": "Liverpool: Sporting director confirms interest in wantaway midfielder – ‘We didn’t hide’",
+      "summary": "“We are paying attention to him,” Inter chief Piero Ausilio confirmed on Sunday amid reports linking the Liverpool midfielder to the Serie A giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-sporting-director-interest-26m-midfielder-didnt-hide",
+      "publishedAt": "2026-06-07T17:51:50.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Serie A",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e21bb0ad39c120",
+      "title": "O'Neill a 'no-brainer' for Celtic – now major rebuild awaits",
+      "summary": "With Martin O'Neill poised to be confirmed as Celtic manager after two interim spells last season, how big is the summer rebuild he is tasked with?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cp9lrl4en90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T17:19:18.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "07c2e607277adb",
+      "title": "Barcelona star reaches decision on joining Arsenal as Gunners ‘prepare £52m offer’",
+      "summary": "Barcelona star Dani Olmo has reached a decision on joining Arsenal this summer amid reports claiming the Gunners are ‘preparing a £52m offer’ for the playmaker.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-barcelona-decision-joining-gunners-52m-offer",
+      "publishedAt": "2026-06-07T17:07:37.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4ffb4e086560b0",
+      "title": "Scotland’s picture for World Cup opener clearer and brighter after Bolivia boost",
+      "summary": "Lawrence Shankland says there is a ‘club feel’ in the camp after eight goals in two confidence- building friendly wins Scotland arrived at Euro 2024 with more questions...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/07/scotland-world-cup-2026-lawrence-shankland-steve-clarke-bolivia-friendly",
+      "publishedAt": "2026-06-07T17:00:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3754b96698ba05",
+      "title": "‘It’s Bible time’: How religion became part of the USMNT’s World Cup identity",
+      "summary": "From Christian Pulisic to Weston McKennie, many of the team’s biggest stars have been open about their faith, creating a new dynamic for a home World Cup • World Cup ne...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/07/usmnt-religion-christian-pulisic-world-cup-2026",
+      "publishedAt": "2026-06-07T17:00:03.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "af138f478e0e08",
+      "title": "DR Congo friendly to be played behind closed doors",
+      "summary": "Democratic Republic of Congo's final World Cup warm-up game against Chile will take place behind closed doors amid concerns about the Ebola outbreak in the central Afri...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c30y35lq0dvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T16:55:52.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "94d25fe9d4c64d",
+      "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
+      "summary": "Lionel Messi is set for his sixth World Cup with Argentina. Guillem Balague looks at how the Argentine has evolved.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T16:55:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9f5881ea424566",
+      "title": "'Scotland optimism is through the roof now'",
+      "summary": "With less than a week until the 2026 World Cup kicks-off, we're live from New York.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nqmvlf?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T16:20:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "389f294a2787f1",
+      "title": "Keane hits out at ‘ridiculous’ Harry Kane antics Tuchel ‘doesn’t want’ at World Cup – ‘That is madness’",
+      "summary": "Roy Keane has hit out Harry Kane over his “ridiculous” decision in England’s 1-0 win over New Zealand that Thomas Tuchel “doesn’t want” him doing at the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/keane-ridiculous-harry-kane-tuchel-doesnt-want-world-cup-madness",
+      "publishedAt": "2026-06-07T16:19:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9beffd5dc57cc6",
+      "title": "‘We are upset’: Iran players hit out at US visa delay after World Cup arrival in Mexico",
+      "summary": "Team are based in Tijuana with all group games in US Iran FA labels visa issues ‘political interference in sport’ Iran’s World Cup 2026 squad landed in Mexico on Sunday...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/07/iran-players-us-visa-delays-world-cup-2026-mexico",
+      "publishedAt": "2026-06-07T15:55:48.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "431b38ae04e244",
+      "title": "Salah ‘would have 100% stayed’ at Liverpool if he had known Arne Slot was leaving",
+      "summary": "Mohamed Salah ‘would 100% have stayed’ at Liverpool if he had known Arne Slot was leaving the club – ‘There was no relationship’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/salah-would-have-100-stayed-at-liverpool-if-he-had-known-arne-slot-was-leaving",
+      "publishedAt": "2026-06-07T15:44:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "60386ec24b9eda",
+      "title": "Liverpool star ‘unhappy’ with Ngumoha stance; could be used in Diomande swap deal",
+      "summary": "Liverpool could use Cody Gakpo in a swap deal to sign RB Leipzig winger Yan Diomande in the summer transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-unhappy-gakpo-diomande-swap-ngumoha-stance",
+      "publishedAt": "2026-06-07T15:17:01.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "861bcf90892205",
+      "title": "Senegal World Cup 2026 team guide",
+      "summary": "A refreshed Lions of Teranga will aim to channel the smoothness of qualification rather than the chaotic aftermath of Afcon This article is part of the Guardian’s 2026...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/07/senegal-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-07T15:00:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a30e818e354c3f",
+      "title": "Anthony Gordon opens up on talks with Marcus Rashford on England duty after Barcelona transfer",
+      "summary": "Anthony Gordon has opened up on discussions with Marcus Rashford following his move to Barcelona, possibly at the expense of his England international teammate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/anthony-gordon-opens-up-on-talks-with-marcus-rashford-on-england-duty-after-barcelona-transfer",
+      "publishedAt": "2026-06-07T14:52:19.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Transfer",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bc996b5a4e8ba2",
+      "title": "Alonso urged to cash in on Chelsea star who ‘looks like a Championship player’ to Everton",
+      "summary": "Former Chelsea midfielder Andy Townsend reckons Xabi Alonso should look to move on Liam Delap in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-xabi-alonso-sell-delap-championship-player-townsend",
+      "publishedAt": "2026-06-07T14:05:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
       ]
     },
     {
@@ -271,21 +523,6 @@
       ]
     },
     {
-      "id": "da29713449b769",
-      "title": "Ticket pain and Trump anger, but still room for ‘magic’: how readers feel about the World Cup",
-      "summary": "With this summer’s tournament nearly upon us, Guardian readers share their mixed emotions - unease and apathy, but also excitement and optimism World Cup newsletter | D...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/07/world-cup-emotions-tickets-trump-magic",
-      "publishedAt": "2026-06-07T10:00:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
       "id": "34766d3a2e42ba",
       "title": "Pre-World Cup friendlies - Messi rested & Leao sent off",
       "summary": "Argentina great Lionel Messi is rested against Honduras, while Brazil, Germany, Belgium and Portugal each win warm-up games prior to the World Cup.",
@@ -348,240 +585,6 @@
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "78c25edce32aad",
-      "title": "Liverpool star threatens to quit as Romano confirms ‘deal on’ in double exit",
-      "summary": "Liverpool forward Federico Chiesa has revealed that he’s ready to leave Anfield if the club don’t provide him with regular football.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-chiesa-threatens-quit-romano-deal-on-jones-inter-milan",
-      "publishedAt": "2026-06-07T08:38:05.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "691fb705d5856d",
-      "title": "Arsenal put offer ‘on the table’ for free transfer as Berta eyes Rogers alternative",
-      "summary": "Arsenal have made an offer to sign Paris Saint-Germain defender Emmanuel Mbemba on a free transfer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-offer-table-free-transfer-mbemba-rogers-gibbs-white",
-      "publishedAt": "2026-06-07T07:48:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "4c581adbaac0d8",
-      "title": "Shankland, Gunn and a midfield conundrum - Clarke's big decisions",
-      "summary": "Scotland head coach Steve Clarke has \"some decisions to make\" when it comes to his starting XI for their World Cup opener against Haiti on Sunday, but what are they?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/czrxg1306lro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T07:33:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "69e5b7bb14bf9e",
-      "title": "World Cup quiz: Can you name every host?",
-      "summary": "Countries far and wide have hosted the festival of football since the first tournament in 1930. How many countries can you name?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpjpng8nzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T07:15:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "27d0ee15a83f48",
-      "title": "The best 1-11 XI at the 2026 World Cup with squad numbers now confirmed",
-      "summary": "We’re all set for the World Cup now that the sneaky folks at FIFA have leaked – sorry, confirmed – the squad numbers for all 48 teams.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-1-11-xi-2026-world-cup-squad-numbers-ronaldo",
-      "publishedAt": "2026-06-07T07:06:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "957c1bc2b7e103",
-      "title": "Best available centre-backs includes key Brighton, Forest, Palace and Spurs players",
-      "summary": "Including Tottenham captain Cristian Romero, we have ranked the best centre-backs available to sign in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-available-centre-backs-transfer-feature",
-      "publishedAt": "2026-06-07T07:05:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "8ca8c90b882753",
-      "title": "Norway World Cup 2026 team guide",
-      "summary": "Ståle Solbakken leads country to first major tournament in 26 years knowing that, with Erling Haaland up front, anything can happen This article is part of the Guardian...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/07/norway-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-07T07:00:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "432765ee0080f2",
-      "title": "‘Football saved me’: Street Soccer coordinator Sarah Rhind on life after heroin addiction",
-      "summary": "Charity worker’s unsparing book explains how the game created support networks and ‘beautiful friendships’ The Bishopton Ladies goalkeeper and Street Soccer charity coo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/07/football-saved-me-street-soccer-coordinator-sarah-rhind-on-life-after-heroin-addiction",
-      "publishedAt": "2026-06-07T07:00:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer"
-      ]
-    },
-    {
-      "id": "2dbae676795573",
-      "title": "North America’s wide and wild World Cup will be an experience like no other | Emma Hayes",
-      "summary": "Teams must be prepared for challenging travel and a cauldron of heat but will also encounter fantastic fans and a beautiful football culture This World Cup will be inco...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other",
-      "publishedAt": "2026-06-07T07:00:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "9778d20e44cbac",
-      "title": "Are Portugal better without Ronaldo - and is he undroppable?",
-      "summary": "As Cristiano Ronaldo prepares for his sixth World Cup with Portugal, BBC Sport take a closer look at his place in the team.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T06:32:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9de164e3c71d93",
-      "title": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
-      "summary": "Erling Haaland has guided Norway to their first World Cup since 1998. So what is it like being a global name from a nation with a population of just 5.5m people?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T05:52:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a6b9acee890c85",
-      "title": "Football Daily",
-      "summary": "England and Scotland acclimatise to conditions in the US ahead of the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nqkdcl?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T23:49:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2b7088d75f8627",
-      "title": "This was a training game - England & Tuchel now need to get serious",
-      "summary": "England have one more game to prepare for their World Cup campaign - and they must use it wisely, writes Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T23:35:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "37260da3677c61",
-      "title": "Patient, precise, clinical - are Scotland ready to make World Cup mark?",
-      "summary": "Scotland thrash Bolivia and are in decent fettle one week out from the biggest game of their international lives.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/clyrw74l269o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T23:31:18.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "13974808118be7",
-      "title": "Iraq World Cup 2026 team guide",
-      "summary": "Graham Arnold’s team have overcome adversity on and off the pitch, but may benefit from the pressure being off them in a tough group This article is part of the Guardia...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-06T23:01:16.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "04af7a8989ca3c",
-      "title": "Scotland score four in first half to beat Bolivia",
-      "summary": "Watch the goals as Scotland score four in the first half to beat Bolivia in their final World Cup warm-up.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c3ryd40w04xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-06T22:58:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cf0afb957580eb",
-      "title": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up",
-      "summary": "“I think a medal of some sort will come. I pray and hope that it is the gold one.” Ally MacLeod was never to live down his hubris of 1978 . A Scotland loss to Peru and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
-      "publishedAt": "2026-06-06T22:55:47.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     }
   ],
