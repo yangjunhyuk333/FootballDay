@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-07T19:39:37.469Z",
+  "generatedAt": "2026-06-08T04:26:32.560Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,24 +104,11 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Highlights of day four from the KLM Open at The International, Amsterdam, Netherlands.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13551716/klm-open-day-four-highlights",
-      "publishedAt": "2026-06-07T19:39:37.026Z",
+      "publishedAt": "2026-06-08T04:26:32.245Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "407da278d60934",
-      "title": "Sciver-Brunt gives key fitness update at ICC Women's T20 World Cup launch",
-      "summary": "Nat Sciver-Brunt revealed she is set to return from injury and will play for England during their ICC Women's T20 World Cup warm-up match against Australia on Monday ni...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13551695/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-gives-key-fitness-update-as-cricket-takes-over-waterloo-bridge",
-      "publishedAt": "2026-06-07T19:39:37.026Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -130,11 +117,81 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Man Utd latest: Ederson called up to Brazil World Cup squad",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-07T19:39:37.025Z",
+      "publishedAt": "2026-06-08T04:26:32.244Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "732b122735ad03",
+      "title": "Papers: Ederson's Man Utd move at risk of delay after World Cup call-up",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13551789/ederson-to-manchester-united-midfielders-call-up-to-brazil-world-cup-squad-could-delay-old-trafford-move-paper-talk",
+      "publishedAt": "2026-06-08T04:26:32.244Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "afaaae33ff7252",
+      "title": "Florentino Pérez to remain as Real Madrid president after overwhelming election win",
+      "summary": "Enrique Riquelme loses challenge against Pérez José Mourinho will now be confirmed as manager Florentino Pérez will continue as president of Real Madrid after winning t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/08/florentino-perez-to-remain-as-real-madrid-president-after-overwhelming-election-win",
+      "publishedAt": "2026-06-08T00:06:34.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "bd1765f8d71277",
+      "title": "Algeria World Cup 2026 team guide",
+      "summary": "An easy ride through qualifying and a hard-to-read Africa Cup of Nations exit mean the Fennecs are an enigma This article is part of the Guardian’s 2026 World Cup Exper...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/08/algeria-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-07T23:01:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "68f912562946a5",
+      "title": "Real Madrid to join Fernandes race - Monday's gossip",
+      "summary": "Real Madrid to join Mateus Fernandes race, Brighton reject Spurs' second Van Hecke bid and Harry Maguire could leave Manchester United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/crkvm3m044ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T21:41:10.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f8b8274bb7dec3",
+      "title": "Rice to be England's vice-captain at World Cup",
+      "summary": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-07T21:23:28.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
       ]
     },
     {
@@ -272,19 +329,6 @@ window.FOOTBALLDAY_DATA = {
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-07T16:55:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9f5881ea424566",
-      "title": "'Scotland optimism is through the roof now'",
-      "summary": "With less than a week until the 2026 World Cup kicks-off, we're live from New York.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nqmvlf?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T16:20:00.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -546,45 +590,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "1c9840d5ce9112",
-      "title": "Man Utd set for £52m transfer windfall as club make £104m ‘offer’ for Greenwood",
-      "summary": "Man Utd are set for a huge windfall from a potential huge Mason Greenwood deal after a club reportedly made a €120m (£104m) offer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-huge-windfall-greenwood-al-hilal-offer",
-      "publishedAt": "2026-06-07T09:40:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ed942cc2be3521",
-      "title": "Football Daily",
-      "summary": "Three fans reflect on being at USA '94 and the limited fanfare it received.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0npnn49?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T09:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "8273dfc9f91fcb",
-      "title": "Belief but work to do - Wales' two years under Bellamy",
-      "summary": "BBC Sport Wales looks at Craig Bellamy's time in charge of Wales as he reaches the midway stage of his four-year deal with the Football Association of Wales.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c62r235ygg1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-07T08:57:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
