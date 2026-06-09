@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:58:18.256Z",
+  "generatedAt": "2026-06-09T15:15:08.574Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,106 +99,12 @@
       "pinned": true
     },
     {
-      "id": "c322ac8644efa2",
-      "title": "Transfer rumors, news: Man United, City monitor Ch...",
-      "summary": "Manchester United and Manchester City have joined the race to land Chelsea left back Marc Cucurella. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49006779/transfer-rumors-news-man-united-city-monitor-chelsea-cucurella",
-      "publishedAt": "2026-06-09T10:31:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "74ed19dde30b41",
-      "title": "16 players who could use World Cup to get a big tr...",
-      "summary": "The World Cup is the biggest stage in sports, so which players can use it to get their next big transfer?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
-      "publishedAt": "2026-06-09T10:31:41.000Z",
-      "category": "transfer",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "0088a0280c0165",
-      "title": "England fall to five‑wicket defeat against Australia",
-      "summary": "Highlights from Cardiff, where England lost to Australia by five wickets in their Women's T20 World Cup warm-up match.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13552087/england-fall-to-five8209wicket-defeat-against-australia-in-womens-t20-world-cup-warm-up-in-cardiff",
-      "publishedAt": "2026-06-09T09:58:17.962Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "75d26750ed6652",
-      "title": "Papers: Man Utd confident of beating Man City to Anderson signature",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13552149/elliot-anderson-future-man-utd-confident-of-beating-man-city-to-nottm-forest-and-england-midfielder-this-summer",
-      "publishedAt": "2026-06-09T09:58:17.962Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "2a75c9f1ab588c",
-      "title": "Former Hull FC and NRL player Evans comes out as gay",
-      "summary": "Former Hull FC prop Kane Evans has come out as gay and revealed a 20-year internal battle regarding his sexuality.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13552049/kane-evans-former-hull-fc-prop-comes-out-as-gay-in-emotional-interview-and-says-i-feel-like-a-weight-has-lifted",
-      "publishedAt": "2026-06-09T09:58:17.962Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "01ca78313a9b1e",
-      "title": "Next Up: The players who could become stars at this World Cup",
-      "summary": "Next Up: The players who could become stars at this World Cup",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/story-telling/12040/13550821/world-cup-2026-the-young-players-who-could-become-stars-in-the-usa-canada-and-mexico-this-summer",
-      "publishedAt": "2026-06-09T09:58:17.961Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5ee1334806c47d",
-      "title": "Will England pair Littler and Humphries right the wrongs at World Cup of Darts?",
-      "summary": "All eyes will be on the England partnership of Luke Littler and Luke Humphries as they prepare to right the wrongs of their 2025 showing at this year's World Cup of Dar...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13552077/world-cup-of-darts-2026-will-englands-luke-littler-and-luke-humphries-right-the-wrongs-of-last-years-showing",
-      "publishedAt": "2026-06-09T09:58:17.961Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "558f1922fd2ca0",
       "title": "All you need to know about the World Cup of Darts 2026",
       "summary": "All you need to know about the BetVictor World Cup of Darts 2026 as No 1 Luke Littler joins forces with No 2 Luke Humphries to represent Team England.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
-      "publishedAt": "2026-06-09T09:58:17.960Z",
+      "publishedAt": "2026-06-09T15:15:08.408Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -211,12 +117,53 @@
       "summary": "Africa's top referee will not be allowed to officiate at the World Cup after he was refused entry to the USA, FIFA has confirmed.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
-      "publishedAt": "2026-06-09T09:58:17.960Z",
+      "publishedAt": "2026-06-09T15:15:08.408Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup",
         "Fifa"
+      ]
+    },
+    {
+      "id": "de1a0e688d3c4c",
+      "title": "England latest: My best chance to win World Cup - and maybe my last, says Kane",
+      "summary": "England latest: My best chance to win World Cup - and maybe my last, says Kane",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "publishedAt": "2026-06-09T15:15:08.407Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5c11457e6a4fba",
+      "title": "Fulham latest: Jimenez set to join Wolves on free transfer",
+      "summary": "Fulham latest: Jimenez set to join Wolves on free transfer",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-06-09T15:15:08.407Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "a39d45d05f4ed0",
+      "title": "RFU council member resigns over discriminatory Alphonsi comments",
+      "summary": "Rugby Football Union Council member Matt Smith has resigned over discriminatory online comments he posted about World Cup-winning former England international Maggie Al...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13552315/maggie-alphonsi-rfu-council-member-resigns-over-discriminatory-comments-about-world-cup-winner",
+      "publishedAt": "2026-06-09T15:15:08.407Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
       ]
     },
     {
@@ -225,7 +172,7 @@
       "summary": "The World Cup of Darts is just around the corner and there will be some hidden gems taking part in Frankfurt from June 11-14, live on Sky Sports.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13551189/world-cup-of-darts-2026-players-to-watch-with-paul-lim-motomu-sakai-man-lok-leung-and-nitin-kumar-in-action",
-      "publishedAt": "2026-06-09T09:58:17.959Z",
+      "publishedAt": "2026-06-09T15:15:08.407Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -233,52 +180,54 @@
       ]
     },
     {
-      "id": "9378d5ed5a2ad5",
-      "title": "Copy of Džeko, Ronaldo, Modric ... why are there so many o...",
-      "summary": "Only one non-goalkeeper over 40 has ever played a World Cup. This summer, four others could do the same.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48968100/over-40-players-2026-world-cup-edin-dzeko-cristiano-ronaldo-luka-modric",
-      "publishedAt": "2026-06-09T09:55:05.000Z",
+      "id": "edf9deff3c7885",
+      "title": "Risk of death to oldest man at World Cup - Scotland's walking miracle Gordon",
+      "summary": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T15:10:56.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "ba94d508f9ac1c",
-      "title": "The World Cup record that will be broken three tim...",
-      "summary": "World Cup 2026 provides a chance to celebrate longevity both on the pitch and on the bench.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48948700/the-world-cup-record-broken-three-s-first-week-curacao-dick-advocaat-south-africa-hugo-broos-czechia-miroslav-koubek",
-      "publishedAt": "2026-06-09T09:55:05.000Z",
-      "category": "worldcup",
-      "region": "global",
+      "id": "b5ff2ef33bac31",
+      "title": "Mason Greenwood ‘approves’ transfer, ‘says goodbye’ after Romano reveals ‘heavy’ Man Utd impact",
+      "summary": "According to reports, Mason Greenwood has now ‘approved’ a move to Serie A giants AS Roma, and this is good news for Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mason-greenwood-approves-transfer-says-goodbye-romano-heavy-man-utd-impact",
+      "publishedAt": "2026-06-09T15:10:11.000Z",
+      "category": "transfer",
+      "region": "england italy",
       "tags": [
-        "World Cup"
+        "Serie A",
+        "Transfer",
+        "Manchester"
       ]
     },
     {
-      "id": "27357553e7d194",
-      "title": "American soccer still has a global stigma: Can the...",
-      "summary": "USMNT players past and present open up about the stigma of being an American in soccer ahead of the World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48992935/american-soccer-stigma-usmnt-world-cup-change-it",
-      "publishedAt": "2026-06-09T09:50:18.000Z",
+      "id": "6d54a1fa870ef3",
+      "title": "Ngumoha to leave England squad having made mark",
+      "summary": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cddl48g7d94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T15:01:08.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
-        "Soccer",
-        "World Cup"
+        "World Cup",
+        "Liverpool"
       ]
     },
     {
       "id": "57d414a147ef79",
       "title": "World Cup 2026 news: Iran claim ticket allocation pulled; Platini files complaint against Infantino; Olise dazzles – live",
-      "summary": "Latest news as World Cup countdown continues Player guide | Bracketology | Wallchart | Mail Tom Away from the World Cup , the latest allegations against the now former...",
+      "summary": "Latest news as World Cup countdown continues Player guide | Bracketology | Wallchart | Mail John Away from the World Cup , the latest allegations against the now former...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jun/09/world-cup-2026-news-olise-dazzles-in-france-friendly-neymar-recovering-well-england-latest-live",
-      "publishedAt": "2026-06-09T09:43:56.000Z",
+      "publishedAt": "2026-06-09T15:00:38.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -288,115 +237,16 @@
       ]
     },
     {
-      "id": "b438e001b7f259",
-      "title": "Australia v Mexico: women’s international football friendly – live",
-      "summary": "Updates from the Matildas match in Sydney Any thoughts? Get in touch with an email After tonight we won’t see the Matildas in action again for another four months … and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/09/matildas-australia-mexico-womens-international-friendlies-football-live-updates",
-      "publishedAt": "2026-06-09T09:43:52.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8ee4a210513ac3",
-      "title": "Forget Mourinho, star signings: Pérez's next big m...",
-      "summary": "After two years without a major trophy, Real Madrid president Florentino Pérez called elections to reassert his power. Now he has big plans for his legacy.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49000799/florentino-perez-next-big-move-real-madrid-president-change-club-forever",
-      "publishedAt": "2026-06-09T09:40:45.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "16d0a0da39dc7a",
-      "title": "Romano reveals Man Utd are ‘cold’ on Premier League star despite rumours they’ve made ‘crazy offer’",
-      "summary": "Man Utd are “relatively cold on the possibility of signing” Newcastle midfielder Sandro Tonali in the summer, according to reports.",
+      "id": "87808f83722fab",
+      "title": "Every World Cup warm-up friendly fixture, result and how to watch on TV…",
+      "summary": "The 48 nations competing at the World Cup are stepping up their preparations, with every warm-up friendly fixture and result listed here…",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-romano-tonali-cold-newcastle-crazy-offer",
-      "publishedAt": "2026-06-09T09:35:54.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5f3b9a11b17856",
-      "title": "The flag Iranians are not allowed to wave at the World Cup",
-      "summary": "Iran football fans living in Los Angeles explain why they want to wave Iran's pre-1979 Islamic revolution flag and dismiss the one that is on their team's shirt.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/articles/c2eykvw3exwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T09:27:46.000Z",
+      "url": "https://www.football365.com/news/world-cup-2026-warm-up-friendly-fixtures-results-kick-off-times-what-tv-channel",
+      "publishedAt": "2026-06-09T14:18:24.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "1de6327802a134",
-      "title": "Arsenal launch ‘enquiry’ for Serie A ‘wizard’ as Fabrizio Romano reveals ‘chances’ of blockbuster deal",
-      "summary": "Arsenal have made a move to sign a Turkey international star, as the Gunners plan to sign a new left-winger this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-juventus-kenan-yildiz",
-      "publishedAt": "2026-06-09T09:26:54.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Serie A",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "b81cb3a25dc6a3",
-      "title": "Out-of-contract XIs: players in their 20s versus players in their 30s – who wins?",
-      "summary": "There are young stars and golden oldies available on a free transfer this summer. But which team is stronger? Goalkeeper Illan Meslier, aged 26, contract expiring at Le...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/09/out-of-contract-xis-players-in-their-20s-versus-players-in-their-30s-who-wins",
-      "publishedAt": "2026-06-09T09:18:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "f773689a5e085f",
-      "title": "Arsenal star Rice is ‘sceptical’ of England team-mate’s ability after Man Utd man is criticised",
-      "summary": "Arsenal star Declan Rice is ‘sceptical’ of England team-mate Kobbie Mainoo’s ability ahead of World Cup despite being back in the Man Utd XI.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-arsenal-rice-mainoo-skeptical-man-utd",
-      "publishedAt": "2026-06-09T09:15:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-06-09T09:10:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
       ]
     },
     {
@@ -405,7 +255,7 @@
       "summary": "Multiple women accuse the billionaire of abusing his power and preying on them for sex, in some cases when they were in their late teens.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T08:58:17.000Z",
+      "publishedAt": "2026-06-09T14:17:43.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -413,12 +263,111 @@
       ]
     },
     {
-      "id": "793192acc1b8e5",
-      "title": "Somali referee Artan to miss World Cup after being barred from entering US",
-      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
+      "id": "4a9b2ab4a24d03",
+      "title": "Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal",
+      "summary": "Sage guided Lens to second place in Ligue 1 this season Glasner likely to join Milan after rejecting Feyenoord offer Crystal Palace are poised to appoint Pierre Sage as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/crystal-palace-to-appoint-pierre-sage-head-coach-two-year-deal",
+      "publishedAt": "2026-06-09T14:17:37.000Z",
+      "category": "transfer",
+      "region": "italy france",
+      "tags": [
+        "Football",
+        "Ligue 1",
+        "Milan"
+      ]
+    },
+    {
+      "id": "d2390d4878561b",
+      "title": "Liverpool ‘rejected’ by teenage ‘gem’ for one reason as ‘decision’ on preferred next move revealed",
+      "summary": "According to reports, Liverpool have now suffered a ‘rejection’ in the race to sign a teenage ‘gem’ despite making the ‘most attractive offer’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-rejected-teenage-gem-one-reason-decision-next-move-revealed",
+      "publishedAt": "2026-06-09T14:13:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0dc36ba6406bc6",
+      "title": "From World Cup Willie to Tip and Tap: a nostalgic nod to the era of lovably quirky mascots",
+      "summary": "This year’s World Cup serves up yet more soulless, corporate animal slop to leave fans pining for the days of unique talismans World Cup Willie marched on to the scene...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/world-cup-mascots-world-cup-willie-world-cup-2026-maple-zayu-clutch",
+      "publishedAt": "2026-06-09T14:00:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "004b9b2100d82c",
+      "title": "Arsenal get ‘ruthless’ by telling major star he can go with three other players transfer-listed",
+      "summary": "Arsenal are taking a ‘ruthless’ approach to who they sell this summer with Gabriel Martinelli now up for sale, and three more are on the way out.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-ruthless-gabriel-martinelli-can-go-three-others-transfer-listed",
+      "publishedAt": "2026-06-09T13:48:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "892c64283fd1cb",
+      "title": "Andoni Iraola wants Liverpool to sign £100m midfielder in ‘record-breaking’ deal",
+      "summary": "New Liverpool head coach Andoni Iraola would love to reunite with a Bournemouth midfielder at Anfield this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/andoni-iraola-alex-scott-liverpool-reunion-bournemouth",
+      "publishedAt": "2026-06-09T13:47:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "143ec03c0d8ed0",
+      "title": "World Cup 2026 visa chaos: from referee Omar Artan to Iranian officials – who is affected?",
+      "summary": "Fifa has found its tournament squarely caught up in the second Trump administration’s aggressive border restrictions For successive men’s World Cup tournaments Fifa has...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/world-cup-2026-visa-restrictions-referee-omar-artan-iran-officials",
+      "publishedAt": "2026-06-09T13:45:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "f2b410175df5a6",
+      "title": "I have right papers and visa - barred referee Artan",
+      "summary": "Somali referee Omar Artan says he was subjected to an 11-hour immigration interview before being denied entry to the United States for the World Cup despite holding the...",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T08:50:40.000Z",
+      "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T13:43:54.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "01d7adf0ca7ef0",
+      "title": "World Cup 2026: Five genuine reasons why it really could be great despite itself",
+      "summary": "Here are just five of the things that could make the World Cup great, even if most of them are by accident and the organisers deserve zero credit.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-2026-five-genuine-reasons-why-it-really-could-be-great-despite-itself",
+      "publishedAt": "2026-06-09T13:37:41.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -426,12 +375,204 @@
       ]
     },
     {
-      "id": "f082f170408ef0",
-      "title": "Romano reveals truth after claims Chelsea star ‘wants to leave’ and Man Utd line up shock move",
-      "summary": "Fabrizio Romano admits that the possibility of Marc Cucurella leaving Chelsea in the summer “remains open” amid Man Utd interest.",
+      "id": "e9972d2808eb3c",
+      "title": "World Cup 2026 dark horses power rankings: Japan, Colombia, Turkey…",
+      "summary": "Fancy looking smart in front of your mates? We’ve got some teams for you to tip then definitely pass off as your own knowledge.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-romano-cucurella-wants-leave-man-utd-shock-transfer",
-      "publishedAt": "2026-06-09T08:33:48.000Z",
+      "url": "https://www.football365.com/news/world-cup-2026-dark-horses-power-rankings-japan-colombia-turkey",
+      "publishedAt": "2026-06-09T13:34:31.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "27fab175899312",
+      "title": "Iraola blow as key Liverpool star could still be ‘allowed to leave’ as ‘first task’ is revealed",
+      "summary": "Liverpool goalkeeper Alisson could still be “allowed to leave” in the summer as Andoni Iraola faces a busy start, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-alisson-iraola-blow-allowed-leave-first-task-revealed",
+      "publishedAt": "2026-06-09T13:26:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1db7594ca511e3",
+      "title": "World Cup reader Q&A: post your questions for Ewan Murray now",
+      "summary": "We’re two days away from the start of the biggest World Cup ever. Football correspondent Ewan Murray is in North Carolina with the Scotland team ahead of their game aga...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/blog/live/2026/jun/09/world-cup-reader-qa-post-your-questions-for-ewan-murray-now",
+      "publishedAt": "2026-06-09T13:18:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ff112d1568965f",
+      "title": "Liverpool rocked as ‘absolute star now only wants to go to Tottenham’",
+      "summary": "Liverpool have been dealt a blow in their pursuit of a defender, who wants to join Tottenham Hotspur instead.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-tottenham-hotspur-jan-paul-van-hecke-brighton-and-hove-albion",
+      "publishedAt": "2026-06-09T13:13:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "81c97acb4436f7",
+      "title": "Tottenham ‘express interest’ in €58m Brazilian defender and plan ‘concrete offer in coming days’",
+      "summary": "Tottenham Hotspur are planning a raid on Juventus to sign their star defender, after agreeing a deal with Jan Paul van Hecke.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-hotspur-juventus-gleison-bremer",
+      "publishedAt": "2026-06-09T12:55:26.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "536d07681976b7",
+      "title": "Mourinho ‘approves’ Arsenal transfer as Real Madrid raid on Gunners is now ‘feasible’",
+      "summary": "Jose Mourinho has ‘approved’ Riccardo Calafiori’s transfer to Real Madrid as a deal with Arsenal is now ‘feasible’, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-mourinho-approved-transfer-calafiori-real-madrid",
+      "publishedAt": "2026-06-09T12:53:57.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "be5dedf1a2dcfa",
+      "title": "Tottenham accelerate towards £60m third signing as deal is unblocked; ‘hopeful’ over fourth transfer",
+      "summary": "Tottenham are closing in on their third signing of the summer as they advance towards a deal for Man City star Savinho, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-savinho-accelerate-man-city-unblocked-hopeful-van-hecke-transfer",
+      "publishedAt": "2026-06-09T12:04:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "d9b34b5a553246",
+      "title": "David Squires on … the World Cup reimagined as Gianni Infantino’s West Side Story",
+      "summary": "As football’s greatest spectacle comes to North America, our cartoonist creates a heartwarming narrative around the Fifa president Buy a cartoon | David’s favourite wor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/09/david-squires-world-cup-reimagined-gianni-infantinos-west-side-story-cartoon",
+      "publishedAt": "2026-06-09T11:38:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "97b2e6a79d9c99",
+      "title": "Jason Wilcox ‘personally’ wants £70,000-a-week midfielder at Man Utd and makes ‘contact’",
+      "summary": "Manchester United director of football, Jason Wilcox, is keen on bringing a West Ham United midfielder to Old Trafford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mateus-fernandes-manchester-united-west-ham-united-jason-wilcox",
+      "publishedAt": "2026-06-09T11:37:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a31f8f4fca2e64",
+      "title": "Platini begins legal proceedings against Fifa",
+      "summary": "Former Uefa president Michel Platini initiaites civil and legal proceedings against Fifa and current president Gianni Infantino over corruption allegations from 2015.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c3ey9l4d0qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T11:36:39.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "54d7df62716f0d",
+      "title": "‘We are knocking on the door’: Africa’s 10 contenders target World Cup glory",
+      "summary": "Morocco’s semi-final appearance in Qatar has raised the possibility of an African team reaching the final, but who are best poised to do so? With a record 10 African te...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/africa-10-contenders-teams-world-cup-2026-morocco-egypt-senegal-cote-d-ivoire",
+      "publishedAt": "2026-06-09T11:18:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b027b5d7b6d98f",
+      "title": "Seven left-field goalkeeper signings as Man Utd search for new stand-in…",
+      "summary": "Manchester United record of signing stand-in stoppers is a mixed bag, featuring a World Cup winner and the fella who saved Fergie…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-goalkeeper-signings-back-up-stand-in-left-field-options",
+      "publishedAt": "2026-06-09T11:10:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f2145740e74034",
+      "title": "Neville’s ‘shock role’ for England at World Cup revealed amid incredible Man Utd midfield masterplan",
+      "summary": "England’s World Cup preparations have included a ‘shock role’ for Phil Neville, but the big story is the Man Utd midfield masterplan.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-midfield-masterplan-neville-shock-role-england-world-cup",
+      "publishedAt": "2026-06-09T10:27:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "22622c1169af99",
+      "title": "Football regulator could force David Sullivan to sell West Ham stake",
+      "summary": "Former pornographer, who owns 38.8% of club, has been accused of sexually exploitative and predatory behaviour The football regulator could force David Sullivan to sell...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/football-regulator-could-force-david-sullivan-sell-west-ham-stake",
+      "publishedAt": "2026-06-09T10:24:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "efee68cc646b3b",
+      "title": "Chelsea ‘directly tell’ £30m star ‘he’s available for sale’ after Xabi Alonso arrival – report",
+      "summary": "Chelsea have told one of their first-team stars that he can leave, with Newcastle United and Everton interested in him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-tell-liam-delap-to-leave-stamford-bridge",
+      "publishedAt": "2026-06-09T10:22:10.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -440,151 +581,16 @@
       ]
     },
     {
-      "id": "648590929e2096",
-      "title": "World Cup Rank: The 50 best players in the 2026 to...",
-      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
-      "publishedAt": "2026-06-09T08:31:33.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "2023a2ec4e0e24",
-      "title": "World Cup Power Rankings: Who are the front-runner...",
-      "summary": "Our reporters ranked the top 15 contenders for this summer's top prize as they see it right now.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49001555/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
-      "publishedAt": "2026-06-09T08:31:33.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5fee1178a92c1d",
-      "title": "Play BBC Sport's new World Cup predictor game",
-      "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football.",
+      "id": "86c3c35b36f849",
+      "title": "Palmer and Joao Pedro feature in Madonna video",
+      "summary": "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Madonna's new album.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T08:24:41.000Z",
-      "category": "transfer",
+      "url": "https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T10:17:02.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1c74a23d8565d6",
-      "title": "Who are the favourites for the 2026 World Cup in the United States?",
-      "summary": "The World Cup is barely a week away and England are somehow third favourites behind the twin towers of Spain and France.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
-      "publishedAt": "2026-06-09T08:24:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "307c9b096f47aa",
-      "title": "👀All you need to know about 48 World Cup teams",
-      "summary": "The wait is almost over ... the 2026 FIFA World Cup is about to begin! ESPN's experts are here with what you need to know at a glance about all 48 teams.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48871263/world-cup-2026-key-players-facts-expectations-fixtures-odds-all-48-teams",
-      "publishedAt": "2026-06-09T08:07:52.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "bb1f005572a91f",
-      "title": "World Cup ref from Somalia denied entry to U.S.",
-      "summary": "Somali referee Omar Artan has been denied entry into the United States after getting selected to officiate in the World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49002985/somali-referee-world-cup-denied-entry-united-states",
-      "publishedAt": "2026-06-09T08:07:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0409677261a73c",
-      "title": "U.S. defender Richards full participant on Monday",
-      "summary": "United States defender Chris Richards was a full participant in Monday's open training session at Great Park ahead of the Americans' opening FIFA World Cup match on Fri...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49002362/united-states-defender-richards-full-participant-monday",
-      "publishedAt": "2026-06-09T08:07:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "6823595ee2a487",
-      "title": "Argentina to avoid 'risks' with Messi set to play",
-      "summary": "Argentina manager Lionel Scaloni confirmed Lionel Messi will feature in the final friendly before the 2026 World Cup against Iceland on Tuesday night in Auburn, Alabama.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49004047/argentina-avoid-risks-messi-play-friendly",
-      "publishedAt": "2026-06-09T08:07:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bf074552ed24af",
-      "title": "Cleared Platini files suit against FIFA's Infantin...",
-      "summary": "FIFA president Gianni Infantino was targeted with a revived criminal complaint in France on Monday by his former boss Michel Platini, who seemed destined to lead FIFA u...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49001477/platini-files-criminal-complaint-fifa-infantino",
-      "publishedAt": "2026-06-09T08:07:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "1cdbc03434892a",
-      "title": "Brazil: MRI shows Neymar making 'good progress'",
-      "summary": "Neymar's FIFA World Cup hopes have been given a boost after Brazil announced he was making \"good progress\" in his recovery from a calf injury.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49002184/brazil-mri-neymar-good-progress-injury",
-      "publishedAt": "2026-06-09T08:07:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "ce90c41b1c6720",
-      "title": "Leão defends red-card punch to 'protect teammate'",
-      "summary": "Portugal forward Rafael Leão says he \"never intended to hurt\" Ivan Román despite punching the Chile defender in the face during Saturday's World Cup warm-up friendly.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48999003/portugal-rafael-leao-defends-punching-ivan-roman-protecting-teammate",
-      "publishedAt": "2026-06-09T08:07:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
+        "Chelsea"
       ]
     }
   ],
