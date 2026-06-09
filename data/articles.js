@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-08T20:24:39.604Z",
+  "generatedAt": "2026-06-09T03:58:37.865Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,78 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "a12ba0b96ceb86",
-      "title": "England suffer five-wicket defeat to Australia in T20 World Cup warm-up",
-      "summary": "England succumbed to a five-wicket defeat to rivals Australia in their first T20 World Cup warm-up game in Cardiff.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13552050/england-vs-australia-hosts-suffer-five-wicket-defeat-in-womens-t20-world-cup-warm-up-in-cardiff",
-      "publishedAt": "2026-06-08T20:24:39.468Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c956443dfd83f5",
-      "title": "The World Cup is here! 48 teams, 48 questions answered (yes, really!)",
-      "summary": "The wait is over. The World Cup is officially here! 48 teams, 48 key questions answered (yes, really!) to get you clued up for this summer's fiesta of football. It's go...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13548788/world-cup-2026-every-key-question-answered-about-this-summers-tournament-in-usa-canada-and-mexico",
-      "publishedAt": "2026-06-08T20:24:39.468Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5ee1334806c47d",
-      "title": "Will England pair Littler and Humphries right the wrongs at World Cup of Darts?",
-      "summary": "All eyes will be on the England partnership of Luke Littler and Luke Humphries as they prepare to right the wrongs of their 2025 showing at this year's World Cup of Dar...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13552077/world-cup-of-darts-2026-will-englands-luke-littler-and-luke-humphries-right-the-wrongs-of-last-years-showing",
-      "publishedAt": "2026-06-08T20:24:39.467Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0088a0280c0165",
-      "title": "England fall to five‑wicket defeat against Australia",
-      "summary": "Highlights from Cardiff, where England lost to Australia by five wickets in their Women's T20 World Cup warm-up match.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13552087/england-fall-to-five8209wicket-defeat-against-australia-in-womens-t20-world-cup-warm-up-in-cardiff",
-      "publishedAt": "2026-06-08T20:24:39.467Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2a75c9f1ab588c",
-      "title": "Former Hull FC and NRL player Evans comes out as gay",
-      "summary": "Former Hull FC prop Kane Evans has come out as gay and revealed a 20-year internal battle regarding his sexuality.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13552049/kane-evans-former-hull-fc-prop-comes-out-as-gay-in-emotional-interview-and-says-i-feel-like-a-weight-has-lifted",
-      "publishedAt": "2026-06-08T20:24:39.467Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "a165f6fdb91829",
       "title": "Can Littler and Humphries get it right this time and win World Cup of Darts?",
       "summary": "Can Littler and Humphries get it right this time and win World Cup of Darts?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12288/11933951/love-the-darts-podcast-sky-sports",
-      "publishedAt": "2026-06-08T20:24:39.467Z",
+      "publishedAt": "2026-06-09T03:58:37.597Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -183,11 +117,259 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jurgen Klopp said Divock Origi \"is, and will be for me, forever a Liverpool legend\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football",
-      "publishedAt": "2026-06-08T20:24:39.467Z",
+      "publishedAt": "2026-06-09T03:58:37.597Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "a12ba0b96ceb86",
+      "title": "England suffer five-wicket defeat to Australia in T20 World Cup warm-up",
+      "summary": "England succumbed to a five-wicket defeat to rivals Australia in their first T20 World Cup warm-up game in Cardiff.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13552050/england-vs-australia-hosts-suffer-five-wicket-defeat-in-womens-t20-world-cup-warm-up-in-cardiff",
+      "publishedAt": "2026-06-09T03:58:37.597Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0088a0280c0165",
+      "title": "England fall to five‑wicket defeat against Australia",
+      "summary": "Highlights from Cardiff, where England lost to Australia by five wickets in their Women's T20 World Cup warm-up match.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13552087/england-fall-to-five8209wicket-defeat-against-australia-in-womens-t20-world-cup-warm-up-in-cardiff",
+      "publishedAt": "2026-06-09T03:58:37.596Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "75d26750ed6652",
+      "title": "Papers: Man Utd confident of beating Man City to Anderson signature",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552149/elliot-anderson-future-man-utd-confident-of-beating-man-city-to-nottm-forest-and-england-midfielder-this-summer",
+      "publishedAt": "2026-06-09T03:58:37.596Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "2a75c9f1ab588c",
+      "title": "Former Hull FC and NRL player Evans comes out as gay",
+      "summary": "Former Hull FC prop Kane Evans has come out as gay and revealed a 20-year internal battle regarding his sexuality.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13552049/kane-evans-former-hull-fc-prop-comes-out-as-gay-in-emotional-interview-and-says-i-feel-like-a-weight-has-lifted",
+      "publishedAt": "2026-06-09T03:58:37.596Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "d0efe4786eea8a",
+      "title": "Somali referee dropped from World Cup after US visa denial",
+      "summary": "Africa's top referee will not be allowed to officiate at the World Cup after he was refused entry to the USA, FIFA has confirmed.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
+      "publishedAt": "2026-06-09T03:58:37.595Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "5ee1334806c47d",
+      "title": "Will England pair Littler and Humphries right the wrongs at World Cup of Darts?",
+      "summary": "All eyes will be on the England partnership of Luke Littler and Luke Humphries as they prepare to right the wrongs of their 2025 showing at this year's World Cup of Dar...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13552077/world-cup-of-darts-2026-will-englands-luke-littler-and-luke-humphries-right-the-wrongs-of-last-years-showing",
+      "publishedAt": "2026-06-09T03:58:37.595Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "43032643204733",
+      "title": "Jordan World Cup 2026 team guide",
+      "summary": "Jamal Sellami’s first-time qualifiers come up against Lionel Messi and Argentina in a challenging Group J This article is part of the Guardian’s 2026 World Cup Experts’...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/jordan-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-08T23:01:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bb116e130be14e",
+      "title": "All done deals in June 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T22:45:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "feb12a04535945",
+      "title": "Wolves sign Trippier and in Jimenez talks",
+      "summary": "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T22:38:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "615708e1a5d56d",
+      "title": "Top African referee Omar Artan refused access to US and will miss World Cup",
+      "summary": "Was going to be first Somalian to officiate at a World Cup ‘He deserves the support of the football community’ A Somali referee, who was set to become the first person...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/08/top-african-referee-omar-artan-refused-access-to-the-united-states",
+      "publishedAt": "2026-06-08T22:17:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "e989395f53b081",
+      "title": "Olise scores hat-trick as France beat Northern Ireland",
+      "summary": "Bayern Munich's Michael Olise scores a hat-trick in France's 3-1 victory over Northern Ireland in their final World Cup warm-up match in Lille.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cr5j474l4jno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T21:59:43.000Z",
+      "category": "worldcup",
+      "region": "france germany",
+      "tags": [
+        "World Cup",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "793192acc1b8e5",
+      "title": "Somali referee Artan to miss World Cup after being barred from entering US",
+      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T21:42:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "eba987ae094b05",
+      "title": "Spurs close in on Man City's Savinho - Tuesday's gossip",
+      "summary": "Spurs make progress with negotiations to sign Manchester City winger Savinho, Manchester United are battling their city rivals for Nottingham Forest midfielder Elliot A...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cj9gjvedwp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T21:36:49.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "b2a4ece8e9a0c1",
+      "title": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+      "summary": "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effort In the disorientation of the moment, as Djed Spence lay on t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw",
+      "publishedAt": "2026-06-08T21:30:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "adea6175c9cb78",
+      "title": "Romano reveals ‘only way’ Man Utd will sign Rafa Leao this summer after ‘concrete calls’ over transfer",
+      "summary": "Romano has revealed the “only way” Rafael Leao will sign for Manchester United or Arsenal this summer after the winger announced his desire to leave AC Milan.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-romano-only-way-rafa-leao-summer-concrete-calls-transfer",
+      "publishedAt": "2026-06-08T21:18:27.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "8c0b5a0e46ea94",
+      "title": "McGinn in the form of his life and now dancing to Scotland's tune",
+      "summary": "If Scotland hit the mark in their upcoming matches the way John McGinn does in front of the media then this could be a special World Cup for Steve Clarke's side, writes...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cn94d7w2zylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T21:00:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6e8b86947259ba",
+      "title": "Marcus Rashford to Bayern Munich ‘pending’ as transfer intent ‘made known’ to Man Utd",
+      "summary": "Bayern Munich have agreed to pay the £26m Man Utd want for Marcus Rashford after club-to-club talks with the transfer ‘pending’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rashfrod-bayern-munich-pending-transfer-intent-man-utd",
+      "publishedAt": "2026-06-08T20:30:58.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Transfer",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "1f8f4e1277fe80",
+      "title": "Football Daily",
+      "summary": "Will Bellingham start for England? And should Scotland go for goals v Haiti?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nqvjck?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-08T20:20:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -265,21 +447,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "615708e1a5d56d",
-      "title": "Top African referee Omar Artan refused access to US before World Cup",
-      "summary": "Was going to be first Somalian to officiate at a World Cup ‘He deserves the support of the football community’ A Somali referee, who was set to become the first person...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/08/top-african-referee-omar-artan-refused-access-to-the-united-states",
-      "publishedAt": "2026-06-08T18:18:29.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
       "id": "12bc3f62199cd9",
       "title": "FAI tight-lipped on venue switch for Israel game",
       "summary": "The Football Association of Ireland [FAI] says it will \"continue to meet to discuss the operational aspects\" of hosting Israel in the Nations League.",
@@ -331,34 +498,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Real Madrid",
         "Inter"
-      ]
-    },
-    {
-      "id": "793192acc1b8e5",
-      "title": "Somali referee Artan barred from entering USA",
-      "summary": "Somali referee Omar Artan, who was set to be the first from his country to officiate at the World Cup finals, is denied entry to the United States.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-08T17:39:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "69ac03638e7317",
-      "title": "Semi-automated offside is coming for the World Cup. Here’s how one referee uses it",
-      "summary": "Micheal Barwegan is part of an all-Canadian crew at this World Cup, and says the new offside system makes his job easier in some ways The 2026 World Cup will be the fir...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/08/semi-automated-offside-world-cup",
-      "publishedAt": "2026-06-08T17:30:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
       ]
     },
     {
@@ -457,145 +596,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "1d1fb1e6780b57",
-      "title": "Bellingham not starting World Cup for England is fine, but he must finish it",
-      "summary": "Tuchel benching Bellingham vs Croatia is not evidence of a rift, nor does it mean he’s not in the England manager’s best XI. It’s (hopefully) an eight-game tournament a...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-bellingham-start-world-cup-finish-it-england-win",
-      "publishedAt": "2026-06-08T15:35:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d8255c47ae8e6f",
-      "title": "Wilkinson reveals Wales plane was hit by lightning",
-      "summary": "Boss Rhian Wilkinson says Wales are happy to be at home in Tuesday's Women's World Cup qualifier against Czech Republic after revealing their team plane was struck by l...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cly9v1r2077o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-08T15:35:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4aba45bc0b88ad",
-      "title": "Rowing boats & regrets - Scotland's undefeated 1974 World Cup campaign",
-      "summary": "Joe Jordan and Davie Hay remember Scotland's 1974 World Cup campaign, that ended at the group stage despite an unbeaten record.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cpdp7lyx432o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-08T15:17:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "44ed68e867cbc9",
-      "title": "Man City and Chelsea remain in talks over Maresca",
-      "summary": "Manchester City are continuing negotiations with Chelsea to appoint Enzo Maresca as their new manager.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cql1v2ped53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-08T15:10:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5a80c403c33e2b",
-      "title": "Beating France would be one of football's biggest stories - Ward",
-      "summary": "Republic of Ireland boss Carla Ward says beating France to qualify automatically for the 2027 Women's World Cup would \"be one of the biggest stories in world football\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/articles/c4gyle0pze1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-08T15:09:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a8e90771d13716",
-      "title": "Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets?",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Geopolitics World Cup Week is upon us, baby. We stand on the edge of greatness. Who will dream, who will dare to sta...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/08/world-cup-week-football-daily-newsletter",
-      "publishedAt": "2026-06-08T15:03:37.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "5b6cb52e5a146c",
-      "title": "Austria World Cup 2026 team guide",
-      "summary": "Established squad stays true to Ralf Rangnick’s methods with Konrad Laimer and bright new talent Paul Wanner lending some star quality This article is part of the Guard...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/08/austria-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-08T15:00:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab820eb1b10873",
-      "title": "Why preparation isn’t everything at a World Cup | Jonathan Wilson",
-      "summary": "From high-altitude training to made to measure kits, teams have resorted to all manner of things to adapt to conditions at the tournament • Predict the winner | Daily p...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/08/world-cup-preparations",
-      "publishedAt": "2026-06-08T14:52:01.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "82ef834c9cee46",
-      "title": "Man Utd tipped ‘to accept offer’ for key star for one reason as INEOS risk making ‘ridiculous decision’",
-      "summary": "According to reports, Manchester United are ‘ready to accept a new offer’ for England international Harry Maguire to let him go this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-accept-offer-key-star-one-reason-ineos-risk-ridiculous-decision",
-      "publishedAt": "2026-06-08T14:49:44.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "74e52b37218dc3",
-      "title": "World Cup giddiness diluted by that ‘decomposing orange creature’",
-      "summary": "This World Cup looks set to carry on the spirit of selfish, money-grabbing corporate alienation and seems destined to keep circling the drain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-giddiness-diluted-decomposing-orange-creature-donald-trump",
-      "publishedAt": "2026-06-08T14:36:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
