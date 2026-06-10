@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-09T20:12:15.589Z",
+  "generatedAt": "2026-06-10T04:10:08.780Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,105 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "91fc15d8d41fc3",
-      "title": "Can England really win the World Cup?",
-      "summary": "Between the Lines takes a closer look at the numbers behind the World Cup and asks whether the stats suggest that England really can win the tournament for the first ti...",
+      "id": "8e86009e2f6397",
+      "title": "Explained: What Lionesses can expect in World Cup playoffs",
+      "summary": "Anton Toloui explains how England can still qualify for the World Cup despite missing out on automatic qualification for next years tournament.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13552365/between-the-lines-can-england-really-win-the-world-cup",
-      "publishedAt": "2026-06-09T20:12:15.393Z",
+      "url": "https://www.skysports.com/watch/video/13552406/lionesses-how-can-england-qualify-for-the-world-cup-tonight",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5c11457e6a4fba",
+      "title": "Fulham latest: Jimenez set to join Wolves on free transfer",
+      "summary": "Fulham latest: Jimenez set to join Wolves on free transfer",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e8a867baacf617",
+      "title": "Papers: Baleba discusses Old Trafford move with Man Utd players",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552509/man-utd-transfer-news-brighton-midfielder-carlos-baleba-discusses-potential-old-trafford-move-with-players",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "c4d07ec347709a",
+      "title": "Lionesses forced to settle for World Cup play-off spot despite Ukraine win",
+      "summary": "England were forced to settle for a Women's World Cup play-off spot despite easing past Ukraine at the Hill Dickinson Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/england-women-vs-ukraine-women/report/550130",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a39d45d05f4ed0",
+      "title": "RFU council member resigns over discriminatory Alphonsi comments",
+      "summary": "Rugby Football Union Council member Matt Smith has resigned over discriminatory online comments he posted about World Cup-winning former England international Maggie Al...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13552315/maggie-alphonsi-rfu-council-member-resigns-over-discriminatory-comments-about-world-cup-winner",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1fa9995e973aed",
+      "title": "Tuchel: England 'not favourites' for World Cup",
+      "summary": "Thomas Tuchel has played down England's chances of winning the World Cup, admitting they are not among the favourites to end 60 years of hurt.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552469/world-cup-2026-england-boss-thomas-tuchel-says-three-lions-not-favourites-for-tournament",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cb3a10cc524c19",
+      "title": "Man Utd exploring deal for Fernandes as West Ham price-tag revealed",
+      "summary": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13547841/mateus-fernandes-transfer-news-man-utd-exploring-deal-for-midfielder-who-west-ham-value-at-80m",
+      "publishedAt": "2026-06-10T04:10:08.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fd0ad22842197a",
+      "title": "Lionesses bemoan 'toughest group' as World Cup hopes hang in the balance",
+      "summary": "Sarina Wiegman and multiple England stars rued the 'toughest' World Cup qualifying group after failing to earn an automatic spot in next year's tournament despite winni...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
+      "publishedAt": "2026-06-10T04:10:08.389Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -117,7 +210,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Not many players get a big move after being relegated twice in their first two Premier League seasons. But Mateus Fernandes is still sought after.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552345/mateus-fernandes-the-reasons-why-manchester-united-and-europes-best-are-interested-in-a-midfielder-who-has-been-relegated-twice",
-      "publishedAt": "2026-06-09T20:12:15.392Z",
+      "publishedAt": "2026-06-10T04:10:08.389Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +223,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "\"You make us laugh even more than Barcelona,\" said the official Atletico Madrid social media team as they mocked rivals Real Madrid after rejecting their £129m (€150m)...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552447/julian-alvarez-real-madrid-announce-129m-bid-for-atletico-madrid-forward-has-been-rejected-amid-barcelona-interest",
-      "publishedAt": "2026-06-09T20:12:15.392Z",
+      "publishedAt": "2026-06-10T04:10:08.389Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -144,7 +237,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The World Cup is finally upon us. Could it be England's year?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "publishedAt": "2026-06-09T20:12:15.392Z",
+      "publishedAt": "2026-06-10T04:10:08.389Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -152,44 +245,185 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5c11457e6a4fba",
-      "title": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "summary": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-06-09T20:12:15.392Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "5b281d197acb8f",
+      "title": "Silva agrees to replace Mourinho at Benfica",
+      "summary": "Marco Silva agrees to become Benfica's new head coach as the Portuguese club formalises Jose Mourinho's departure for Real Madrid.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c74y8x7grr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T23:06:21.000Z",
+      "category": "league",
+      "region": "spain",
       "tags": [
-        "Transfer"
+        "Real Madrid"
       ]
     },
     {
-      "id": "a39d45d05f4ed0",
-      "title": "RFU council member resigns over discriminatory Alphonsi comments",
-      "summary": "Rugby Football Union Council member Matt Smith has resigned over discriminatory online comments he posted about World Cup-winning former England international Maggie Al...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13552315/maggie-alphonsi-rfu-council-member-resigns-over-discriminatory-comments-about-world-cup-winner",
-      "publishedAt": "2026-06-09T20:12:15.392Z",
-      "category": "transfer",
-      "region": "italy",
+      "id": "ab3c36a87d0157",
+      "title": "Uzbekistan World Cup 2026 team guide",
+      "summary": "With a World Cup winner at the helm in Fabio Cannavaro, the White Wolves make their tournament debut This article is part of the Guardian’s 2026 World Cup Experts’ Netw...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/10/uzbekistan-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-09T23:01:04.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Inter"
+        "World Cup"
       ]
     },
     {
-      "id": "cb3a10cc524c19",
-      "title": "Man Utd exploring deal for Fernandes as West Ham price-tag revealed",
-      "summary": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13547841/mateus-fernandes-transfer-news-man-utd-exploring-deal-for-midfielder-who-west-ham-value-at-80m",
-      "publishedAt": "2026-06-09T20:12:15.392Z",
+      "id": "37c775b8bc8442",
+      "title": "England miss out on automatic World Cup spot - so what happens now?",
+      "summary": "England beat Ukraine 3-0 on Tuesday night but it did not matter what they did as automatic qualification for the 2027 Women's World Cup was out of their hands.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T22:57:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8cdf1650966d78",
+      "title": "Real Madrid eye Arsenal's Calafiori - Wednesday's gossip",
+      "summary": "Real Madrid scout Arsenal's Riccardo Calafiori, Tottenham consider Juventus defender Gleison Bremer, Manchester United chase Newcastle's Lewis Hall, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cn8ky3nl7d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T22:44:33.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Manchester",
+        "Real Madrid",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "d2bf05c5d6c942",
+      "title": "Atlético Madrid reject £129m bid from Real Madrid for Julián Alvarez",
+      "summary": "Real Madrid reveal they have made offer for Argentinian Benfica say José Mourinho going to Real for €15m fee Real Madrid have revealed they have had a €150m (£129.4m) b...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/atletico-madrid-reject-129m-bid-from-real-madrid-for-julian-alvarez",
+      "publishedAt": "2026-06-09T22:27:01.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "705c6b6d16fd87",
+      "title": "Pain in Grenoble but hope for Irish as play-offs loom",
+      "summary": "Republic of Ireland manager Carla Ward reacts with pride to the World Cup qualifying campaign as her side fall just short of an automatic place at next year's tournament.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c62144y5yz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T21:43:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7f4a5faf0a2ba4",
+      "title": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
+      "summary": "The decision followed a safeguarding investigation opened by the the Football Association.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T21:39:33.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "7f2b6deba3ff1f",
+      "title": "Liverpool ‘private’ verdict of last summer’s ‘opportunistic’ signing revealed – ‘no desire’",
+      "summary": "According to reports, Liverpool ‘privately’ have ‘no desire’ to turn Jeremie Frimpong into a ‘regular starter’ for the Premier League giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-private-verdict-opportunistic-signing-revealed-fsg-transfer-plan-decided",
+      "publishedAt": "2026-06-09T21:25:22.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4e98dcd0e3dc64",
+      "title": "Caution over Saka as Tuchel says England must dare to dream",
+      "summary": "England head coach Thomas Tuchel says Bukayo Saka's fitness is being managed with a \"little bit of care\" heading into the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T21:04:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "98433eacb9ab8f",
+      "title": "Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
+      "summary": "Arsenal forward still struggling with achilles injury ‘Bukayo is just not there yet. Some things are missing’ Bukayo Saka continues to play through the pain of an achil...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup",
+      "publishedAt": "2026-06-09T21:00:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0b93d19d49a687",
+      "title": "Lionesses ease past Ukraine but must navigate playoffs to qualify for World Cup",
+      "summary": "England 3-0 Ukraine Carter 14, Stanway 37, Mead 67 Sarina Wiegman calmly asserted that she was confident England will still qualify for next summer’s World Cup, despite...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/09/enlgand-ukraine-womens-world-cup-2027-qualifying-match-report",
+      "publishedAt": "2026-06-09T20:59:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cae2805fc5f5d5",
+      "title": "Man Utd told ‘wild card’ with Elliot Anderson transfer as INEOS ‘bid not to be discounted’",
+      "summary": "According to reports, there is a ‘wild card’ in the race between Manchester United and Manchester City to sign Nottingham Forest star Elliot Anderson.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-told-wild-card-elliot-anderson-transfer-ineos-bid-not-discounted",
+      "publishedAt": "2026-06-09T20:44:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Manchester"
+      ]
+    },
+    {
+      "id": "b48840e6d381fc",
+      "title": "Wales can reach Women's World Cup - Wilkinson",
+      "summary": "Rhian Wilkinson says Wales have the potential to qualify for next year's Women's World Cup after they beat the Czech Republic to claim top spot in Group B1.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c2ly99d4ljjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T20:27:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -207,18 +441,42 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "9498136ab87705",
-      "title": "England v Ukraine: Women’s World Cup qualifier – live",
-      "summary": "⚽ Updates from the Group A3 fixture; kick-off 8pm BST ⚽ Mail Will | Hemp backs team to bounce back ITV are not particularly interested in this game, they have spoken ab...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/09/england-v-ukraine-womens-world-cup-qualifier-live",
-      "publishedAt": "2026-06-09T20:00:50.000Z",
+      "id": "a007e080da644a",
+      "title": "Watch: Weir scores four as Scotland beat Israel to win group",
+      "summary": "Watch the highlights as Scotland beat Israel 5-1, with Caroline Weir scoring four goals in Hungary to top their Women's World Cup qualifying group ahead of Belgium and...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/videos/c0ky8873nr5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T19:56:34.000Z",
       "category": "worldcup",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
+        "World Cup"
+      ]
+    },
+    {
+      "id": "407e0fa28a3337",
+      "title": "Highlights: Switzerland sweep aside Northern Ireland",
+      "summary": "Watch highlights as group winners Switzerland finish their World Cup qualifying campaign with a 2-1 win over Northern Ireland in Lurgan.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cp8lxx2ly5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T19:51:41.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2470c98f5303a3",
+      "title": "Highlights: Wales beat Czech Republic 3-1 to top group",
+      "summary": "Watch highlights as Wales beat Czech Republic in Cardiff in Women's World Cup qualifying.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cm2r0828xleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-09T19:27:59.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -236,7 +494,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "1bece9893d1d65",
-      "title": "Real Madrid's £130m Alvarez bid rejected",
+      "title": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
       "summary": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
@@ -248,19 +506,18 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d2bf05c5d6c942",
-      "title": "Atlético Madrid reject £129m bid from Real Madrid for Julián Alvarez",
-      "summary": "Real Madrid reveal they have made offer for Argentinian Arbeloa departs club, paving way for Mourinho return Real Madrid have revealed they have had a €150m (£129.4m) b...",
+      "id": "ad3a67d725f8cc",
+      "title": "Why ‘podcast wars’ will be real broadcast battleground at this World Cup",
+      "summary": "This summer’s hottest rivalry no longer belongs to the BBC and ITV, but football’s online and streaming presence For the first time since the BBC and ITV began sharing...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/09/atletico-madrid-reject-129m-bid-from-real-madrid-for-julian-alvarez",
-      "publishedAt": "2026-06-09T18:21:01.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "url": "https://www.theguardian.com/football/2026/jun/09/podcast-wars-bbc-itv-the-rest-is-football-netflix-fifa-world-cup",
+      "publishedAt": "2026-06-09T18:00:01.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "Football",
-        "Arsenal",
-        "Manchester",
-        "Barcelona"
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -288,19 +545,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "spain",
       "tags": [
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "7f4a5faf0a2ba4",
-      "title": "Sullivan banned from contact with West Ham women's and youth teams since 2023",
-      "summary": "The decision followed a safeguarding investigation opened by the the Football Association.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T17:53:48.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     },
     {
@@ -342,254 +586,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Manchester"
-      ]
-    },
-    {
-      "id": "22176072180b0b",
-      "title": "Meet the England fan who collected beer from every World Cup nation",
-      "summary": "BBC Sport meets England fan Gus Hully who has collected one beer from each of the 48 nations competing at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy5nj5qgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T17:16:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bb116e130be14e",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T17:15:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5949072ed28285",
-      "title": "Scotland's Kelly extends 'special' Rangers stay",
-      "summary": "Scotland goalkeeper Liam Kelly signs a two-year contract to remain with Rangers as he prepares for the start of the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cgjx7v13658o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T16:49:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "aa680831e42f14",
-      "title": "'Gridlock alert days' and a race for tickets as US prepares to host World Cup",
-      "summary": "Is the US ready to handle the pressure of co-hosting what many see as the biggest global sporting event?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jk042y7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T16:48:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "466f47c464ca5e",
-      "title": "Wolves re-sign striker Jimenez from Fulham",
-      "summary": "Wolves re-sign striker Raul Jimenez from Premier League Fulham on a free transfer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cpwer870894o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T16:34:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "1385b267c95334",
-      "title": "Meet the philosopher-in-training who will be at the VAR monitor this World Cup",
-      "summary": "Joe Dickerson is one of North America’s best referees, but he’ll be off the field in a high-pressure position when the World Cup begins • Predict the winner | Daily pod...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup",
-      "publishedAt": "2026-06-09T16:30:02.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4f23620fb44e74",
-      "title": "Chelsea backed to sign Marcus Rashford on two conditions as club legend reveals three dream transfers",
-      "summary": "Chelsea have been backed to sign Marcus Rashford from Manchester United on two conditions, while three dream transfers have been mooted.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-backed-sign-marcus-rashford-two-conditions-three-dream-transfers",
-      "publishedAt": "2026-06-09T16:26:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7dc037314ec4f6",
-      "title": "Romano confirms Liverpool ‘really pushing’ to sign ‘top priority’ target as FSG hold advantage over PSG",
-      "summary": "According to Fabrizio Romano, Liverpool hold an advantage over Paris Saint-Germain in the race to sign Yan Diomande from RB Leipzig.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-confirms-liverpool-really-pushing-sign-top-priority-target-fsg-advantage-psg",
-      "publishedAt": "2026-06-09T15:56:47.000Z",
-      "category": "transfer",
-      "region": "england italy france germany",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "926fec57f9b39e",
-      "title": "Football Daily",
-      "summary": "Mark Chapman reflects on Mexico '86, Maradona's 'Hand of God' & the 'Goal of the Century'.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nqzzct?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T15:30:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "99f040f4bf910e",
-      "title": "Man Utd dealt blow as Jorge Mendes ‘working on’ Real Madrid deal for £80m star",
-      "summary": "Manchester United could miss out on a midfielder because of Real Madrid, with Jose Mourinho keen on the star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-mateus-fernandes-manchester-united-west-ham-united",
-      "publishedAt": "2026-06-09T15:19:04.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "edf9deff3c7885",
-      "title": "Risk of death to oldest man at World Cup - walking miracle Gordon",
-      "summary": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T15:10:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b5ff2ef33bac31",
-      "title": "Mason Greenwood ‘approves’ transfer, ‘says goodbye’ after Romano reveals ‘heavy’ Man Utd impact",
-      "summary": "According to reports, Mason Greenwood has now ‘approved’ a move to Serie A giants AS Roma, and this is good news for Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mason-greenwood-approves-transfer-says-goodbye-romano-heavy-man-utd-impact",
-      "publishedAt": "2026-06-09T15:10:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Serie A",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6d54a1fa870ef3",
-      "title": "Ngumoha to leave England squad having made mark",
-      "summary": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cddl48g7d94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T15:01:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "8abf2510178c5c",
-      "title": "Colombia World Cup 2026 team guide",
-      "summary": "Luis Díaz is the leading light of an extremely well-supported team still built around the 2014 golden boot winner James Rodríguez This article is part of the Guardian’s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/09/colombia-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-09T15:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "87808f83722fab",
-      "title": "Every World Cup warm-up friendly fixture, result and how to watch on TV…",
-      "summary": "The 48 nations competing at the World Cup are stepping up their preparations, with every warm-up friendly fixture and result listed here…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-2026-warm-up-friendly-fixtures-results-kick-off-times-what-tv-channel",
-      "publishedAt": "2026-06-09T14:18:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e0e19fcd9be134",
-      "title": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
-      "summary": "Multiple women accuse the billionaire of abusing his power and preying on them for sex, in some cases when they were in their late teens.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T14:17:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "4a9b2ab4a24d03",
-      "title": "Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal",
-      "summary": "Sage guided Lens to second place in Ligue 1 this season Glasner likely to join Milan after rejecting Feyenoord offer Crystal Palace are poised to appoint Pierre Sage as...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/09/crystal-palace-to-appoint-pierre-sage-head-coach-two-year-deal",
-      "publishedAt": "2026-06-09T14:17:37.000Z",
-      "category": "transfer",
-      "region": "italy france",
-      "tags": [
-        "Football",
-        "Ligue 1",
-        "Milan"
-      ]
-    },
-    {
-      "id": "d2390d4878561b",
-      "title": "Liverpool ‘rejected’ by teenage ‘gem’ for one reason as ‘decision’ on preferred next move revealed",
-      "summary": "According to reports, Liverpool have now suffered a ‘rejection’ in the race to sign a teenage ‘gem’ despite making the ‘most attractive offer’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-rejected-teenage-gem-one-reason-decision-next-move-revealed",
-      "publishedAt": "2026-06-09T14:13:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     }
   ],
