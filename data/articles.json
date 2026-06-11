@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T16:11:15.971Z",
+  "generatedAt": "2026-06-11T20:27:22.743Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,55 @@
       "pinned": true
     },
     {
-      "id": "21428ff0fceecd",
-      "title": "Man Utd monitoring Hall with Fulham's Robinson also an option",
-      "summary": "Manchester United are continuing to monitor Newcastle United’s Lewis Hall with Fulham’s Antonee Robinson also emerging as a potential target as they look to reinforce t...",
+      "id": "01fd3111638a74",
+      "title": "Mexico lead World Cup opener with South Africa now down to 10 men LIVE!",
+      "summary": "Mexico lead World Cup opener with South Africa now down to 10 men LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13552968/manchester-united-transfer-news-lewis-hall-and-antonee-robinson-options-as-left-back-targets-as-back-up-goalkeeper-could-also-join",
-      "publishedAt": "2026-06-11T16:11:15.558Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
+      "publishedAt": "2026-06-11T20:27:22.577Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Manchester"
+        "World Cup"
+      ]
+    },
+    {
+      "id": "16d15408be61c9",
+      "title": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+      "summary": "Real Madrid have confirmed the re-appointment of Jose Mourinho as first team coach.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c4b6091f4da0ba",
+      "title": "'Cannot last forever' - Russell feels 'everything is going against me'",
+      "summary": "George Russell says his misfortune \"cannot last forever\" and is hoping for \"neutral luck\" at this weekend's Barcelona-Catalunya Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13552953/george-russell-mercedes-driver-says-misfortune-cannot-last-forever-ahead-of-barcelona-catalunya-grand-prix",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f3f2e8072be707",
+      "title": "Could visa issues continue to define the World Cup?",
+      "summary": "Sky Sports Geraint Hughes takes a look at the visa issues that have rocked the World Cup after Somalian referee Omar Artan was refused entry into the US.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -117,7 +156,7 @@
       "summary": "England's preparation camp is drawing to a close.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552984/jude-bellingham-over-morgan-rogers-at-no-10-what-weve-learned-from-englands-world-cup-training-camp-in-florida",
-      "publishedAt": "2026-06-11T16:11:15.557Z",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -127,10 +166,10 @@
     {
       "id": "fba17e0f9605a4",
       "title": "Fix Vini Jnr relationship, maximise Mbappe - win! Jose's Real Madrid priorities",
-      "summary": "Jose Mourinho is set to be re-appointed by Real Madrid. It's a dream return for the head coach - but when he gets down to business he will find a range of dilemmas whic...",
+      "summary": "Jose Mourinho has been re-appointed by Real Madrid. It's a dream return for the head coach - but when he gets down to business he will find a range of dilemmas which ha...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13551869/real-madrid-jose-mourinho-has-vinicius-jnr-kylian-mbappe-jude-bellingham-and-trent-alexander-arnold-issues-in-his-in-tray-as-he-returns-to-bernabeu",
-      "publishedAt": "2026-06-11T16:11:15.557Z",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -143,7 +182,7 @@
       "summary": "The summer transfer window is nearly upon us. Here are all the key dates.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13546220/summer-transfer-window-2026-dates-when-is-deadline-day-for-premier-league-and-efl-clubs-to-sign-players",
-      "publishedAt": "2026-06-11T16:11:15.557Z",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,25 +190,12 @@
       ]
     },
     {
-      "id": "01fd3111638a74",
-      "title": "Mexico vs South Africa: Predict the score for the World Cup opener",
-      "summary": "Mexico vs South Africa: Predict the score for the World Cup opener",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
-      "publishedAt": "2026-06-11T16:11:15.557Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "558f1922fd2ca0",
-      "title": "World Cup of Darts starts today! Who is playing and how does it work?",
-      "summary": "All you need to know about the BetVictor World Cup of Darts 2026 as No 1 Luke Littler joins forces with No 2 Luke Humphries to represent Team England.",
+      "title": "World Cup of Darts 2026: Who is playing and how does it work?",
+      "summary": "The BetVictor World Cup of Darts 2026 is off and running as No 1 Luke Littler joins forces with No 2 Luke Humphries to represent Team England.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
-      "publishedAt": "2026-06-11T16:11:15.557Z",
+      "publishedAt": "2026-06-11T20:27:22.576Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,12 +203,71 @@
       ]
     },
     {
-      "id": "406f6881833ce3",
-      "title": "Edwards 'shocked' by Wolves sacking with replacement lined up",
-      "summary": "Wolves have sacked head coach Rob Edwards after the club's relegation from the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13552944/rob-edwards-wolves-sack-head-coach-after-seven-months-in-charge",
-      "publishedAt": "2026-06-11T16:11:15.557Z",
+      "id": "a967e5002e00e5",
+      "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
+      "summary": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T20:26:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9009dd5e535aca",
+      "title": "Mexico v South Africa: World Cup 2026 opening match – live",
+      "summary": "⚽️ Kick-off time: 1pm local/8pm BST/3pm EDT/5am AEST ⚽️ Player guide | Bracketology | Wallchart | Email Daniel “That ITV studio is spectacular,” reckons Kev the Poet. “...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+      "publishedAt": "2026-06-11T20:16:11.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c13512cfa049fc",
+      "title": "Man Utd, Arsenal could complete winger swap involving Rashford after Arteta approves move",
+      "summary": "Manchester United and Arsenal could complete a mutually beneficial winger swap involving Marcus Rashford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-arsenal-marcus-rashford-gabriel-martinelli-winger-swap-mikel-arteta-approves-deal",
+      "publishedAt": "2026-06-11T20:08:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ed8a7bcb98c06a",
+      "title": "Captain Endo out of World Cup and retires from Japan duty",
+      "summary": "Liverpool midfielder Wataru Endo withdraws from Japan's World Cup squad because of injury and retires from international football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpez39k50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T19:46:56.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bb116e130be14e",
+      "title": "All done deals in June 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T19:37:09.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -190,16 +275,153 @@
       ]
     },
     {
-      "id": "f3f2e8072be707",
-      "title": "Could visa issues continue to define the World Cup?",
-      "summary": "Sky Sports Geraint Hughes takes a look at the visa issues that have rocked the World Cup after Somalian referee Omar Artan was refused entry into the US.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
-      "publishedAt": "2026-06-11T16:11:15.556Z",
+      "id": "727ea99bd8012d",
+      "title": "Real Madrid reappoint Mourinho on three-year deal",
+      "summary": "Real Madrid have confirmed the re-appointment of Jose Mourinho as head coach.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T19:11:19.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "936eae9776fb37",
+      "title": "Liverpool finally submit first ‘official bid’ for Diomande after Romano says ‘important money’ is offered",
+      "summary": "Liverpool have made their first ‘official bid’ to sign RB Leipzig winger Yan Diomande after months of rumours, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-submit-first-official-bid-yan-diomande",
+      "publishedAt": "2026-06-11T19:07:30.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a9831a218ba20f",
+      "title": "Players organise England team-bonding dinner in Miami",
+      "summary": "England players organise a team-bonding dinner in Miami with Thomas Tuchel giving them time off from their gruelling Florida pre-World Cup training camp.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T18:40:27.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "00139e749b408a",
+      "title": "McTominay should be fit for Scotland’s World Cup opener despite stomach bug",
+      "summary": "Midfielder missed final training session before Haiti game ‘Hopefully that doesn’t spread,’ said Kenny McLean Scotland are confident Scott McTominay will be fit to face...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/11/scott-mctominay-scotland-world-cup-opener-stomach-bug",
+      "publishedAt": "2026-06-11T18:37:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3769f2305c0853",
+      "title": "Real Madrid confirm José Mourinho’s return as manager after 13 years away",
+      "summary": "63-year-old leaves Benfica to move back to the Bernabéu Marco Silva agrees deal to replace him at Portuguese club José Mourinho’s blockbuster return as Real Madrid mana...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/11/real-madrid-confirm-jose-mourinho-manager",
+      "publishedAt": "2026-06-11T18:29:53.000Z",
+      "category": "transfer",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Champions League",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "3a0ca482c933ec",
+      "title": "Man Utd brand Anderson asking price ‘a disgrace’ as Romano gives update after £121m Man City bid",
+      "summary": "Man Utd reportedly think Nottingham Forest’s asking price for Elliot Anderson is ‘a disgrace’ as Fabrizio Romano brings an update on Man City’s interest.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-branded-anderson-asking-price-disgrace-romano-update-man-city-bid",
+      "publishedAt": "2026-06-11T18:16:06.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "debec34c96af59",
+      "title": "Romano confirms Real Madrid are in ‘advanced talks’ to sign Man City legend Silva on a free transfer",
+      "summary": "Real Madrid are now in “advanced talks” to sign Man City legend Bernardo Silva on a free transfer this summer, according to Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-bernardo-silva-advanced-talks-romano-man-city",
+      "publishedAt": "2026-06-11T17:32:59.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Transfer",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "b8f474ab7b2984",
+      "title": "How to watch highlights of World Cup matches?",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T17:26:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c5d424d5caae5b",
+      "title": "Injuries force Ezzalzouli & Aguerd out of World Cup",
+      "summary": "Morocco forward Abde Ezzalzouli and defender Nayef Aguerd withdraw from their squad because of injury, two days before their World Cup opener against Brazil.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5yrr1k6nxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T17:26:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b80412f1f82fb1",
+      "title": "Catch up on the World Cup without any spoilers",
+      "summary": "It is a dilemma plenty of fans in the UK will have - and we are giving you the chance to follow the World Cup without spoilers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c0qy0zn231yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T17:08:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2f7a9ea9e6ab8d",
+      "title": "Liverpool find out asking price for Curtis Jones replacement – but Man Utd threaten hijack",
+      "summary": "Liverpool have identified Juventus midfielder Khephren Thuram as a potential replacement for Curtis Jones this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-jones-replacement-thuram-juventus-man-utd-threaten-hijack",
+      "publishedAt": "2026-06-11T16:47:48.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Juventus"
       ]
     },
     {
@@ -218,19 +440,18 @@
       ]
     },
     {
-      "id": "27e470313ab38b",
-      "title": "World Cup 2026: countdown to kick-off in Mexico, Somali referee to officiate Uefa Super Cup – live",
-      "summary": "⚽️ Infantino tells fans to ‘chill’ in response to Fifa’s critics ⚽️ Match centre | Player guide | Bracketology | Mail Rob BTL chat is thus far dominated by Gianni Infan...",
+      "id": "c385d92c44afbd",
+      "title": "The United States enter a charged World Cup asking: what is enough?",
+      "summary": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sport World Cup newsletter | Daily...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive",
-      "publishedAt": "2026-06-11T15:45:28.000Z",
-      "category": "worldcup",
-      "region": "italy",
+      "url": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview",
+      "publishedAt": "2026-06-11T16:01:18.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
+        "Soccer",
+        "World Cup"
       ]
     },
     {
@@ -335,21 +556,22 @@
     {
       "id": "d6456d423421b3",
       "title": "Socceroos’ breakout star Jordan Bos at ease with the hype: ‘I’m a pretty chill guy’",
-      "summary": "The full-back’s career has moved as swiftly as his marauding runs down the left to make him Australia’s not-so-secret weapon at the 2026 World Cup Jordan Bos smiles, wi...",
+      "summary": "The full-back’s career has moved as swiftly as his marauding runs down the left to make him Australia’s not-so-secret weapon at the 2026 World Cup ⚽️ How to watch the S...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jun/12/socceroos-jordan-bos-jordy-footballer-world-cup-australia-national-football-team",
       "publishedAt": "2026-06-11T15:00:19.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
         "Football",
         "Soccer",
-        "World Cup"
+        "World Cup",
+        "Inter"
       ]
     },
     {
       "id": "6be67517f76bbe",
-      "title": "Artan to referee Uefa Super Cup after losing World Cup spot",
+      "title": "Artan to referee Uefa Super Cup after losing World Cup role",
       "summary": "Somali referee Omar Artan is appointed to take charge of the Uefa Super Cup match between Paris St-Germain and Aston Villa later this summer after being denied a spot a...",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss",
@@ -362,23 +584,9 @@
       ]
     },
     {
-      "id": "1dc9f927329d15",
-      "title": "Football Daily | World Cup day is upon us: chill, relax and revel in the euphoria and despair",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Happy GWC Day everyone! Sure, Bigger Cup may have become the pinnacle of football in the 21st century, but nothing s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/11/football-daily-world-cup-day-chill-relax-euphoria-despair",
-      "publishedAt": "2026-06-11T14:06:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "481d00a20d3aed",
       "title": "Man City second offer worth £120m for Anderson rejected",
-      "summary": "Elliot Anderson would prefer a move to Manchester City over Manchester United should a deal be agreed with Nottingham Forest after a second offer was rejected.",
+      "summary": "Elliot Anderson would prefer a move to Manchester City over Manchester United should a deal be agreed with Nottingham Forest, but a second offer has been rejected.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/cp8r74rr95po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-11T14:06:13.000Z",
@@ -386,212 +594,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "7b0a1301017623",
-      "title": "Michael Carrick ‘reminds’ comically deluded Man Utd hero of Pep Guardiola – ‘Who’s to say?’",
-      "summary": "“Who’s to say Michael Carrick can’t do the same as Pep Guardiola?” asks Manchester United hero Teddy Sheringham. We say, they say, everyone says, you absolute maniac.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-reminds-comically-deluded-man-utd-hero-of-pep-guardiola-whos-to-say",
-      "publishedAt": "2026-06-11T14:00:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0ac3259b7742b3",
-      "title": "Fatigue? The World Cup players who have had toughest seasons",
-      "summary": "BBC Sport examines which World Cup teams and players have played the most minutes since last summer, when the Club World Cup was kicking off in the United States.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T13:55:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "de642f5531cd96",
-      "title": "UEFA gives Somali referee Super Cup in tremendous ‘F you’ to FIFA",
-      "summary": "“Chill, relax” was Gianni Infantino’s message on Wednesday but then UEFA gave Somali referee Omar Abdulkadir Artan the Super Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/uefa-gives-somali-referee-super-cup",
-      "publishedAt": "2026-06-11T13:52:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "bc6a874e998f08",
-      "title": "Man Utd target World Cup left-back who ‘wants to join Liverpool’",
-      "summary": "Manchester United are keeping tabs on an American star who is keen on a move to Liverpool in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-fulham-liverpool-antonee-robinson",
-      "publishedAt": "2026-06-11T13:50:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "46b28f8b3fe667",
-      "title": "The rise and rise of 'Meatball' McGinn",
-      "summary": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T13:48:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "907acbe9a3653e",
-      "title": "High prices and visa issues mean World Cup boost to tourism non-existent",
-      "summary": "Hours before the World Cup kickoff, the boost to travel and tourism expected from this year’s biggest sporting event has yet to materialise.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/high-prices-visa-world-cup-boost-hotels-non-existent",
-      "publishedAt": "2026-06-11T13:43:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: Starting positions confirmed as tournament arrives at last",
-      "summary": "The World Cup is here and that means one last shuffle of the Power Rankings before it starts being based on actual results rather than vibes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-06-11T13:22:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fd52593f58ce28",
-      "title": "Euro giants line up ‘official offer’ for Van Dijk as Liverpool departure ‘meetings continue’",
-      "summary": "Galatasaray are weighing up an ‘official offer’ to sign Liverpool star Virgil van Dijk after the transfer window opens, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-official-offer-van-dijk-galatasaray-meetings",
-      "publishedAt": "2026-06-11T13:21:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "9f844743120f36",
-      "title": "Ferdinand would have ‘gambled’ on one England player in ‘big disagreement’ with Tuchel",
-      "summary": "Rio Ferdinand says he has “one big disagreement” with Thomas Tuchel’s England squad for the World Cup as he would have “gambled” on a game-changer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ferdinand-would-have-gambled-on-one-england-player-in-big-disagreement-with-tuchel",
-      "publishedAt": "2026-06-11T13:19:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "81bb6090989f9c",
-      "title": "Who will win Young Player of the Tournament at the 2026 World Cup? Nico O’Reilly in the running",
-      "summary": "Enzo Fernandez is the holder of the gong after helping Argentina to World Cup glory in Qatar four years ago, but who will win Young Player of the Tournament in ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-young-player-of-the-tournament-at-the-2026-world-cup-nico-oreilly-in-the-running",
-      "publishedAt": "2026-06-11T13:00:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fbe7df1be18000",
-      "title": "Who will win the 2026 World Cup Golden Ball? Lamine Yamal the favourite",
-      "summary": "Lionel Messi has already won it twice and is fifth in the running to win the Golden Ball in 2026. Harry Kane sits behind the phenom.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
-      "publishedAt": "2026-06-11T12:58:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e64d5ca752b6f6",
-      "title": "Welcome to Trump’s World Cup, a depressingly angry version of football uniting the planet | Barney Ronay",
-      "summary": "Ted Lasso will deliver a message of hope before the USA’s first game, in an America that is not a fit or desirable host right now Shortly before 6pm local time on Frida...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/11/donald-trump-world-cup-ted-lasso-usa",
-      "publishedAt": "2026-06-11T12:44:08.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d9ecaf54af004d",
-      "title": "Stuart Pearce names England star who can ‘win a game on his own’ but still ‘wants more’",
-      "summary": "The Three Lions legend believes the elite Arsenal talent can take his game to another level for his country ahead of the World Cup opener with Croatia",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/stuart-pearce-wants-more-elite-arsenal-star-declan-rice-england-shirt",
-      "publishedAt": "2026-06-11T12:25:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1c74a23d8565d6",
-      "title": "Who are the favourites for the 2026 World Cup in the United States?",
-      "summary": "The World Cup is barely a week away and England are somehow third favourites behind the twin towers of Spain and France.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
-      "publishedAt": "2026-06-11T12:24:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7be540c916765f",
-      "title": "German star responds after Arsenal ‘present’ £250,000-a-week salary during ‘Zoom calls’ – report",
-      "summary": "Arsenal have made a major play to bring a Bundesliga gem to the Emirates Stadium in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-nathaniel-brown-eintracht-frankfurt-bayern-munich",
-      "publishedAt": "2026-06-11T12:20:16.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bundesliga",
-        "Transfer",
-        "Arsenal"
       ]
     }
   ],
