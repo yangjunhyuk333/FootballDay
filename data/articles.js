@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-10T20:36:46.301Z",
+  "generatedAt": "2026-06-11T04:22:58.619Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,197 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "c7b9d431050d9a",
+      "title": "FIFA prez: People should 'chill' over WC visa issu...",
+      "summary": "FIFA president Gianni Infantino said the organization cannot dictate to the U.S. government who to allow into its country for the World Cup, saying that sometimes it is...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49021490/fifa-president-gianni-infantino-world-cup-visa-usa-ticket-prices",
+      "publishedAt": "2026-06-11T05:05:42.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "85c961f233a332",
+      "title": "Aguirre embraces Azteca's pressure for WC opener",
+      "summary": "On the eve of the World Cup opener and Mexico's debut in front of their fans at the Estadio Azteca, Javier Aguirre stated that he feels 'privileged' to experience the p...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49022908/privileged-aguirre-embraces-pressure-mexico-world-cup-opener",
+      "publishedAt": "2026-06-11T05:05:42.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b4a73426415a08",
+      "title": "Spain, France open World Cup as betting favorites",
+      "summary": "France and Spain are the betting favorites to win the 2026 World Cup, while heavy backing for Team USA is creating massive liabilities for sportsbooks.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49025269/spain-france-lead-world-cup-odds-usa-bettors-back-home-team",
+      "publishedAt": "2026-06-11T05:04:54.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "57a3e4d21490a1",
+      "title": "Richards 'ready' for USMNT opener after injury",
+      "summary": "USMNT defender Chris Richards says his recovery from a sprained ankle has progressed to the point where he's \"ready\" to face Paraguay in the team's World Cup opener on...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49020900/usa-chris-richards-injury-world-cup-2026-paraguay",
+      "publishedAt": "2026-06-11T05:04:54.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "66d3a73532a3e8",
+      "title": "Tuchel: England ready to 'come alive' at World Cup...",
+      "summary": "England coach Thomas Tuchel said after his team's dominant win over Costa Rica on Wednesday that the Three Lions are starting to \"click\" into gear ahead of the World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49023366/tuchel-england-ready-come-alive-world-cup-dominant-win",
+      "publishedAt": "2026-06-11T05:04:54.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "83c411e75d4c2b",
+      "title": "Sources: City make British-record bid for Anderson...",
+      "summary": "Manchester City have made a British-record bid for Nottingham Forest midfielder Elliot Anderson, sources have told ESPN.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49021446/man-city-make-british-record-transfer-bid-elliot-anderson-sources",
+      "publishedAt": "2026-06-11T05:04:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cba742c8c35144",
+      "title": "Fourth World Cup still has Son 'feeling like a kid...",
+      "summary": "South Korea captain Son Heung-min says he feels like a \"kid\" as he enters his fourth World Cup, where he will debut against the Czech Republic in a Group A match in Gua...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49023594/fourth-fifa-world-cup-south-korea-captain-son-heung-min-feeling-kid",
+      "publishedAt": "2026-06-11T05:04:54.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "648590929e2096",
+      "title": "📈 Ranking the 50 best players in the World Cup",
+      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
+      "publishedAt": "2026-06-11T05:04:54.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "a8c69a550098b1",
+      "title": "England player ratings: Has Bellingham done enough?",
+      "summary": "England have played their final World Cup warm-up game. Next comes the real thing. So, who has nailed down their spot? Who has played themselves into contention? And wh...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552806/england-player-ratings-anthony-gordon-proves-his-value-but-has-jude-bellingham-done-enough-to-guarantee-world-cup-start",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "857e52f9f75dda",
+      "title": "Gordon stars as England beat Costa Rica in final World Cup warm-up",
+      "summary": "Anthony Gordon starred as England stepped up their World Cup preparations with a 3-0 win over Costa Rica in their final official friendly before the tournament.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/england-vs-costa-rica/report/553973",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "42c530b55e4943",
+      "title": "McKenna stepping down as Ipswich boss to take break from football",
+      "summary": "Kieran McKenna is stepping down as Ipswich manager to take a break from football.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "777ff4dd1992cd",
+      "title": "Papers: Mourinho eyes Gvardiol and Fernandes for Real Madrid",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13552883/real-madrid-transfer-news-jose-mourinho-targeting-man-citys-josko-gvardiol-and-man-utd-target-mateus-fernandes",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Transfer",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f470ca27b3062c",
+      "title": "Which rookies will drive in Barcelona practice as Hamilton, Antonelli sit out?",
+      "summary": "Formula 1 teams are set to unleash their rookie reserve drivers during Friday's opening practice session at the Barcelona-Catalunya Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13552692/which-f1-rookies-will-drive-in-barcelona-catalunya-gp-first-practice-as-lewis-hamilton-kimi-antonelli-sit-out-session",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "16d96fa21e6d74",
+      "title": "Senesi signs for Tottenham on free transfer from Bournemouth",
+      "summary": "Marcos Senesi has signed for Tottenham on a free transfer from Bournemouth.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13549085/marcos-senesi-tottenham-sign-bournemouth-defender-on-free-transfer-after-four-year-stay-at-cherries",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "3297b042c758af",
       "title": "'It's absolutely UNBELIEVABLE!' | Weather delays England's final WC warm-up",
       "summary": "Sky Sports News' Rob Dorsett with an update on the weather in Orlando ahead of England's final World Cup warm up game with Costa Rica.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13552832/england-could-weather-delay-three-lions-final-world-cup-warm-up-game",
-      "publishedAt": "2026-06-10T20:36:46.037Z",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -117,7 +302,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Everton have launched an appeal after being ordered to pay Burnley £35m in compensation after they were sued over Premier League profitability and sustainability breach...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552745/everton-appeal-order-to-pay-burnley-40m-in-compensation-over-psr-breaches-in-june-2022",
-      "publishedAt": "2026-06-10T20:36:46.037Z",
+      "publishedAt": "2026-06-11T04:22:58.403Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,38 +310,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1efe1d1e08c0fd",
-      "title": "Bellingham starts for England in delayed World Cup warm-up game LIVE!",
-      "summary": "Bellingham starts for England in delayed World Cup warm-up game LIVE!",
+      "id": "678339b0f5aa5f",
+      "title": "Are England now ready to go and win the World Cup?",
+      "summary": "Declan Rice called it a \"top performance\" against Costa Rica. It left Thomas Tuchel \"very proud\". So are England now primed and ready to go on and win the World Cup?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/england-vs-costa-rica/live/553973",
-      "publishedAt": "2026-06-10T20:36:46.037Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Michael Olise's brother among released players",
-      "summary": "Chelsea latest: Michael Olise's brother among released players",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-10T20:36:46.037Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "425d6c4c8bda34",
-      "title": "Carragher fears over Bellingham’s England role at World Cup",
-      "summary": "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate airwaves” this summer.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13552649/jude-bellingham-jamie-carragher-fears-real-madrid-stars-england-role-could-dominate-airwaves-at-world-cup",
-      "publishedAt": "2026-06-10T20:36:46.037Z",
+      "url": "https://www.skysports.com/football/news/12040/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
+      "publishedAt": "2026-06-11T04:22:58.402Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -169,7 +328,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "FIFA president Gianni Infantino called for people to \"chill and relax\" over Somali referee Omar Artan being denied entry to the United States to officiate at the World...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13552857/world-cup-2026-fifa-president-gianni-infantino-says-chill-and-relax-after-somali-referee-denied-us-visa",
-      "publishedAt": "2026-06-10T20:36:46.036Z",
+      "publishedAt": "2026-06-11T04:22:58.402Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -183,7 +342,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Football is having an increasing influence in the USA - but the USA is having an increasing influence on football, too.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13550717/world-cup-how-usa-is-embracing-football-and-impacting-the-global-game",
-      "publishedAt": "2026-06-10T20:36:46.036Z",
+      "publishedAt": "2026-06-11T04:22:58.402Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -196,7 +355,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Formula 1 bosses have agreed to make changes to the sport's engine regulations for the 2027 and 2028 seasons which will see an increase in internal combustion output.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13552811/formula-1-agree-engine-rule-changes-for-2027-and-2028-season-in-move-away-from-50-50-power-source",
-      "publishedAt": "2026-06-10T20:36:46.036Z",
+      "publishedAt": "2026-06-11T04:22:58.402Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -204,109 +363,119 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "42c530b55e4943",
-      "title": "McKenna stepping down as Ipswich boss to take break from football",
-      "summary": "Kieran McKenna is stepping down as Ipswich manager to take a break from football.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13552342/kieran-mckenna-stepping-down-as-ipswich-boss-to-take-a-break-from-football-amid-fulham-interest",
-      "publishedAt": "2026-06-10T20:36:46.036Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "f470ca27b3062c",
-      "title": "Which rookies will drive in Barcelona practice as Hamilton, Antonelli sit out?",
-      "summary": "Formula 1 teams are set to unleash their rookie reserve drivers during Friday's opening practice session at the Barcelona-Catalunya Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13552692/which-f1-rookies-will-drive-in-barcelona-catalunya-gp-first-practice-as-lewis-hamilton-kimi-antonelli-sit-out-session",
-      "publishedAt": "2026-06-10T20:36:46.036Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "16d96fa21e6d74",
-      "title": "Senesi signs for Tottenham on free transfer from Bournemouth",
-      "summary": "Marcos Senesi has signed for Tottenham on a free transfer from Bournemouth.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13549085/marcos-senesi-tottenham-sign-bournemouth-defender-on-free-transfer-after-four-year-stay-at-cherries",
-      "publishedAt": "2026-06-10T20:36:46.036Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "1beffa4ab4dd26",
-      "title": "Man City raise transfer stakes to cost Man Utd in chase of overpriced trio",
-      "summary": "£125m for Anderson?! Man Utd won’t be thanking Man City for pricing them out of a move for their ‘dream target’ and raising the transfer stakes for their alternatives.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-anderson-man-city-raise-transfer-stakes-man-utd-chase-285m-trio",
-      "publishedAt": "2026-06-10T20:28:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "f3b32722aa96c8",
-      "title": "England v Costa Rica: World Cup 2026 warm-up delayed by storm – live",
-      "summary": "Kick-off in Orlando friendly now 10pm BST, 5pm EDT Player guide | Bracketology | Wallchart | Mail Scott England: Pickford, Konsa, O’Reilly, Stones, James, Rice, Anderso...",
+      "id": "d9cf6686c5d57a",
+      "title": "Omar Artan scandal reveals Gianni Infantino for what he is: one of sport’s greatest cowards | Jonathan Liew",
+      "summary": "Fifa president has prostrated the organisation before Donald Trump and lost control of his own tournament as a result Even the Nazis tried to tone things down a bit. Be...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/10/england-v-costa-rica-world-cup-2026-warm-up-live",
-      "publishedAt": "2026-06-10T20:25:19.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bb43b08f5623dd",
-      "title": "‘Not in our best moment’: strikes and tension temper World Cup buzz in Mexico City",
-      "summary": "An escalating teachers’ strike and concerns around public perception have left locals with complicated feelings on the eve of the tournament’s opener World Cup newslett...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-city-world-cup-teachers-strike-protest",
-      "publishedAt": "2026-06-10T19:57:37.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/11/omar-artan-scandal-gianni-infantino-donald-trump-world-cup",
+      "publishedAt": "2026-06-11T04:01:05.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Soccer",
         "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "1e53c595e7af58",
-      "title": "Rashford future uncertain as Barca deal deadline looms",
-      "summary": "Man Utd are yet to be told whether Barcelona intend to sign England international Marcus Rashford for £26m before 15 June deadline following his loan spell.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c3ryx74peyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T19:01:14.000Z",
-      "category": "transfer",
-      "region": "spain italy",
+      "id": "a85351938c9f75",
+      "title": "Can South Korea overcome their poor World Cup open...",
+      "summary": "On Thursday, South Korea will be looking to do what they haven't been able to since 2010 -- win their opener at the World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49013922/can-south-korea-overcome-their-poor-world-cup-opener-history",
+      "publishedAt": "2026-06-11T02:23:43.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Barcelona",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1edf72d20e2bed",
+      "title": "Mexico's Mora is poised to be World Cup's breakout...",
+      "summary": "Getting beyond the quarterfinals would be historic for Mexico. Lucky for El Tri, they have a 17-year-old who can't stop making history.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48999966/mexico-gilberto-mora-poised-world-cup-breakout-star-guy-different",
+      "publishedAt": "2026-06-11T02:23:42.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ee094fe1f3b4f2",
+      "title": "World Cup predictions: 19 ESPN experts make their ...",
+      "summary": "The World Cup has arrived! It's time for ESPN's experts to make their picks for silverware, surprise results and everything in between.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49011009/world-cup-2026-bold-predictions-winners-awards-golden-ball-breakout-stars-best-matches",
+      "publishedAt": "2026-06-11T02:21:43.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fa671ec444b92b",
+      "title": "World Cup Daily: Live updates as Mexico prepare f...",
+      "summary": "Re-live all of Wednesday's pre-tournament action as the world prepares to tune in to Mexico vs. South Africa in the World Cup opener.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49012679/world-cup-daily-one-day-go-mexico-prepare-opener",
+      "publishedAt": "2026-06-11T02:21:43.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1957e602c77172",
+      "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+      "summary": "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to face Croatia?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T00:45:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a6c26c74a30f02",
+      "title": "Tillman's stylish photoshoot earns him ribbing fro...",
+      "summary": "Malik Tillman isn't the only footballer to have an interest in fashion, but his photo shoot for Flaunt has raised eyebrows in the USMNT dressing room.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49021145/malik-tillman-stylish-photoshoot-flaunt-magazine-earns-ribbing-usmnt-teammates",
+      "publishedAt": "2026-06-10T23:38:50.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
         "Inter"
       ]
     },
     {
-      "id": "3e73bf059c8bcc",
-      "title": "Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
-      "summary": "The men’s head coach discusses his ‘American dream’ at the World Cup and tempering the host nation’s ‘arrogant’ expectations This American dream begins in small-town Mu...",
+      "id": "c581744677b419",
+      "title": "England player ratings: Gordon the clear winner in 3-0 World Cup warm-up win over Costa Rica",
+      "summary": "Anthony Gordon was the big eye-catcher in a key position as England concluded their World Cup warm-up games with a 3-0 win over Costa Rica.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-ratings-costa-rica-anthony-gordon-jude-bellingham-noni-madueke-declan-rice",
+      "publishedAt": "2026-06-10T23:24:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c47be7bde96b9f",
+      "title": "Gordon makes his point as England breeze past Costa Rica in final World Cup warm-up",
+      "summary": "It was the day when Thomas Tuchel showed his hand for England’s World Cup opener against Croatia in Dallas next Wednesday and his players hinted at what can happen when...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not",
-      "publishedAt": "2026-06-10T19:00:54.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/11/england-costa-rica-world-cup-2026-warmup-match-report",
+      "publishedAt": "2026-06-10T23:13:01.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -315,276 +484,101 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "35a20c2997b4a5",
-      "title": "Barcelona ‘tell Man Utd and Marcus Rashford’ final condition for transfer deal – Fabrizio Romano",
-      "summary": "Fabrizio Romano has revealed that Barcelona have set Manchester United and Marcus Rashford a firm condition.",
+      "id": "92bee204140b51",
+      "title": "Bellingham battle inconsequential for England as two greater avenues emerge in Costa Rica win",
+      "summary": "The interminable Bellingham-Rogers debate will continue to make headlines before Croatia and beyond, but does it really matter? England have two greater avenues to Worl...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/marcus-rashford-barcelona-manchester-united-transfer-update-fabrizio-romano",
-      "publishedAt": "2026-06-10T18:56:41.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "50a64415b253c0",
-      "title": "Jadon Sancho primed to join ‘mid-section’ Premier League club after Man Utd release",
-      "summary": "Will Jadon Sancho join Crystal Palace after being released by Man Utd? He’s primed for a ‘mid-section’ Premier League club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/sancho-mid-section-premier-league-lub-man-utd-release",
-      "publishedAt": "2026-06-10T18:52:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "625c8ca0ca74c4",
-      "title": "BBC Women's Football Weekly",
-      "summary": "England must take the longer route to Brazil 2027 via the play-off rounds later this year",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nr7qsv?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T18:24:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a04257561302d5",
-      "title": "Man City FFP: £40m Everton compensation ‘sets legal precedent’ to boost Arsenal, Man Utd and Liverpool",
-      "summary": "Everton have been ordered to pay Burnley £40m in compensation for breaching Premier League spending rules and the ‘legal precedent set’ could be very bad news for Man C...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-40m-everton-compensation-legal-precedent-arsenal-man-utd-liverpool",
-      "publishedAt": "2026-06-10T18:02:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "849eafb8fb40f2",
-      "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T17:25:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "87ddb0f41ef8b0",
-      "title": "Manager McKenna leaves promoted Ipswich",
-      "summary": "Ipswich Town announce that Kieran McKenna has decided to resign, before the club's Premier League campaign.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cd7wn0erlvwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T17:13:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "921366821cfc63",
-      "title": "Spurs complete Senesi signing after Bournemouth exit",
-      "summary": "Tottenham confirm the signing of Marcos Senesi on a free transfer following his departure from Bournemouth.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cddl0glz4p7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T16:53:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "244d596831c87a",
-      "title": "TV rights holders frustrated over World Cup final half-time show delay",
-      "summary": "Fifa still to confirm length of show despite requests Delay is causing issues for advertising teams World Cup TV rights holders are growing increasingly frustrated at F...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/10/tv-rights-holders-frustrated-over-world-cup-final-half-time-show-delay",
-      "publishedAt": "2026-06-10T16:47:46.000Z",
-      "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9725151a282b11",
-      "title": "Brother's memory inspires SA's Williams for World Cup opener",
-      "summary": "Ronwen Williams' brother Marvin, who died in a car crash in 2010, is a source of inspiration as the goalkeeper captains South Africa against Mexico in the opening match...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx21lpdl4r6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T16:27:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-06-10T16:24:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "85fe9530d1d6f7",
-      "title": "Lineker picks between Rashford and Gordon in England XI at World Cup – ‘Have to’",
-      "summary": "Gary Lineker has given his verdict on who between Marcus Rashford and Anthony Gordon should start for England at the 2026 World Cup finals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/marcus-rashford-anthony-gordon-england-gary-lineker-thomas-tuchel",
-      "publishedAt": "2026-06-10T16:13:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9397d72f95c209",
-      "title": "Kennet Eichhorn ‘dream’ of joining Liverpool alive because of secret ‘release clause’ after Jarell Quansah ‘assurances’",
-      "summary": "Liverpool still have hope of signing Kennet Eichhorn after all, despite Bayer Leverkusen landing the Hertha Berlin youngster.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-kennet-eichhorn-release-clause-jarell-quansah",
-      "publishedAt": "2026-06-10T15:05:51.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b2e83afa8bbeb6",
-      "title": "Croatia World Cup 2026 team guide",
-      "summary": "Luka Modric and friends are aiming for one last hurrah but a Tottenham defender is providing hope for the future for England’s group opponents This article is part of t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/10/croatia-world-cup-2026-team-guide",
-      "publishedAt": "2026-06-10T15:00:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "dfe94ad550fb1b",
-      "title": "Referee Omar Artan returns to Somalia",
-      "summary": "Referee Omar Artan arrives back in Somalia after being denied entry to the United States for the World Cup because of his \"association with suspected members of terror...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c14ylv1eyl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T14:40:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "89fc3a1ce5d2b9",
-      "title": "Scotland's Super Mario and social butterfly who emerged from Man Utd cocoon",
-      "summary": "From unappreciated at Manchester United to idolised at Scotland and Napoli - but who is the real Scott McTominay?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jd7knx15o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T14:38:32.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a1b1571446fd22",
-      "title": "Why Ecuador, Japan and Norway are the dark horses at this World Cup",
-      "summary": "It was Morocco in 2022, Croatia in 2018 and Costa Rica in 2014. Which team will make an unexpected run in 2026? By WhoScored Every World Cup needs a dark horse: the tea...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/who-scored-blog/2026/jun/10/japan-ecuador-norway-dark-horses-world-cup-morocco-croatia-costa-rica",
-      "publishedAt": "2026-06-10T14:30:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4cad47067f38e8",
-      "title": "Everton ordered to pay Burnley nearly £40m in Premier League relegation legal case",
-      "summary": "Burnley relegated in 2022 after Everton breached PSR Everton ‘angered’ by verdict and have appealed Burnley have won a landmark legal case against Everton for breaching...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/10/everton-ordered-pay-burnley-premier-league-relegation-legal-case-psr-breaches",
-      "publishedAt": "2026-06-10T14:29:37.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "373348461a4dcc",
-      "title": "USA not totally reliant on Pulisic - Balboa",
-      "summary": "Former United States defender Marcelo Balboa says his country are not totally reliant on AC Milan star Christian Pulisic as the co-hosts prepare for their opening game...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cy5vlg1de26o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T14:29:31.000Z",
+      "url": "https://www.football365.com/news/opinion-bellingham-inconsequential-england-two-greater-avenues-emerge-costa-rica-win",
+      "publishedAt": "2026-06-10T23:10:16.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "World Cup",
-        "Milan"
+        "Inter"
       ]
     },
     {
-      "id": "fa15437c616b68",
-      "title": "The most tempting sub-£100m release clauses that can be triggered right now",
-      "summary": "The most tempting release clauses that can be activated in 2026 include a prominent Arsenal target or two and some potential bargains.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/most-tempting-transfer-release-clauses-world-football",
-      "publishedAt": "2026-06-10T14:21:01.000Z",
+      "id": "e7910311adbc0d",
+      "title": "Is England v Costa Rica storm delay a sign of things to come?",
+      "summary": "After England's game against Costa Rica was delayed by extreme weather, was that just a sign of things to come in the World Cup?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cr47lp04n34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-10T23:03:25.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
-      "id": "7b1c254f9349c1",
-      "title": "Everton ordered to pay Burnley £35m over PSR breaches",
-      "summary": "Everton are told they must pay Burnley £35m for the impact of a breach of the Premier League's financial rules.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cqx1wqr3yjno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-10T14:17:05.000Z",
-      "category": "league",
+      "id": "8b4330e87caae0",
+      "title": "Ghana World Cup 2026 team guide",
+      "summary": "Antoine Semenyo will need help from his supporting cast but there is plenty of excitement about a 20-year-old midfielder likened to Michael Essien This article is part...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/11/ghana-world-cup-2026-team-guide",
+      "publishedAt": "2026-06-10T23:01:01.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "44218f8adc8185",
+      "title": "Football Daily",
+      "summary": "Mark Chapman, Rachel Corsie, Steph Houghton and Chris Sutton preview the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nr8m0v?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-10T22:37:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bae7ad5b162e7c",
+      "title": "Arsenal in hunt for Williams - Thursday's gossip",
+      "summary": "Arsenal in the hunt for Nico Williams, Juventus open talks with Aston Villa over deal for Emiliano Martinez, Paris St-Germain chase Bayern Munich's Michael Olise.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ce371zx8zdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-10T22:32:06.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Arsenal",
+        "Bayern",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "21e31dc1e74ac0",
+      "title": "Fifa and global players' union agree landmark deal",
+      "summary": "Players will have a seat at football's decision-making table following a landmark deal between world governing body Fifa and global players' union Fifpro.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckg8vpx9rego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-10T22:31:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9bdac91a9246c0",
+      "title": "Infantino could have stood up for the World Cup - but he said 'chill, relax'",
+      "summary": "Gianni Infantino faced the media for the first time in three years, but he did little to convince that Fifa has lost its grip on the organisation of the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvgj40vymlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-10T22:28:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
       ]
     }
   ],
