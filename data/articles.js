@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-12T10:21:26.775Z",
+  "generatedAt": "2026-06-12T15:25:53.114Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,39 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "2b070297c8b456",
-      "title": "World Cup Daily LIVE: Haaland at Stanley Cup; USMN...",
-      "summary": "Enjoy all the updates from the World Cup as we have two matches Friday, with features, news, video analysis and color from around the competition.",
+      "id": "bbc267356b980e",
+      "title": "Pogba: Carrick gave 'another energy' to Man Utd",
+      "summary": "Paul Pogba has told ESPN that Michael Carrick gave fresh \"energy\" to the Manchester United players this season.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49032307/world-cup-daily-live-usmnt-canada-opening-games",
-      "publishedAt": "2026-06-12T10:42:03.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49040627/michael-carrick-gave-man-united-another-energy-paul-pogba",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e06de03954fe0f",
+      "title": "Ronaldo on WC fitness: Haven't you seen me play?",
+      "summary": "Cristiano Ronaldo has said he is fit, confident and eager embark on his record sixth FIFA World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49040297/cristiano-ronaldo-world-cup-fitness-portugal-not-seen-play",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "6e99aa3afb7aad",
+      "title": "Poch: 'Too late' for motivational speeches for U.S...",
+      "summary": "USMNT coach Mauricio Pochettino said that the time for fiery speeches is over and that his side is ready for Friday's World Cup opener against Paraguay.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49035215/mauricio-pochettino-usa-world-cup-speech-paraguay-lineup",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -112,12 +139,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3f47fefcc532b9",
-      "title": "Meet the USMNT: The 26 players striving to win a W...",
-      "summary": "With the U.S. kicking off its World Cup campaign Friday, ESPN introduces you to the 26 players tasked with taking the co-hosts on a deep run.",
+      "id": "8b6bf6e79ca1e6",
+      "title": "Mexico opens WC with win after record 3 red cards",
+      "summary": "Co-hosts Mexico got off to a victorious start, beating South Africa 2-0 as the largest World Cup in history kicked off Thursday at Mexico City's famed Estadio Azteca.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil",
-      "publishedAt": "2026-06-12T10:40:21.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49033183/mexico-south-africa-2026-world-cup-azetca-opening-game",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -125,12 +152,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a6530ee4b0e695",
-      "title": "Opposition scouting: How the U.S. can counter Para...",
-      "summary": "Paraguay are gritty opponents who will be all too happy to exploit the U.S. getting caught up in the emotion of kicking off a World Cup on home soil.",
+      "id": "db56a7c210f083",
+      "title": "Hwang's magic sparks South Korea comeback win",
+      "summary": "Hwang In-Beom leads South Korea to a 2-1 comeback win over Czechia in the World Cup in a game played in front of hundreds of empty seats at Mexico's Guadalajara Stadium.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49000798/opposition-scouting-how-usmnt-counter-paraguay-threat-world-cup-group-d-opener",
-      "publishedAt": "2026-06-12T10:40:21.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49037668/south-korea-overcome-czechia-via-hwang-beom-brilliant-display-world-cup",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -138,81 +165,75 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "57827d1983dd9b",
-      "title": "Women's T20 World Cup predictions: Who will win, England's MVP and more",
-      "summary": "Who will win the 2026 Women's T20 World Cup? How will England fare? And who will finish as the leading wicket-taker and top run-scorer?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13552837/2026-womens-t20-world-cup-pundit-predictions-how-far-will-england-go-who-will-be-their-star-player-and-which-other-nations-could-spring-a-surprise",
-      "publishedAt": "2026-06-12T10:21:26.364Z",
+      "id": "f599fedd623165",
+      "title": "Mexico's Aguirre says Jiménez earned 'perfect day'...",
+      "summary": "Raúl Jiménez finally has his star moment in a FIFA World Cup for Mexico, with his manager Javier Aguirre calling it a \"perfect day\" for the 35-year-old striker.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49035727/aguirre-jimenez-perfect-day-mexico-goal",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
-        "World Cup"
+        "World Cup",
+        "Fifa"
       ]
     },
     {
-      "id": "d687c671fcad36",
-      "title": "South Korea fight back to beat Czech Republic",
-      "summary": "South Korea fought back from a goal down to claim a deserved 2-1 win over Group A rivals Czech Republic in the second game of the World Cup at Estadio Guadalajara.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/korea-republic-vs-czech-republic/report/549766",
-      "publishedAt": "2026-06-12T10:21:26.364Z",
+      "id": "a5885f70d11927",
+      "title": "Palestine FA boss: U.S. denied my WCup visa",
+      "summary": "The head of the Palestinian Football Association is waiting in Mexico City for permission to enter the United States with other federation heads attending the 2026 FIFA...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49039483/palestine-fa-boss-says-was-not-granted-us-visa-world-cup",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
-        "World Cup"
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
-      "id": "d5e43e48c01637",
-      "title": "Clayton ready to go all the way at World Cup of Darts with new team-mate Kenny",
-      "summary": "Wales' Jonny Clayton is a two-time World Cup of Darts winner and, with a new team-mate in Nick Kenny by his side, the goal of a third is still very much in sight.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13552975/jonny-clayton-ready-to-go-all-the-way-at-world-cup-of-darts-with-new-team-mate-nick-kenny-you-dont-turn-down-the-chance-to-put-the-welsh-shirt-on",
-      "publishedAt": "2026-06-12T10:21:26.364Z",
+      "id": "648590929e2096",
+      "title": "📈 Ranking the 50 best players in the World Cup",
+      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
+      "publishedAt": "2026-06-12T16:01:06.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
-        "World Cup"
+        "World Cup",
+        "Fifa"
       ]
     },
     {
-      "id": "710ca37a1b4273",
-      "title": "World Cup of Darts: Wales' Clayton and Kenny get off to winning start in group stages",
-      "summary": "Jonny Clayton, alongside new partner Nick Kenny, got their World Cup of Darts campaign under way with a 4-1 victory over Lithuania’s Darius Labanauskas and Mindaugas Ba...",
+      "id": "9a5aff51db8de3",
+      "title": "Next Galactico & Liverpool target: FIVE breakout stars to watch at the WC...",
+      "summary": "Five breakout stars to watch at 2026 World Cup including Nico O'Reilly, Yan Diomande, Luka Vuskovic, Johan Manzambi and Nico Paz.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13552971/world-cup-of-darts-wales-jonny-clayton-and-nick-kenny-get-off-to-winning-ways-as-germany-ireland-also-win",
-      "publishedAt": "2026-06-12T10:21:26.364Z",
+      "url": "https://www.skysports.com/watch/video/13552272/five-breakout-stars-to-watch-at-2026-world-cup",
+      "publishedAt": "2026-06-12T15:25:52.701Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
+        "World Cup",
+        "Liverpool"
       ]
     },
     {
-      "id": "e922b03b7449b0",
-      "title": "World Cup of Darts 2026 schedule and results",
-      "summary": "Wales started their bid for a third BetVictor World Cup of Darts title on the tournament's opening night with a 4-1 win over Lithuania.",
+      "id": "edd69ccc9efa89",
+      "title": "Mead signs for Man City",
+      "summary": "Beth Mead has signed for Manchester City, joining on a free transfer following her departure from Arsenal this summer.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
-      "publishedAt": "2026-06-12T10:21:26.364Z",
+      "url": "https://www.skysports.com/football/news/12040/13553326/beth-mead-england-winger-signs-three-year-deal-with-manchester-city-after-arsenal-exit",
+      "publishedAt": "2026-06-12T15:25:52.701Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "713cc058ba4f98",
-      "title": "Williamson retires from international cricket",
-      "summary": "New Zealand's all-time leading run scorer Kane Williamson has retired from international cricket, effective immediately.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13228436/kane-williamson-new-zealands-all-time-leading-run-scorer-announces-retirement-from-international-cricket",
-      "publishedAt": "2026-06-12T10:21:26.363Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
+        "Transfer",
+        "Arsenal",
+        "Manchester"
       ]
     },
     {
@@ -221,7 +242,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Josh Rock and Daryl Gurney are reigning World Cup of Darts champions, but Rock is ready for eyes to be elsewhere this year.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13552976/world-cup-of-darts-josh-rock-says-no-pressure-on-reigning-champions-northern-ireland-all-eyes-will-be-on-england",
-      "publishedAt": "2026-06-12T10:21:26.363Z",
+      "publishedAt": "2026-06-12T15:25:52.701Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -234,7 +255,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Alan Rothenberg had a vision: A World Cup so enticing it could convince the USA - and the world - that the country could fall in love with football.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
-      "publishedAt": "2026-06-12T10:21:26.363Z",
+      "publishedAt": "2026-06-12T15:25:52.701Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -243,25 +264,90 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "db43e65d26ca06",
-      "title": "Japan's Motomu steals the show with bizarre walk-on!",
-      "summary": "Motomu Sakai enters Japan's first World Cup fixture with a signature bizarre walk-on to kick start their tournament!",
+      "id": "25107d5ddf9668",
+      "title": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
+      "summary": "Brighton have made a £30m bid for Tottenham's teenage centre-back Luka Vuskovic.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553148/japans-motomu-sakai-steals-the-show-with-bizarre-walk-on",
-      "publishedAt": "2026-06-12T10:21:26.363Z",
+      "url": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
+      "publishedAt": "2026-06-12T15:25:52.700Z",
       "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "713cc058ba4f98",
+      "title": "Williamson announces shock retirement from international cricket",
+      "summary": "New Zealand's all-time leading run scorer Kane Williamson has retired from international cricket, effective immediately.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13228436/kane-williamson-new-zealands-all-time-leading-run-scorer-announces-retirement-from-international-cricket",
+      "publishedAt": "2026-06-12T15:25:52.700Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "fe722b1732c893",
+      "title": "'Did you see that!?' | Camacho catches dart mid air and throws it!",
+      "summary": "During the World Cup of Darts match between Portugal and Switzerland Luis Camacho dropped his dart and caught it, he then carried on like nothing happened!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553342/did-you-see-that-luis-camacho-catches-dart-mid-air-and-throws-it",
+      "publishedAt": "2026-06-12T15:25:52.700Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "8a1c8a2fe61a05",
+      "title": "Russell starts big Barcelona weekend fastest in first practice",
+      "summary": "George Russell was fastest in first practice for the Barcelona-Catalunya Grand Prix as he got his pivotal weekend off to a flying start.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13553262/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-in-first-practice-as-ferrari-reveal-upgrades",
+      "publishedAt": "2026-06-12T15:25:52.699Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "3b209249d04509",
+      "title": "Barcelona GP: Piastri setting pace from Russell with McLaren ahead LIVE!",
+      "summary": "Barcelona GP: Piastri setting pace from Russell with McLaren ahead LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
+      "publishedAt": "2026-06-12T15:25:52.698Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "5d6e29d5faf2f7",
+      "title": "Premier League to relax red cards for hair pulling",
+      "summary": "Premier League referees have been told to change the way they judge hair pulling after three players were sent off last season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvgqrlkr24zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T15:18:44.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
       "id": "26e78839e7f84f",
-      "title": "World Cup 2026: Mexico’s winning start; empty seats; USA and Canada enter fray; Endo’s Japan retirement – live",
-      "summary": "⚽️ Canada tightens in anticipation | What is enough for US? ⚽️ Player guide | Bracketology | Golden Boot | Mail Will Five takeaways from the World Cup opener. These com...",
+      "title": "World Cup 2026: Canada and USA enter fray; empty seats; Mexico’s winning start; McTominay fitness boost – live",
+      "summary": "⚽️ Canada tightens in anticipation | What is enough for US? ⚽️ Player guide | Bracketology | Golden Boot | Mail John Five takeaways from the World Cup opener. These com...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jun/12/world-cup-2026-news-updates-live-usa-canada-paraguay-bosnia-herzegovina",
-      "publishedAt": "2026-06-12T10:18:19.000Z",
+      "publishedAt": "2026-06-12T15:15:57.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -271,51 +357,39 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "608b2b39f25973",
-      "title": "Brazil v Morocco: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup clash between Brazil and Morocco.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/brazil-v-morocco-prediction-preview",
-      "publishedAt": "2026-06-12T10:11:07.000Z",
+      "id": "3f47fefcc532b9",
+      "title": "Meet the USMNT: The 26 players striving to win a W...",
+      "summary": "With the U.S. kicking off its World Cup campaign Friday, ESPN introduces you to the 26 players tasked with taking the co-hosts on a deep run.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49009288/meet-usmnt-26-players-striving-win-world-cup-home-soil",
+      "publishedAt": "2026-06-12T15:01:24.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "0b83913266797f",
-      "title": "Watford great Jackett dies aged 64",
-      "summary": "Former Watford and Swansea City manager and Wales international Kenny Jackett has died at the age of 64.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T10:00:05.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "8beec6b47fac7e",
-      "title": "Republic of Ireland v Israel to be played at neutral venue",
-      "summary": "The Football Association of Ireland confirms the Republic of Ireland's home Nations League fixture with Israel later this year will be held at a neutral venue.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cjrg23j1qj5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T09:51:12.000Z",
-      "category": "league",
+      "id": "e56a56dd409389",
+      "title": "Shearer tips Liverpool to sign ‘outstanding’ Bournemouth duo in double deal – ‘wouldn’t be a surprise’",
+      "summary": "Alan Shearer has explained why he thinks Liverpool could sign two of Bournemouth’s best players in this summer’s transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/shearer-tips-liverpool-sign-outstanding-bournemouth-duo-double-deal",
+      "publishedAt": "2026-06-12T14:55:59.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Transfer",
+        "Liverpool"
       ]
     },
     {
-      "id": "5737fff8174940",
-      "title": "£46m World Cup striker ‘awaiting news’ from Liverpool as Jorge Mendes gets involved",
-      "summary": "A player that Arne Slot dumped from Liverpool is willing to return to Anfield and play under Andoni Iraola.",
+      "id": "6d585dedf0b5e7",
+      "title": "South Korean revelation on radars of Liverpool, Leeds in World Cup scouting mission",
+      "summary": "The 23-year-old helped South Korea begin their 2026 World Cup journey with an impressive 2-1 victory over the Czech Republic and has plenty of eyes on him from the Prem...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/darwin-nunez-wants-to-return-to-liverpool-from-al-hilal",
-      "publishedAt": "2026-06-12T09:48:24.000Z",
+      "url": "https://www.football365.com/news/lee-han-beom-watched-by-liverpool-leeds-trio-other-prem-clubs-world-cup-scouting-mission",
+      "publishedAt": "2026-06-12T14:47:30.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -324,65 +398,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "45b31d690b6b95",
-      "title": "Arsenal get ‘approval’ for £170m double signing as Arteta plots title defence",
-      "summary": "Arsenal have ‘approval’ to push ahead with a £170m double signing, but Manchester City are no longer signing Elliot Anderson for £65m.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-approval-170m-double-signing-arteta-manchester-city",
-      "publishedAt": "2026-06-12T09:39:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5787e604c3d697",
-      "title": "Liverpool welcome Andoni Iraola with £60m boost and all-new squad look",
-      "summary": "Liverpool’s new-look Andoni Iraola era has arrived and the club has revealed a new £60m matchday look for the club when it returns to Anfield under new management.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-welcome-andoni-iraola-with-60m-boost-and-all-new-squad-look",
-      "publishedAt": "2026-06-12T09:35:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b0ec8b29ec57c7",
-      "title": "Inside England's World Cup prep: Tuchel's squad su...",
-      "summary": "ESPN followed England throughout their pre-World Cup preparations to answer one question: Are they ready to win a first major tournament in 60 years?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49029911/inside-england-world-cup-prep-thomas-tuchel-squad-survive-storms-heat-florida",
-      "publishedAt": "2026-06-12T09:26:59.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b0777a69f6f15a",
-      "title": "For Brazil, 24 years after their last World Cup ti...",
-      "summary": "Brazil are the most successful team in World Cup history. But after not winning the title in 24 years, can Carlo Ancelotti's side finally end that run?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49021550/24-years-their-last-world-cup-title-win-bust-brazil",
-      "publishedAt": "2026-06-12T09:26:59.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "64519feb5c040d",
-      "title": "A new way to experience the World Cup - only on BBC Sport",
-      "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? Now you can on the BBC.",
+      "id": "ec55655b7d2ab2",
+      "title": "'Nightmare from start to finish' for South Africa in opener",
+      "summary": "Former captain Dean Furman says South Africa were \"miles off it\" in their World Cup opener against Mexico, as many on the continent 'hate-watch' Bafana Bafana.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T09:24:26.000Z",
+      "url": "https://www.bbc.com/sport/football/articles/cn4dx3v9wjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T14:26:30.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -390,138 +411,43 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "b7364b05b4f749",
-      "title": "Fabrizio Romano says Man Utd ‘preparing bid’ for Portuguese star after ‘official contact’",
-      "summary": "Manchester United are planning to make a bid for one of the Premier League’s best young midfielders, says Fabrizio Romano.",
+      "id": "94db25a74f54cc",
+      "title": "Scotland's McTominay trains after stomach upset",
+      "summary": "Scotland midfielder Scott McTominay takes part in training on the eve of the World Cup opener against Haiti, having missed out the previous day because of an upset stom...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T14:19:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9c2961ba6c86a8",
+      "title": "When do England play and how can you follow it?",
+      "summary": "BBC Sport's Ask Me Anything looks at England's next World Cup fixture and how you can follow along via the BBC.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c79y1jp5zeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T13:41:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ac4d56d46b90a5",
+      "title": "‘He’s bad [good]’ – Rio Ferdinand ‘keeps hearing’ Liverpool are signing top target and star of ‘YouTube’",
+      "summary": "The cynics among you will assume we’ve written this purely so we could highlight the lengths Liverpool.com deemed necessary when transcribing Rio Ferdinand’s thoughts o...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-mateus-fernandes-bid-west-ham-united",
-      "publishedAt": "2026-06-12T09:19:02.000Z",
+      "url": "https://www.football365.com/news/ferdinand-keeps-hearing-liverpool-signing-top-target-star-youtube",
+      "publishedAt": "2026-06-12T13:38:37.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0ff70b661a9fe0",
-      "title": "Lewis Hall blames Eddie Howe for England omission to boost Man Utd in £60m transfer chase",
-      "summary": "Manchester United have been boosted in their bid to sign Lewis Hall from Newcastle as a report suggests the left-back blames Eddie Howe for being left out of England’s...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lewis-hall-blames-eddie-howe-england-omission-boost-man-utd-60m-transfer-chase",
-      "publishedAt": "2026-06-12T09:15:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "af1d2d14e85b1b",
-      "title": "Tartan Army toast Scotland’s World Cup return: ‘It’s a once-in-a-lifetime opportunity’",
-      "summary": "Of all the bases Scotland fans could have found for their World Cup journey, it had to be the city renowned for chasing the English out of town Sam Adams is the beer of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/12/tartan-army-toast-scotland-world-cup-return-boston",
-      "publishedAt": "2026-06-12T09:00:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9f4a84746dfaeb",
-      "title": "Haaland goes to ice hockey before World Cup debut",
-      "summary": "Erling Haaland swaps the football pitch for the ice rink as he and his Norway team-mates watch the Stanley Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/articles/cgk6xemj8pxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T08:48:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "82c6a59d09d4e6",
-      "title": "Transfer rumors, news: Man United eye USMNT's Robi...",
-      "summary": "Manchester United have shortlisted Newcastle United's Lewis Hall and Fulham's Antonee Robinson. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49038387/transfer-rumors-news-man-united-eye-usmnt-robinson-england-hall",
-      "publishedAt": "2026-06-12T08:48:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "34fca5afa9402b",
-      "title": "Man Utd ‘lead’ Bayern in race for £77m Leipzig star as ‘concrete talks’ held with agent",
-      "summary": "Man Utd have held ‘concrete talks’ with the representatives of the £77m Bayern Munich target after he told RB Leipzig he is ‘ready for a new challenge’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-lead-bayern-race-77m-leipzig-star-concrete-talks-with-agent",
-      "publishedAt": "2026-06-12T08:33:04.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "ef2b372ec2ce4b",
-      "title": "Three red cards - are referees getting tough at this World Cup?",
-      "summary": "Three players were sent off in the World Cup opener as Mexico beat South Africa 2-0. Are we about to see a World Cup littered with red cards?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cjwglq2gzd6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T08:31:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a9fcc4542e50e6",
-      "title": "England have five players who would start ‘for pretty much every other international team’",
-      "summary": "Why are we pretending England don’t have two world-class players? And three others who wouldn’t start for pretty much every other country?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-five-players-start-for-any-country-world-cup-kane",
-      "publishedAt": "2026-06-12T08:29:04.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
+        "Liverpool",
         "Inter"
-      ]
-    },
-    {
-      "id": "8d0068554d4265",
-      "title": "From gridiron to pitch: How NFL stadiums have transformed for the World Cup",
-      "summary": "Eleven NFL stadiums are playing host to the World Cup this summer, but each have required substantial alterations to host the beautiful game.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48939622/from-gridiron-pitch-how-nfl-stadiums-transformed-2026-fifa-world-cup",
-      "publishedAt": "2026-06-12T08:18:30.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "415b2c93285d41",
-      "title": "Snubbed by the U.S., Jesse Marsch marches Canada i...",
-      "summary": "Jesse Marsch was certain he was going to be the next USMNT manager. He wasn't. Now he's determined to make his mark at this World Cup with Canada.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49010574/snubbed-us-jesse-marsch-marches-canada-world-cup-mission",
-      "publishedAt": "2026-06-12T08:10:47.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -530,7 +456,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "publishedAt": "2026-06-12T08:10:32.000Z",
+      "publishedAt": "2026-06-12T13:34:44.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -543,7 +469,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "For the first time since 2010, South Korea won their opening game at the FIFA World Cup.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49037890/fifa-world-cup-south-korea-produce-stirring-revival-get-winning-start-vs-czechia",
-      "publishedAt": "2026-06-12T08:10:32.000Z",
+      "publishedAt": "2026-06-12T13:34:44.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -552,28 +478,114 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ced356a7f5a9f2",
-      "title": "Joy for Jiménez and Mexico as co-hosts make ideal start | World Cup Daily",
-      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Jeff Rueter and Jonathan Wilson as the World Cup kicks off in Mexico Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/12/joy-for-jimenez-and-mexico-as-co-hosts-make-ideal-start-world-cup-daily",
-      "publishedAt": "2026-06-12T08:09:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "9221b5e907f7a2",
       "title": "Mexico's win an emotional celebration of World Cup...",
       "summary": "Forty years after the World Cup was last in Mexico, the tournament returned Thursday, and Mexico celebrated with an emotional win over South Africa.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49033649/mexico-win-south-africa-emotional-celebration-world-cup-return-estadio-azteca",
-      "publishedAt": "2026-06-12T08:07:25.000Z",
+      "publishedAt": "2026-06-12T13:34:35.000Z",
       "category": "worldcup",
       "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2f98f18c8fcc03",
+      "title": "Fox’s full-screen ads during World Cup hydration breaks cause dismay in US: ‘Absolute nonsense’",
+      "summary": "Breaks have been added at World Cup for player safety Fox missed small amount of action during break Fox is facing criticism from fans in the US after introducing full-...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/12/hydration-breaks-adverts-fox-world-cup",
+      "publishedAt": "2026-06-12T13:28:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c9da7cd7a710b8",
+      "title": "You are Steve Clarke... what would you do against Haiti?",
+      "summary": "Put yourself in the shoes of Steve Clarke and pick the side, tactics and decide what your pre-match team talk would be for their World Cup opener.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cy06gkd521wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T13:07:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "067947d4fd60b4",
+      "title": "World Cup quiz: Can you identify these 2026 host cities?",
+      "summary": "We have selected seven of the 16 World Cup host cities for you to identify. Can you pick them out from our clues?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c24yp7yl864o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T13:03:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "de8a3f8232ceae",
+      "title": "Michael Owen tells Marcus Rashford which club to join after Man Utd exit – ‘great option’",
+      "summary": "Michael Owen has named the perfect club for Marcus Rashford to join, if Manchester United and Barcelona are unable to agree on a deal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-marcus-rashford-manchester-united-michael-owen-verdict",
+      "publishedAt": "2026-06-12T13:00:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "a6c47d002d14f8",
+      "title": "Liverpool respond after Bayern Munich ‘knock on the door’ for ‘main target’",
+      "summary": "German champions Bayern Munich want to sign an international winger from Liverpool in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-bayern-munich-rio-ngumoha-2026-summer-deal",
+      "publishedAt": "2026-06-12T12:24:09.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c5b8f238873aa9",
+      "title": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
+      "summary": "Ex-Arsenal forward signs three-year deal with champions ‘The way City plays suits me really well,’ says 31-year-old Beth Mead believes Manchester City’s playing style s...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
+      "publishedAt": "2026-06-12T12:17:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5e8cd2ae5f7e22",
+      "title": "Will three points guarantee a spot in World Cup knockouts?",
+      "summary": "BBC Sport's Ask Me Anything team looks at whether earning three points in the World Cup group stage will be enough to advance to the knockout rounds.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cd95xgl23y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T12:11:46.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "World Cup"
       ]
