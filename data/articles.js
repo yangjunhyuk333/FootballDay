@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-12T20:16:48.998Z",
+  "generatedAt": "2026-06-13T04:14:26.615Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,11 +104,103 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Thomas Partey has been refused entry to Canada ahead of Ghana's World Cup opener with Panama on Thursday - but he is set to face England.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13553454/world-cup-2026-thomas-partey-refused-entry-to-canada-ahead-of-ghana-match-with-panama",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
+      "publishedAt": "2026-06-13T04:14:26.136Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "3f0cd12537e5ea",
+      "title": "Sciver-Brunt hails 'ruthless' England after emphatic opening World Cup win",
+      "summary": "Captain Nat Sciver-Brunt hailed England's ruthlessness as they kicked off the ICC Women's T20 World Cup with a 'massive' victory over Sri Lanka at Edgbaston.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13553562/nat-sciver-brunt-hails-englands-ruthlessness-against-sri-lanka-following-emphatic-win-in-t20-womens-world-cup-opener",
+      "publishedAt": "2026-06-13T04:14:26.136Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "93184506fa02b0",
+      "title": "Canada rescue draw against Bosnia to claim first World Cup point",
+      "summary": "Canada claimed their first ever World Cup point as the co-hosts came from behind to rescue a 1-1 draw against Bosnia-Herzegovina.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/canada-vs-bosnia-and-herzegovina/report/549768",
+      "publishedAt": "2026-06-13T04:14:26.136Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1d38c6bf8b055e",
+      "title": "Barcola could leave PSG this summer",
+      "summary": "Paris Saint-Germain could allow Bradley Barcola to leave this summer.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553405/bradley-barcola-psg-and-france-winger-could-be-set-for-summer-transfer-after-world-cup",
+      "publishedAt": "2026-06-13T04:14:26.135Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Psg"
+      ]
+    },
+    {
+      "id": "2cad6afb7484e3",
+      "title": "'They might trouble England' | Part believes Spain could test Littler and Humphries",
+      "summary": "John Part reacts to England drawing Spain in round two of the World Cup of Darts with Luke Littler and Luke Humphries gearing up to face Cristo Reyes and Jose Justicia.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553555/john-part-believes-spains-duo-of-cristo-reyes-and-jose-justicia-could-trouble-luke-littler-and-luke-humphries-in-the-second-round",
+      "publishedAt": "2026-06-13T04:14:26.135Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c31b620df6a3ed",
+      "title": "England to face Spain as Wales progress in World Cup of Darts",
+      "summary": "England’s Luke Humphries and Luke Littler will face Cristo Reyes and Jose Justicia in the second round of the World Cup of Darts after the Spain duo topped Group K in F...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13553257/world-cup-of-darts-wales-ireland-belgium-germany-progress-as-spain-set-up-clash-with-englands-luke-littler-and-luke-humphries",
+      "publishedAt": "2026-06-13T04:14:26.135Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9f39bceb743075",
+      "title": "Papers: West Ham's Fernandes chooses Man Utd over Arsenal",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553551/man-utd-transfer-news-mateus-fernandes-keen-on-old-trafford-move-despite-arsenal-interest-paper-talk",
+      "publishedAt": "2026-06-13T04:14:26.135Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e9d16efed0a0b6",
+      "title": "Norris pips Russell to top Barcelona practice with Antonelli off pace",
+      "summary": "Lando Norris pipped George Russell to the fastest time of second practice at the Barcelona-Catalunya Grand Prix with Kimi Antonelli only fifth as McLaren impressed to o...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13553264/barcelona-catalunya-gp-lando-norris-fastest-from-george-russell-as-mclaren-outpace-mercedes-in-second-practice",
+      "publishedAt": "2026-06-13T04:14:26.135Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
       ]
     },
     {
@@ -117,7 +209,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Barcelona GP: McLaren outpace Mercedes in Friday practice",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/live-blog/12040/13552989/f1-barcelona-catalunya-gp-live-friday-practice-updates-results-stream-highlights-from-spanish-formula-1-race-weekend",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
+      "publishedAt": "2026-06-13T04:14:26.135Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -125,64 +217,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "80a4ea98b131f4",
-      "title": "McInnes among potential Röhl replacements as Rangers and Salzburg continue talks",
-      "summary": "Rangers and RB Salzburg remain in talks to finalise a deal for Danny Röhl to join the Austrian Bundesliga club.",
+      "id": "b6a7cba0ea7fc1",
+      "title": "Wyatt-Hodge stars as England dominate Sri Lanka in World Cup opener",
+      "summary": "Danni Wyatt-Hodge lit up the opening game of the Women's T20 World Cup with a magnificent hundred as England posted a tournament-record total in a dominant win over Sri...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553524/danny-r246hl-derek-mcinnes-on-rangers-shortlist-as-talks-with-rb-salzburg-over-german-coach-continue",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "5878aa9c43357e",
-      "title": "Man Utd preparing opening bid for West Ham's Fernandes",
-      "summary": "Manchester United are preparing an opening bid for West Ham midfielder Mateus Fernandes, Sky Sports News understands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553501/mateus-fernandes-transfer-manchester-united-preparing-opening-bid-for-west-ham-midfielder-as-21-year-old-becomes-priority-target",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8a1c8a2fe61a05",
-      "title": "Russell starts big Barcelona weekend fastest in first practice",
-      "summary": "George Russell was fastest in first practice for the Barcelona-Catalunya Grand Prix as he got his pivotal weekend off to a flying start.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13553262/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-in-first-practice-as-ferrari-reveal-upgrades",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "7fef2548ab2917",
-      "title": "Barcelona-Catalunya GP: UK schedule and how to watch on Sky Sports",
-      "summary": "Formula 1's European summer swing continues with the Barcelona-Catalunya Grand Prix this weekend, live on Sky Sports.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13551599/barcelona-catalunya-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-spain-live-on-sky-sports",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "4ce45376d14f98",
-      "title": "Clarke wants Scotland to 'do something special' on World Cup return",
-      "summary": "Steve Clarke wants Scotland to \"do something special\" on their return to the World Cup for the first time in 28 years.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553435/scotland-at-world-cup-steve-clarke-ready-to-do-something-special-on-return-to-footballs-biggest-stage",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13553458/womens-t20-world-cup-englands-danni-wyatt-hodge-lights-up-tournament-opener-with-century-in-hosts-dominant-win-over-sri-lanka",
+      "publishedAt": "2026-06-13T04:14:26.134Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -190,43 +230,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "01a8c3d7b121f8",
-      "title": "PL referees to issue yellow cards for hair pulling after rule change",
-      "summary": "Referees will now issue yellow cards for hair pulling in the 2026/27 season after a new set of football principles and refereeing points of emphasis were unveiled by th...",
+      "id": "9ebce0b38ec537",
+      "title": "'No grip!' - Hamilton, Verstappen admit Spain struggles",
+      "summary": "Lewis Hamilton and Max Verstappen both felt they had no grip and are not expecting to challenge at the front at the Barcelona-Catalunya Grand Prix.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553447/premier-league-announce-referee-rule-changes-for-2026-27-season-with-officials-to-award-yellow-cards-for-hair-pulling",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
+      "url": "https://www.skysports.com/f1/news/12040/13553268/barcelona-catalunya-gp-lewis-hamilton-max-verstappen-admit-spain-struggles-with-no-grip-in-friday-practice",
+      "publishedAt": "2026-06-13T04:14:26.134Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain",
       "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "25107d5ddf9668",
-      "title": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
-      "summary": "Brighton have made a £30m bid for Tottenham's teenage centre-back Luka Vuskovic.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
-      "publishedAt": "2026-06-12T20:16:48.828Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "de4e66ad0c9c6f",
-      "title": "Sri Lanka reduced to 67-5 after England post T20 World Cup-record target LIVE!",
-      "summary": "Sri Lanka reduced to 67-5 after England post T20 World Cup-record target LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13553406/england-vs-sri-lanka-live-cricket-score-updates-video-and-analysis-from-icc-womens-t20-world-cup-opener-at-edgbaston",
-      "publishedAt": "2026-06-12T20:16:48.827Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Barcelona"
       ]
     },
     {
@@ -235,7 +248,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Live score from the opening match of the ICC Women's T20 World Cup between England and Sri Lanka at Edgbaston. Watch on Sky Sports Cricket or for FREE on the Sky Sports...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/england-women-v-sri-lanka-women/scorecard/36b7f846-d12e-52e3-9e09-312b2ba7b377",
-      "publishedAt": "2026-06-12T20:16:48.827Z",
+      "publishedAt": "2026-06-13T04:14:26.134Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -248,7 +261,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Several Formula One drivers attempted keepy uppies ahead of the football World Cup!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13553457/barcelona-catalunya-gp-f1-drivers-take-on-keepy-uppies-challenge-ahead-of-world-cup",
-      "publishedAt": "2026-06-12T20:16:48.827Z",
+      "publishedAt": "2026-06-13T04:14:26.134Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -257,66 +270,42 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1d38c6bf8b055e",
-      "title": "Barcola could leave PSG this summer",
-      "summary": "Paris Saint-Germain could allow Bradley Barcola to leave this summer.",
+      "id": "eaa87ac81c8f8c",
+      "title": "Hosts USA thrash Paraguay with statement opening win as Balogun shines",
+      "summary": "The USA kicked off their World Cup on home soil with their joint best-ever victory in the tournament's history as a sizzling performance saw them thrash Paraguay 4-1 in...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553405/bradley-barcola-psg-and-france-winger-could-be-set-for-summer-transfer-after-world-cup",
-      "publishedAt": "2026-06-12T20:16:48.827Z",
-      "category": "transfer",
-      "region": "france",
-      "tags": [
-        "Psg"
-      ]
-    },
-    {
-      "id": "e9d16efed0a0b6",
-      "title": "Norris pips Russell to top Barcelona practice with Antonelli off pace",
-      "summary": "Lando Norris pipped George Russell to the fastest time of second practice at the Barcelona-Catalunya Grand Prix with Kimi Antonelli only fifth as McLaren impressed to o...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13553264/barcelona-catalunya-gp-lando-norris-fastest-from-george-russell-as-mclaren-outpace-mercedes-in-second-practice",
-      "publishedAt": "2026-06-12T20:16:48.827Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "9ebce0b38ec537",
-      "title": "'No grip!' - Hamilton, Verstappen admit Spain struggles",
-      "summary": "Lewis Hamilton and Max Verstappen both felt they had no grip and are not expecting to challenge at the front at the Barcelona-Catalunya Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13553268/barcelona-catalunya-gp-lewis-hamilton-max-verstappen-admit-spain-struggles-with-no-grip-in-friday-practice",
-      "publishedAt": "2026-06-12T20:16:48.826Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "28d3eeb7b7c49b",
-      "title": "Man Utd: £70m offer could get deal ‘done’ as INEOS choose next ‘priority’ signing after Ederson",
-      "summary": "According to reports, Manchester United could sign Matheus Fernandes from West Ham United in a cut-price transfer this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-70m-offer-get-deal-done-as-ineos-choose-next-priority-signing-ederson",
-      "publishedAt": "2026-06-12T20:11:39.000Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-paraguay/report/549769",
+      "publishedAt": "2026-06-13T04:14:26.134Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Manchester"
+        "World Cup"
       ]
     },
     {
-      "id": "6662a66d34ccf9",
-      "title": "Canada v Bosnia and Herzegovina: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off at 3pm EDT/8pm BST/13 June 5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Taha Forget the World Cup just for a sec … some news from Scotland....",
+      "id": "700d6ea310ee08",
+      "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
+      "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup Three ye...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/12/canada-v-bosnia-and-herzegovina-world-cup-2026-live",
-      "publishedAt": "2026-06-12T20:03:13.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal",
+      "publishedAt": "2026-06-13T04:00:05.000Z",
       "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ab4d4490fe57b7",
+      "title": "Cold War Steve on … Gianni Infantino staying cool as World Cup heats up",
+      "summary": "The first in a special series of World Cup 2026 themed collages made for the Guardian by the celebrated satirist Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/13/cold-war-steve-on-gianni-infantino-staying-cool-as-world-cup-heats-up",
+      "publishedAt": "2026-06-13T04:00:04.000Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
         "Football",
@@ -325,55 +314,134 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "fa283a956a3a68",
-      "title": "‘Tickets are very expensive’: Mexican president Sheinbaum explains why she did not attend World Cup opener",
-      "summary": "President gave ticket to a young female soccer fan ‘I gave it to someone who couldn’t go, who loves football’ The Mexican president, Claudia Sheinbaum, explained on Fri...",
+      "id": "5286a027f563f6",
+      "title": "Injury deprived me of chance to play so I am going to the World Cup to support Brazil | Rodrygo",
+      "summary": "Watching the squad presentation knowing I wasn’t in it was tough, but I have high hopes with Carlo Ancelotti in charge I am travelling to the United States this week to...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/12/tickets-are-very-expensive-mexican-president-sheinbaum-explains-why-she-did-not-attend-world-cup-opener",
-      "publishedAt": "2026-06-12T19:51:39.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/13/rodrygo-world-cup-injury-support-brazil",
+      "publishedAt": "2026-06-13T04:00:04.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c14d980cccfb18",
+      "title": "Why football does not remember the name of its greatest ever Jewish player",
+      "summary": "Influential Jewish managers such as Bela Guttman survived the Holocaust. In his new book, David Bolchover explores the great players who did not Who was the best Brazil...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/why-football-does-not-remember-the-name-of-its-greatest-ever-jewish-player",
+      "publishedAt": "2026-06-13T04:00:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c08f1f614b6aab",
+      "title": "England victims of World Cup ‘heist’ with Tuchel ‘reeling’ as boots and balls among stolen items",
+      "summary": "England have been forced to deal with the unprecedented setback of having ‘key training equipment’ stolen before their first World Cup match.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-victims-world-cup-heist-tuchel-reeling-boots-balls-equipment-stolen",
+      "publishedAt": "2026-06-13T03:46:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bd6e0fdad637d3",
+      "title": "VAR makes 'mistaken identity' history as strange booking confuses fans",
+      "summary": "The United States open their World Cup campaign with a fine win - but not before a sequence of events that left everyone scratching their heads.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T03:43:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Starting positions confirmed as Mexico threaten top ten",
+      "summary": "The World Cup is here and that means one last shuffle of the Power Rankings before it starts being based on actual results rather than vibes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-13T03:19:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e981f3377db862",
+      "title": "‘Full kit w*nkers’ to ‘mistaken identity’ – USA’s World Cup opener lives up to the hype",
+      "summary": "Under huge pressure to perform on home soil, Mauricio Pochettino’s USA produced an emphatic World Cup statement win over Paraguay.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-united-states-live-up-world-cup-hype-paraguay-win",
+      "publishedAt": "2026-06-13T03:12:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7e5c59d61777ef",
+      "title": "USA bulldoze Paraguay as co-hosts romp to victory in World Cup opener",
+      "summary": "Across the parking lot from Los Angeles Stadium sits the Forum. In the 1980s, it served as the stage for one of American sports’ most enthralling entertainment outfits,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/12/usa-paraguay-world-cup-2026-group-d-match-report",
+      "publishedAt": "2026-06-13T03:03:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e50e2f1c04501a",
+      "title": "Balogun scores stunner as USA run riot",
+      "summary": "Folarin Balogun scores his second and USA's third goal before half-time in their opening game of the 2026 World Cup against Paraguay.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cvgje542y30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T02:26:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "031ae9762a9095",
+      "title": "England’s World Cup boots stolen before first training session in Kansas City",
+      "summary": "Equipment stolen during transportation from Florida ‘Two subjects of interest were taken into custody’ England have been the victims of a security breakdown after the t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/england-world-cup-boots-stolen-before-first-training-session-in-kansas-city",
+      "publishedAt": "2026-06-13T02:01:58.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
         "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b35ca25fbaf9ac",
-      "title": "Lukic heads Bosnia in front against Canada",
-      "summary": "Jovo Lukic heads Bosnia in front against co-hosts Canada in the opening game in Group B at the Toronto Stadium in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/ce3720k188yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T19:42:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c8fb5ec40ea4f2",
-      "title": "Arsenal star Rice ‘pondered’ England team-mate’s World Cup call-up while ‘sceptical’ of his ability",
-      "summary": "According to reports, Arsenal star Declan Rice had been ‘pondering’ whether Manchester United man Kobbie Mainoo would be called up for the World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-star-rice-pondered-england-team-mates-world-cup-call-up-sceptical-man-utd",
-      "publishedAt": "2026-06-12T19:29:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup",
-        "Arsenal",
-        "Manchester"
+        "Inter"
       ]
     },
     {
-      "id": "78562857103901",
-      "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
-      "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, a...",
+      "id": "a4bc448f38db9d",
+      "title": "Katy Perry, Tyla & Future among performers at USA's opening ceremony",
+      "summary": "Katy Perry, Tyla and Future are among the performers at USA's star-studded World Cup opening ceremony at SoFi Stadium Stadium.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T19:18:42.000Z",
+      "url": "https://www.bbc.com/sport/football/videos/ce8me8qrlrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T01:25:18.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -381,27 +449,56 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c21e271a21fde8",
-      "title": "Thomas Partey out of Ghana’s World Cup opener as former Arsenal player refused VISA",
-      "summary": "Ghana midfielder Thomas Partey will not take part in their World Cup game against Panama on Wednesday after his visa application to enter Canada was refused, FIFA said...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/thomas-partey-out-ghana-world-cup-opener-former-arsenal-player-refused-visa",
-      "publishedAt": "2026-06-12T18:55:38.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "id": "20426dba5d5465",
+      "title": "Manchester United lead chase for West Ham’s £80m-rated Mateus Fernandes",
+      "summary": "Real Madrid also among midfielder’s potential suitors Castellanos an option for Everton amid likely exits Manchester United are leading the race to sign Mateus Fernande...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/12/manchester-united-west-ham-mateus-fernandes-real-madrid-arsenal-psg",
+      "publishedAt": "2026-06-13T01:01:57.000Z",
+      "category": "transfer",
+      "region": "england spain italy france",
       "tags": [
-        "World Cup",
-        "Fifa",
+        "Football",
+        "Premier League",
+        "Transfer",
         "Arsenal"
       ]
     },
     {
-      "id": "da3eab603b4668",
-      "title": "Bellingham set to start, but no Guehi - England's expected team",
-      "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
+      "id": "e7447c41da89d0",
+      "title": "BBC kicks off World Cup broadcast battle in Salford and provides contrast to ITV’s celebrity slop",
+      "summary": "Journalistic muscles were flexed with Ros Atkins factchecking real-world issues with production offering merits more achievable by working from home Must a World Cup br...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/12/bbc-world-cup-broadcast-battle-salford--itv-celebrity-slop",
+      "publishedAt": "2026-06-12T22:32:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1d9aa08be12de4",
+      "title": "Arsenal consider move for Greek forward Tzolis",
+      "summary": "Arsenal have been offered Club Brugge forward Christos Tzolis and are considering accelerating a move for the Greece international.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T18:46:39.000Z",
+      "url": "https://www.bbc.com/sport/football/articles/c992xz8187jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T22:25:49.000Z",
+      "category": "ratings",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "64519feb5c040d",
+      "title": "A new way to experience the World Cup - only on BBC Sport",
+      "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? Now you can on the BBC.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T22:18:24.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -409,63 +506,71 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "bfcc37720d0081",
-      "title": "Liverpool ‘leapfrog’ Man Utd for potential record transfer after FSG ‘take most decisive action’",
-      "summary": "According to reports, Liverpool have now ‘leapfrogged’ Manchester United and others in the race to sign Bazoumana Toure from Hoffenheim.",
+      "id": "8bb152d4b16ab6",
+      "title": "Larin equaliser earns Canada first ever World Cup point",
+      "summary": "Cyle Larin comes off the bench to score for Canada against Bosnia-Herzegovina to earn the co-hosts a 1-1 draw as they pick up their first ever point at a World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cjdgnm0m7z8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T22:13:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5d19a8703ac6c6",
+      "title": "Ex-West Ham director would not be in involved in inquiry into David Sullivan",
+      "summary": "Tara Warren of the Independent Football Regulator was an executive director at West Ham until December A nonexecutive director of the Independent Football Regulator wil...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/12/former-west-ham-director-removed-from-inquiry-into-david-sullivan",
+      "publishedAt": "2026-06-12T22:10:46.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ebfbe9bb8919a2",
+      "title": "Rooney and Cann strongly disagree on Bosnia goalkeeper incident",
+      "summary": "Former World Cup final assistant referee Darren Cann and Wayne Rooney disagree over an incident involving Bosnia-Herzegovina goalkeeper Nikola Vasilj, with Rooney argui...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cgl39w8grkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T21:43:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e3201438c17574",
+      "title": "Real Madrid close in on Silva signing- Saturday's gossip",
+      "summary": "Real Madrid expect to complete Bernardo Silva signing, Bayern Munich confident of deal for Marcus Rashford, Manchester United win race to sign Mateus Fernandes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c892x547459o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-12T21:42:12.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Manchester",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "94d63d5c579cb3",
+      "title": "Arsenal: Ornstein reveals Rogers transfer update as Berta makes ‘approach’ to sign £34.5m star",
+      "summary": "David Ornstein has revealed that Arsenal are ‘exploring a deal’ to make a £34.5m signing, while he has an update on Morgan Rogers.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-leapfrog-man-utd-record-transfer-fsg-most-decisive-action",
-      "publishedAt": "2026-06-12T18:41:19.000Z",
+      "url": "https://www.football365.com/news/arsenal-ornstein-reveals-rogers-transfer-update-berta-approach-sign-34-5m-star",
+      "publishedAt": "2026-06-12T21:39:03.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6d5348c426130b",
-      "title": "Scotland become faithfuls or traitors before World Cup opener against Haiti",
-      "summary": "Robertson said game helped pass time in training camp Scotland play 83rd-ranked Haiti on Saturday in Boston Andy Robertson has revealed an unorthodox way Scotland have...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/12/scotland-traitors-world-cup-2026-opener-haiti-andy-robertson",
-      "publishedAt": "2026-06-12T18:08:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eadc5c8c28877c",
-      "title": "Arsenal exit ‘advanced’ and ‘almost agreed’ as Gunners could hijack Euro giants for World Cup star",
-      "summary": "According to reports, Leandro Trossard is edging closer to leaving Arsenal, who could hijack Inter Milan to sign Manu Kone this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-exit-advanced-almost-agreed-hijack-euro-giants-world-cup-star",
-      "publishedAt": "2026-06-12T17:47:32.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "World Cup",
-        "Arsenal",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "959a41dcee96c2",
-      "title": "Thomas Partey out of Ghana’s World Cup opener after visa application to Canada refused",
-      "summary": "Player had been due to face Panama in Toronto Fifa says decision made by Canadian government Thomas Partey has been denied entry to Canada and will not be available for...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused",
-      "publishedAt": "2026-06-12T17:32:52.000Z",
-      "category": "worldcup",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
         "Arsenal"
       ]
     },
@@ -475,118 +580,10 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T17:26:20.000Z",
+      "publishedAt": "2026-06-12T21:37:42.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "18aeada4f1d53a",
-      "title": "Ousmane Dembele responds to Kylian Mbappe abuse before France’s WC opener – ‘it’s too much’",
-      "summary": "France forward Ousmane Dembele has defended captain Kylian Mbappe, saying criticism of the Real Madrid striker has become excessive.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ousmane-dembele-responds-kylian-mbappe-abuse-france-world-cup-opener",
-      "publishedAt": "2026-06-12T17:06:23.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e141d2b8b80d0f",
-      "title": "Costs rise as Man Utd agree new $550m funding deal",
-      "summary": "The cost of servicing Manchester United's debt will rise following a new $550m deal that will see interest rates increase from 3.79% to 5.36%",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c77yj502z12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T17:04:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "35c57c7a2d40a2",
-      "title": "Scotland boss Clarke by those who know him best",
-      "summary": "As Steve Clarke prepares to lead Scotland at their first men's World Cup since 1998, those who know him well reveal what makes him successful.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyze8rpz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T16:59:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "349ad9814646c9",
-      "title": "World Cup football and T20 cricket galore, plus F1 in Barcelona – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/jun/12/world-cup-football-and-t20-cricket-galore-plus-f1-in-barcelona-follow-with-us",
-      "publishedAt": "2026-06-12T16:41:25.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "2005744aeabc91",
-      "title": "Critics of Mbappe have gone 'too far', says Dembele",
-      "summary": "France forward Ousmane Dembele defends his national team captain Kylian Mbappe, saying criticism of the Real Madrid striker has gone \"too far\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyzyq0p7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T16:33:06.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "94db25a74f54cc",
-      "title": "Scotland's McTominay 'ready to go' for Haiti opener after illness",
-      "summary": "Scotland midfielder Scott McTominay takes part in training on the eve of the World Cup opener against Haiti, having missed out the previous day because of an upset stom...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-12T16:31:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1ec1ec89fde6f1",
-      "title": "Man Utd to ‘splurge £100m’ on one condition as INEOS choose ‘three-man shortlist’",
-      "summary": "According to reports, Manchester United are ‘preparing to splurge £100m’ on two midfielders as they edge closer to landing Matheus Fernandes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-splurge-100m-one-condition-ineos-choose-three-man-shortlist",
-      "publishedAt": "2026-06-12T16:12:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "24715578ae4ba3",
-      "title": "‘More pressure than the president’: Ancelotti sets out to end Brazil’s World Cup drought",
-      "summary": "Last triumph was in 2002 but Italian head coach, without Neymar against Morocco, brings ‘joy and enthusiasm’ It is Marcio Santos who best sums up the predicament Brazil...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/12/more-pressure-than-the-president-ancelotti-sets-out-to-end-brazils-world-cup-drought",
-      "publishedAt": "2026-06-12T16:06:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
         "World Cup"
       ]
     }
