@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T14:10:04.816Z",
+  "generatedAt": "2026-06-13T19:43:18.635Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Listen: Sportsound build-up to Scotland's World Cup opener",
-      "summary": "All the very latest World Cup news ahead Scotland's opening match against Haiti.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T16:00:00.000Z",
+      "id": "96648b453079ac",
+      "title": "Base camp: England's luxury five-star World Cup hotel",
+      "summary": "England's team base in Kansas City is nothing like any we have seen before.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
+      "publishedAt": "2026-06-13T19:43:18.412Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -112,12 +112,25 @@
       ]
     },
     {
-      "id": "8cbe5a64946b4b",
-      "title": "Barcelona GP: Russell starts as pole favourite with reprimanded Antonelli on back foot LIVE!",
-      "summary": "Barcelona GP: Russell starts as pole favourite with reprimanded Antonelli on back foot LIVE!",
+      "id": "3cf90920e995fe",
+      "title": "Neuer returns for Germany as a legend but can he still deliver?",
+      "summary": "Germany go into this tournament having failed to get out of the group at the previous two World Cups since lifting the trophy in 2014. But they do have one man in the s...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
+      "url": "https://www.skysports.com/football/news/12040/13552957/manuel-neuer-makes-world-cup-return-for-germany-at-40-but-will-the-goalkeeper-enhance-his-reputation-or-risk-his-legacy",
+      "publishedAt": "2026-06-13T19:43:18.412Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "87d4cc3ff29f00",
+      "title": "Russell regains mojo to claim dramatic Barcelona pole over Hamilton!",
+      "summary": "Highlights from qualifying at the Barcelona-Catalunya Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553726/barcelona-catalunya-gp-qualifying-highlights",
+      "publishedAt": "2026-06-13T19:43:18.411Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -125,12 +138,38 @@
       ]
     },
     {
+      "id": "8dd55d0b50e78c",
+      "title": "Leclerc crashes in Q3 to end pole hopes!",
+      "summary": "Charles Leclerc crashed again for the second time in seven days as he found the wall at Turn Four during qualifying at the Barcelona-Catalunya Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553716/barcelona-catalunya-gp-charles-leclerc-crashes-out-of-qualifying",
+      "publishedAt": "2026-06-13T19:43:18.411Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4a8c267bbfb42e",
+      "title": "How Balogun went from Arsenal and England U21s to America's star",
+      "summary": "Born in the USA and born for the big stage.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
+      "publishedAt": "2026-06-13T19:43:18.411Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "b98fcbad4b5996",
       "title": "Scotland hammer Ireland to secure first-ever T20 World Cup win",
-      "summary": "Scotland claimed their first-ever ICC Women's T20 World Cup win with a 40-run thumping of Ireland in their opening match of the 2026 tournament at Old Trafford.",
+      "summary": "Scotland claimed their first-ever ICC Women's T20 World Cup win with a 40-run thumping of Ireland in the first of a 2026 tournament double-header at Old Trafford, which...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13553650/womens-t20-world-cup-scotland-hammer-ireland-by-40-runs-to-claim-their-first-win-in-tournament-history",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
+      "publishedAt": "2026-06-13T19:43:18.411Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,7 +182,7 @@
       "summary": "George Russell was fastest from Oscar Piastri as championship leader Kimi Antonelli was left frustrated with traffic after final practice at the Barcelona-Catalunya Gra...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13553598/barcelona-catalunya-gp-george-russell-fastest-from-oscar-piastri-as-kimi-antonelli-left-frustrated-with-traffic-in-final-practice",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
+      "publishedAt": "2026-06-13T19:43:18.411Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -151,38 +190,12 @@
       ]
     },
     {
-      "id": "96648b453079ac",
-      "title": "Base camp: England's luxury five-star World Cup hotel",
-      "summary": "England's team base in Kansas City is nothing like any we have seen before.",
+      "id": "8bfc23b5714ce4",
+      "title": "'I'll give it a go!' - Hamilton targets 'perfect job' to claim first Ferrari win",
+      "summary": "Lewis Hamilton believes a \"perfect job\" will be required for Ferrari to take the fight to Mercedes at the Barcelona-Catalunya Grand Prix, but is not ruling out the oppo...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553547/world-cup-englands-five-star-kansas-city-hotel-and-training-facilities-explained",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "59db28233c623c",
-      "title": "8-0 Whitewash! Clinical Scotland DEMOLISH Norway",
-      "summary": "The Scottish pairing of Gary Anderson and Cameron Menzies sent out a warning to the rest of the World Cup of Darts as they dismissed Norway without losing a single leg.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553699/8-0-whitewash-clinical-scotland-demolish-norway",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "66f44ac3dbce62",
-      "title": "'I lost my brake pedals!' | Bottas crashes out of final practice",
-      "summary": "Valtteri Bottas suffered brake failure in final practice at Circuit de Barcelona-Catalunya.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553657/barcelona-catalunya-gp-valtteri-bottas-suffers-brake-failure-in-final-practice",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
+      "url": "https://www.skysports.com/f1/news/12040/13553603/barcelona-catalunya-gp-lewis-hamilton-targets-perfect-job-to-fight-george-russell-kimi-antonelli-and-claim-first-ferrari-f1-win",
+      "publishedAt": "2026-06-13T19:43:18.410Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -190,12 +203,94 @@
       ]
     },
     {
-      "id": "15bf0401c83244",
-      "title": "Women's T20 World Cup: South Africa snatch two early wickets vs Australia LIVE!",
-      "summary": "Women's T20 World Cup: South Africa snatch two early wickets vs Australia LIVE!",
+      "id": "a9cab16eb18824",
+      "title": "Russell finding his groove again after 'big reset' in Barcelona",
+      "summary": "George Russell says he is back in his groove and is starting to trust his instincts again after returning to form in spectacular fashion on the first two days of the Ba...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13553409/womens-t20-world-cup-live-scotland-vs-ireland-australia-vs-south-africa-score-updates-video-and-analysis-from-old-trafford",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
+      "url": "https://www.skysports.com/f1/news/12040/13553602/barcelona-catalunya-grand-prix-george-russell-back-in-the-groove-after-big-reset-in-title-fight-with-kimi-antonelli",
+      "publishedAt": "2026-06-13T19:43:18.410Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "976b144d098358",
+      "title": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out",
+      "summary": "George Russell just pipped Lewis Hamilton to claim a much-needed pole position in his bid to kick start a championship fightback at the Barcelona-Catalunya Grand Prix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13553600/barcelona-catalunya-gp-qualifying-george-russell-pips-lewis-hamilton-to-pole-position-as-charles-lederc-crashes-out",
+      "publishedAt": "2026-06-13T19:43:18.410Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "52acc5128062c3",
+      "title": "Pulse promise to 'spoil party' after setting up Thunder final in Manchester",
+      "summary": "London Pulse kept alive their hopes of back-to-back Netball Super League titles with victory over Loughborough Lightning in the preliminary final and then warned Manche...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/netball/news/12040/13553780/netball-super-league-london-pulse-set-up-grand-final-against-manchester-thunder-with-victory-over-loughborough-lightning",
+      "publishedAt": "2026-06-13T19:43:18.408Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1fd8dd6013d902",
+      "title": "Qatar v Switzerland: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off 12pm local, 3pm EST, 8pm BST, 4am Sun AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail John One of those Swiss veterans, Ricardo Rodriguez, has quit...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
+      "publishedAt": "2026-06-13T19:37:53.000Z",
+      "category": "worldcup",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1dbd1bd3aba246",
+      "title": "Being the best in Asia is no longer enough for Japan seeking World Cup breakthrough | Jonathan Wilson",
+      "summary": "Despite missing key players, Hajime Moriyasu’s side have built strength in depth to challenge the traditional order In 2002 there was a sense that Japan had slightly mi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/best-in-asia-no-longer-enough-japan-world-cup-breakthrough",
+      "publishedAt": "2026-06-13T19:00:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "eddf16b7d05d96",
+      "title": "Amorim a leading contender for AC Milan job",
+      "summary": "Former Manchester United head coach Ruben Amorim emerges as a leading contender to replace Massimiliano Allegri at AC Milan.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c15yzlzxq8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T18:59:30.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "3a5cc32695de30",
+      "title": "Iran win four staff visa appeals but 11 banned",
+      "summary": "Four members of Iran's World Cup delegation win appeals against having their visa applications rejected but 11 staff remain banned from travelling to the United States.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T18:25:14.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -203,12 +298,111 @@
       ]
     },
     {
-      "id": "ca1cf57f4bb908",
-      "title": "World Cup of Darts LIVE! Wales vs USA after Scotland WHITEWASH Norway",
-      "summary": "World Cup of Darts LIVE! Wales vs USA after Scotland WHITEWASH Norway",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13552969/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
-      "publishedAt": "2026-06-13T14:10:04.501Z",
+      "id": "38a90e4828d801",
+      "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+      "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T18:22:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9108f4f7de382a",
+      "title": "Arsenal ‘serious’ about signing £100m winger as Andrea Berta ‘in constant contact’ with agent – report",
+      "summary": "Arsenal are keen on signing a Paris Saint-Germain star, but there is interest in the winger from Liverpool, too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-bradley-barcola-paris-saint-germain-andrea-berta",
+      "publishedAt": "2026-06-13T17:48:59.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "39ebd855e612bb",
+      "title": "Man Utd considering signing ‘hugely industrious midfielder’ better than Rodri – top source",
+      "summary": "Michael Carrick’s Manchester United have taken a shine to a USA international midfielder who was once at Leeds United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-tyler-adams-bournemouth",
+      "publishedAt": "2026-06-13T16:15:22.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e1e097b17f100d",
+      "title": "Clutch time: Canadian and US World Cup mascots feature in Peruvian drugs raid",
+      "summary": "Lima police dress as mascots in raid on suspect Zayu the Jaguar left out of police operation While tensions between Canada and the United States have risen in the last...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/world-cup-mascots-drugs-raid-peru",
+      "publishedAt": "2026-06-13T15:39:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "da2c135c421946",
+      "title": "Richards claims Tuchel should have ‘sacrificed’ one England star to call-up three alternatives",
+      "summary": "Micah Richards has named three players who should be in England’s World Cup squad over Brentford’s Jordan Henderson.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/richards-claims-tuchel-should-sacrificed-one-england-star-call-up-three-alternatives",
+      "publishedAt": "2026-06-13T14:48:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e8ee49ab763b5b",
+      "title": "Big Lalas Energy to ulcerative colitis meds: Fox is this World Cup’s very soul in the US",
+      "summary": "The US version of the tournament’s opening ceremony helpfully focused on one of its main themes: aspirational consumerism The 2026 World Cup: a festival of football; a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
+      "publishedAt": "2026-06-13T14:47:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c430564813209c",
+      "title": "Football Daily | A cult classic kit, 4-4-2 and refcam: 10 things we’ve noticed in World Cup so far",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! We’re almost a 25th of the way through the Geopolitics World Cup – four games down, 100 to go – so it’s the perfect...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/football-daily-newsletter-world-cup-2026-10-things-we-learned-so-far",
+      "publishedAt": "2026-06-13T14:10:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6c40b48b6f1814",
+      "title": "Can Vinicius finally convince Brazil in Neymar's absence?",
+      "summary": "Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-13T14:09:49.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -226,21 +420,6 @@
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "74684d4028cc50",
-      "title": "World Cup 2026: England recover stolen boots; Ghana hit out at ‘unfair’ Partey visa denial, and more – live",
-      "summary": "⚽️ Latest news and discussion as tournament continues ⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail Rob...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live",
-      "publishedAt": "2026-06-13T14:02:13.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     },
     {
@@ -300,19 +479,6 @@
       ]
     },
     {
-      "id": "bfad14878e0a93",
-      "title": "Who are the Haiti players to look out for against Scotland?",
-      "summary": "Scotland face Haiti in their opening match of the 2026 World Cup. BBC Sport takes a look at the Haiti players to look out for.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cq81qxnxlw8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T13:00:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "b65c140d1d5ca1",
       "title": "‘You make people a bit happier’: the football app building friendships in London",
       "summary": "Footy Addicts helps amateur players find a game at short notice – and tackles the problem of loneliness Cries of “Boss! Boss! Boss!” emerge from the pitch during a hard...",
@@ -339,6 +505,21 @@
         "Arsenal",
         "Liverpool",
         "Psg"
+      ]
+    },
+    {
+      "id": "464abcaa3c5e14",
+      "title": "Ghana strongly criticises Canada for denying Thomas Partey a World Cup visa",
+      "summary": "‘High-handed and extremely unfair,’ government says Official note of protest sent calling for a review Ghana’s government has described Canada’s decision to deny Thomas...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/13/ghana-criticises-canada-thomas-partey-visa-world-cup",
+      "publishedAt": "2026-06-13T12:10:27.000Z",
+      "category": "worldcup",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Arsenal"
       ]
     },
     {
@@ -369,7 +550,7 @@
     },
     {
       "id": "6bf2545b3e8d3a",
-      "title": "'Gang leaders are soccer lovers' - Haiti play with hope for peace",
+      "title": "The trauma and hope behind Haiti's rare World Cup appearance",
       "summary": "Haiti's first appearance at a men's World Cup for 52 years is as much about hope as it is goals for the conflict-torn nation.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/c23yvvv7kr3o?at_medium=RSS&at_campaign=rss",
@@ -377,21 +558,6 @@
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b46701755ce2cc",
-      "title": "‘Everyone is welcome with us’: Curaçao want you along for their first World Cup ride",
-      "summary": "The smallest nation ever to compete in the tournament celebrate the long adventure that got them there, and remember those who cannot be there to enjoy it with them Ang...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/13/everyone-is-welcome-with-us-curacao-want-you-along-for-their-first-world-cup-ride",
-      "publishedAt": "2026-06-13T11:07:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
         "World Cup"
       ]
     },
@@ -422,170 +588,6 @@
       "tags": [
         "Arsenal",
         "Psg"
-      ]
-    },
-    {
-      "id": "cd456255a711c1",
-      "title": "Liverpool star ‘announces’ decision to leave as Tottenham ‘lead race’ to sign him with £60m ‘offer’",
-      "summary": "According to reports, Liverpool star Cody Gakpo has informed the club that he wants to leave and Tottenham Hotspur are ‘leading’ the race to sign him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-star-announces-decision-leave-tottenham-lead-race-sign-him-60m-offer",
-      "publishedAt": "2026-06-13T10:20:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ea2fdef37f8b24",
-      "title": "What is it like to play for Scotland at a World Cup?",
-      "summary": "Former Scotland players Paul Lambert, Darren Jackson and Rachel Corsie explain what it is like to live every fan's dream by playing at a World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cly8339w041o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T10:19:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c649f06cc3bf52",
-      "title": "Free agent Wales players put themselves in shop window",
-      "summary": "Rhian Wilkinson says her free-agent internationals gave potential suitors a glimpse of their qualities by helping Wales finish top of their Women's World Cup qualifying...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cze9nx02llko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T10:19:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ab91a49eef39c8",
-      "title": "Pipers and dreams: World Cup fever grips Scotland again after 28 years",
-      "summary": "The country is ready to blow away decades of dashed hopes and celebrate, with marching bands and all-night parties Scotland is leaning into one of its most treasured tr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/13/pipers-and-dreams-world-cup-fever-grips-scotland-again-after-28-years",
-      "publishedAt": "2026-06-13T10:00:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0dae854679535b",
-      "title": "Liverpool ‘ready to agree’ Rio Ngumoha deal with FSG ‘unhappy’ after Bayern transfer revelation",
-      "summary": "According to reports, Liverpool are now ‘ready to agree’ a new deal for Rio Ngumoha after Bayern Munich made a move to sign him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-ready-agree-rio-ngumoha-deal-fsg-unhappy-bayern-transfer-revelation",
-      "publishedAt": "2026-06-13T09:50:02.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "7e76ee3741a755",
-      "title": "England ‘wild card’ could help Three Lions win World Cup after Trump ‘karma’ over Somali referee",
-      "summary": "An England ‘wild card’ has been tipped to win the World Cup for the Three Lions, while Iran could give Donald Trump ‘karma’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-wild-card-three-lions-win-world-cup-trump-karma-somali-referee",
-      "publishedAt": "2026-06-13T09:13:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a7d1a7f02c8b46",
-      "title": "Injured referee Oliver to miss World Cup match",
-      "summary": "English referee Michael Oliver is ruled out of the group match between Ivory Coast and Ecuador.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx265n1dy58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T08:47:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c70f9317a81e09",
-      "title": "Man Utd: Next five signings after £115m double deal revealed as club ‘unlock’ extra £100m to spend",
-      "summary": "According to reports, Manchester United have decided which five positions to strengthen after landing Matheus Fernandes and Ederson Silva.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-next-five-signings-115m-double-deal-revealed-club-unlock-extra-100m-spend",
-      "publishedAt": "2026-06-13T08:35:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a13df4f764e69b",
-      "title": "Football Daily",
-      "summary": "Rick and Lloyd experience their first World Cup matchday in the USA.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nrt0bb?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T07:41:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: Movement begins as USA enter top ten after huge win",
-      "summary": "The World Cup is here and that means one last shuffle of the Power Rankings before it starts being based on actual results rather than vibes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-06-13T07:40:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0ff7211008f992",
-      "title": "USA blast out of the blocks and Canada get first ever point | World Cup Daily",
-      "summary": "On the podcast today: the USA … might actually be very good? They blew Paraguay away in their opening game in LA. Christian Pulisic, we owe you a huge apology. Elsewher...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/13/usa-blast-out-of-the-blocks-and-canada-get-first-ever-point-world-cup-daily",
-      "publishedAt": "2026-06-13T07:33:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e96c46f727df76",
-      "title": "Arsenal ‘ready to spend’ £86m to sign ‘dream’ target as Romano update confirms transfer ‘advancing’",
-      "summary": "Arsenal are ‘ready to spend’ around £86m to sign Juventus star Kenan Yildiz this summer, while Fabrizio Romano has an update on their business.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-ready-spend-86m-sign-dream-target-romano-confirms-transfer-advancing",
-      "publishedAt": "2026-06-13T07:31:09.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Juventus"
       ]
     }
   ],
