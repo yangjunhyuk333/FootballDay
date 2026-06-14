@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-14T04:41:55.125Z",
+  "generatedAt": "2026-06-14T09:43:24.780Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,116 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "87d4cc3ff29f00",
-      "title": "Russell regains mojo to claim dramatic Barcelona pole over Hamilton!",
-      "summary": "Highlights from qualifying at the Barcelona-Catalunya Grand Prix.",
+      "id": "24ce0c6073dfbb",
+      "title": "Why European champions Spain could be even better at this World Cup",
+      "summary": "When Mikel Oyarzabal came off the bench to sweep home the winning goal for Spain against England in the final of Euro 2024, it was the ending. But maybe it was also the...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553726/barcelona-catalunya-gp-qualifying-highlights",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "e156cc016af255",
-      "title": "Papers: Carrick open to Rashford Man Utd return",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553832/manchester-united-transfers-michael-carrick-open-to-allowing-marcus-rashford-to-return-to-old-trafford-ahead-of-next-season-paper-talk",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "8dd55d0b50e78c",
-      "title": "Leclerc crashes in Q3 to end pole hopes!",
-      "summary": "Charles Leclerc crashed again for the second time in seven days as he found the wall at Turn Four during qualifying at the Barcelona-Catalunya Grand Prix.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553716/barcelona-catalunya-gp-charles-leclerc-crashes-out-of-qualifying",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "f3bfa2b35eb446",
-      "title": "Qatar earn first World Cup point with last-gasp equaliser against Switzerland",
-      "summary": "Qatar won their first ever point at a World Cup finals as a dramatic injury-time equaliser earned a draw against a lacklustre Switzerland in the second game of Group B...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/qatar-vs-switzerland/report/549770",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "46f8a70af78cc9",
-      "title": "'We know we can win on this stage' | England 'proud' after World Cup opener",
-      "summary": "England's Luke Littler and Luke Humphries react to their Round 2 match against Spain in the World Cup of Darts.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553811/englands-luke-littler-and-luke-humphries-win-round-2-match-against-spain",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "acfed96d8e530e",
-      "title": "England's Littler and Humphries see off impressive Spain",
-      "summary": "Highlights of the Round 2 match between England and Spain at the World Cup of Darts.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13553810/england-vs-spain-world-cup-of-darts-highlights",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c8b1fe0abf47df",
-      "title": "England's Littler and Humphries set up World Cup of Darts quarter with Wales",
-      "summary": "England’s Luke Littler and Luke Humphries set up a quarter-final clash with Wales as they got their first ever win in an 8-5 showing against Spain’s Cristo Reyes and Jo...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13553618/world-cup-of-darts-englands-luke-littler-and-luke-humphries-set-up-clash-with-wales-in-quarters-with-8-5-win-over-spain",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b98fcbad4b5996",
-      "title": "Scotland hammer Ireland to secure first-ever T20 World Cup win",
-      "summary": "Scotland claimed their first-ever ICC Women's T20 World Cup win with a 40-run thumping of Ireland in the first of a 2026 tournament double-header at Old Trafford, which...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13553650/womens-t20-world-cup-scotland-hammer-ireland-by-40-runs-to-claim-their-first-win-in-tournament-history",
-      "publishedAt": "2026-06-14T04:41:54.859Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bfb47334ecacfb",
-      "title": "McGinn strike beats Haiti as Scotland enjoy dream World Cup return",
-      "summary": "John McGinn scored Scotland's first World Cup goal for 28 years to ensure a winning start against Haiti in Group C.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
-      "publishedAt": "2026-06-14T04:41:54.858Z",
+      "url": "https://www.skysports.com/football/news/12040/13549733/are-spain-deserved-world-cup-favourites-mikel-oyarzabal-and-fabian-ruiz-among-unsung-heroes-supporting-lamine-yamal",
+      "publishedAt": "2026-06-14T09:43:24.062Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -221,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "London Pulse kept alive their hopes of back-to-back Netball Super League titles with victory over Loughborough Lightning in the preliminary final and then warned Manche...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/netball/news/12040/13553780/netball-super-league-london-pulse-set-up-grand-final-against-manchester-thunder-with-victory-over-loughborough-lightning",
-      "publishedAt": "2026-06-14T04:41:54.858Z",
+      "publishedAt": "2026-06-14T09:43:24.062Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -234,11 +130,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Lewis Hamilton believes a \"perfect job\" will be required for Ferrari to take the fight to Mercedes at the Barcelona-Catalunya Grand Prix, but is not ruling out the oppo...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13553603/barcelona-catalunya-gp-lewis-hamilton-targets-perfect-job-to-fight-george-russell-kimi-antonelli-and-claim-first-ferrari-f1-win",
-      "publishedAt": "2026-06-14T04:41:54.858Z",
+      "publishedAt": "2026-06-14T09:43:24.062Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
         "Barcelona"
+      ]
+    },
+    {
+      "id": "01e91c00d0018e",
+      "title": "'Super John McGinn!' | Scotland fans overjoyed after win over Haiti",
+      "summary": "Scotland fans in Boston overjoyed after win over Haiti in the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553861/world-cup-scotland-fans-overjoyed-after-win-over-haiti",
+      "publishedAt": "2026-06-14T09:43:24.062Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -247,7 +156,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "George Russell says he is back in his groove and is starting to trust his instincts again after returning to form in spectacular fashion on the first two days of the Ba...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13553602/barcelona-catalunya-grand-prix-george-russell-back-in-the-groove-after-big-reset-in-title-fight-with-kimi-antonelli",
-      "publishedAt": "2026-06-14T04:41:54.858Z",
+      "publishedAt": "2026-06-14T09:43:24.062Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -255,32 +164,329 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "976b144d098358",
-      "title": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out",
-      "summary": "George Russell just pipped Lewis Hamilton to claim a much-needed pole position in his bid to kick start a championship fightback at the Barcelona-Catalunya Grand Prix.",
+      "id": "ed13f132409db5",
+      "title": "Fury beats former World's Strongest Man Hall by decision",
+      "summary": "Tommy Fury beat former World's Strongest Man Eddie Hall by majority decision in a Misfits Boxing exhibition bout at the AO Arena in Manchester.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13553600/barcelona-catalunya-gp-qualifying-george-russell-pips-lewis-hamilton-to-pole-position-as-charles-lederc-crashes-out",
-      "publishedAt": "2026-06-14T04:41:54.858Z",
+      "url": "https://www.skysports.com/boxing/news/12040/13553895/misfits-boxing-tommy-fury-beats-former-worlds-strongest-man-eddie-hall-by-majority-decision-and-reveals-name-of-newborn-son",
+      "publishedAt": "2026-06-14T09:43:24.061Z",
       "category": "transfer",
-      "region": "spain",
+      "region": "england",
       "tags": [
-        "Barcelona"
+        "Manchester"
       ]
     },
     {
-      "id": "037f5ab52eba7d",
-      "title": "Australia v Turkey: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan Kenan Yildiz starts on the bench as he recovers from...",
+      "id": "9fd0a0a917f499",
+      "title": "'Resolute, gritty and determined' - Scotland battle to famous win",
+      "summary": "Luke Shanley gives his verdict on Scotland’s 1-0 win over Haiti at the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13553888/world-cup-scotland-win-first-world-cup-match-for-36-years-the-verdict",
+      "publishedAt": "2026-06-14T09:43:24.061Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bf9ec438ee46e4",
+      "title": "Australia shock Turkey to make winning start to World Cup campaign",
+      "summary": "Goals in each half from Nestory Irankunda and Connor Metcalfe saw Australia shock Turkey 2-0 in their opening World Cup Group D clash in Vancouver.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/australia-vs-turkey/report/549773",
+      "publishedAt": "2026-06-14T09:43:24.061Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bfb47334ecacfb",
+      "title": "McGinn strike beats Haiti as Scotland secure first WC win in 36 years",
+      "summary": "Scotland claimed their first World Cup win since 1990 as they beat Haiti 1-0 in their Group C opener thanks to John McGinn's first-half goal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772",
+      "publishedAt": "2026-06-14T09:43:24.061Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9401dd0f64b6a",
+      "title": "Clarke: Pressure has eased on Scotland after crucial win",
+      "summary": "Steve Clarke believes the pressure has eased on Scotland after earning their first World Cup victory in 36 years with a 1-0 win over Haiti in their Group C opener.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553844/haiti-0-1-scotland-steve-clarke-reflects-on-must-win-world-cup-group-c-opener-as-andy-robertson-says-players-achieved-their-dreams",
+      "publishedAt": "2026-06-14T09:43:24.061Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "30b68a2b6fddae",
+      "title": "World Cup of Darts LIVE! England's Littler and Humphries in quarter-finals from 12pm",
+      "summary": "World Cup of Darts LIVE! England's Littler and Humphries in quarter-finals from 12pm",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13553914/world-cup-of-darts-live-scores-commentary-videos-results-highlights-with-luke-littler-luke-humphries-michael-van-gerwen-in-action-in-frankfurt",
+      "publishedAt": "2026-06-14T09:43:24.059Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1e4441e3d6948d",
+      "title": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
+      "summary": "News, build-up and reaction from North America Player guide | Bracketology | Wallchart | Mail us here How Group D stands after the opening games… Group D also continued...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/14/fifa-world-cup-2026-live-socceroos-australia-v-turkey-updates-aus-vs-tur-group-d-match-score-latest",
-      "publishedAt": "2026-06-14T04:38:13.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey",
+      "publishedAt": "2026-06-14T09:31:29.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
-        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5792097cece631",
+      "title": "Man Utd set to ‘pay more’ than Real Madrid for second signing in Mourinho blow",
+      "summary": "West Ham’s asking price for Mateus Fernandes is proving to be a ‘major obstacle’ for Real Madrid in a boost to Man Utd, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pay-more-real-madrid-fernandes-west-ham-mourinho-blow",
+      "publishedAt": "2026-06-14T09:15:18.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "1c93bd6dc38272",
+      "title": "Scotland scrape past Haiti for winning World Cup return | World Cup Daily – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Alex Abnos , Jeff Rueter , Jack Snape and Ewan Murray to discuss the latest action Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/jun/14/scotland-scrape-past-haiti-for-winning-world-cup-return-world-cup-daily-video",
+      "publishedAt": "2026-06-14T09:12:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "94da7560a0589f",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T09:00:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
         "World Cup",
         "Fifa"
+      ]
+    },
+    {
+      "id": "9e289fa39e8575",
+      "title": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
+      "summary": "Curacao has possibly been most famous for its alcoholic drink of the same name - but now the nation is ready to announce itself at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cn7p0d1mdrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T08:48:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9e4c0c9cc33b18",
+      "title": "Liverpool respond to Salah U-turn claims after team-mate insists he ‘could still stay’ at Anfield",
+      "summary": "Liverpool ‘have no plans to keep’ Mohamed Salah despite claims from a team-mate that he could still remain at Anfield ahead of next season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-salah-u-turn-el-shenawy-transfer",
+      "publishedAt": "2026-06-14T08:41:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e4725eb5702b70",
+      "title": "Was this offside? Technology fault leaves questions over VAR images",
+      "summary": "Fifa have blamed a technical fault for the delay in releasing the VAR images after a potential - and controversial - offside call during Qatar's World Cup draw with Swi...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T08:32:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9a6774e861a5a9",
+      "title": "Liverpool ready to ‘sacrifice’ Slot starter in Real Madrid boost as Reds ‘have to wheel and deal’",
+      "summary": "Liverpool are reportedly ready to sell Alexis Mac Allister in the summer transfer window as they look to reshape Andoni Iraola’s squad.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-sacrifice-mac-allister-real-madrid-wheel-deal",
+      "publishedAt": "2026-06-14T07:57:55.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "4412aa52ae8222",
+      "title": "Refugee who quit Bayern to create Aussie World Cup dream",
+      "summary": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T07:41:05.000Z",
+      "category": "worldcup",
+      "region": "germany",
+      "tags": [
+        "World Cup",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "d5c8bde3eca9cd",
+      "title": "Australia spoil Turkey’s return to World Cup stage with victory in their Group D opener",
+      "summary": "Australia spoiled Turkey’s return to the World Cup stage after 24 years by securing a 2-0 victory in their Group D opener on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/australia-turkey-world-cup-match-report",
+      "publishedAt": "2026-06-14T07:25:41.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "63a64ee53112a8",
+      "title": "Clinical Australia upset Turkey in World Cup opener",
+      "summary": "Watch highlights as Australia beat Turkey in their opening match, with 20-year-old Nestory Irankunda becoming the Socceroos's youngest ever World Cup goalscorer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cgk6j2r6p7mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T07:16:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5dd7bac4950092",
+      "title": "Football Daily",
+      "summary": "Scotland are back and they've started their World Cup with a win.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nrxnkz?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T07:11:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "38dd0c8eab1bcc",
+      "title": "The potential ‘disaster’ which could engulf the 2026 World Cup at any point",
+      "summary": "The heat is the most prominent and prevalent environmental talking point at the 2026 World Cup, but might wildfires be the biggest problem?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-2026-disaster-wildfires-smoke",
+      "publishedAt": "2026-06-14T07:06:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "118e7f53a2b263",
+      "title": "Brazil find that everything good flows through Vini of New Jersey",
+      "summary": "The Real Madrid star was his country’s best player in their World Cup opener on Saturday. They’ll need more of the same if they are to make a deep run Vinícius Júnior i...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/14/vinicius-junior-brazil-world-cup-2026",
+      "publishedAt": "2026-06-14T07:00:37.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "00894b94d2773d",
+      "title": "Who am I? Guess World Cup star No 7",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5y7vy9zz25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T06:26:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f68357fe06cde5",
+      "title": "Socceroos stun Turkey as Australia’s youngsters shine in opening World Cup win",
+      "summary": "Nestory Irankunda ran to the corner flag like Tim Cahill, punching and ducking and weaving, after sending the Socceroos on their way to a stunning 2-0 upset victory ove...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/14/australia-socceroos-turkey-world-cup-2026-group-d-match-report",
+      "publishedAt": "2026-06-14T05:57:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4d5cd9f1a0257c",
+      "title": "England's first World Cup training session: What did we learn?",
+      "summary": "England have had their first training session in Kansas City - what did we learn?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cx2kjrrxxx2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T05:01:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "353eb97ec418af",
+      "title": "Why Haiti v Scotland was antidote to the ills of world football",
+      "summary": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-14T04:54:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -376,213 +582,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "9d25a44b731145",
-      "title": "'Just listen to this!' - Scotland are back at the World Cup after 28 years",
-      "summary": "Scotland's players and fans sing Flower of Scotland at a World Cup for the first time in 28 years before their match against Haiti at the Boston Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/crlwker0gn5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-14T01:28:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "27e7c1017913ee",
-      "title": "Brazil guaranteed to win the World Cup as ‘nerves all over the place’ under Ancelotti",
-      "summary": "Brazil may do a Real Madrid and win the World Cup while running on vibes, but more likely is that Carlo Ancelotti’s side ultimately crash out.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/brazil-exposed-arsenal-transfer-target-ancelotti-world-cup-morocco",
-      "publishedAt": "2026-06-14T01:22:00.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e4725eb5702b70",
-      "title": "Was this offside? Technology fault leaves questions over VAR images",
-      "summary": "Fifa have blamed a technical fault for the delay in releasing the VAR images after a potential - and controversial - offside call during Qatar's World Cup draw with Swi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckg80k1yn89o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-14T00:58:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "b34a1a7fcafa0a",
-      "title": "Brazil 1-1 Morocco: Vinicius Jr magic earns Selecao draw after Saibari strike",
-      "summary": "Brazil and Morocco played out an entertaining draw at the World Cup, handing Scotland the opportunity to go top of Group C against Haiti.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/brazil-1-1-morocco-report-world-cup-vinicius-junior",
-      "publishedAt": "2026-06-14T00:17:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "83f3421ef9a1a1",
-      "title": "Vinícius Júnior rescues lacklustre Brazil as Morocco earn deserved World Cup draw",
-      "summary": "So it turns out that Carlo Ancelotti is no miracle worker. After watching his side fall behind to Ismael Saibari’s brilliant opening goal, the Brazil manager needed a b...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report",
-      "publishedAt": "2026-06-14T00:16:16.000Z",
-      "category": "worldcup",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "0bd4bf868a92ec",
-      "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
-      "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T22:58:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "35a7867d0c8de9",
-      "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-      "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T22:47:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cd128c177aa8cf",
-      "title": "‘No soccer fans here’: World Cup fever fails to grip Texas Republicans",
-      "summary": "Houston is a host city but those gathered there for a GOP convention are far more concerned with contentious politics – and an elephant Greg Abbott, the governor of Tex...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/13/no-soccer-fans-here-world-cup-fever-fails-to-grip-texas-republicans",
-      "publishedAt": "2026-06-13T22:39:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "589d09495f62b4",
-      "title": "Switzerland stunned by late Qatar equaliser",
-      "summary": "Qatar's Boualem Khoukhi scores a stoppage-time equaliser to earn his country their first ever World Cup point against Switzerland in San Francisco.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/ckg80ym83j5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T21:49:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7d89a89bd5de1b",
-      "title": "Fabrizio Romano reveals Bayern Munich ‘calls’ to sign Man Utd winger",
-      "summary": "Fabrizio Romano has revealed Bayern Munich’s stance on signing a winger that Manchester United are keen on offloading this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bayern-munich-marcus-rashford-calls-manchester-united",
-      "publishedAt": "2026-06-13T21:49:13.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Manchester",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "fdbcfcd512c687",
-      "title": "Neville fury over FIFA ‘dictatorship’ breathes life into historic Switzerland v Qatar game",
-      "summary": "Switzerland played with their food and Qatar bit back, but Gary Neville laying into this FIFA ‘dictatorship’ should be the headline really.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/neville-slams-absolutely-ridiculous-fifa-dictatorship-switzerland-qatar-world-cup",
-      "publishedAt": "2026-06-13T21:42:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "b7402652a999e7",
-      "title": "Muheim’s late own goal gives Qatar dramatic World Cup draw against Switzerland",
-      "summary": "Qatar celebrated their first World Cup point in a 1-1 draw against Switzerland after Miro Muheim headed in a stoppage-time own goal to send the Gulf nation into jubilat...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/13/qatar-switzerland-world-cup-match-report",
-      "publishedAt": "2026-06-13T21:26:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8cacf3207ae4fa",
-      "title": "Khoukhi heads home late equaliser for Qatar against Switzerland",
-      "summary": "Qatar's Boualem Khoukhi heads home an equaliser in added on time as his side earn their first ever World Cup point against Switzerland in San Francisco.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c78yxng5e5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T21:23:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7f43af0f708654",
-      "title": "Qatar earn first World Cup point after stunning 95th-minute equaliser vs Switzerland",
-      "summary": "Qatar punished a wasteful Switzerland performance with a 95th-minute equaliser to earn their first point in World Cup finals history.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/report-qatar-1-1-switzerland-world-cup-shock",
-      "publishedAt": "2026-06-13T21:13:55.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "98de7ca52211ba",
-      "title": "Arsenal and Liverpool chase Barcola - Sunday's gossip",
-      "summary": "Arsenal and Liverpool are among Bradley Barcola's suitors, Brighton reject Coventry's Carl Rushworth bid, Bayern Munich might beat Barcelona to Marcus Rashford, plus mo...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cg53yq5g012o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-13T20:29:25.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Barcelona",
-        "Bayern"
       ]
     }
   ],
