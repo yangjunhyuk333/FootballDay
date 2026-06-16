@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T04:53:30.705Z",
+  "generatedAt": "2026-06-16T11:21:04.185Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "e407b521fa5153",
-      "title": "Cape Verde hold Spain in one of World Cup's biggest surprises",
-      "summary": "Cape Verde pulled off one of the biggest shocks in World Cup history as the African debutants held tournament favourites Spain to a goalless draw in Atlanta.",
+      "id": "b36f7251016d9e",
+      "title": "Why is retaining the World Cup so hard? Messi’s Argentina out to buck trend",
+      "summary": "Argentina are out to make history this summer and become the first nation to retain the World Cup on a different continent. No team has done it anywhere since Brazil in...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/spain-vs-cape-verde/report/549780",
-      "publishedAt": "2026-06-16T04:53:30.501Z",
+      "url": "https://www.skysports.com/football/news/12040/13549736/world-cup-2026-lionel-messis-argentina-want-to-retain-trophy-but-history-suggests-the-holders-risk-spectacular-failure-in-2026",
+      "publishedAt": "2026-06-16T11:21:03.899Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -114,10 +114,10 @@
     {
       "id": "8954684b8b7a06",
       "title": "Iran fight back twice to rescue thrilling draw against New Zealand",
-      "summary": "Iran put their turbulent build-up to the World Cup behind them as they fought back twice to secure a 2-2 draw with New Zeland in what was arguably the game of the tourn...",
+      "summary": "Iran put their turbulent build-up to the World Cup behind them as they came from behind twice to secure a 2-2 draw with New Zealand in what was arguably the game of the...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "publishedAt": "2026-06-16T11:21:03.899Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -130,7 +130,7 @@
       "summary": "The essence of football is anyone stands a chance against anyone. With all the financial muscle in the game, that essence becomes harder and harder to see. And yet, the...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "publishedAt": "2026-06-16T11:21:03.899Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -144,7 +144,7 @@
       "summary": "Congratulations to Lewis Hamilton and Ferrari on a dominant win in Barcelona. I love witnessing first hand greats like Alain Prost, Nigel Mansell, Michael Schumacher, S...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13554327/barcelona-catalunya-gp-martin-brundles-verdict-on-lewis-hamiltons-first-grand-prix-win-for-ferrari-and-monaco-speeding-penalty-mess",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "publishedAt": "2026-06-16T11:21:03.899Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -152,12 +152,40 @@
       ]
     },
     {
-      "id": "6995039d8d1763",
-      "title": "Biggest World Cup shock? Vote on Cape Verde's draw vs Spain and rate players!",
-      "summary": "Biggest World Cup shock? Vote on Cape Verde's draw vs Spain and rate players!",
+      "id": "2b39adf766d555",
+      "title": "Why Ronaldo's last World Cup chance with Portugal could be his best",
+      "summary": "The nation with the most representatives in Paris Saint-Germain’s starting line-up for the 2026 Champions League final were Portugal, just as they had been when Luis En...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/spain-vs-cape-verde/live/549780",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "url": "https://www.skysports.com/football/news/12040/13550660/cristiano-ronaldos-last-world-cup-chance-with-portugal-could-be-his-best-but-roberto-martinez-must-manage-him",
+      "publishedAt": "2026-06-16T11:21:03.898Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c2e77a8cf9a27d",
+      "title": "DR Congo's Tuanzebe: I'm not a politician but we can change the world with football",
+      "summary": "DR Congo are preparing for their first World Cup in over half a century, while a war is going on back home.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13553569/dr-congo-axel-tuanzebe-hoping-leopards-can-make-lasting-impact-beyond-football-at-first-world-cup-since-1974",
+      "publishedAt": "2026-06-16T11:21:03.898Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "600d02ee0364e6",
+      "title": "Iran coach hits out at treatment of 'most oppressed team' at World Cup",
+      "summary": "Iran have hit out at their treatment in the United States, with their head coach Amir Ghalenoei saying his team are the \"most oppressed\" at the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand",
+      "publishedAt": "2026-06-16T11:21:03.898Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -165,223 +193,55 @@
       ]
     },
     {
-      "id": "69728c561a7ed6",
-      "title": "'Bewildered' McCullum 'worried' for Stokes - 'We need to look after him'",
-      "summary": "England head coach Brendon McCullum admits he is 'worried' for Ben Stokes, following an incident at a Chelsea nightclub which saw the Test captain break a midnight curf...",
+      "id": "bf7ee1a3bfbd51",
+      "title": "What's behind Hamilton's resurgence?",
+      "summary": "Lewis Hamilton returned to winning ways for the first time in nearly two years after his first Grand Prix victory for Ferrari in Barcelona on Sunday.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13554338/brendon-mccullum-worried-for-ben-stokes-we-need-to-look-after-him",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "url": "https://www.skysports.com/f1/news/12040/13554357/lewis-hamilton-whats-behind-ferrari-drivers-resurgence-after-win-at-barcelona-catalunya-grand-prix",
+      "publishedAt": "2026-06-16T11:21:03.898Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain",
       "tags": [
-        "Chelsea"
+        "Barcelona"
       ]
     },
     {
-      "id": "7f019cc0d8aa09",
-      "title": "Egypt denied first World Cup win in Belgium draw as Lukaku makes instant impact",
-      "summary": "Egypt were denied a first-ever World Cup win after Romelu Lukaku forced an own-goal equaliser just seconds after coming on to rescue a 1-1 draw for Belgium in their Gro...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/belgium-vs-egypt/report/549778",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "id": "717e4717405e23",
+      "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+      "summary": "⚽ All the latest on day six of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Donald Trump: The US president is in France for the G7 summit where...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live",
+      "publishedAt": "2026-06-16T11:15:07.000Z",
       "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ebfa9144724f2e",
-      "title": "Papers: Man Utd set to save £10m from Amorim's Milan move",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554454/man-utd-news-red-devils-set-to-save-10m-in-compensation-thanks-to-ruben-amorims-impending-move-to-ac-milan-paper-talk",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
-      "category": "transfer",
       "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "aa692aa03578b8",
+      "title": "Marcus Rashford reacts after Barcelona decide against permanent Man Utd transfer",
+      "summary": "Marcus Rashford has made up his mind about his next club after Barcelona did not activate the buy-option in the Manchester United deal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-barcelona-marcus-rashford",
+      "publishedAt": "2026-06-16T11:12:26.000Z",
+      "category": "transfer",
+      "region": "england spain",
       "tags": [
         "Transfer",
-        "Milan"
-      ]
-    },
-    {
-      "id": "978dc28ff00169",
-      "title": "Tunisia sack head coach after heavy defeat in World Cup opener",
-      "summary": "Tunisia have sacked their head coach Sabri Lamouchi following their opening game of the 2026 World Cup, a heavy 5-1 defeat to Sweden.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554414/world-cup-latest-tunisia-sack-head-coach-sabri-lamouchi-after-losing-opening-match-with-heavy-defeat-to-sweden",
-      "publishedAt": "2026-06-16T04:53:30.500Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d6bac3d1f40cc4",
-      "title": "Iran v Iran in the stands as politics and football intertwine",
-      "summary": "The Iranian team may want to unite people but what the game with New Zealand revealed is just how divided many Iranians remain, writes BBC North America correspondent S...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T04:31:48.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6ab2ada64e4d9d",
-      "title": "Infantino using private jet in attempt to watch two World Cup matches per day",
-      "summary": "Fifa president sets gruelling itinerary across tournament World Cup to generate about 9m tons of carbon dioxide Gianni Infantino is planning to attend two World Cup gam...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/16/infantino-private-jet-world-cup-matches",
-      "publishedAt": "2026-06-16T04:00:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "c8c190e65ad418",
-      "title": "Bleep tests, alcohol bans and Gazza: Italia 90 set the bar for England and sports science | Sean Ingle",
-      "summary": "Bobby Robson employed a head of human performance for the World Cup and, despite wariness, the players got on board The eve of Italia 90. Gazza’s tears, England’s heart...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/16/bleep-tests-alcohol-bans-gazza-italia-90-set-bar-england-sports-science",
-      "publishedAt": "2026-06-16T04:00:44.000Z",
-      "category": "worldcup",
-      "region": "italy france",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e5d6016430ca49",
-      "title": "Iran twice come from behind to claim draw in World Cup opener with New Zealand",
-      "summary": "What, really, were the emotions flowing through the veins of Iran’s players as they took to the pitch in Los Angeles? A few hours earlier Donald Trump, in France before...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report",
-      "publishedAt": "2026-06-16T03:19:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "e20cf7186eb294",
-      "title": "Araújo to the rescue as Uruguay deny Saudi Arabia another World Cup shock",
-      "summary": "Fifa’s embrace of rapacious American capitalism may have found its limits in Miami, one of the entertainment capitals of the world. Despite just seven tickets showing a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report",
-      "publishedAt": "2026-06-16T00:26:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a5078a9ed82a3d",
-      "title": "World Cup official cleared by Fifa and says gesture was ‘subconscious twitch’",
-      "summary": "Evans had been accused of white supremacist gesture ‘The movement was an involuntary,’ says official Fifa’s disciplinary committee has cleared the World Cup video assis...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/15/var-official-white-supremacy-gesture-fifa-world-cup-2026",
-      "publishedAt": "2026-06-15T22:30:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "8de856d1bf8cf2",
-      "title": "Duck, duck, goal: bird dressed in Mexico’s World Cup jersey scores on social media",
-      "summary": "Images of Merlin, a two-year-old duck, parading on the streets of Mexico City celebrated by fans on social media Julián Quiñones and Raúl Jiménez may have scored the go...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/15/duck-wearing-mexico-world-cup-jersey-viral",
-      "publishedAt": "2026-06-15T22:13:31.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "27d8c67a751307",
-      "title": "Lukaku makes impact off the bench as Belgium draw with Egypt",
-      "summary": "An own goal from Mohamed Hany denies Egypt a first ever victory at the World Cup as they draw 1-1 with Belgium at the Seattle Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cly72zdjzgqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T21:55:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f67f098616345e",
-      "title": "Salah and De Bruyne lose Chelsea rejects battle to ‘out of shape’ main Belgium character",
-      "summary": "Romelu Lukaku once wondered why ‘some people in my own country want to see me fail’. Belgium were doing a fine job of that before he came on.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-rejects-salah-de-bruyne-lukaku-belgium-egypt",
-      "publishedAt": "2026-06-15T21:41:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c06e3f5aff5c37",
-      "title": "Real make Fernandes contact - Tuesday's gossip",
-      "summary": "Real Madrid make Mateus Fernandes contact, Manchester United not willing to meet West Ham's asking price and Bayern Munich to sign Ismael Saibari.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T21:13:41.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
-      "tags": [
         "Manchester",
-        "Real Madrid",
-        "Bayern"
+        "Barcelona"
       ]
     },
     {
-      "id": "268d27c9b25b6d",
-      "title": "I'll keep gambling with fitness for England - Saka",
-      "summary": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T21:12:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b9765eec57c09a",
-      "title": "Belgium rescue point as Romelu Lukaku makes immediate impact in entertaining Egypt draw",
-      "summary": "Romelu Lukaku made an immediate impact as Belgium rescued a point in an entertaining draw in their World Cup opener against Egypt.",
+      "id": "e186832a08fb87",
+      "title": "England rocked by ‘alarming’ hat-trick of setbacks on eve of Croatia opener",
+      "summary": "It will be an achievement if England are able to recover in time for their World Cup opener against Croatia after more ‘alarming’ incidents.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/belgium-rescue-point-lukaku-immediate-impact-entertaining-egypt-draw",
-      "publishedAt": "2026-06-15T21:10:12.000Z",
+      "url": "https://www.football365.com/news/england-crisis-world-cup-hat-trick-problems",
+      "publishedAt": "2026-06-16T11:09:07.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -389,203 +249,347 @@
       ]
     },
     {
-      "id": "ad905a692520c5",
-      "title": "Lukaku makes instant impact to force own goal and rescue draw for Belgium against Egypt",
-      "summary": "For just over half of Egypt’s opening match against Belgium, it looked as though the Pharaohs had done enough for a famous first World Cup win. And then Rudi Garcia wen...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report",
-      "publishedAt": "2026-06-15T21:08:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "521875d5a16b94",
-      "title": "FIFA told to remove World Cup official as he’s accused of making ‘White power’ gesture on broadcast",
-      "summary": "FIFA have been told to remove World Cup official Shaun Evans after he was accused of making a ‘White Power’ gesture on broadcast.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fifa-told-remove-world-cup-official-accused-white-power-gesture-broadcast",
-      "publishedAt": "2026-06-15T20:48:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "11d4508e58922d",
-      "title": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde earn point",
-      "summary": "Veteran goalkeeper Vozinha stars and Spain reach 2,500 passes since their last World Cup goal - the key stats as debutants Cape Verde secure a memorable point in Atlanta.",
+      "id": "ce18cbd8897691",
+      "title": "Football Daily",
+      "summary": "France's all-time leading goalscorer Olivier Giroud speaks to Mark Chapman.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T20:26:16.000Z",
-      "category": "worldcup",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns8565?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T11:00:00.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Football"
       ]
     },
     {
-      "id": "f810b7bd943a62",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T20:08:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "700aa577681b7c",
-      "title": "‘Kylian is Kylian’: Deschamps happy to shield Mbappé amid political scrutiny",
-      "summary": "With France captain in spotlight at team hotel and in home press, head coach tries to pull focus before their World Cup opener against Senegal Since France arrived at t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/15/kylian-is-kylian-deschamps-happy-to-shield-mbappe-amid-political-scrutiny",
-      "publishedAt": "2026-06-15T19:55:31.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal take early lead",
-      "summary": "Arsenal are one of six clubs whose players have scored more than once at World Cup 2026. They are barely holding off Wolves.",
+      "id": "9398187d3883c0",
+      "title": "Chelsea: ‘Deal already in place’ for Cucurella replacement as Real Madrid move ‘suits all parties’",
+      "summary": "According to reports, Chelsea ‘already have a deal in place’ for a Marc Cucurella replacement, while they have chosen three positions to strengthen this summer.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-15T19:25:06.000Z",
-      "category": "worldcup",
+      "url": "https://www.football365.com/news/chelsea-deal-already-in-place-cucurella-replacement-blueco-three-signings",
+      "publishedAt": "2026-06-16T10:52:06.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "bc8698e0888afe",
+      "title": "Arsenal ready to pounce after teenager decides ‘to leave’ Tottenham",
+      "summary": "Arsenal are planning to sign a young gem, who has decided to ‘move on’ and leaving Tottenham Hotspur in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-tottenham-hotspur-elijah-upson",
+      "publishedAt": "2026-06-16T10:33:57.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup",
+        "Transfer",
         "Arsenal"
       ]
     },
     {
-      "id": "0a14dd8acc68bc",
-      "title": "The biggest shock in World Cup history summed up by one astonishing stat for heroic Cape Verde",
-      "summary": "Cape Verde holding European champions and a World Cup favourite in Spain is an astonishing achievement, summed up by one absurd stat.",
+      "id": "c782e594892618",
+      "title": "Man Utd flop offered to AC Milan soon after Ruben Amorim reveal",
+      "summary": "A Manchester United man has been offered to AC Milan, where Ruben Amorim is set to become the next manager, according to an Italian journalist.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-shock-world-cup-history-cape-verde-stun-spain-astonishing-stat",
-      "publishedAt": "2026-06-15T19:06:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "38011c654634f7",
-      "title": "England v Croatia: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup clash between England and Croatia.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/england-v-croatia-prediction-preview",
-      "publishedAt": "2026-06-15T19:03:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3d419f0294ed70",
-      "title": "Vozinha heroics help Cape Verde hold Spain to goalless draw",
-      "summary": "European champions Spain were held to surprise 0-0 draw by debutants Cape Verde in their World Cup opener, with 40-year-old goalkeeper Vozinha producing a standout perf...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c621kr6q2rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T18:52:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fb58153b3d45e3",
-      "title": "What's the score with watching Scotland in the World Cup?",
-      "summary": "Scotland's next two group stages matches will be played on Friday night and next Wednesday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/news/articles/c239jnlkpgvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T18:41:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6631326dd555ae",
-      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T18:41:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "557e66191b2286",
-      "title": "Liverpool: Romano reveals update on potential Nunez return after ‘everything is done’ claim",
-      "summary": "Fabrizio Romano has revealed a significant update on Darwin Nunez after it was claimed that “everything is done” for his Liverpool return.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-reveals-update-nunez-return-everything-done-claim",
-      "publishedAt": "2026-06-15T18:39:31.000Z",
+      "url": "https://www.football365.com/news/ruben-amorim-rescue-man-utd-flop-manuel-ugarte-ac-milan-proposal",
+      "publishedAt": "2026-06-16T10:21:10.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "a3b09e47735408",
+      "title": "Weir signs for Champions League runners-up Lyon",
+      "summary": "Scotland captain Caroline Weir signs a three-year contract with French champions Lyon after leaving Real Madrid.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cq61ye3g59yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T10:18:31.000Z",
+      "category": "transfer",
+      "region": "spain france",
+      "tags": [
+        "Champions League",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8d657409e34ae8",
+      "title": "Shamrock Rovers fans 'immensely proud' of Cape Verde hero Lopes",
+      "summary": "The performance of Cape Verde defender Roberto 'Pico' Lopes in their heroic World Cup draw against heavyweights Spain evoked pride in supporters of his club, League of...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c20ylwewd90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T10:10:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2b8fd3973e8329",
+      "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+      "summary": "Head coach looked downwards in official Fifa photo ‘The picture was taken the way it was taken’ The Uruguay head coach Marcelo Bielsa has lived up to his maverick reput...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026",
+      "publishedAt": "2026-06-16T10:08:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "ad257eb4077188",
+      "title": "David Squires on … a thirst for adverts and other notes from the World Cup so far",
+      "summary": "Our cartoonist offers up some observations after the tournament’s group games got under way in the US, Mexico and Canada Buy a cartoon | David’s favourite works of 2025...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/16/david-squires-thirst-for-adverts-other-notes-world-cup-2026",
+      "publishedAt": "2026-06-16T10:07:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "139e99cf66f8a7",
+      "title": "‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
+      "summary": "A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experiment When Kevin Kotoko heard that he had been selected as one of Fox’...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square",
+      "publishedAt": "2026-06-16T10:00:07.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
         "Liverpool"
       ]
     },
     {
-      "id": "c80a2646061355",
-      "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-      "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
+      "id": "946fbd3e90ab45",
+      "title": "Football Daily World Cup quiz: England v Croatia flashback",
+      "summary": "How many of England's starting line-up can you name from the last time they played Croatia at the World Cup?",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T18:12:30.000Z",
+      "url": "https://www.bbc.com/sport/football/articles/clyp3kjvv3no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T09:45:21.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "Football",
         "World Cup"
       ]
     },
     {
-      "id": "bbabfb09e9f979",
-      "title": "Spain stunned as Cape Verde pull off huge shock to hold World Cup favourites to draw",
-      "summary": "Cape Verde have pulled off a huge World Cup shock by holding Euro 2024 winners Spain to a 0-0 draw in the opening game of Group H on Monday.",
+      "id": "d1c7084cb4a596",
+      "title": "Liverpool: Pearce reveals verdict on Salah ‘U-turn’ as two new attackers ‘expected’ this summer",
+      "summary": "Liverpool expert James Pearce has revealed the club’s verdict on making a ‘U-turn’ on letting Mohamed Salah leave on a free transfer.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/report-spain-stunned-cape-verde-pull-off-huge-shock-hold-world-cup-favourites-draw",
-      "publishedAt": "2026-06-15T18:08:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "01caabc3a8ea35",
-      "title": "Jurgen Klopp clarifies apparent dig at Germany boss Julian Nagelsmann – ‘I could have punched myself’",
-      "summary": "Ex-Liverpool boss Jurgen Klopp has apologised to Germany coach Julian Nagelsmann for a comment about the team’s lineup vs Curacao.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jurgen-klopp-clarifies-apparent-dig-germany-boss-julian-nagelsmann",
-      "publishedAt": "2026-06-15T18:01:16.000Z",
+      "url": "https://www.football365.com/news/liverpool-pearce-reveals-clear-verdict-salah-u-turn-two-expected-summer-signings",
+      "publishedAt": "2026-06-16T09:37:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Transfer",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "4a17e2c3cea008",
+      "title": "Marcus Rashford transfer ‘clause available’ to Arsenal after Man Utd ‘contact’",
+      "summary": "Arsenal have been made aware of a secret clause in winger Marcus Rashford’s contract at Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-marcus-rashford-manchester-united",
+      "publishedAt": "2026-06-16T09:12:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0848612b4b9b6c",
+      "title": "Insider reveals Pedro Porro rejected four giant clubs as he ‘always’ wanted Tottenham stay",
+      "summary": "Insider Ben Jacobs has revealed interest from four giant clubs in Pedro Porro, with two making contact for the Tottenham man, but he “always” wanted to stay with Spurs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pedro-porro-rejected-four-giant-clubs-always-wanted-tottenham-stay",
+      "publishedAt": "2026-06-16T09:11:06.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "228df0f89050f4",
+      "title": "Jordan's journey from Harry Redknapp to date with Messi",
+      "summary": "When they face world champions Argentina in their final group stage match on 27 June, it may be Jordan's own World Cup final.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c172dxe8qleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T08:40:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a268f5410b159b",
+      "title": "Man Utd: Mason Greenwood reaches transfer ‘agreement’ as Romano reveals ‘extra money’ for INEOS",
+      "summary": "Ex-Manchester United forward Mason Greenwood has reached an ‘agreement’ to join AS Roma, while Fabrizio Romano has revealed another windfall for INEOS.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-mason-greenwood-reaches-transfer-agreement-romano-reveals-ineos-windfall",
+      "publishedAt": "2026-06-16T08:31:58.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e6c6cccbfd3eca",
+      "title": "Man Utd ‘enquire’ about second West Ham star after Matheus Fernandes in £130m double deal",
+      "summary": "Manchester United want to raid West Ham United for two of their best players in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-west-ham-united-mateus-fernandes-crysencio-summerville",
+      "publishedAt": "2026-06-16T08:09:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a324f08a78b461",
+      "title": "England: Harry Maguire reveals reason for World Cup omission after ‘awkward call’ with Thomas Tuchel",
+      "summary": "Manchester United star Harry Maguire has revealed why Thomas Tuchel decided to leave him out of England’s World Cup squad.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-harry-maguire-reveals-reason-world-cup-omission-awkward-call-thomas-tuchel",
+      "publishedAt": "2026-06-16T07:52:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fbe7df1be18000",
+      "title": "Who will win the 2026 World Cup Golden Ball? Harry Kane the favourite",
+      "summary": "Lionel Messi has already won it twice and is fifth in the running to win the Golden Ball in 2026. Harry Kane has leapfrogged Lamine Yamal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
+      "publishedAt": "2026-06-16T07:30:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7f6cab2a967ea4",
+      "title": "Liverpool: Yan Diomande ‘now prioritising move’ as domino effect tipped to spark £80m Plan B signing",
+      "summary": "According to reports, RB Leipzig standout Yan Diomande is ‘now prioritising’ a move to Liverpool, but they have been tipped to sign an alternative.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-yan-diomande-now-prioritising-move-domino-effect-80m-plan-b-signing",
+      "publishedAt": "2026-06-16T07:26:32.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1c74a23d8565d6",
+      "title": "Who are the favourites for the 2026 World Cup in the United States?",
+      "summary": "The World Cup is barely a week away and England are somehow third favourites behind the twin towers of Spain and France.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
+      "publishedAt": "2026-06-16T07:24:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f75eccde835190",
+      "title": "How the ‘Yanks have f***ed football’ at this World Cup",
+      "summary": "Spain were held by Cape Verde and that was exciting but there’s still a lot of cynicism around this World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/yanks-ruined-football-world-cup-mailbox",
+      "publishedAt": "2026-06-16T07:19:31.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5790f44c7dddd6",
+      "title": "Iran 'most oppressed' team at World Cup - Ghalenoei",
+      "summary": "Head coach Amir Ghalenoei says his Iran side are the \"most oppressed in the World Cup\" after having last-minute travel restrictions imposed on them.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckg48wvv0v2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T07:16:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "43c37795ef3631",
+      "title": "Football Daily",
+      "summary": "Guillem Balague reacts as Cape Verde hold Spain to a shock draw.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns6ylk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T07:16:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5007f3fbe9693a",
+      "title": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
+      "summary": "Max Rushden is joined by Barry Glendenning , Barney Ronay , Dan Bardell and Sid Lowe as debutants Cape Verde earn a draw against the favourites Spain Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
+      "publishedAt": "2026-06-16T07:14:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "476703a7963346",
+      "title": "Fabrizio Romano says ‘Arsenal have called for weeks’ for €100m ‘superstar’",
+      "summary": "Fabrizio Romano has revealed that Arsenal are keen on a 2026 summer deal for a Newcastle United and Italy international star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-sandro-tonali-newcastle-united",
+      "publishedAt": "2026-06-16T07:11:30.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
       ]
     }
   ],
