@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-15T21:09:46.329Z",
+  "generatedAt": "2026-06-16T04:53:30.705Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,131 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "6fd29aba846e5a",
-      "title": "World Cup live updates: Belgium, Egypt battle to t...",
-      "summary": "null",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49066357/world-cup-daily-live-new-zealand-predicting-puppy-poops-live-tv-spain-lamine-yamal-ready-debut",
-      "publishedAt": "2026-06-15T21:58:29.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5626bb3e7b50bd",
-      "title": "Spain held by Cape Verde in 1st major WC shock",
-      "summary": "Spain were held to a 0-0 draw by 64th-ranked Cape Verde on Monday in the first major shock of the World Cup group stage.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49073839/spain-held-64th-ranked-cape-verde-1st-major-world-cup-shock",
-      "publishedAt": "2026-06-15T21:51:21.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "55e89947a2cb59",
-      "title": "Van Dijk criticizes World Cup hydration breaks",
-      "summary": "Virgil van Dijk has criticised the introduction of hydration breaks at this summer's World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49071612/virgil-van-dijk-criticises-world-cup-hydration-breaks",
-      "publishedAt": "2026-06-15T21:51:21.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5283b86825b4de",
-      "title": "Brazil-born Nunes: 'I owe more to Portugal'",
-      "summary": "Brazilian-born Matheus Nunes is proud to be representing Portugal again at a World Cup, stating the European country helped him launch his football career.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49073216/brazil-born-nunes-representing-portugal-owe-more-portugal",
-      "publishedAt": "2026-06-15T21:51:21.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d1d8e69130ae68",
-      "title": "⚽ Red Sox host 'Scotland Day' amid World Cup",
-      "summary": "The Tartan Army -- Scotland's supporters organization -- led a fan march from Evans Way Park to the ballpark, bagpipe music and all.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/mlb/story/_/id/49066206/boston-red-sox-scotland-fenway-park-tartan-army",
-      "publishedAt": "2026-06-15T21:51:21.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "250a53aebca006",
-      "title": "Saka 'ready to go' for WC opener amid injury fear",
-      "summary": "Bukayo Saka has played down concerns over his fitness by insisting \"I'm ready to go\" on the eve of England's World Cup opener against Croatia.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49075344/bukayo-saka-ready-go-england-world-cup-opener-amid-achilles-worries",
-      "publishedAt": "2026-06-15T21:50:50.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9e35bfebfc32ad",
-      "title": "Real Madrid announce Marc Cucurella signing",
-      "summary": "Real Madrid have completed the signing of Marc Cucurella from Chelsea.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49064331/real-madrid-complete-signing-marc-cucurella-chelsea",
-      "publishedAt": "2026-06-15T21:50:50.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "862c22d74aa7b8",
-      "title": "Spain won't panic yet about Cape Verde draw, but t...",
-      "summary": "Spain have a history of starting slowly at World Cups before finding their form, but nobody -- not even them -- expected to open 2026 with a draw against tiny Cape Verde.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49074414/spain-world-cup-shock-draw-cape-verde-lamine-yamal",
-      "publishedAt": "2026-06-15T21:32:27.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "978dc28ff00169",
-      "title": "Tunisia sack head coach after heavy defeat in World Cup opener",
-      "summary": "Tunisia have sacked their head coach Sabri Lamouchi following their opening game of the 2026 World Cup, a heavy 5-1 defeat to Sweden.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554414/world-cup-latest-tunisia-sack-head-coach-sabri-lamouchi-after-losing-opening-match-with-heavy-defeat-to-sweden",
-      "publishedAt": "2026-06-15T21:09:45.950Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "e407b521fa5153",
-      "title": "Cape Verde hold Spain in one of World Cup's biggest shocks",
+      "title": "Cape Verde hold Spain in one of World Cup's biggest surprises",
       "summary": "Cape Verde pulled off one of the biggest shocks in World Cup history as the African debutants held tournament favourites Spain to a goalless draw in Atlanta.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/spain-vs-cape-verde/report/549780",
-      "publishedAt": "2026-06-15T21:09:45.950Z",
+      "publishedAt": "2026-06-16T04:53:30.501Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -231,43 +112,30 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "13092c32bd97a4",
-      "title": "Calls for World Cup VAR official to be removed after 'white supremacist sign'",
-      "summary": "FIFA's discrimination monitor at the World Cup has called for a VAR official to be removed for appearing to make a hand gesture resembling a white supremacist sign.",
+      "id": "8954684b8b7a06",
+      "title": "Iran fight back twice to rescue thrilling draw against New Zealand",
+      "summary": "Iran put their turbulent build-up to the World Cup behind them as they fought back twice to secure a 2-2 draw with New Zeland in what was arguably the game of the tourn...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554379/world-cup-2026-calls-for-world-cup-var-official-shaun-evans-to-be-removed-after-white-supremacist-sign",
-      "publishedAt": "2026-06-15T21:09:45.950Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/iran-vs-new-zealand/report/549779",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Fifa"
+        "World Cup"
       ]
     },
     {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Is Cucurella sale the right call? Have your say!",
-      "summary": "Chelsea latest: Is Cucurella sale the right call? Have your say!",
+      "id": "8ed115083f8420",
+      "title": "Cape Verde show beauty of football in one of the game's biggest mismatches",
+      "summary": "The essence of football is anyone stands a chance against anyone. With all the financial muscle in the game, that essence becomes harder and harder to see. And yet, the...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-15T21:09:45.950Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "f2493f3617d691",
-      "title": "Röhl to Salzburg deal completed as Rangers close in on McInnes",
-      "summary": "Rangers and RB Salzburg have completed a deal for Danny Röhl to join the Austrian Bundesliga outfit.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13553276/danny-r246hl-rangers-complete-rb-salzburg-deal-with-derek-mcinnes-set-for-ibrox",
-      "publishedAt": "2026-06-15T21:09:45.950Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
+        "Football",
+        "World Cup"
       ]
     },
     {
@@ -276,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Congratulations to Lewis Hamilton and Ferrari on a dominant win in Barcelona. I love witnessing first hand greats like Alain Prost, Nigel Mansell, Michael Schumacher, S...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13554327/barcelona-catalunya-gp-martin-brundles-verdict-on-lewis-hamiltons-first-grand-prix-win-for-ferrari-and-monaco-speeding-penalty-mess",
-      "publishedAt": "2026-06-15T21:09:45.949Z",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -289,7 +157,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Biggest World Cup shock? Vote on Cape Verde's draw vs Spain and rate players!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/spain-vs-cape-verde/live/549780",
-      "publishedAt": "2026-06-15T21:09:45.949Z",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -302,7 +170,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England head coach Brendon McCullum admits he is 'worried' for Ben Stokes, following an incident at a Chelsea nightclub which saw the Test captain break a midnight curf...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13554338/brendon-mccullum-worried-for-ben-stokes-we-need-to-look-after-him",
-      "publishedAt": "2026-06-15T21:09:45.949Z",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -310,32 +178,228 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8ed115083f8420",
-      "title": "Cape Verde show beauty of football in one of game's biggest mismatches",
-      "summary": "The essence of football is anyone stands a chance against anyone. With all the financial muscle in the game, that essence becomes harder and harder to see. And yet, the...",
+      "id": "7f019cc0d8aa09",
+      "title": "Egypt denied first World Cup win in Belgium draw as Lukaku makes instant impact",
+      "summary": "Egypt were denied a first-ever World Cup win after Romelu Lukaku forced an own-goal equaliser just seconds after coming on to rescue a 1-1 draw for Belgium in their Gro...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554452/spain-0-0-cape-verde-african-nation-defying-one-of-biggest-mismatches-in-football-history-shows-beauty-of-the-game",
-      "publishedAt": "2026-06-15T21:09:45.948Z",
+      "url": "https://www.skysports.com/football/belgium-vs-egypt/report/549778",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
         "World Cup"
       ]
     },
     {
-      "id": "32d81ba729bb86",
-      "title": "Belgium 1-1 Egypt: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST ⚽️ Spain 0-0 Cape Verde | Player guide | Bracketology The anthems have been belted out and the match is about to b...",
+      "id": "ebfa9144724f2e",
+      "title": "Papers: Man Utd set to save £10m from Amorim's Milan move",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13554454/man-utd-news-red-devils-set-to-save-10m-in-compensation-thanks-to-ruben-amorims-impending-move-to-ac-milan-paper-talk",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer",
+        "Milan"
+      ]
+    },
+    {
+      "id": "978dc28ff00169",
+      "title": "Tunisia sack head coach after heavy defeat in World Cup opener",
+      "summary": "Tunisia have sacked their head coach Sabri Lamouchi following their opening game of the 2026 World Cup, a heavy 5-1 defeat to Sweden.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13554414/world-cup-latest-tunisia-sack-head-coach-sabri-lamouchi-after-losing-opening-match-with-heavy-defeat-to-sweden",
+      "publishedAt": "2026-06-16T04:53:30.500Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d6bac3d1f40cc4",
+      "title": "Iran v Iran in the stands as politics and football intertwine",
+      "summary": "The Iranian team may want to unite people but what the game with New Zealand revealed is just how divided many Iranians remain, writes BBC North America correspondent S...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvgj1v4pnvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-16T04:31:48.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "6ab2ada64e4d9d",
+      "title": "Infantino using private jet in attempt to watch two World Cup matches per day",
+      "summary": "Fifa president sets gruelling itinerary across tournament World Cup to generate about 9m tons of carbon dioxide Gianni Infantino is planning to attend two World Cup gam...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
-      "publishedAt": "2026-06-15T20:58:39.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/16/infantino-private-jet-world-cup-matches",
+      "publishedAt": "2026-06-16T04:00:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c8c190e65ad418",
+      "title": "Bleep tests, alcohol bans and Gazza: Italia 90 set the bar for England and sports science | Sean Ingle",
+      "summary": "Bobby Robson employed a head of human performance for the World Cup and, despite wariness, the players got on board The eve of Italia 90. Gazza’s tears, England’s heart...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/16/bleep-tests-alcohol-bans-gazza-italia-90-set-bar-england-sports-science",
+      "publishedAt": "2026-06-16T04:00:44.000Z",
+      "category": "worldcup",
+      "region": "italy france",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e5d6016430ca49",
+      "title": "Iran twice come from behind to claim draw in World Cup opener with New Zealand",
+      "summary": "What, really, were the emotions flowing through the veins of Iran’s players as they took to the pitch in Los Angeles? A few hours earlier Donald Trump, in France before...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report",
+      "publishedAt": "2026-06-16T03:19:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "e20cf7186eb294",
+      "title": "Araújo to the rescue as Uruguay deny Saudi Arabia another World Cup shock",
+      "summary": "Fifa’s embrace of rapacious American capitalism may have found its limits in Miami, one of the entertainment capitals of the world. Despite just seven tickets showing a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report",
+      "publishedAt": "2026-06-16T00:26:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "a5078a9ed82a3d",
+      "title": "World Cup official cleared by Fifa and says gesture was ‘subconscious twitch’",
+      "summary": "Evans had been accused of white supremacist gesture ‘The movement was an involuntary,’ says official Fifa’s disciplinary committee has cleared the World Cup video assis...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/15/var-official-white-supremacy-gesture-fifa-world-cup-2026",
+      "publishedAt": "2026-06-15T22:30:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8de856d1bf8cf2",
+      "title": "Duck, duck, goal: bird dressed in Mexico’s World Cup jersey scores on social media",
+      "summary": "Images of Merlin, a two-year-old duck, parading on the streets of Mexico City celebrated by fans on social media Julián Quiñones and Raúl Jiménez may have scored the go...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/15/duck-wearing-mexico-world-cup-jersey-viral",
+      "publishedAt": "2026-06-15T22:13:31.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "27d8c67a751307",
+      "title": "Lukaku makes impact off the bench as Belgium draw with Egypt",
+      "summary": "An own goal from Mohamed Hany denies Egypt a first ever victory at the World Cup as they draw 1-1 with Belgium at the Seattle Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cly72zdjzgqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-15T21:55:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f67f098616345e",
+      "title": "Salah and De Bruyne lose Chelsea rejects battle to ‘out of shape’ main Belgium character",
+      "summary": "Romelu Lukaku once wondered why ‘some people in my own country want to see me fail’. Belgium were doing a fine job of that before he came on.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-rejects-salah-de-bruyne-lukaku-belgium-egypt",
+      "publishedAt": "2026-06-15T21:41:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c06e3f5aff5c37",
+      "title": "Real make Fernandes contact - Tuesday's gossip",
+      "summary": "Real Madrid make Mateus Fernandes contact, Manchester United not willing to meet West Ham's asking price and Bayern Munich to sign Ismael Saibari.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c07yzv0pz98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-15T21:13:41.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Manchester",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "268d27c9b25b6d",
+      "title": "I'll keep gambling with fitness for England - Saka",
+      "summary": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-15T21:12:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9765eec57c09a",
+      "title": "Belgium rescue point as Romelu Lukaku makes immediate impact in entertaining Egypt draw",
+      "summary": "Romelu Lukaku made an immediate impact as Belgium rescued a point in an entertaining draw in their World Cup opener against Egypt.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/belgium-rescue-point-lukaku-immediate-impact-entertaining-egypt-draw",
+      "publishedAt": "2026-06-15T21:10:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ad905a692520c5",
+      "title": "Lukaku makes instant impact to force own goal and rescue draw for Belgium against Egypt",
+      "summary": "For just over half of Egypt’s opening match against Belgium, it looked as though the Pharaohs had done enough for a famous first World Cup win. And then Rudi Garcia wen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report",
+      "publishedAt": "2026-06-15T21:08:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
       ]
     },
     {
@@ -353,21 +417,8 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "268d27c9b25b6d",
-      "title": "I'll keep gambling with fitness for England - Saka",
-      "summary": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-15T20:47:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "11d4508e58922d",
-      "title": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde stifle group rivals",
+      "title": "2,500 passes since Spain's last World Cup goal - key stats as Cape Verde earn point",
       "summary": "Veteran goalkeeper Vozinha stars and Spain reach 2,500 passes since their last World Cup goal - the key stats as debutants Cape Verde secure a memorable point in Atlanta.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/czj8egd29y0o?at_medium=RSS&at_campaign=rss",
@@ -376,21 +427,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "8c07b99027bf42",
-      "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-      "summary": "⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST ⚽️ Spain 0-0 Cape Verde | Player guide | Bracketology Hello and welcome to live, minute-by-minute coverage of Saudi Ara...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
-      "publishedAt": "2026-06-15T20:10:20.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     },
     {
@@ -409,7 +445,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "700aa577681b7c",
       "title": "‘Kylian is Kylian’: Deschamps happy to shield Mbappé amid political scrutiny",
-      "summary": "With France captain in spotlight at team hotel and in home press, head coach tries to pull focus ahead of World Cup opener against Senegal Since France arrived at their...",
+      "summary": "With France captain in spotlight at team hotel and in home press, head coach tries to pull focus before their World Cup opener against Senegal Since France arrived at t...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jun/15/kylian-is-kylian-deschamps-happy-to-shield-mbappe-amid-political-scrutiny",
       "publishedAt": "2026-06-15T19:55:31.000Z",
@@ -419,19 +455,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "World Cup",
         "Inter"
-      ]
-    },
-    {
-      "id": "2c66e9c3eb0140",
-      "title": "So close! Germany nearly got a World Cup Scorigami...",
-      "summary": "The chances of a Scorigami -- a concept familiar to those who watch NFL on the regular -- are higher at this World Cup than they have been before.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
-      "publishedAt": "2026-06-15T19:34:20.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -446,19 +469,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "World Cup",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "0a877a923c3fd5",
-      "title": "Spain who? At the World Cup, Cape Verde fans believe",
-      "summary": "Searching for a lovable underdog to cheer for this World Cup? Look no further than Cabo Verde.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49043152/fifa-world-cup-2026-cabo-verde-americans-homecoming",
-      "publishedAt": "2026-06-15T19:22:30.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -540,20 +550,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0b87310397b6f5",
-      "title": "Cape Verde shock Spain with historic draw on World Cup debut",
-      "summary": "Wow, just wow. At 1.57pm Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’s first game in a World Cup finals tournament – and they had only gon...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report",
-      "publishedAt": "2026-06-15T18:31:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "c80a2646061355",
       "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
       "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
@@ -577,6 +573,19 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "01caabc3a8ea35",
+      "title": "Jurgen Klopp clarifies apparent dig at Germany boss Julian Nagelsmann – ‘I could have punched myself’",
+      "summary": "Ex-Liverpool boss Jurgen Klopp has apologised to Germany coach Julian Nagelsmann for a comment about the team’s lineup vs Curacao.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jurgen-klopp-clarifies-apparent-dig-germany-boss-julian-nagelsmann",
+      "publishedAt": "2026-06-15T18:01:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     }
   ],
