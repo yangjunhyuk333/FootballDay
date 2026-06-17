@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-16T20:58:02.058Z",
+  "generatedAt": "2026-06-17T04:42:01.546Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "a12ba9d3553664",
-      "title": "World Cup live updates: Mbappé, Barcola goals give...",
-      "summary": "null",
+      "id": "15cd618503e8ca",
+      "title": "On the World Cup's day of stars, Messi towers over Haaland and Mbappe",
+      "summary": "On a day when Kylian Mbappé and Erling Haaland excelled, Lionel Messi offered a timely reminder of his greatness.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49020508/fifa-world-cup-live-updates-france-kick-tournament-vs-senegal",
-      "publishedAt": "2026-06-16T21:50:11.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49088695/on-world-cups-day-stars-messi-towers-haaland-mbappe",
+      "publishedAt": "2026-06-17T05:32:41.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -112,12 +112,77 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "be69e0f15c1526",
-      "title": "👀 Cape Verde GK Vozinha is a social media star!",
-      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "id": "b7b299170ec31d",
+      "title": "Copy of Mbappé rewrites France, World Cup history books as...",
+      "summary": "Kylian Mbappé made history with a pair of goals that sent France on their way to a Group I opening win over Senegal on Tuesday in New Jersey.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
-      "publishedAt": "2026-06-16T21:23:36.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49086529/kylian-mbappe-rewrites-france-fifa-world-cup-history-books-les-bleus-beat-senegal",
+      "publishedAt": "2026-06-17T04:59:58.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bbb0a4b6080c91",
+      "title": "Haaland shines on World Cup debut, and provides ho...",
+      "summary": "null",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49089253/haaland-shines-world-cup-debut-provides-hope-norway",
+      "publishedAt": "2026-06-17T04:59:58.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f65fe447d17338",
+      "title": "Mbappé scores twice, sets France record in win",
+      "summary": "Kylian Mbappé moved ahead of Lionel Messi in the all-time World Cup scoring charts and became France's record goalscorer with two goals in Les Bleus' 3-1 Group I win ag...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49084969/kylian-mbappe-breaks-goal-record-france-kick-world-cup-senegal-win",
+      "publishedAt": "2026-06-17T04:58:22.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d0dd3ffd9c254c",
+      "title": "Iran's Torabi cleared to re-enter U.S. for WCup",
+      "summary": "The U.S. State Department said on Tuesday that the visa issue that would have prevented Iran forward Mehdi Torabi from entering the U.S. for the next World Cup has been...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49086571/iran-torabi-cleared-world-cup-us-visa-issue-resolved",
+      "publishedAt": "2026-06-17T04:58:22.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b34c9bead8d849",
+      "title": "🎩 Who has scored a men's World Cup hat trick?",
+      "summary": "Lionel Messi was the most recent player to score a hat trick in the World Cup. See who else joins him on the list in history.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/48780088/which-players-scored-hat-trick-world-cup",
+      "publishedAt": "2026-06-17T04:58:22.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "47f1b879c0595a",
+      "title": "Norway win as Haaland nets two in debut at WC",
+      "summary": "Erling Haaland took just 29 minutes to score his first ever World Cup goal on his tournament debut against Iraq on Tuesday. By the end, he had scored twice in a convinc...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49087413/erling-haaland-scores-two-world-cup-debut-norway-win",
+      "publishedAt": "2026-06-17T04:58:19.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -130,7 +195,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United have set a £40 million transfer valuation on Marcus Rashford sources have told ESPN.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49082374/man-utd-marcus-rashford-valuation-barcelona-man-city-liverpool",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
+      "publishedAt": "2026-06-17T04:58:19.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -139,12 +204,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "f31c95b1118944",
+      "title": "Messi ties Klose record with 16th World Cup goal",
+      "summary": "Lionel Messi made history Tuesday night by tying the record for most men's World Cup goals at 16 with Miroslav Klose after scoring a hat trick and staking Argentina to...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49089516/messi-nets-hat-trick-ties-klose-record-1th-world-cup-goal",
+      "publishedAt": "2026-06-17T04:58:18.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "e2f01774b26f0e",
       "title": "Ruben Amorim appointed AC Milan boss",
       "summary": "Ruben Amorim has been appointed head coach at AC Milan, having been sacked by Manchester United in January.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49070225/ruben-amorim-appointed-ac-milan-boss-leaving-man-united",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
+      "publishedAt": "2026-06-17T04:58:18.000Z",
       "category": "league",
       "region": "england italy",
       "tags": [
@@ -153,97 +231,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "793c7f8070ecd2",
-      "title": "'Repressed' Iran forced to leave U.S. after game",
-      "summary": "Iran coach Amir Ghalenoei called his team perhaps the \"most oppressed team in the whole World Cup,\" after he said Iran have been forced to leave Los Angeles and return...",
+      "id": "d1c11b2ae54073",
+      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49078938/iran-forced-leave-us-new-zealand-draw",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "publishedAt": "2026-06-17T04:54:49.000Z",
       "category": "worldcup",
       "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2efc9bac4f6cb7",
-      "title": "England's Livramento out of WCup, Chalobah in",
-      "summary": "Tino Livramento has been ruled out of the World Cup with a hamstring injury and will be replaced by Chelsea defender Trevoh Chalobah, England announced on Tuesday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49081000/tino-livramento-england-world-cup-ruled-hamstring-injury-trevoh-chalobah",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
-      "category": "worldcup",
-      "region": "england",
       "tags": [
         "World Cup",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "da1a8e7a389430",
-      "title": "Merino: Spain 'mourning' after Cape Verde draw",
-      "summary": "Mikel Merino said World Cup favourites Spain are \"dealing with the mourning\" after their shock draw with underdogs Cape Verde in their opening game.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49084342/mikel-merino-spain-mourning-cape-verde-draw-world-cup-2026",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
-      "category": "transfer",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "33675074b36c9f",
-      "title": "Ghana appeal Canada's denial of Partey WC visa",
-      "summary": "Ghana officials on Tuesday appealed Canada's decision to refuse midfielder Thomas Partey entry into the country for the team's first World Cup match while he awaits tri...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49083053/ghana-appeal-canada-denial-partey-world-cup-visa",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0298fb63dc9cf1",
-      "title": "Sources: Tunisia hire Renard with Lamouchi out",
-      "summary": "Tunisia have brought in Herve Renard to oversee the remainder of their World Cup campaign, it has been announced.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49079184/tunisia-hire-renard-lamouchi-exit-world-cup",
-      "publishedAt": "2026-06-16T21:22:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b65af87b768a08",
-      "title": "Transfer rumors, news: Tottenham join Arsenal, Cit...",
-      "summary": "Newcastle United midfielder Sandro Tonali now has Tottenham Hotspur on his trail. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
-      "publishedAt": "2026-06-16T21:19:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a690fbbdebd954",
-      "title": "Transfer Big Board: Best players in each position ...",
-      "summary": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our Big Board!",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "publishedAt": "2026-06-16T21:19:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
+        "Fifa"
       ]
     },
     {
@@ -252,7 +250,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "It's only one game, sure, but the USMNT's win over Paraguay has the underlying stats of a World Cup team destined for a deep run.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
-      "publishedAt": "2026-06-16T21:18:21.000Z",
+      "publishedAt": "2026-06-17T04:44:12.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -260,25 +258,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5ca93c772a08b9",
-      "title": "World Cup Daily Live: Giant inflatable match ball ...",
-      "summary": "World Cup group-stage days rarely get better than this. Lionel Messi, Kylian Mbappé and Erling Haaland are all in action. Follow live updates with ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway",
-      "publishedAt": "2026-06-16T21:13:49.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f49c67a1f51fc9",
-      "title": "Carragher 'unsurprised' as Trent snubbed as Livramento replacement",
-      "summary": "Jamie Carragher has admitted he 'isn't surprised' that Thomas Tuchel has called up Trevor Chalobah as Tino Livramento's World Cup replacement over Trent Alexander-Arnold.",
+      "id": "d63620068ad730",
+      "title": "'Superstar' Mbappe shows why he is the new Mr World Cup",
+      "summary": "It's been a strange season for Kylian Mbappe. Plenty of goals, no trophies and criticism from his home fans. But when the lights of the World Cup shine, nothing else ma...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554705/england-world-cup-latest-jamie-carragher-unsurprised-by-trent-alexander-arnold-and-harry-maguire-snub-after-tino-livramento-injury",
-      "publishedAt": "2026-06-16T20:58:01.559Z",
+      "url": "https://www.skysports.com/football/news/12040/13554812/france-3-1-senegal-kylian-mbappe-stands-up-in-world-cup-opener-as-superstar-the-first-to-shine-stateside",
+      "publishedAt": "2026-06-17T04:42:01.284Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -286,51 +271,51 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a565978a148397",
-      "title": "Livramento out of World Cup with Chalobah called up",
-      "summary": "England’s World Cup campaign has suffered an early setback as Tino Livramento's tournament is over after suffering a calf injury, with Trevoh Chalobah replacing him.",
+      "id": "d37042c92ac55a",
+      "title": "Papers: Rashford's secret £40m release clause revealed",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554613/world-cup-2026-tino-livramento-suffers-hamstring-injury-and-replaced-by-trevoh-chalobah-in-england-squad",
-      "publishedAt": "2026-06-16T20:58:01.559Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0cde6feb6a1f18",
-      "title": "England three down chasing 119 to beat Ireland at T20 World Cup LIVE!",
-      "summary": "England three down chasing 119 to beat Ireland at T20 World Cup LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13554665/england-vs-ireland-womens-t20-world-cup-live-latest-cricket-score-updates-video-and-analysis-from-the-utilita-bowl-in-southampton",
-      "publishedAt": "2026-06-16T20:58:01.558Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2fa8d774d71f92",
-      "title": "Moutet faces fine after swearing seven times during Queen's interview",
-      "summary": "Foul-mouthed Frenchman Corentin Moutet faces a heavy ATP fine after turning the air blue at Queen's Club in a shocking live television interview.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13554726/queens-corentin-moutet-faces-fine-after-french-player-swore-seven-times-during-television-interview",
-      "publishedAt": "2026-06-16T20:58:01.558Z",
+      "url": "https://www.skysports.com/football/news/12040/13554798/man-utd-news-marcus-rashford-has-secret-40m-release-clause-in-his-contract-as-barcelona-dont-pick-up-option-to-sign-forward-paper-talk",
+      "publishedAt": "2026-06-17T04:42:01.284Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Transfer"
       ]
     },
     {
-      "id": "d50d1956a34af8",
-      "title": "England vs Croatia predictions: Tuchel's men to grind out winning start",
-      "summary": "England take on Croatia in their first game at World Cup 2026 and our betting expert Lewis Jones, aka Jones Knows, is backing the Three Lions to win by one goal and spi...",
+      "id": "0e071537090281",
+      "title": "Sciver-Brunt fitness scare as England beat Ireland to maintain winning start",
+      "summary": "England made it two wins from two to start the Women's T20 World Cup but their four-wicket win over Ireland was overshadowed by an injury scare to Nat Sciver-Bunt, who...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554703/world-cup-2026-england-vs-croatia-predictions-and-best-bets",
-      "publishedAt": "2026-06-16T20:58:01.558Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13554782/womens-t20-world-cup-england-beat-ireland-by-four-wickets-as-nat-sciver-brunt-retires-out-on-48-during-chase",
+      "publishedAt": "2026-06-17T04:42:01.283Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fee05f80d9a845",
+      "title": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
+      "summary": "Kylian Mbappe became the highest scorer in France's history as his sensational double powered Les Bleus to a 3-1 win over Senegal in their Group I World Cup opener in N...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/france-vs-senegal/report/549782",
+      "publishedAt": "2026-06-17T04:42:01.283Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4bc8bc7937204c",
+      "title": "Partey loses Canadian visa appeal",
+      "summary": "An appeal against the decision to deny Ghana’s Thomas Partey a Canadian visa for the World Cup has failed – with court documents revealing the initial visa application...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13554814/thomas-partey-ghana-midfielder-loses-appeal-for-canadian-visa-ahead-of-opening-world-cup-fixture",
+      "publishedAt": "2026-06-17T04:42:01.283Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -343,7 +328,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England coach Brian McDermott has recalled reigning Man of Steel Jake Connor and named 10 uncapped players in a 38-man performance squad ahead of the 2026 Rugby League...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13554727/rugby-league-world-cup-jake-connor-recalled-by-england-coach-brian-mcdermott-in-build-up-to-this-autumns-tournament",
-      "publishedAt": "2026-06-16T20:58:01.557Z",
+      "publishedAt": "2026-06-17T04:42:01.283Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -351,84 +336,67 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6651054837c8fb",
-      "title": "Spurs join three-way Tonali fight - Wednesday's gossip",
-      "summary": "Tottenham encouraged to bid for Sandro Tonali, Real Madrid plot Ruben Dias move and Manchester United make Marcus Rashford valuation.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jykw8j42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T20:50:48.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal take early lead",
-      "summary": "Arsenal are one of six clubs whose players have scored more than once at World Cup 2026. They are barely holding off Wolves.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-16T20:49:06.000Z",
+      "id": "3cf3b7a9ae5e8a",
+      "title": "Haaland stars on World Cup debut as Norway sink Iraq",
+      "summary": "Erling Haaland starred on his World Cup debut, scoring twice to help Norway to a 4-1 win over Iraq in Boston.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/iraq-vs-norway/report/549783",
+      "publishedAt": "2026-06-17T04:42:01.283Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
-      "id": "1a6b33c760a359",
-      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
-      "summary": "Kylian Mbappe had already won 17 trophies and scored 329 career goals before making his predestined move to Real Madrid. And he has started well enough.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
-      "publishedAt": "2026-06-16T20:47:46.000Z",
+      "id": "e827a7849c98f6",
+      "title": "Argentina vs Algeria: All the big moments as Messi equals World Cup goals record",
+      "summary": "Argentina vs Algeria: All the big moments as Messi equals World Cup goals record",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/argentina-vs-algeria/live/549784",
+      "publishedAt": "2026-06-17T04:42:01.282Z",
       "category": "worldcup",
-      "region": "spain",
+      "region": "england",
       "tags": [
-        "World Cup",
-        "Real Madrid"
+        "World Cup"
       ]
     },
     {
-      "id": "321b48abd39c4e",
-      "title": "France v Senegal: World Cup 2026 – live",
-      "summary": "⚽ World Cup news: kick-off 3pm EDT/8pm BST/5am AEST ⚽ Player guide | Bracketology | Golden Boot | Email Daniel You may or may not have seen the wonderful new Senegal ki...",
+      "id": "fbf73b44180cf8",
+      "title": "Austria v Jordan: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Martin Supporters on both sides have descended on San Francisc...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/16/france-v-senegal-world-cup-2026-live",
-      "publishedAt": "2026-06-16T20:45:34.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
+      "publishedAt": "2026-06-17T04:30:27.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
+        "Fifa",
         "Inter"
       ]
     },
     {
-      "id": "f7dfcf86f88fb9",
-      "title": "Iraq v Norway: World Cup 2026 – live",
-      "summary": "⚽ World Cup news: kick-off 6pm EDT/11pm BST/8am AEST ⚽ Player guide | Bracketology | Golden Boot | Email Beau Hello all, and I hope you’re all enjoying the debate over...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live",
-      "publishedAt": "2026-06-16T20:34:44.000Z",
+      "id": "1da70a19426345",
+      "title": "Extraordinary Messi makes more history in masterclass for the ages",
+      "summary": "Kylian Mbappe and Erling Haaland both enjoyed a fine start to the World Cup - but on a day packed with superstars, Lionel Messi still took top billing.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T04:27:49.000Z",
       "category": "worldcup",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
+        "World Cup"
       ]
     },
     {
-      "id": "862c22d74aa7b8",
-      "title": "Spain won't panic yet about Cape Verde draw, but t...",
-      "summary": "Spain have a history of starting slowly at World Cups before finding their form, but nobody -- not even them -- expected to open 2026 with a draw against tiny Cape Verde.",
+      "id": "21fd3ed3dc1ae7",
+      "title": "Runners-up in 2018, third place in 2022: Can Croat...",
+      "summary": "Croatia have continued to punch above their weight at consecutive World Cups, but despite some aging players -- can they surprise people yet again?",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49074414/spain-world-cup-shock-draw-cape-verde-lamine-yamal",
-      "publishedAt": "2026-06-16T20:18:13.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49043957/croatia-shock-world-cup-again",
+      "publishedAt": "2026-06-17T04:12:56.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -436,54 +404,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a05eb0959cc76d",
-      "title": "England flags could be confiscated from supporters attending World Cup opener",
-      "summary": "Hanging flags on LED advertising boards not allowed Fifa sources cite ‘safety and security reasons’ for ban England fans face having flags confiscated when they attend...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/16/england-flags-could-be-confiscated-from-supporters-attending-world-cup-opener",
-      "publishedAt": "2026-06-16T19:47:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "815e4238ec0db7",
-      "title": "Spurs agree £52m Van Hecke deal with Brighton",
-      "summary": "Netherlands World Cup defender Jan Paul van Hecke is set to leave Brighton for Tottenham Hotspur after the two clubs agree a £52m deal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/articles/cpwez2pg8x1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T19:28:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "16d50061fafc26",
-      "title": "Are World Cup hydration breaks important? Or do they stop teams' momentum?",
-      "summary": "The World Cup's mandatory hydration breaks have turned two halves into four quarters, which suits FIFA, but does it impact the players and tactics?",
+      "id": "f40031c44f9570",
+      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+      "summary": "null",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49080670/are-world-cup-hydration-breaks-actually-commercial-breaks-momentum-breaks",
-      "publishedAt": "2026-06-16T19:15:48.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
+      "publishedAt": "2026-06-17T04:12:56.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
-        "World Cup",
-        "Fifa"
+        "World Cup"
       ]
     },
     {
-      "id": "ff64d15a79b0fd",
-      "title": "Snakes on a train (ing pitch)",
-      "summary": "Snakes are causing concerns for several teams at the World Cup.",
+      "id": "bad9fcac3f60a1",
+      "title": "Highlights: Messi equals Klose scoring record with hat-trick against Algeria",
+      "summary": "Lionel Messi becomes the World Cup's joint-top all-time leading scorer with a hat-trick, as reigning champions Argentina begin their defence with a 3-1 win over Algeria.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c2lyzdwjwgwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T19:13:02.000Z",
+      "url": "https://www.bbc.com/sport/football/videos/ce3ezqy2747o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T04:09:00.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -491,12 +430,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "eb425acc84d1c9",
-      "title": "Little Algeria - the Kansas city taking a World Cup team to its heart",
-      "summary": "In a small city in the state of Kansas, a World Cup love story has started.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c621xlkx712o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T18:41:22.000Z",
+      "id": "36da74fb94ad95",
+      "title": "The ridiculous stats of Erling Haaland as he overtakes Heskey and Giggs for Premier League goals",
+      "summary": "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-ridiculous-stats-half-decent-start-premier-league-life",
+      "publishedAt": "2026-06-17T03:21:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6dff0530dc8287",
+      "title": "Lionel Messi responds to Mbappe and co with records-shattering hat-trick against Algeria",
+      "summary": "Kylian Mbappe and Erling Haaland both scored twice earlier in the day, so Lionel Messi went and scored his first World Cup hat-trick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lionel-messi-records-tumble-world-cup-argentina-algeria",
+      "publishedAt": "2026-06-17T03:15:52.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -504,12 +457,38 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "dde8c3c9690cc7",
-      "title": "From Brazil to Haaland: must-watch World Cup group stage matches – video",
-      "summary": "With the World Cup expanding to a massive 104 matches, navigating the \"morass of endless football\" can feel a bit overwhelming. Thankfully, the Guardian’s chief sports...",
+      "id": "1dc88e5512a162",
+      "title": "'Magnificent' - Messi scores hat-trick to equal Klose scoring record",
+      "summary": "Lionel Messi scores a hat-trick to reach 16 World Cup goals, equalling Miroslav Klose's record.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cd6ej2xq37no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T03:15:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Argentina and France lay down ominous markers",
+      "summary": "The World Cup is here. With things underway, we have little choice but to rank those teams. Rank them by power. Power rank them, if you will.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-17T03:10:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6d366130661ec5",
+      "title": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
+      "summary": "Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of f...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/16/from-brazil-to-haaland-four-must-watch-world-cup-group-stage-matches-video",
-      "publishedAt": "2026-06-16T18:22:21.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report",
+      "publishedAt": "2026-06-17T03:08:57.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -518,12 +497,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5ba5b9f4eda1e3",
-      "title": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
-      "summary": "England head coach Thomas Tuchel's high-risk defensive selection for World Cup exposed by Tino Livramento's injury as Trent Alexander-Arnold is snubbed again, says Phil...",
+      "id": "230e1a429475f9",
+      "title": "From tragedy to World Cup history - Iraq scorer Hussein's story",
+      "summary": "Iraq striker Aymen Hussein's journey to the World Cup is one that could easily have taken a different turn.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T18:01:51.000Z",
+      "url": "https://www.bbc.com/sport/football/articles/ckg055dj259o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T02:20:52.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -531,58 +510,79 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "bb116e130be14e",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "id": "1e4464758ed301",
+      "title": "No stage too big - Haaland arrives in style at World Cup",
+      "summary": "Erling Haaland has made a habit of scoring debut goals in the big competitions. He did it in the Champions League, the Bundesliga and the Premier League. Now he has don...",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T17:04:00.000Z",
-      "category": "transfer",
-      "region": "england",
+      "url": "https://www.bbc.com/sport/football/articles/ce8k20n9z9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T02:09:24.000Z",
+      "category": "worldcup",
+      "region": "england germany",
       "tags": [
-        "Premier League"
+        "Premier League",
+        "Bundesliga",
+        "Champions League",
+        "World Cup"
       ]
     },
     {
-      "id": "6382a0610b9573",
-      "title": "England explore extra friendly after Croatia opener",
-      "summary": "England are in talks over a behind-closed-doors game against Major League Soccer side Sporting Kansas City after the World Cup opener against Croatia.",
+      "id": "7d5579c12386de",
+      "title": "Portugal hope Cristiano Ronaldo’s milestone World Cup is no millstone",
+      "summary": "His team and opponents laud him, but Wednesday’s game with the DRC is a test of his powers at a sixth World Cup Inside the home of Houston’s world-famous rodeo, Cristia...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/17/portugal-cristiano-ronaldo-world-cup-drc",
+      "publishedAt": "2026-06-17T01:54:00.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "369dea7b32e12e",
+      "title": "England will not adapt style despite USA heat - Tuchel",
+      "summary": "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the heat - as it would \"give up\" the team's strengths.",
       "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cm2rx0dl411o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T16:40:13.000Z",
+      "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T01:46:52.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "849cde8ac142f3",
+      "title": "The threats Australia must neutralise in World Cup’s ‘Battle of Seattle’ against USA",
+      "summary": "From Christian Pulisic and Antonee Robinson to Sergiño Dest and Folarin Balogun, the Socceroos will have their hands full in the Group D clash In the so-called “Battle...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/17/fifa-world-cup-2026-australia-usa-game-match-players-threats-battle-of-seattle",
+      "publishedAt": "2026-06-17T01:01:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "e726e54f0a4b73",
+      "title": "France looked a disjointed mess in their World Cup opener. Then came Mbappé | Leander Schaerlaeckens",
+      "summary": "The tournament favorites were far from their best in their first half against a strong Senegal side. Their star forward made sure things finished fine World Cup newslet...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-kylian-mbappe",
+      "publishedAt": "2026-06-17T01:00:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
         "Soccer",
         "World Cup"
-      ]
-    },
-    {
-      "id": "c885388bb4373a",
-      "title": "Enjoying the World Cup? Well it’s time for England, but this is a team less weighed down by its past | Barney Ronay",
-      "summary": "Tuchel’s multicultural squad are less burdened by narrative than previous teams and can embrace the chance to live in the moment Nice World Cup you’ve got there. Be a s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past",
-      "publishedAt": "2026-06-16T16:35:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "51de3624ec4641",
-      "title": "Amorim appointed as AC Milan head coach",
-      "summary": "Ruben Amorim is appointed head coach at AC Milan, five months after being sacked by Manchester United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cgmd1z1ryv0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-16T16:27:52.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Milan"
       ]
     }
   ],
