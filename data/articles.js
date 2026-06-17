@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-17T15:45:46.475Z",
+  "generatedAt": "2026-06-17T20:20:21.160Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,272 +99,235 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "16d50061fafc26",
-      "title": "Are World Cup hydration breaks important? Or do th...",
-      "summary": "The World Cup's mandatory hydration breaks have turned two halves into four quarters, which suits FIFA, but does it impact the players and tactics?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49080670/are-world-cup-hydration-breaks-actually-commercial-breaks-momentum-breaks",
-      "publishedAt": "2026-06-17T16:43:05.000Z",
+      "id": "620e556577fd4a",
+      "title": "Ronaldo flatters to deceive as Portugal slump to DR Congo draw",
+      "summary": "Cristiano Ronaldo struggled during his first performance at the 2026 World Cup as a disappointing Portugal were held to a 1-1 draw by DR Congo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/portugal-vs-dr-congo/report/549786",
+      "publishedAt": "2026-06-17T20:20:20.750Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "36c4e984e1b453",
+      "title": "Man City consider move for Spurs target Tonali - alongside Anderson pursuit",
+      "summary": "Manchester City are weighing up a move for Tottenham target Sandro Tonali as well as continuing their pursuit of Elliot Anderson.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13555099/sandro-tonali-transfer-news-man-city-consider-move-for-newcastle-midfielder-who-is-also-wanted-by-tottenham",
+      "publishedAt": "2026-06-17T20:20:20.750Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f4db56c21d14e",
+      "title": "England v Croatia: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Scott Thomas Tuchel speaks to Independent Television. “This is...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
+      "publishedAt": "2026-06-17T20:18:34.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8346c705e9f3d2",
+      "title": "Enzo Fernandez to Real Madrid decisions made by Xabi Alonso and Jose Mourinho",
+      "summary": "Jose Mourinho has made Enzo Fernandez his ‘number one target’ as his Real Madrid rebuild continues and Xabi Alonso has reached a decision on selling him to Los Blancos...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/enzo-fernandez-to-real-madrid-decisions-made-by-xabi-alonso-and-jose-mourinho",
+      "publishedAt": "2026-06-17T19:44:31.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "35f34249992241",
+      "title": "DR Congo earn World Cup point against Portugal",
+      "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T19:36:10.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "862c22d74aa7b8",
-      "title": "Spain won't panic yet about Cape Verde draw, but t...",
-      "summary": "Spain have a history of starting slowly at World Cups before finding their form.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49074414/spain-world-cup-shock-draw-cape-verde-lamine-yamal",
-      "publishedAt": "2026-06-17T16:43:04.000Z",
+      "id": "c1a69dd45823ea",
+      "title": "Yoane Wissa gives DR Congo first ever World Cup point in draw with Portugal",
+      "summary": "They came to see Cristiano Ronaldo, perhaps expecting feats to rival Lionel Messi’s remarkable display the night before. Ronaldo’s many followers in Houston did their b...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/17/portugal-dr-congo-world-cup-2026-group-k-match-report",
+      "publishedAt": "2026-06-17T19:28:06.000Z",
       "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab1284133918e4",
-      "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-      "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ah...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49092315/erling-haaland-world-cup-best-goalscorer",
-      "publishedAt": "2026-06-17T16:40:40.000Z",
-      "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "Football",
         "World Cup"
       ]
     },
     {
-      "id": "ce655b53006ba3",
-      "title": "Sources: No Utd plans for 2nd Rashford Barça loan",
-      "summary": "Manchester United have no plans to negotiate a new loan agreement with Barcelona for Marcus Rashford, sources have told ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49095806/manchester-united-marcus-rashford-barcelona-no-plans-negotiate-loan-permanent",
-      "publishedAt": "2026-06-17T16:40:40.000Z",
+      "id": "cda157d6f0176e",
+      "title": "Time for Portugal to move on from Cristiano Ronaldo? This should be Bruno’s team now",
+      "summary": "Portugal can win this World Cup, but they may have to face some up to some uncomfortable truths about Cristiano Ronaldo to do so.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/portugal-cristiano-ronaldo-move-on-dr-congo-messi-haaland-mbappe",
+      "publishedAt": "2026-06-17T19:16:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Argentina and France lay down ominous markers",
+      "summary": "The World Cup is here. With things underway, we have little choice but to rank those teams. Rank them by power. Power rank them, if you will.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-17T19:10:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "42c6034feaf7cf",
+      "title": "Xabi Alonso ‘likes’ €50m Real Madrid star and wants Chelsea ‘to sign him’ – two reports",
+      "summary": "Chelsea manager Xabi Alonso wants to sign a Real Madrid star he enjoyed working with at Estadio Bernabeu, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alvaro-carreras-real-madrid-chelsea-xabi-alonso",
+      "publishedAt": "2026-06-17T19:08:03.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "11a0ceadd4f147",
+      "title": "Man City ‘not deterred’ in Tottenham battle for Tonali as Hugo Viana wants £200m double deal",
+      "summary": "Manchester City remain ‘very much in the reckoning’ to land Sandro Tonali this summer as part of a £200m midfield rebuild.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-tottenham-battle-tonali-viana-200m-double-deal",
+      "publishedAt": "2026-06-17T18:18:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0f8f50d909c890",
+      "title": "Man Utd make ‘formal enquiries’ for World Cup winger to replace Marcus Rashford",
+      "summary": "Manchester United have made a move to sign a Netherlands international winger to replace England star Marcus Rashford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/crysencio-summerville-manchester-united-west-ham-united-marcus-rashford",
+      "publishedAt": "2026-06-17T17:31:28.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "World Cup",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7b8e6485c05ef1",
+      "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+      "summary": "Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they c...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
+      "publishedAt": "2026-06-17T17:13:10.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0b9ecaf15ae461",
+      "title": "England XI vs Croatia revealed as Tuchel reaches decision between Bellingham and Rogers",
+      "summary": "The England XI for their World Cup opener vs Croatia has been ‘leaked’ as Tuchel decides between Bellingham and Rogers, while Saka is set for the bench.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tuchel-decision-bellingham-rogers-england-xi-croatia",
+      "publishedAt": "2026-06-17T17:12:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "59deb783229ae8",
+      "title": "Jose Mourinho ‘calling about’ £65m Man City star as Real Madrid ‘100% committed to signing’",
+      "summary": "Real Madrid manager Jose Mourinho is personally keen on bringing a Manchester City star to Estadio Bernabeu.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-manchester-city-jose-mourinho-ruben-dias",
+      "publishedAt": "2026-06-17T16:35:19.000Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Manchester",
-        "Barcelona"
+        "Real Madrid"
       ]
     },
     {
-      "id": "c2497bbcfa490f",
-      "title": "World Cup daily attendance record broken",
-      "summary": "The four World Cup matches on Tuesday set a new record for the most attended day in the history of the tournament.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49093654/world-cup-attendance-record-broken-four-matches-same-day",
-      "publishedAt": "2026-06-17T16:40:40.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d6a53365bc8fc8",
-      "title": "Real Madrid confirm Bernardo Silva signing",
-      "summary": "Real Madrid have confirmed the signing of Bernardo Silva.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48937163/real-madrid-confirm-bernardo-silva-signing-man-city-exit",
-      "publishedAt": "2026-06-17T16:40:40.000Z",
+      "id": "df8202ccf1f36c",
+      "title": "Marcus Rashford: €170m Al Hilal talks scheduled to offer England winger hope of dream Man Utd exit",
+      "summary": "Rashford could have Al Hilal to thank for his dream transfer this summer as the Saudi Pro League side look to ‘hurry negotiations’ to land their ‘main target’ this summ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rashford-al-hilal-talks-england-winger-dream-man-utd-exit",
+      "publishedAt": "2026-06-17T16:28:53.000Z",
       "category": "transfer",
-      "region": "spain",
+      "region": "england",
       "tags": [
-        "Real Madrid"
+        "Transfer"
       ]
     },
     {
-      "id": "7415c20100ecca",
-      "title": "Madrid want action against Barça in Negreira case",
-      "summary": "Real Madrid have written to UEFA demanding disciplinary action against Barcelona for historic payments to the former vice president of the Spanish refereeing association.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49094510/real-madrid-demand-firm-disciplinary-action-barcelona-negreira-case",
-      "publishedAt": "2026-06-17T16:40:40.000Z",
-      "category": "issue",
-      "region": "spain",
-      "tags": [
-        "Uefa",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1392124d1b95bc",
-      "title": "Scaloni at 'loss for words' on record-setting Mess...",
-      "summary": "Argentina coach Lionel Scaloni admitted he has no words left to describe Lionel Messi's brilliance after his hat trick secured a 3-0 win over Algeria in their World Cup...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49090349/argentina-scaloni-loss-words-record-setting-messi",
-      "publishedAt": "2026-06-17T16:40:40.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e8d59a310888a9",
-      "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-      "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
-      "publishedAt": "2026-06-17T16:36:36.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "6f2a175e9d8df1",
-      "title": "Every team's odds to win the World Cup: Mbappé hel...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "publishedAt": "2026-06-17T16:35:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "21fd3ed3dc1ae7",
-      "title": "Runners-up in 2018, third place in 2022: Can Croat...",
-      "summary": "Croatia have continued to punch above their weight at consecutive World Cups, but despite some aging players -- can they surprise people yet again?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49043957/croatia-shock-world-cup-again",
-      "publishedAt": "2026-06-17T16:05:19.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f40031c44f9570",
-      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-      "summary": "null",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "publishedAt": "2026-06-17T16:05:19.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7f835b365a7604",
-      "title": "Chicago to Chivas: Gutiérrez is the American leadi...",
-      "summary": "Brian Gutiérrez was raised on the South Side of Chicago but has gone on to become a key cog in Mexico's World Cup campaign.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49084442/from-chicago-chivas-brian-gutierrez-american-leading-mexico-world-cup",
-      "publishedAt": "2026-06-17T16:05:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d1c11b2ae54073",
-      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "publishedAt": "2026-06-17T15:58:41.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "233cddf03d7261",
-      "title": "What if Reyna's World Cup wonder goal is only the ...",
-      "summary": "Gio Reyna's goal vs. Paraguay felt like a fitting way to end a frustrating four-year chapter of his career. What if it's only the beginning, though?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49084166/what-gio-reyna-world-cup-wonder-goal-vs-panama-only-beginning-usmnt",
-      "publishedAt": "2026-06-17T15:53:17.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d74f0c9d2e37c8",
-      "title": "USMNT in World Cup quarterfinals? There's a real c...",
-      "summary": "null",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
-      "publishedAt": "2026-06-17T15:53:17.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "56093823d09ed3",
-      "title": "Sciver-Brunt to miss England's next two T20 World Cup matches",
-      "summary": "England captain Nat Sciver-Brunt has been ruled out of her side's next two matches at the Women's T20 World Cup with a calf injury sustained in Tuesday's win over Irela...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13555021/england-captain-nat-sciver-brunt-to-miss-next-two-womens-t20-world-cup-matches-with-calf-injury",
-      "publishedAt": "2026-06-17T15:45:46.205Z",
+      "id": "09482131431b2f",
+      "title": "Mother of Cape Verde star Vozinha will secure visa to attend World Cup in US",
+      "summary": "US House leader Jeffries says fees have been waived ‘No mother should miss the chance to watch their child’ Goalkeeper fueled shock goalless draw with Spain The mother...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/17/world-cup-cape-verde-goalkeeper-mother-visa-vozinha",
+      "publishedAt": "2026-06-17T16:02:21.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "Football",
         "World Cup"
       ]
     },
     {
-      "id": "09c3d134dad250",
-      "title": "Real Madrid sign Bernardo Silva",
-      "summary": "Real Madrid have signed former Manchester City midfielder Bernardo Silva on a free transfer.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554908/bernardo-silva-real-madrid-sign-manchester-city-midfielder-on-free-transfer-as-jose-mourinho-impact-continues",
-      "publishedAt": "2026-06-17T15:45:46.205Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "6543d020059417",
-      "title": "Australia thrash Bangladesh to maintain perfect start to T20 World Cup",
-      "summary": "Australia maintained their strong start to the Women's T20 World Cup as they thrashed Bangladesh by nine wickets on Wednesday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13554976/t20-world-cup-australia-thrash-bangladesh-by-nine-wickets-at-headingley-to-maintain-perfect-start-to-tournament",
-      "publishedAt": "2026-06-17T15:45:46.205Z",
-      "category": "worldcup",
+      "id": "bf61b424e8321e",
+      "title": "Fulham 'really like' two candidates to replace Silva",
+      "summary": "Fulham have two leading candidates in mind to take over from former manager Marco Silva, says the club's vice-chairman and director of football operations Tony Khan.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/czxq14ee79do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T15:54:00.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3dc8619e8dfa4c",
-      "title": "Ballon d'Or on the line - has Kane saved his best World Cup dance for last?",
-      "summary": "For England, the thought is frightening but very real. This could be Harry Kane's final World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13554752/harry-kane-england-captain-may-be-taking-part-in-his-last-world-cup-but-this-is-also-his-best-shot-at-the-ballon-dor",
-      "publishedAt": "2026-06-17T15:45:46.205Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Football"
       ]
     },
     {
@@ -383,48 +346,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0e40cefb66ddb5",
-      "title": "World Cup VAR review: Should Messi have been sent ...",
-      "summary": "It was a magical night for Lionel Messi and Argentina, but it was nearly cut short by a questionable challenge that could have resulted in a red card.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "publishedAt": "2026-06-17T15:35:54.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "518488aab96d30",
-      "title": "Transfer rumors, news: Real Madrid look to Man Cit...",
-      "summary": "Real Madrid are weighing up a €90 million move for Manchester City defender Rúben Dias. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49091187/transfer-rumors-news-real-madrid-look-man-city-defender-dias",
-      "publishedAt": "2026-06-17T15:09:00.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "a690fbbdebd954",
-      "title": "Transfer Big Board: Best players in each position ...",
-      "summary": "The transfer window is open in Premier League and will be soon in Europe, so who is available? It's our Big Board!",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48991120/transfer-big-board-best-players-position-move-summer",
-      "publishedAt": "2026-06-17T15:09:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
       "id": "d913fefaee5717",
       "title": "Micah Richards rates England’s chances at World Cup without ‘special player’ – ‘I had hoped…’",
       "summary": "Micah Richards has spoken to Football365 about England’s chances at the 2026 World Cup and named a “special player” he would have liked Thomas Tuchel to include in his...",
@@ -436,21 +357,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "41125242c835bc",
-      "title": "Portugal v DR Congo: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Daniel Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho;...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
-      "publishedAt": "2026-06-17T15:00:35.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     },
     {
@@ -528,19 +434,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "fe1b2362c4dcbf",
-      "title": "Football Daily | Football’s greatest showman shows Mbappé and Haaland who’s boss",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! The GWC has barely had time to unpack its suitcase and already the goals are flying in like overenthusiastic airline...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/17/football-daily-greatest-showman-messi-mbappe-haaland",
-      "publishedAt": "2026-06-17T13:44:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
       "id": "a5c0f61c8c1bac",
       "title": "Michael Owen proves why he’s not England manager with ‘radical plan’ to win World Cup",
       "summary": "Michael Owen reckons England need to do something different to win the World Cup, but his ‘radical plan’ proves why he is not a manager.",
@@ -582,7 +475,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "21bd87bc691041",
       "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
-      "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the group A...",
+      "summary": "Focus on business dealings with mining company Guadalajara rally to highlight fate of ‘disappeared’ Hyundai will be targeted by protesters at a rally before the Group A...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
       "publishedAt": "2026-06-17T13:04:58.000Z",
@@ -591,6 +484,116 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "World Cup"
+      ]
+    },
+    {
+      "id": "f2fa6c75194b50",
+      "title": "Liverpool star makes transfer U-turn as FSG could re-sign £24m PL star on two conditions",
+      "summary": "According to reports, Federico Chiesa has made a U-turn on his Liverpool future, while they could re-sign Caoimhin Kelleher from Brentford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-star-transfer-u-turn-fsg-re-sign-24m-pl-star-on-one-condition",
+      "publishedAt": "2026-06-17T13:02:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bc8e864242ccd8",
+      "title": "Does Ousmane Dembélé fit in a France attack led by Mbappé and Olise?",
+      "summary": "Didier Deschamps has an awkward question to answer: should he drop the Ballon d’Or holder? By Get French Football News “If I start playing just to prove all of my criti...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/17/ousmane-dembele-france-attack-mbappe-olise-didier-deschamps-ballon-dor",
+      "publishedAt": "2026-06-17T12:52:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "757153c618979c",
+      "title": "Arsenal legend is selling signed shirts from 99p in historic live auction",
+      "summary": "Arsenal legend Patrick Vieira is taking time out from his World Cup punditry to host a historic live auction from New York.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-legend-is-selling-signed-shirts-from-99p-in-historic-live-auction",
+      "publishedAt": "2026-06-17T12:52:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4d1aa1cd6b91ec",
+      "title": "Hearts, Hibs and Motherwell learn European opponents",
+      "summary": "Heart of Midlothian will face Sturm Graz in the second round of Champions League qualifying as Hibernian and Motherwell learn their Conference League opponents.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cpd3z61q5e6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T12:33:26.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "d5d218ca1082d3",
+      "title": "PSG duo shocked Arsenal youngster didn’t make England World Cup squad",
+      "summary": "A pair of Paris Saint-Germain players were left shocked at the realisation that an Arsenal youngster who they played against in the Champions League final didn’t make t...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/psg-duo-shocked-tuchel-snubbed-arsenal-youngster-world-cup-lewis-skelly",
+      "publishedAt": "2026-06-17T12:31:18.000Z",
+      "category": "worldcup",
+      "region": "england france",
+      "tags": [
+        "Champions League",
+        "World Cup",
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "abc6fc143a5efc",
+      "title": "England: Maguire reveals reason for Alexander-Arnold snub after Carragher raises Tuchel theory",
+      "summary": "Harry Maguire believes he knows why Trent Alexander-Arnold has been left out of England’s squad for the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-maguire-reveals-reason-alexander-arnold-snub-carragher-tuchel-theory",
+      "publishedAt": "2026-06-17T12:10:29.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d7cbd9fc51144b",
+      "title": "Messi setting the stage for Mbappe to quietly become World Cup GOAT",
+      "summary": "Lionel Messi’s World Cup achievements will be outdone by Kylian Mbappe and the France star should be revered for it…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/messi-world-cup-goals-record-mbappe-goat-france",
+      "publishedAt": "2026-06-17T12:03:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a6ec8544b87d7a",
+      "title": "Hull could face points deduction in Premier League",
+      "summary": "Winning the play-off final means Hull must sell players before the end of the month to avoid a potential points deduction in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/czde31803e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-17T12:01:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     }
   ],
