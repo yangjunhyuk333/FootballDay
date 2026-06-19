@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-19T15:29:53.230Z",
+  "generatedAt": "2026-06-19T19:54:39.789Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,80 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "4848c1da194b97",
-      "title": "Arsenal fixtures: Gunners begin title defence live on Sky against Coventry",
-      "summary": "Premier League champions Arsenal will begin their title defence against newly-promoted Coventry live on Sky Sports on Friday August 21.",
+      "id": "0f73c42ea99e0e",
+      "title": "Royal Ascot day 5 preview: International stars set to light up final day",
+      "summary": "Sky Sports Racing's Kieran O'Sullivan previews the feature on the fifth and final day of Royal Ascot, the Queen Elizabeth II Jubilee Stakes.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13555674/arsenal-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T15:29:52.842Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e1f874a41d8289",
-      "title": "Mexico beat South Korea to earn first World Cup knockout spot",
-      "summary": "Mexico became the first nation to secure a spot in the World Cup round of 32 and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guad...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
-      "publishedAt": "2026-06-19T15:29:52.842Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c6d012e9ad13ac",
-      "title": "Man Utd fixtures: Red Devils handed easiest first six games",
-      "summary": "Manchester United will begin their first full Premier League campaign under Michael Carrick away at Hull City on the opening weekend of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13555679/man-utd-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T15:29:52.842Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a7254289df5157",
-      "title": "Arsenal kick off 2026/27 Premier League season vs Coventry - live on Sky",
-      "summary": "Defending champions Arsenal will kick off the 2026/27 Premier League season at home to Coventry on Friday August 21, live on Sky Sports.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
-      "publishedAt": "2026-06-19T15:29:52.841Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6e76c68d32285c",
-      "title": "Why Man Utd have 'easiest' start to new season... and Spurs' horror run-in!",
-      "summary": "Sky Sports' David Reed explains why Manchester United statistically have the easiest start to the season and why Spurs fans might be concerned by their run in.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13555721/premier-league-fixtures-why-manchester-united-have-easiest-start-to-the-season-and-tottenham-hotspurs-horror-run-in",
-      "publishedAt": "2026-06-19T15:29:52.841Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5dd269d447b868",
-      "title": "Moutet fined almost all his prize money after Queen's outburst",
-      "summary": "Corentin Moutet has been fined almost all of his prize money at Queen's Club following his foul-mouthed post-match interview.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13555804/corentin-moutet-handed-steep-fine-for-foul-mouthed-outburst-in-hsbc-championship-at-queens-club",
-      "publishedAt": "2026-06-19T15:29:52.840Z",
+      "url": "https://www.skysports.com/watch/video/13555274/royal-ascot-day-5-preview-internationals-stars-set-to-light-up-final-day",
+      "publishedAt": "2026-06-19T19:54:39.373Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -180,12 +112,204 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "fb32dad15d9efa",
-      "title": "World Cup 2026: Scotland fans’ Boston takeover; Kane’s Wonderwall moment; Pochettino on spies – live",
-      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Let’s begin our look at what will happen later today. First...",
+      "id": "e6d87949fad4b0",
+      "title": "World Cup news: Canada's Kone releases statement after broken leg",
+      "summary": "World Cup news: Canada's Kone releases statement after broken leg",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "publishedAt": "2026-06-19T19:54:39.372Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c43673e0f7fb84",
+      "title": "Janse van Rensburg makes debut as England fall to France in non-cap international",
+      "summary": "Benhard Janse van Rensburg’s hopes of a try-scoring England debut were dashed by fumbling hands as France emerged conclusive 35-19 winners in their non-cap internationa...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13555917/france-35-19-england-benhard-janse-van-rensburg-makes-debut-for-uncapped-xv-as-costly-errors-lead-to-defeat",
+      "publishedAt": "2026-06-19T19:54:39.372Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "0bad1857111b1e",
+      "title": "Oval Test becoming 'Root's worst nightmare' as interim captain",
+      "summary": "Stuart Broad says the second Test is becoming England interim captain Joe Root's \"worst nightmare\" with New Zealand in a dominant position against an inexperienced home...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13555921/england-vs-new-zealand-second-test-becoming-joe-roots-worst-nightmare-as-interim-captain-says-stuart-broad-with-young-side-toiling",
+      "publishedAt": "2026-06-19T19:54:39.371Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "1c0d8fce867c7f",
+      "title": "Ecclestone backs Dean's return as captain after Sciver-Brunt injury",
+      "summary": "Sophie Ecclestone expects Charlie Dean to return to the England captaincy \"like a duck to water\" for their next two matches at the Women's T20 World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13555923/sophie-ecclestone-england-spinner-backs-charlie-deans-return-as-captain-vs-scotland-after-nat-sciver-brunt-injury",
+      "publishedAt": "2026-06-19T19:54:39.369Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a90202d29d726f",
+      "title": "Lampard & Coventry hold positive talks over new deal",
+      "summary": "Coventry manager Frank Lampard has held positive talks over a new contract amid interest from Fulham.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cwy06qvwlj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T19:49:53.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "2b7feb410ed2ad",
+      "title": "USA v Australia: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off time: noon local/3pm ET/8pm BST/5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau The atmosphere here at Lumen Field (excuse me, Seattle Sta...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
-      "publishedAt": "2026-06-19T15:24:31.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
+      "publishedAt": "2026-06-19T19:40:35.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a6b13848097bba",
+      "title": "Fifa alters how World Cup tables work - it changes everything",
+      "summary": "Fifa is using head-to-head records instead of group goal difference as the first tiebreaker for teams who are level on points at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T18:52:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "4a3fa6600e5b71",
+      "title": "Liverpool ‘moving’ for €45m French star who wants Premier League transfer",
+      "summary": "Andoni Iraola’s side are battling Man Utd and Nott’m Forest for a Frenchman who needs to be sold by his current club, as per a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-khephren-thuram-signing-juventus-e45-million",
+      "publishedAt": "2026-06-19T18:36:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ba38eb37cfc9b6",
+      "title": "Romano responds to Mason Greenwood to Tottenham rumours as Arsenal become ‘suitors’ for ex-Man Utd star",
+      "summary": "Arsenal and Tottenham Hotspur have been linked with former Manchester United forward Mason Greenwood, who is at Marseille now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-arsenal-tottenham-hotspur-mason-greenwood-marseille",
+      "publishedAt": "2026-06-19T18:06:19.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b75241ea622e8a",
+      "title": "England's Barry to continue with half-time interviews",
+      "summary": "England assistant coach Anthony Barry is cleared to continue conducting televised half-time interviews during the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cm2034enndpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T18:01:16.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac11c975971182",
+      "title": "Life in Hollywood bubble plays second fiddle to US need for World Cup success | Max Rushden",
+      "summary": "Working at a tournament brings its own demands but nothing like the pressure on home players for a good showing Greetings from Los Angeles – from your own podcasting co...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/life-hollywood-bubble-second-fiddle-us-need-for-world-cup-success",
+      "publishedAt": "2026-06-19T17:05:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e0cadd684c5d73",
+      "title": "Liverpool react to Darwin Nunez ‘returns to’ Anfield rumour",
+      "summary": "Liverpool have reacted to rumours that Darwin Nunez will be back at Anfield next season under manager Andoni Iraola.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/darwin-nunez-liverpool-anfield-return-fsb-reaction",
+      "publishedAt": "2026-06-19T17:04:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0158af0be00656",
+      "title": "Michael Olise reacts to Real Madrid ‘circus’ as Bayern Munich star makes ‘decision’ – report",
+      "summary": "Michael Olise has decided whether or not he will leave Bayern Munich for Real Madrid in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-olise-real-madrid-bayern-munich-decision",
+      "publishedAt": "2026-06-19T16:35:53.000Z",
+      "category": "transfer",
+      "region": "spain germany",
+      "tags": [
+        "Transfer",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "d4a28f85ddcfb1",
+      "title": "Africa's greatest World Cup kits - pick your favourite",
+      "summary": "Your chance to rank 10 of the most colourful and iconic kits African teams have worn at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvgz4pnjzlgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T15:45:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ea487625624b49",
+      "title": "Jesse Marsch: windmilling human meme or shrewd protector of suddenly dangerous Canada?",
+      "summary": "Some on the internet are tiring of the American’s antics with Les Rouges. But there’s an argument that he is taking the heat off his players Some corners of the interne...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/canada-qatar-world-cup-jesse-marsch",
+      "publishedAt": "2026-06-19T15:30:35.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -466,127 +590,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "927bb8b7a47261",
-      "title": "Ronaldo ‘blasted’ by team-mate in ‘brutal’ takedown as Portugal hit by World Cup crisis",
-      "summary": "Cristiano Ronaldo has been ‘blasted’ by a ‘brutal’ Portugal team-mate, while Nico O’Reilly has a fan in Pep Guardiola but is not for everyone.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ronaldo-blasted-brutal-takedown-portugal-world-cup-crisis",
-      "publishedAt": "2026-06-19T11:19:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "54062d0ec163c1",
-      "title": "ITV wins World Cup ratings battle with BBC in tournament’s first week",
-      "summary": "England v Croatia attracted year’s highest UK TV figures BBC opted for more first-pick games in knockout stages ITV is winning the UK television ratings battle after th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/19/itv-wins-world-cup-ratings-battle-bbc-first-week-england-croatia",
-      "publishedAt": "2026-06-19T10:53:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "540d82cfa17bf7",
-      "title": "Man Utd believe they have ‘genuine chance’ for ‘dream’ signing of top Liverpool target",
-      "summary": "Man Utd now believe they have a ‘genuine chance’ of signing Real Madrid midfielder Aurelien Tchouameni this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-genuine-chance-tchouameni-dream-signing-liverpool",
-      "publishedAt": "2026-06-19T10:46:48.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "c00c084427294f",
-      "title": "Scotland's totems must turn up to thwart dynamic Morocco",
-      "summary": "Scotland will need their best display since Steve Clarke took over to achieve the result against Morocco that will secure knockout tournament football for the first tim...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cy04jqn90wko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T10:43:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "e27ace712c5326",
-      "title": "Maguire compares £130m star to Rice after Man Utd reach final decision on signing him",
-      "summary": "Manchester United defender Harry Maguire has raved about a midfielder who has been on the radar of the Red Devils.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-harry-maguire-elliot-anderson-nottingham-forest-england-declan-rice",
-      "publishedAt": "2026-06-19T10:41:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "40dbb619262a64",
-      "title": "More than the Score",
-      "summary": "Discover why the history between Haitian and Brazilian football runs deep",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nsyqhb?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T10:41:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a1e53425341d3b",
-      "title": "A heavily jeered $250m goldmine - are hydration break ads here to stay?",
-      "summary": "BBC Sport explores how hydration break ads work in other countries and how they could impact the future of football.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T10:14:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a6165ee7d7ec6b",
-      "title": "Man Utd ‘lurking’ to sign £60m Germany star after Ornstein delivers Fernandes blow",
-      "summary": "As David Ornstein reveals Tottenham have joined Real Madrid and Man Utd in the race for Fernandes, the Red Devils are ‘lurking’ to sign a £60m Bundesliga alternative.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-lurking-to-sign-60m-germany-star-after-ornstein-delivers-fernandes-blow",
-      "publishedAt": "2026-06-19T09:54:42.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
-      "tags": [
-        "Bundesliga",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "0bfa40af4ee51d",
-      "title": "Arsenal host Coventry on opening day as Premier League 2026/27 fixtures announced",
-      "summary": "Premier League champions Arsenal will welcome newly-promoted Coventry City in the first game of the 2026/27 season on Friday 21 August.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-2026-27-fixtures",
-      "publishedAt": "2026-06-19T09:49:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
