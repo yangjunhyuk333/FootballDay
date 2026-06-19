@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-19T10:45:18.768Z",
+  "generatedAt": "2026-06-19T15:29:53.230Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,92 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "a373a67b663298",
-      "title": "West Indies edge out Scotland for seven-run win",
-      "summary": "The West Indies overcame Scotland by seven runs and stayed unbeaten at the Women's T20 World Cup after a madcap match at Headingley.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13555547/t20-world-cup-west-indies-claim-seven-run-victory-over-scotland-in-thrilling-contest-at-headingley",
-      "publishedAt": "2026-06-19T10:45:18.397Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bc99f4388ad437",
-      "title": "Liverpool fixtures: Iraola's Reds reign starts at Newcastle live on Sky",
-      "summary": "Andoni Iraola's first game as Liverpool head coach will be a trip to St James' Park to face Newcastle United on the opening Super Sunday of the new season, live on Sky...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13555667/liverpool-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T10:45:18.397Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4061836a628593",
-      "title": "Papers: Liverpool target £86m star",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
-      "publishedAt": "2026-06-19T10:45:18.397Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "00a5d803b3b88d",
-      "title": "Aston Villa fixtures: Europa League champions begin PL season at Brighton",
-      "summary": "Aston Villa will begin the 2026/27 Premier League season away to Brighton on Sunday August 23, live on Sky Sports .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13555662/aston-villa-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T10:45:18.397Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Europa League"
-      ]
-    },
-    {
-      "id": "785d47bbb9901a",
-      "title": "Sunderland fixtures: Black Cats travel to Ipswich but must wait for Newcastle",
-      "summary": "Sunderland travel to Ipswich Town on the opening weekend of the Premier League season and must wait until December for their first derby match against Newcastle United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13555686/sunderland-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T10:45:18.397Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "6e76c68d32285c",
-      "title": "Why Man Utd have 'easiest' start to new season... and Spurs' horror run in!",
-      "summary": "Sky Sports' David Reed explains why Manchester United statistically have the easiest start to the season and why Spurs fans might be concerned by their run in.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13555721/premier-league-fixtures-why-manchester-united-have-easiest-start-to-the-season-and-tottenham-hotspurs-horror-run-in",
-      "publishedAt": "2026-06-19T10:45:18.396Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "4848c1da194b97",
       "title": "Arsenal fixtures: Gunners begin title defence live on Sky against Coventry",
       "summary": "Premier League champions Arsenal will begin their title defence against newly-promoted Coventry live on Sky Sports on Friday August 21.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13555674/arsenal-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T10:45:18.396Z",
+      "publishedAt": "2026-06-19T15:29:52.842Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -198,7 +118,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Mexico became the first nation to secure a spot in the World Cup round of 32 and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guad...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/mexico-vs-korea-republic/report/549793",
-      "publishedAt": "2026-06-19T10:45:18.396Z",
+      "publishedAt": "2026-06-19T15:29:52.842Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -211,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United will begin their first full Premier League campaign under Michael Carrick away at Hull City on the opening weekend of the season.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13555679/man-utd-premier-league-2026-27-fixtures-and-schedule",
-      "publishedAt": "2026-06-19T10:45:18.396Z",
+      "publishedAt": "2026-06-19T15:29:52.842Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -225,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Defending champions Arsenal will kick off the 2026/27 Premier League season at home to Coventry on Friday August 21, live on Sky Sports.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13555675/premier-league-2026-27-fixtures-dates-schedule-arsenal-face-coventry-and-liverpool-at-newcastle-in-opening-round",
-      "publishedAt": "2026-06-19T10:45:18.395Z",
+      "publishedAt": "2026-06-19T15:29:52.841Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -234,16 +154,359 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "7cd028e412b316",
-      "title": "HERE THEY ARE: Premier League 2026/27 fixtures revealed LIVE!",
-      "summary": "HERE THEY ARE: Premier League 2026/27 fixtures revealed LIVE!",
+      "id": "6e76c68d32285c",
+      "title": "Why Man Utd have 'easiest' start to new season... and Spurs' horror run-in!",
+      "summary": "Sky Sports' David Reed explains why Manchester United statistically have the easiest start to the season and why Spurs fans might be concerned by their run in.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13555689/premier-league-2026-27-fixtures-release-day-live-every-clubs-opening-weekend-final-weekend-boxing-day-games-and-more",
-      "publishedAt": "2026-06-19T10:45:18.395Z",
+      "url": "https://www.skysports.com/watch/video/13555721/premier-league-fixtures-why-manchester-united-have-easiest-start-to-the-season-and-tottenham-hotspurs-horror-run-in",
+      "publishedAt": "2026-06-19T15:29:52.841Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5dd269d447b868",
+      "title": "Moutet fined almost all his prize money after Queen's outburst",
+      "summary": "Corentin Moutet has been fined almost all of his prize money at Queen's Club following his foul-mouthed post-match interview.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/tennis/news/12040/13555804/corentin-moutet-handed-steep-fine-for-foul-mouthed-outburst-in-hsbc-championship-at-queens-club",
+      "publishedAt": "2026-06-19T15:29:52.840Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "fb32dad15d9efa",
+      "title": "World Cup 2026: Scotland fans’ Boston takeover; Kane’s Wonderwall moment; Pochettino on spies – live",
+      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Let’s begin our look at what will happen later today. First...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
+      "publishedAt": "2026-06-19T15:24:31.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ea4f6ece26c465",
+      "title": "Football Daily | USA, Mexico, Canada: which World Cup co-host can boast the most?",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! An old footballing adage tells us that no World Cup is quite complete without a gutsy run of results from the host n...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter",
+      "publishedAt": "2026-06-19T14:40:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "048904ef00b3e1",
+      "title": "Who are Morocco's players to look out for against Scotland?",
+      "summary": "Scotland face Morocco in their second group game of the 2026 World Cup. BBC Sport takes a look at the Morocco players to look out for.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c78y69pe266o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T14:04:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bb116e130be14e",
+      "title": "All done deals in June 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T13:52:45.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "dfd2fc12873945",
+      "title": "Chelsea in swap ‘talks’ for £34m Cucurella replacement as Fernandez ‘agreement’ reached with Real Madrid",
+      "summary": "Chelsea have ‘held talks’ with Juventus over a swap deal for Andrea Cambiaso, who’s emerged a the Blues’ leading target to replace Marc Cucurella at Stamford Bridge.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-swap-34m-cucurella-replacement-agreement-reached-real-madrid",
+      "publishedAt": "2026-06-19T13:43:43.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Real Madrid",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "c0bcacb7f13d14",
+      "title": "England star offers Rice reward to Man City and ‘scarred’ Manchester United",
+      "summary": "Man City are wary of paying a record fee for Elliot Anderson, and Man Utd seem terrified, but the England midfielder will be worth the money…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/elliot-anderson-transfer-man-city-united-england-world-cup-declan-rice",
+      "publishedAt": "2026-06-19T13:38:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "69ed01e2e358e8",
+      "title": "Kylian Mbappe’s ‘dream’ signing for Real Madrid revealed – not Enzo Fernandez or Julian Alvarez",
+      "summary": "The Spanish media has revealed the name of the player that Kylian Mbappe would love to sign for Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-michael-olise-dream-real-madrid-signing",
+      "publishedAt": "2026-06-19T13:25:08.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "b202458c907531",
+      "title": "Nike v Adidas - the World Cup brand battle",
+      "summary": "Eye-watering budgets are nothing new, but this year both Nike and Adidas have gone bigger and bolder than ever before in the fight for World Cup attention.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T13:01:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "dc4c7aae6c9112",
+      "title": "Man Utd: Carrick succeeds in changing INEOS’ Rashford ‘idea’ – ‘Wants to work with him’",
+      "summary": "Michael Carrick ‘wants to work’ with Marcus Rashford at Manchester United next season and he could get his wish amid reports of a change of stance from INEOS.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-carrick-succeeds-in-changing-ineos-rashford-idea-wants-to-work-with-him",
+      "publishedAt": "2026-06-19T12:55:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "85ccfb37973d9c",
+      "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
+      "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T12:43:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "d26e7a23c7383a",
+      "title": "The 20 most expensive goalkeepers ever: Arsenal evolution summed up by three appearances",
+      "summary": "Arsenal are the only club to make as many as three of the 20 most expensive goalkeeper signings in football history.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/20-most-expensive-goalkeepers-ever-transfer-history",
+      "publishedAt": "2026-06-19T12:42:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6b2f870d4d8e0e",
+      "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
+      "summary": "Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it They came, they saw and they went to the rodeo. For th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
+      "publishedAt": "2026-06-19T12:42:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7e6d858e20a317",
+      "title": "World Cup quiz: Who has most Scotland appearances?",
+      "summary": "Test your knowledge of Scotland players with at least five appearances at World Cups.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpl54ndpqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T12:32:42.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "563a1132fee274",
+      "title": "Gavi namechecks Julian Alvarez, top Spain star as two dream Barcelona signings",
+      "summary": "Argentina frontman Alvarez remains insistent on a move to Barca this summer, but reports of an ‘agreed’ Arsenal switch continues to complicate matters",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gavi-namechecks-julian-alvarez-mikel-oyarzabal-dream-barcelona-signings",
+      "publishedAt": "2026-06-19T12:32:07.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "a3903842891668",
+      "title": "Two World Cup matches were played in ‘severe heat’, analysis finds",
+      "summary": "Games in Miami and Monterrey were at heat level a players’ union had warned in the past should trigger delays Two of the first round of matches at the World Cup were pl...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis",
+      "publishedAt": "2026-06-19T12:30:31.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "966993425036c7",
+      "title": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+      "summary": "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas Tuchel's big selection dilemmas.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T12:20:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3041bc2d6b82ad",
+      "title": "Mateus Fernandes reacts after Tottenham make ‘contacts’ as Man Utd learn stance on ‘move’",
+      "summary": "West Ham United midfielder Mateus Fernandes has picked his preference between Manchester United and Tottenham Hotspur.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-tottenham-hotspur-west-ham-united-mateus-fernandes",
+      "publishedAt": "2026-06-19T12:13:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "421882beb42045",
+      "title": "Fifa bans football club's submarine badge on flag",
+      "summary": "The Barrow flag is banned from World Cup stadiums as it includes a depiction of military equipment.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/news/articles/cpwe7p7z0p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T12:11:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "d93dec88641767",
+      "title": "Tottenham must get in transfer lane after fighting losing battles for £335m quartet",
+      "summary": "Sandro Tonali? Mateus Fernandes? Adam Wharton? Who do Tottenham think they are? At some stage this summer they’re going to be forced into their transfer lane.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-tottenham-transfer-lane-fighting-losing-battle-335m-quartet",
+      "publishedAt": "2026-06-19T11:46:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "999519bb232e64",
+      "title": "Euro giants cancel transfer to Arsenal despite attacker ‘welcoming’ Gunners interest",
+      "summary": "Arsenal have been hit by a huge blow to their hopes of signing Juventus attacker Kenan Yildiz this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-juventus-cancel-yildiz-transfer-welcome",
+      "publishedAt": "2026-06-19T11:44:46.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "faf1b125b6663f",
+      "title": "The US World Cup star who couldn't be an American under Trump's plan",
+      "summary": "Folarin Balogun scored two goals on his World Cup debut, but he is the type of person President Trump is trying to ban under birthright citizenship.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T11:21:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "927bb8b7a47261",
+      "title": "Ronaldo ‘blasted’ by team-mate in ‘brutal’ takedown as Portugal hit by World Cup crisis",
+      "summary": "Cristiano Ronaldo has been ‘blasted’ by a ‘brutal’ Portugal team-mate, while Nico O’Reilly has a fan in Pep Guardiola but is not for everyone.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronaldo-blasted-brutal-takedown-portugal-world-cup-crisis",
+      "publishedAt": "2026-06-19T11:19:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "54062d0ec163c1",
+      "title": "ITV wins World Cup ratings battle with BBC in tournament’s first week",
+      "summary": "England v Croatia attracted year’s highest UK TV figures BBC opted for more first-pick games in knockout stages ITV is winning the UK television ratings battle after th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/itv-wins-world-cup-ratings-battle-bbc-first-week-england-croatia",
+      "publishedAt": "2026-06-19T10:53:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "540d82cfa17bf7",
+      "title": "Man Utd believe they have ‘genuine chance’ for ‘dream’ signing of top Liverpool target",
+      "summary": "Man Utd now believe they have a ‘genuine chance’ of signing Real Madrid midfielder Aurelien Tchouameni this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-genuine-chance-tchouameni-dream-signing-liverpool",
+      "publishedAt": "2026-06-19T10:46:48.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Real Madrid"
       ]
     },
     {
@@ -273,23 +536,21 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "fb32dad15d9efa",
-      "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
-      "summary": "⚽ All the latest news from day eight of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Let’s begin our look at what will happen later today. First...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
-      "publishedAt": "2026-06-19T10:33:34.000Z",
-      "category": "worldcup",
-      "region": "italy",
+      "id": "40dbb619262a64",
+      "title": "More than the Score",
+      "summary": "Discover why the history between Haitian and Brazilian football runs deep",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nsyqhb?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T10:41:00.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
+        "Football"
       ]
     },
     {
       "id": "a1e53425341d3b",
-      "title": "The heavily jeered $250m goldmine - are hydration break ads here to stay?",
+      "title": "A heavily jeered $250m goldmine - are hydration break ads here to stay?",
       "summary": "BBC Sport explores how hydration break ads work in other countries and how they could impact the future of football.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
@@ -298,19 +559,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "bb116e130be14e",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T09:57:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -339,251 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "1c091724ccc4f4",
-      "title": "Can Renard revive Tunisia's World Cup campaign?",
-      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sack...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T09:47:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1e2cb78912b08d",
-      "title": "Arsenal's first bid for Monga rejected - Friday's gossip",
-      "summary": "Arsenal's opening bid for Jeremy Monga rejected by Leicester, Gunners also preparing bid for Bradley Barcola, RB Leipzig make contact with Everton over Barry.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c3ey5155309o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T09:26:07.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "649c5ba4b6bb91",
-      "title": "Premier League fixtures: Arsenal open against Coventry, Liverpool at Newcastle",
-      "summary": "Manchester United travel to Hull on first weekend Manchester City without Guardiola host Bournemouth Coventry will begin their first Premier League campaign in 25 years...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/19/premier-league-fixtures-opening-arsenal-coventry-liverpool-newcastle-manchester-united-hull",
-      "publishedAt": "2026-06-19T09:09:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "94d72e81668b39",
-      "title": "Coventry play champions Arsenal in Premier League opener",
-      "summary": "Newly promoted Coventry City will travel to champions Arsenal in the first match of the 2026-27 Premier League season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T09:00:40.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9564f772077215",
-      "title": "Romano reveals ‘two reasons’ Liverpool bid for Diomande was rejected with next offer to land ‘quickly’",
-      "summary": "Fabrizio Romano has revealed that there are “two reasons” why Liverpool saw their huge bid for Yan Diomande rejected by RB Leipzig.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-two-reasons-diomande-bid-rejected-next-offer-soon",
-      "publishedAt": "2026-06-19T08:57:07.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6c1b15968ace06",
-      "title": "Why Pochettino's fluid USA midfield is thriving",
-      "summary": "Mauricio Pochettino has his USA midfield thriving at the World Cup with a fluid approach - here is how it works.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cr5jdjn65nzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T08:48:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal bottle their lead",
-      "summary": "Arsenal took an early lead in terms of club goalscorers at the World Cup, but have been overtaken by two clubs fairly predictably rivals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-19T08:40:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "49b34ea9288ae5",
-      "title": "Premier League fixtures - find out your club's schedule",
-      "summary": "The Premier League fixtures are out - find out your club's schedule.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvg5d793d1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T08:39:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "75f8e6651067ff",
-      "title": "Kane role explained as England and Tuchel exploit ‘one of the best passers in football’",
-      "summary": "Harry Kane is destined to go his entire wonderful career being completely misunderstood as a mere England poacher who must stay in the area.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-role-explained-england-tuchel-best-passers",
-      "publishedAt": "2026-06-19T08:34:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "6a58aaf5b4cff0",
-      "title": "Rashford ‘preference’ beyond Barcelona brings Man Utd stay ‘back into play’",
-      "summary": "Rashford’s ‘preference’ if he doesn’t get his desired move to Barcelona has been revealed and it brings a return to Man Utd ‘back into play’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rashford-preferenc-beyond-barcelona-brings-man-utd-stay-back-into-play",
-      "publishedAt": "2026-06-19T08:28:18.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "d3e0677150f230",
-      "title": "Man Utd ‘open talks’ to seal spectacular double deal for Premier League duo",
-      "summary": "Man Utd have ‘opened talks’ to sign Crysencio Summerville as the Red Devils eye a double deal from West Ham, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-open-talks-double-deal-west-ham-summerville-fernandes",
-      "publishedAt": "2026-06-19T08:15:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "c79579a0b60d28",
-      "title": "Football Daily",
-      "summary": "Charlie Adam joins Rick & Lloyd to preview Scotland's huge World Cup clash with Morocco.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ns7wjx?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T07:53:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2246deb004d1f5",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T07:50:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5cc051e77f3463",
-      "title": "Happy hosts as Canada claim first win and Mexico seal knockout spot | World Cup Daily",
-      "summary": "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Ben Fisher as Canada thrash Qatar 6-0 in Vancouver Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/19/happy-hosts-as-canada-claim-first-win-and-mexico-seal-knockout-spot-world-cup-daily",
-      "publishedAt": "2026-06-19T07:38:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "38af8bcd3a66b4",
-      "title": "Arsenal prepare ‘pre-contract offer’ for ‘next Kvaratskhelia’ as Liverpool hijack confirmed",
-      "summary": "Arsenal are ‘set to make a pre-contract offer’ to beat Juventus to the ‘new Kvaratskhelia’ as a Liverpool hijack is confirmed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-pre-contract-offer-next-kvaratskhelia-liverpool-hijack-confirmed",
-      "publishedAt": "2026-06-19T07:37:07.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "74b9769205593b",
-      "title": "Raskin seeks move amid Atalanta interest - gossip",
-      "summary": "Rangers midfielder linked with move, Hearts vacancy latest and Kilmarnock agree to sign goalkeeper.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cd6ejz12z55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T07:13:02.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "7e327055ea0c8b",
-      "title": "Players are human beings and social media comments reach us. But the focus has to be on the pitch | Rodrygo",
-      "summary": "The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility Playing in a World Cup is a huge experience; when you’re with t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/19/players-are-human-beings-and-social-media-comments-reach-us-but-the-focus-has-to-be-on-the-pitch",
-      "publishedAt": "2026-06-19T07:00:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "401944886fe1a7",
-      "title": "Podcast: Game day - Scotland's World Cup nerve test",
-      "summary": "Scotland brace for Morocco—tactics, nerves and World Cup belief.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nsxlxv?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T07:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
