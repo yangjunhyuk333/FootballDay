@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-20T14:13:39.099Z",
+  "generatedAt": "2026-06-20T19:43:39.512Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,327 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "be42b91bbf92fb",
+      "title": "World Cup Daily: Germany vs. Ivory Coast LIVE; Dut...",
+      "summary": "It's yet another weekend of 2026 FIFA World Cup action, with four games slated for Saturday and a Norway fan takeover in New York City.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49122322/world-cup-daily-norway-fans-take-s-square-viking-row-germany-netherlands-action",
+      "publishedAt": "2026-06-20T20:31:17.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "0a7b9f6d4332e0",
+      "title": "🤔Permutations: How teams qualify for knockouts",
+      "summary": "Who can secure qualification before the group stage ends, and whose World Cup dreams could be shattered? Here's what you need to know.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
+      "publishedAt": "2026-06-20T20:17:53.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e37765b8513404",
+      "title": "Madrid: No contact with Bayern, France's Olise",
+      "summary": "Real Madrid have denied making any \"direct or indirect\" contract with Michael Olise over a possible summer transfer.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49126940/real-madrid-no-contact-made-bayern-munich-michael-olise",
+      "publishedAt": "2026-06-20T20:17:52.000Z",
+      "category": "transfer",
+      "region": "spain germany",
+      "tags": [
+        "Transfer",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "5bcb5a7248bc2c",
+      "title": "Netherlands thump Sweden 5-1 in statement win",
+      "summary": "Brian Brobbey and Cody Gakpo scored two each as Netherlands cruised to a 5-1 World Cup victory over Sweden to go top of Group F.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/report/_/gameId/760447",
+      "publishedAt": "2026-06-20T20:17:52.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "002a85282b31ad",
+      "title": "U.S. winning the WC not 'ridiculous,' Richards say...",
+      "summary": "Zlatan Ibrahimovic was succinct in saying he thinks that the USMNT has a chance to win the World Cup. Chris Richards doesn't think it's a wild idea at all, either.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49121031/usa-winning-2026-world-cup-chris-richards-zlatan-ibrahimovic",
+      "publishedAt": "2026-06-20T20:17:52.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d2dc689af9ec50",
+      "title": "Iran to file complaint over WC travel restrictions...",
+      "summary": "Iran's soccer federation said it will lodge a complaint with FIFA after its request to travel to Los Angeles two days before Sunday's World Cup match against Belgium wa...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49120177/iran-fifa-complaint-world-cup-travel-usa",
+      "publishedAt": "2026-06-20T20:17:52.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "Soccer",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9fc01ee94fd61b",
+      "title": "Almeraq bounces back to win Royal Ascot sprint spectacular",
+      "summary": "Almeraq got the better of a blanket finish in winning the battle of the international speedsters for Tom Marquand and William Haggas in the Queen Elizabeth II Jubilee S...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13556207/royal-ascot-almeraq-steals-the-show-in-queen-elizabeth-ii-jubilee-stakes-after-giavellotto-wins-the-hardwicke-stakes",
+      "publishedAt": "2026-06-20T19:43:39.351Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6b321c9070b337",
+      "title": "Lift-off for Netherlands with thumping win over Sweden",
+      "summary": "Netherlands took a huge step towards the World Cup knockout stages with a commanding 5-1 victory over Sweden in Group F, inspired by brilliant doubles from Brian Brobbe...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/netherlands-vs-sweden/report/549800",
+      "publishedAt": "2026-06-20T19:43:39.351Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "610c4ab3fa1ccd",
+      "title": "Manchester Thunder triumph in Netball Super League Grand Final thriller!",
+      "summary": "Highlights of the Netball Super League Grand Final between Manchester Thunder and London Pulse.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13556150/manchester-thunder-54-51-london-pulse-netball-super-league-grand-final",
+      "publishedAt": "2026-06-20T19:43:39.351Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8bd5ba8143f7f4",
+      "title": "Australia extend winning World Cup start in big Netherlands win",
+      "summary": "Australia maintained their winning start to the ICC Women's T20 World Cup with a comfortable 98-run win over the Netherlands at the Hampshire Bowl.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
+      "publishedAt": "2026-06-20T19:43:39.351Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a2c5e22b870845",
+      "title": "Scotland two down after England set 201 in T20 World Cup LIVE!",
+      "summary": "Scotland two down after England set 201 in T20 World Cup LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13556133/england-vs-scotland-live-cricket-score-updates-video-and-analysis-from-icc-womens-t20-world-cup-group-b-clash",
+      "publishedAt": "2026-06-20T19:43:39.351Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fef46ef1ffb2c2",
+      "title": "Arsenal, Liverpool pair cost £189m and were shamed by £17m striker masterclass from the Dutch",
+      "summary": "Alexander Isak and Viktor Gyokeres cost slightly more than Brian Brobbey, but it was the Sunderland man who put on the centre-forward clinic.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/isak-gyokeres-arsenal-liverpool-189m-shamed-netherlands-masterclass-brobbey",
+      "publishedAt": "2026-06-20T19:34:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f4a981efd1aac3",
+      "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+      "summary": "⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Will Germany (4-2-3-1): Neuer; Kimmich, Tah, Schlotterbeck,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live",
+      "publishedAt": "2026-06-20T19:25:11.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Liverpool and Man Utd overtake Arsenal",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but have been overtaken by four clubs – including two Premier League rivals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-06-20T19:19:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1382a494f2858b",
+      "title": "Real Madrid deny contact with Bayern's Olise",
+      "summary": "Real Madrid deny reports linking them with Bayern Munich and France winger Michael Olise.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T19:04:13.000Z",
+      "category": "league",
+      "region": "spain germany",
+      "tags": [
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "aed56222c8c86a",
+      "title": "The brilliant Michael Olise represents a key faultline in history of French football | Jonathan Wilson",
+      "summary": "Unusually in the France side, he plays with a sense of freedom and has not yet submitted fully to Deschamps’s tactical yoke Michael Olisé is probably the best creative...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps",
+      "publishedAt": "2026-06-20T19:00:09.000Z",
+      "category": "worldcup",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "4f7c5ec2ccba9a",
+      "title": "Gakpo fires home the 100th goal of this World Cup",
+      "summary": "Cody Gakpo scores the 100th goal of this World Cup as he his second of the game to put Netherlands 4-0 ahead against Sweden.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T18:48:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0321076ff93bcd",
+      "title": "Scotland’s World Cup destiny is in their own hands but lack of gamechangers shows | Ewan Murray",
+      "summary": "Questions remain before battle with Brazil after narrow defeat by Morocco leaves fans looking at last-32 permutations The permutations Steve Clarke is so desperate to a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/20/scotland-2026-world-cup-destiny-morocco-brazil-steve-clarke",
+      "publishedAt": "2026-06-20T18:13:50.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2569a56baac59f",
+      "title": "Pulisic sits, but U.S. finds a way vs. Australia t...",
+      "summary": "Even without Christian Pulisic, the USMNT still managed to get its second win of this World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
+      "publishedAt": "2026-06-20T18:09:15.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "28c72c744bce66",
+      "title": "If there was a time to dream big about the USMNT a...",
+      "summary": "There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
+      "publishedAt": "2026-06-20T18:09:14.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ba0a611b525b72",
+      "title": "Saka trains alone as England prepare for Ghana game",
+      "summary": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T18:02:39.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "661b05e4d08d41",
+      "title": "Brobbey scores twice against Sweden",
+      "summary": "Brian Brobbey scores twice in the first half in Netherland's World Cup match with Sweden.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T17:57:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b2f0e1f95d5e33",
+      "title": "Real Madrid release Michael Olise statement amid sensational ‘€200m bid’ claims",
+      "summary": "Los Blancos have reportedly drawn up a spectacular €200m (£173m) offer to sign Olise from Bayern, and they have subsequently released a statement",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-transfer-news-michael-olise-statement-e200-million-bid-bayern-munich",
+      "publishedAt": "2026-06-20T17:43:55.000Z",
+      "category": "transfer",
+      "region": "spain germany",
+      "tags": [
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
       "id": "76b524ba015091",
       "title": "Are Brazil back in business after World Cup win vs...",
       "summary": "Brazil get the mental boost their World Cup campaign needed with a 3-0 win over Haiti, but coach Carlo Ancelotti is left with plenty of problems to solve.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49125986/are-brazil-back-business-world-cup-win-vs-haiti-not-quite",
-      "publishedAt": "2026-06-20T14:58:17.000Z",
+      "publishedAt": "2026-06-20T16:46:04.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -117,10 +432,65 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Scotland's dreams of reaching the World Cup knockouts are in jeopardy as Morocco prove they deserve a little more respect as a contender.",
       "source": "ESPN Soccer",
       "url": "https://www.espn.com/soccer/story/_/id/49121005/scotland-world-cup-dreams-ropes-morocco-prove-real-deal",
-      "publishedAt": "2026-06-20T14:58:17.000Z",
+      "publishedAt": "2026-06-20T16:46:04.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d555395adb068e",
+      "title": "How does qualification for the World Cup knockout stage work?",
+      "summary": "With the second round of group-stage matches under way, we assess who can play who in the knockout rounds - and how they can get there.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T16:24:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "The summer transfer window is only just officially open but that hasn’t stopped some big clubs from spending big money…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-06-20T16:06:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-06-20T15:59:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "fe898bcf3a6808",
+      "title": "Down but not out: Socceroos take heart from positives in defeat to USA | Jack Snape",
+      "summary": "Australia’s fate will be set after their final group game against Paraguay but there were some reasons for cheer from the performance in Seattle The Socceroos are down,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/21/down-but-not-out-socceroos-take-heart-from-positives-in-defeat-to-usa",
+      "publishedAt": "2026-06-20T15:00:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
         "World Cup"
       ]
     },
@@ -138,52 +508,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "be42b91bbf92fb",
-      "title": "World Cup Daily: Norway fans' 'Viking Row' takes o...",
-      "summary": "It's yet another weekend of 2026 FIFA World Cup action, with four games slated for Saturday, starting with Netherlands-Sweden.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49122322/world-cup-daily-norway-fans-take-s-square-viking-row-germany-netherlands-action",
-      "publishedAt": "2026-06-20T14:54:24.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "28c72c744bce66",
-      "title": "If there was a time to dream big about about the U...",
-      "summary": "There's something different about this United States team at the 2026 World Cup: The players feel it, and we can all see it. So why not believe?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
-      "publishedAt": "2026-06-20T14:39:37.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2569a56baac59f",
-      "title": "Pulisic sits, but U.S. finds a way vs. Australia t...",
-      "summary": "Even without Christian Pulisic, the USMNT still managed to get its second win of this World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49119070/christian-pulisic-sits-us-finds-way-vs-australia-reach-world-cup-knockout-rounds",
-      "publishedAt": "2026-06-20T14:39:37.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c3bffeb732a408",
-      "title": "Guler sends apology after Turkey suffer shock elimination from World Cup",
-      "summary": "In an emotionally-charged encounter in San Francisco, Turkey were sent packing from the World Cup having fallen to back-to-back defeats, losing 1-0 to steely Paraguay a...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/turkey-vs-paraguay/report/549796",
-      "publishedAt": "2026-06-20T14:13:38.758Z",
+      "id": "7fb238d6bd2df5",
+      "title": "Boston bounce sends Scotland to Miami with hope and no fear",
+      "summary": "Scotland and their fans head to Miami for a World Cup date with destiny after making memories in Boston to last a lifetime.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c0my8z7vpg3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T14:43:39.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -191,84 +521,18 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8d6c6e844b9ed2",
-      "title": "Harsh or fair decisions? Scotland denied TWO penalties in Morocco defeat!",
-      "summary": "The Scotland camp and pundits react after two penalty appeals were denied in the World Cup defeat against Morocco.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13556024/world-cup-scotland-camp-react-to-mcginn-and-mctominays-denied-penalties-vs-morocco",
-      "publishedAt": "2026-06-20T14:13:38.758Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "75ba7b0143f4e4",
-      "title": "More successful than Pep? Greig wants one more title for Manchester",
-      "summary": "The AO Manchester Thunder face the London Pulse in the Netball Super League Grand Final - and a title win on home soil is in touching distance for Karen Greig and her s...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/netball/news/12040/13554997/netball-super-league-grand-final-manchester-thunders-karen-greig-looks-to-cement-legacy-with-win-over-london-pulse",
-      "publishedAt": "2026-06-20T14:13:38.758Z",
+      "id": "f86e77c13ee425",
+      "title": "Arsenal draw up dazzling ‘€80m bid’ for France World Cup star",
+      "summary": "It could be another huge summer transfer window at the Emirates, with an €80m (£69m) offer soon to be launched, as per a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-transfer-news-signing-bradley-barcola-bid-psg-world-cup",
+      "publishedAt": "2026-06-20T14:25:56.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8bd5ba8143f7f4",
-      "title": "Australia extend winning World Cup start in big Netherlands win",
-      "summary": "Australia maintained their winning start to the ICC Women's T20 World Cup with a comfortable 98-run win over the Netherlands at the Hampshire Bowl.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
-      "publishedAt": "2026-06-20T14:13:38.757Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "339471394f8a4d",
-      "title": "Penalty controversy as Scotland punished by early Morocco strike",
-      "summary": "Scotland were denied at least one penalty as hopes of creating history at the World Cup suffered a blow against Morocco.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/scotland-vs-morocco/report/549795",
-      "publishedAt": "2026-06-20T14:13:38.757Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "41518a330d04aa",
-      "title": "Boyd: Scotland can’t concede early against Brazil",
-      "summary": "Kris Boyd says Scotland cannot concede another early goal when they meet Brazil in their final Group C match at the World Cup on Wednesday after going behind after 70 s...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556075/scotland-cannot-concede-early-again-against-brazil-says-kris-boyd",
-      "publishedAt": "2026-06-20T14:13:38.757Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "81cadf60a1caf3",
-      "title": "World Cup 2026: USA’s ‘high IQ’ squad backed to handle hype; Almíron’s historic red; Sweden’s Dutch test– live",
-      "summary": "⚽ All the latest news from day nine of the tournament ⚽ Player guide | Bracketology | Golden Boot | Email us On this day in World Cup Euros history : 1976 – Antonin Pan...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
-      "publishedAt": "2026-06-20T13:54:24.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
         "World Cup",
-        "Fifa",
-        "Uefa"
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
@@ -301,7 +565,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "3d181457ad2f61",
-      "title": "Why Kane is different at this World Cup",
+      "title": "Why Kane is different at this World Cup - Shearer",
       "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&at_campaign=rss",
@@ -313,274 +577,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "2684960669de16",
-      "title": "Argentina v Austria: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup clash between Argentina and Austria.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/argentina-v-austria-prediction-preview",
-      "publishedAt": "2026-06-20T13:20:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "08b084e031855d",
-      "title": "Can Marcelo Bielsa's Uruguay stop their World Cup ...",
-      "summary": "After their 1-1 draw to Saudi Arabia, can Marcelo Bielsa's Uruguay find some momentum or will their World Cup end earlier than expected?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49107794/did-marcelo-bielsa-uruguay-stop-their-world-cup-unraveling",
-      "publishedAt": "2026-06-20T13:18:39.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f8428cb7cf0c4e",
-      "title": "Dargahi's path to Iran team is another example of ...",
-      "summary": "Dennis Dargahi earned Iranian citizenship through one of the nation's most famous actors so he could represent Team Melli at the 2026 World Cup, and his story isn't uni...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49117443/iran-world-cup-dennis-dargahi-diaspora-citizenship",
-      "publishedAt": "2026-06-20T13:18:38.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eb478250fb77f2",
-      "title": "Transfer rumors, news: Man City ahead of Man Unite...",
-      "summary": "England midfielder Elliot Anderson is looking more likely to join Manchester City than Manchester United this summer. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49124293/transfer-rumors-news-manchester-city-ahead-manchester-united-elliot-anderson-race",
-      "publishedAt": "2026-06-20T12:57:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8970ae30e1800f",
-      "title": "Man Utd told cut-price fee for Germany star as intermediaries work on ‘very realistic’ transfer",
-      "summary": "Manchester United could land the Borussia Dortmund star for a cut-price fee this summer as intermediaries work on a ‘very realistic’ transfer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-cut-price-fee-germany-star-very-realistic-transfer",
-      "publishedAt": "2026-06-20T12:56:49.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ad0160dbac7533",
-      "title": "Curacao's trailblazer doctor on football's big stage",
-      "summary": "Dr Suzanne Huurman is head of medical staff for Curacao's national men's side - the World Cup's smallest ever team by population and size.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckg08ewg9l2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T12:35:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e6f34be9001cf9",
-      "title": "Romano doubles down on Tonali as fourth of ‘seven signings’ for Tottenham this summer",
-      "summary": "Fabrizio Romano maintains that the “deal is on” for Tottenham to sign Sandro Tonali from Newcastle this summer despite reports of interest from Manchester City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-doubles-down-on-tonali-as-fourth-of-seven-signings-for-tottenham-this-summer",
-      "publishedAt": "2026-06-20T12:13:35.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "651bf41da65eb5",
-      "title": "Oh, brother! The sibling rivals lining up for different World Cup teams",
-      "summary": "Sibling rivals are lining up for different teams at the World Cup, with seven pairs of brothers in total at this tournament.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce3ev0v7ge4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T11:55:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9deb6826376931",
-      "title": "Why are so many World Cup goals being scored late?",
-      "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T11:39:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "29a78d7fd807f8",
-      "title": "Wright makes bold USA World Cup prediction as Zlatan gets giddy – ‘Start believing’",
-      "summary": "Ian Wright has tipped the USA to reach the latter stages of the World Cup and Zlatan Ibrahimovic is getting giddy over their chances this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/wright-makes-bold-usa-world-cup-prediction-as-zlatan-gets-giddy-start-believing",
-      "publishedAt": "2026-06-20T11:29:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4602e636b2eaf7",
-      "title": "What next for McAtee amid Anderson uncertainty?",
-      "summary": "After struggling to break through at Nottingham Forest last season, will James McAtee get his chance if Elliot Anderson leaves for Manchester City?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c20yxg90yv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T11:26:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "471271a23c4bce",
-      "title": "David Raya: ‘When you lose a Champions League final it destroys you inside’",
-      "summary": "The goalkeeper discusses being bullied by 35-year-olds in the English fifth tier, winning the Premier League and competition in the Spain squad “No, no, there’s someone...",
+      "id": "b56810425ddaab",
+      "title": "Football Daily | Turkey need another rebrand after failing to take flight at World Cup",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Turkey changed to Türkiye in 2022, president Recep Tayyip Erdoğan announced it was because the new name was “th...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/20/david-raya-when-you-lose-a-champions-league-final-it-destroys-you-inside",
-      "publishedAt": "2026-06-20T11:00:04.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/20/turkey-exit-tears-world-cup-2026-football-daily-newsletter",
+      "publishedAt": "2026-06-20T13:22:15.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
-        "Champions League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac806db6f2332a",
-      "title": "Ayden Heaven faces Man Utd axe as Red Devils chase Leeds veteran",
-      "summary": "Ayden Heaven could be sacrificed by Manchester United if the Red Devils succeed in landing a Leeds veteran this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ayden-heaven-faces-man-utd-axe-as-red-devils-chase-leeds-veteran",
-      "publishedAt": "2026-06-20T10:45:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5ce5db80265ddd",
-      "title": "Man Utd denied top target after West Ham reach transfer decisions on high-profile trio",
-      "summary": "West Ham chief Kretinsky is desperate to avoid a mass exodus this summer and a report details what that means for Man Utd chase of Mateus Fernandes and Crysencio Summer...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-denied-top-target-west-ham-transfer-decision",
-      "publishedAt": "2026-06-20T10:28:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "472275c0dff86d",
-      "title": "Inside Real Madrid's transfer plans: Mourinho key ...",
-      "summary": "José Mourinho's predecessors at Real Madrid were frustrated by a lack of control over transfers, but he's changing the age profile for instant success.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49115778/inside-real-madrid-transfer-plans-mourinho-pulling-strings-build-win-now-team",
-      "publishedAt": "2026-06-20T09:48:37.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "3200006b191caa",
-      "title": "'Everything I do is for you' - how tragedy is driving Diomande",
-      "summary": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T08:56:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "73424a52c23ed7",
-      "title": "White House in talks over Iran travel restrictions",
-      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T08:52:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac458af6456522",
-      "title": "Newcastle in ‘talks’ with Arsenal over £39m transfer as ‘cheaper’ alternative to Liverpool star",
-      "summary": "Newcastle have ‘held talks’ with Arsenal over Gabriel Martinelli as one of three left-wing targets as they believe he ‘could be cheaper’ than a Liverpool alternative.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-talks-arsenal-39m-transfer-cheaper-alternative-liverpool-star",
-      "publishedAt": "2026-06-20T08:39:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2bf1fe9a9821e2",
-      "title": "USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
-      "summary": "Max Rushden is joined by Barry Glendenning , Lars Sivertsen , Seb Hutchinson, Jack Snape , Alex Abnos and Ewan Murray as the USA progress to the round of 32 Continue re...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/20/usa-go-supersonic-in-seattle-and-morocco-squeeze-past-scotland-world-cup-daily",
-      "publishedAt": "2026-06-20T08:31:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a6b13848097bba",
-      "title": "World Cup groups separated by head-to-head records for first time",
-      "summary": "Fifa is using head-to-head records instead of group goal difference as the first tiebreaker for teams who are level on points at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T08:25:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup",
         "Fifa"
       ]
