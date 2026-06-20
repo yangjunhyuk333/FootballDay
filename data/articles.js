@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-19T19:54:39.789Z",
+  "generatedAt": "2026-06-20T04:08:03.034Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "0f73c42ea99e0e",
-      "title": "Royal Ascot day 5 preview: International stars set to light up final day",
-      "summary": "Sky Sports Racing's Kieran O'Sullivan previews the feature on the fifth and final day of Royal Ascot, the Queen Elizabeth II Jubilee Stakes.",
+      "id": "339471394f8a4d",
+      "title": "Penalty controversy as Scotland punished by early Morocco strike",
+      "summary": "Scotland were denied at least one penalty as hopes of creating history at the World Cup suffered a blow against Morocco.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13555274/royal-ascot-day-5-preview-internationals-stars-set-to-light-up-final-day",
-      "publishedAt": "2026-06-19T19:54:39.373Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e6d87949fad4b0",
-      "title": "World Cup news: Canada's Kone releases statement after broken leg",
-      "summary": "World Cup news: Canada's Kone releases statement after broken leg",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "publishedAt": "2026-06-19T19:54:39.372Z",
+      "url": "https://www.skysports.com/football/scotland-vs-morocco/report/549795",
+      "publishedAt": "2026-06-20T04:08:03.030Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -125,29 +112,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c43673e0f7fb84",
-      "title": "Janse van Rensburg makes debut as England fall to France in non-cap international",
-      "summary": "Benhard Janse van Rensburg’s hopes of a try-scoring England debut were dashed by fumbling hands as France emerged conclusive 35-19 winners in their non-cap internationa...",
+      "id": "7c2bff979b6e4e",
+      "title": "Papers: Rashford an injury worry for England",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13555917/france-35-19-england-benhard-janse-van-rensburg-makes-debut-for-uncapped-xv-as-costly-errors-lead-to-defeat",
-      "publishedAt": "2026-06-19T19:54:39.372Z",
+      "url": "https://www.skysports.com/football/news/12040/13555947/marcus-rashford-england-forward-an-injury-worry-ahead-of-world-cup-game-with-ghana-paper-talk",
+      "publishedAt": "2026-06-20T04:08:03.030Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "0bad1857111b1e",
-      "title": "Oval Test becoming 'Root's worst nightmare' as interim captain",
-      "summary": "Stuart Broad says the second Test is becoming England interim captain Joe Root's \"worst nightmare\" with New Zealand in a dominant position against an inexperienced home...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13555921/england-vs-new-zealand-second-test-becoming-joe-roots-worst-nightmare-as-interim-captain-says-stuart-broad-with-young-side-toiling",
-      "publishedAt": "2026-06-19T19:54:39.371Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
+        "Transfer"
       ]
     },
     {
@@ -156,11 +130,309 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sophie Ecclestone expects Charlie Dean to return to the England captaincy \"like a duck to water\" for their next two matches at the Women's T20 World Cup.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13555923/sophie-ecclestone-england-spinner-backs-charlie-deans-return-as-captain-vs-scotland-after-nat-sciver-brunt-injury",
-      "publishedAt": "2026-06-19T19:54:39.369Z",
+      "publishedAt": "2026-06-20T04:08:03.030Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "f8e01ca13b6881",
+      "title": "Cunha strikes twice as Brazil earn comfortable win over Haiti",
+      "summary": "Matheus Cunha kick-started Brazil’s World Cup campaign by scoring twice in a comfortable 3-0 victory over Haiti in Group C.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brazil-vs-haiti/report/549794",
+      "publishedAt": "2026-06-20T04:08:03.030Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0bad1857111b1e",
+      "title": "Oval Test becoming 'Root's worst nightmare' as interim captain",
+      "summary": "Stuart Broad says the second Test is becoming England interim captain Joe Root's \"worst nightmare\" with New Zealand in a dominant position against an inexperienced home...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13555921/england-vs-new-zealand-second-test-becoming-joe-roots-worst-nightmare-as-interim-captain-says-stuart-broad-with-young-side-toiling",
+      "publishedAt": "2026-06-20T04:08:03.030Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "75bea949221a50",
+      "title": "Turkey v Paraguay: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Sam A surprise start for attacker Isidro Pitta , who was so ce...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "publishedAt": "2026-06-20T03:56:35.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a3d55e5a48d96c",
+      "title": "Cunha scores twice as Brazil beat Haiti",
+      "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T03:06:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "487fff3123576b",
+      "title": "Brazil sweep into form as Cunha’s quickfire double sparks World Cup win over Haiti",
+      "summary": "Matheus Cunha scored twice as Brazil moved top of World Cup Group C with a 3-0 win over Haiti. Vinícius Júnior netted the third, with all of the goals coming in a first...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report",
+      "publishedAt": "2026-06-20T03:05:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "70cdfe3af96295",
+      "title": "Manchester United man solves Carlo Ancelotti’s biggest problem as Brazil arrive at the 2026 World Cup",
+      "summary": "Matheus Cunha’s brace against Haiti proved Carlo Ancelotti has solved Brazil’s biggest problem at the 2026 World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-man-utd-man-solves-carlo-ancelotti-problem-brazil-world-cup-haiti",
+      "publishedAt": "2026-06-20T02:44:57.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Spurs get new offer as Van der Ven scramble starts",
+      "summary": "Barcelona are keen on Micky van de Ven, while Tottenham Hotspur have received a £45million offer for another of their centre-backs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-06-20T02:10:01.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: England up to third after game of the tournament so far",
+      "summary": "Doesn’t take much for the England major tournament hype train to start chugging out of the station, and winning 4-2 in the best game of the opening round will certainly...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-20T01:45:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f5693b09e7ea05",
+      "title": "'Big decisions went against Scotland'",
+      "summary": "BBC Sport Scotland's Liam McLeod and James McFadden analyse the three key decisions that went against Scotland during their World Cup Group C 1-0 defeat against Morocco.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/c1myz9xye7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T01:23:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "77d74e1bc2660f",
+      "title": "Morocco 'got away with one' - McGinn",
+      "summary": "Scotland's John McGinn feels Morocco \"got away with one\" after he was not awarded a penalty in the second half of their World Cup Group C match in Boston.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/c5yzl0jxkd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T01:19:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9ef11d3c339acd",
+      "title": "Should Scotland have had two penalties & been playing against 10 men?",
+      "summary": "Were Scotland hard done by in Boston in losing 1-0 to Morocco in their second game of the World Cup finals?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c3vydkrd5dvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T00:55:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80faf1d48850ac",
+      "title": "Scotland fall to narrow defeat against Morocco",
+      "summary": "Scotland concede after 71 seconds and fall to a World Cup defeat against a classy Morocco, but their hopes of a historic knock-out place remain in their own hands with...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-20T00:47:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4e86db2d7cc603",
+      "title": "Saibari strikes after 70 seconds as Morocco puncture Scotland’s World Cup party",
+      "summary": "Scotland would have taken this outcome after 70 seconds. Ismael Saibiri had fired this highly-rated Moroccan team ahead. Men in kilts gulped under the blazing Massachus...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/20/scotland-morocco-world-cup-match-report",
+      "publishedAt": "2026-06-20T00:07:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3c529e09d43875",
+      "title": "'Nightmare start for Scotland' - Morocco score after 71 seconds",
+      "summary": "Morocco's Ismael Saibari stuns Scotland with a superb finish after just 71 seconds in their World Cup Group C game in Boston.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cd7wg71r38no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T23:59:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f5b08a44c9f48d",
+      "title": "Did key decisions go against Scotland in Morocco match?",
+      "summary": "Should Scotland feel aggrieved after three key decisions in their World Cup Group C match against Morocco in Boston?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/c2lye1qkz91o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T23:59:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f16ad684a3ce12",
+      "title": "The Super Bowl winner's son stepping into spotlight with USA",
+      "summary": "Alex Freeman is stepping out of the shadows of his Super Bowl-winning father to forge his own path in football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T23:31:23.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "79781154c6e764",
+      "title": "US brush Australia aside to advance into World Cup last 32",
+      "summary": "Mauricio Pochettino’s side made it through to the knockout stage of the World Cup by beating Australia in Seattle",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/usa-result-victory-australia-qualify-world-cup-last-32",
+      "publishedAt": "2026-06-19T21:53:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3efaaf6d13f03b",
+      "title": "Gary Lineker to appear as special guest on ITV during World Cup broadcast",
+      "summary": "Former Match of the Day presenter left BBC last year Lineker to feature in coverage of Germany v Côte d’Ivoire Gary Lineker has been booked to appear as a special guest...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/gary-lineker-to-appear-as-special-guest-on-itv-during-world-cup-broadcast",
+      "publishedAt": "2026-06-19T21:51:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9d67a6a9d9924e",
+      "title": "USA qualify for last 32 after comfortable win over Australia",
+      "summary": "The United States take a huge step towards winning their World Cup group beating Australia 2-0 with a dominant, high-energy performance in front of a boisterous sellout...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/c30ylqjmpgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T21:46:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "081d0c17ffc188",
+      "title": "USA don’t need Captain America to win Socceroos war",
+      "summary": "United States settled their grudge with Australia by asserting their dominance and strength to show their president how to win a war…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/usa-united-states-2-0-australia-world-cup-reaction-pochettino-popovic-grella",
+      "publishedAt": "2026-06-19T21:35:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Soccer"
+      ]
+    },
+    {
+      "id": "fbf3a5feafc463",
+      "title": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
+      "summary": "Whatever the result, soccer was always going to win. But on a hot and bright Friday afternoon in the pacific north-west, the word had an American accent. The United Sta...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
+      "publishedAt": "2026-06-19T21:25:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "351fe19690a1d7",
+      "title": "Spurs to enter Wharton chase - Saturday's gossip",
+      "summary": "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan Diomande, Fulham fail with their opening bid for Chibuike Nwaiwu, pl...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-19T19:56:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter"
       ]
     },
     {
@@ -173,21 +445,6 @@ window.FOOTBALLDAY_DATA = {
       "category": "transfer",
       "region": "italy",
       "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "2b7feb410ed2ad",
-      "title": "USA v Australia: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off time: noon local/3pm ET/8pm BST/5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau The atmosphere here at Lumen Field (excuse me, Seattle Sta...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
-      "publishedAt": "2026-06-19T19:40:35.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
         "Inter"
       ]
     },
@@ -331,265 +588,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "World Cup",
         "Fifa"
-      ]
-    },
-    {
-      "id": "048904ef00b3e1",
-      "title": "Who are Morocco's players to look out for against Scotland?",
-      "summary": "Scotland face Morocco in their second group game of the 2026 World Cup. BBC Sport takes a look at the Morocco players to look out for.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c78y69pe266o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T14:04:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bb116e130be14e",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T13:52:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "dfd2fc12873945",
-      "title": "Chelsea in swap ‘talks’ for £34m Cucurella replacement as Fernandez ‘agreement’ reached with Real Madrid",
-      "summary": "Chelsea have ‘held talks’ with Juventus over a swap deal for Andrea Cambiaso, who’s emerged a the Blues’ leading target to replace Marc Cucurella at Stamford Bridge.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-swap-34m-cucurella-replacement-agreement-reached-real-madrid",
-      "publishedAt": "2026-06-19T13:43:43.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Chelsea",
-        "Real Madrid",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "c0bcacb7f13d14",
-      "title": "England star offers Rice reward to Man City and ‘scarred’ Manchester United",
-      "summary": "Man City are wary of paying a record fee for Elliot Anderson, and Man Utd seem terrified, but the England midfielder will be worth the money…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/elliot-anderson-transfer-man-city-united-england-world-cup-declan-rice",
-      "publishedAt": "2026-06-19T13:38:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "69ed01e2e358e8",
-      "title": "Kylian Mbappe’s ‘dream’ signing for Real Madrid revealed – not Enzo Fernandez or Julian Alvarez",
-      "summary": "The Spanish media has revealed the name of the player that Kylian Mbappe would love to sign for Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-michael-olise-dream-real-madrid-signing",
-      "publishedAt": "2026-06-19T13:25:08.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "b202458c907531",
-      "title": "Nike v Adidas - the World Cup brand battle",
-      "summary": "Eye-watering budgets are nothing new, but this year both Nike and Adidas have gone bigger and bolder than ever before in the fight for World Cup attention.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c75y7py2lxdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T13:01:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "dc4c7aae6c9112",
-      "title": "Man Utd: Carrick succeeds in changing INEOS’ Rashford ‘idea’ – ‘Wants to work with him’",
-      "summary": "Michael Carrick ‘wants to work’ with Marcus Rashford at Manchester United next season and he could get his wish amid reports of a change of stance from INEOS.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-carrick-succeeds-in-changing-ineos-rashford-idea-wants-to-work-with-him",
-      "publishedAt": "2026-06-19T12:55:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "85ccfb37973d9c",
-      "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-      "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T12:43:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "d26e7a23c7383a",
-      "title": "The 20 most expensive goalkeepers ever: Arsenal evolution summed up by three appearances",
-      "summary": "Arsenal are the only club to make as many as three of the 20 most expensive goalkeeper signings in football history.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/20-most-expensive-goalkeepers-ever-transfer-history",
-      "publishedAt": "2026-06-19T12:42:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6b2f870d4d8e0e",
-      "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-      "summary": "Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it They came, they saw and they went to the rodeo. For th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
-      "publishedAt": "2026-06-19T12:42:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7e6d858e20a317",
-      "title": "World Cup quiz: Who has most Scotland appearances?",
-      "summary": "Test your knowledge of Scotland players with at least five appearances at World Cups.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckgpl54ndpqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T12:32:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "563a1132fee274",
-      "title": "Gavi namechecks Julian Alvarez, top Spain star as two dream Barcelona signings",
-      "summary": "Argentina frontman Alvarez remains insistent on a move to Barca this summer, but reports of an ‘agreed’ Arsenal switch continues to complicate matters",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gavi-namechecks-julian-alvarez-mikel-oyarzabal-dream-barcelona-signings",
-      "publishedAt": "2026-06-19T12:32:07.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "a3903842891668",
-      "title": "Two World Cup matches were played in ‘severe heat’, analysis finds",
-      "summary": "Games in Miami and Monterrey were at heat level a players’ union had warned in the past should trigger delays Two of the first round of matches at the World Cup were pl...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis",
-      "publishedAt": "2026-06-19T12:30:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "966993425036c7",
-      "title": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
-      "summary": "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas Tuchel's big selection dilemmas.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T12:20:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3041bc2d6b82ad",
-      "title": "Mateus Fernandes reacts after Tottenham make ‘contacts’ as Man Utd learn stance on ‘move’",
-      "summary": "West Ham United midfielder Mateus Fernandes has picked his preference between Manchester United and Tottenham Hotspur.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-tottenham-hotspur-west-ham-united-mateus-fernandes",
-      "publishedAt": "2026-06-19T12:13:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "421882beb42045",
-      "title": "Fifa bans football club's submarine badge on flag",
-      "summary": "The Barrow flag is banned from World Cup stadiums as it includes a depiction of military equipment.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/news/articles/cpwe7p7z0p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T12:11:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "d93dec88641767",
-      "title": "Tottenham must get in transfer lane after fighting losing battles for £335m quartet",
-      "summary": "Sandro Tonali? Mateus Fernandes? Adam Wharton? Who do Tottenham think they are? At some stage this summer they’re going to be forced into their transfer lane.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-tottenham-transfer-lane-fighting-losing-battle-335m-quartet",
-      "publishedAt": "2026-06-19T11:46:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "999519bb232e64",
-      "title": "Euro giants cancel transfer to Arsenal despite attacker ‘welcoming’ Gunners interest",
-      "summary": "Arsenal have been hit by a huge blow to their hopes of signing Juventus attacker Kenan Yildiz this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-juventus-cancel-yildiz-transfer-welcome",
-      "publishedAt": "2026-06-19T11:44:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Inter",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "faf1b125b6663f",
-      "title": "The US World Cup star who couldn't be an American under Trump's plan",
-      "summary": "Folarin Balogun scored two goals on his World Cup debut, but he is the type of person President Trump is trying to ban under birthright citizenship.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-19T11:21:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
