@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T04:49:09.893Z",
+  "generatedAt": "2026-06-21T09:56:52.375Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,29 +99,29 @@
       "pinned": true
     },
     {
-      "id": "57e98129b8129c",
-      "title": "Papers: Former Newcastle co-owners consider West Ham takeover",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "id": "c9af9f6195efb4",
+      "title": "Ueda stars as Japan end Tunisia's World Cup with dominant win",
+      "summary": "Japan delivered a ruthlessly punishing performance to thrash Tunisia 4-0 in Guadalupe, ending the African side's World Cup before it really got going.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556243/paper-talk-ex-newcastle-owners-amanda-staveley-and-mehrdad-ghodoussi-consider-west-ham-takeover",
-      "publishedAt": "2026-06-21T04:49:09.669Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/tunisia-vs-japan/report/549801",
+      "publishedAt": "2026-06-21T09:56:52.077Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Transfer"
+        "World Cup"
       ]
     },
     {
-      "id": "9fc01ee94fd61b",
-      "title": "Almeraq bounces back to win Royal Ascot sprint spectacular",
-      "summary": "Almeraq got the better of a blanket finish in winning the battle of the international speedsters for Tom Marquand and William Haggas in the Queen Elizabeth II Jubilee S...",
+      "id": "434857343d9e92",
+      "title": "Undav clinches win over Ivory Coast as Germany reach knockouts",
+      "summary": "Deniz Undav's 94th-minute goal clinched a come-from-behind 2-1 victory for Germany against Ivory Coast in Group E to send them into the World Cup knockout stages.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13556207/royal-ascot-almeraq-steals-the-show-in-queen-elizabeth-ii-jubilee-stakes-after-giavellotto-wins-the-hardwicke-stakes",
-      "publishedAt": "2026-06-21T04:49:09.669Z",
-      "category": "transfer",
-      "region": "italy",
+      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
+      "publishedAt": "2026-06-21T09:56:52.077Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Inter"
+        "World Cup"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "summary": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-06-21T04:49:09.668Z",
+      "publishedAt": "2026-06-21T09:56:52.077Z",
       "category": "transfer",
       "region": "england italy germany",
       "tags": [
@@ -145,7 +145,7 @@
       "summary": "Stand-in skipper Charlie Dean guided England to a 38-run victory over Scotland at Headingley as the hosts continued their unbeaten start to the ICC Women's T20 World Cup.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13556126/womens-t20-world-cup-sophia-dunkley-and-sophie-ecclestone-help-england-to-win-against-scotland-at-headingley",
-      "publishedAt": "2026-06-21T04:49:09.668Z",
+      "publishedAt": "2026-06-21T09:56:52.077Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -154,11 +154,11 @@
     },
     {
       "id": "b4bc4039888f50",
-      "title": "Curacao earn first point as incredible Room makes history in Ecuador draw",
+      "title": "History makers! Curacao earn first point, keeper records most saves at WC",
       "summary": "Curacao goalkeeper Eloy Room made history with an incredible 15 saves to earn his country their first ever World Cup point by holding Ecuador to a 0-0 draw in Group E.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ecuador-vs-curacao/report/549799",
-      "publishedAt": "2026-06-21T04:49:09.668Z",
+      "publishedAt": "2026-06-21T09:56:52.077Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -166,12 +166,12 @@
       ]
     },
     {
-      "id": "434857343d9e92",
-      "title": "Undav clinches win over Ivory Coast as Germany reach knockouts",
-      "summary": "Deniz Undav's 94th-minute goal clinched a come-from-behind 2-1 victory for Germany against Ivory Coast in Group E to send them into the World Cup knockout stages.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
-      "publishedAt": "2026-06-21T04:49:09.667Z",
+      "id": "504d12c8c61eb9",
+      "title": "Dutch royals enjoy two big results in one World Cup day",
+      "summary": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T09:45:57.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -179,25 +179,199 @@
       ]
     },
     {
-      "id": "c6c817e07c9ed9",
-      "title": "Tunisia v Japan: World Cup 2026 – live",
-      "summary": "⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan Changes for Japan too with Tomiyasu and Itakura stiff...",
+      "id": "6b279a0a1fe9bf",
+      "title": "Just's rise from Austrian second tier to World Cup breakout star",
+      "summary": "BBC Scotland charts a rapid rise that has taken the Motherwell attacking midfielder from second-division football to the game's grandest stage.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cr7pr9j23dyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T09:44:29.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f2129cc48d6f91",
+      "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+      "summary": "⚽ All the latest news from day 10 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us World Cup team of the tournament so far: John Brewin, Marcus C...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
-      "publishedAt": "2026-06-21T04:44:21.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt",
+      "publishedAt": "2026-06-21T09:42:13.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
-        "Fifa",
         "Inter"
+      ]
+    },
+    {
+      "id": "8c11014a8794ef",
+      "title": "World Cup quiz: Name every Golden Boot winner",
+      "summary": "How many World Cup top goalscorers from down the years can you name?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpjw4wd21o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T09:25:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "27d4d083754e41",
+      "title": "Gary Neville tips Man Utd to land World Cup star over Mateus Fernandes",
+      "summary": "Gary Neville reckons Man Utd might be better off pursuing a deal to sign Felix Nmecha this summer over West Ham midfielder Mateus Fernandes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-neville-nmecha-transfer-fernandes-west-ham",
+      "publishedAt": "2026-06-21T09:12:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5b72029791970e",
+      "title": "Man Utd accelerate towards ‘full transfer agreement’ for next signing after personal terms deal",
+      "summary": "Man Utd are accelerating towards a deal to sign West Ham midfielder Mateus Fernandes this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-accelerate-full-transfer-agreement-next-signing-personal-terms-west-ham",
+      "publishedAt": "2026-06-21T08:14:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "a7c3eab50dac2d",
+      "title": "Liverpool: Details of ‘new offer’ for Yan Diomande with Reds ‘growing increasingly confident’",
+      "summary": "Liverpool are set to make a new offer to sign RB Leipzig winger Yan Diomande after their first bid was rejected, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-new-offer-yan-diomande-very-tempted",
+      "publishedAt": "2026-06-21T07:47:02.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d9e536491ad7cd",
+      "title": "Arsenal ‘threaten’ Man Utd pursuit of top attacking target as Arteta makes £77m star a ‘priority’",
+      "summary": "Arsenal head coach Mikel Arteta has made top Man Utd target Igor Thiago a ‘priority’ this summer as they look for a top striker.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-threatens-man-utd-thiago-brentford-arteta-priority",
+      "publishedAt": "2026-06-21T06:59:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f403dff17e2753",
+      "title": "Japan thrash Tunisia in commanding win in the World Cup’s 1000th match",
+      "summary": "Japan delivered a commanding 4-0 win over Tunisia in the World Cup’s 1,000th match on Saturday…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/japan-tunisia-world-cup-match-report",
+      "publishedAt": "2026-06-21T06:27:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "78a90f266b2976",
+      "title": "Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match",
+      "summary": "Two goals from Ueda, plus strikes by Kamada and Ito, sealed the fate of Tunisia and their new coach Hervé Renard Perhaps the manager wasn’t the problem after all. Tunis...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report",
+      "publishedAt": "2026-06-21T06:22:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "177dd368742bbf",
+      "title": "Who am I? Guess World Cup star No 14",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c3e2wj9ppy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T06:12:41.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ef49533bf84331",
+      "title": "Lineker, Lampard and Le Tissier link up in England L-Team",
+      "summary": "England top Group L at the World Cup but would Lineker, Lampard and Le Tissier inspire the L-Team to alphabet-based victory?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lineker-lampard-le-tissier-england-l-team",
+      "publishedAt": "2026-06-21T06:10:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9817ef462e2b8",
+      "title": "Brian Brobbey bags a brace and Deniz Undav, supersub: World Cup Daily – podcast",
+      "summary": "Max Rushden is joined by Barry Glendenning , Dan Bardell and Leander Schaerlaeckens after the Netherlands thrash Sweden and Germany get a late winner against Côte d’Ivo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/audio/2026/jun/21/brian-brobbey-netherlands-sweden-germany-deniz-undav-curacao-ecuador",
+      "publishedAt": "2026-06-21T05:15:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "332790cba7cb07",
+      "title": "Goalline technology denies Japan goal by fractions",
+      "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadi...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T05:01:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d2c31bca6bea39",
+      "title": "Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
+      "summary": "Miguel Almirón sent off against Turkey for covering mouth Socceroos face South Americans in crucial last Group D match Socceroo Jackson Irvine has backed the decision b...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/21/australias-jackson-irvine-has-no-sympathy-for-paraguay-after-historic-world-cup-red-card",
+      "publishedAt": "2026-06-21T04:50:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
       "id": "1ccfa3c3690e58",
       "title": "Meet the record-equalling keeper who helped Curacao make history",
-      "summary": "Curacao keeper Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point with their goalless draw against Ecuador.",
+      "summary": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-21T04:29:28.000Z",
@@ -236,7 +410,7 @@
     },
     {
       "id": "8d9fa5d8d83532",
-      "title": "Curaçao stand firm and claim historic first World Cup point against Ecuador",
+      "title": "Room shuts door as Curaçao claim historic first World Cup point against Ecuador",
       "summary": "It’s doubtful whether many Ecuador supporters – or many others for that matter – had ever heard the name Eloy Room before this match. They will never forget it now. Wat...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
@@ -359,20 +533,6 @@
       ]
     },
     {
-      "id": "35134ef7663e06",
-      "title": "Deniz Undav’s double earns Germany dramatic late win against Côte d’Ivoire",
-      "summary": "Some footballing stereotypes just will not fade away. Germany may no longer be the mirthless, methodical winning machine who would slowly maul their opponents until the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/20/germany-cote-divoire-group-e-match-report",
-      "publishedAt": "2026-06-20T22:17:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "a614016dd1fb65",
       "title": "Chelsea weigh up Wirtz move - Sunday's gossip",
       "summary": "Chelsea considering Florian Wirtz move, Felix Nmecha open to England return and Aston Villa among Nick Woltemade suitors, plus more.",
@@ -422,169 +582,6 @@
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "c7f4f65d94ed24",
-      "title": "Netherlands thrash Sweden to all but guarantee last-32 place",
-      "summary": "Brian Brobbey and Cody Gakpo score two goals apiece as the Netherlands cruise past Sweden 5-1 to all but mathematically guarantee a place in the last 32 of the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c17yl58xlpdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T19:36:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fef46ef1ffb2c2",
-      "title": "Arsenal, Liverpool pair cost £189m and were shamed by £17m striker masterclass from the Dutch",
-      "summary": "Alexander Isak and Viktor Gyokeres cost slightly more than Brian Brobbey, but it was the Sunderland man who put on the centre-forward clinic.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/isak-gyokeres-arsenal-liverpool-189m-shamed-netherlands-masterclass-brobbey",
-      "publishedAt": "2026-06-20T19:34:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1382a494f2858b",
-      "title": "Real Madrid deny contact with Bayern's Olise",
-      "summary": "Real Madrid deny reports linking them with Bayern Munich and France winger Michael Olise.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cly7m1mvr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T19:04:13.000Z",
-      "category": "league",
-      "region": "spain germany",
-      "tags": [
-        "Real Madrid",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "aed56222c8c86a",
-      "title": "The brilliant Michael Olise represents a key faultline in history of French football | Jonathan Wilson",
-      "summary": "Unusually in the France side, he plays with a sense of freedom and has not yet submitted fully to Deschamps’s tactical yoke Michael Olise is probably the best creative...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps",
-      "publishedAt": "2026-06-20T19:00:09.000Z",
-      "category": "worldcup",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "4f7c5ec2ccba9a",
-      "title": "Gakpo fires home the 100th goal of this World Cup",
-      "summary": "Cody Gakpo scores the 100th goal of this World Cup as he his second of the game to put Netherlands 4-0 ahead against Sweden.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cn75dex8dg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T18:48:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab7e09e35e63b4",
-      "title": "Take me home: why Country Roads has struck a chord at the World Cup",
-      "summary": "John Denver’s classic has been belted out during US matches at this tournament. Its appeal lies in the story it tells about a united America Lumen Field was designed fo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
-      "publishedAt": "2026-06-20T18:45:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0321076ff93bcd",
-      "title": "Scotland’s World Cup destiny is in their own hands but lack of gamechangers shows | Ewan Murray",
-      "summary": "Questions remain before battle with Brazil after narrow defeat by Morocco leaves fans looking at last-32 permutations The permutations Steve Clarke is so desperate to a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/20/scotland-2026-world-cup-destiny-morocco-brazil-steve-clarke",
-      "publishedAt": "2026-06-20T18:13:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ba0a611b525b72",
-      "title": "Saka trains alone as England prepare for Ghana game",
-      "summary": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T18:02:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "661b05e4d08d41",
-      "title": "Brobbey scores twice against Sweden",
-      "summary": "Brian Brobbey scores twice in the first half in Netherland's World Cup match with Sweden.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cvgq90lvyklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T17:57:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b2f0e1f95d5e33",
-      "title": "Real Madrid release Michael Olise statement amid sensational ‘€200m bid’ claims",
-      "summary": "Los Blancos have reportedly drawn up a spectacular €200m (£173m) offer to sign Olise from Bayern, and they have subsequently released a statement",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-transfer-news-michael-olise-statement-e200-million-bid-bayern-munich",
-      "publishedAt": "2026-06-20T17:43:55.000Z",
-      "category": "transfer",
-      "region": "spain germany",
-      "tags": [
-        "Real Madrid",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "d555395adb068e",
-      "title": "How does qualification for the World Cup knockout stage work?",
-      "summary": "With the second round of group-stage matches under way, we assess who can play who in the knockout rounds - and how they can get there.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cp8l6zj8441o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T16:24:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "The summer transfer window is only just officially open but that hasn’t stopped some big clubs from spending big money…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-06-20T16:06:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     }
   ],
