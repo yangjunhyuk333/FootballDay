@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-21T09:56:52.375Z",
+  "generatedAt": "2026-06-21T14:20:52.654Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Japan delivered a ruthlessly punishing performance to thrash Tunisia 4-0 in Guadalupe, ending the African side's World Cup before it really got going.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tunisia-vs-japan/report/549801",
-      "publishedAt": "2026-06-21T09:56:52.077Z",
+      "publishedAt": "2026-06-21T14:20:52.237Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -112,40 +112,65 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "434857343d9e92",
-      "title": "Undav clinches win over Ivory Coast as Germany reach knockouts",
-      "summary": "Deniz Undav's 94th-minute goal clinched a come-from-behind 2-1 victory for Germany against Ivory Coast in Group E to send them into the World Cup knockout stages.",
+      "id": "2f3b3ed0e699aa",
+      "title": "Eight signings? De Zerbi's transfer plans to rebuild Tottenham this summer",
+      "summary": "Never again. That was the promise made by Tottenham chief executive Vinai Venkatesham and non-executive chairman Peter Charrington after narrowly avoiding relegation fr...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/germany-vs-ivory-coast/report/549798",
-      "publishedAt": "2026-06-21T09:56:52.077Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7bc983c786f565",
-      "title": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
-      "summary": "Transfer Centre LIVE! RB Leipzig name huge Diomande price amid Liverpool interest",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-06-21T09:56:52.077Z",
+      "url": "https://www.skysports.com/football/news/12040/13556354/tottenham-transfer-news-roberto-de-zerbis-transfer-plans-to-rebuild-spurs-this-summer-as-sandro-tonali-deal-targeted",
+      "publishedAt": "2026-06-21T14:20:52.237Z",
       "category": "transfer",
-      "region": "england italy germany",
+      "region": "england",
       "tags": [
-        "Transfer",
-        "Liverpool",
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "90271452b630e4",
+      "title": "West Indies stay unbeaten ahead of England T20 World Cup clash",
+      "summary": "West Indies ensured they will face England at Lord's on Wednesday boasting the same unbeaten record as the hosts after victory over Sri Lanka in Bristol in their third...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13556291/womens-t20-world-cup-west-indies-defeat-sri-lanka-by-five-wickets-to-stay-unbeaten-ahead-of-crunch-england-match",
+      "publishedAt": "2026-06-21T14:20:52.236Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cbf29d9f8253d2",
+      "title": "Has Bellingham's brilliance ended the No 10 debate for England?",
+      "summary": "For many, the debate about who should be England's No 10 at this World Cup is now over, after Jude Bellingham put in a 10/10 performance against Croatia.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13555646/world-cup-2026-jude-bellinghams-brilliance-against-croatia-ends-no-10-discussion-for-england-ahead-of-ghana-game",
+      "publishedAt": "2026-06-21T14:20:52.236Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5a1b6949eac8d3",
+      "title": "Kohli set to return for India against England in ODI series",
+      "summary": "Virat Kohli is set to return to India's team for the One Day International series against England in July.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13556353/virat-kohli-india-batter-set-for-odi-return-against-england-in-july-series-after-injury-as-visitors-name-squad",
+      "publishedAt": "2026-06-21T14:20:52.236Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
         "Inter"
       ]
     },
     {
-      "id": "8e6375f8b5154c",
-      "title": "Stand-in skipper Dean guides England to T20 World Cup win over Scotland",
-      "summary": "Stand-in skipper Charlie Dean guided England to a 38-run victory over Scotland at Headingley as the hosts continued their unbeaten start to the ICC Women's T20 World Cup.",
+      "id": "e6d87949fad4b0",
+      "title": "World Cup news: Doku to leave tournament for birth of his child",
+      "summary": "World Cup news: Doku to leave tournament for birth of his child",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13556126/womens-t20-world-cup-sophia-dunkley-and-sophie-ecclestone-help-england-to-win-against-scotland-at-headingley",
-      "publishedAt": "2026-06-21T09:56:52.077Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
+      "publishedAt": "2026-06-21T14:20:52.235Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -153,12 +178,211 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "b4bc4039888f50",
-      "title": "History makers! Curacao earn first point, keeper records most saves at WC",
-      "summary": "Curacao goalkeeper Eloy Room made history with an incredible 15 saves to earn his country their first ever World Cup point by holding Ecuador to a 0-0 draw in Group E.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ecuador-vs-curacao/report/549799",
-      "publishedAt": "2026-06-21T09:56:52.077Z",
+      "id": "98b3ce7fe5a419",
+      "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST ⚽️ Player guide | Bracketology | Golden Boot | Email John Can Saudi Arabia repeat the magic of 2022? Argentina arriv...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live",
+      "publishedAt": "2026-06-21T14:15:24.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "f2129cc48d6f91",
+      "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
+      "summary": "⚽ All the latest news from day 10 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us World Cup team of the tournament so far: John Brewin, Marcus C...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt",
+      "publishedAt": "2026-06-21T14:14:01.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b512f7076172bd",
+      "title": "Middlesbrough star warned against choosing ‘wrong club’ as Carrick leads Man Utd ‘push’",
+      "summary": "A Middlesbrough star who Michael Carrick wants to reunite with at Manchester United has been warned against choosing the “wrong club.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/middlesbrough-star-hackney-wrong-club-warning-carrick-man-utd",
+      "publishedAt": "2026-06-21T14:01:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f312447aad2a10",
+      "title": "The World Cup records that look set to be broken",
+      "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T13:55:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "85498c847c9b3e",
+      "title": "Arsenal backed to hijack Tottenham bid to replace Arteta starter, sign Rashford from Man Utd",
+      "summary": "Arsenal have been backed to sign Tottenham target Sandro Tonali and Man Utd forward Marcus Rashford this summer by Jermaine Jenas.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-backed-hijack-tottenham-bid-replace-zubimendi-rashford-man-utd",
+      "publishedAt": "2026-06-21T13:31:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "d769c10e68d8a5",
+      "title": "The beauty of sharing the first World Cup with your child",
+      "summary": "There is nothing like the first World Cup you can enjoy with your kid - and the wide-eyed wonder through which they see it.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cd957318ewdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T13:27:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5878bbcad74a03",
+      "title": "Football Daily | Guns for hire and gegenpress eggheads bring World Cup subplots aplenty",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! The awesome thing about a World Cup is that – unlike the Premier League where almost every elite-grade head coach co...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/21/football-daily-geopolitics-world-cup-maverick-managerial-matchups",
+      "publishedAt": "2026-06-21T13:26:56.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2e555908d32dc8",
+      "title": "What have we learned from Scotland's World Cup so far?",
+      "summary": "After a win over Haiti and a narrow defeat by Morocco, BBC Sport Scotland assesses what we have learned from Scotland's World Cup so far.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c79yq0yx10ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T13:14:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "19bce76137ce73",
+      "title": "Chelsea star reaches ‘agreement’ to join Real Madrid as £104m transfer takes shape",
+      "summary": "Chelsea midfielder Enzo Fernandez has reportedly reached an ‘agreement’ to seal a deal to Real Madrid if the two clubs can agree a fee.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-reaches-agreement-real-madrid-transfer",
+      "publishedAt": "2026-06-21T13:04:28.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c90e2f63f39039",
+      "title": "Carrick blocks shock Man Utd exit as Barcelona, Atletico Madrid make ‘contact’ over deal",
+      "summary": "Michael Carrick has been key to a ‘decision’ from Manchester United on the future on Benjamin Sesko, for whom Barcelona and Atletico Madrid are exploring a shock move f...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/benjamin-sesko-transfer-news-barcelona-atletico-madrid-man-utd-carrick-stance",
+      "publishedAt": "2026-06-21T12:08:38.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "08dc486fa17856",
+      "title": "Reds midfielder ‘considers time at Liverpool over’ as Euro giants ‘push hard’ for transfer",
+      "summary": "Liverpool midfielder Curtis Jones considers his time at Anfield ‘over’ as Inter Milan continue their pursuit, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-considers-time-over-inter-milan-transfer",
+      "publishedAt": "2026-06-21T12:03:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "a52b921686dc38",
+      "title": "Top Man Utd target reveals transfer to Old Trafford is ‘almost done’ after ‘medical’ claim",
+      "summary": "Atalanta midfielder Ederson has revealed that his long-anticipated move to Man Utd is “almost done” after claims he had a medical last week.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-ederson-transfer-almost-done-medical",
+      "publishedAt": "2026-06-21T11:15:55.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "563325ac3ee774",
+      "title": "Thomas Partey in spotlight as he faces England and former Arsenal teammates after rape charges",
+      "summary": "Ghana midfielder has denied all accusations as he prepares to begin his World Cup campaign in Boston on Tuesday The Football Association has remained coy over what will...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/21/thomas-partey-england-ghana-handshake",
+      "publishedAt": "2026-06-21T11:11:47.000Z",
+      "category": "worldcup",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f6e8edfe4df5e6",
+      "title": "England v Ghana: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup clash between England and Ghana.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/england-v-ghana-prediction-preview",
+      "publishedAt": "2026-06-21T10:57:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7664899415e4c9",
+      "title": "All three England keepers played there - Carlisle's role in trio's rise",
+      "summary": "From west Cumbria to the World Cup, Carlisle is England's goalkeeper factory, with all of Thomas Tuchel's goalkeepers passing through the club.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-21T10:43:54.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -193,21 +417,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f2129cc48d6f91",
-      "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
-      "summary": "⚽ All the latest news from day 10 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us World Cup team of the tournament so far: John Brewin, Marcus C...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt",
-      "publishedAt": "2026-06-21T09:42:13.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
       "id": "8c11014a8794ef",
       "title": "World Cup quiz: Name every Golden Boot winner",
       "summary": "How many World Cup top goalscorers from down the years can you name?",
@@ -230,6 +439,21 @@ window.FOOTBALLDAY_DATA = {
       "category": "transfer",
       "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5bd874c0ca184d",
+      "title": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup’s most compelling battle",
+      "summary": "Fox’s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winner We all know someone like Alexi Lalas. He’s the ranter whos...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
+      "publishedAt": "2026-06-21T09:00:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
         "World Cup"
       ]
     },
@@ -366,222 +590,6 @@ window.FOOTBALLDAY_DATA = {
         "Soccer",
         "World Cup",
         "Fifa"
-      ]
-    },
-    {
-      "id": "1ccfa3c3690e58",
-      "title": "Meet the record-equalling keeper who helped Curacao make history",
-      "summary": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T04:29:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1978f369e3afab",
-      "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
-      "summary": "We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico A star was born, at 40, when a player whose highest-profile...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars",
-      "publishedAt": "2026-06-21T04:00:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "93831a8e3a2777",
-      "title": "Impenetrable Room inspires Curacao to first World Cup point",
-      "summary": "Curacao goalkeeper Eloy Room equals the record for most saves in a World Cup match, as Dick Advocaat's side earn their first ever point in the tournament with a 0-0 dra...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c3dyvklky1mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T03:14:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8d9fa5d8d83532",
-      "title": "Room shuts door as Curaçao claim historic first World Cup point against Ecuador",
-      "summary": "It’s doubtful whether many Ecuador supporters – or many others for that matter – had ever heard the name Eloy Room before this match. They will never forget it now. Wat...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report",
-      "publishedAt": "2026-06-21T02:35:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6cb7444eec3e64",
-      "title": "Curacao hold Ecuador for historic first World Cup point after Eloy Room heroics",
-      "summary": "Curacao goalkeeper Eloy Room made a colossal 15 saves to earn his country a first-ever World Cup point against Ecuador.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/report-curacao-world-cup-eloy-room-ecuador",
-      "publishedAt": "2026-06-21T02:32:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "609a2ad310aa15",
-      "title": "Rice feels like he will get an assist at every corner",
-      "summary": "Declan Rice feels like he will get an assist \"every time\" he takes a corner - and says England fans should be \"excited\" for what is to come at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T01:03:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "38fd97ebfdea07",
-      "title": "England offer rare peek behind the curtain with no place to hide under Tuchel",
-      "summary": "There was more insight at the World Cup training base than usual with intensity on the rise under Thomas Tuchel The tall hooded figure kept barking instructions under a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/21/england-world-cup-training-intensity-peek-behind-curtain-thomas-tuchel",
-      "publishedAt": "2026-06-21T00:58:34.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "fbb278b7f72aa8",
-      "title": "From factory floor to World Cup star - Germany's super-sub Undav",
-      "summary": "It was not long ago that his manager Julian Nagelsmann called him out openly - but Deniz Undav is proving himself a key player for Germany at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T00:22:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "73cfad4cbbdf5f",
-      "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-      "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scorin...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T23:46:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2555ee714386aa",
-      "title": "Doku criticised over plan to return home for birth",
-      "summary": "Winger Jeremy Doku is criticised for saying he wants to leave Belgium's World Cup camp to be with his wife when she gives birth to their first child.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T23:21:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ef66191af5608b",
-      "title": "Next De Zerbi transfer obsession emerges as Liverpool target gives Neville ‘not pleasant’ flashbacks",
-      "summary": "Germany v Ivory Coast was a story of two former Brighton stars: one inspired by Roberto De Zerbi to take his chances; the other not so much.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-de-zerbi-transfer-obsession-liverpool-target-neville-flashbacks",
-      "publishedAt": "2026-06-20T23:04:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Liverpool and Man Utd overtake Arsenal",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but have been overtaken by four clubs – including two Premier League rivals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-20T23:04:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a614016dd1fb65",
-      "title": "Chelsea weigh up Wirtz move - Sunday's gossip",
-      "summary": "Chelsea considering Florian Wirtz move, Felix Nmecha open to England return and Aston Villa among Nick Woltemade suitors, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c9924mxedgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T21:29:41.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a219d8c560cb47",
-      "title": "Cooling hoodies help England staff combat World Cup heat",
-      "summary": "As the England players trained under the searing heat of the Kansas City sun on Saturday, manager Thomas Tuchel took a very different approach to keeping himself cool.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T20:17:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d979a38f9948a5",
-      "title": "Scotland expects: What is behind McTominay's understated World Cup?",
-      "summary": "Some are suggesting Scott McTominay has not had the expected impact for Scotland at the World Cup, but is that fair on the Napoli midfielder?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T20:16:11.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cde8f0bb58fdb8",
-      "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
-      "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/videos/c0ly473g3dgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-20T19:45:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
