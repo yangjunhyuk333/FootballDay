@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-22T04:57:08.452Z",
+  "generatedAt": "2026-06-22T12:13:27.712Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,14 +99,40 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "6e1bfc8757f0db",
-      "title": "Spain finally announce World Cup arrival as Yamal, Oyarzabal star in Saudi win",
-      "summary": "Lamine Yamal and Mikel Oyarzabal were the stars of the show as Spain finally announced their arrival at the 2026 World Cup with a 4-0 thrashing of Saudi Arabia.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/spain-vs-saudi-arabia/report/549804",
-      "publishedAt": "2026-06-22T04:57:08.198Z",
+      "id": "e85cb159e33f0c",
+      "title": "Spain have Lamine Yamal back -- and they finally l...",
+      "summary": "After a shaky start to the World Cup, Spain beat Saudi Arabia and finally looked like a top team, thanks to Lamine Yamal.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49136564/spain-lamine-yamal-back-resemble-world-cup-contenders",
+      "publishedAt": "2026-06-22T12:35:43.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "97c5464a048ada",
+      "title": "USMNT's World Cup success brings dilemma: Rotate t...",
+      "summary": "The USMNT has clinched a spot in the World Cup knockouts, so should the team rotate in its final Group D match or stay consistent?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi",
+      "publishedAt": "2026-06-22T12:35:34.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "048fb1eece152c",
+      "title": "Four years later, same debate for Portugal: Why is...",
+      "summary": "Little has changed since the 2022 World Cup; Cristiano Ronaldo is goalless, and Portugal are struggling. How long can this go on?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49138526/four-years-later-same-debate-portugal-why-ronaldo-starting-2026-fifa-world-cup",
+      "publishedAt": "2026-06-22T12:35:11.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
@@ -117,20 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Cape Verde continued their fairytale World Cup campaign as the African group of islands claimed a 2-2 draw with two-time winners Uruguay in Miami.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/uruguay-vs-cape-verde/report/549805",
-      "publishedAt": "2026-06-22T04:57:08.197Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a35781b9987924",
-      "title": "Iran go top of group with battling draw vs frustrated 10-man Belgium",
-      "summary": "Iran battled to a well-deserved point against 10-man Belgium and moved top of World Cup Group G with a 0-0 draw in Los Angeles.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/belgium-vs-iran/report/549802",
-      "publishedAt": "2026-06-22T04:57:08.197Z",
+      "publishedAt": "2026-06-22T12:13:27.488Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,7 +156,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13556527/paper-talk-liverpool-reject-21m-curtis-jones-offer-from-inter-milan-which-falls-considerably-short-of-valuation",
-      "publishedAt": "2026-06-22T04:57:08.197Z",
+      "publishedAt": "2026-06-22T12:13:27.488Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -153,12 +166,38 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "7a71f338b02228",
+      "title": "Cape Verde are the story of this World Cup - are they everyone's second team?",
+      "summary": "Those waking up on Monday morning in the UK will look at one particular result and be stunned. \"Cape Verde did it again?!\" was probably your reaction.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13556552/cape-verde-at-the-world-cup-african-nation-have-gained-the-hearts-of-the-world-as-everyones-second-team-after-brave-draw-with-uruguay",
+      "publishedAt": "2026-06-22T12:13:27.487Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7ddd44e328e987",
+      "title": "England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
+      "summary": "As we head towards the final World Cup group games, it's time to start looking ahead to the knockout stages and potential routes to the final in July 19.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
+      "publishedAt": "2026-06-22T12:13:27.487Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "f1a200c12372e7",
       "title": "Salah inspires Egypt to first-ever World Cup win",
       "summary": "Mohamed Salah scored one goal and assisted another as Egypt came from behind to beat New Zealand 3-1 and record their first-ever World Cup win.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/new-zealand-vs-egypt/report/549803",
-      "publishedAt": "2026-06-22T04:57:08.195Z",
+      "publishedAt": "2026-06-22T12:13:27.487Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -166,312 +205,239 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "2146a5a85827b7",
-      "title": "Salah's World Cup nightmare ends as he fires Egypt to historic win",
-      "summary": "Mohamed Salah's World Cup nightmares finally end as he helps fire Egypt to their first ever win at the tournament - 92 years on from their tournament debut.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T04:23:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c5c4eab145695a",
-      "title": "Maybe this World Cup will bring the best out of the US, not the worst | Barney Ronay",
-      "summary": "Tournament could hold up a useful hand mirror to the isolationism and divisiveness of Trump’s joint-host nation One of the best parts of following football across the w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/22/world-cup-2026-us-united-states-usa-co-host-nation",
-      "publishedAt": "2026-06-22T04:00:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "577e9c1c54f9e5",
-      "title": "Salah scores to help Egypt to first World Cup win",
-      "summary": "Mohamed Salah scores one goal and creates another as Egypt come from behind to beat New Zealand and secure their first-ever World Cup win.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/videos/c74ydzpe274o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T03:56:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1d2587833d0ef9",
-      "title": "Egypt win at the World Cup for the first time as Salah inspires comeback vs New Zealand",
-      "summary": "Mohamed Salah’s Egypt came from behind to beat New Zealand 3-1 and earn the first World Cup finals victory in the nation’s history.",
+      "id": "aa47d5e6de86a8",
+      "title": "Arsenal crush rivals in race to land Leicester wonderkid and next signing lined up",
+      "summary": "The 16-year-old winger has emerged as one of the most sought-after young talents in English football, with the Gunners reportedly winning the race to secure his signatu...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/egypt-new-zealand-world-cup-match-report-salah-first-win",
-      "publishedAt": "2026-06-22T03:34:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "012895bb75daaa",
-      "title": "Egypt claim their first World Cup win after roaring from behind to beat New Zealand",
-      "summary": "Mohamed Salah inspired Egypt to their first-ever World Cupwin as they came from a goal down ⁠to beat New Zealand 3-1 with a brilliant second-half display, moving top of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report",
-      "publishedAt": "2026-06-22T03:11:14.000Z",
-      "category": "worldcup",
+      "url": "https://www.football365.com/news/arsenal-win-race-sign-leicester-city-wonderkid-jeremy-monga",
+      "publishedAt": "2026-06-22T12:03:24.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fd9ca34dcc254f",
+      "title": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
+      "summary": "Former Tottenham and Brentford manager Thomas Frank on watching new players at the World Cup - who would he sign and who will be the star of the tournament?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-22T12:01:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "9e53bdd0c2744e",
-      "title": "Messi and Argentina ready to turn up the heat after fast World Cup start",
-      "summary": "It is the 40th anniversary of Diego Maradona’s exploits against England. The scene is set for Lionel Messi to imbue the date with fresh significance How do you build on...",
+      "id": "b0626727355b37",
+      "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+      "summary": "⚽ All the latest news from day 11 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Beiranvand, by the way, holds the world record for the longest...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/22/lionel-messi-argentina-austria-world-cup",
-      "publishedAt": "2026-06-22T02:10:16.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live",
+      "publishedAt": "2026-06-22T11:47:51.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d72cb0d39523bc",
+      "title": "Man Utd, Liverpool make approach for same Real Madrid star as ‘agreement’ is revealed",
+      "summary": "Man Utd and Liverpool are looking to sign Real Madrid midfielder Eduardo Camavinga to the Premier League this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-liverpool-make-approach-for-same-real-madrid-star-as-agreement-is-revealed",
+      "publishedAt": "2026-06-22T11:16:27.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f54544b0b2a4cb",
+      "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+      "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49141065/world-cup-daily-crying-belgium-fan-saved-var-messi-mbappe-haaland-action",
+      "publishedAt": "2026-06-22T10:56:08.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "0a7b9f6d4332e0",
+      "title": "🤔Permutations: How teams qualify for knockouts",
+      "summary": "Who can secure qualification before the group stage ends, and whose World Cup dreams could be shattered? Here's what you need to know.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
+      "publishedAt": "2026-06-22T10:50:50.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "586bf384c7461d",
+      "title": "Cape Verde cause latest WC shock, deny Uruguay",
+      "summary": "Cape Verde's magical start to its first World Cup isn't over. It might just be getting started.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49139293/cape-verde-uruguay-2026-world-cup-upset",
+      "publishedAt": "2026-06-22T10:50:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1f53c2d9901287",
+      "title": "Salah leads rally as Egypt get first-ever WC win",
+      "summary": "Mohamed Salah scored the go-ahead goal, and Egypt went on to defeat New Zealand 3-1 on Sunday night and secure a first-ever World Cup win.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/report/_/gameId/760452",
+      "publishedAt": "2026-06-22T10:50:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1c5a0845778136",
+      "title": "Mbappé: I knew Messi would keeping scoring goals",
+      "summary": "Kylian Mbappé is hot on the heels of the player he calls \"the best,\" Lionel Messi, to become the top scorer in men's World Cup history.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49142311/kylian-mbappe-knew-lionel-messi-keep-scoring-goals-world-cup",
+      "publishedAt": "2026-06-22T10:50:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "efdf437d7c0569",
+      "title": "Conceição: No obligation to pass ball to Ronaldo",
+      "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA Worl...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49136209/no-obligation-pass-ronaldo-portugal-francisco-conceicao",
+      "publishedAt": "2026-06-22T10:50:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "50331bdde8887d",
+      "title": "Iraq's plan to stop Mbappé? Ask to play 3 keepers",
+      "summary": "Iraq coach Graham Arnold -- tasked with slowing down Kylian Mbappé and the 2022 World Cup finalists France on Monday -- had an idea that might have worked.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49137803/iraq-coach-france-kylian-mbappe-3-goalkeepers-graham-arnold",
+      "publishedAt": "2026-06-22T10:50:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "dd62ef5278905c",
+      "title": "Neymar trains before Scotland World Cup clash",
+      "summary": "Neymar completed his first full training session with Brazil on Sunday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49142107/neymar-completes-first-world-cup-training-session-brazil-vs-scotland",
+      "publishedAt": "2026-06-22T10:50:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0df8960bb256a5",
+      "title": "Liverpool ‘transfer trick’ helps put ‘significant sum’ towards Diomande chase",
+      "summary": "Liverpool might have feared not being able to afford Yan Diomande, but a ‘clever transfer trick’ has landed them a ‘significant sum’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-trick-significant-sum-massive-boost-diomande",
+      "publishedAt": "2026-06-22T10:48:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c1b7e551e261bd",
+      "title": "Madueke's remarkable season - from petition to World Cup starter",
+      "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-22T10:47:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3d542e23b481bf",
+      "title": "Iran leave note thanking LA for ‘hospitality’ as travel restrictions continue",
+      "summary": "Iran left a message in their SoFi Stadium locker room on Sunday thanking Los Angeles for its hospitality during the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/iran-leave-note-thanking-la-hospitality",
+      "publishedAt": "2026-06-22T10:40:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e976ed8af2c911",
+      "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
+      "summary": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sport If you have watched the World Cup, you may have seen t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot",
+      "publishedAt": "2026-06-22T10:39:10.000Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
+        "Fifa",
         "Inter"
       ]
     },
     {
-      "id": "0d79a2e611fea0",
-      "title": "Cape Verde continue to surprise with entertaining Uruguay draw",
-      "summary": "Cape Verde's gripping debut World Cup campaign continued as they held two-time champions Uruguay to a thrilling draw in Miami.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy5rkg0ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T02:05:22.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "700608f38c032a",
-      "title": "Past and present World Cups collide as Beiranvand first gives Iran inspiration, then hope | Alexander Abnos",
-      "summary": "The goalkeeper’s 59th-minute save left mouths agape but it’s not the first time he has created an indelible moment for the team As they prepared for the future, the Ira...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/22/world-cup-iran-goalkeeper-alireza-beiranvand",
-      "publishedAt": "2026-06-22T02:03:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "732d1b6dd3db81",
-      "title": "One of World Cup's great stories - can Cape Verde become legends?",
-      "summary": "Cape Verde's impressive World Cup continues with a draw against two-time winners Uruguay - and they will now be looking to make the last 32.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T01:53:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b06c0b0e90ab45",
-      "title": "Cape Verde are the story of the World Cup and Uruguay draw is the game of the tournament",
-      "summary": "Cape Verde are the story of the 2026 World Cup. And after watching their 2-2 draw with Uruguay, it’s impossible not to root for them.",
+      "id": "2e2f07def3086f",
+      "title": "Liverpool stun Curtis Jones, Inter Milan with star’s valuation after second bid rejected",
+      "summary": "Jones is already reported to have agreed a move to the San Siro, with the 25-year-old feeling as if his time on Merseyside could be up this summer.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-cape-verde-story-of-world-cup-uruguay-draw-best-game",
-      "publishedAt": "2026-06-22T00:38:20.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "url": "https://www.football365.com/news/curtis-jones-inter-milan-left-stunned-liverpool-valuation-midfielder-second-bid-rejected",
+      "publishedAt": "2026-06-22T10:31:07.000Z",
+      "category": "transfer",
+      "region": "england italy",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a31f39792afe6c",
-      "title": "Cape Verde produce another World Cup shock as Varela strike seals Uruguay draw",
-      "summary": "Wow. The continuation of Cape Verde’s fairytale may have serious repercussions for Marcelo Bielsa and Uruguay. The heroics of Cape Verde in holding Spain to a draw mean...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/22/cape-verde-uruguay-world-cup-group-h-match-report",
-      "publishedAt": "2026-06-22T00:28:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6e3fa94db51408",
-      "title": "Unbeaten Iran will go down in history - Ghalenoei",
-      "summary": "Iran coach Amir Ghalenoei believes his side's unbeaten start to the World Cup will be talked about for years to come given the disruption they have faced before and dur...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cx237pe074go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T00:24:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "118cdccb98267a",
-      "title": "Saka trains with England squad before Ghana match",
-      "summary": "Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T00:13:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9194f2b90650c5",
-      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T23:53:13.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "0d9f8da63a0659",
-      "title": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
-      "summary": "Cape Verde's Kevin Pina scores the opening goal against Uruguay in their Group H match in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T22:46:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c6a66a22475388",
-      "title": "Tuchel not afraid to shout at players - Watkins",
-      "summary": "Ollie Watkins says Thomas Tuchel is \"not afraid\" to shout at England players as the manager aims to maintain training standards at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cjegy048847o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T22:04:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "da78b681b173ae",
-      "title": "Ten-man Belgium remain winless after draw with Iran",
-      "summary": "Goalkeeper Alireza Beiranvand made a string of impressive saves to keep alive Iran's hopes of reaching the World Cup knockout stage for the first time, as they earned a...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cy06gxjnx3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T21:55:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "218ae1dd8d9b98",
-      "title": "Could Belgium manage the unthinkable and pull off a World Cup group-stage exit?",
-      "summary": "Belgium might yet pull off the difficult trick of getting themselves knocked out of this World Cup at the group stage. They look awful tired.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/belgium-world-cup-group-stage-exit-iran",
-      "publishedAt": "2026-06-21T21:52:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: Spain show their class but does it move them above England?",
-      "summary": "Doesn’t take much for the England major tournament hype train to start chugging out of the station, and winning 4-2 in the best game of the opening round will certainly...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-06-21T21:45:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6f59f9c6b863ac",
-      "title": "Does it matter if Scotland lose and still make history?",
-      "summary": "Does the performance, even the result, matter as long as Scotland qualify for the group stage of the World Cup after Wednesday's game against Brazil? Tom English ponders.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/ckg0exlle8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T21:39:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "be8aad07359371",
-      "title": "VAR rules out Iran's Weghorst-esque goal",
-      "summary": "Mehdi Taremi scores a goal similar to Wout Weghorst's effort against Argentina in the 2022 World Cup but it's disallowed by by VAR for offside.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cx24y5ympdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T21:39:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6a8b8757a72d14",
-      "title": "Proposals to keep 'crown jewel' sports free on streaming services",
-      "summary": "The government is proposing new legislation to prevent streaming and catch-up rights to some of the world's biggest sporting events - including the World Cup - being pu...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/articles/cjdgy5xvpd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T21:33:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Liverpool and Man Utd overtake Arsenal",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but have been overtaken by four clubs – including two Premier League rivals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-21T21:26:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal",
-        "Liverpool"
+        "Liverpool",
+        "Inter",
+        "Milan"
       ]
     },
     {
@@ -480,7 +446,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Marcus Rashford might still join Barcelona, Paris St-Germain join the race for Crysencio Summerville, Manchester United have no interest in selling Benjamin Sesko, plus...",
       "source": "BBC Football",
       "url": "https://www.bbc.com/sport/football/articles/cddlz15pqyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T21:25:29.000Z",
+      "publishedAt": "2026-06-22T10:25:57.000Z",
       "category": "league",
       "region": "england spain italy",
       "tags": [
@@ -490,99 +456,141 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ca36bee40e8536",
-      "title": "Liverpool reject £21.7m Inter Milan offer for Jones",
-      "summary": "Liverpool reject a verbal offer of 25m euros (£21.7m) from Inter Milan for midfielder Curtis Jones.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cwy05x9gldyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T21:01:47.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "974962dded95ea",
-      "title": "Lamine Yamal shows why this could be his World Cup",
-      "summary": "Spain looked an instantly better team with Lamine Yamal in the side, with the 18-year-old showing why this could be his World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/articles/cj0gy46d5vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T19:27:01.000Z",
+      "id": "2ac0b552ea5772",
+      "title": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+      "summary": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49141100/salah-stepped-world-cup-2026-proving-no-country-old-men",
+      "publishedAt": "2026-06-22T10:05:43.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
+        "Soccer",
         "World Cup"
       ]
     },
     {
-      "id": "d6c992f57f1200",
-      "title": "Lamine Yamal on target as Spain put four past Saudi Arabia",
-      "summary": "Lamine Yamal scored 10 minutes into his first World Cup start as Spain beat Saudi Arabia to register their first win of the tournament.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.com/sport/football/videos/cze9g190rz1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T18:51:44.000Z",
+      "id": "0e40cefb66ddb5",
+      "title": "World Cup VAR review: Why was Iran's goal ruled ou...",
+      "summary": "Iran striker Mehdi Taremi scored after netting from a smartly worked free kick routine, but VAR intervened.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "publishedAt": "2026-06-22T10:05:43.000Z",
       "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c9b3eb8a9bfe4c",
-      "title": "Spain look possible winners again as Lamine Yamal’s star quality kickstarts their World Cup",
-      "summary": "Lamine Yamal set Spain on their way to a vital and impressive win over Saudi Arabia after botching their first game of the World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lamine-yamal-world-cup-star-spain-saudi-arabia",
-      "publishedAt": "2026-06-21T18:13:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "98d457fcfed89b",
-      "title": "Patrick Vieira impressed by 18 y/o Arsenal target who’s ‘the talent’ in World Cup side",
-      "summary": "Arsenal legend Patrick Vieira feels an 18-year-old Gunners target is “the talent” in his nation’s side at the World Cup, and has a lot of maturity for his age.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/patrick-vieira-in-love-18-yo-arsenal-target-bouaddi",
-      "publishedAt": "2026-06-21T18:02:30.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
         "World Cup",
-        "Arsenal"
+        "Inter"
       ]
     },
     {
-      "id": "11b3770e2ab63b",
-      "title": "From Times Square to England squad: Trevoh Chalobah realises World Cup dream",
-      "summary": "Chelsea defender has mad scramble for boots and cuts short holiday after belatedly receiving the message of a lifetime from Thomas Tuchel Trevoh Chalobah has always tho...",
+      "id": "01fe5a774c9e3a",
+      "title": "How football united behind Doku after childbirth criticism",
+      "summary": "Jeremy Doku wants to fly home to attend the birth of his first child - but why has that proved controversial in some quarters?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-22T10:01:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "67511e11dbc5e0",
+      "title": "Iran leave note asking for peace after Belgium draw",
+      "summary": "Iran leave a message saying \"may peace, respect and friendship prevail among all nations\" following their World Cup group game with Belgium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-22T09:54:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ca26e10aab23db",
+      "title": "Ask pundits McCann & Crichton your World Cup questions",
+      "summary": "BBC Sport Scotland pundits Neil McCann and Leanne Crichton are in the United States and ready to answer some of your questions about Scotland's World Cup campaign.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.com/sport/football/articles/c8j2pm834xeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-22T09:50:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "19f2733ffcac6a",
+      "title": "Who are ya? Behind the scenes of the official World Cup portrait photographs",
+      "summary": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshoots Lionel Messi of Argentina stands rigidly in front of th...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/21/from-times-square-to-england-squad-trevoh-chalobah-realises-world-cup-dream",
-      "publishedAt": "2026-06-21T18:00:36.000Z",
-      "category": "transfer",
+      "url": "https://www.theguardian.com/football/2026/jun/22/behind-the-scenes-official-world-cup-portrait-photographs",
+      "publishedAt": "2026-06-22T09:39:23.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
         "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "b28d11c4c52932",
+      "title": "Tottenham set Chelsea asking price for Spurs star who ‘wants transfer’ in Romano update",
+      "summary": "Tottenham have set their asking price for Chelsea target Lucas Bergvall after he asked Spurs to leave this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-chelsea-asking-price-requested-transfer-bergvall-romano-update",
+      "publishedAt": "2026-06-22T09:33:14.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
         "Chelsea"
       ]
     },
     {
-      "id": "7d1d04b8478f05",
-      "title": "Brazil preview and is the World Cup catching fire in USA?",
-      "summary": "We preview Scotland v Brazil in Miami and ask how the World Cup is going down in the USA.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nt9cg7?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-21T16:46:00.000Z",
+      "id": "20588bb9a2db49",
+      "title": "World Cup on TV has been fantastic; what’s actually wrong with critics?",
+      "summary": "The various broadcasts on both ITV and BBC have all been some shade of fantastic; complaining is like sending back a free dinner.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-tv-fantastic",
+      "publishedAt": "2026-06-22T09:24:24.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Liverpool’s Diomande decision, silly money for Tonali",
+      "summary": "Tottenham Hotspur’s desire – desperation? – to sign Sandro Tonali should see them win the race, while Liverpool are still best placed to sign Yan Diomande.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-06-22T09:10:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e1efdf6d7f5214",
+      "title": "Transfer rumors, news: PSG to compete with Man Uni...",
+      "summary": "Manchester United could face competition from Paris Saint-Germain as they try to sign West Ham United winger Crysencio Summerville. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49141820/transfer-rumors-news-psg-compete-man-united-summerville",
+      "publishedAt": "2026-06-22T08:58:26.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Psg"
       ]
     }
   ],
