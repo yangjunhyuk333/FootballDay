@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T09:51:27.041Z",
+  "generatedAt": "2026-06-23T15:11:45.180Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,12 @@
       "pinned": true
     },
     {
-      "id": "ef7c0f100119ae",
-      "title": "Mbappe double sends France into last 32 after weather-hit win over Iraq",
-      "summary": "France booked their place in the World Cup last 32 with a game to spare as Kylian Mbappe's ruthless double inspired a 3-0 victory over Iraq in a contest interrupted by...",
+      "id": "1587e46db821c3",
+      "title": "Algeria earn turnaround win to knock out World Cup debutants Jordan",
+      "summary": "Debutants Jordan have been knocked out of the World Cup after Algeria’s second-half turnaround 2-1 win kept their hopes of qualifying for the knockout stages alive.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/france-vs-iraq/report/549806",
-      "publishedAt": "2026-06-23T09:51:26.786Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2b0fd2e5941330",
-      "title": "Do not disturb! Tuchel explains how he's given England's attackers freedom",
-      "summary": "England boss Thomas Tuchel says he is trying not to \"disturb\" his forward players at the World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556912/world-cup-2026-england-boss-thomas-tuchel-on-how-he-has-given-his-attackers-freedom-on-the-pitch",
-      "publishedAt": "2026-06-23T09:51:26.786Z",
+      "url": "https://www.skysports.com/football/jordan-vs-algeria/report/549809",
+      "publishedAt": "2026-06-23T15:11:44.790Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -126,12 +112,12 @@
       ]
     },
     {
-      "id": "35bd5393673ced",
-      "title": "Messi makes scoring history with double to send Argentina through",
-      "summary": "Lionel Messi broke the World Cup scoring record as Argentina beat Austria 2-0 in Dallas to secure their place in the knockout stages.",
+      "id": "912e1f9c3c6e07",
+      "title": "Wilshere: Tuchel factor can help England win the World Cup",
+      "summary": "Jack Wilshere has experienced the burden of expectation that comes with representing England at a World Cup. He felt it envelop the squad as they crashed to a group-sta...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/argentina-vs-austria/report/549808",
-      "publishedAt": "2026-06-23T09:51:26.786Z",
+      "url": "https://www.skysports.com/football/news/12040/13556939/jack-wilshere-interview-england-can-win-world-cup-with-thomas-tuchel-factor-harry-kane-goals-and-physical-dominance-in-midfield",
+      "publishedAt": "2026-06-23T15:11:44.789Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -140,11 +126,11 @@
     },
     {
       "id": "e6d87949fad4b0",
-      "title": "Who will win the World Cup Golden Boot? Have your say...",
-      "summary": "Who will win the World Cup Golden Boot? Have your say...",
+      "title": "World Cup news: English ref Oliver to take charge of Norway vs France",
+      "summary": "World Cup news: English ref Oliver to take charge of Norway vs France",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "publishedAt": "2026-06-23T09:51:26.785Z",
+      "publishedAt": "2026-06-23T15:11:44.789Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -157,7 +143,7 @@
       "summary": "Lionel Messi, Kylian Mbappe and Erling Haaland have kept up the pace in what is shaping up to be one of the most hotly-contested World Cup Golden Boot battles in memory.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
-      "publishedAt": "2026-06-23T09:51:26.785Z",
+      "publishedAt": "2026-06-23T15:11:44.789Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -165,16 +151,389 @@
       ]
     },
     {
-      "id": "1587e46db821c3",
-      "title": "Algeria earn turnaround win to knock out World Cup debutants Jordan",
-      "summary": "Debutants Jordan have been knocked out of the World Cup after Algeria’s second-half turnaround 2-1 win kept their hopes of qualifying for the knockout stages alive.",
+      "id": "35f12ed750c4c4",
+      "title": "New Zealand eliminate Scotland with six-wicket victory",
+      "summary": "Scotland have been knocked out of the ICC Women's T20 World Cup after New Zealand secured a six-wicket win in Bristol to keep alive their own faint hopes of defending t...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/jordan-vs-algeria/report/549809",
-      "publishedAt": "2026-06-23T09:51:26.785Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13557008/icc-womens-t20-world-cup-new-zealand-eliminate-scotland-with-six-wicket-victory-and-keep-their-hopes-of-progression-alive",
+      "publishedAt": "2026-06-23T15:11:44.788Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "a6ab5f9ebb9384",
+      "title": "World Cup 2026: Jordan fan dies in crowd crush; criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – live",
+      "summary": "⚽ All the latest news from day 13 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail Will Our man in the camp David Hytner goes under the hood (nailed...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
+      "publishedAt": "2026-06-23T15:06:40.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0bf4c65346b045",
+      "title": "Arsenal react after learning how much Barcelona are ‘offering’ Julian Alvarez in salary",
+      "summary": "Arsenal and Barcelona are interested in signing Julian Alvarez, who has publicly said that he wants to leave Atletico Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/julian-alvarez-arsenal-barcelona-atletico-madrid-latest-update",
+      "publishedAt": "2026-06-23T15:02:26.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e061ba61daf8d1",
+      "title": "Who is the DR Congo superfan?",
+      "summary": "BBC Sport's Ask Me Anything team explains who the DR Congo superfan is before the first World Cup game he will attend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy04vnlzkn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T14:38:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "75ef5e704a3806",
+      "title": "Quiz: Name every England World Cup goalscorer since 2014",
+      "summary": "Fifteen players who have scored for England across the past four men's World Cups. Can you name them all?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T14:37:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e680a49909691a",
+      "title": "Tottenham ‘overtake’ Man Utd for Fernandes who ‘prefers’ Spurs move as Real Madrid pull plug",
+      "summary": "Man Utd could be beaten to the signing of top midfield target Mateus Fernandes as he reportedly favours a move to Tottenham this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-fernandes-prefers-tottenham-real-madrid-pull-plug-transfer",
+      "publishedAt": "2026-06-23T14:00:32.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "57bd6408dc105f",
+      "title": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! In 10 of the past 12 World Cups, six goals has been the standard to bag yourself the Golden Boot. Usually a goal per...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/23/world-cup-2026-golden-boot-football-daily-newsletter",
+      "publishedAt": "2026-06-23T13:31:41.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "71006a0b300aac",
+      "title": "We live in a Messi world; let’s all just cheer up a bit, people…",
+      "summary": "Don’t be the guy who watches Lionel Messi become the highest goalscorer in World Cup history and has a pop at the referees.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lionel-messi-world-cup-cynicism-mailbox",
+      "publishedAt": "2026-06-23T13:28:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3e403638fc0120",
+      "title": "All done deals in June 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T13:14:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "46888eecf040c4",
+      "title": "Who are the Ghana players England should look out for?",
+      "summary": "England face Ghana in their next World Cup match as both sides look to secure a place in the next round. BBC Sport takes a look at the Ghana players to look out for.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T13:09:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "896bb690fe411b",
+      "title": "The trial that saved Antoine Semenyo's career",
+      "summary": "BBC Sport traces the origin story of Manchester City and Ghana star Antoine Semenyo, and hears from former coach David Hockaday about the trial which saved his career.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c621qjnvrrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T12:59:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b4f02a1c68be7f",
+      "title": "Chelsea delight as Real Madrid make ‘dramatic’ U-turn on Argentina midfielder",
+      "summary": "Real Madrid are ready to sever ties with one of their young players, which will come as an encouraging sign for Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-real-madrid-nico-paz",
+      "publishedAt": "2026-06-23T12:51:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "ebeb8bf52fcf4b",
+      "title": "Yan Diomande urged to snub Liverpool after ‘agreement’ is reached for stunning transfer",
+      "summary": "RB Leipzig winger Yan Diomande has been told to snub interest from Liverpool in order to stay at the Bundesliga outfit for another year.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-yan-diomande-agreement-reached-transfer",
+      "publishedAt": "2026-06-23T12:51:25.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Bundesliga",
+        "Transfer",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7b21d36b53cf7b",
+      "title": "Tottenham making ‘phone calls’ for €95m attacking duo as De Zerbi has ‘eight signings lined up’",
+      "summary": "Tottenham Hotspur are actively trying to sign two attacking players in the summer transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-hotspur-real-madrid-cody-gakpo-franco-mastantuono",
+      "publishedAt": "2026-06-23T12:27:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "65c2145813acb2",
+      "title": "The World Cup stars being targeted by Premier League clubs",
+      "summary": "The World Cup stars being targeted by Premier League clubs. Who has caught the eye already, and which clubs are focusing on longer-term priorities?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T12:20:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b73e772eeafef",
+      "title": "Man Utd directly tell Real Madrid midfielder’s ‘agents’ about ‘strong interest’ in signing him",
+      "summary": "Manchester United have got in touch with a Real Madrid star who is playing for his country at the ongoing 2026 World Cup finals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-real-madrid-aurelien-tchouameni-contact-agents",
+      "publishedAt": "2026-06-23T11:42:34.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "World Cup",
+        "Manchester",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "10cd3c49cf7e12",
+      "title": "From non-league to the World Cup - the Semenyo story",
+      "summary": "Winger Antoine Semenyo's football journey began in the English lower leagues. BBC Sport charts his rise from Bath City to the World Cup, with Ghana poised to face Engla...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T11:40:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5e3ecdb4e48a26",
+      "title": "‘You’d worry about his career’ – World Cup star warned off Arsenal transfer with Real Madrid ‘very interested’",
+      "summary": "Lille midfielder Ayyoub Bouaddi should “worry about his career” if he decides to move to Premier League side Arsenal this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-bouaddi-worry-career-real-madrid-transfer",
+      "publishedAt": "2026-06-23T11:40:06.000Z",
+      "category": "transfer",
+      "region": "england spain italy france",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1540a318f0860b",
+      "title": "Man Utd will not enter EFL Trophy next season",
+      "summary": "Manchester United will not enter the EFL Trophy or National League Cup next season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg02v1yvx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T11:37:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2c896b41f0ba17",
+      "title": "England hero ‘not that important’ to Tuchel as Three Lions were ‘a man less’ because of Gordon",
+      "summary": "Jude Bellingham is “not that important” to England despite scoring a goal as the Three Lions beat Croatia 4-2 last week at the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/engand-bellingham-not-important-tuchel-parker-man-less-gordon",
+      "publishedAt": "2026-06-23T11:06:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4412e503bc2fcb",
+      "title": "Anderson's journey to England star and potential British record",
+      "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge of a British record transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T10:30:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "177554d4856c14",
+      "title": "Liverpool ‘reach agreement’ with World Cup superstar as record-breaking deal takes shape",
+      "summary": "Liverpool have convinced a winger, who is playing at the 2026 World Cup, to move to Anfield, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-rb-leipzig-yan-diomande-agreement",
+      "publishedAt": "2026-06-23T10:27:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d5543a7400f87c",
+      "title": "Arsenal strike ‘agreement’ to sign Aston Villa star as transfer hurtles towards completion",
+      "summary": "Arsenal have struck an ‘agreement in principle’ with Morgan Rogers as they prepare to open talks with Aston Villa, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-strike-agreement-aston-villa-rogers",
+      "publishedAt": "2026-06-23T10:22:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7e901cae2759e5",
+      "title": "Man Utd ‘weigh up’ approach for £50m striker who is shining at the World Cup",
+      "summary": "United’s striker search has led them to a 24-year-old hitman causing defenders nightmares at the World Cup, a report has revealed",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-news-brian-brobbey-sunderland-50-million",
+      "publishedAt": "2026-06-23T10:18:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80a31b77e09c7c",
+      "title": "Chelsea refuse to sell Martinez as Romano takes on Edwards in depressing battle",
+      "summary": "Chelsea will outright refuse to sell Martinez, whoever he is. And Fabrizio Romano versus Luke Edwards is dreadfully depressing fare.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-refuse-to-sell-martinez-romano-edwards",
+      "publishedAt": "2026-06-23T10:15:57.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "20a44284b78884",
+      "title": "Relive every World Cup match with BBC Sport's 3D Experience",
+      "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? You can now watch every match back in full with BBC Sport's 3D Experience.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T10:08:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "08eaae5e9af161",
+      "title": "David Squires on … the big names putting on a show at World Cup",
+      "summary": "Our cartoonist on the heroes, villains and superstar performances in week two of the tournament Buy a cartoon | Some of David’s favourite works And his latest book, Cha...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/23/david-squires-on-big-names-messi-mbappe-ronaldo-putting-on-a-show-at-world-cup",
+      "publishedAt": "2026-06-23T10:02:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "42687fc9d99f94",
+      "title": "Rogers keen on Arsenal move - Tuesday's gossip",
+      "summary": "Morgan Rogers keen on a move to Arsenal, Marcus Rashford prepared to take pay cut to join Tottenham and Spurs also confident of signing Newcastle's Sandro Tonali, plus...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg84mz08d8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T09:57:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
       ]
     },
     {
@@ -192,21 +551,6 @@
       ]
     },
     {
-      "id": "a6ab5f9ebb9384",
-      "title": "World Cup 2026: Messi makes history; Mbappé and Haaland double up; England face Ghana – live",
-      "summary": "⚽ All the latest news from day 13 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail us Our man in the camp David Hytner goes under the hood (nailed i...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
-      "publishedAt": "2026-06-23T09:35:19.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
       "id": "3c2753ae176e77",
       "title": "England: Bukayo Saka no longer in pain as 26 all declared fit",
       "summary": "England coach Thomas Tuchel said his team had no injury problems ahead of their second World Cup match against Ghana.",
@@ -217,19 +561,6 @@
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "3e403638fc0120",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T09:29:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -260,334 +591,6 @@
         "Transfer",
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "99e821331591cb",
-      "title": "Man Utd ‘sticking point’ emerges in Fernandes race as Liverpool hijack attempt ‘accelerates’",
-      "summary": "Man Utd are continuing their pursuit of West Ham midfielder Mateus Fernandes but a major ‘sticking point’ has emerged, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-sticking-point-fernandes-liverpool-hijack",
-      "publishedAt": "2026-06-23T08:24:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d585c28ef5a718",
-      "title": "Unpaid bonuses and food issues - what's going on inside Senegal camp?",
-      "summary": "Senegal's start to the World Cup has been overshadowed by a series of issues behind the scenes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz6v0jn8368o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T08:21:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal in for England star as Spurs squeeze Man Utd",
-      "summary": "The rumour around Arsenal and Morgan Rogers is a climber, while Tottenham Hotspur want to rinse Manchester United over Marcus Rashford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-06-23T08:20:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d2bd1c0cb1db68",
-      "title": "Lionel Messi ‘circle jerk’ declared ‘nauseating’ as FIFA help their ‘darling boy’",
-      "summary": "Not everybody wants to read about the brilliance of Lionel Messi while we also have views on transfers, the Scots and more.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lionel-messi-circle-jerk-nauseating-mailbox",
-      "publishedAt": "2026-06-23T08:18:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: Argentina and France set down markers again",
-      "summary": "Spain are firmly back among the likeliest winners after their latest effort, but we’re not forgetting that 0-0. Are Argentina still top for now?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-06-23T07:45:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "04652dc4f18cc8",
-      "title": "Chelsea move for Liverpool star now ‘feasible’ after Blues man ‘agrees’ to join Real Madrid",
-      "summary": "A transfer that would see Florian Wirtz swap Liverpool for Chelsea is now reportedly ‘feasible’ after Enzo Fernandez agreed to join Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-liverpool-feasible-wirtz-transfer-fernandez-real-madrid",
-      "publishedAt": "2026-06-23T07:37:33.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "eea7419755ff36",
-      "title": "Fabrizio Romano reveals Julian Alvarez’s eight-word response to Arsenal after ‘dream’ revelation",
-      "summary": "Fabrizio Romano has revealed the response that Julian Alvarez has given to Arsenal over a move to the Emirates Stadium from Atletico Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/julian-alvarez-arsenal-atletico-madrid-fabrizio-romano-update",
-      "publishedAt": "2026-06-23T07:18:25.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "fbe7df1be18000",
-      "title": "Who will win the 2026 World Cup Golden Ball? Messi to do the double?",
-      "summary": "Lionel Messi has already won it twice and is second in the ranking for the Golden Ball in 2026 behind the king of the tournament.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
-      "publishedAt": "2026-06-23T07:14:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "322c3c0e192977",
-      "title": "‘I was worried’ – Carragher tells Tuchel to drop England star against Ghana",
-      "summary": "Liverpool legend Jamie Carragher insists Thomas Tuchel should bring Marc Guehi into the starting XI as England face Ghana on Tuesday evening.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-carragher-tuchel-drop-konsa-stones-guehi-ghana",
-      "publishedAt": "2026-06-23T07:01:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "85b6082d8963ff",
-      "title": "Scottish fans’ friendly USA invasion exemplifies the joy of the World Cup | Philipp Lahm",
-      "summary": "Major tournaments bring people together and Scotland’s welcome presence adds to the case for a 48-team event I could watch videos of the Scots online for hours. Wearing...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa",
-      "publishedAt": "2026-06-23T07:00:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "1c74a23d8565d6",
-      "title": "Who are the favourites for the 2026 World Cup in the United States?",
-      "summary": "The World Cup is barely a week away and England are somehow third favourites behind the twin towers of Spain and France.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
-      "publishedAt": "2026-06-23T07:00:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "81bb6090989f9c",
-      "title": "Who will win Young Player of the Tournament at the 2026 World Cup?",
-      "summary": "Enzo Fernandez is the holder of the gong after helping Argentina to World Cup glory in Qatar four years ago, but who will win Young Player of the Tournament in ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-young-player-of-the-tournament-at-the-2026-world-cup-nico-oreilly-in-the-running",
-      "publishedAt": "2026-06-23T07:00:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "626b603bcba06d",
-      "title": "Listen: Respect Brazil or go for it? Scotland's World Cup call",
-      "summary": "Can Scotland take the game to Brazil?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ntknqz?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "787371d52f448b",
-      "title": "Liverpool hit with huge Yan Diomande transfer blow as Jamie Carragher sends warning",
-      "summary": "A journalist has revealed the mountain Liverpool will have to climb this summer in order to sign Yan Diomande from RB Leipzig.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-yan-diomande-transfer-blow-jamie-carragher",
-      "publishedAt": "2026-06-23T06:40:17.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "006588133582ee",
-      "title": "The Wayne Rooney Show",
-      "summary": "Why Ghana could shock England... Essien on World Cup belief and agony.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ntkkzt?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T06:39:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "88b98b5007f5d1",
-      "title": "Ten transfer records which should be shattered by Liverpool, Arsenal and Spurs this summer",
-      "summary": "Arsenal should break a couple of transfer records in a lavish summer window, as will Spurs, Manchester United and Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ten-transfer-records-shattered-liverpool-arsenal-spurs",
-      "publishedAt": "2026-06-23T06:30:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "40dc4a0972b3d6",
-      "title": "Why Scotland can't play for draw or narrow defeat against Brazil",
-      "summary": "A draw or even narrow defeat could mean Scotland qualify for the knockout stage of the World Cup. But how difficult is it to play a game you do not need to win?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79ylvq54e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T06:16:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "34d23c3e76573a",
-      "title": "Real Madrid XI under Jose Mourinho if Florentino Perez pulls off €433m triple deal",
-      "summary": "How Real Madrid could line up under manager Jose Mourinho if president Florentino Perez gets his wish regarding three major targets…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-dream-xi-jose-mourinho-alessandro-bastoni-michael-olise-enzo-fernandes",
-      "publishedAt": "2026-06-23T06:12:33.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1a6b33c760a359",
-      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
-      "summary": "Kylian Mbappe is destined to absolutely shatter the all-time World Cup scoring record while winning myriad trophies for France and Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
-      "publishedAt": "2026-06-23T06:02:46.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "fde3cbdc20458e",
-      "title": "The Ronaldo Show, Mbappe v Haaland among five World Cup games not to miss this week",
-      "summary": "Five to watch this week features Ronaldo, Mbappe, Haaland and… Cape Verdi. Who’s got the stamina for a 10-hour nightshift?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-2026-five-games-not-to-miss-this-week-ronaldo-portugal-france-cape-verdi-belgium",
-      "publishedAt": "2026-06-23T05:59:16.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3bfff2757ee674",
-      "title": "Messi in a class of his own and rain stops play in Philadelphia – World Cup Daily",
-      "summary": "Max Rushden is joined by Barry Glendenning , Alexander Abnos and Mark Langdon as Lionel Messi becomes the all-time top goalscorer at World Cups, while there’s a huge st...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/23/messi-in-a-class-of-his-own-and-rain-stops-play-in-philadelphia-world-cup-daily",
-      "publishedAt": "2026-06-23T05:59:01.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Crystal Palace in second",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are languishing behind eight clubs – including four Premier League rivals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-23T05:55:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "41c2ab0ae68e5d",
-      "title": "Miami romance, Billy Gilmour and a mince and tattie hot dog",
-      "summary": "Another city. Another ballpark. Another Tartan Army love-in. The warmth towards the Scotland fans during this World Cup burns hotter than the Florida sun.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq51860v8zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T05:51:37.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac997ec0f2d26f",
-      "title": "Algeria complete late turnaround to send Jordan home",
-      "summary": "Algeria fight back to eliminate debutants Jordan from the World Cup and keep their own knockout hopes alive in San Francisco.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyw72k34nwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T05:37:29.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
