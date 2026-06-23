@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T15:11:45.180Z",
+  "generatedAt": "2026-06-23T20:11:45.493Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,77 @@
       "pinned": true
     },
     {
-      "id": "1587e46db821c3",
-      "title": "Algeria earn turnaround win to knock out World Cup debutants Jordan",
-      "summary": "Debutants Jordan have been knocked out of the World Cup after Algeria’s second-half turnaround 2-1 win kept their hopes of qualifying for the knockout stages alive.",
+      "id": "f19ebe7b4a8589",
+      "title": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
+      "summary": "Aaron Ramsey has been appointed as the new Oxford United head coach.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/jordan-vs-algeria/report/549809",
-      "publishedAt": "2026-06-23T15:11:44.790Z",
+      "url": "https://www.skysports.com/football/news/12040/13556847/oxford-united-aaron-ramsey-appointed-head-coach-after-matt-bloomfield-exit",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "35f12ed750c4c4",
+      "title": "New Zealand eliminate Scotland with six-wicket victory",
+      "summary": "Scotland have been knocked out of the ICC Women's T20 World Cup after New Zealand secured a six-wicket win in Bristol to keep alive their own faint hopes of defending t...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13557008/icc-womens-t20-world-cup-new-zealand-eliminate-scotland-with-six-wicket-victory-and-keep-their-hopes-of-progression-alive",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ba662a0cb8f79a",
+      "title": "He has arrived! Ronaldo scores two as Portugal thrash Uzbekistan",
+      "summary": "Cristiano Ronaldo scored twice as Portugal reaffirmed their World Cup credentials with a rousing 5-0 victory over Uzbekistan.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/portugal-vs-uzbekistan/report/549810",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "eae40a43fc906c",
+      "title": "Why Sao Paulo is one of football's biggest talent factories",
+      "summary": "What makes football in Sao Paulo special? It is a question that the city’s great football clubs have been asking themselves almost as much as the European scouts who vi...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13550006/sao-paulo-is-brazils-great-talent-factory-and-now-europe-wants-in-on-the-varzea-culture-that-helps-create-wonderkids",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ad2a2712da42ed",
+      "title": "Katherine Sciver-Brunt 99 per cent sure England captain will be fit for semis",
+      "summary": "England great Katherine Sciver-Brunt said she is \"99 per cent\" confident her wife Nat will be back in time for the ICC Women's T20 World Cup semi-final should England m...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13557168/icc-womens-t20-world-cup-katherine-sciver-brunt-99-per-cent-sure-england-captain-will-be-fit-for-semis",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7f649bfcbaadbc",
+      "title": "Nasser: England must step up against unbeaten West Indies",
+      "summary": "Nasser Hussain has implored England to show their mettle as they face unquestionably the toughest test of their World Cup campaign yet against the West Indies on Wednes...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13557087/england-vs-west-indies-nasser-hussain-implores-unknown-quantity-england-to-show-their-mettle-in-toughest-world-cup-test-yet",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -117,7 +182,7 @@
       "summary": "Jack Wilshere has experienced the burden of expectation that comes with representing England at a World Cup. He felt it envelop the squad as they crashed to a group-sta...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13556939/jack-wilshere-interview-england-can-win-world-cup-with-thomas-tuchel-factor-harry-kane-goals-and-physical-dominance-in-midfield",
-      "publishedAt": "2026-06-23T15:11:44.789Z",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -126,11 +191,11 @@
     },
     {
       "id": "e6d87949fad4b0",
-      "title": "World Cup news: English ref Oliver to take charge of Norway vs France",
-      "summary": "World Cup news: English ref Oliver to take charge of Norway vs France",
+      "title": "Trump will present World Cup trophy to winners, confirms Infantino",
+      "summary": "Trump will present World Cup trophy to winners, confirms Infantino",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "publishedAt": "2026-06-23T15:11:44.789Z",
+      "publishedAt": "2026-06-23T20:11:45.160Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -138,44 +203,310 @@
       ]
     },
     {
-      "id": "d04b338a5e698c",
-      "title": "Messi, Mbappe and Haaland set blistering pace - will Kane join Golden Boot party?",
-      "summary": "Lionel Messi, Kylian Mbappe and Erling Haaland have kept up the pace in what is shaping up to be one of the most hotly-contested World Cup Golden Boot battles in memory.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-and-harry-kane-in-epic-battle-to-be-top-goalscorer",
-      "publishedAt": "2026-06-23T15:11:44.789Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "35f12ed750c4c4",
-      "title": "New Zealand eliminate Scotland with six-wicket victory",
-      "summary": "Scotland have been knocked out of the ICC Women's T20 World Cup after New Zealand secured a six-wicket win in Bristol to keep alive their own faint hopes of defending t...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13557008/icc-womens-t20-world-cup-new-zealand-eliminate-scotland-with-six-wicket-victory-and-keep-their-hopes-of-progression-alive",
-      "publishedAt": "2026-06-23T15:11:44.788Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a6ab5f9ebb9384",
-      "title": "World Cup 2026: Jordan fan dies in crowd crush; criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – live",
-      "summary": "⚽ All the latest news from day 13 of the tournament ⚽ Player guide | Bracketology | Golden Boot | Mail Will Our man in the camp David Hytner goes under the hood (nailed...",
+      "id": "988be69cec3f56",
+      "title": "England v Ghana: World Cup 2026 – live",
+      "summary": "⚽ World Cup kick-off time: 4pm EST/9pm BST/6am AEST ⚽️ Guide to all 1,248 players | Bracketology | Golden Boot Antoine Semenyo was only 10 years old when Ghana came wit...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
-      "publishedAt": "2026-06-23T15:06:40.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live",
+      "publishedAt": "2026-06-23T20:04:30.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "34905d68d10863",
+      "title": "Mendes scores 'brilliant' second goal for Portugal",
+      "summary": "Nuno Mendes and Cristiano Ronaldo trick the entire stadium to score a second goal for Portugal against Uzbekistan in their Group K match in the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T20:02:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9ef74ab8536883",
+      "title": "Real sign Schroeder in 'most expensive' women's transfer",
+      "summary": "BK Hacken teenager Felicia Schroeder has joined Real Madrid in a deal that makes the 19-year-old forward \"the most expensive transfer ever in women's football\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lyk13989ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T19:54:40.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "5d727df19aad06",
+      "title": "Portugal thrash Uzbekistan as Ronaldo scores twice to make history",
+      "summary": "Cristiano Ronaldo becomes the first player to score in six World Cups as his double helps Portugal thrash Uzbekistan.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c932y4rrw02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T19:47:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0bde021058fdd6",
+      "title": "Tell us your stories of Scotland's World Cup",
+      "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T19:37:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bef3838c0b9da7",
+      "title": "Cristiano Ronaldo ends his goal drought as rampant Portugal outclass Uzbekistan",
+      "summary": "Golden oldies fighting for the golden boot? Let us not get ahead of ourselves. But it will do Cristiano Ronaldo’s ego no harm that he is off the mark at this World Cup,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/23/portugal-uzbekistan-world-cup-group-k-match-report",
+      "publishedAt": "2026-06-23T19:20:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "07785ca66f49ea",
+      "title": "Ronaldo bags World Cup brace but ‘would’ve scored’ hat-trick four years ago",
+      "summary": "Lee Dixon felt Cristiano Ronaldo “would’ve scored” a goal which would have ensured a World Cup hat-trick four years ago, suggesting his assets are fading.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronaldo-bags-world-cup-brace-wouldve-scored-hat-trick-four-years-ago",
+      "publishedAt": "2026-06-23T19:18:28.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c1f90fb7f96651",
+      "title": "Transfer latest: Spurs push for Fernandes and Tonali, Chelsea like Palestra",
+      "summary": "Tottenham also among clubs tracking Summerville Chelsea consider move for Como’s Jacobo Ramón Roberto De Zerbi has been given significant funds and is looking to make t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/23/transfer-latest-spurs-mateus-fernandes-sandro-tonali-chelsea-marco-palestra",
+      "publishedAt": "2026-06-23T19:17:20.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3d59af2b0df204",
+      "title": "Ronaldo scores in sixth World Cup as Portugal thrash Uzbekistan",
+      "summary": "Cristiano Ronaldo became the first player to score in six World Cups with two goals in Tuesday’s emphatic 5-0 Group K win over Uzbekistan.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/portugal-uzbekistan-world-cup-match-report",
+      "publishedAt": "2026-06-23T19:14:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f310bdd3ff4d7b",
+      "title": "Ronaldo goals won’t please ‘everyone who loves football’ but he’s made his point",
+      "summary": "ITV’s insistence that Cristiano Ronaldo is some universally loved football hero was grating, but he and Portugal have made their mark now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/cristiano-ronaldo-world-cup-records-portugal-uzbekistan",
+      "publishedAt": "2026-06-23T19:10:02.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "a536b08bad9a81",
+      "title": "Iran's US entry terms changed for final group game",
+      "summary": "Iran's football team is being given extra time in the United States to prepare for their final World Cup group game, the US Department of Homeland Security says.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4y0kz56o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T18:44:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6b490d5dcf4da7",
+      "title": "Commentator stripped of Fifa credentials over Almiron rant",
+      "summary": "Fifa strip a commentator of his World Cup credentials after an on-air, expletive-laden ​rant against the organisation and match officials during Paraguay's victory over...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2xdn58ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T18:16:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "6c20be9c147da2",
+      "title": "Merson backs Arsenal to ‘dominate football’ with West Ham man the missing link",
+      "summary": "Paul Merson has backed Arsenal to “dominate football,” with the signing of a West Ham player central to their ability to go to the next level.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/merson-backs-arsenal-dominate-football-west-ham-man-missing-link",
+      "publishedAt": "2026-06-23T17:50:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9a5d39177771c2",
+      "title": "Trump to attend World Cup final and present trophy",
+      "summary": "United States president Donald Trump will attend the World Cup final and help present the trophy, says Fifa president Gianni Infantino.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T17:47:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c18f13fdfd823a",
+      "title": "More than 300 drones seized at US World Cup sites",
+      "summary": "United States authorities seize more than 300 unauthorised drones at World Cup sites.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdjkzdgeewvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T17:32:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "12bbd8547aaefb",
+      "title": "Donald Trump to present World Cup trophy to winners, says Gianni Infantino",
+      "summary": "Two men due to share trophy-presenting on 19 July ‘We are together all the time’, says Fifa president Donald Trump will hand over the World Cup trophy to the winners at...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/23/donald-trump-to-present-world-cup-trophy-infantino",
+      "publishedAt": "2026-06-23T17:13:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "d66fb65fea4860",
+      "title": "Department of Homeland Security will allow Iran to travel to US early for World Cup match",
+      "summary": "Iran will be allowed into US 48 hours before crucial game Team Melli have complained about travel conditions The US Department of Homeland Security (DHS) says it will g...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/23/department-of-homeland-security-will-allow-iran-to-travel-to-us-early-for-world-cup-match",
+      "publishedAt": "2026-06-23T16:57:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "53c6d27e17b169",
+      "title": "Ramsey appointed Oxford United head coach",
+      "summary": "Former Arsenal and Wales midfielder Aaron Ramsey is appointed Oxford United head coach.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg43gnlyzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T16:49:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "91d8dbd92f7768",
+      "title": "Have World Cup changes made final group stage games unfair?",
+      "summary": "With eight teams already having nothing to play for, has the jeopardy in the group stage at the World Cup been diminished? And are concerns over the integrity of compet...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T16:44:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b3f0c571d7dcf0",
+      "title": "Phelan named permanent Everton manager",
+      "summary": "Scott Phelan has been appointed permanent head coach of Everton Women following an interim period last season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c872y8vx2gno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T16:00:06.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "4c1216d7f76ea1",
+      "title": "When David Narey scored a screamer for Scotland against Brazil – and Jimmy Hill put his foot in it",
+      "summary": "Narey’s goal at the World Cup in 1982 was a spectacular, unexpected and beautiful strike. But was it a toe poke? By That 1980s Sports Blog If you are going to score one...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/that-1980s-sports-blog/2026/jun/23/david-narey-scotland-brazil-jimmy-hill-world-cup-1982-toe-poke",
+      "publishedAt": "2026-06-23T15:42:54.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Wirtz to Chelsea? Arsenal, Spurs linked with City star",
+      "summary": "Florian Wirtz being linked with a move to Chelsea is not a high new entry on the Rumour Ranking, while Arsenal are eyeing another winger…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-06-23T15:20:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
@@ -233,22 +564,6 @@
       ]
     },
     {
-      "id": "57bd6408dc105f",
-      "title": "Football Daily | The World Cup stage is set for a Golden Boot shootout for the ages",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! In 10 of the past 12 World Cups, six goals has been the standard to bag yourself the Golden Boot. Usually a goal per...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/23/world-cup-2026-golden-boot-football-daily-newsletter",
-      "publishedAt": "2026-06-23T13:31:41.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "71006a0b300aac",
       "title": "We live in a Messi world; let’s all just cheer up a bit, people…",
       "summary": "Don’t be the guy who watches Lionel Messi become the highest goalscorer in World Cup history and has a pop at the referees.",
@@ -272,325 +587,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "46888eecf040c4",
-      "title": "Who are the Ghana players England should look out for?",
-      "summary": "England face Ghana in their next World Cup match as both sides look to secure a place in the next round. BBC Sport takes a look at the Ghana players to look out for.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T13:09:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "896bb690fe411b",
-      "title": "The trial that saved Antoine Semenyo's career",
-      "summary": "BBC Sport traces the origin story of Manchester City and Ghana star Antoine Semenyo, and hears from former coach David Hockaday about the trial which saved his career.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c621qjnvrrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T12:59:14.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b4f02a1c68be7f",
-      "title": "Chelsea delight as Real Madrid make ‘dramatic’ U-turn on Argentina midfielder",
-      "summary": "Real Madrid are ready to sever ties with one of their young players, which will come as an encouraging sign for Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-real-madrid-nico-paz",
-      "publishedAt": "2026-06-23T12:51:41.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "ebeb8bf52fcf4b",
-      "title": "Yan Diomande urged to snub Liverpool after ‘agreement’ is reached for stunning transfer",
-      "summary": "RB Leipzig winger Yan Diomande has been told to snub interest from Liverpool in order to stay at the Bundesliga outfit for another year.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-yan-diomande-agreement-reached-transfer",
-      "publishedAt": "2026-06-23T12:51:25.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Bundesliga",
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "7b21d36b53cf7b",
-      "title": "Tottenham making ‘phone calls’ for €95m attacking duo as De Zerbi has ‘eight signings lined up’",
-      "summary": "Tottenham Hotspur are actively trying to sign two attacking players in the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-hotspur-real-madrid-cody-gakpo-franco-mastantuono",
-      "publishedAt": "2026-06-23T12:27:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "65c2145813acb2",
-      "title": "The World Cup stars being targeted by Premier League clubs",
-      "summary": "The World Cup stars being targeted by Premier League clubs. Who has caught the eye already, and which clubs are focusing on longer-term priorities?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrn4gwdy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T12:20:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1b73e772eeafef",
-      "title": "Man Utd directly tell Real Madrid midfielder’s ‘agents’ about ‘strong interest’ in signing him",
-      "summary": "Manchester United have got in touch with a Real Madrid star who is playing for his country at the ongoing 2026 World Cup finals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-real-madrid-aurelien-tchouameni-contact-agents",
-      "publishedAt": "2026-06-23T11:42:34.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "World Cup",
-        "Manchester",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "10cd3c49cf7e12",
-      "title": "From non-league to the World Cup - the Semenyo story",
-      "summary": "Winger Antoine Semenyo's football journey began in the English lower leagues. BBC Sport charts his rise from Bath City to the World Cup, with Ghana poised to face Engla...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp9p9r7gg4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T11:40:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5e3ecdb4e48a26",
-      "title": "‘You’d worry about his career’ – World Cup star warned off Arsenal transfer with Real Madrid ‘very interested’",
-      "summary": "Lille midfielder Ayyoub Bouaddi should “worry about his career” if he decides to move to Premier League side Arsenal this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-bouaddi-worry-career-real-madrid-transfer",
-      "publishedAt": "2026-06-23T11:40:06.000Z",
-      "category": "transfer",
-      "region": "england spain italy france",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1540a318f0860b",
-      "title": "Man Utd will not enter EFL Trophy next season",
-      "summary": "Manchester United will not enter the EFL Trophy or National League Cup next season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg02v1yvx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T11:37:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2c896b41f0ba17",
-      "title": "England hero ‘not that important’ to Tuchel as Three Lions were ‘a man less’ because of Gordon",
-      "summary": "Jude Bellingham is “not that important” to England despite scoring a goal as the Three Lions beat Croatia 4-2 last week at the World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/engand-bellingham-not-important-tuchel-parker-man-less-gordon",
-      "publishedAt": "2026-06-23T11:06:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4412e503bc2fcb",
-      "title": "Anderson's journey to England star and potential British record",
-      "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge of a British record transfer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T10:30:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "177554d4856c14",
-      "title": "Liverpool ‘reach agreement’ with World Cup superstar as record-breaking deal takes shape",
-      "summary": "Liverpool have convinced a winger, who is playing at the 2026 World Cup, to move to Anfield, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-rb-leipzig-yan-diomande-agreement",
-      "publishedAt": "2026-06-23T10:27:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d5543a7400f87c",
-      "title": "Arsenal strike ‘agreement’ to sign Aston Villa star as transfer hurtles towards completion",
-      "summary": "Arsenal have struck an ‘agreement in principle’ with Morgan Rogers as they prepare to open talks with Aston Villa, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-strike-agreement-aston-villa-rogers",
-      "publishedAt": "2026-06-23T10:22:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7e901cae2759e5",
-      "title": "Man Utd ‘weigh up’ approach for £50m striker who is shining at the World Cup",
-      "summary": "United’s striker search has led them to a 24-year-old hitman causing defenders nightmares at the World Cup, a report has revealed",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-news-brian-brobbey-sunderland-50-million",
-      "publishedAt": "2026-06-23T10:18:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80a31b77e09c7c",
-      "title": "Chelsea refuse to sell Martinez as Romano takes on Edwards in depressing battle",
-      "summary": "Chelsea will outright refuse to sell Martinez, whoever he is. And Fabrizio Romano versus Luke Edwards is dreadfully depressing fare.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-refuse-to-sell-martinez-romano-edwards",
-      "publishedAt": "2026-06-23T10:15:57.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "20a44284b78884",
-      "title": "Relive every World Cup match with BBC Sport's 3D Experience",
-      "summary": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? You can now watch every match back in full with BBC Sport's 3D Experience.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y70lg0j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T10:08:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "08eaae5e9af161",
-      "title": "David Squires on … the big names putting on a show at World Cup",
-      "summary": "Our cartoonist on the heroes, villains and superstar performances in week two of the tournament Buy a cartoon | Some of David’s favourite works And his latest book, Cha...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/23/david-squires-on-big-names-messi-mbappe-ronaldo-putting-on-a-show-at-world-cup",
-      "publishedAt": "2026-06-23T10:02:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "42687fc9d99f94",
-      "title": "Rogers keen on Arsenal move - Tuesday's gossip",
-      "summary": "Morgan Rogers keen on a move to Arsenal, Marcus Rashford prepared to take pay cut to join Tottenham and Spurs also confident of signing Newcastle's Sandro Tonali, plus...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg84mz08d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T09:57:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "248793cc2ba722",
-      "title": "Liverpool transfer budget is revealed as the Reds make Nunez return stance clear",
-      "summary": "Darwin Nunez is unlikely to return to Liverpool this summer with a potential deal being described as “pie in the sky”, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfer-budget-revealed-nunez-return-stance",
-      "publishedAt": "2026-06-23T09:40:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3c2753ae176e77",
-      "title": "England: Bukayo Saka no longer in pain as 26 all declared fit",
-      "summary": "England coach Thomas Tuchel said his team had no injury problems ahead of their second World Cup match against Ghana.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-ghana-saka-all-players-fit",
-      "publishedAt": "2026-06-23T09:30:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8c25174b1e49c0",
-      "title": "Arsenal get ‘green light to accelerate’ £87m deal ahead of Liverpool as Reds snooze",
-      "summary": "Arsenal are now accelerating a deal to sign PSG winger Bradley Barcola with Liverpool distracted elsewhere, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-green-light-accelerate-barcola-transfer-liverpool-snooze-diomande",
-      "publishedAt": "2026-06-23T08:56:56.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "41ab269437c532",
-      "title": "Real Madrid ‘meet’ agents of Arsenal star whose ‘dream’ is to play at Bernabeu",
-      "summary": "Real Madrid are planning a raid on Arsenal to stop the Gunners from completing a transfer they have long been planning.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-arsenal-piero-hincapie",
-      "publishedAt": "2026-06-23T08:55:39.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
       ]
     }
   ],
