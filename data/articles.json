@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T14:41:41.126Z",
+  "generatedAt": "2026-06-24T19:52:25.236Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,119 +99,12 @@
       "pinned": true
     },
     {
-      "id": "9c3b027dbf82a7",
-      "title": "In a World Cup on home soil, El Tri is making Mexi...",
-      "summary": "At Qatar 2022, there was a divide between Mexico and the country they represented. That's all changed at this World Cup on home soil.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49157347/in-world-cup-home-soil-el-tri-making-mexico-proud",
-      "publishedAt": "2026-06-24T15:26:27.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "965d2689370fdd",
-      "title": "World Cup Daily: Messi turns 39 with midnight work...",
-      "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49162159/world-cup-daily-messi-turns-39-midnight-workout-three-groups-decided",
-      "publishedAt": "2026-06-24T15:26:14.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "8e33d2bba926d5",
-      "title": "World Cup Power Rankings after two games: Who is N...",
-      "summary": "All 48 teams have played twice now, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like as we get closer to the...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49154319/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "publishedAt": "2026-06-24T15:25:22.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0a7b9f6d4332e0",
-      "title": "🤔 Permutations: How teams qualify for knockouts",
-      "summary": "Who can secure qualification before the group stage ends, and whose World Cup dreams could be shattered? Here's what you need to know.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49031236/2026-world-cup-group-stage-clinching-scenarios-knockout-rounds-elimination",
-      "publishedAt": "2026-06-24T15:25:17.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5e8e86c932cddc",
-      "title": "Fernandes relieved over Ronaldo's brace",
-      "summary": "Bruno Fernandes was relieved that Portugal teammate Cristiano Ronaldo opened his goal account with two strikes at the World Cup on Tuesday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49163841/bruno-fernandes-relieved-cristiano-ronaldo-brace",
-      "publishedAt": "2026-06-24T15:25:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e08585b0755ba4",
-      "title": "Raphinha will give 'everything' to return at WCup",
-      "summary": "Barcelona's Raphinha says he will do everything within his power to play again at the World Cup this summer, with the Brazil forward set to miss Wednesday's final Group...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49164178/brazil-raphinha-world-cup-everything-my-power-play-again",
-      "publishedAt": "2026-06-24T15:25:16.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "e71e44e6bc8581",
-      "title": "Ronaldo snaps goal drought, 1st to score at 6 WCs",
-      "summary": "Cristiano Ronaldo made history Tuesday by becoming the first player to score in six different World Cups, finding the net in Portugal's 5-0 win over Uzbekistan.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan",
-      "publishedAt": "2026-06-24T15:24:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "319cecf7969923",
-      "title": "Sources: Atleti 'furious' with Barça over Álvarez",
-      "summary": "Atlético Madrid are upset with Julián Álvarez's revelation that he wants to leave the club this summer and with Barcelona for pushing the Argentina forward to make a pu...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49153868/atletico-madrid-ceo-refuses-transfer-julian-alvarez-threatens-fifa-complaint-barcelona",
-      "publishedAt": "2026-06-24T15:24:15.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "2cbfc002ae745c",
-      "title": "'PlayStation' Palestra runs like a panther and can help Chelsea",
-      "summary": "\"He seems like a player built on the PlayStation,\" Cagliari head coach Fabio Pisacane told Sky in Italy recently. \"Ninety-nine per cent acceleration and so on. He is ha...",
+      "id": "991408d224d1ac",
+      "title": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
+      "summary": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13557345/marco-palestra-to-chelsea-why-atalanta-wing-backs-dribbling-and-running-power-makes-him-a-fit-for-the-premier-league",
-      "publishedAt": "2026-06-24T14:41:40.851Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-06-24T19:52:24.926Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -219,43 +112,16 @@
       ]
     },
     {
-      "id": "f19ebe7b4a8589",
-      "title": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
-      "summary": "Aaron Ramsey has been appointed as the new Oxford United head coach.",
+      "id": "0b446b353a0b5f",
+      "title": "Tuchel: England cannot rely on Saka for goals - but we need him desperately",
+      "summary": "Thomas Tuchel says England cannot rely on the returning Bukayo Saka to solve their World Cup goalscoring issues, but he does admit: “We need him desperately.”",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556847/oxford-united-aaron-ramsey-appointed-head-coach-after-matt-bloomfield-exit",
-      "publishedAt": "2026-06-24T14:41:40.851Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "783f376ed87a22",
-      "title": "Why Austria may prefer to lose their final World Cup group game",
-      "summary": "Austria may prefer to lose their final World Cup group game in a potentially controversial finish to Group J.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13557299/world-cup-2026-why-austria-may-prefer-to-lose-their-final-world-cup-group-j-game-against-algeria",
-      "publishedAt": "2026-06-24T14:41:40.851Z",
+      "url": "https://www.skysports.com/football/news/12040/13557459/england-at-the-world-cup-thomas-tuchel-talks-bukayo-saka-and-marc-guehi-ezri-konsa-centre-back-partnership-against-ghana",
+      "publishedAt": "2026-06-24T19:52:24.926Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "127cdb04716599",
-      "title": "Papers: Chelsea could sell Gusto to pave way for Palestra deal",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13557278/paper-talk-x",
-      "publishedAt": "2026-06-24T14:41:40.851Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
       ]
     },
     {
@@ -264,7 +130,7 @@
       "summary": "Tottenham are considering making a bid for West Ham midfielder Mateus Fernandes, Sky Sports News understands, but could still face competition from Manchester United.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557379/transfer-news-man-utd-and-tottenham-battling-for-west-hams-mateus-fernandes-and-arsenal-target-alex-scott",
-      "publishedAt": "2026-06-24T14:41:40.850Z",
+      "publishedAt": "2026-06-24T19:52:24.926Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -278,7 +144,7 @@
       "summary": "Leeds United have agreed a deal to sign Harry Wilson on a free transfer.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557327/leeds-transfer-news-harry-wilson-agreement-reached-as-midfielder-set-to-sign-on-free-transfer-when-fulham-contract-expires",
-      "publishedAt": "2026-06-24T14:41:40.850Z",
+      "publishedAt": "2026-06-24T19:52:24.926Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -286,18 +152,259 @@
       ]
     },
     {
-      "id": "bfcb513191280c",
-      "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-      "summary": "⚽ All the latest news on a day packed with six matches ⚽ Player guide | Bracketology | Golden Boot | Mail Daniel How do we feel about the penalty that wasn’t? I don’t r...",
+      "id": "00501ae8bc33a0",
+      "title": "Bosnia and Herzegovina v Qatar: World Cup 2026 – live",
+      "summary": "⚽ Match in Seattle kicks off at 12pm local time/3pm ET/8pm BST ⚽ Player guide | Bracketology | Golden Boot | Mail Will Before each game in Bosnia and Herzegovina’s Worl...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live",
-      "publishedAt": "2026-06-24T14:22:08.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/bosnia-and-herzegovina-v-qatar-world-cup-2026-live",
+      "publishedAt": "2026-06-24T19:40:40.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "51d0d9cec736ff",
+      "title": "Switzerland v Canada: World Cup 2026 – live",
+      "summary": "⚽ Match kicks off at 12pm local time/3pm ET/8pm BST ⚽ Player guide | Bracketology | Golden Boot “‘Switzerland and Canada have already qualified for the last 32 of the W...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live",
+      "publishedAt": "2026-06-24T19:40:31.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Crystal Palace leapfrog PSG and Messi FC into second",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are languishing behind eight clubs – including four Premier League rivals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-06-24T19:36:06.000Z",
+      "category": "worldcup",
+      "region": "england france",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "3aedfc55c80e1d",
+      "title": "Chelsea starter told he ‘can leave’ as Blues prepare £50m offer for French World Cup star",
+      "summary": "Chalobah has been told he ‘can leave’ Chelsea this summer amid interest from Serie A as the Blues prepare a £50m offer for his replacement.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-star-can-leave-blues-ready-50m-offer-french-world-cup-star",
+      "publishedAt": "2026-06-24T19:10:04.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Serie A",
+        "World Cup",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "92596d08c5c0ff",
+      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T18:42:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "837771892587eb",
+      "title": "Bouaddi sets condition to join Liverpool from Lille after fresh talks over £69m transfer",
+      "summary": "Ayyoub Bouaddi has set a key condition to join Liverpool – or indeed Arsenal – this summer after the Reds chiefs held ‘fresh talks’ with the 18-year-old’s representativ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bouaddi-sets-condition-to-join-liverpool-from-lille-after-fresh-talks-over-69m-transfer",
+      "publishedAt": "2026-06-24T18:18:15.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "329cb3cce6be06",
+      "title": "Villa fans get suspended ban for discriminatory behaviour",
+      "summary": "Aston Villa could be banned from selling tickets for a European away game next season following an incident at the Europa League final.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly79e29l3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T17:43:02.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "83ae51da64f519",
+      "title": "Marco Palestra ‘going to Chelsea for the money’ as 27 ‘disgraced’ BlueCo signings proof of ‘curse’",
+      "summary": "Marco Palestra is ‘going to Chelsea for the money’ after the Blues agreed a long-term deal with the Italian which will see him earn €5m [£4.3m] per year plus bonuses.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/marco-palestra-going-to-chelsea-for-the-money-as-27-disgraced-blueco-signings-proof-of-curse",
+      "publishedAt": "2026-06-24T17:36:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "988a3346d7bdc6",
+      "title": "Vieira expects England to reach World Cup semis ‘at least’ with club team-mates swapping roles",
+      "summary": "Patrick Vieira expects England to reach the World Cup semi-finals “at least” and believes we’ll see more of one star in place of his club team-mate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/vieira-expects-england-reach-world-cup-semis-club-team-mates-saka-madueke-swap",
+      "publishedAt": "2026-06-24T16:47:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cad91c7d163dae",
+      "title": "BBC extends deal for Scotland, Wales and NI games",
+      "summary": "Men's international games for Scotland, Wales and Northern Ireland will continue to be broadcast on the BBC.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq81ep9v1x5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T16:00:16.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "7d0d40faf81116",
+      "title": "England's James and Rice to have fitness assessed",
+      "summary": "England will assess the fitness of Reece James and Declan Rice before their final World Cup group game against Panama.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T16:00:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c324301cd27682",
+      "title": "Alonso’s early transfer business signals Chelsea intent that’s great for Palmer but bad for Estevao",
+      "summary": "Alonso’s Chelsea blueprint has become clear through his first signing and interest in a Leeds star. It’s great news for Palmer and many others, but not so good for Este...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alonso-first-second-signings-chelsea-intent-great-palmer-but-estevao",
+      "publishedAt": "2026-06-24T15:56:23.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "054c1daec92343",
+      "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+      "summary": "This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace • Golden Boot: World Cup 2026 top goalscorers • All-time...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest",
+      "publishedAt": "2026-06-24T15:56:11.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5f7740cff35098",
+      "title": "Spurs sign Dubravka on free transfer amid doubts over Vicario future",
+      "summary": "Tottenham have agreed a deal to sign goalkeeper Martin Dubravka on a free transfer when his contract with Burnley expires on 1 July.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2de7gnj9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T15:26:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "00cb9e37e12cac",
+      "title": "Rice drawbacks clear as Rooney tells England they ‘need’ star pair who are sat at home",
+      "summary": "Wayne Rooney feels England have already been shown they should have taken two star players to the World Cup, as Declan Rice doesn’t have the right skillset to succeed w...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rice-drawbacks-clear-england-need-star-pair-sat-home-palmer-foden",
+      "publishedAt": "2026-06-24T15:13:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ddc5b4e5d5f743",
+      "title": "Germany’s Kai Havertz: ‘I make runs that look pointless but I’m creating space’",
+      "summary": "Forward on the misunderstanding of his role and momentum the four-time champions have put together for a winning World Cup campaign after topping their group Kai Havert...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/24/kai-havertz-germany-world-cup-2026-interview",
+      "publishedAt": "2026-06-24T15:00:48.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: London calling for Camavinga?",
+      "summary": "Eduardo Camavinga might reluctantly have to accept a move to the Premier League this summer, while Aston Villa are linked with a Newcastle star…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-06-24T14:40:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "53807b40ca9194",
+      "title": "Football Daily | The dullest game of the World Cup so far? Welcome back, England",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! England, an apology. Football Daily and the wider English media may have previously depicted Thomas Tuchel’s lads as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/24/england-dullest-match-world-cup-2026-football-daily-newsletter",
+      "publishedAt": "2026-06-24T14:31:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
       ]
     },
     {
@@ -341,46 +448,6 @@
       ]
     },
     {
-      "id": "97c5464a048ada",
-      "title": "USMNT's World Cup success brings dilemma: Rotate t...",
-      "summary": "The USMNT has clinched a spot in the World Cup knockouts, so should the team rotate in its final Group D match or stay consistent?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49140112/usmnt-faces-world-cup-dilemma-vs-turkiye-rotate-squad-keep-same-xi",
-      "publishedAt": "2026-06-24T13:51:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2a4746a42c6d39",
-      "title": "The World Cup's biggest winners and losers: From t...",
-      "summary": "All 48 teams in the World Cup have played exactly two games, so we look at the players and nations who were winners and losers.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49159042/world-cup-biggest-winners-losers-reactions-all-48-teams-second-games",
-      "publishedAt": "2026-06-24T13:48:41.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6b7d81c1a1c575",
-      "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
-      "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49161306/a-week-life-2026-world-cup-player-curacao-gervane-kastaneer",
-      "publishedAt": "2026-06-24T13:34:23.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
       "id": "109c4ba27accb9",
       "title": "The biggest spenders of the 2026 summer transfer window",
       "summary": "Liverpool are currently the continent’s biggest spenders, starting the window as they finished last summer…",
@@ -408,19 +475,6 @@
         "Chelsea",
         "Real Madrid",
         "Inter"
-      ]
-    },
-    {
-      "id": "47929896feca4a",
-      "title": "Worries exposed for England as Kane looks lost and...",
-      "summary": "England's stats vs. Ghana were dominant -- more possession, more shots, more passes -- but the goals never came, raising concerns for this World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49157690/england-scoreless-draw-ghana-exposes-world-cup-run-worries",
-      "publishedAt": "2026-06-24T13:20:34.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -460,49 +514,6 @@
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "39af5dcece454f",
-      "title": "Transfer rumors, news: Chelsea close on Atalanta d...",
-      "summary": "Manchester United and Arsenal are both interested in Bournemouth midfielder Alex Scott. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49162828/transfer-rumors-news-man-united-arsenal-eye-bournemouth-star",
-      "publishedAt": "2026-06-24T13:00:12.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9a1d5a6edfe3cd",
-      "title": "Why Real Madrid spent so much to land Sweden star ...",
-      "summary": "Real Madrid have reportedly spent a new world record fee to land teenage striker Felicia Schröder. Here's everything you need to know.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49163549/why-real-madrid-spent-much-land-sweden-star-schroder",
-      "publishedAt": "2026-06-24T13:00:12.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "0310bf721777b7",
-      "title": "From military brats to birthright citizens: how USMNT’s magnificent mess became its strength",
-      "summary": "For years the United States sought a single soccer identity. Instead, its best team emerged from a patchwork of backgrounds, cultures and development paths In 1993, the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/24/usmnt-diverse-pathways-american-soccer-development-2026-world-cup",
-      "publishedAt": "2026-06-24T12:43:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer"
       ]
     },
     {
@@ -576,7 +587,7 @@
     },
     {
       "id": "343dfc0e31b32f",
-      "title": "Defender Gusto considering Chelsea future",
+      "title": "Gusto considering Chelsea future as club apply £75m price tag",
       "summary": "Chelsea defender Malo Gusto is exploring his options to leave this summer, with the club placing a £75m price tag on him.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/czj8v1pz204o?at_medium=RSS&at_campaign=rss",
