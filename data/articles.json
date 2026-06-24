@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:11:45.493Z",
+  "generatedAt": "2026-06-24T03:59:59.411Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,25 @@
       "pinned": true
     },
     {
-      "id": "f19ebe7b4a8589",
-      "title": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
-      "summary": "Aaron Ramsey has been appointed as the new Oxford United head coach.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556847/oxford-united-aaron-ramsey-appointed-head-coach-after-matt-bloomfield-exit",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "35f12ed750c4c4",
       "title": "New Zealand eliminate Scotland with six-wicket victory",
       "summary": "Scotland have been knocked out of the ICC Women's T20 World Cup after New Zealand secured a six-wicket win in Bristol to keep alive their own faint hopes of defending t...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13557008/icc-womens-t20-world-cup-new-zealand-eliminate-scotland-with-six-wicket-victory-and-keep-their-hopes-of-progression-alive",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "publishedAt": "2026-06-24T03:59:58.985Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0388b4fa2c51c5",
+      "title": "Perry stars as Australia cruise to 113-run win vs Pakistan",
+      "summary": "Ellyse Perry starred with both bat and ball to help Australia continue their unbeaten run at the ICC Women's T20 World Cup, as her side cruised to a 113-run victory ove...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13557105/icc-womens-t20-world-cup-ellyse-perry-stars-with-bat-and-ball-as-australia-continue-unbeaten-run-with-113-run-win-vs-pakistan",
+      "publishedAt": "2026-06-24T03:59:58.985Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -130,7 +130,7 @@
       "summary": "Cristiano Ronaldo scored twice as Portugal reaffirmed their World Cup credentials with a rousing 5-0 victory over Uzbekistan.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/portugal-vs-uzbekistan/report/549810",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "publishedAt": "2026-06-24T03:59:58.985Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,7 +143,7 @@
       "summary": "What makes football in Sao Paulo special? It is a question that the city’s great football clubs have been asking themselves almost as much as the European scouts who vi...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13550006/sao-paulo-is-brazils-great-talent-factory-and-now-europe-wants-in-on-the-varzea-culture-that-helps-create-wonderkids",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "publishedAt": "2026-06-24T03:59:58.985Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,12 +151,25 @@
       ]
     },
     {
-      "id": "ad2a2712da42ed",
-      "title": "Katherine Sciver-Brunt 99 per cent sure England captain will be fit for semis",
-      "summary": "England great Katherine Sciver-Brunt said she is \"99 per cent\" confident her wife Nat will be back in time for the ICC Women's T20 World Cup semi-final should England m...",
+      "id": "f19ebe7b4a8589",
+      "title": "Oxford appoint former Arsenal and Wales star Ramsey as head coach",
+      "summary": "Aaron Ramsey has been appointed as the new Oxford United head coach.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13557168/icc-womens-t20-world-cup-katherine-sciver-brunt-99-per-cent-sure-england-captain-will-be-fit-for-semis",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
+      "url": "https://www.skysports.com/football/news/12040/13556847/oxford-united-aaron-ramsey-appointed-head-coach-after-matt-bloomfield-exit",
+      "publishedAt": "2026-06-24T03:59:58.984Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "dcfff9debf76c4",
+      "title": "Croatia bounce back as Budimir strike eliminates Panama",
+      "summary": "Ante Budimir came off the bench to ignite Croatia's World Cup and eliminate Panama as the 2018 finalists won 1-0 in Toronto.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13554940/world-cup-2026-panama-0-1-croatia-ante-budimir-scores-from-bench-to-kickstart-2018-finalists-tournament",
+      "publishedAt": "2026-06-24T03:59:58.984Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -164,58 +177,330 @@
       ]
     },
     {
-      "id": "7f649bfcbaadbc",
-      "title": "Nasser: England must step up against unbeaten West Indies",
-      "summary": "Nasser Hussain has implored England to show their mettle as they face unquestionably the toughest test of their World Cup campaign yet against the West Indies on Wednes...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13557087/england-vs-west-indies-nasser-hussain-implores-unknown-quantity-england-to-show-their-mettle-in-toughest-world-cup-test-yet",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "912e1f9c3c6e07",
-      "title": "Wilshere: Tuchel factor can help England win the World Cup",
-      "summary": "Jack Wilshere has experienced the burden of expectation that comes with representing England at a World Cup. He felt it envelop the squad as they crashed to a group-sta...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556939/jack-wilshere-interview-england-can-win-world-cup-with-thomas-tuchel-factor-harry-kane-goals-and-physical-dominance-in-midfield",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e6d87949fad4b0",
-      "title": "Trump will present World Cup trophy to winners, confirms Infantino",
-      "summary": "Trump will present World Cup trophy to winners, confirms Infantino",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "publishedAt": "2026-06-23T20:11:45.160Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "988be69cec3f56",
-      "title": "England v Ghana: World Cup 2026 – live",
-      "summary": "⚽ World Cup kick-off time: 4pm EST/9pm BST/6am AEST ⚽️ Guide to all 1,248 players | Bracketology | Golden Boot Antoine Semenyo was only 10 years old when Ghana came wit...",
+      "id": "3e847cf9c8a397",
+      "title": "Colombia v DR Congo: World Cup 2026 – live",
+      "summary": "⚽️ Kick-off time: 8pm local/12pm AEST/3am BST/10pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Martin Today’s other game was the Group I clash between Engla...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live",
-      "publishedAt": "2026-06-23T20:04:30.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest",
+      "publishedAt": "2026-06-24T03:52:26.000Z",
       "category": "worldcup",
-      "region": "england italy",
+      "region": "italy",
       "tags": [
         "Football",
         "World Cup",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e625ca4548941a",
+      "title": "Ancelotti's quest to end Brazil's 24-year wait for World Cup glory",
+      "summary": "BBC Scotland's Andy Burke looks at Carlo Ancelotti and his mission at Brazil before their final Group C game against Scotland.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced4555y6z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T03:42:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "307296fdb29c03",
+      "title": "No extra revenue for Fifa from hydration breaks - Infantino",
+      "summary": "Hydration breaks at the World Cup are \"purely a sporting matter\" and bring \"no additional revenue for Fifa\", says president Gianni Infantino.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1ly8emz4n1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T02:27:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "4eb3b483be625d",
+      "title": "Quiz: How well do you know birthday boy Messi at World Cups?",
+      "summary": "Argentina great Lionel Messi turns 39 today and has been lighting up the World Cup this summer, but how well do you know his journey so far?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czdejv5z320o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T02:21:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "90c2e7ea7ddd2d",
+      "title": "Croatia earn narrow win to knock out Panama",
+      "summary": "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in Group L with a win over Panama, who are knocked out of the World Cu...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yz5lyzz24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T02:19:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "856b1872e2ea6f",
+      "title": "Scotsmaxxing hits Ocean Drive as Tartan Army’s World Cup party goes on",
+      "summary": "The Boston consensus appeared to be that the city centre hadn’t been so lively in years. Miami has its turn now “It’s hot, too hot. Very, very hot,” says Clark from Dal...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/24/scotsmaxxing-ocean-drive-tartan-army-world-cup-party-miami",
+      "publishedAt": "2026-06-24T01:27:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "92ece3e41fcfc9",
+      "title": "Budimir rescues Croatia with winner against Panama on Modric’s landmark day",
+      "summary": "When it was all done, and Ante Budimir had rescued Croatia’s World Cup campaign with the lone goal in a tight match against Panama, 25 Croatians donned black T-shirts o...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/24/croatia-panama-world-cup-2026-match-report",
+      "publishedAt": "2026-06-24T01:23:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b4453b889bdfee",
+      "title": "Croatia knock Panama out of World Cup via Budimir winner",
+      "summary": "Croatia netted a second-half goal from substitute Ante Budimir to beat Panama 1-0 for their first points of the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/panama-croatia-world-cup-match-report",
+      "publishedAt": "2026-06-24T01:06:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: England fall after familiar game-two failings",
+      "summary": "England are significant fallers in our latest 2026 World Cup Power Rankings after doing what they always do in game two.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-23T23:45:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0a2d874b7dc74f",
+      "title": "Tuchel credits 'committed' Ghana defending after England draw",
+      "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T23:25:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f4e6ba190ed138",
+      "title": "Thomas Tuchel left gobsmacked by Kane miss as England fluff their lines in Boston",
+      "summary": "The Three Lions were unable to repeat the flowing football that powered them to victory against Croatia in their opening contest as they were frustrated by a discipline...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thomas-tuchel-gobsmacked-late-harry-kane-miss-england-draw-ghana-world-cup",
+      "publishedAt": "2026-06-23T22:56:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e279acb2c1a6ea",
+      "title": "England held to goalless draw by Ghana",
+      "summary": "England fail to repeat their performance that overpowered Croatia in their first World Cup game as they are held to a draw by a resolute Ghana at Boston Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c04yqexwpn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T22:41:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2aed55b988c6c5",
+      "title": "Rice remains positive after England draw with Ghana",
+      "summary": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvg5vd1z2xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T22:28:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b96669aefbedba",
+      "title": "'Anxious moment for England' - should this have been Ghana penalty?",
+      "summary": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T22:05:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2db511390e5320",
+      "title": "Spence appears not to shake hands with Partey",
+      "summary": "Footage circulating on social media appears to show England's Djed Spence not shaking hands with Ghana's Thomas Partey before their World Cup group match in Boston.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T21:46:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d723f6a641b11d",
+      "title": "'I'm back' - record-breaking Ronaldo answers critics",
+      "summary": "Portugal forward Cristiano Ronaldo provides the perfect response to those that doubted him as he becomes the first player to score at six World Cups.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyx746enj9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T21:33:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1dd40a8a16de9e",
+      "title": "Man Utd want USMNT star as ‘smart rebuild’ option for Carrick",
+      "summary": "Manchester United are one of the clubs eager to land a USMNT star, who’s been suggested as a ‘smart rebuild option’ for Michael Carrick’s side.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-want-usmnt-star-adams-smart-rebuild-option-carrick",
+      "publishedAt": "2026-06-23T21:29:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9dc8c16721b2ee",
+      "title": "Man Utd & Arsenal track Scott - Wednesday gossip",
+      "summary": "Manchester United and Arsenal are tracking Alex Scott, while the Gunners are also in contact with Leicester City over a deal for Jeremy Monga, Aston Villa express stron...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T20:55:15.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
         "Manchester",
         "Inter"
+      ]
+    },
+    {
+      "id": "5bfcd704d1ae18",
+      "title": "Chelsea close in on Palestra as Alonso's first signing",
+      "summary": "Chelsea are set to sign Atalanta defender Marco Palestra for a fee in excess of £43m.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ey7vp051yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T20:52:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "4e94b89acb62c8",
+      "title": "‘I’m back’: Ronaldo’s relief after double kickstarts Portugal World Cup push",
+      "summary": "41-year-old heavily criticised after DR Congo draw ‘It felt like I’d already retired from football,’ he adds Cristiano Ronaldo savoured the end of a “difficult, dark we...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/23/difficult-dark-week-ronaldo-relief-double-kickstarts-portugal",
+      "publishedAt": "2026-06-23T20:46:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Crystal Palace in second",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are languishing behind eight clubs – including four Premier League rivals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-06-23T20:38:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f342b7682db9f5",
+      "title": "Arsenal in line for boost if Aston Villa land two-goal World Cup star in £43m deal",
+      "summary": "Arsenal are in line for a boost if Aston Villa turn their interest in a £43million-rated World Cup striker into a transfer this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-boost-aston-villa-signing-world-cup-striker-balogun",
+      "publishedAt": "2026-06-23T20:37:14.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2a7fc1be19374c",
+      "title": "Deschamps returns to France after death of his mother",
+      "summary": "France head coach Didier Deschamps will miss his side's final World Cup group game following the death of his mother, the French Football Federation confirms.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1yxgvko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T20:33:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f0ed37bbd896b4",
+      "title": "Scotland have coping strategy for weather delays",
+      "summary": "Head coach Steve Clarke says Scotland have plans in place to deal with any weather delays that might affect their crucial World Cup match with Brazil in Miami.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp36q1w0yg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T20:19:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -273,20 +558,6 @@
       ]
     },
     {
-      "id": "bef3838c0b9da7",
-      "title": "Cristiano Ronaldo ends his goal drought as rampant Portugal outclass Uzbekistan",
-      "summary": "Golden oldies fighting for the golden boot? Let us not get ahead of ourselves. But it will do Cristiano Ronaldo’s ego no harm that he is off the mark at this World Cup,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/23/portugal-uzbekistan-world-cup-group-k-match-report",
-      "publishedAt": "2026-06-23T19:20:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "07785ca66f49ea",
       "title": "Ronaldo bags World Cup brace but ‘would’ve scored’ hat-trick four years ago",
       "summary": "Lee Dixon felt Cristiano Ronaldo “would’ve scored” a goal which would have ensured a World Cup hat-trick four years ago, suggesting his assets are fading.",
@@ -313,280 +584,6 @@
         "Premier League",
         "Transfer",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "3d59af2b0df204",
-      "title": "Ronaldo scores in sixth World Cup as Portugal thrash Uzbekistan",
-      "summary": "Cristiano Ronaldo became the first player to score in six World Cups with two goals in Tuesday’s emphatic 5-0 Group K win over Uzbekistan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/portugal-uzbekistan-world-cup-match-report",
-      "publishedAt": "2026-06-23T19:14:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f310bdd3ff4d7b",
-      "title": "Ronaldo goals won’t please ‘everyone who loves football’ but he’s made his point",
-      "summary": "ITV’s insistence that Cristiano Ronaldo is some universally loved football hero was grating, but he and Portugal have made their mark now.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/cristiano-ronaldo-world-cup-records-portugal-uzbekistan",
-      "publishedAt": "2026-06-23T19:10:02.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a536b08bad9a81",
-      "title": "Iran's US entry terms changed for final group game",
-      "summary": "Iran's football team is being given extra time in the United States to prepare for their final World Cup group game, the US Department of Homeland Security says.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k4y0kz56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T18:44:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6b490d5dcf4da7",
-      "title": "Commentator stripped of Fifa credentials over Almiron rant",
-      "summary": "Fifa strip a commentator of his World Cup credentials after an on-air, expletive-laden ​rant against the organisation and match officials during Paraguay's victory over...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2xdn58ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T18:16:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "6c20be9c147da2",
-      "title": "Merson backs Arsenal to ‘dominate football’ with West Ham man the missing link",
-      "summary": "Paul Merson has backed Arsenal to “dominate football,” with the signing of a West Ham player central to their ability to go to the next level.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/merson-backs-arsenal-dominate-football-west-ham-man-missing-link",
-      "publishedAt": "2026-06-23T17:50:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9a5d39177771c2",
-      "title": "Trump to attend World Cup final and present trophy",
-      "summary": "United States president Donald Trump will attend the World Cup final and help present the trophy, says Fifa president Gianni Infantino.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cze9wp8r6lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T17:47:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "c18f13fdfd823a",
-      "title": "More than 300 drones seized at US World Cup sites",
-      "summary": "United States authorities seize more than 300 unauthorised drones at World Cup sites.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdjkzdgeewvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T17:32:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "12bbd8547aaefb",
-      "title": "Donald Trump to present World Cup trophy to winners, says Gianni Infantino",
-      "summary": "Two men due to share trophy-presenting on 19 July ‘We are together all the time’, says Fifa president Donald Trump will hand over the World Cup trophy to the winners at...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/23/donald-trump-to-present-world-cup-trophy-infantino",
-      "publishedAt": "2026-06-23T17:13:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "d66fb65fea4860",
-      "title": "Department of Homeland Security will allow Iran to travel to US early for World Cup match",
-      "summary": "Iran will be allowed into US 48 hours before crucial game Team Melli have complained about travel conditions The US Department of Homeland Security (DHS) says it will g...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/23/department-of-homeland-security-will-allow-iran-to-travel-to-us-early-for-world-cup-match",
-      "publishedAt": "2026-06-23T16:57:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "53c6d27e17b169",
-      "title": "Ramsey appointed Oxford United head coach",
-      "summary": "Former Arsenal and Wales midfielder Aaron Ramsey is appointed Oxford United head coach.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg43gnlyzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T16:49:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "91d8dbd92f7768",
-      "title": "Have World Cup changes made final group stage games unfair?",
-      "summary": "With eight teams already having nothing to play for, has the jeopardy in the group stage at the World Cup been diminished? And are concerns over the integrity of compet...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T16:44:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b3f0c571d7dcf0",
-      "title": "Phelan named permanent Everton manager",
-      "summary": "Scott Phelan has been appointed permanent head coach of Everton Women following an interim period last season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c872y8vx2gno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T16:00:06.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "4c1216d7f76ea1",
-      "title": "When David Narey scored a screamer for Scotland against Brazil – and Jimmy Hill put his foot in it",
-      "summary": "Narey’s goal at the World Cup in 1982 was a spectacular, unexpected and beautiful strike. But was it a toe poke? By That 1980s Sports Blog If you are going to score one...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/that-1980s-sports-blog/2026/jun/23/david-narey-scotland-brazil-jimmy-hill-world-cup-1982-toe-poke",
-      "publishedAt": "2026-06-23T15:42:54.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Wirtz to Chelsea? Arsenal, Spurs linked with City star",
-      "summary": "Florian Wirtz being linked with a move to Chelsea is not a high new entry on the Rumour Ranking, while Arsenal are eyeing another winger…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-06-23T15:20:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0bf4c65346b045",
-      "title": "Arsenal react after learning how much Barcelona are ‘offering’ Julian Alvarez in salary",
-      "summary": "Arsenal and Barcelona are interested in signing Julian Alvarez, who has publicly said that he wants to leave Atletico Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/julian-alvarez-arsenal-barcelona-atletico-madrid-latest-update",
-      "publishedAt": "2026-06-23T15:02:26.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e061ba61daf8d1",
-      "title": "Who is the DR Congo superfan?",
-      "summary": "BBC Sport's Ask Me Anything team explains who the DR Congo superfan is before the first World Cup game he will attend.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy04vnlzkn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T14:38:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "75ef5e704a3806",
-      "title": "Quiz: Name every England World Cup goalscorer since 2014",
-      "summary": "Fifteen players who have scored for England across the past four men's World Cups. Can you name them all?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T14:37:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e680a49909691a",
-      "title": "Tottenham ‘overtake’ Man Utd for Fernandes who ‘prefers’ Spurs move as Real Madrid pull plug",
-      "summary": "Man Utd could be beaten to the signing of top midfield target Mateus Fernandes as he reportedly favours a move to Tottenham this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-fernandes-prefers-tottenham-real-madrid-pull-plug-transfer",
-      "publishedAt": "2026-06-23T14:00:32.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "71006a0b300aac",
-      "title": "We live in a Messi world; let’s all just cheer up a bit, people…",
-      "summary": "Don’t be the guy who watches Lionel Messi become the highest goalscorer in World Cup history and has a pop at the referees.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lionel-messi-world-cup-cynicism-mailbox",
-      "publishedAt": "2026-06-23T13:28:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3e403638fc0120",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T13:14:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
