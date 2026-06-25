@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-25T04:00:41.994Z",
+  "generatedAt": "2026-06-25T09:30:43.361Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "2ed7a70ec0a85a",
-      "title": "Ochoa and Mora make World Cup history as Mexico down Czech Republic",
-      "summary": "Guillermo Ochoa appeared at a record sixth World Cup and 17-year-old Gilberto Mora shone as the youngest player to start in the competition for 24 years as co-hosts Mex...",
+      "id": "f26f0a86baceec",
+      "title": "Scotland face anxious wait after punishing loss to Brazil",
+      "summary": "Scotland face a nervous wait to learn their World Cup fate after they were beaten 3-0 by Brazil.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/czech-republic-vs-mexico/report/549815",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fcab377f0de118",
-      "title": "South Africa make history by qualifying with win over South Korea",
-      "summary": "South Africa have reached the World Cup knockout rounds for the first time in their history by finishing second in Group A with a 1-0 victory over South Korea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/south-africa-vs-korea-republic/report/549814",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
+      "url": "https://www.skysports.com/football/scotland-vs-brazil/report/549819",
+      "publishedAt": "2026-06-25T09:30:43.028Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -126,11 +113,37 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "7ddd44e328e987",
-      "title": "Who could play who in the last 32: Every potential knockout stage fixture!",
-      "summary": "As the World Cup group stage draws to a close, it's time to start looking ahead to the knockout rounds and potential routes to the final in July 19.",
+      "title": "Who could play who in the last 32: Every potential knockout-stage fixture!",
+      "summary": "As the World Cup group stage draws to a close, it's time to start looking ahead to the knockout rounds and potential routes to the final on July 19.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
+      "publishedAt": "2026-06-25T09:30:43.028Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fcab377f0de118",
+      "title": "South Africa reach knockout stages for first time with win over South Korea",
+      "summary": "South Africa have reached the World Cup knockout rounds for the first time in their history by finishing second in Group A with a 1-0 victory over South Korea.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/south-africa-vs-korea-republic/report/549814",
+      "publishedAt": "2026-06-25T09:30:43.028Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f6a6c3c2099624",
+      "title": "Morocco late show beats Haiti and secures second in Group C",
+      "summary": "Two late goals earned Morocco a hard-fought 4-2 win against Haiti in their final World Cup Group C game, which saw them finish as runners-up.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/morocco-vs-haiti/report/549818",
+      "publishedAt": "2026-06-25T09:30:43.028Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,59 +156,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Bosnia-Herzegovina kept their hopes of progressing into the World Cup knockouts for the first time in their history as one of the best third-place finishers alive after...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bosnia-and-herzegovina-vs-qatar/report/549816",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8d3948c7f54de0",
-      "title": "England reach T20 World Cup semi-finals after easing past West Indies",
-      "summary": "​​​​​England romped into the semi-finals of the Women's T20 World Cup with a 38-run win over West Indies as Danni Wyatt-Hodge's 65 from 42 balls preceded a largely exce...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13557398/england-reach-womens-t20-world-cup-semi-finals-with-win-over-west-indies-their-fourth-straight-victory-in-tournament",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
-      "summary": "Chelsea latest: Gusto's price tag revealed with Palestra deal expected in 24 hours",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0b446b353a0b5f",
-      "title": "Tuchel: England cannot rely on Saka for goals - but we need him desperately",
-      "summary": "Thomas Tuchel says England cannot rely on the returning Bukayo Saka to solve their World Cup goalscoring issues, but he does admit: “We need him desperately.”",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13557459/england-at-the-world-cup-thomas-tuchel-talks-bukayo-saka-and-marc-guehi-ezri-konsa-centre-back-partnership-against-ghana",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fa71aa55be1a58",
-      "title": "England 'trending in right direction' after reaching T20 World Cup semis",
-      "summary": "England are trending in the right direction at the ICC Women's T20 World Cup, according to Tash Farrant.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13557525/england-trending-in-right-direction-after-reaching-t20-world-cup-semi-finals-says-tash-farrant",
-      "publishedAt": "2026-06-25T04:00:41.885Z",
+      "publishedAt": "2026-06-25T09:30:43.028Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -205,10 +166,10 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "3c095da1dfe17b",
       "title": "Scotland's hopes of progressing to last 32 hanging by a thread",
-      "summary": "Scotland's World Cup dreams and hopes of progressing to the last 32 are hanging by a thread after their heavy defeat to Brazil.",
+      "summary": "Scotland's World Cup dreams and hopes of progressing to the last 32 are hanging by a thread after their heavy 3-0 defeat to Brazil.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13546376/scotlands-world-cup-2026-fixtures-schedule-plus-routes-to-knock-out-stage-and-beyond-can-steve-clarkes-side-make-history",
-      "publishedAt": "2026-06-25T04:00:41.884Z",
+      "publishedAt": "2026-06-25T09:30:43.027Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -217,11 +178,11 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "2ebfb4ddb8a3ce",
-      "title": "Clarke downbeat on Scotland's knockout round hopes: 'I think we're going home'",
+      "title": "Clarke downbeat on Scotland's knockout-round hopes: 'I think we're going home'",
       "summary": "Steve Clarke believes Scotland are \"going home\" after a damaging 3-0 defeat to Brazil in their final Group C game of the 2026 World Cup.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557530/scotland-0-3-brazil-steve-clarke-andy-robertson-and-john-mcginn-admit-2026-world-cup-round-of-32-hopes-may-be-over",
-      "publishedAt": "2026-06-25T04:00:41.884Z",
+      "publishedAt": "2026-06-25T09:30:43.027Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -229,12 +190,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f26f0a86baceec",
-      "title": "Scotland face anxious wait after punishing loss to Brazil",
-      "summary": "Scotland face a nervous wait to learn their World Cup fate after they were punished by Brazil.",
+      "id": "2ed7a70ec0a85a",
+      "title": "Ochoa and Mora make World Cup history as Mexico down Czech Republic",
+      "summary": "Guillermo Ochoa appeared at a record sixth World Cup and 17-year-old Gilberto Mora shone as the youngest player to start in the competition for 24 years as co-hosts Mex...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/scotland-vs-brazil/report/549819",
-      "publishedAt": "2026-06-25T04:00:41.884Z",
+      "url": "https://www.skysports.com/football/czech-republic-vs-mexico/report/549815",
+      "publishedAt": "2026-06-25T09:30:43.027Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -242,38 +203,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "bbcbd7d449a190",
-      "title": "What do Scotland need to make World Cup knockouts?",
-      "summary": "After their 3-0 defeat by Brazil, BBC Sport looks at what Scotland require to reach the knockout phase.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T03:40:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f57b92fd74459b",
-      "title": "South Africa into round of 32 after win over South Korea",
-      "summary": "Thapelo Maseko's second-half goal gives South Africa a 1-0 win over South Korea in Monterrey, and sends them into the World Cup knockout phase.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy7385e0jxzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T03:37:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "13e52200dd3df4",
-      "title": "Maseko strike sends South Africa into first World Cup knockouts with win over South Korea",
-      "summary": "South ​Africa celebrated a first World Cup knockout berth with jubilant scenes on Wednesday after Thapelo Maseko’s second-half strike secured a 1-0 victory over South ⁠...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/25/south-africa-south-korea-world-cup-match-report",
-      "publishedAt": "2026-06-25T03:15:15.000Z",
+      "id": "f67243ea3d6d1a",
+      "title": "The Verdict: Scotland 'harm' knockout chances after costly Brazil defeat",
+      "summary": "Sky Sports' Luke Shanley gives the latest after Scotland's hopes for knockout football at the World Cup took a huge dent, following defeat to Brazil.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13557580/the-verdict-scotland-harm-knockout-chances-after-costly-brazil-defeat",
+      "publishedAt": "2026-06-25T09:30:43.027Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -282,255 +217,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8a946924259e3d",
-      "title": "'Typical Scotland': Tartan Army give their verdict on Miami match against Brazil",
-      "summary": "Scotland's hopes of reaching the knockout stages of the World Cup are in peril after Brazil won 3-0 in Miami.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/videos/cgqjl2kkg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T03:07:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "101db4fe86ac25",
-      "title": "'Think we're going home' - Clarke & McGinn rue Scotland mistakes",
-      "summary": "Scotland will have to wait until potentially the early hours of Sunday to find out if their World Cup campaign will continue, but midfielder John McGinn suspects that i...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T00:58:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c84b586fd7dd18",
-      "title": "Scotland hopes on the brink following defeat against Brazil",
-      "summary": "Scotland's hopes of reaching the knockout stages of the World Cup for the first time are in significant peril with calamitous defending allowed Brazil to win 3-0 in Mia...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T00:38:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a5d6183ac34ba5",
-      "title": "Morocco progress after victory over Haiti",
-      "summary": "Soufiane Rahimi and Gessime Yassine score late goals for Morocco to deny Haiti their first-ever World Cup point in Atlanta.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjeg37w3x5eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T00:38:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8d0439e9db36fc",
-      "title": "Morocco battle back to claim thumping World Cup win in six-goal thriller with Haiti",
-      "summary": "Morocco confirmed their progress to the World Cup last 32 ⁠but twice had to ⁠come from behind to ​get the better of plucky Haiti 4-2 in an action-packed game on Wednesd...",
+      "id": "420b3de62c7930",
+      "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+      "summary": "⚽ Latest news from day 15 | Knockout permutations ⚽ Player guide | Bracketology | Golden Boot | Mail Taha Mauricio Pochettino’s US team are having a great time at home...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/25/morocco-haiti-world-cup-match-report",
-      "publishedAt": "2026-06-25T00:23:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2eed5c91feee9b",
-      "title": "Scotland’s World Cup dream hanging by a thread after Vinícius sparks Brazil victory",
-      "summary": "Scotland will now play the waiting game. The trouble is, as they hang around to discover whether a place in the last 32 can be secured as among the leading eight third...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/25/scotland-brazil-world-cup-match-report",
-      "publishedAt": "2026-06-25T00:22:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "de0b9e9260a822",
-      "title": "What each team need to reach World Cup knockouts",
-      "summary": "With the final round of group fixtures under way the path to the World Cup final on 19 July is starting to take shape.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T00:11:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9b9f7f4e7893c5",
-      "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-      "summary": "With the group stage hurtling towards its end we look at who needs what to make the knockout phase Teams level on points are separated, in order, by head-to-head points...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
-      "publishedAt": "2026-06-25T00:04:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Crystal Palace leapfrog PSG and Messi FC into second",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are languishing behind nine clubs – including five Premier League rivals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-24T23:56:06.000Z",
-      "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal",
-        "Psg"
-      ]
-    },
-    {
-      "id": "7a6b44c3faaad8",
-      "title": "'A phenomenal goal!' Isidor hits incredible strike for Haiti",
-      "summary": "Wilson Isidor gives Haiti a lead against Morocco with an \"extraordinary\" World Cup goal at the Atlanta Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj6gxly40l6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T23:38:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8ecefa7f3359cf",
-      "title": "Vinicius Jr pounces on Scotland mistake to give Brazil early lead",
-      "summary": "Brazil forward Vinicius Junior pounces on a mistake by the Scotland defence to give his side an early lead in their World Cup Group C match in Miami.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c77yd2r6pj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T22:38:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bb5c5920e32fff",
-      "title": "Switzerland beat Canada but both through to last 32",
-      "summary": "Switzerland seal their place in the first knockout round of the World Cup by beating co-hosts Canada to top Group B.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c98219e7vdqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T21:58:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "863ad2cc510caa",
-      "title": "Bosnia boost last-32 hopes after win over Qatar",
-      "summary": "Bosnia-Herzegovina boost their hopes of reaching the knockout stages in the World Cup for a first ever time defeating Qatar in their final Group B fixture.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyw7znzjwro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T21:50:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cf64c90b9f8e7f",
-      "title": "Chelsea eye Lacroix as part of defensive rebuild",
-      "summary": "Chelsea step up their efforts to sign Crystal Palace defender Maxence Lacroix, who is emerging as a major target this summer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15ykjn4l81o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T21:49:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6e18724b4dcae8",
-      "title": "Scotland keeper Gunn on Man Utd radar - Thursday's gossip",
-      "summary": "Scotland goalkeeper Angus Gunn could be a target for Manchester United, while Arsenal continue to pursue Aston Villa midfielder Morgan Rogers and Everton make a move fo...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T21:45:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bdc76b3cac1684",
-      "title": "Switzerland top Group B after Canada win as Bosnia dump Qatar out of the World Cup",
-      "summary": "Switzerland beat Canada 2-1 to secure top spot in Group B as the co-hosts also progress to the knockout stage of the World Cup as runners-up, while Bosnia and Herzegovi...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/switzerland-group-b-canada-bosnia-dump-qatar-world-cup",
-      "publishedAt": "2026-06-24T21:44:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "40ace399363533",
-      "title": "Wenger prediction could finally come true if Arsenal sign their next Gilberto Silva",
-      "summary": "Arsenal do not fall into the post-World Cup signing trap all that often, but Johan Manzambi must be tempting Mikel Arteta this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/wenger-prediction-come-true-arsenal-sign-manzambi",
-      "publishedAt": "2026-06-24T21:38:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a78becd0c4c78d",
-      "title": "Ian Wright tears into Scottish football in 160-word diatribe – ‘Letting the country down on a massive scale’",
-      "summary": "Ian Wright says he “feels sorry” for Scotland fans as they’re being “let down on a massive scale” by the people making football decisions in their country.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ian-wright-tears-into-scottish-football-160-word-siatribe-letting-country-down",
-      "publishedAt": "2026-06-24T21:27:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "10095964e1439c",
-      "title": "Canada lose home advantage for last 32 after Switzerland win to take top spot",
-      "summary": "With Canada’s home World Cup on the line, Jesse Marsch used his captain, Alphonso Davies, as a “decoy”. A shrewd Switzerland side, alas, never took the bait and so the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/24/canada-switzerland-group-b-2026-world-cup-match-report",
-      "publishedAt": "2026-06-24T21:18:10.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
+      "publishedAt": "2026-06-25T09:18:54.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -540,25 +232,40 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: England fall after familiar game-two failings",
-      "summary": "England are significant fallers in our latest 2026 World Cup Power Rankings after doing what they always do in game two.",
+      "id": "7f3f84f7489147",
+      "title": "Man Utd see £170m pair as attainable targets in search of third (or second) midfield signing",
+      "summary": "Man Utd have identified two Premier League midfielders as ‘attainable targets’ to move for whether they beat Tottenham to the signing of West Ham’s Mateus Fernandes or...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-06-24T21:17:47.000Z",
+      "url": "https://www.football365.com/news/man-utd-170m-pair-attainable-targets-third-or-second-midifeld-signing",
+      "publishedAt": "2026-06-25T09:13:19.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Premier League"
       ]
     },
     {
-      "id": "9e59cfcf73637a",
-      "title": "'What a moment!' Alajbegovic scores stunning opener for Bosnia",
-      "summary": "18-year-old winger Kerim Alajbegovic scores a superb opening goal for Bosnia in their World Cup Group B match against Qatar in Seattle.",
+      "id": "cb7fbac374124d",
+      "title": "French star ‘keen on a move to Chelsea’ – Fabrizio Romano",
+      "summary": "Fabrizio Romano has disclosed that a World Cup player is ready to leave his club and move to Chelsea in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/maxence-lacroix-chelsea-crystal-palace-fabrizio-romano-update",
+      "publishedAt": "2026-06-25T09:07:51.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "bbcbd7d449a190",
+      "title": "What do Scotland need to make World Cup knockouts?",
+      "summary": "After their 3-0 defeat by Brazil, BBC Sport looks at what Scotland require to reach the knockout phase.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwe1ljdykno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T20:58:36.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T09:06:23.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -566,16 +273,312 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a5c2a80de47712",
-      "title": "Brighton in advanced talks to sign Walti",
-      "summary": "Brighton are in advanced talks to sign Juventus and Switzerland midfielder Lia Walti.",
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Chelsea in double raid?",
+      "summary": "Chelsea are in talks for a Crystal Palace star and it might not be the one you’re thinking, while the battle for Mateus Fernandes continues…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-06-25T08:40:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1fe603f0ca7133",
+      "title": "‘They’re defeating nations who occupied’: inside Bangladesh’s World Cup love affair with Argentina and Brazil",
+      "summary": "The nation of more than 170 million people – and its diaspora – have long supported the South American giants When Shahidul Partha was growing up in Kulkandi, Banglades...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/25/bangladesh-brazil-argentina-world-cup-fans",
+      "publishedAt": "2026-06-25T08:30:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3e403638fc0120",
+      "title": "All done deals in June 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddlmvddrvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T20:53:29.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T08:27:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "251e995ead2b20",
+      "title": "The Gakpo conundrum facing Liverpool",
+      "summary": "Cody Gakpo is thriving with the Netherlands but increased competition means his Liverpool future is uncertain.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74ded0d95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T08:04:29.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "483127c4e1355c",
+      "title": "How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings",
+      "summary": "The former Tottenham coach experienced three body blows early in his tenure with the US, each contributing to the solid World Cup to come Tears welled in Mauricio Poche...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/25/mauricio-pochettino-usa-turkey-world-cup-preview",
+      "publishedAt": "2026-06-25T08:00:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f2a29612269918",
+      "title": "Scotland screwed this World Cup with handbrake v Haiti",
+      "summary": "Scotland did not make a mess of this v Brazil; they made a mess of this v Haiti. A 3-0 win would have probably been enough.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/scotland-screwed-world-cup-handbrake-haiti-mailbox",
+      "publishedAt": "2026-06-25T07:40:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "01083b5f317c73",
+      "title": "Tottenham want Rashford for astonishing reason as De Zerbi leads push for Man Utd star",
+      "summary": "Roberto De Zerbi evidently holds Marcus Rashford in very high regard as a report details the incredible reason behind his interest in the Man Utd star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-want-rashford-de-zerbi-push-man-utd-star",
+      "publishedAt": "2026-06-25T07:11:35.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "e71218e14b04af",
+      "title": "Bologna open talks for Rangers' Raskin - gossip",
+      "summary": "Rangers midfielder attracts interest from Italy and England and Scotland goalkeeper could land move to Premier League giants...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r20l02e56o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T07:06:12.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "81bb6090989f9c",
+      "title": "Who will win Young Player of the Tournament at the 2026 World Cup?",
+      "summary": "Enzo Fernandez is the holder of the gong after helping Argentina to World Cup glory in Qatar four years ago, but who will win Young Player of the Tournament in ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-young-player-of-the-tournament-at-the-2026-world-cup-nico-oreilly-in-the-running",
+      "publishedAt": "2026-06-25T06:42:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fbe7df1be18000",
+      "title": "Who will win the 2026 World Cup Golden Ball? Messi to claim a third?",
+      "summary": "Lionel Messi has already won it twice and is now the favourite to win it for the third time in the US after five goals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
+      "publishedAt": "2026-06-25T06:37:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "14c67c96aabdec",
+      "title": "Fabrizio Romano reveals Tottenham ‘working on’ £185m double ‘deal’",
+      "summary": "Fabrizio Romano has claimed that Tottenham Hotspur want to sign two midfielders from two clubs in England in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/sandro-tonali-mateus-fernandes-tottenham-hotspur-newcastle-united-west-ham-united",
+      "publishedAt": "2026-06-25T06:33:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "1c74a23d8565d6",
+      "title": "England now only fourth favourites for World Cup victory",
+      "summary": "The World Cup is in full flow and England are joint-third favourites with reigning champions Argentina after that Ghana draw.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
+      "publishedAt": "2026-06-25T06:32:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "17014c765063b2",
+      "title": "Clarke quits interview after 23 seconds following Scotland defeat – ‘I think we’re going home’",
+      "summary": "Steve Clarke abandoned his post-match interview following Scotland’s 3-0 defeat to Brazil after just 23 seconds and admits “for sure I think we’re going home”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/clarke-quits-interview-after-23-seconds-following-scotland-defeat-i-think-were-going-home",
+      "publishedAt": "2026-06-25T06:31:32.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6739c8790f2a28",
+      "title": "Best World Cup stadium? BBC Sport experts have their say",
+      "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T06:30:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Oh, Scotland – is it happening again for the Tartan Army?",
+      "summary": "England are significant fallers in our latest 2026 World Cup Power Rankings after doing what they always do in game two.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-25T06:17:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b071521c5f9e73",
+      "title": "South Africa reach World Cup last 32 after South Korea make Son mistake",
+      "summary": "South Africa celebrated a first World Cup knockout berth with jubilant scenes on Wednesday after South Korea made Son error.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/south-africa-reach-world-cup-last-32-after-south-korea-make-son-mistake",
+      "publishedAt": "2026-06-25T06:09:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-06-25T05:59:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "8cdbeaf4eea2d6",
+      "title": "Socceroos look to Paraguay ‘challenge’ with World Cup fate in their own hands",
+      "summary": "Australia only need a draw to finish as Group D runners-up but head coach Tony Popovic insists the team will go into the crunch clash ‘to win’ ⚽️ How to watch the World...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/25/socceroos-australia-paraguay-game-permutations-last-32-world-cup",
+      "publishedAt": "2026-06-25T05:54:23.000Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
-        "Juventus"
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fadc3085def8dc",
+      "title": "Who am I? Guess World Cup star No 18",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5274k0d9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T05:24:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3a3d344f9a96af",
+      "title": "'Mixed emotions' as Canada qualify but lose home advantage",
+      "summary": "Losing their final group game to Switzerland means co-hosts Canada will play no further matches in their home country at this year's World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621e3v1zxzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T04:36:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9128154741045",
+      "title": "Mexico beat Czech Republic to maintain 100% winning record",
+      "summary": "Mexico score three second-half goals to eliminate the Czech Republic from the World Cup and end the group phase with maximum points.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly753x9el3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-25T04:00:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9cbc95b8698ed",
+      "title": "World Cup becomes cult of the individual but ignores team complexity | Jonathan Liew",
+      "summary": "The irony of the superstar-heavy narrative is the way it embellishes rather than diminishes importance of the collective “Cristiano Ronaldo’s record-equalling sixth Wor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/25/world-cup-cult-individual-team-players",
+      "publishedAt": "2026-06-25T04:00:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "97f3cd3766b712",
+      "title": "Goalkeepers beware: Trionda World Cup ball hits ‘crisis’ point at certain speed",
+      "summary": "Some, like Luca Zidane, have been bamboozled and an academic paper bears out Joe Hart’s opinion about its movement Poor old Luca Zidane. The Algeria goalkeeper has had...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/25/goalkeepers-beware-trionda-world-cup-ball-hits-crisis-point-at-certain-speed",
+      "publishedAt": "2026-06-25T04:00:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
       ]
     }
   ],
