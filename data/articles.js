@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-27T19:27:34.981Z",
+  "generatedAt": "2026-06-28T04:16:00.713Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,51 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "e036a4abd4a411",
+      "title": "Austria save their World Cup after incredible finish to draw with Algeria LIVE!",
+      "summary": "Austria save their World Cup after incredible finish to draw with Algeria LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/jordan-vs-argentina/live/549833",
+      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "94a9194151ab5a",
+      "title": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
+      "summary": "Danni Wyatt-Hodge put on a batting masterclass to help England remain unbeaten and send defending champions New Zealand home with a brilliant win at The Oval.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
+      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7b0cbbda32dfd8",
+      "title": "Ireland take shock win but West Indies still progress to semi-finals",
+      "summary": "Ireland secured their first win at a Women's T20 World Cup as they beat semi-final hopefuls West Indies by six wickets with 11 balls to spare in Bristol.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
+      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "2feb3589c74e28",
       "title": "Two wickets in three deliveries for England's Bell!",
       "summary": "Brooke Halliday (20) goes after brilliant fielding from skipper Dean with Lauren Bell grabbing the wicket of Sophie Devine (30) in England's ICC Women's T20 World Cup m...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
-      "publishedAt": "2026-06-27T19:27:34.638Z",
+      "publishedAt": "2026-06-28T04:16:00.560Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -117,7 +156,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Chelsea latest: Palestra undergoes medical",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-27T19:27:34.638Z",
+      "publishedAt": "2026-06-28T04:16:00.560Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,26 +164,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "160450ebc8d60a",
-      "title": "Chelsea interested in signing Xhaka",
-      "summary": "Chelsea are interested in signing Sunderland midfielder Granit Xhaka.",
+      "id": "830fa3872bb72e",
+      "title": "Gakpo to stay with Netherlands squad after loss of unborn son",
+      "summary": "Cody Gakpo will stay with the Netherlands squad at the World Cup following the loss of his unborn son.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558363/granit-xhaka-transfer-news-chelsea-interested-in-signing-sunderland-midfielder-to-reunite-him-with-xabi-alonso",
-      "publishedAt": "2026-06-27T19:27:34.638Z",
-      "category": "transfer",
-      "region": "england italy",
+      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
+      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Chelsea",
-        "Inter"
+        "World Cup"
       ]
     },
     {
-      "id": "0ef2979cc85c63",
-      "title": "Prendergast stars as Ireland break T20 World cup duck with Windies win",
-      "summary": "Highlights of West Indies against Ireland in the Women's T20 Cricket World Cup.",
+      "id": "8f16b426795824",
+      "title": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
+      "summary": "Appy days! Everyone can stream the semi-finals and final of the ICC Women's T20 World Cup live for FREE on the Sky Sports App.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13558373/west-indies-v-ireland-highlights-womens-t20-world-cup",
-      "publishedAt": "2026-06-27T19:27:34.638Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
+      "publishedAt": "2026-06-28T04:16:00.559Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -152,12 +190,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "563c72f7edd995",
-      "title": "England starting XI vs Panama revealed as Thomas Tuchel makes five changes with Declan Rice ‘rested’",
-      "summary": "A new report has revealed England’s starting XI for their final World Cup group game against Panama, with Thomas Tuchel making five changes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-starting-xi-panama-revealed-tuchel-five-changes-declan-rice-rested",
-      "publishedAt": "2026-06-27T19:15:52.000Z",
+      "id": "e05d8616c6e3f5",
+      "title": "Hovland into Travelers lead to the delight of Norwegian football fans!",
+      "summary": "Highlights from day three of the Travelers Championship at TPC River Highlands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
+      "publishedAt": "2026-06-28T04:16:00.559Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c5ce48d931be72",
+      "title": "Tuchel vows 'the bigger the game, the bigger England will be'",
+      "summary": "Thomas Tuchel has vowed that \"the bigger the game, the bigger England will be\" after a laboured 2-0 victory over Panama sent them into knockout stages of the World Cup...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
+      "publishedAt": "2026-06-28T04:16:00.559Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -165,369 +216,229 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "83bc5c40b98770",
-      "title": "Panama v England: World Cup 2026 – live",
-      "summary": "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST ⚽️ Third-place table | Player guide | Golden Boot | Mail Scott ⚽️ Croatia v Ghana – live news from the group’s other ga...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates",
-      "publishedAt": "2026-06-27T19:15:15.000Z",
+      "id": "15e7018e3b3ee4",
+      "title": "'Superstar' Bellingham inspires England to victory over Panama and top spot in group",
+      "summary": "Harry kane became England's all-time World Cup goalscorer but it was Jude Bellingham who inspired Thomas Tuchel's side to top spot in Group L as he grabbed a goal and a...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/panama-vs-england/report/549837",
+      "publishedAt": "2026-06-28T04:16:00.559Z",
       "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ea971c997896de",
-      "title": "Croatia v Ghana: World Cup 2026 – live",
-      "summary": "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST ⚽️ Third-place table | Player guide | Golden Boot | Mail Will ⚽️ Panama v England – live news from group’s other game L...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live",
-      "publishedAt": "2026-06-27T19:10:40.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5a2138a2e834df",
-      "title": "Performance coach Wilson set to leave Arsenal",
-      "summary": "Arsenal's lead performance coach Sam Wilson is set to leave the club and join a European team.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn75kem1g37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T19:01:00.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
-      "id": "7e5771633e3d0f",
-      "title": "Japan and Morocco face old order giants in the hope of a brave new world | Jonathan Wilson",
-      "summary": "Two eye-catching last-32 ties offer hope of a winner from outside the traditional powers – Brazil and the Netherlands could be gone The World Cup exists in a state of p...",
+      "id": "b733813ea09d27",
+      "title": "Clarke steps down after Scotland's World Cup exit confirmed",
+      "summary": "Steve Clarke has stepped down as Scotland head coach - moments after his side's World Cup exit was confirmed.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13557622/steve-clarke-steps-down-as-scotland-boss-after-world-cup-elimination-confirmed",
+      "publishedAt": "2026-06-28T04:16:00.559Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c02acfb3d1d7ad",
+      "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+      "summary": "Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory 3 min It’s like a home game for Argentina when...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/27/japan-morocco-brazil-netherlands-world-cup-2026",
-      "publishedAt": "2026-06-27T19:00:12.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest",
+      "publishedAt": "2026-06-28T04:08:08.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "6d1084810dba1f",
-      "title": "Man Utd to scrap third midfield signing on one condition as leader for Matheus Fernandes revealed",
-      "summary": "According to reports, Manchester United will ‘abandon’ a move for a third new midfielder on one condition, while there is an update on Matheus Fernandes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-scrap-third-midfield-signing-one-condition-matheus-fernandes",
-      "publishedAt": "2026-06-27T18:23:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a89e94b91f1d5a",
-      "title": "Chelsea in talks to sign Sunderland's Xhaka",
-      "summary": "Sunderland say experienced midfielder Granit Xhaka is not for sale amid reports Chelsea have entered talks over a move.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T18:16:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ecee86f7e5dee0",
-      "title": "Gakpo asks for privacy after loss of unborn son",
-      "summary": "Noa van der Bij, the partner of Liverpool and Netherlands forward Cody Gakpo, announces the pair have lost their unborn son.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce37zz21e98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T18:02:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3df691878ed61f",
-      "title": "Chelsea reach ‘full verbal agreement’ to sign PL star with Alonso ‘pushing very hard’ for reunion",
-      "summary": "According to reports, Chelsea have reached a ‘full verbal agreement’ to sign midfielder Granit Xhaka from Sunderland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-reach-full-verbal-agreement-sign-pl-star-alonso-pushing-very-hard",
-      "publishedAt": "2026-06-27T17:15:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "dc2f394ad38e25",
-      "title": "Spain rocked by injuries with Pino to miss rest of World Cup and Williams doubtful",
-      "summary": "Yéremy Pino broke collar bone in win against Uruguay Nico Williams’s groin injury is being assessed Yéremy Pino is likely to miss the rest of the World Cup with a broke...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/27/spain-injuries-yeremy-pino-miss-world-cup-nico-williams",
-      "publishedAt": "2026-06-27T16:41:01.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ecf7c57a87b3e4",
-      "title": "Where does Scotland's World Cup campaign leave Clarke?",
-      "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T15:50:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3edefd662415e9",
-      "title": "Chelsea plan €30m offer for Sunderland midfielder after express request from Xabi Alonso – journalist",
-      "summary": "Chelsea are planning to raid Sunderland this summer for one of their best midfielders, according to an Italian journalist.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-sunderland-granit-xhaka-2026-summer-transfer",
-      "publishedAt": "2026-06-27T15:32:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "95915a74b09435",
-      "title": "Football Daily | Filth, fury and fairytales: Uruguay and Cape Verde bring football heritage",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! The Geopolitics World Cup has its North Korea 1966, its Cameroon 1990, rank outsiders to revive hearts hardened by r...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/27/football-daily-cape-verde-uruguay-gwc",
-      "publishedAt": "2026-06-27T15:03:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ef7db39901e78a",
-      "title": "World Cup quiz: Name the team from England v Panama 2018",
-      "summary": "England face Panama for the first time since a 6-1 win at Russia 2018. Can you remember the starting XI?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj6pw405k91o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T14:50:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "701787ad5f56c0",
-      "title": "Tottenham finalising record-breaking deal for ‘superstar’ after he rejects lucrative Man City offer",
-      "summary": "Roberto De Zerbi’s Tottenham Hotspur are about to seal a deal for one of the best midfielders in the Premier League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-hotspur-sandro-tonali-manchester-city-newcastle-united",
-      "publishedAt": "2026-06-27T13:43:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "7aabe7b2ebd7dc",
-      "title": "Rio Ferdinand makes another ‘man of the people’ gaffe with hydration breaks take",
-      "summary": "Self-titled ‘man of the people’ Rio Ferdinand has once again shown he’s got his finger on the pulse by suggesting the Premier League should also have hydration breaks.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rio-ferdinand-makes-another-man-of-the-people-gaffe-with-hydration-breaks-take",
-      "publishedAt": "2026-06-27T13:38:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "06c2c4c8ce32bf",
-      "title": "Who are the Panama players England need to look out for?",
-      "summary": "BBC Sport analyses the key players for Panama who will be aiming to cause a World Cup upset against England in their final Group L fixture.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T13:37:22.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0adc16678304e5",
-      "title": "Barcelona midfielder reacts after Arsenal try to persuade him to join",
-      "summary": "Arsenal are among the clubs that are trying to sign a Barcelona and Spain international midfielder in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-barcelona-marc-bernal",
-      "publishedAt": "2026-06-27T12:37:27.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "dc900cd9fbebc9",
-      "title": "Taremi rips into FIFA for World Cup ‘disaster’ as Iran captain reveals four-word Infantino dressing room nonsense",
-      "summary": "Iran captain Mehdi Taremi has ripped into FIFA for “a disaster World Cup” and revealed the nonsense spouted by Gianni Infantino during a visit to their dressing room.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/taremi-rips-fifa-world-cup-disaster-iran-pointless-infantino-visit",
-      "publishedAt": "2026-06-27T11:55:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "41a7bfdf80bb5c",
-      "title": "We have been treated unfairly by USA - Iran",
-      "summary": "Iran coach Amir Ghalenoei says his nation have been treated unfairly by the United States during the World Cup",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T11:14:31.000Z",
+      "id": "0ef6fc28899523",
+      "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+      "summary": "Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran Today’s match takes place at Kansas City Stadium , home to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest",
+      "publishedAt": "2026-06-28T04:07:50.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "94c721c7f557cd",
-      "title": "Ferdinand begs Man Utd to be ‘first at the door’ for £70m World Cup star after ‘private’ talks",
-      "summary": "Rio Ferdinand has urged Man Utd to be the “first team at the door knocking” to sign the French star as he revealed the “private” talks he’s had with the ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ferdinand-man-utd-first-foor-70m-world-cup-star-private-talks",
-      "publishedAt": "2026-06-27T10:51:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "28639d5cac3c77",
-      "title": "Man Utd waiting on Ugarte injury after he leaves pitch on stretcher",
-      "summary": "Manchester United are waiting to discover the extent of Manuel Ugarte's injury after the midfielder was stretchered off during Uruguay's World Cup defeat by Spain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz923kk3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T10:36:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
+        "Football",
         "World Cup",
-        "Manchester"
+        "Fifa"
       ]
     },
     {
-      "id": "16202f8bc91070",
-      "title": "Man Utd make ‘new contacts’ with £85m midfielder after Sir Jim Ratcliffe suffers huge exit blow",
-      "summary": "Manchester United have accelerated their attempt to sign a Portuguese star, as Sir Jim Ratcliffe is dealt a blow regarding a midfielder.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mateus-fernandes-manuel-ugarte-manchester-united-sir-jim-ratcliffe",
-      "publishedAt": "2026-06-27T10:33:06.000Z",
-      "category": "transfer",
+      "id": "caeebe9ae8bbb4",
+      "title": "Messi scores again and gets another record",
+      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player ever to score in seve...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T04:06:58.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Manchester"
+        "World Cup"
       ]
     },
     {
-      "id": "9ce0abe249373f",
-      "title": "Man City ‘best positioned’ to land second midfielder ahead of Arsenal, Liverpool and PSG after ‘direct contacts’",
-      "summary": "Manchester City are now ‘best positioned’ to sign the teenage star ahead of Liverpool, Arsenal and PSG after reaching an agreement to sign Elliot Anderson.",
+      "id": "39e88579ca9606",
+      "title": "Lionel Messi makes history yet again as Argentina threaten bizarre Brazil record",
+      "summary": "Lionel Messi made history again – even from the bench – as Argentina rounded out a perfect World Cup group stage against Jordan.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-best-positioned-second-midfielder-anderson-ahead-of-arsenal-liverpool-real-madrid",
-      "publishedAt": "2026-06-27T10:31:38.000Z",
-      "category": "transfer",
-      "region": "england france",
+      "url": "https://www.football365.com/news/messi-makes-history-again-argentina-jordan-brazil-world-cup",
+      "publishedAt": "2026-06-28T04:03:18.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester",
-        "Psg"
+        "World Cup"
       ]
     },
     {
-      "id": "5978c1b203c03c",
-      "title": "Newcastle line up Man Utd target as Bruno Guimaraes talks gives Arsenal ‘confidence’ of £80m deal",
-      "summary": "Newcastle are ‘interested’ in battling Man Utd for the World Cup star as they brace themselves for a second Arsenal bid for captain Bruno Guimaraes.",
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Palace and Sunderland lead Prem",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but Crystal Palace and Sunderland lead the Premier League way now.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-75-5m-man-utd-target-arsenal-second-formal-bid-bruno-guimaraes",
-      "publishedAt": "2026-06-27T09:39:17.000Z",
-      "category": "transfer",
-      "region": "england italy",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-06-28T04:02:06.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
+        "Premier League",
         "World Cup",
-        "Arsenal",
-        "Inter"
+        "Arsenal"
       ]
     },
     {
-      "id": "16e258261ab3a1",
-      "title": "South Africa v Canada: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between South Africa and Canada.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/south-africa-v-canada-prediction-preview",
-      "publishedAt": "2026-06-27T09:36:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f4c62c88bd5e7a",
-      "title": "Why England should be wary of Panama's hybrid tactics",
-      "summary": "Panama's results do not paint a true picture of their performances in the World Cup so far - so what can England expect from them?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T09:22:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "abaf0ab4f2239a",
-      "title": "The World Cup is undressing the myth of Trump’s American homogeneity",
-      "summary": "The 2026 World Cup has become a rebuke to Trump’s homogeneous vision of America, revealing a tournament – and a US team – shaped by migration and diversity Following th...",
+      "id": "cbf00604628392",
+      "title": "Alphonso Davies returns as Canada approach World Cup moment of destiny",
+      "summary": "Los Angeles date offers Bayern Munich player the chance to heal a wound which opened at this same stadium last March The decoy days are over – apparently. Alphonso Davi...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/27/world-cup-usmnt-migration-nationalism-dhs-opinion",
-      "publishedAt": "2026-06-27T09:00:02.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-returns-canada-world-cup-moment-of-destiny",
+      "publishedAt": "2026-06-28T03:25:43.000Z",
+      "category": "worldcup",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Will Xhaka force Chelsea move? Man Utd react to Spurs",
+      "summary": "Granit Xhaka features high in the Rumour Ranking – more’s the pity – while Man Utd seem to be wrestling back the initiative over one of their top targets…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-06-28T03:03:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "efd79fe390a80f",
+      "title": "Lo Celso marks his World Cup debut with a fantastic free-kick",
+      "summary": "Giovani Lo Celso scores a fantastic free-kick on his World Cup debut to give Argentina the lead against Jordan.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj4gqgg8d0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T02:47:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "17653df7b7cf20",
+      "title": "Colombia denied late winner in enthralling draw with Portugal",
+      "summary": "Colombia and Portugal play out one of the games of the tournament, as both sides qualify for the World Cup last 32 following a gripping 0-0 draw.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2dyez02z8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T02:46:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5c45e10f168965",
+      "title": "DR Congo come from behind to book last-32 tie with England",
+      "summary": "DR Congo set up a World Cup last-32 meeting with England by reaching the knockouts for the first time as they come from behind to beat Uzbekistan in their final group-s...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c621584j680o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T02:23:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "84dfb0f6b610fa",
+      "title": "Why the Messi v Ronaldo ‘dream’ World Cup final could happen but absolutely won’t",
+      "summary": "Lionel Messi and Cristiano Ronaldo could meet in the World Cup final after landing on opposite sides of the draw. But there’s one problem…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/messi-ronaldo-dream-world-cup-final-portugal",
+      "publishedAt": "2026-06-28T02:23:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "de0b9e9260a822",
+      "title": "What each team needs to reach World Cup knockouts",
+      "summary": "With the final round of group fixtures nearing a conclusion the path to the World Cup final on 19 July is starting to take shape.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T02:13:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b5d6e8bfdf6139",
+      "title": "Salah an injury doubt for Egypt's last-32 tie",
+      "summary": "Egypt captain Mohamed Salah is a doubt for Friday's World Cup last-32 tie against Australia after suffering a hamstring injury.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypyw1130o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T02:04:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e32ae0741d4353",
+      "title": "Kane becomes England's top World Cup scorer - and now chases other greats",
+      "summary": "Harry Kane became England's all-time leading World Cup scorer with his 12th goal in the win against Panama on Saturday, but how does he compare to other country's greats?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T01:54:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9b37541776c439",
+      "title": "DR Congo set up last-32 meeting with England after comeback win over Uzbekistan",
+      "summary": "Yoane Wissa scored twice as DR Congo beat Uzbekistan 3-1 and qualified for the last 32 of the World Cup for the first time in their history. They will meet England afte...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/democratic-republic-of-the-congo-uzbekistan-world-cup-group-k-match-report",
+      "publishedAt": "2026-06-28T01:53:12.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -536,27 +447,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a4bfbbd1b7634c",
-      "title": "What is the secret to Wallsend Boys producing so many top-level football players?",
-      "summary": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young people Not many local football clubs can claim to h...",
+      "id": "6a52dbc0c892c8",
+      "title": "Colombia take top spot over Portugal after draw in battle of World Cup heavyweights",
+      "summary": "While wonderful and typical theatre, it was plainly ridiculous. “I’m back!” roared Cristiano Ronaldo, as if playing a key part in Portugal’s dismissal of Uzbekistan was...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/27/wallsend-boys-producing-so-many-top-level-football-players",
-      "publishedAt": "2026-06-27T09:00:01.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/28/colombia-portugal-world-cup-group-k-match-report",
+      "publishedAt": "2026-06-28T01:46:12.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Arsenal",
-        "Manchester"
+        "World Cup"
       ]
     },
     {
-      "id": "c08c93e0d0efc4",
-      "title": "One night in Miami: The Scotsmen of the apocalypse",
-      "summary": "BBC Scotland's Scott Mullen paints the scene from Miami as Scotland's World Cup hopes fade.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T08:34:12.000Z",
+      "id": "723ab9f9b5dad1",
+      "title": "Wissa bags brace as DR Congo make history to set up England tie",
+      "summary": "DR Congo secured their first-ever World Cup victory and, with it, a place in the last 32 where they will meet England…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/congo-3-1-uzbekistan-wissa-world-cup-history-england-last-32",
+      "publishedAt": "2026-06-28T01:45:22.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -564,13 +474,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "64d48bfbadd115",
-      "title": "France earn favourites tag and Cape Verde make history: World Cup Daily – podcast",
-      "summary": "Max Rushden is joined by Barry Glendenning , Mark Langdon and Philippe Auclair as France beat a much-changed Norway and Cape Verde progress Rate, review, share on Apple...",
+      "id": "3f5009efd92ca6",
+      "title": "Jude Bellingham bends another day to his will after Panama stifle England | Barney Ronay",
+      "summary": "A joyless England display, football’s equivalent of assembling a wardrobe, was rescued by the No 10 In the half-time break at a rain-fogged New York New Jersey Stadium,...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/jun/27/france-earn-favourites-tag-cape-verde-make-history-world-cup-daily-podcast",
-      "publishedAt": "2026-06-27T08:10:38.000Z",
-      "category": "worldcup",
+      "url": "https://www.theguardian.com/football/2026/jun/28/jude-bellingham-england-panama-world-cup",
+      "publishedAt": "2026-06-28T01:40:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "619bb62e748d77",
+      "title": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg",
+      "summary": "Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho Does anyone know what happened to the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/england-defence-world-cup-declan-rice-panama-thomas-tuchel",
+      "publishedAt": "2026-06-28T01:39:57.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
@@ -578,12 +501,78 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3298700c48a2be",
-      "title": "From supermarket to World Cup - the forgotten England team",
-      "summary": "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artificial pitch in the north east of England where a future member of Thoma...",
+      "id": "b07b7e18a27ed7",
+      "title": "Why England's back four has no stability",
+      "summary": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney believe Thomas Tuchel should have included more full-back cover in the squad, following the withdrawal of Ti...",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4rlm9834no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T08:03:13.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj9gypm2x1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T01:16:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80e004ac8d31d3",
+      "title": "Job done - but England will not win World Cup unless they improve",
+      "summary": "England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T01:05:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-06-28T00:50:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "55e638d435e6f3",
+      "title": "Tuchel issues Quansah injury update with two factors key to England’s World Cup hopes – ‘very tight’",
+      "summary": "Thomas Tuchel credited England for doing what was required of them as goals from Jude Bellingham and Harry Kane sealed a 2-0 win over Panama and top spot in Group ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tuchel-issues-quansah-injury-update-two-factors-key-england-world-cup-hopes",
+      "publishedAt": "2026-06-28T00:46:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2fb373eab41e3a",
+      "title": "Rashford says he wasn't at 'best level' in first start of World Cup",
+      "summary": "After making his first start of the World Cup in England's 2-0 win against Panama, Marcus Rashford says he can raise his game going forward in the tournament.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cz6v821lx7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T00:20:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4b6b3811a44454",
+      "title": "'He's that guy!' Pundits praise 'brilliant' Bellingham",
+      "summary": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude Bellingham's \"desire and hunger\" to perform on the biggest stage, after the England midfielder p...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2dyz205r49o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T00:15:37.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
