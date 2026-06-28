@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T04:16:00.713Z",
+  "generatedAt": "2026-06-28T09:17:40.565Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,64 +99,92 @@
       "pinned": true
     },
     {
-      "id": "e036a4abd4a411",
-      "title": "Austria save their World Cup after incredible finish to draw with Algeria LIVE!",
-      "summary": "Austria save their World Cup after incredible finish to draw with Algeria LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/jordan-vs-argentina/live/549833",
-      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "id": "df7f0a400fd074",
+      "title": "PSG No. 1? Reranking Europe's top clubs by player ...",
+      "summary": "Bayern Munich, Real Madrid and PSG players have impressed, but which clubs around the world have had the best players in the tournament after the group stage?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49204950/reranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
+      "publishedAt": "2026-06-28T09:54:23.000Z",
+      "category": "league",
+      "region": "spain france germany",
+      "tags": [
+        "Real Madrid",
+        "Psg",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9927cd50e3b914",
+      "title": "Copy of From Brazil to U.S., Spain: Why every round-of-32 ...",
+      "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "publishedAt": "2026-06-28T09:53:45.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "94a9194151ab5a",
-      "title": "Wyatt-Hodge masterclass helps England send New Zealand packing at T20 World Cup",
-      "summary": "Danni Wyatt-Hodge put on a batting masterclass to help England remain unbeaten and send defending champions New Zealand home with a brilliant win at The Oval.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13558362/icc-womens-t20-world-cup-danni-wyatt-hodge-helps-england-remain-unbeaten-as-they-end-new-zealands-reign",
-      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "id": "f6f3f3a8f479d3",
+      "title": "Copy of Grades for every team eliminated from the World Cu...",
+      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "publishedAt": "2026-06-28T09:53:45.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "7b0cbbda32dfd8",
-      "title": "Ireland take shock win but West Indies still progress to semi-finals",
-      "summary": "Ireland secured their first win at a Women's T20 World Cup as they beat semi-final hopefuls West Indies by six wickets with 11 balls to spare in Bristol.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13558290/ireland-secure-shock-win-for-first-ever-womens-t20-world-cup-victory-but-west-indies-still-progress-to-semi-finals",
-      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "id": "6ce416c8f91939",
+      "title": "Why Portugal draw might have cost World Cup one la...",
+      "summary": "Portugal's draw with Colombia on Saturday means a destined quarterfinal matchup between Cristiano Ronaldo and Lionel Messi is off until possibly the final.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49203073/why-portugal-draw-cost-world-cup-one-last-lionel-messi-cristiano-ronaldo-showdown",
+      "publishedAt": "2026-06-28T09:27:15.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "2feb3589c74e28",
-      "title": "Two wickets in three deliveries for England's Bell!",
-      "summary": "Brooke Halliday (20) goes after brilliant fielding from skipper Dean with Lauren Bell grabbing the wicket of Sophie Devine (30) in England's ICC Women's T20 World Cup m...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13558388/two-wickets-in-three-deliveries-for-bell",
-      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "id": "50c03ce0ebd2fe",
+      "title": "Messi nets again, Argentina earn third WC win",
+      "summary": "Lionel Messi came off the bench in Argentina's group stage finale against Jordan in the World Cup and scored in a 3-1 victory for the reigning champions.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49203555/lionel-messi-scores-again-seal-perfect-group-stage-argentina-world-cup",
+      "publishedAt": "2026-06-28T09:26:26.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Palestra undergoes medical",
-      "summary": "Chelsea latest: Palestra undergoes medical",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "id": "82757167a8359b",
+      "title": "Algeria and Austria's dramatic draw sends Iran out...",
+      "summary": "Austria and Algeria played to a thrilling 3-3 draw Saturday night in what amounted to a win-win result in their World Cup group stage finale, allowing both to advance t...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49203568/algeria-austria-iran-2026-world-cup-draw-advance-eliminated",
+      "publishedAt": "2026-06-28T09:26:26.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fd969808f0cf98",
+      "title": "Sources: Chelsea exploring deal for Granit Xhaka",
+      "summary": "Chelsea are exploring a deal to sign Sunderland midfielder Granit Xhaka, sources have told ESPN.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49199142/chelsea-exploring-deal-sign-sunderland-granit-xhaka-sources",
+      "publishedAt": "2026-06-28T09:26:26.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -164,53 +192,27 @@
       ]
     },
     {
-      "id": "830fa3872bb72e",
-      "title": "Gakpo to stay with Netherlands squad after loss of unborn son",
-      "summary": "Cody Gakpo will stay with the Netherlands squad at the World Cup following the loss of his unborn son.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558394/cody-gakpo-to-stay-with-netherlands-squad-at-world-cup-after-loss-of-unborn-son",
-      "publishedAt": "2026-06-28T04:16:00.560Z",
+      "id": "74af761a0a4449",
+      "title": "Colombia take top spot after Portugal stalemate",
+      "summary": "Colombia finished the World Cup's opening round as the Group K winners after playing Portugal to a scoreless draw Saturday night.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49202549/colombia-portugal-2026-world-cup-group-stage-knockout",
+      "publishedAt": "2026-06-28T09:26:26.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "8f16b426795824",
-      "title": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
-      "summary": "Appy days! Everyone can stream the semi-finals and final of the ICC Women's T20 World Cup live for FREE on the Sky Sports App.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
-      "publishedAt": "2026-06-28T04:16:00.559Z",
+      "id": "ad1efc3e28ca08",
+      "title": "Kane breaks England World Cup scoring record",
+      "summary": "Harry Kane became England's all-time World Cup leading scorer after scoring in Saturday's 2-0 win over Panama at MetLife Stadium in New Jersey.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49190714/harry-kane-england-leading-goalscorer-world-cup-70-goals-lineker-panama",
+      "publishedAt": "2026-06-28T09:26:26.000Z",
       "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e05d8616c6e3f5",
-      "title": "Hovland into Travelers lead to the delight of Norwegian football fans!",
-      "summary": "Highlights from day three of the Travelers Championship at TPC River Highlands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
-      "publishedAt": "2026-06-28T04:16:00.559Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c5ce48d931be72",
-      "title": "Tuchel vows 'the bigger the game, the bigger England will be'",
-      "summary": "Thomas Tuchel has vowed that \"the bigger the game, the bigger England will be\" after a laboured 2-0 victory over Panama sent them into knockout stages of the World Cup...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
-      "publishedAt": "2026-06-28T04:16:00.559Z",
-      "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
@@ -221,7 +223,7 @@
       "summary": "Harry kane became England's all-time World Cup goalscorer but it was Jude Bellingham who inspired Thomas Tuchel's side to top spot in Group L as he grabbed a goal and a...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/panama-vs-england/report/549837",
-      "publishedAt": "2026-06-28T04:16:00.559Z",
+      "publishedAt": "2026-06-28T09:17:40.161Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -234,7 +236,7 @@
       "summary": "Steve Clarke has stepped down as Scotland head coach - moments after his side's World Cup exit was confirmed.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557622/steve-clarke-steps-down-as-scotland-boss-after-world-cup-elimination-confirmed",
-      "publishedAt": "2026-06-28T04:16:00.559Z",
+      "publishedAt": "2026-06-28T09:17:40.161Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -242,42 +244,12 @@
       ]
     },
     {
-      "id": "c02acfb3d1d7ad",
-      "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-      "summary": "Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory 3 min It’s like a home game for Argentina when...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest",
-      "publishedAt": "2026-06-28T04:08:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "0ef6fc28899523",
-      "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-      "summary": "Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran Today’s match takes place at Kansas City Stadium , home to...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest",
-      "publishedAt": "2026-06-28T04:07:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "caeebe9ae8bbb4",
-      "title": "Messi scores again and gets another record",
-      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player ever to score in seve...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T04:06:58.000Z",
+      "id": "78b722aa544c0d",
+      "title": "Austria survive huge scare to progress with Algeria and knock Iran out",
+      "summary": "Super-sub Sasa Kalajdzic saved Austria's World Cup with a last-gasp equaliser after Algeria had stunned their Group J rivals deep into stoppage time in a thrilling 3-3...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/algeria-vs-austria/report/549832",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -285,12 +257,12 @@
       ]
     },
     {
-      "id": "39e88579ca9606",
-      "title": "Lionel Messi makes history yet again as Argentina threaten bizarre Brazil record",
-      "summary": "Lionel Messi made history again – even from the bench – as Argentina rounded out a perfect World Cup group stage against Jordan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/messi-makes-history-again-argentina-jordan-brazil-world-cup",
-      "publishedAt": "2026-06-28T04:03:18.000Z",
+      "id": "8f16b426795824",
+      "title": "Watch Women's T20 World Cup semi-finals and final FREE on Sky Sports App",
+      "summary": "Appy days! Everyone can stream the semi-finals and final of the ICC Women's T20 World Cup live for FREE on the Sky Sports App.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -298,202 +270,121 @@
       ]
     },
     {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Palace and Sunderland lead Prem",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but Crystal Palace and Sunderland lead the Premier League way now.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-28T04:02:06.000Z",
+      "id": "ec0aebee015313",
+      "title": "Predict the World Cup knockout stages! Plot who will lift the trophy...",
+      "summary": "England are through to the knockout rounds of the World Cup - and you can predict how the rest of the tournament will play out!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558044/world-cup-2026-knockout-rounds-predictor-have-your-say-and-plot-englands-route-to-the-final",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
-      "id": "cbf00604628392",
-      "title": "Alphonso Davies returns as Canada approach World Cup moment of destiny",
-      "summary": "Los Angeles date offers Bayern Munich player the chance to heal a wound which opened at this same stadium last March The decoy days are over – apparently. Alphonso Davi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-returns-canada-world-cup-moment-of-destiny",
-      "publishedAt": "2026-06-28T03:25:43.000Z",
-      "category": "worldcup",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Will Xhaka force Chelsea move? Man Utd react to Spurs",
-      "summary": "Granit Xhaka features high in the Rumour Ranking – more’s the pity – while Man Utd seem to be wrestling back the initiative over one of their top targets…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-06-28T03:03:01.000Z",
+      "id": "e05d8616c6e3f5",
+      "title": "Hovland into Travelers lead to the delight of Norwegian football fans!",
+      "summary": "Highlights from day three of the Travelers Championship at TPC River Highlands.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13558428/travelers-championship-day-three-highlights",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "efd79fe390a80f",
-      "title": "Lo Celso marks his World Cup debut with a fantastic free-kick",
-      "summary": "Giovani Lo Celso scores a fantastic free-kick on his World Cup debut to give Argentina the lead against Jordan.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj4gqgg8d0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T02:47:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "17653df7b7cf20",
-      "title": "Colombia denied late winner in enthralling draw with Portugal",
-      "summary": "Colombia and Portugal play out one of the games of the tournament, as both sides qualify for the World Cup last 32 following a gripping 0-0 draw.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2dyez02z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T02:46:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5c45e10f168965",
-      "title": "DR Congo come from behind to book last-32 tie with England",
-      "summary": "DR Congo set up a World Cup last-32 meeting with England by reaching the knockouts for the first time as they come from behind to beat Uzbekistan in their final group-s...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c621584j680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T02:23:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "84dfb0f6b610fa",
-      "title": "Why the Messi v Ronaldo ‘dream’ World Cup final could happen but absolutely won’t",
-      "summary": "Lionel Messi and Cristiano Ronaldo could meet in the World Cup final after landing on opposite sides of the draw. But there’s one problem…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/messi-ronaldo-dream-world-cup-final-portugal",
-      "publishedAt": "2026-06-28T02:23:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "de0b9e9260a822",
-      "title": "What each team needs to reach World Cup knockouts",
-      "summary": "With the final round of group fixtures nearing a conclusion the path to the World Cup final on 19 July is starting to take shape.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T02:13:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b5d6e8bfdf6139",
-      "title": "Salah an injury doubt for Egypt's last-32 tie",
-      "summary": "Egypt captain Mohamed Salah is a doubt for Friday's World Cup last-32 tie against Australia after suffering a hamstring injury.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0mypyw1130o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T02:04:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e32ae0741d4353",
-      "title": "Kane becomes England's top World Cup scorer - and now chases other greats",
-      "summary": "Harry Kane became England's all-time leading World Cup scorer with his 12th goal in the win against Panama on Saturday, but how does he compare to other country's greats?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T01:54:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9b37541776c439",
-      "title": "DR Congo set up last-32 meeting with England after comeback win over Uzbekistan",
-      "summary": "Yoane Wissa scored twice as DR Congo beat Uzbekistan 3-1 and qualified for the last 32 of the World Cup for the first time in their history. They will meet England afte...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/democratic-republic-of-the-congo-uzbekistan-world-cup-group-k-match-report",
-      "publishedAt": "2026-06-28T01:53:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6a52dbc0c892c8",
-      "title": "Colombia take top spot over Portugal after draw in battle of World Cup heavyweights",
-      "summary": "While wonderful and typical theatre, it was plainly ridiculous. “I’m back!” roared Cristiano Ronaldo, as if playing a key part in Portugal’s dismissal of Uzbekistan was...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/colombia-portugal-world-cup-group-k-match-report",
-      "publishedAt": "2026-06-28T01:46:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "723ab9f9b5dad1",
-      "title": "Wissa bags brace as DR Congo make history to set up England tie",
-      "summary": "DR Congo secured their first-ever World Cup victory and, with it, a place in the last 32 where they will meet England…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/congo-3-1-uzbekistan-wissa-world-cup-history-england-last-32",
-      "publishedAt": "2026-06-28T01:45:22.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3f5009efd92ca6",
-      "title": "Jude Bellingham bends another day to his will after Panama stifle England | Barney Ronay",
-      "summary": "A joyless England display, football’s equivalent of assembling a wardrobe, was rescued by the No 10 In the half-time break at a rain-fogged New York New Jersey Stadium,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/jude-bellingham-england-panama-world-cup",
-      "publishedAt": "2026-06-28T01:40:20.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
         "Football"
       ]
     },
     {
-      "id": "619bb62e748d77",
-      "title": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg",
-      "summary": "Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho Does anyone know what happened to the...",
+      "id": "c5ce48d931be72",
+      "title": "Tuchel vows 'the bigger the game, the bigger England will be'",
+      "summary": "Thomas Tuchel has vowed that \"the bigger the game, the bigger England will be\" after a laboured 2-0 victory over Panama sent them into knockout stages of the World Cup...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c306aac61d7d2c",
+      "title": "Messi makes more history as Argentina beat Jordan",
+      "summary": "Lionel Messi came off the bench to become the first man to score in seven World Cup games in a row in Argentina’s 3-1 win over Jordan.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/jordan-vs-argentina/report/549833",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "df85ecc4259a3a",
+      "title": "World Cup group stage thrilled even without the jeopardy",
+      "summary": "For a World Cup group stage that was supposed to be without much jeopardy, it sure ended with drama. Sasa Kalajdzic's 96th-minute equaliser, just moments after Algeria...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558475/world-cup-group-stage-summary-from-lionel-messi-to-cape-verde-tournament-has-thrilled-despite-lack-of-jeopardy",
+      "publishedAt": "2026-06-28T09:17:40.160Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1ccdb771ec9185",
+      "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+      "summary": "⚽ All the latest news from as we reach the knockouts ⚽ Player guide | Power rankings | Golden Boot | Mail us England reaction from our writers in New York/New Jersey. B...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/england-defence-world-cup-declan-rice-panama-thomas-tuchel",
-      "publishedAt": "2026-06-28T01:39:57.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live",
+      "publishedAt": "2026-06-28T09:10:19.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2cb741f82f30f9",
+      "title": "Transfer rumors, news: Manchester United to move f...",
+      "summary": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
+      "publishedAt": "2026-06-28T09:01:39.000Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "02798d3a936437",
+      "title": "Huge Arsenal transfer blow for Guimaraes as Newcastle claim there had been ‘no contact’",
+      "summary": "Arsenal have reportedly made ‘no contact’ to sign Newcastle midfielder Bruno Guimaraes despite claims of a ‘verbal offer’ from the Gunners.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-transfer-blow-guimaraes-newcastle-no-contact",
+      "publishedAt": "2026-06-28T08:51:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ed3d1c14207d41",
+      "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+      "summary": "From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament It took a little over an hour for Kylian Mbappé to find his...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland",
+      "publishedAt": "2026-06-28T08:30:04.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
@@ -501,82 +392,191 @@
       ]
     },
     {
-      "id": "b07b7e18a27ed7",
-      "title": "Why England's back four has no stability",
-      "summary": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney believe Thomas Tuchel should have included more full-back cover in the squad, following the withdrawal of Ti...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj9gypm2x1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T01:16:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80e004ac8d31d3",
-      "title": "Job done - but England will not win World Cup unless they improve",
-      "summary": "England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T01:05:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
+      "id": "857081632e6e0d",
+      "title": "Brazil, Cape Verde among five games not to miss in the World Cup last 32",
+      "summary": "The five games not to miss in the first World Cup knockout round features three former winners, including one in the tie of the round…",
       "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-06-28T00:50:36.000Z",
+      "url": "https://www.football365.com/news/world-cup-last-32-knockout-round-five-games-not-to-miss",
+      "publishedAt": "2026-06-28T08:22:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ec390fd0923a0e",
+      "title": "USMNT squad is full of leaders for World Cup knock...",
+      "summary": "A quick look at the USMNT roster reveals it is rife with leaders of different types and temperaments, which is helping the team find success.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream",
+      "publishedAt": "2026-06-28T08:14:57.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f253964ff31430",
+      "title": "Not laughing now: How World Cup fans vindicated Mc...",
+      "summary": "Ranch Dressing is everywhere. In myriad memes, in reels, in fans' carry-on suitcases and, apparently, in the mouths of countless international visitors to the United St...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49190854/world-cup-fans-vindicate-usmnt-weston-mckennie-love-ranch-american-dressing",
+      "publishedAt": "2026-06-28T08:14:57.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c3d4a878dfb4c0",
+      "title": "Where has Infantino been? FIFA president clocks up...",
+      "summary": "The FIFA president has been flying all across the World Cup host nations on his private jet. Here's where he has been so far during the tournament.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
+      "publishedAt": "2026-06-28T08:13:01.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9cb6ec72366024",
+      "title": "Best team, moments, matches and players of World Cup group stage",
+      "summary": "As the World Cup group stages come to an end, BBC Sport reporters pick their highlights so far.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T08:07:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f77c08bf461189",
+      "title": "Overreacting to World Cup bracket: How far will US...",
+      "summary": "The bracket for the World Cup knockout rounds is now set! How far will the U.S. go, and who should be the favorites to win it all? Let's judge some overreactions!",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49167690/judging-overreactions-world-cup-bracket-knockout-rounds-usmnt-argentina-france-cape-verde",
+      "publishedAt": "2026-06-28T08:06:37.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "07627fcbc178a2",
+      "title": "South Africa look to lay ghosts of 2010 to rest",
+      "summary": "South Africa play their first ever World Cup knockout game against Canada, 16 years after Bafana Bafana passed up the chance to progress at a tournament held on home so...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpwpv1ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T08:00:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "079380f4a67f09",
+      "title": "Romano reveals how much Chelsea are willing to pay Sunderland for Xhaka after ‘full agreement’",
+      "summary": "Fabrizio Romano has revealed how much Chelsea are willing to pay Sunderland in order to sign Granit Xhaka in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-romano-how-much-willing-pay-sunderland-xhaka-full-agreement",
+      "publishedAt": "2026-06-28T07:58:43.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "00035274e2fd2d",
+      "title": "Rangers close in on defender Godfrey - gossip",
+      "summary": "Serie A defender set for loan to Rangers as MLS clubs step up chase for out of contract Hearts midfielder...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/articles/clywdev7dk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T07:37:27.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "81c478f97310e3",
+      "title": "England told one player gives them ‘a chance of winning the World Cup’ despite ‘little problem’",
+      "summary": "Former midfielder Danny Murphy reckons England have “a chance of winning the World Cup” because of one player despite a “little problem”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-kane-bellingham-chance-winning-world-cup-problem-james",
+      "publishedAt": "2026-06-28T07:07:28.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "497cb3ea5d5d4a",
+      "title": "Lionel Messi steps off bench and scores to cap Argentina’s World Cup win over Jordan",
+      "summary": "Give Lionel Messi half an hour and he will sprinkle some magic to remember for ever. Most of the crowd under this vast roof had been afflicted with their own strain of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/argentian-jordan-world-cup-group-j-match-report",
+      "publishedAt": "2026-06-28T07:01:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9e8562e7b9f9c",
+      "title": "Are Iran the unluckiest side in World Cup history?",
+      "summary": "Iran had a place in the last 32 of the World Cup snatched away from them at the last minute not once but twice.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T06:52:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ec362f31c591ec",
+      "title": "Big names, dark horses and subplots - reasons to watch each last 32 tie",
+      "summary": "BBC Sport shows why you should be interested in all of the World Cup's last-32 ties.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn59l9y636go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T06:35:07.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "11553dddceceb6",
+      "title": "Arsenal could offload key star this summer as Mikel Arteta eyes statement signing",
+      "summary": "Arsenal captain Martin Odegaard has been tipped to leave the Premier League giants as they scour the market for a ‘marquee signing’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-offload-key-star-mikel-arteta-eyes-statement-signing",
+      "publishedAt": "2026-06-28T06:00:23.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "55e638d435e6f3",
-      "title": "Tuchel issues Quansah injury update with two factors key to England’s World Cup hopes – ‘very tight’",
-      "summary": "Thomas Tuchel credited England for doing what was required of them as goals from Jude Bellingham and Harry Kane sealed a 2-0 win over Panama and top spot in Group ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tuchel-issues-quansah-injury-update-two-factors-key-england-world-cup-hopes",
-      "publishedAt": "2026-06-28T00:46:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2fb373eab41e3a",
-      "title": "Rashford says he wasn't at 'best level' in first start of World Cup",
-      "summary": "After making his first start of the World Cup in England's 2-0 win against Panama, Marcus Rashford says he can raise his game going forward in the tournament.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cz6v821lx7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T00:20:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4b6b3811a44454",
-      "title": "'He's that guy!' Pundits praise 'brilliant' Bellingham",
-      "summary": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude Bellingham's \"desire and hunger\" to perform on the biggest stage, after the England midfielder p...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c2dyz205r49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T00:15:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Arsenal"
       ]
     }
   ],
