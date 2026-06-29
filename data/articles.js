@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-29T11:09:17.063Z",
+  "generatedAt": "2026-06-29T15:54:57.628Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,40 +99,119 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "7432a875512baa",
-      "title": "Papers: Barcelona explore deal to sign Kane",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "id": "3f310159250864",
+      "title": "Man City appoint Maresca as new manager",
+      "summary": "Manchester City have appointed Enzo Maresca as their new manager.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558706/harry-kane-barcelona-explore-deal-to-sign-bayern-munich-striker-after-world-cup-paper-talk",
-      "publishedAt": "2026-06-29T11:09:16.800Z",
+      "url": "https://www.skysports.com/football/news/12040/13548773/enzo-maresca-man-city-appoint-former-chelsea-head-coach-as-pep-guardiolas-successor-at-etihad-stadium",
+      "publishedAt": "2026-06-29T15:54:57.424Z",
       "category": "transfer",
-      "region": "spain",
+      "region": "england",
       "tags": [
-        "Transfer",
-        "Barcelona"
+        "Manchester"
       ]
     },
     {
-      "id": "7475fe277c8ce3",
-      "title": "Liverpool consider Barcola as PSG advance with move for Diomande",
-      "summary": "Paris Saint-Germain winger Bradley Barcola features highly among the options Liverpool are considering as an alternative to their top winger target Yan Diomande.",
+      "id": "82d070320dc4bf",
+      "title": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
+      "summary": "Former Sheffield United player Maddy Cusack was \"dismayed\" that her previous coach was joining her football club months before she died, her father has told an inquest.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558837/liverpool-transfer-news-bradley-barcola-among-alternative-targets-with-psg-in-talks-to-sign-yan-diomande",
-      "publishedAt": "2026-06-29T11:09:16.798Z",
+      "url": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
+      "publishedAt": "2026-06-29T15:54:57.423Z",
       "category": "transfer",
-      "region": "england france",
+      "region": "england",
       "tags": [
-        "Liverpool",
-        "Psg"
+        "Football"
       ]
     },
     {
-      "id": "c9d56d9c91e80f",
-      "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
-      "summary": "Canada reach last 16 with win over South Africa England’s dynamic duo need others to step up Email us | Bracketology | World Cup Daily Let’s turn our attention to Germa...",
+      "id": "c2f746b60aec82",
+      "title": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
+      "summary": "Gary Neville has labelled Enzo Maresca's job of succeeding Pep Guardiola at Manchester City as the \"ultimate test\" - because the club will accept \"nothing less than win...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
+      "publishedAt": "2026-06-29T15:54:57.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bcd20495df4658",
+      "title": "Barcelona interested in England captain Kane",
+      "summary": "Barcelona are interested in signing England captain Harry Kane.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558939/harry-kane-transfer-news-barcelona-interested-in-signing-bayern-munich-forward-and-england-captain",
+      "publishedAt": "2026-06-29T15:54:57.423Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8117bf5897986d",
+      "title": "Bigger than Botham? English cricket 'less interesting' as Stokes bows out",
+      "summary": "He was never going to go quietly, was he?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13558900/ben-stokes-englands-serious-entertainer-bows-out-as-cricket-becomes-less-interesting-and-far-worse",
+      "publishedAt": "2026-06-29T15:54:57.423Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "c0a1afffcadd2d",
+      "title": "Maresca apologises to Chelsea and will pay compensation for 'unexpected' exit",
+      "summary": "New Manchester City manager Enzo Maresca will pay Chelsea compensation and has apologised to the club as the Blues released an explosive statement criticising his unexp...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558915/enzo-maresca-former-chelsea-boss-apologises-for-stamford-bridge-exit-and-will-pay-compensation-as-man-city-confirm-appointment",
+      "publishedAt": "2026-06-29T15:54:57.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "656d0b8b770aa7",
+      "title": "Littler has a howler! The Nuke loses out on Lineker's darts challenge!",
+      "summary": "Luke Littler bizarrely doesn't win a darts challenge on The Rest is Football.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13558829/luke-littler-has-a-howler-the-nuke-loses-out-on-linekers-darts-challenge",
+      "publishedAt": "2026-06-29T15:54:57.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "cbd45875929edb",
+      "title": "New Man City boss Maresca to pay compensation to Chelsea",
+      "summary": "Enzo Maresca signs three-year Manchester City deal after agreeing to pay compensation to former club Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T15:50:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b84c5ceabaf0dc",
+      "title": "Brazil v Japan: World Cup 2026 last 32 – live",
+      "summary": "⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET ⚽ Bracketology | Player guide | Golden Boot | Email Tim And now we have an email from Brazil. “Love the minute-by-mi...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live",
-      "publishedAt": "2026-06-29T10:58:59.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live",
+      "publishedAt": "2026-06-29T15:45:03.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -142,328 +221,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "57fe4c57ee2fbc",
-      "title": "World Cup star decides preference between Man Utd, Newcastle as Euro giants set asking price",
-      "summary": "Borussia Dortmund midfielder Felix Nmecha has decided where his future could lie amid reports linking him with Man Utd and Newcastle.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-star-decides-preference-between-man-utd-newcastle-as-euro-giants-set-asking-price",
-      "publishedAt": "2026-06-29T10:46:59.000Z",
-      "category": "worldcup",
-      "region": "england germany",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e84ecdb8e3cc60",
-      "title": "World Cup quiz: How well do you know the group stage in numbers?",
-      "summary": "The biggest ever group stage at a World Cup is over - test yourself on the numbers of the first round of games.",
+      "id": "ff293e8110d26d",
+      "title": "Welsh football bosses reveal £150m cost to improve facilities",
+      "summary": "Football officials say it will cost £150m to deliver the facilities the game needs across Wales amid a surge in participation figures across the country.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8wvqp4w2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T10:38:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "beafad8821a990",
-      "title": "Move over Messi and Ronaldo - the new generation shining at World Cup",
-      "summary": "BBC Sport looks at five young players who are making a big impression on the same World Cup stage as veterans Lionel Messi and Cristiano Ronaldo.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy9yd8lgwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T10:33:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bcc9781352ebbc",
-      "title": "Harry Kane reacts to Barcelona after Spanish giants make contact to sign Bayern Munich star",
-      "summary": "According to reports, Bayern Munich and England star Harry Kane has given a response to Barcelona, who are ‘exploring a deal’ for him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-reacts-barcelona-spanish-giants-make-contact-sign-bayern-munich-star",
-      "publishedAt": "2026-06-29T10:32:43.000Z",
-      "category": "transfer",
-      "region": "spain germany",
-      "tags": [
-        "Barcelona",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "521f3a1d340656",
-      "title": "Netherlands v Morocco clash comes too early in World Cup for Koeman",
-      "summary": "Netherlands v Morocco does not feel like a last-32 match to Ronald Koeman and he’s probably right.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/netherlands-morocco-too-early-world-cup",
-      "publishedAt": "2026-06-29T10:26:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "add8a3675f9c58",
-      "title": "Why Netherlands v Morocco is more than just a match",
-      "summary": "Morocco’s World Cup meeting with the Netherlands tells a story about migration, identity and the battle for Dutch-born talent.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T10:16:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d4a5bbab5a4438",
-      "title": "Romano reveals ‘new attack’ from Chelsea for Xhaka amid fresh talks today",
-      "summary": "Fabrizio Romano has revealed that Chelsea are planning a ‘new attack’ to sign Granit Xhaka after Sunderland reject their opening bid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-xhaka-new-attack-sunderland-fresh-talks-monday",
-      "publishedAt": "2026-06-29T10:06:04.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3e403638fc0120",
-      "title": "All done deals in June 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T09:52:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "67d06f35b85178",
-      "title": "Chelsea give Man Utd chance to sign Real Madrid star as door opens for ‘dream’ transfer",
-      "summary": "According to reports, Chelsea could boost Manchester United’s hopes of signing Aurelien Tchouameni from Real Madrid this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-man-utd-chance-sign-real-madrid-star-door-opens-dream-transfer",
-      "publishedAt": "2026-06-29T09:52:07.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "761c2878d65d63",
-      "title": "Arsenal accelerate £100m Arteta-led deal as Gunners lead Man City, Chelsea in race to sign PL star",
-      "summary": "Arsenal are leading Manchester City and Chelsea in the race to sign Morgan Rogers from Aston Villa this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-accelerate-transfer-rogers-aston-villa-man-city-chelsea",
-      "publishedAt": "2026-06-29T09:35:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "530a8b9699552a",
-      "title": "Clarke says standing down 'easy' decision after World Cup exit",
-      "summary": "Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not qualify for the knock-out stages.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T09:25:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "109c4ba27accb9",
-      "title": "The biggest spenders of the 2026 summer transfer window",
-      "summary": "Liverpool are currently the continent’s biggest spenders, starting the window as they finished last summer…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-06-29T09:20:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-06-29T09:20:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "8d8112daa082d3",
-      "title": "Gary Neville claims England star is ‘not right at all’ as Ian Wright insists he ‘needs a break’",
-      "summary": "Manchester United legend Gary Neville has explained why he has a “concern” with Arsenal and England star Bukayo Saka.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-neville-claims-england-star-is-not-right-at-all-as-ian-wright-insists-he-needs-a-break",
-      "publishedAt": "2026-06-29T09:15:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-06-29T08:59:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "b4cd1a4954cc81",
-      "title": "Chelsea enter race for £80m-rated Fernandez replacement, ready official offer for surprise signing",
-      "summary": "Chelsea are looking to sign Alex Scott and Pep Chavarria as replacements for Enzo Fernandez and Marc Cucurella, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-enter-race-alex-scott-fernandez-replacement-bournemouth-official-offer-chavarria",
-      "publishedAt": "2026-06-29T08:51:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal, Chelsea not serious over Newcastle, Sunderland skippers",
-      "summary": "The London elite are taking the p*ss out of the North East clubs, while there’s good and bad news for Liverpool…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-06-29T08:43:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Five-year net spend table: Big Six lead despite on-pitch woes of Chelsea and Spurs",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have just jumped over Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-06-29T08:35:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8bf2cecc2578d2",
-      "title": "Lewandowski close to Chicago Fire switch",
-      "summary": "Poland's record scorer is set for a big-money move to the MLS after his departure from Barcelona.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c892qdnqgvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T08:24:43.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "2190e92b9046de",
-      "title": "Roy Keane reveals ‘absolutely no chance’ England prediction for World Cup – ‘I just can’t see it’",
-      "summary": "Manchester United legend Roy Keane has predicted what England will do at the World Cup before Wednesday’s game against DR Congo.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/roy-keane-reveals-no-chance-england-prediction-world-cup",
-      "publishedAt": "2026-06-29T08:17:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f1d95a0e2b3761",
-      "title": "Romano reveals Carrick ‘decision’ on selling Man Utd star amid AC Milan transfer rumours",
-      "summary": "Transfer expert Fabrizio Romano has revealed that Michael Carrick and Man Utd have a “very clear” stance on selling Amad Diallo this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-romano-carrick-decision-sale-amad-diallo-milan-transfer",
-      "publishedAt": "2026-06-29T08:14:53.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer",
-        "Milan"
-      ]
-    },
-    {
-      "id": "59b331bba7a19d",
-      "title": "Brazil v Japan: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between Brazil and Japan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/brazil-v-japan-prediction-preview",
-      "publishedAt": "2026-06-29T07:58:55.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "33aaa475c3a7a9",
-      "title": "England: Paul Scholes urges Thomas Tuchel to snub Arsenal star vs DR Congo for three reasons",
-      "summary": "Paul Scholes has explained why he thinks England boss Thomas Tuchel should select Elliot Anderson over Declan Rice against DR Congo.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-scholes-urges-tuchel-snub-arsenal-star-dr-congo-three-reasons",
-      "publishedAt": "2026-06-29T07:55:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3d1504b2e79439",
-      "title": "Football triplets make historic debut for Guernsey",
-      "summary": "A set of 16-year-old triplets make their debut for Guernsey as the island side finishes third in the Cherry Godfrey Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8q2y0z9wgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T07:31:50.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm0llg0zzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T15:01:16.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -471,12 +234,196 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d168096db22ff3",
-      "title": "Chelsea star reaches agreement to join Man City as Enzo Maresca top priority signing",
-      "summary": "According to reports, Manchester City have now reached an ‘agreement’ with Chelsea right-back Malo Gusto over a move to the Etihad.",
+      "id": "79ed1184780b21",
+      "title": "Follow Pep and find scoring options: Maresca’s Manchester City in-tray",
+      "summary": "New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadow How Enzo Maresca follows Pep Guardiola is the searing question he has...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray",
+      "publishedAt": "2026-06-29T15:00:22.000Z",
+      "category": "worldcup",
+      "region": "england spain france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "97b0541aa7bb18",
+      "title": "What hosting the World Cup means for Canadian soccer: ‘The stakes are absolutely massive’",
+      "summary": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soccer officials hope it can be transformative Toronto’s Front Street,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/29/canada-world-cup-2026-hosting-impact",
+      "publishedAt": "2026-06-29T15:00:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9ccd30115e35c7",
+      "title": "Arsenal head of sports science and performance departs",
+      "summary": "Arsenal head of sports science performance Tom Allen is the latest member of the club's backroom team set to leave the club.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgzqwe0p3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T14:56:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "455ebf5b743616",
+      "title": "The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson",
+      "summary": "All of the critiques of this tournament have proven valid and warranted, even as the action on the pitch has delighted us • Predict the winner | Daily podcast | Downloa...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-criticism",
+      "publishedAt": "2026-06-29T14:55:37.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "d0107af843159d",
+      "title": "Greek journalist believes Arsenal will complete deal for nation’s best player",
+      "summary": "A Greek journalist believes Arsenal have a “better chance” than some realise of landing the nation’s best player, who they have been following for “a long time.”",
       "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-star-reaches-agreement-join-man-city-enzo-maresca-top-priority-signing",
-      "publishedAt": "2026-06-29T07:25:59.000Z",
+      "url": "https://www.football365.com/news/greek-journalist-rates-arsenal-chances-high-tzolis",
+      "publishedAt": "2026-06-29T14:42:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c96cd64aff83d8",
+      "title": "Man Utd: Impact of Manuel Ugarte injury revealed as three potential replacements named",
+      "summary": "A new report has claimed that Manuel Ugarte’s serious knee injury should ‘not’ have a ‘major impact’ on Manchester United’s transfer plans.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-impact-manuel-ugarte-injury-revealed-three-replacements-rashford",
+      "publishedAt": "2026-06-29T14:38:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2e16d76f23dacd",
+      "title": "Kerr joins NWSL side Gotham FC",
+      "summary": "Australian international Sam Kerr has joined Gotham FC on a four-year deal following her departure from Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5n027vrgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T14:25:57.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e27edf9442f101",
+      "title": "Africa's World Cup success leaves Asia looking for answers",
+      "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T14:17:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "522f3a5fbd4daf",
+      "title": "France v Sweden: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between France and Sweden.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/france-v-sweden-prediction-preview",
+      "publishedAt": "2026-06-29T13:58:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6c554ad720dbff",
+      "title": "Liverpool make ‘direct’ contact for winger as Diomande snub ‘opens door’ to transfer",
+      "summary": "Yan Diomande choosing a move to PSG has ‘automatically opened the door’ to Liverpool signing Bradley Barcola, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-direct-contact-barcola-psg-diomande-opens-door-transfer",
+      "publishedAt": "2026-06-29T13:54:54.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "1a9c21cb423f96",
+      "title": "Arsenal star hits back at Gary Lineker prediction after ‘weakest’ claim – ‘I’m not interested’",
+      "summary": "Arsenal and Germany forward Kai Havertz has hit back at Gary Lineker making a prediction about their World Cup chances.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-star-hits-back-gary-lineker-prediction-weakest-claim",
+      "publishedAt": "2026-06-29T13:54:00.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "World Cup",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "f2c79a0b9f8c17",
+      "title": "Ivory Coast v Norway: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between Ivory Coast and Norway.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/ivory-coast-v-norway-prediction-preview",
+      "publishedAt": "2026-06-29T13:47:50.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c2c58a6173fc5d",
+      "title": "Netherlands v Morocco: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between the Netherlands and Morocco.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/netherlands-v-morocco-prediction-preview",
+      "publishedAt": "2026-06-29T13:46:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1bb96fb0ba4728",
+      "title": "Man City appoint Enzo Maresca for huge fee as Chelsea respond with stunning 322-word statement",
+      "summary": "Manchester City have finally confirmed the appointment of Enzo Maresca, and Chelsea have expressed their displeasure at their former boss.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-confirm-enzo-maresca-appointment-chelsea-respond-322-word-statement",
+      "publishedAt": "2026-06-29T13:20:51.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -485,97 +432,52 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "36e3e357ec0d98",
-      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T07:18:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1876387908cd99",
-      "title": "Germany v Paraguay: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between Germany and Paraguay.",
+      "id": "5a26e0b08eada0",
+      "title": "‘Incredible’ Arsenal star backed to ‘step up’ and fire England to World Cup last 16",
+      "summary": "Former England defender Kyle Walker is backing Bukayo Saka to ‘step up’ and join Harry Kane and Jude Bellingham in making headlines at the World Cup, starting against D...",
       "source": "Football365",
-      "url": "https://www.football365.com/match-preview/germany-v-paraguay-prediction-preview",
-      "publishedAt": "2026-06-29T07:10:36.000Z",
+      "url": "https://www.football365.com/news/incredible-bukayo-saka-backed-deliver-for-england-against-dr-congo",
+      "publishedAt": "2026-06-29T13:20:05.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1c74a23d8565d6",
-      "title": "England somehow given same odds as Spain for World Cup victory",
-      "summary": "The World Cup is in full flow and England are somehow joint-third favourites with Spain now. France and Argentina are well ahead.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
-      "publishedAt": "2026-06-29T07:06:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "089005c186ed2b",
-      "title": "How the new Brazil is taking shape and why Cunha is key",
-      "summary": "Former Brazil midfielder Lucas Leiva explains why Manchester United striker Matheus Cunha is so important to Brazil's adaptable system under Carlo Ancelotti.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T07:03:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9866942cf76dcd",
-      "title": "Brazil fans were waiting for Vinícius Júnior to be their hero. He’s arrived",
-      "summary": "Vini Jr has been a star at Real Madrid for a long time. Now he is truly delivering for his country at a World Cup “I’m so happy to see you happy. Living a dream. It’s B...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/29/brazil-fans-vinicius-junior-hero-real-madrid-world-cup",
-      "publishedAt": "2026-06-29T07:00:31.000Z",
-      "category": "worldcup",
-      "region": "spain italy",
-      "tags": [
-        "Football",
         "World Cup",
-        "Real Madrid",
-        "Inter"
+        "Arsenal"
       ]
     },
     {
-      "id": "22bb7f2542aeb9",
-      "title": "Liverpool turn attention to World Cup star after Diomande snub as Romano reveals ‘open’ situation",
-      "summary": "Fabrizio Romano has claimed that Liverpool are interested in signing Bradley Barcola after Yan Diomande decided he wants to move to PSG.",
+      "id": "2469b274137ed3",
+      "title": "Every Premier League manager’s contract and when it expires",
+      "summary": "We take a look at where every Premier League manager stands with their deal as so many big clubs make appointments.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-barcola-psg-diomande-snub-romano-open-situation",
-      "publishedAt": "2026-06-29T06:45:21.000Z",
+      "url": "https://www.football365.com/news/contracts-expiry-dates-premier-league-managers",
+      "publishedAt": "2026-06-29T13:15:24.000Z",
       "category": "transfer",
-      "region": "england italy france",
+      "region": "england",
       "tags": [
-        "World Cup",
-        "Liverpool",
-        "Psg",
-        "Inter"
+        "Premier League"
       ]
     },
     {
-      "id": "81bb6090989f9c",
-      "title": "Who will win Young Player of the Tournament at the 2026 World Cup?",
-      "summary": "Enzo Fernandez is the holder of the gong after helping Argentina to World Cup glory in Qatar four years ago, but who will win Young Player of the Tournament in ...",
+      "id": "55f144c2149ee1",
+      "title": "Arsenal told what to offer to sign Bruno Guimaraes as truth on Newcastle release clause revealed",
+      "summary": "A new report has revealed the ‘truth on a release clause’ for Newcastle United star Bruno Guimaraes, who is wanted by Arsenal.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-young-player-of-the-tournament-at-the-2026-world-cup-nico-oreilly-in-the-running",
-      "publishedAt": "2026-06-29T06:42:08.000Z",
+      "url": "https://www.football365.com/news/arsenal-told-offer-sign-bruno-guimaraes-truth-newcastle-release-clause-revealed",
+      "publishedAt": "2026-06-29T12:54:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "eb5daf0a18a000",
+      "title": "Man Utd replacement among shock nine with more World Cup knockout goals than Cristiano Ronaldo",
+      "summary": "Cristiano Ronaldo has fewer knockout goals than World Cup icons Matthew Upson, Wout Weghorst and Zanka…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/players-with-more-world-cup-knockout-goals-than-cristiano-ronaldo",
+      "publishedAt": "2026-06-29T12:24:47.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -583,12 +485,107 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "77dcaf6e4b3403",
-      "title": "'Ferguson to assess Bologna future' - gossip",
-      "summary": "Scotland's Lewis Ferguson reportedly told Bologna he will assess his future after the World Cup, while Wolfsburg are said to be closing in on Celtic-linked goalkeeper T...",
+      "id": "7d5b518631e9b6",
+      "title": "Chelsea ‘offer’ £69m for Barcelona star with ‘medical completed’ for fifth summer signing",
+      "summary": "Atalanta defender Marco Palestra has reportedly completed his medical to sign for Chelsea as the Blues make an offer for a Barcelona star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-offer-barcelona-cubarsi-medical-completed-palestra",
+      "publishedAt": "2026-06-29T12:23:22.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "343789d0364607",
+      "title": "World Cup exit leaves South Korean football in crisis",
+      "summary": "After crashing out of the World Cup, BBC Sport investigates the rise and fall of South Korean football.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4d2xp017vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T06:38:18.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy049pen9q5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T12:03:17.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1f4f6f9d9756c0",
+      "title": "World Cup quiz: were you paying attention during the group stage?",
+      "summary": "There were 16 host cities, 48 teams, 72 matches and 215 goals, but did you notice the little details? This is a quiz by Richard Foster, who presents the It Started With...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-quiz-group-stage-teams-matches-goals-cities",
+      "publishedAt": "2026-06-29T12:00:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8a76da87849340",
+      "title": "England starting right-back vs DR Congo named with decision on Declan Rice return",
+      "summary": "According to reports, Tottenham Hotspur star Djed Spence is set to start for England in their World Cup round of 32 tie against DR Congo.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-starting-right-back-dr-congo-named-tuchel-decision-rice-return",
+      "publishedAt": "2026-06-29T11:57:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "20b171098a49ca",
+      "title": "'Big brother' Van Dijk key to Dutch World Cup dreams",
+      "summary": "France's World Cup winner Olivier Giroud explains why Netherlands defender Virgil van Dijk is still the main man for his national team.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9927m2jlx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T11:52:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0f516fe55e20a3",
+      "title": "Could a heatwave make World Cup matches 'unsafe' this week?",
+      "summary": "Temperatures are expected to soar across parts of the US and Canada this week which could bring significant health impacts to some World Cup matches.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/weather/articles/c1lyz4jy425o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T11:36:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b4b13b1ba49068",
+      "title": "Fowler urges Liverpool to sign ‘exciting’ ex-Chelsea star to replace Salah after Diomande blow",
+      "summary": "Liverpool legend Robbie Fowler reckons the Reds should sign former Chelsea forward Christian Pulisic to replace Mohamed Salah this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-fowler-told-sign-pulisic-salah-diomande-blow",
+      "publishedAt": "2026-06-29T11:34:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f25914e0d95cce",
+      "title": "How Tuchel is still searching for solutions out wide - Shearer",
+      "summary": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about England so far at this World Cup, but having a settled side is not one o...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T11:27:47.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
