@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-28T19:36:25.707Z",
+  "generatedAt": "2026-06-29T04:22:56.181Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,38 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "d66ac5d02fb84e",
-      "title": "Ireland seal historic maiden series victory against India",
-      "summary": "Ireland sealed a historic first series victory in any format against India with a thrilling one-run win in the second T20 international in Belfast.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13558654/ireland-seal-historic-maiden-series-victory-against-t20-world-champions-india-after-thrilling-one-run-win-in-belfast",
-      "publishedAt": "2026-06-28T19:36:25.649Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "0a341b33aca3f3",
-      "title": "Stokes' retirement cues chaotic finish as England teeter towards series defeat",
-      "summary": "Ben Stokes took centre stage, in more ways than one, as the announcement of his international retirement dominated a quite remarkable fourth day's play of England's thi...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13558650/england-vs-new-zealand-ben-stokes-retirement-from-international-cricket-prompts-chaotic-finish-to-day-four-of-third-test-at-trent-bridge",
-      "publishedAt": "2026-06-28T19:36:25.648Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "5e4dfb3c86641d",
       "title": "Australia knock India out of Women's T20 World Cup",
       "summary": "Australia eliminated India from the Women's T20 World Cup after claiming a six-wicket victory in their Group 1 clash at Lord's.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13558644/womens-t20-world-cup-australia-knock-india-out-of-tournament-with-six-wicket-win-to-set-up-semi-final-vs-west-indies",
-      "publishedAt": "2026-06-28T19:36:25.648Z",
+      "publishedAt": "2026-06-29T04:22:55.992Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Ben Stokes insists retiring from international cricket is the “best thing” for him after sensationally confirming mid-match that England’s series decider with New Zeala...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13558674/ben-stokes-england-captain-reveals-tough-decisions-behind-international-retirement-and-why-it-is-best-thing-for-him",
-      "publishedAt": "2026-06-28T19:36:25.648Z",
+      "publishedAt": "2026-06-29T04:22:55.992Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -151,27 +125,79 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "aa256a928ad534",
-      "title": "South Africa v Canada: World Cup 2026 last 32 – live",
-      "summary": "⚽️ Kick-off: 8pm BST/3pm EDT/5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Daniel Oh man, my eyeballs are sweating and we’re 45 minutes away from watchin...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/28/south-africa-v-canada-world-cup-2026-last-32-live",
-      "publishedAt": "2026-06-28T19:27:43.000Z",
-      "category": "worldcup",
+      "id": "7fc1aa8273162a",
+      "title": "Did 'crazy' cricket deny Stokes 'extraordinary' end to England career?",
+      "summary": "Ben Stokes was unable to produce the fairytale ending to his time as England's captain, having played the hero at numerous points during his glittering international ca...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13558678/ben-stokes-england-captain-delivers-drama-but-did-crazy-cricket-deny-him-dream-end-to-extraordinary-test-career",
+      "publishedAt": "2026-06-29T04:22:55.991Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
-        "Football",
-        "World Cup",
         "Inter"
       ]
     },
     {
-      "id": "e5026e32e66753",
-      "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T19:14:59.000Z",
+      "id": "8a3451d4a4139d",
+      "title": "PSG in talks to sign Liverpool target Diomande",
+      "summary": "Paris Saint-Germain are in talks with RB Leipzig over a move for Liverpool target Yan Diomande.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558694/yan-diomande-transfer-news-psg-in-talks-to-sign-liverpool-target-and-ivory-coast-international",
+      "publishedAt": "2026-06-29T04:22:55.991Z",
+      "category": "transfer",
+      "region": "england france germany",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "0a341b33aca3f3",
+      "title": "Stokes' retirement cues chaotic finish as England teeter towards series defeat",
+      "summary": "Ben Stokes took centre stage, in more ways than one, as the announcement of his international retirement dominated a quite remarkable fourth day's play of England's thi...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13558650/england-vs-new-zealand-ben-stokes-retirement-from-international-cricket-prompts-chaotic-finish-to-day-four-of-third-test-at-trent-bridge",
+      "publishedAt": "2026-06-29T04:22:55.991Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "0e9e1229db7fd0",
+      "title": "Papers: James optimistic he can feature again at World Cup",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558706/reece-james-england-defender-confident-of-playing-again-at-world-cup-paper-talk",
+      "publishedAt": "2026-06-29T04:22:55.990Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "0e40cefb66ddb5",
+      "title": "World Cup VAR review: Why didn't Canada get a pena...",
+      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "publishedAt": "2026-06-29T04:19:35.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "de606278cc05d5",
+      "title": "Morocco and the Netherlands look to move mountains in Monterrey matchup",
+      "summary": "Two teams with plenty of connections meet in a ‘clash of titans’ at one of the World Cup’s most picturesque venues Morocco manager Mohamed Ouahbi had just been asked wh...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/morocco-netherlands-world-cup-2026-preview",
+      "publishedAt": "2026-06-29T03:45:09.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -180,40 +206,243 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a89e94b91f1d5a",
-      "title": "Sunderland reject £8m Chelsea bid for Xhaka",
-      "summary": "Sunderland say experienced midfielder Granit Xhaka is not for sale after rejecting an £8m bid for the player from Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T19:09:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c1f41cac916b23",
-      "title": "‘We don’t want penalties’: Pickford backs England’s attacking approach",
-      "summary": "Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties Jordan Pickford has pretty much seen it all sin...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
-      "publishedAt": "2026-06-28T18:00:15.000Z",
+      "id": "bbc0b85a3407de",
+      "title": "Marsch's 'Canadian heroes' deliver defining win",
+      "summary": "After Canada beat South Africa to win their first-ever FIFA World Cup knockout match and advance to the round of 16, coach Jesse Marsch didn't hesitate to call his play...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49210369/marsch-canadian-heroes-defining-win-south-africa",
+      "publishedAt": "2026-06-29T03:35:26.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
-        "Football",
         "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "378363f7731936",
-      "title": "Ugarte has 'most serious injury footballer can face'",
-      "summary": "Manchester United have confirmed that midfielder Manuel Ugarte suffered knee ligament damage during Uruguay's World Cup defeat by Spain.",
+      "id": "8ab188adb08f70",
+      "title": "South Korea coach quits after WC exit, criticism",
+      "summary": "South Korea coach Hong Myung-Bo resigned Sunday, a day after the team's quick elimination from the World Cup and following heavy criticism from the country's president.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49208667/south-korea-coach-hong-myung-bo-quits-world-cup-exit-criticism-president",
+      "publishedAt": "2026-06-29T03:35:26.000Z",
+      "category": "transfer",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ec390fd0923a0e",
+      "title": "USMNT squad is full of leaders for World Cup knock...",
+      "summary": "A quick look at the USMNT roster reveals it is rife with leaders of different types and temperaments, which is helping the team find success.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49196528/usmnt-squad-full-leaders-world-cup-knockouts-not-just-captain-ream",
+      "publishedAt": "2026-06-29T03:18:40.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f253964ff31430",
+      "title": "Not laughing now: How World Cup fans vindicated Mc...",
+      "summary": "null",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49190854/world-cup-fans-vindicate-usmnt-weston-mckennie-love-ranch-american-dressing",
+      "publishedAt": "2026-06-29T03:18:40.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "aecc94a38863dc",
+      "title": "Sources: Diomande close to preferred PSG move",
+      "summary": "Paris Saint-Germain are preparing to close the deal for the transfer of Yan Diomandé after positive initial talks with the German club, sources have told ESPN.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49211932/yan-diomande-close-move-paris-saint-germain",
+      "publishedAt": "2026-06-29T02:58:39.000Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Transfer",
+        "Psg"
+      ]
+    },
+    {
+      "id": "a98a7587a3fea8",
+      "title": "Uruguay, Utd's Ugarte suffers knee ligament injury...",
+      "summary": "Uruguay midfielder Manuel Ugarte has suffered a knee ligament injury in his final World Cup group stage match against Spain, Manchester United have confirmed.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49207806/uruguay-manuel-ugarte-faces-long-injury-lay-following-knee-ligament-injury",
+      "publishedAt": "2026-06-29T02:58:39.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a1224b72596291",
+      "title": "Inside how a U.S. academy helped mold World Cup ph...",
+      "summary": "Teenager Yan Diomande is a top target for Europe's biggest clubs this summer. Before he was a star, though, he was a promising winger in Florida called \"Dio.\"",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49200323/inside-how-us-academy-helped-mould-world-cup-phenom-yan-diomande",
+      "publishedAt": "2026-06-29T02:33:12.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1760e99da7dae2",
+      "title": "O Canada! The knockouts begin with a win for Marsch’s men: World Cup Daily – podcast",
+      "summary": "Max Rushden is joined by Barry Glendenning , Mark Langdon and Jonathan Wilson as the knockout stages commence with a late, late winner for Canada over South Africa Rate...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast",
+      "publishedAt": "2026-06-29T01:24:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b547fbce00da3f",
+      "title": "Gab Marcotti's Best XI of World Cup group stage: M...",
+      "summary": "The 2026 World Cup group stage has given us tons to cheer about, from superstars on form to wonderful underdog stories. How do you turn that into a best XI? Gab Marcott...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49208415/world-cup-best-xi-group-stage-lionel-messi-kylian-mbappe-vinicius-junior-gab-marcotti",
+      "publishedAt": "2026-06-29T00:06:07.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "df7f0a400fd074",
+      "title": "Reranking Europe's top clubs by player performance...",
+      "summary": "Bayern Munich, Real Madrid and PSG players have impressed, but which clubs around the world have had the best players in the tournament after the group stage?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49204950/reranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
+      "publishedAt": "2026-06-29T00:06:07.000Z",
+      "category": "league",
+      "region": "spain france germany",
+      "tags": [
+        "Real Madrid",
+        "Psg",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "0b9003209b9727",
+      "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzx3de02jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T17:42:20.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T00:02:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4eb79da961e8ba",
+      "title": "Unflappable Lucas Herrington takes praise and World Cup progress in his stride",
+      "summary": "Teenage defender is youngest Australian to start a World Cup match and has already been linked with Barcelona Nestory Irankunda and Cristian Volpato might be the Soccer...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/unflappable-lucas-herrington-takes-praise-and-world-cup-progress-in-his-stride",
+      "publishedAt": "2026-06-28T21:56:28.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "72de1cee2e77c4",
+      "title": "Canada into last 16 with late winner against South Africa",
+      "summary": "Stephen Eustaquio scores a dramatic winner in the second minute of injury time as co-hosts Canada beat South Africa to move into the last 16 of the World Cup for the fi...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T21:49:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Holders Argentina big winners as knockout stage begins",
+      "summary": "Only 31 teams now remain as the first ever World Cup last-32 round gets under way, with Canada the history-making first winners.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-28T21:37:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d053847fa6149b",
+      "title": "World Cup gets rest day by proxy as Canada provide perfect bridge to the knockout stage",
+      "summary": "Canada take their place in history and a pub quiz near you as the first ever winners of a last-32 World Cup game.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-first-ever-last-32-canada-quiz",
+      "publishedAt": "2026-06-28T21:34:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "efdc39795a2cc7",
+      "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+      "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T21:24:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b5472760d16882",
+      "title": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
+      "summary": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 d...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T21:16:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b3f0e2250194fd",
+      "title": "Manchester United’s Manuel Ugarte set for spell on sidelines with knee injury",
+      "summary": "Injury occurred in Uruguay’s World Cup clash with Spain ‘Assessment of the injury is ongoing’ Manuel Ugarte could be facing a long spell ⁠on the sidelines after sustain...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/28/manchester-united-knee-ligament-manuel-ugarte-uruguay-world-cup",
+      "publishedAt": "2026-06-28T20:56:44.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -223,25 +452,27 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "038083e693c315",
-      "title": "Journalist denies Arsenal bid for Guimaraes as agent’s price tag declined",
-      "summary": "A Newcastle-connected journalist has denied that Arsenal have made a formal offer for Bruno Guimaraes, as the suggested price from his agent has been laughed off.",
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Palace and Sunderland lead Prem",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but Crystal Palace and Sunderland lead the Premier League way now.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/journalist-denies-arsenal-bid-guimaraes",
-      "publishedAt": "2026-06-28T16:43:49.000Z",
-      "category": "transfer",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-06-28T20:56:06.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
+        "Premier League",
+        "World Cup",
         "Arsenal"
       ]
     },
     {
-      "id": "e14e25981ac075",
-      "title": "Small-minded SFA must ditch parochial mentality if Scotland are to thrive | Ewan Murray",
-      "summary": "Search for Steve Clarke’s replacement must look outside the country’s borders to avoid future World Cup disappointment There was one element of the Scottish Football As...",
+      "id": "5f90362f1c0a1f",
+      "title": "South Korea coach resigns after president condemns ‘incompetent people’ in World Cup exit",
+      "summary": "Korean president Lee lashes out and apologises to nation Son Heung-min omission against South Africa backfires Hong Myung-bo resigned on Sunday as South Korea’s head co...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/scotland-search-new-coach-replace-steve-clarke",
-      "publishedAt": "2026-06-28T15:59:37.000Z",
+      "url": "https://www.theguardian.com/football/2026/jun/28/south-korea-coach-resigns-president-condemns-world-cup-exit",
+      "publishedAt": "2026-06-28T20:55:03.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -250,354 +481,114 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "59cb72e755d7d7",
-      "title": "‘Street football on world stage’: Morocco and Netherlands face off in last-32 tie with a backstory",
-      "summary": "Moroccans began moving to the Netherlands in the 1960s, lending match in Mexico a feeling akin to ‘a derby’ Thirty-two years to the day since their first official encou...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/street-football-on-world-stage-morocco-and-netherlands-face-off-in-last-32-game-with-a-backstory",
-      "publishedAt": "2026-06-28T15:38:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bd2a778a108911",
-      "title": "Troy Deeney ‘can’t stand’ England defender in line for bigger World Cup role",
-      "summary": "Troy Deeney has stated he “can’t stand” an England defender who could be in line for an increased role at the World Cup under Thomas Tuchel.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/troy-deeney-cant-stand-england-man-djed-spence",
-      "publishedAt": "2026-06-28T15:16:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "00f52433f445fb",
-      "title": "Football Daily | England muddle on and Clarke checks out as World Cup moves up a gear",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! After much hesitant wallchart-filling, Geopolitics World Cup fans are finally able to feast their eyes on a complete...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/england-scotland-world-cup-group-stage-finale",
-      "publishedAt": "2026-06-28T15:13:12.000Z",
+      "id": "2cb741f82f30f9",
+      "title": "Transfer rumors, news: Manchester United to move f...",
+      "summary": "Manchester United haven't given up on landing West Ham United midfielder Mateus Fernandes. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49204732/transfer-rumors-news-man-united-move-west-ham-midfielder",
+      "publishedAt": "2026-06-28T20:52:04.000Z",
       "category": "transfer",
       "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0eb6f350f5246d",
-      "title": "Cups of tea and a roaring crowd: Sydney’s Algerian community gathers for World Cup nailbiter",
-      "summary": "There was good food, nervous energy and pandemonium at a Surry Hills cafe as Algeria went through to the knockout round On a rainy day in Sydney’s Surry Hills, a small...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/29/cups-of-tea-and-a-roaring-crowd-sydneys-algerian-community-gathers-for-world-cup-nailbiter",
-      "publishedAt": "2026-06-28T15:00:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "86725c0a6d3ea2",
-      "title": "Rice set for England start against DR Congo",
-      "summary": "Declan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on Wednesday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T14:14:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2c81006ca7a1ac",
-      "title": "Real Madrid threaten Diomande transfer as Liverpool join Tottenham in race to sign alternative",
-      "summary": "Liverpool are facing competition from Real Madrid for RB Leipzig winger Yan Diomande and are already looking at other targets, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-threaten-diomande-transfer-as-liverpool-join-tottenham-in-race-to-sign-alternative",
-      "publishedAt": "2026-06-28T13:45:06.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
       "tags": [
         "Transfer",
-        "Liverpool",
-        "Real Madrid"
+        "Manchester"
       ]
     },
     {
-      "id": "b2f5566fa0b6c2",
-      "title": "Iran needed help to save their ‘disaster’ World Cup. Instead they got more heartbreak",
-      "summary": "Team Melli’s agonizing exit after other results failed to break their way is a moment of anguish that rises to the top of a football history full of them Mehdi Taremi l...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/iran-world-cup-exit-heartbreak",
-      "publishedAt": "2026-06-28T13:27:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "df0a35b99674f3",
-      "title": "Terry urges Arteta to replace £64m Arsenal star if they want to retain Premier League title",
-      "summary": "Chelsea legend John Terry has told Arsenal head coach Mikel Arteta to find a new striker to replace Viktor Gyokeres in the starting XI.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-terry-arteta-replace-gyokeres-retain-premier-league-title",
-      "publishedAt": "2026-06-28T12:54:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "eeca78d007304f",
-      "title": "Man Utd prepare £104m ‘offer’ for Real Madrid star to satisfy Carrick as ‘biggest threat’ is revealed",
-      "summary": "Man Utd are preparing to satisfy Michael Carrick by making an ‘offer’ to sign Real Madrid forward Vinicius Junior, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-offer-real-madrid-vinicius-junior-carrick-biggest-threat-psg",
-      "publishedAt": "2026-06-28T12:08:38.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "02b8b6c3bdab01",
-      "title": "Bracketology: predict a path to World Cup victory",
-      "summary": "Click your way through the group stage and the knockouts to crown champion Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "publishedAt": "2026-06-28T11:43:13.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e49c113aaf70ae",
-      "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-      "summary": "We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup The 2026 World Cup has set a new all-time attendance r...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery",
-      "publishedAt": "2026-06-28T11:00:11.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d20d1373518750",
-      "title": "World Cup glory could all come down to penalties. What’s the best strategy?",
-      "summary": "As the knockout stages begin, penalties are inevitable. What do the stats say about the best ways to take them? The 2022 World Cup final was a nail-biting affair, decid...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-glory-could-all-come-down-to-penalties-whats-the-best-strategy",
-      "publishedAt": "2026-06-28T11:00:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7774e62618679c",
-      "title": "Two ‘arrogant and ignorant’ Arsenal stars slammed after England beat Panama",
-      "summary": "Former Premier League striker Troy Deeney launched a scathing attack on England’s wingers after the Three Lions struggled to a 2-0 World Cup win over Panama on Saturday...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/two-arrogant-and-ignorant-arsenal-stars-slammed-after-england-win-over-panama",
-      "publishedAt": "2026-06-28T10:44:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "59c64225a96b95",
-      "title": "Arsenal ones to watch for Liverpool star as Inter Milan warn Reds they are ready to walk away",
-      "summary": "Arsenal “could be one to watch” after Inter Milan warn Liverpool over their unrealistic asking price for Curtis Jones, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-liverpool-curtis-jones-inter-milan-transfer",
-      "publishedAt": "2026-06-28T10:32:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
+      "id": "a34eb95538eb36",
+      "title": "Diomande picks PSG over Liverpool - Monday's gossip",
+      "summary": "Yan Diomande picks Paris St-Germain over Liverpool, Ruben Amorim wants Mason Mount at AC Milan, Nottingham Forest eye Curtis Jones, Jeremy Monga in Arsenal's sights and...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1yjnxng2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T20:49:56.000Z",
+      "category": "league",
+      "region": "england italy france",
       "tags": [
         "Arsenal",
         "Liverpool",
-        "Inter",
+        "Psg",
         "Milan"
       ]
     },
     {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: Holders Argentina big winners as knockout bracket settled",
-      "summary": "Scotland’s hopes of finishing among the top eight third-placed sides have suffered further blows as three more groups wrap up.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-06-28T10:17:47.000Z",
+      "id": "535d88383b4031",
+      "title": "Cape Verde took advantage of a 48-team World Cup",
+      "summary": "The big nations win the World Cup, but the small nations make it. Cape Verde's progress to the knockouts was for everyone.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49194935/cape-verde-world-cup-success-isnt-just-every-soccer-fan-enjoy",
+      "publishedAt": "2026-06-28T20:45:29.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "49bf9deb5b3cb0",
-      "title": "World Cup goals chart led by PSG and Real - plus Palace and Sunderland",
-      "summary": "Crystal Palace and Sunderland lead the Premier League’s World Cup scoring charts after the 2026 group stage, ahead of Arsenal, Liverpool and Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg59eerpw4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T09:57:25.000Z",
+      "id": "f6f3f3a8f479d3",
+      "title": "Grades for every team eliminated from the World Cu...",
+      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "publishedAt": "2026-06-28T20:45:28.000Z",
       "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "408a989cc722bd",
-      "title": "Real Madrid ‘offer’ Chelsea two stars in Enzo Fernandez swap deal",
-      "summary": "Real Madrid have offered Chelsea two players as potential makeweights in a deal for Enzo Fernandez, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-chelsea-offer-carreras-camavinga-fernandez-swap-deal",
-      "publishedAt": "2026-06-28T09:46:37.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "faf72165a5c52d",
-      "title": "How to win a World Cup penalty shootout",
-      "summary": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T09:38:42.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "c8b3b7bcff0479",
-      "title": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
-      "summary": "Gianni Infantino has clocked up thousands of air miles across North America so far.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T09:20:51.000Z",
+      "id": "f77c08bf461189",
+      "title": "World Cup bracket overreactions: How far will USMN...",
+      "summary": "It's the perfect time to take stock of which teams are set up for success and which might be tumbling out of the tournament earlier than expected.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49167690/judging-overreactions-world-cup-bracket-knockout-rounds-usmnt-argentina-france-cape-verde",
+      "publishedAt": "2026-06-28T20:01:16.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
-        "World Cup",
-        "Fifa"
+        "World Cup"
       ]
     },
     {
-      "id": "02798d3a936437",
-      "title": "Huge Arsenal transfer blow for Guimaraes as Newcastle claim there had been ‘no contact’",
-      "summary": "Arsenal have reportedly made ‘no contact’ to sign Newcastle midfielder Bruno Guimaraes despite claims of a ‘verbal offer’ from the Gunners.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-blow-guimaraes-newcastle-no-contact",
-      "publishedAt": "2026-06-28T08:51:38.000Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "9927cd50e3b914",
+      "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+      "summary": "Then there were 32. Let's review why each team still alive at the World Cup could win the whole thing.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "publishedAt": "2026-06-28T20:01:16.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Transfer",
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
-      "id": "ed3d1c14207d41",
-      "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
-      "summary": "From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament It took a little over an hour for Kylian Mbappé to find his...",
+      "id": "a6433be8e0c031",
+      "title": "Father figure Carlo Ancelotti will have a plan for Brazil. He always has a plan | Rodrygo",
+      "summary": "For anyone outside the dressing room it is hard to predict what the Mister will do but he will be prepared for Japan on Monday The 2022 Champions League semi-final. The...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland",
-      "publishedAt": "2026-06-28T08:30:04.000Z",
-      "category": "worldcup",
+      "url": "https://www.theguardian.com/football/2026/jun/28/carlo-ancelotti-brazil-japan-world-cup",
+      "publishedAt": "2026-06-28T20:00:18.000Z",
+      "category": "ucl",
       "region": "england",
       "tags": [
         "Football",
-        "World Cup"
+        "Champions League",
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
-      "id": "857081632e6e0d",
-      "title": "Brazil, Cape Verde among five games not to miss in the World Cup last 32",
-      "summary": "The five games not to miss in the first World Cup knockout round features three former winners, including one in the tie of the round…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-last-32-knockout-round-five-games-not-to-miss",
-      "publishedAt": "2026-06-28T08:22:56.000Z",
+      "id": "6f2a175e9d8df1",
+      "title": "Odds to win the World Cup: France and Argentina fa...",
+      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "publishedAt": "2026-06-28T19:45:35.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "9cb6ec72366024",
-      "title": "Best team, moments, matches and players of World Cup group stage",
-      "summary": "As the World Cup group stages come to an end, BBC Sport reporters pick their highlights so far.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T08:07:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "079380f4a67f09",
-      "title": "Romano reveals how much Chelsea are willing to pay Sunderland for Xhaka after ‘full agreement’",
-      "summary": "Fabrizio Romano has revealed how much Chelsea are willing to pay Sunderland in order to sign Granit Xhaka in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-romano-how-much-willing-pay-sunderland-xhaka-full-agreement",
-      "publishedAt": "2026-06-28T07:58:43.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "00035274e2fd2d",
-      "title": "Rangers close in on defender Godfrey - gossip",
-      "summary": "Serie A defender set for loan to Rangers as MLS clubs step up chase for out of contract Hearts midfielder...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/clywdev7dk9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T07:37:27.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A"
       ]
     }
   ],
