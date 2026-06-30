@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-06-29T20:05:04.357Z",
+  "generatedAt": "2026-06-30T04:02:55.407Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,119 +99,26 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "fd699207309d3f",
-      "title": "Brazil survive World Cup scare against Japan",
-      "summary": "Gabriel Martinelli scored a stoppage-time winner for Brazil to beat plucky Japan 2-1 in the round of 32 at the World Cup on Monday.",
+      "id": "1420130e164bad",
+      "title": "Cáceres: Leaks about Uruguay's Bielsa 'twisted'",
+      "summary": "Uruguay defender Sebastián Cáceres said people twisted the narrative around Marcelo Bielsa to make the manager look bad following their elimination from the FIFA World...",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49217693/brazil-survive-world-cup-scare-japan-advance",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49221045/caceres-leaks-uruguay-bielsa-twisted",
+      "publishedAt": "2026-06-30T04:43:33.000Z",
       "category": "worldcup",
       "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "04e649c7642ca3",
-      "title": "USMNT's Ream: We'll do what we must to advance",
-      "summary": "United States men's national team defender Tim Ream said his side will need to \"expect the unexpected\" in their round of 32 World Cup encounter against Bosnia-Herzegovi...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49217786/united-states-tim-ream-do-advance-vs-bosnia-herzegovina",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bd9fe48fdc0694",
-      "title": "Madrid give $1.1M in Venezuela earthquake aid",
-      "summary": "LaLiga giants Real Madrid have donated €1 million ($1.1m) to help those affected by the earthquakes in Venezuela, with president Florentino Pérez donating an additional...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49217312/real-madrid-give-1m-venezuela-earthquake-victims",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "c2cb69db672842",
-      "title": "Sources: Barcelona approach for Kane dismissed",
-      "summary": "Barcelona have made an informal enquiry about Harry Kane's availability but the approach was dismissed with the England captain fully focused on the World Cup, sources...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49216876/harry-kane-barcelona-bayern-munich",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "worldcup",
-      "region": "spain",
       "tags": [
         "World Cup",
-        "Barcelona"
+        "Fifa"
       ]
     },
     {
-      "id": "3d61e2e7d5556e",
-      "title": "Nico Paz to stay at Como; Madrid deal reached",
-      "summary": "Real Madrid, Como and Nico Paz have reached an agreement for the player to stay at the Italian club next season",
+      "id": "b3d5f7ea4281b7",
+      "title": "Nagelsmann: Germany no longer 'first-class team'",
+      "summary": "ulian Nagelsmann said Germany are no longer a \"first-class team\" after another early World Cup exit, but added he wants to stay on as head coach following their penalty...",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49218200/como-reach-deal-real-madrid-retain-nico-paz-serie-a",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "7c320830556a5f",
-      "title": "Maresca joins Man City, pays Chelsea over exit",
-      "summary": "Manchester City have formally announced Enzo Maresca as their new manager amid Chelsea claims that the Italian will personally pay compensation for the move.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48898245/enzo-maresca-confirmed-pep-guardiola-man-city-successor-chelsea-compensation",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "aecc94a38863dc",
-      "title": "Sources: Diomande close to preferred PSG move",
-      "summary": "Paris Saint-Germain are preparing to close the deal for the transfer of Yan Diomandé after positive initial talks with the German club, sources have told ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49211932/yan-diomande-close-move-paris-saint-germain",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "transfer",
-      "region": "france",
-      "tags": [
-        "Transfer",
-        "Psg"
-      ]
-    },
-    {
-      "id": "a22a5be56714cf",
-      "title": "Sources: Ter Stegen close to Ajax loan",
-      "summary": "Ajax are in advanced talks with Barcelona over the loan signing of goalkeeper Marc-André ter Stegen, sources have told ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49217530/ajax-barcelona-marc-andre-ter-stegen",
-      "publishedAt": "2026-06-29T20:56:36.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "d3536e1983e04a",
-      "title": "Brazil avoid World Cup shock with late win vs. Jap...",
-      "summary": "Brazil's ageing stars left it late to beat Japan 2-1 and reach the World Cup's round of 16. Is their team too old to make a deep run?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49216717/brazil-avoid-world-cup-shock-late-win-vs-japan-reach-round-16",
-      "publishedAt": "2026-06-29T20:56:04.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49220370/nagelsmann-germany-not-first-class-team-wc-exit",
+      "publishedAt": "2026-06-30T04:43:32.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -219,25 +126,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5cd28cbac18603",
-      "title": "McCullum: England commitment 'never wavered' despite NZ series defeat",
-      "summary": "Brendon McCullum told Sky Sports he has no plans to quit as England head coach following the shock international retirement of captain Ben Stokes.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13558795/england-vs-new-zealand-brendon-mccullum-says-commitment-to-head-coach-job-has-never-wavered-despite-damaging-series-defeat",
-      "publishedAt": "2026-06-29T20:05:04.060Z",
-      "category": "transfer",
-      "region": "italy",
+      "id": "7baf1ec641c881",
+      "title": "Berhalter in tears after son Sebastian's WC goal",
+      "summary": "Chicago Fire manager Gregg Berhalter was brought to tears when thinking about son Sebastian Berhalter's first World Cup goal for the United States men's national team a...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49219089/gregg-berhalter-tears-son-sebastian-scores-world-cup-goal",
+      "publishedAt": "2026-06-30T04:43:32.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Inter"
+        "World Cup"
       ]
     },
     {
-      "id": "405f6e45980bf2",
-      "title": "Q&A: What next for Scotland in Clarke successor search?",
-      "summary": "Scotland are home from the World Cup and searching for a new head coach.",
+      "id": "c10adddbc320b9",
+      "title": "Germany crash out of World Cup on penalties to Paraguay",
+      "summary": "Germany lost a World Cup penalty shoot-out for the first time as they crashed out of the last 32 to underdogs Paraguay.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558876/scotland-head-coach-search-what-next-in-bid-to-find-steve-clarkes-successor-after-resignation-following-world-cup-exit",
-      "publishedAt": "2026-06-29T20:05:04.060Z",
+      "url": "https://www.skysports.com/football/germany-vs-paraguay/report/549840",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -245,64 +152,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "82d070320dc4bf",
-      "title": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
-      "summary": "Former Sheffield United player Maddy Cusack was \"dismayed\" that her previous coach was joining her football club months before she died, her father has told an inquest.",
+      "id": "f674a8b58e4c90",
+      "title": "Gardner: Australia must be wary of Matthews in T20 World Cup semi-final",
+      "summary": "Ashleigh Gardner says Australia must be cautious of a dangerous West Indies side containing Hayley Matthews and Deandra Dottin as they prepare for the first ICC Women's...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
-      "publishedAt": "2026-06-29T20:05:04.060Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c2f746b60aec82",
-      "title": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
-      "summary": "Gary Neville has labelled Enzo Maresca's job of succeeding Pep Guardiola at Manchester City as the \"ultimate test\" - because the club will accept \"nothing less than win...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
-      "publishedAt": "2026-06-29T20:05:04.060Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "03c10cc41668eb",
-      "title": "'How seriously are you taking penalties?' | Madueke: I'm always ready",
-      "summary": "A reporter asks Noni Madueke how seriously England are taking penalties as the side move to the knockout stage of the World Cup - facing DR Congo on Wednesday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13559026/england-at-the-world-cup-noni-madueke-says-hes-always-ready-to-take-penalties",
-      "publishedAt": "2026-06-29T20:05:04.060Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13559035/icc-womens-t20-world-cup-ashleigh-gardner-says-australia-must-be-wary-of-west-indies-captain-hayley-matthews-firepower-in-semi-final",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "8117bf5897986d",
-      "title": "Bigger than Botham? English cricket 'less interesting' as 'entertainer' Stokes retires",
-      "summary": "Ben Stokes was never going to go quietly, was he?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13558900/ben-stokes-englands-serious-entertainer-bows-out-as-cricket-becomes-less-interesting-and-far-worse",
-      "publishedAt": "2026-06-29T20:05:04.060Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     },
     {
       "id": "2d351201068fcc",
-      "title": "90+6! Martinelli sends Brazil through after comeback win vs Japan",
-      "summary": "Gabriel Martinelli's 96th-minute winner saw Brazil dramatically come from behind to win 2-1 and advance to the World Cup last 16, cruelly denying Japan a first-ever kno...",
+      "title": "90+5! Martinelli sends Brazil through in comeback win vs Japan",
+      "summary": "Gabriel Martinelli's 95th-minute winner saw Brazil dramatically come from behind to win 2-1 and advance to the World Cup last 16, cruelly denying Japan a first-ever kno...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brazil-vs-japan/report/549839",
-      "publishedAt": "2026-06-29T20:05:04.059Z",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -315,7 +183,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite interest from Barcelona.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest",
-      "publishedAt": "2026-06-29T20:05:04.059Z",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
       "category": "transfer",
       "region": "spain italy germany",
       "tags": [
@@ -325,12 +193,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "79ff242737c9a4",
-      "title": "Martinelli scores a stoppage-time winner to send Brazil through to last 16",
-      "summary": "Gabriel Martinelli scores a dramatic 95th-minute winner with Brazil coming from behind to beat Japan, set up a World Cup last-16 tie against Norway or Ivory Coast.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdjknkplkr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T19:54:55.000Z",
+      "id": "5cd28cbac18603",
+      "title": "McCullum: England commitment 'never wavered' despite NZ series defeat",
+      "summary": "Brendon McCullum told Sky Sports he has no plans to quit as England head coach following the shock international retirement of captain Ben Stokes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13558795/england-vs-new-zealand-brendon-mccullum-says-commitment-to-head-coach-job-has-never-wavered-despite-damaging-series-defeat",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "405f6e45980bf2",
+      "title": "Q&A: What next for Scotland in Clarke successor search?",
+      "summary": "Scotland are home from the World Cup and searching for a new head coach.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558876/scotland-head-coach-search-what-next-in-bid-to-find-steve-clarkes-successor-after-resignation-following-world-cup-exit",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -338,12 +219,92 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "92471594d7bcb7",
-      "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
-      "summary": "⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET ⚽ Bracketology | Player guide | Golden Boot standings “Anyone who was around in 2002 will remember that year’s Germany...",
+      "id": "82d070320dc4bf",
+      "title": "Cusack 'dismayed' before death when previous coach joined Sheff Utd, inquest hears",
+      "summary": "Former Sheffield United player Maddy Cusack was \"dismayed\" that her previous coach was joining her football club months before she died, her father has told an inquest.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558951/maddy-cusack-former-sheffield-united-midfielder-dismayed-before-death-when-previous-coach-joined-inquest-hears",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "0805c523742eca",
+      "title": "Papers: Villa value Rogers at British-record £130m",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13559016/morgan-rogers-arsenal-target-valued-at-british-record-130m-by-aston-villa-paper-talk",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "c2f746b60aec82",
+      "title": "Nev: Succeeding Pep is 'ultimate test' for Maresca - City will only accept winning",
+      "summary": "Gary Neville has labelled Enzo Maresca's job of succeeding Pep Guardiola at Manchester City as the \"ultimate test\" - because the club will accept \"nothing less than win...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558940/enzo-maresca-succeeding-pep-guardiola-at-man-city-is-ultimate-test-for-italian-boss-at-club-who-will-only-accept-winning",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "03c10cc41668eb",
+      "title": "'How seriously are you taking penalties?' | Madueke: I'm always ready",
+      "summary": "A reporter asks Noni Madueke how seriously England are taking penalties as the side move to the knockout stage of the World Cup - facing DR Congo on Wednesday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13559026/england-at-the-world-cup-noni-madueke-says-hes-always-ready-to-take-penalties",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1fd0e016f7cbdd",
+      "title": "SCENES! How Germany lost their first ever World Cup shoot-out...",
+      "summary": "SCENES! How Germany lost their first ever World Cup shoot-out...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/germany-vs-paraguay/live/549840",
+      "publishedAt": "2026-06-30T04:02:55.327Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Palace and Sunderland lead Prem",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but Crystal Palace and Sunderland lead the Premier League way now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-06-30T03:58:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "62f5db9d006595",
+      "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
+      "summary": "⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Ella Mary Waltz writes in on the back of that Germany v Paragu...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live",
-      "publishedAt": "2026-06-29T19:48:57.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live",
+      "publishedAt": "2026-06-30T03:50:16.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -353,225 +314,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f2ca3cd1a6b3d1",
-      "title": "Martinelli stuns Japan as Brazil advance to World Cup last-16",
-      "summary": "Arsenal forward Martinelli netted an injury-time winner as the Selecao edged past Japan to reach the next stage of the World Cup",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/brazil-world-cup-results-beat-japan-match-report-martinelli",
-      "publishedAt": "2026-06-29T19:39:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9b26dde8d011fa",
-      "title": "Deschamps hopes France’s ‘capacity for danger’ continues in Sweden World Cup test",
-      "summary": "Teams meet in round of 32 in New York on Tuesday ‘We’ve been labelled as favourites … we are confident’ Didier Deschamps has warned France’s rivals they will not change...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/29/didier-deschamps-france-sweden-world-cup-2026-round-of-32",
-      "publishedAt": "2026-06-29T19:30:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "54da70260ef01e",
-      "title": "Leeds Powerchair FC win Disability FA Cup with Maradona-like assist – video",
-      "summary": "Leeds Powerchair FC beat Teesside Powerchair Football Club 3-1 to win their first EE Disability FA Cup. Mitchell Tinkler gave Teesside the lead before Leeds came back t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jun/29/leeds-powerchair-fc-win-disability-fa-cup-with-maradona-like-assist-video",
-      "publishedAt": "2026-06-29T18:21:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "9f186a76d3df49",
-      "title": "Liverpool target Diomande would prefer to join PSG",
-      "summary": "Liverpool target Yan Diomande would prefer to join Paris St-Germain, as the French club aim to agree a deal with RB Leipzig for the Ivory Coast winger.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v91kerr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T17:41:08.000Z",
-      "category": "transfer",
-      "region": "england france germany",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "edc0edbd0f6037",
-      "title": "Arsenal in bidding war with Liverpool for £69m midfielder after enquiries made",
-      "summary": "Arsenal and Liverpool are in competition for a top World Cup talent who is expected to secure a transfer this summer, as per a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-news-ayyoub-bouaddi-liverpool-lille-69-million",
-      "publishedAt": "2026-06-29T17:33:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6f2a175e9d8df1",
-      "title": "Odds to win the World Cup: France and Argentina fa...",
-      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
+      "id": "bb916655f5c0ea",
+      "title": "Chicago Fire complete Lewandowski signing",
+      "summary": "Chicago Fire FC have completed the signing of former Barcelona and Bayern Munich striker Robert Lewandowski.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "publishedAt": "2026-06-29T17:32:49.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b245d0275c2f7b",
-      "title": "Balogun leads Nigeria-descent players in World Cup...",
-      "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented b...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/espn/story/_/id/49214622/folarin-balogun-leads-nigeria-descent-performers-world-cup-enters-business-end",
-      "publishedAt": "2026-06-29T17:13:53.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5cdd693c1d5019",
-      "title": "Anderson is ‘not a first-choice England player’ and Man City fee was ‘totally over the top’",
-      "summary": "Manchester City have been told they paid a “totally over the top” fee for Elliot Anderson, who Bryan King feels is “not a first-choice England player.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/anderson-not-england-player-record-man-city-fee-totally-over-top",
-      "publishedAt": "2026-06-29T16:48:57.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49218680/chicago-fire-complete-signing-robert-lewandowski",
+      "publishedAt": "2026-06-30T03:31:09.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain germany",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "938941a3c12510",
-      "title": "From Messi to Haaland: Which World Cup frontrunner...",
-      "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
-      "publishedAt": "2026-06-29T16:32:31.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "df7f0a400fd074",
-      "title": "Reranking Europe's top clubs by player performance...",
-      "summary": "Bayern Munich, Real Madrid and PSG players have impressed, but which clubs have had the best World Cup?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49204950/reranking-europe-top-clubs-player-performance-world-cup-bayern-real-madrid-liverpool",
-      "publishedAt": "2026-06-29T16:32:31.000Z",
-      "category": "worldcup",
-      "region": "spain france germany",
-      "tags": [
-        "World Cup",
-        "Real Madrid",
-        "Psg",
+        "Barcelona",
         "Bayern"
       ]
     },
     {
-      "id": "a33b858de41cde",
-      "title": "Why Maresca? What Man City fans can expect from Guardiola's successor",
-      "summary": "Pep Guardiola passes the baton on to Enzo Maresca, but why have Manchester City chosen the Italian as the Spaniard's replacement?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T16:20:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1e20ee3ba43345",
-      "title": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham",
-      "summary": "Australia captain back in league she left in 2019 Striker won 11 major trophies in spell at Chelsea Sam Kerr is joining Gotham FC in the National Women’s Soccer League...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham",
-      "publishedAt": "2026-06-29T16:12:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "cbd45875929edb",
-      "title": "Maresca to pay Chelsea compensation - but why?",
-      "summary": "Enzo Maresca signs three-year Manchester City deal after agreeing to pay compensation to former club Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T15:50:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cddc7c8b854bde",
-      "title": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Following the bumper end to the record-breaking group stage in which a whopping 16 Geopolitics World Cup matches wer...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/29/canada-south-africa-brazil-netherlands-world-cup",
-      "publishedAt": "2026-06-29T15:46:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "45c78b87556dd3",
-      "title": "Transfer rumors, news: Barcelona eye Kane, plus tw...",
-      "summary": "Liverpool are considering a Bundesliga winger while potentially negotiating Curtis Jones' exit for Serie A. Transfer Talk has the latest.",
+      "id": "4aa794f027e334",
+      "title": "Paraguay stun Germany on pens after VAR drama",
+      "summary": "Kai Havertz, Nick Woltemade and Jonathan Tah missed crucial penalties as Germany were eliminated from the World Cup in a shootout by Paraguay.",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49213338/transfer-rumors-news-barcelona-eye-kane-plus-two-forwards",
-      "publishedAt": "2026-06-29T15:26:12.000Z",
-      "category": "transfer",
-      "region": "england spain italy germany",
-      "tags": [
-        "Serie A",
-        "Bundesliga",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0e40cefb66ddb5",
-      "title": "World Cup VAR review: Why didn't Canada get a pena...",
-      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "publishedAt": "2026-06-29T15:22:09.000Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49220268/germany-dumped-world-cup-paraguay-penalties",
+      "publishedAt": "2026-06-30T03:31:08.000Z",
       "category": "worldcup",
       "region": "global",
       "tags": [
@@ -579,16 +341,245 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "14d5e5a9ad17fd",
-      "title": "France have been waiting for Dembele to show up. N...",
-      "summary": "It's taken a long time for Ousmane Dembele to replicate his PSG form for the France national team, but Friday's hat trick vs. Norway has him primed for more.",
+      "id": "fd699207309d3f",
+      "title": "Brazil survive World Cup scare against Japan",
+      "summary": "Casemiro said Brazil avoided one of the all-time great World Cup shocks against Japan by keeping \"calm.\"",
       "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49214672/france-ousmane-dembele-kylian-mbappe-michael-olise-world-cup-norway-sweden",
-      "publishedAt": "2026-06-29T15:20:25.000Z",
-      "category": "league",
-      "region": "france",
+      "url": "https://www.espn.com/soccer/story/_/id/49217693/brazil-survive-world-cup-scare-japan-advance",
+      "publishedAt": "2026-06-30T03:31:08.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Psg"
+        "World Cup"
+      ]
+    },
+    {
+      "id": "409b8bb12e6194",
+      "title": "Aguirre: Azteca fans can get Mexico past Ecuador",
+      "summary": "Mexico manager Javier Aguirre said he hopes local fans will make the difference for El Tri when the World Cup co-hosts face Ecuador at Mexico City's Estadio Azteca in t...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49221547/mexico-fans-make-difference-azteca-vs-ecuador-aguirre",
+      "publishedAt": "2026-06-30T03:31:08.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3d61e2e7d5556e",
+      "title": "Nico Paz to stay at Como; Madrid deal reached",
+      "summary": "Real Madrid, Como and Nico Paz have reached an agreement for the player to stay at the Italian club next season",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49218200/como-reach-deal-real-madrid-retain-nico-paz-serie-a",
+      "publishedAt": "2026-06-30T03:31:08.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "0a86cd76910e13",
+      "title": "Inside Paraguay's tears of joy over their seismic World Cup shock",
+      "summary": "How Paraguay marked one of the biggest wins in their footballing history with euphoric celebrations.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v96vk1q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T03:00:39.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7e4ad0b2e9f624",
+      "title": "'Germany play one way - and it doesn't work anymore'",
+      "summary": "The team in the studio talk about what went wrong for Germany as they go out of the World Cup to Paraguay",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c04y10n6wqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T02:55:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "98982b9dc70c22",
+      "title": "Paraguay were more than just 'uncomfortable' for s...",
+      "summary": "Germany expected Paraguay to be \"an uncomfortable opponent,\" but the South American side were so much more: They ended Die Mannschaft's World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49221163/paraguay-were-more-just-uncomfortable-sorry-germany-world-cup-were-too-much",
+      "publishedAt": "2026-06-30T02:43:38.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0e40cefb66ddb5",
+      "title": "World Cup VAR review: Why Germany were wrongly den...",
+      "summary": "For the tournament, we are taking a look at the major incidents to examine and explain the process in terms of both VAR protocol and the laws of the game.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "publishedAt": "2026-06-30T02:43:38.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c8436575d43996",
+      "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
+      "summary": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T02:38:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f77c08bf461189",
+      "title": "World Cup bracket overreactions: How far will USMN...",
+      "summary": "It's the perfect time to take stock of which teams are set up for success and which might be tumbling out of the tournament earlier than expected.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49167690/judging-overreactions-world-cup-bracket-knockout-rounds-usmnt-argentina-france-cape-verde",
+      "publishedAt": "2026-06-30T02:11:34.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9927cd50e3b914",
+      "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+      "summary": "Then there were 32. Let's review why each team still alive at the World Cup could win the whole thing.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "publishedAt": "2026-06-30T02:11:34.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "639379b841c478",
+      "title": "Germany beaten on penalties as Paraguay reach last 16",
+      "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T01:06:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f90106fcfe6901",
+      "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+      "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20ygrv112vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T00:56:07.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0a3759f40c2f24",
+      "title": "Germany hit new low as last remnants of their World Cup aura fade in another early exit",
+      "summary": "After group-stage exits at the last two 32-team World Cups, it’s the last-32 knockout round for Germany this time. They can’t even do pens now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/germany-hit-new-low-world-cup-failure-again",
+      "publishedAt": "2026-06-30T00:47:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "09aaaed5eba1ca",
+      "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+      "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgqnxw12eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T00:10:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Germany first major casualties after shock last-32 exit",
+      "summary": "Only 31 teams now remain as the first ever World Cup last-32 round gets under way, with Canada the history-making first winners.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-06-30T00:02:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7eace13953eecf",
+      "title": "Canale and Gill the heroes as Paraguay hand Germany first World Cup shootout defeat",
+      "summary": "Germany exited the World Cup in Boston not with a whimper or even a cry of pain, just an extended wrestle into the dust at the hands of a thrillingly dogged Paraguay, f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report",
+      "publishedAt": "2026-06-29T23:59:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d4a3f0f9ac640d",
+      "title": "‘One of our own’: Cristian Volpato flourishes after Socceroos switch",
+      "summary": "Former junior Italy international feels he can develop more as a player after late inclusion to the World Cup squad Cristian Volpato is Italian football’s make-good to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jun/29/cristian-volpato-socceroos-australia-italy-egypt-2026-world-cup",
+      "publishedAt": "2026-06-29T22:51:53.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1f32e84118565b",
+      "title": "Kane will sign new Bayern deal - Tuesday's gossip",
+      "summary": "Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild, while Rayo Vallecano left-back Pep Chavarria is a target for Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdjknmk894eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T22:18:02.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Bayern"
       ]
     }
   ],
