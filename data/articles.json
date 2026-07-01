@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T14:46:31.549Z",
+  "generatedAt": "2026-07-01T20:02:27.901Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,46 +99,137 @@
       "pinned": true
     },
     {
-      "id": "5eef0ac97bcd16",
-      "title": "Transfers, Palmer and Fernandez: The big Chelsea problems Alonso must solve",
-      "summary": "Xabi Alonso has officially started work as Chelsea manager, inheriting one of the biggest jobs in football.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559199/chelsea-transfers-cole-palmer-and-enzo-fernandez-the-big-problems-xabi-alonso-must-solve-at-stamford-bridge",
-      "publishedAt": "2026-07-01T14:46:31.356Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "627b6cf8faf9bf",
+      "title": "Neuer calls time on Germany career: 'No regrets'",
+      "summary": "Bayern Munich captain Manuel Neuer insists he has \"no regrets\" after announcing his decision to retire from international duty - for the second time in his career - fol...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49237304/germany-manuel-neuer-retires-international-football-no-regrets-2026-world-cup-exit",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
+      "category": "worldcup",
+      "region": "italy germany",
       "tags": [
-        "Football",
-        "Transfer",
+        "World Cup",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bad1358d3d4d59",
+      "title": "Mexico oust Ecuador, 1st WC KO win in 40 years",
+      "summary": "Mexico won their first World Cup knockout stage match in 40 years after dispatching Ecuador 2-0 in front an electric crowd at Estadio Azteca on Tuesday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49232657/mexico-ecuador-2026-world-cup-knockout-win",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "041eead8a7b0c5",
+      "title": "Chelsea sign Palestra for $62m from Atalanta",
+      "summary": "Chelsea have announced the signing of 21-year-old Marco Palestra from Atalanta.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49197936/chelsea-sign-marco-palestra-atalanta",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
         "Chelsea"
       ]
     },
     {
-      "id": "e5b66e386ff077",
-      "title": "What's top of Alonso's agenda? Could Palmer & Enzo both stay?",
-      "summary": "A look at Chelsea manager Xabi Alonso's plans with both Cole Palmer and Enzo Fernandez, and who will they target in the transfer window?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13559489/chelsea-plans-for-enzo-fernandez-cole-palmer-whats-top-of-xabi-alonsos-agenda",
-      "publishedAt": "2026-07-01T14:46:31.355Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "d9b799b720532e",
+      "title": "Mbappé sets record to lead France past Sweden",
+      "summary": "Kylian Mbappé broke the record for most goals in World Cup knockout matches and moved within a single goal of Lionel Messi's overall tournament mark, as his two goals l...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49230019/kylian-mbappe-france-sweden-world-cup-knockout-goal-record-2026",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Transfer",
-        "Chelsea"
+        "World Cup"
       ]
     },
     {
-      "id": "eb9aa2d39d0c23",
-      "title": "Who is Pep Chavarria and why do Chelsea want the Spanish left-back?",
-      "summary": "Pep Chavarria is certainly not your typical Chelsea signing. He did not make his debut in Spain’s top flight until he was 24 years old. His European bow came aged 27 in...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559494/pep-chavarria-to-chelsea-transfer-rayo-vallecano-left-back-is-a-late-bloomer-but-could-his-mentality-help-xabi-alonso",
-      "publishedAt": "2026-07-01T14:46:31.355Z",
+      "id": "ce3b3ae51f3ec5",
+      "title": "Bayern sign Morocco WCup goalscorer Saibari",
+      "summary": "New Bayern Munich signing Ismael Saibari admits head coach Vincent Kompany played a key role in his decision to join from PSV Eindhoven.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49238268/morocco-world-cup-goalscorer-ismael-saibari-joins-bayern-munich",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "germany",
       "tags": [
-        "Uefa",
-        "Chelsea"
+        "Bayern"
+      ]
+    },
+    {
+      "id": "f03385b4805fbd",
+      "title": "Inter's Bastoni part of alleged escort ring probe",
+      "summary": "Inter Milan and Italy defender Alessandro Bastoni is under investigation for allegedly soliciting sex from a child.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49235922/inter-milan-alessandro-bastoni-investigation-alleged-child-prostitution",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "d1c11b2ae54073",
+      "title": "⭐ Warner, Rodrigo top celebrities at World Cup",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "publishedAt": "2026-07-01T20:55:34.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "1b606206848535",
+      "title": "Kane passes Pelé WC goals total in England win",
+      "summary": "Harry Kane has surpassed Pelé's World Cup goals total after scoring two goals against Congo DR on Wednesday to bring his goal tally to 13 and lead England to a 2-1 vict...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-tally",
+      "publishedAt": "2026-07-01T20:55:33.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c6f700f52625ba",
+      "title": "Brazil treat Paquetá hamstring in WC fitness bid",
+      "summary": "Lucas Paquetá will undergo intensive treatment on a hamstring injury in the hope of playing for Brazil at the World Cup again.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49234575/brazil-lucas-paqueta-injury-recovery-world-cup-2026",
+      "publishedAt": "2026-07-01T20:55:33.000Z",
+      "category": "transfer",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "488afb560c70c2",
+      "title": "World Cup VAR review: England deserved penalty for...",
+      "summary": "null",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49238553/world-cup-2026-var-review-england-penalty-foul-harry-kane-congo",
+      "publishedAt": "2026-07-01T20:06:43.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -147,7 +238,7 @@
       "summary": "Chelsea have completed the signing of Marco Palestra from Atalanta in a deal worth £43m.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557367/chelsea-transfer-news-marco-palestra-signs-from-serie-a-side-atalanta-in-deal-worth-43m",
-      "publishedAt": "2026-07-01T14:46:31.354Z",
+      "publishedAt": "2026-07-01T20:02:27.434Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -155,29 +246,16 @@
       ]
     },
     {
-      "id": "1bb77a47c1ca45",
-      "title": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
-      "summary": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
+      "id": "2877ee77df4b29",
+      "title": "Pure elation! How fans celebrated Kane's STUNNING winner vs DR Congo!",
+      "summary": "A look at how fans in Manchester, Brighton and London celebrated Harry Kane's winner for England against DR Congo.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "publishedAt": "2026-07-01T14:46:31.354Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Juventus"
-      ]
-    },
-    {
-      "id": "2b89a6076bdb4f",
-      "title": "Jacquet completes £60m move to Liverpool",
-      "summary": "Liverpool have completed the £60m signing of Jeremy Jacquet from Rennes.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-60m-deal-with-20-year-old-moving-to-anfield-this-summer",
-      "publishedAt": "2026-07-01T14:46:31.354Z",
+      "url": "https://www.skysports.com/watch/video/13559618/england-how-fans-celebrated-harry-kanes-stunning-winner-vs-dr-congo",
+      "publishedAt": "2026-07-01T20:02:27.434Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Manchester"
       ]
     },
     {
@@ -186,7 +264,7 @@
       "summary": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
-      "publishedAt": "2026-07-01T14:46:31.352Z",
+      "publishedAt": "2026-07-01T20:02:27.433Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -194,26 +272,38 @@
       ]
     },
     {
-      "id": "5fd038244f5b30",
-      "title": "Amorim ‘crazy’ about Man Utd defender as contact made to snatch former disciple",
-      "summary": "Ruben Amorim is reported to be ‘crazy’ about a defender he worked with at Manchester United, and has made contact to secure his services for AC Milan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/amorim-contact-man-utd-defender-martinez-crazy-about",
-      "publishedAt": "2026-07-01T14:35:34.000Z",
-      "category": "transfer",
-      "region": "england italy",
+      "id": "2d937e1aa66e6d",
+      "title": "Rain robs England of run chase as India series opener washed out",
+      "summary": "England’s first T20 international against India was abandoned due to rain before the hosts’ had the chance to chase down 190 for victory in Durham.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13559573/england-vs-india-first-t20-international-abandoned-after-rain-in-durham",
+      "publishedAt": "2026-07-01T20:02:27.433Z",
+      "category": "issue",
+      "region": "italy",
       "tags": [
-        "Manchester",
-        "Milan"
+        "Inter"
       ]
     },
     {
-      "id": "22e4c6e3d4d964",
-      "title": "England v DR Congo: World Cup 2026 last 32 – live",
-      "summary": "⚽️ Kick-off time: 12pm local/1pm EDT/5pm BST/1am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott It would be remiss of us not to mention the hopes and dr...",
+      "id": "91c7b2b1c8962c",
+      "title": "Kane keeps England's World Cup dream alive as DR Congo beaten",
+      "summary": "Harry Kane scored a brilliant double to inspire England to a come-from-behind 2-1 win over DR Congo and set up a World Cup last-16 showdown with co-hosts Mexico.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/england-vs-dr-congo/report/549847",
+      "publishedAt": "2026-07-01T20:02:27.432Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3353ef57115bdc",
+      "title": "Belgium v Senegal: World Cup last 32 – live",
+      "summary": "⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot “Well, I’m going to come right out and say that I’ve never heard of Sparklehorse...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live",
-      "publishedAt": "2026-07-01T14:30:28.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live",
+      "publishedAt": "2026-07-01T19:54:44.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -223,191 +313,52 @@
       ]
     },
     {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-07-01T14:21:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Five-year net spend table: Big Six lead despite on-pitch woes of Chelsea and Spurs",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have just jumped over Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-07-01T14:20:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "12a903ebb052b9",
-      "title": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
-      "summary": "20-year-old centre-back moves to Anfield from Rennes Italy right-back signs seven-year deal at Stamford Bridge Jérémy Jacquet has officially completed his £60m move to...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "publishedAt": "2026-07-01T14:01:40.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-01T14:00:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "80ae1389fe2f57",
-      "title": "Newcastle worried they could be powerless to stop Guimaraes joining Arsenal",
-      "summary": "Newcastle United are now fearful that Arsenal could successfully take Bruno Guimaraes away from the Magpies this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-worried-they-could-be-powerless-to-stop-guimaraes-joining-arsenal",
-      "publishedAt": "2026-07-01T13:58:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a583268fba3423",
-      "title": "Chelsea sign Italy defender Palestra for £47m",
-      "summary": "Right-back Marco Palestra, 21, becomes Xabi Alonso's first signing as Chelsea manager.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T13:28:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "74f057a8891d8a",
-      "title": "Tottenham reject Newcastle bid for Gray as Spurs close in on two record-breaking deals",
-      "summary": "Newcastle United ‘remain interested’ in Tottenham midfielder Archie Gray despite having a bid turned down, according to Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-newcastle-gray-reject-bid-two-record-breaking-transfers-fernandes-tonali",
-      "publishedAt": "2026-07-01T13:26:35.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "b423de26677f0b",
-      "title": "No signings, no sales - what is happening at Manchester United?",
-      "summary": "Manchester United have missed out on a second midfield target in Mateus Fernandes but are refusing to panic even though they are yet to sign any players this summer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d4drnr70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T13:19:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5e31215db52880",
-      "title": "Tonali next? The biggest signings by clubs outside Champions League – summed up by brilliant Klopp quote",
-      "summary": "Sandro Tonali fluttering his eyelashes at Spurs feels weird considering the calibre of his other suitors, but Jurgen Klopp said it best…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-signings-by-clubs-outside-champions-league-klopp",
-      "publishedAt": "2026-07-01T13:16:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "37fe4ec61e6e6b",
-      "title": "The small Basque club that produced Arteta, Alonso and Iraola",
-      "summary": "The Arsenal, Chelsea and Liverpool managers all began their football journeys in the Basque region",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5j40gr44mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T13:01:39.000Z",
+      "id": "4f2d52aeb3b4e4",
+      "title": "Changing the narrative: It’s time for U.S. to show...",
+      "summary": "The USMNT boasts a world-class coach and star players in their primes. This is its chance to make its mark on world soccer.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49229496/riding-high-world-cup-home-soil-now-usmnt",
+      "publishedAt": "2026-07-01T19:53:24.000Z",
       "category": "league",
+      "region": "global",
+      "tags": [
+        "Soccer"
+      ]
+    },
+    {
+      "id": "e4910500dc6584",
+      "title": "'He is ridiculous' - Rice praise for match-winner Kane",
+      "summary": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T19:25:59.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Is Van Dijk really ‘very close’ to Liverpool exit?",
+      "summary": "Newcastle want a Tottenham midfielder while Spurs chase one of theirs, while Virgil van Dijk is said to be ‘very close’ to leaving Liverpool. Really?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-01T19:19:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Liverpool"
       ]
     },
     {
-      "id": "3282daf3cc0947",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T12:52:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "909052ab385b23",
-      "title": "New Chelsea offer for Granit Xhaka revealed and Sunderland won’t be happy",
-      "summary": "Chelsea are set to make a new offer for Sunderland midfielder Granit Xhaka after their initial bid of £8m was rejected, according to reports.",
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: England drop after limping past DR Congo as Azteca awaits",
+      "summary": "The World Cup’s first ever last-32 knockout round is well under way and serving up plenty of shock results and late drama.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-granit-xhaka-new-offer-sunderland",
-      "publishedAt": "2026-07-01T12:50:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2f6e7caa16d63d",
-      "title": "‘Would you say it to someone’s face?’ Ellen White on going from player to pundit",
-      "summary": "In this week’s newsletter we speak to the Lionesses’ record scorer, who has been inducted to the hall of fame at the National Football Museum For a generation of Englan...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/ellen-white-england-lionesses-player-to-pundit",
-      "publishedAt": "2026-07-01T12:42:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "79a67e19b3b10a",
-      "title": "Quiz: Name every team England have played in World Cup knockouts",
-      "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ev...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T12:30:35.000Z",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-07-01T19:13:47.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -415,68 +366,189 @@
       ]
     },
     {
-      "id": "cd15d2e986d844",
-      "title": "2030 World Cup managers predicted: England appoint Poch, Southgate rescues Germany after Klopp disgrace",
-      "summary": "The 2026 World Cup may have featured the strongest selection of coaches in the competition’s history; just wait until England steal Pochettino.",
+      "id": "aaa227acde5cc2",
+      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+      "summary": "Three of the victims died from suffocation More than a million people gathered in Mexico City Four people died, three ⁠from suffocation, as thousands of fans crowded Me...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "publishedAt": "2026-07-01T18:49:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ae08387f11d36d",
+      "title": "Win over DR Congo 'our best game of the tournament' - Kane",
+      "summary": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c802jzd528eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T18:40:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8f59482b630e13",
+      "title": "Kane scores twice as England come from behind to reach last 16",
+      "summary": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T18:31:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d9bfbe57916b24",
+      "title": "Harry Kane tipped for Ballon d’Or after England beat DR Congo at World Cup as BBC pundits stunned",
+      "summary": "Bayern Munich striker Harry Kane scored both goals for England in their 2-1 win against DR Congo at the 2026 World Cup.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/2030-world-cup-managers-predicted-england-pochettino-southgate-germany",
-      "publishedAt": "2026-07-01T12:22:57.000Z",
+      "url": "https://www.football365.com/news/harry-kane-england-dr-congo-2026-world-cup",
+      "publishedAt": "2026-07-01T18:27:19.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "germany",
       "tags": [
-        "World Cup"
+        "World Cup",
+        "Bayern"
       ]
     },
     {
-      "id": "5563b174618af1",
-      "title": "Pick your England XI to face DR Congo at World Cup",
-      "summary": "Who should start for England against DR Congo in their last-32 tie? It's time to put yourself in Thomas Tuchel's shoes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy060e312no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T12:20:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d79a1f3e01c6ae",
-      "title": "The USMNT’s quest for World Cup glory is currency in the attention economy",
-      "summary": "In Wednesday’s last-32 match, the US team have more than just a chance to win against Bosnia and Herzegovina. They’re playing to win over their country It took Mauricio...",
+      "id": "05ca0d9dd8bc24",
+      "title": "England 2-1 DR Congo: World Cup last 32 player ratings",
+      "summary": "Anthony Gordon showed why he is joining Barcelona but a brilliant Lionel Mpasi in goal could not stop Harry Kane Jordan Pickford Got a hand to Cipenga’s strike but coul...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/usmnt-bosnia-herzegovina-soccer-popularity",
-      "publishedAt": "2026-07-01T12:00:37.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/01/england-2-1-dr-congo-world-cup-last-32-player-ratings",
+      "publishedAt": "2026-07-01T18:24:07.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "5d7935259f300e",
+      "title": "Harry Kane double saves England from their worst World Cup defeat ever",
+      "summary": "Harry Kane scored a brace to bring England from behind against DR Congo and set up a round of 16 tie with hosts Mexico at the Azteca Stadium.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/harry-kane-double-saves-england-from-worst-world-cup-defeat-ever",
+      "publishedAt": "2026-07-01T18:05:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d5f44f08050b9c",
+      "title": "Kane to the rescue with late double as England edge past DR Congo into last 16",
+      "summary": "Thomas Tuchel’s mission to put a second World Cup star on the England shirt did not look as though it would reach the second knockout round. On a fraught and chaotic oc...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report",
+      "publishedAt": "2026-07-01T18:00:44.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
-        "Soccer",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6710d1e61e36a6",
-      "title": "Has football fever taken hold in the US?",
-      "summary": "With the World Cup now three weeks old, BBC Sport's reporters in the US look at how their perceptions have changed.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T11:57:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
         "World Cup"
       ]
     },
     {
-      "id": "dcce81acb684a5",
-      "title": "Hull avoid points deduction by selling players",
-      "summary": "Hull City avoided the threat of a points deduction in the Premier League by selling two players hours before Tuesday's deadline.",
+      "id": "8aa2438e68f210",
+      "title": "England sneak through - but who had a nightmare start? Player ratings",
+      "summary": "BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz5dprjq0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T11:40:25.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T18:00:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b5f1bafeca7aeb",
+      "title": "Should England have had a penalty for challenge on Kane?",
+      "summary": "Should England have been awarded a penalty in their World Cup last-32 tie against DR Congo?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg53nlder6zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T17:48:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e4ffd60fa2f682",
+      "title": "Fabrizio Romano says World Cup star pushing hard to join Chelsea because of Xabi Alonso",
+      "summary": "Fabrizio Romano says a Premier League star is keen on joining Chelsea and playing under manager Xabi Alonso.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/granit-xhaka-chelsea-xabi-alonso-fabrizio-romano-update",
+      "publishedAt": "2026-07-01T17:43:52.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6a6fcbde45b609",
+      "title": "Jurgen Klopp ‘open’ to management return with national team after World Cup exit",
+      "summary": "Fabrizio Romano has revealed that Jurgen Klopp is ready to return to management, as he’s willing to take the Germany role after they bowed out of the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jurgen-klopp-open-national-team-role-germany-world-cup",
+      "publishedAt": "2026-07-01T17:30:40.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "68c3491ea58047",
+      "title": "Ranking all 20 Premier League clubs on their trans...",
+      "summary": "One year on from a bumper 2025 summer Premier League window, we've decided to rate all 20 teams' incoming signings on their immediate impact and scope to improve.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49229146/ranking-all-20-premier-league-clubs-their-transfer-work-2025-26-season",
+      "publishedAt": "2026-07-01T16:57:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "357c5c536d63ca",
+      "title": "Transfer rumors, news: USMNT's Pulisic on six-man ...",
+      "summary": "USMNT star Christian Pulisic could be headed back to the Premier League. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
+      "publishedAt": "2026-07-01T16:57:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "39825f7a458006",
+      "title": "Premier League 2026-27 kits: Ranking every jersey ...",
+      "summary": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "publishedAt": "2026-07-01T16:49:45.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -484,111 +556,31 @@
       ]
     },
     {
-      "id": "81fff6cf42c79c",
-      "title": "Chelsea ‘agree personal terms’ with shock target after No 1 choice rejects Alonso",
-      "summary": "Chelsea have agreed personal terms with Rayo Vallecano defender, Pep Chavarria, but only after their preferred choice rejected the chance to reunite with Xabi Alonso.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-agree-personal-terms-pep-chavarria-after-alejandro-grimaldo-rejects-xabi-alonso",
-      "publishedAt": "2026-07-01T11:33:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2ab44bdc0ab42b",
-      "title": "Liverpool announce £60m signing with double exit now most likely",
-      "summary": "Liverpool have completed the signing of Jeremy Jacquet who hinted at why he chose the Reds over Chelsea, while a double exit is now on the cards.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-announce-60m-jeremy-jacquet-transfer-double-exit-most-likely",
-      "publishedAt": "2026-07-01T11:28:49.000Z",
-      "category": "transfer",
+      "id": "ed0cddd4978e5d",
+      "title": "Why Man City chose Enzo Maresca as Guardiola's hei...",
+      "summary": "Enzo Maresca replacing Pep Guardiola was Manchester City's long-term strategy, something the Italian's former club Chelsea have changed since his exit.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49219156/why-manchester-city-chose-enzo-maresca-pep-guardiola-heir",
+      "publishedAt": "2026-07-01T16:49:17.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Chelsea",
-        "Liverpool"
+        "Manchester"
       ]
     },
     {
-      "id": "8bf69c789cb87f",
-      "title": "Portugal v Croatia: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between Portugal and Croatia.",
+      "id": "4ebf0d494e7c66",
+      "title": "Tottenham superstar ‘wants to leave’ and break Roberto De Zerbi’s heart",
+      "summary": "One of Tottenham Hotspur’s best players wants to leave in the summer transfer window, with Barcelona and Atletico Madrid keen on him.",
       "source": "Football365",
-      "url": "https://www.football365.com/match-preview/portugal-v-croatia-prediction-preview",
-      "publishedAt": "2026-07-01T11:26:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "768ad5aa4e2a14",
-      "title": "Arsenal star ‘betrays’ Mikel Arteta ‘to force’ £52m Barcelona transfer for four reasons",
-      "summary": "Arsenal striker Victor Gyokeres is ‘willing to force’ a move to Barcelona after a rollercoaster first season, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-gyokeres-betrays-arteta-force-transfer-barcelona-four-reasons",
-      "publishedAt": "2026-07-01T11:18:24.000Z",
+      "url": "https://www.football365.com/news/cristian-romero-tottenham-hotspur-2026-summer-exit",
+      "publishedAt": "2026-07-01T16:46:11.000Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Transfer",
-        "Arsenal",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "aaa227acde5cc2",
-      "title": "Three people die in mass fan celebrations in Mexico City after World Cup victory",
-      "summary": "Three people have died from suffocation More than a million people gathered in Mexico City Three people died ⁠from suffocation as thousands of fans crowded Mexico City...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
-      "publishedAt": "2026-07-01T11:15:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9e6ef5bc212037",
-      "title": "Did Declan Rice really say England have the World Cup’s best penalty-takers?",
-      "summary": "Declan Rice has insisted England are the best penalty takers at the World Cup. Except – and this feels slightly important – he didn’t.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/declan-rice-england-world-cup-penalty-takers-mediawatch",
-      "publishedAt": "2026-07-01T11:15:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b657660372116e",
-      "title": "Spain v Austria: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between Spain and Austria.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/spain-v-austria-prediction-preview",
-      "publishedAt": "2026-07-01T11:05:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1576e769e7a80c",
-      "title": "Three die in Mexico City World Cup celebrations",
-      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T11:01:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
