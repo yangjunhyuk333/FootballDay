@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T04:18:43.186Z",
+  "generatedAt": "2026-07-01T09:57:44.966Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,109 +99,15 @@
       "pinned": true
     },
     {
-      "id": "7f3790b8439237",
-      "title": "Koeman parts ways with Netherlands after World Cup exit",
-      "summary": "Ronald Koeman has left his role as head coach of the Netherlands.",
+      "id": "224099c4b6af86",
+      "title": "Mexico storm into World Cup last 16 to book potential England clash",
+      "summary": "A trip to the Azteca Stadium awaits England if they beat DR Congo on Wednesday after Mexico strolled past Ecuador 2-0 to reach the last 16 of the World Cup.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
+      "url": "https://www.skysports.com/football/mexico-vs-ecuador/report/549842",
+      "publishedAt": "2026-07-01T09:57:44.703Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "197a915df492a6",
-      "title": "Papers: Klopp frontrunner for Germany job if Nagelsmann sacked",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559341/jurgen-klopp-frontrunner-for-germany-job-if-julian-nagelsmann-is-sacked-paper-talk",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "8fb04d81bc6b53",
-      "title": "Tuchel: We're facing a very compact, physical and well-drilled team",
-      "summary": "England boss Thomas Tuchel answers questions at a press conference ahead of the side's World Cup Round of 32 clash with DR Congo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13559376/world-cup-england-vs-dr-congo-thomas-tuchel-says-his-side-are-facing-a-very-compact-physical-and-well-drilled-team",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "638455a861f0c0",
-      "title": "Four Premier League sides fined by UEFA for breaches of financial rules",
-      "summary": "Aston Villa, Chelsea, Newcastle United and Nottingham Forest have all been fined by UEFA for breaching financial sustainability regulations.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559340/aston-villa-chelsea-newcastle-and-nottingham-forest-fined-by-uefa-for-breaching-financial-rules",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Uefa",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9193e9b186f80a",
-      "title": "Lampard signs new Coventry deal after summer interest",
-      "summary": "Frank Lampard has signed a new contract as Coventry City head coach until 2029.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559326/frank-lampard-coventry-city-head-coach-signs-new-deal-until-2029-ahead-of-premier-league-return",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "2625953c6a599e",
-      "title": "'Tuchel is starting to run out of options' | Will injuries hamper England's WC ambitions?",
-      "summary": "Sky Sports' chief correspondent Kaveh Solhekol discusses England's injury woes ahead of their World Cup match against DR Congo.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13559368/kaveh-solhekol-looks-at-the-injuries-headache-facing-thomas-tuchel-ahead-of-englands-world-cup-clash-with-dr-congo",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d223b84b29fa6f",
-      "title": "Summerville a top winger target for Man Utd but Rashford holds key",
-      "summary": "Crysencio Summerville is emerging as a leading left-wing target for Manchester United, Sky Sports News understands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559234/man-utd-west-hams-crysencio-summerville-emerging-as-a-top-left-wing-target-for-michael-carricks-side",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5261c5971e6338",
-      "title": "World Cup penalty misses - is this the end of the stutter?",
-      "summary": "The stutter. Like it or loathe it, it's a technique that has been increasingly adopted by penalty takers since the time of Pele in the 1960s. But after some faltering s...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan",
-      "publishedAt": "2026-07-01T04:18:42.966Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
         "World Cup"
       ]
     },
@@ -211,7 +117,7 @@
       "summary": "Kylian Mbappe helped book France's place in the World Cup round of 16 by taking his tournament total to six goals in a slick 3-0 victory over Sweden.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/france-vs-sweden/report/549844",
-      "publishedAt": "2026-07-01T04:18:42.965Z",
+      "publishedAt": "2026-07-01T09:57:44.703Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -220,11 +126,11 @@
     },
     {
       "id": "528ab433a2b926",
-      "title": "Neville: France ‘a level above’ and Mbappe ‘on verge of greatness’",
+      "title": "Neville: France 'a level above' and Mbappe 'on verge of greatness'",
       "summary": "Gary Neville says France are \"a level above\" any other team at the World Cup after they cruised to a 3-0 win against Sweden in the round of 32.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13559386/france-3-0-sweden-les-bleus-a-level-above-other-world-cup-teams-with-kylian-mbappe-on-verge-of-greatness-says-gary-neville",
-      "publishedAt": "2026-07-01T04:18:42.965Z",
+      "publishedAt": "2026-07-01T09:57:44.703Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -232,16 +138,443 @@
       ]
     },
     {
-      "id": "54108893657b09",
-      "title": "Haaland scores late winner to set up Norway vs Brazil",
-      "summary": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil.",
+      "id": "5eef0ac97bcd16",
+      "title": "Transfers, Palmer and Fernandez: The big Chelsea problems Alonso must solve",
+      "summary": "Xabi Alonso has officially started work as Chelsea manager, inheriting one of the biggest jobs in football.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843",
-      "publishedAt": "2026-07-01T04:18:42.965Z",
+      "url": "https://www.skysports.com/football/news/12040/13559199/chelsea-transfers-cole-palmer-and-enzo-fernandez-the-big-problems-xabi-alonso-must-solve-at-stamford-bridge",
+      "publishedAt": "2026-07-01T09:57:44.702Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2b89a6076bdb4f",
+      "title": "Jacquet completes £60m move to Liverpool",
+      "summary": "Liverpool have completed the £60m signing of Jeremy Jacquet from Rennes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-60m-deal-with-20-year-old-moving-to-anfield-this-summer",
+      "publishedAt": "2026-07-01T09:57:44.701Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1bb77a47c1ca45",
+      "title": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
+      "summary": "WSL latest: Aston Villa sign Vangsgaard from Juventus",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "publishedAt": "2026-07-01T09:57:44.700Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Juventus"
+      ]
+    },
+    {
+      "id": "0e1b4845a80181",
+      "title": "Romano explains Tchouameni to Man Utd reality after Real Madrid ‘need exits’",
+      "summary": "Fabrizio Romano has delivered a bittersweet update on Manchester United potentially signing Aurelien Tchouameni from Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-aurelien-tchouameni-man-utd-updates-real-madrid-need-exits",
+      "publishedAt": "2026-07-01T09:50:02.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "86dd2c7366ec39",
+      "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+      "summary": "‘Don’t start to doubt’: Tuchel wants patience Email us | Bracketology | World Cup Daily The view from England now , and Jacob Steinberg’s preview of today’s game: The p...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live",
+      "publishedAt": "2026-07-01T09:41:45.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5bb5a812e55ef5",
+      "title": "Virgil van Dijk very close to leaving Liverpool and joining 26-times league champions – report",
+      "summary": "A stunning report claims Virgil van Dijk has warmed to the idea of leaving Liverpool after Galatasaray held ‘positive’ talks with the centre-back’s agent.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/virgil-van-dijk-very-close-leaving-liverpool-joining-galatasaray",
+      "publishedAt": "2026-07-01T09:40:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "809a141d97df58",
+      "title": "PSG set Barcola price - Wednesday's gossip",
+      "summary": "Paris St-Germain set their price for Bradley Barcola, Chelsea want Bournemouth striker Eli Junior Kroupi, Ayyoub Bouaddi is attracting interest, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T09:28:24.000Z",
+      "category": "league",
+      "region": "england italy france",
+      "tags": [
+        "Chelsea",
+        "Psg",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1c12ce65c38e3a",
+      "title": "Beccacece reign as Ecuador manager over after exit",
+      "summary": "Ecuador manager Sebastian Beccacece says he is leaving his role following his side's World Cup exit against Mexico.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c932jj0d25no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T09:25:41.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "12a903ebb052b9",
+      "title": "Liverpool complete £60m signing of Jérémy Jacquet from Rennes",
+      "summary": "Liverpool saw off competition from Chelsea for defender 20-year-old set to recover from injury in time for season Jérémy Jacquet has officially completed his £60m move...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
+      "publishedAt": "2026-07-01T09:15:38.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9ee82011b73e48",
+      "title": "Time for Tuchel to show hand as England enter World Cup danger zone",
+      "summary": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T09:10:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e0513a0ca93923",
+      "title": "Villa sign Denmark striker Vangsgaard",
+      "summary": "Amalie Vangsgaard says she is \"very excited for this new adventure\" after joining Aston Villa from Juventus.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c862yegveq2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T09:05:27.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Juventus"
+      ]
+    },
+    {
+      "id": "20a741ee9bf6a4",
+      "title": "USA v Bosnia and Herzegovina: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between the USA and Bosnia and Herzegovina.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/usa-v-bosnia-and-herzegovina-prediction-preview",
+      "publishedAt": "2026-07-01T09:04:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5661fc2015b918",
+      "title": "Jacobs explains how Man Utd, Arsenal have fallen behind Man City in race for World Cup star",
+      "summary": "Man City have found a way to get ahead of rivals Man Utd, Arsenal and Chelsea in the race to sign Ayyoub Bouaddi, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-arsenal-jacobs-fallen-behind-man-city-bouaddi-transfer",
+      "publishedAt": "2026-07-01T08:58:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3e403638fc0120",
+      "title": "All done deals in June 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T08:44:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Five-year net spend table: Big Six lead despite on-pitch woes of Chelsea and Spurs",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have just jumped over Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-07-01T08:35:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "78eb7d30021058",
+      "title": "Romano confirms Chelsea ‘close’ to finalising ‘surprise’ signing ‘driven by Alonso’ – ‘player wants the move’",
+      "summary": "Two top sources have confirmed Chelsea are thundering towards a shock signing at left-back, and the ballpark figure they’re expected to pay has also been revealed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-confirms-chelsea-close-finalising-shock-signing-xabi-alonso-driving-transfer",
+      "publishedAt": "2026-07-01T08:22:45.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Arsenal accept bid for starter as Man Utd, Gunners fight over Scott",
+      "summary": "Arsenal have reportedly accepted a bid from Besiktas for Leandro Trossard, while Alex Scott could choose between the Gunners and Man Utd.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-01T08:10:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1734dd55be66ca",
+      "title": "Romano reveals ‘very good progress’ in Rogers to Arsenal update as Scott ‘call’ is made",
+      "summary": "Fabrizio Romano has revealed that Arsenal are making “very good progress” on a certain aspect of the Morgan Rogers deal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-progress-rogers-aston-villa-update-scott-call-bournemouth",
+      "publishedAt": "2026-07-01T07:37:16.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fbe7df1be18000",
+      "title": "Who will win the 2026 World Cup Golden Ball? Mbappe now favourite",
+      "summary": "Kylian Mbappe has joined Lionel Messi on six goals and, more importantly, is clearly the best player at this World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
+      "publishedAt": "2026-07-01T07:24:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1c74a23d8565d6",
+      "title": "World Cup odds: France now massive favourites after Sweden cruise",
+      "summary": "France beating Sweden so easily has seen their odds cut to as short as 2/1 to win the whole damned thing.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
+      "publishedAt": "2026-07-01T07:15:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c2a536a830c878",
+      "title": "Romano reveals huge Liverpool boost for Barcola as three ‘factors’ will decide transfer",
+      "summary": "Fabrizio Romano insists that Bradley Barcola leaving PSG to join Liverpool this summer is “a possibility” despite less confident reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-huge-transfer-boost-barola-three-factors-decide",
+      "publishedAt": "2026-07-01T07:04:32.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "7cb967d68aeb50",
+      "title": "Who has scored the most goals at a World Cup without winning the Golden Boot?",
+      "summary": "Plus: World Cup teams stuck on nul points and teams who broke their duck with a drubbing Mail us with your all of your questions and answers “Who has scored the most go...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/01/knowledge-world-cup-most-goals-without-golden-boot",
+      "publishedAt": "2026-07-01T07:00:29.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "425042457af50b",
+      "title": "England XI v ‘scary’ France in World Cup final named early",
+      "summary": "We would all be very surprised if England reach the World Cup final but France would absolutely destroy them if they did.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-xi-france-world-cup-final-mailbox",
+      "publishedAt": "2026-07-01T06:54:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "81bb6090989f9c",
+      "title": "Who will win Young Player of the Tournament at the 2026 World Cup?",
+      "summary": "Enzo Fernandez is the holder of the gong after helping Argentina to World Cup glory in Qatar four years ago, but who will win Young Player of the Tournament in ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-young-player-of-the-tournament-at-the-2026-world-cup-nico-oreilly-in-the-running",
+      "publishedAt": "2026-07-01T06:42:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "79e55e4ada33a5",
+      "title": "Fifa explains decision to rule out Germany goal",
+      "summary": "Fifa says coaches and players were told before the World Cup referees will punish the type of foul that saw Germany's extra-time goal against Paraguay ruled out.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c862yvvd2qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T06:40:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "f66914fc89b0f8",
+      "title": "Who am I? Guess World Cup star No 24",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4pl4rvr8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T05:48:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "210327f81c01b5",
+      "title": "Mexico rampant at fortress Azteca - and England could be next",
+      "summary": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azteca Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T05:38:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "86879eac4de9e5",
+      "title": "I'd have done the same to get him sent off - 20 years since Rooney's red card",
+      "summary": "Former England striker Wayne Rooney talks about his red card in the 2006 World Cup quarter-final against Portugal, and the reaction of his then teammate Cristiano Ronal...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cze2dxr752eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T05:31:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c05de4682fd008",
+      "title": "Hincapie becomes second player sent off for covering mouth",
+      "summary": "Ecuador defender Piero Hincapie became the second player at the World Cup to be dismissed for covering his mouth while confronting an opponent.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg45jg6qyno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T05:17:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "35951a6a4640a1",
+      "title": "Mexico set up potential England tie with win over 10-man Ecuador",
+      "summary": "Mexico cruise into the last 16 of the World Cup with a comfortable victory over Ecuador in a weather-delayed contest at the Azteca Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-01T04:52:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal catch unlikely Prem pair",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but lead the Premier League way alongside Crystal Palace and Sunderland now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-01T04:33:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is destined to absolutely shatter the all-time World Cup scoring record while winning myriad trophies for France and Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-07-01T04:28:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
       ]
     },
     {
@@ -255,336 +588,6 @@
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "b697c22a2302c7",
-      "title": "Mexico 2-0 Ecuador: World Cup 2026 last 32 – reaction",
-      "summary": "⚽️ Kick-off time: 8pm local/12pm AEST/3am BST/10pm EDT ⚽️ Player guide | Bracketology | Golden Boot | Mail Jonathan Mexico’s football culture dates back to the early 20...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/01/fifa-world-cup-2026-live-mexico-v-ecuador-updates-mex-vs-ecu-last-round-32-match-score-latest",
-      "publishedAt": "2026-07-01T04:03:21.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f73a70d96ec3a4",
-      "title": "'The Azteca erupts!' Quinones fires Mexico into lead",
-      "summary": "Julian Quinones times his run to perfection before rifling home a fierce shot to give Mexico the lead against Ecuador in their round of 32 World Cup match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8j2xwlgxzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T04:01:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bfb8c3f8dbb8e7",
-      "title": "‘There are holes in England’: DR Congo ready to produce World Cup shock | Ed Aarons",
-      "summary": "Former DRC defender Gabriel Zakuani is better placed than most to have a view on Wednesday’s game, and feels it won’t be as straightforward as some think It took Gabrie...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-shock-last-32-atlanta",
-      "publishedAt": "2026-07-01T02:45:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ba55c371fad61e",
-      "title": "Tuchel will stick to Southgate's penalty plan",
-      "summary": "England manager Thomas Tuchel had revealed that his team will follow his predecessor Sir Gareth Southgate's penalty shootout blueprint at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T01:49:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a88c2fa4d6629b",
-      "title": "England right-backs Quansah and James out of DR Congo game",
-      "summary": "Right-backs Jarell Quansah and Reece James will miss England's World Cup last-32 match against DR Congo because of injury.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T01:25:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "889e3583a9a4cd",
-      "title": "United, free and brilliant - can anyone stop France masterclass?",
-      "summary": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T01:07:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2ba5fb64529298",
-      "title": "Kylian Mbappé at the double as France swat aside Sweden in World Cup masterclass",
-      "summary": "When people form memories of the World Cup , it’s matches like this that do it. France once again won comprehensively, and against decent opposition, but the quality of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report",
-      "publishedAt": "2026-07-01T00:58:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ee2199797f0e31",
-      "title": "How USMNT prepare for World Cup penalty drama: confidence, composure and consultants",
-      "summary": "The US have used outside companies, including one measuring players’ brainwaves, to help them determine who will shoot in a shootout Who would the US need to beat to wi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/30/usmnt-penalty-kicks-mauricio-pochettino-world-cup",
-      "publishedAt": "2026-07-01T00:48:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7e1fe8d33c5a0e",
-      "title": "Mbappe scores twice as France dominate Sweden",
-      "summary": "Kylian Mbappe becomes the all-time leading goalscorer in World Cup knockout matches with after scoring twice as France crusie past Sweden 3-0 to set up a last-16 tie wi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T23:34:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "96996326ddcea9",
-      "title": "France establish impeccable Team To Beat credentials with standout World Cup performance so far",
-      "summary": "The World Cup last 32 has been great fun and contained much drama. And now it has a compelling performance of possible champions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/france-world-cup-team-to-beat-best-performance",
-      "publishedAt": "2026-06-30T23:24:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c559ded02792b8",
-      "title": "Mbappe scores twice against Sweden for France",
-      "summary": "Kylian Mbappe scores twice as France cruise to a comfortable win over Sweden in their World Cup round of 32 match at the New York New Jersey Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c892k0de2j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T22:55:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8415c2d91d7e92",
-      "title": "Barcola 'emphatically' doubles France's lead over Sweden",
-      "summary": "Bradley Barcola \"empahatically\" fires home France's second goal in their World Cup round of 32 match against Sweden at the New York New Jersey Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8e2g18l4k9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T22:53:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a2d23ee39eae83",
-      "title": "Koeman resigns, while Netherlands report racist abuse",
-      "summary": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T22:30:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a18d4083c079fb",
-      "title": "Rosenior nears management return at Paris FC",
-      "summary": "Former Chelsea manager Liam Rosenior is set to return to football at French club Paris FC on a two-year contract, with the option of a further season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2x0pd01dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T22:06:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "1a6b33c760a359",
-      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
-      "summary": "Kylian Mbappe is destined to absolutely shatter the all-time World Cup scoring record while winning myriad trophies for France and Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
-      "publishedAt": "2026-06-30T21:57:46.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal catch unlikely Prem pair",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but lead the Premier League way alongside Crystal Palace and Sunderland now.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-06-30T21:51:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a4f6c2df12ff10",
-      "title": "Roy Keane names two favourites to win World Cup – ‘I’d be surprised if they don’t meet in the final’",
-      "summary": "Manchester United legend Roy Keane has explained why he would be “surprised” if two specific teams do not reach the World Cup final.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/roy-keane-names-two-favourites-win-world-cup",
-      "publishedAt": "2026-06-30T21:45:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8712dae5b79880",
-      "title": "Romano reveals Tottenham ‘next move’ after Fernandes with £85m star set to undergo medical",
-      "summary": "Fabrizio Romano has named Tottenham Hotspur’s ‘next’ transfer target after Matheus Fernandes, who is ‘set for a medical’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-tottenham-next-move-fernandes-85m-star-set-medical",
-      "publishedAt": "2026-06-30T21:23:10.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "69f35f4c268f8b",
-      "title": "Defying logic - how Haaland could end up with 260 international goals",
-      "summary": "Erling Haaland delivers on the biggest stage yet for Norway - but just how many goals could he end up with in international football?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvge3wkn1v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T21:18:45.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "618b496d0b1fb7",
-      "title": "UEFA fine Chelsea, Aston Villa, Newcastle, Juventus and ten more clubs over breaching financial rules",
-      "summary": "UEFA has sanctioned 14 clubs for breaching its financial sustainability rules for the 2025-26 season, they announced on Tuesday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/uefa-fine-chelsea-aston-villa-newcastle-juventus-14-clubs-breaching-financial-rules",
-      "publishedAt": "2026-06-30T20:51:08.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Uefa",
-        "Chelsea",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "cc4598032d6550",
-      "title": "Arsenal ‘given encouragement’ to sign Liverpool target as Arteta eyes move for Leeds United star",
-      "summary": "According to reports, Arsenal have been ‘given encouragement’ to sign Paris Saint-Germain star Bradley Barcola, who is also linked with Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-sign-liverpool-target-arteta-eyes-move-leeds-united-star",
-      "publishedAt": "2026-06-30T20:39:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1d34ac7ccaa3c0",
-      "title": "Villa among four Premier League clubs fined by Uefa over squad-cost rules",
-      "summary": "Aston Villa have been fined 22.5m euros (£19.4m) by Uefa for a \"significant breach\" of its squad-cost rule for 2025.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T20:36:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "e867278f63e2e2",
-      "title": "Forest Green Rovers scrap women’s team to ‘concentrate resources’ on men’s side",
-      "summary": "Men’s team relegated to National League in 2024 Club hope women’s football will return in future Forest Green Rovers have disbanded their women’s team for the 2026-27 s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jun/30/forest-green-rovers-scrap-womens-team-to-concentrate-resources-on-mens-side",
-      "publishedAt": "2026-06-30T20:35:06.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "809a141d97df58",
-      "title": "PSG set Barcola price - Wednesday's gossip",
-      "summary": "Paris St-Germain set their price for Bradley Barcola, Chelsea want Bournemouth striker Eli Junior Kroupi, Ayyoub Bouaddi is attracting interest, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cze90p2x09wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T20:23:44.000Z",
-      "category": "league",
-      "region": "england italy france",
-      "tags": [
-        "Chelsea",
-        "Psg",
-        "Inter"
       ]
     }
   ],
