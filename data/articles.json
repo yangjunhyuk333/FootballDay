@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T03:58:35.753Z",
+  "generatedAt": "2026-07-02T09:20:18.314Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,51 +99,25 @@
       "pinned": true
     },
     {
-      "id": "aa799881473ead",
-      "title": "Sciver-Brunt confirms England return for South Africa semi-final",
-      "summary": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
-      "publishedAt": "2026-07-02T03:58:35.542Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2d937e1aa66e6d",
-      "title": "Rain robs England of run chase as India series opener washed out",
-      "summary": "England’s first T20 international against India was abandoned due to rain before the hosts’ had the chance to chase down 190 for victory in Durham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13559573/england-vs-india-first-t20-international-abandoned-after-rain-in-durham",
-      "publishedAt": "2026-07-02T03:58:35.542Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "46cd11bf7c3329",
-      "title": "USA reach last 16 as Balogun scores but then sees red",
-      "summary": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Falorin Balogun for their clash with Belgium after his red card.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
-      "publishedAt": "2026-07-02T03:58:35.541Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "91c7b2b1c8962c",
       "title": "Kane keeps England's World Cup dream alive as DR Congo beaten",
       "summary": "Harry Kane scored a brilliant double to inspire England to a come-from-behind 2-1 win over DR Congo and set up a World Cup last-16 showdown with co-hosts Mexico.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/england-vs-dr-congo/report/549847",
-      "publishedAt": "2026-07-02T03:58:35.541Z",
+      "publishedAt": "2026-07-02T09:20:18.146Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2636dc1a436f63",
+      "title": "Music acts, start times announced for ICC Women's T20 World Cup final",
+      "summary": "Australia are awaiting a potential clash with England in the ICC Women's T20 World Cup final in what is set to be a blockbuster event at Lord's on Sunday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13559738/icc-womens-t20-world-cup-final-teams-favourites-location-start-times-ceremony-as-australia-await-opponents",
+      "publishedAt": "2026-07-02T09:20:18.146Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -156,7 +130,7 @@
       "summary": "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with disaster in the round of 32 if they go on and lift the trophy. But Thom...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo",
-      "publishedAt": "2026-07-02T03:58:35.541Z",
+      "publishedAt": "2026-07-02T09:20:18.146Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -164,12 +138,25 @@
       ]
     },
     {
-      "id": "7da39b9f31c785",
-      "title": "USA march on but will Balogun red card prove costly?",
-      "summary": "Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T03:53:14.000Z",
+      "id": "5c1e0c35432169",
+      "title": "'I still can't understand why it wasn't given' | Should Kane have been awarded penalty?",
+      "summary": "Ex-Premier League referee Dermot Gallagher was left perplexed as to why England's Harry Kane wasn't awarded a penalty against DR Congo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13559734/world-cup-should-harry-kane-have-been-awarded-penalty-vs-dr-congo",
+      "publishedAt": "2026-07-02T09:20:18.146Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "aa799881473ead",
+      "title": "Sciver-Brunt confirms England return for South Africa semi-final",
+      "summary": "England captain Nat Sciver-Brunt has confirmed her return from injury for the ICC Women's T20 World Cup semi-final against South Africa on Thursday, live on Sky Sports.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13559530/icc-womens-t20-world-cup-england-captain-nat-sciver-brunt-confirms-return-from-injury-for-south-africa-semi-final-clash",
+      "publishedAt": "2026-07-02T09:20:18.146Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,12 +164,52 @@
       ]
     },
     {
-      "id": "3a543ac6f7e39b",
-      "title": "Balogun scores & sees red as USA beat Bosnia",
-      "summary": "Folarin Balogun scores and is later sent off as the United States advance past a lacklustre Bosnia-Herzegovina in Santa Clara to reach the last 16 of the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp8r61l7g12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T03:11:24.000Z",
+      "id": "cafd7596954401",
+      "title": "Papers: Spurs target Kroupi with spending spree set to continue",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13559716/eli-junior-kroupi-heads-a-list-of-tottenham-targets-with-spending-spree-set-to-continue-paper-talk",
+      "publishedAt": "2026-07-02T09:20:18.146Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "211a4629149649",
+      "title": "Leaderboards: PGA Tour, DP World Tour, Ladies European Tour and more",
+      "summary": "Latest golf scores and results from around the world, including the PGA Tour's John Deere Classic, the DP World Tour's BMW International Open and the Ladies European To...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+      "publishedAt": "2026-07-02T09:20:18.145Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "afb9f3ae8b7dc2",
+      "title": "Sunderland and Palace hunting Real and PSG in WC goal charts!",
+      "summary": "Which teams' players have scored the most goals at the World Cup so far?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
+      "publishedAt": "2026-07-02T09:20:18.145Z",
+      "category": "worldcup",
+      "region": "france",
+      "tags": [
+        "World Cup",
+        "Psg"
+      ]
+    },
+    {
+      "id": "e1552df8488b8b",
+      "title": "England out to end semi-final hoodoo against bogey side South Africa",
+      "summary": "England have been perfect at the Women's T20 World Cup so far, chalking up five wins from five.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13559481/womens-t20-world-cup-england-out-to-avoid-more-semi-final-heartache-vs-south-africa-and-reach-home-final-at-lords",
+      "publishedAt": "2026-07-02T09:20:18.145Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -190,118 +217,166 @@
       ]
     },
     {
-      "id": "4688ad91b0bf65",
-      "title": "Germany are no longer a tournament team and must reconnect with our own identity",
-      "summary": "Germany’s third early World Cup exit in a row is not down to a lack of talent or the name of the coach, but not knowing how they want to play I am stunned. Germany have...",
+      "id": "46cd11bf7c3329",
+      "title": "USA reach last 16 as Balogun scores but then sees red",
+      "summary": "USA are into the World Cup last 16 after beating Bosnia 2-0 but will be without Folarin Balogun for their clash with Belgium after his red card.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/united-states-of-america-vs-bosnia-and-herzegovina/report/549845",
+      "publishedAt": "2026-07-02T09:20:18.145Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5cc2120019d992",
+      "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+      "summary": "⚽ All the latest news from day 22 of the tournament ⚽ Bracketology | Knockout stage draw | And email us And I appreciate all this has been forgotten because England won...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/02/germany-no-longer-tournament-team-must-reconnect-with-own-identity-world-cup",
-      "publishedAt": "2026-07-02T02:59:08.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live",
+      "publishedAt": "2026-07-02T09:05:25.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
         "Football",
-        "World Cup"
+        "World Cup",
+        "Inter"
       ]
     },
     {
-      "id": "2820753a996b02",
-      "title": "Balogun shines and sees red as USA have their talisman taken away",
-      "summary": "USA will have to come up with some solutions without the man increasingly becoming their main source of inspiration at the World Cup.",
+      "id": "2c10c0b35d3698",
+      "title": "Man Utd begin process to sign Premier League forward as potential fee is revealed",
+      "summary": "Man Utd have strong interest in signing Crystal Palace forward Ismaila Sarr this summer and have begun talks, according to reports.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/balogun-shines-sees-red-usa-talisman-bosnia-world-cup",
-      "publishedAt": "2026-07-02T02:45:23.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "url": "https://www.football365.com/news/man-utd-begin-talks-sign-sarr-crystal-palace-fee-revealed",
+      "publishedAt": "2026-07-02T09:00:31.000Z",
+      "category": "transfer",
+      "region": "england italy",
       "tags": [
-        "World Cup"
+        "Premier League",
+        "Inter"
       ]
     },
     {
-      "id": "1cce441312b499",
-      "title": "Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
-      "summary": "The US had their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief. Mauricio Pochettino waved his hands towards the sky, incredulous. Fola...",
+      "id": "d60c4b96acfe4c",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "Everything you need to know (and more) about every squad member. Click on the player pictures for more information Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup",
-      "publishedAt": "2026-07-02T02:44:56.000Z",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "publishedAt": "2026-07-02T08:59:35.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
         "Football",
-        "World Cup"
+        "World Cup",
+        "Inter"
       ]
     },
     {
-      "id": "6309ec5477b22c",
-      "title": "USA set up Belgium showdown by sinking Bosnia and Herzegovina",
-      "summary": "A 10-man United States roared into the next round of the World Cup on Wednesday with a 2-0 victory over Bosnia and Herzegovina, ending a 24-year wait for a knockout-sta...",
+      "id": "fbf3619aefa6f0",
+      "title": "Spurs target West Ham's Summerville - Thursday's gossip",
+      "summary": "Tottenham target West Ham's Crysencio Summerville, Juventus consider Sunderland striker Brian Brobbey, Everton look at Pape Gueye and Mandela Keita to replace Idrissa G...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2krd2yzwxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T08:59:22.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Juventus"
+      ]
+    },
+    {
+      "id": "ee06520c339b9c",
+      "title": "Tottenham in discussions to sign World Cup winger offered to Arsenal",
+      "summary": "Tottenham Hotspur are in talks over a deal for a Portugal international star, who has already offered his services to Arsenal.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/usa-bosnia-herzegovina-world-cup-match-report",
-      "publishedAt": "2026-07-02T02:32:15.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "url": "https://www.football365.com/news/rafael-leao-tottenham-hotspur-ac-milan-arsenal",
+      "publishedAt": "2026-07-02T08:35:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
       "tags": [
-        "World Cup"
+        "World Cup",
+        "Arsenal",
+        "Inter"
       ]
     },
     {
-      "id": "ee1ae83ece684c",
-      "title": "Goalscorer Balogun sent off for USA",
-      "summary": "USA forward Folarin Balogun is shown a straight red card for a challenge on Bosnia-Herzegovina's Tarik Muharemovic during their World Cup match.",
+      "id": "9b051f1fdaa6fb",
+      "title": "'You can't catch your breath' - how will Azteca altitude impact England?",
+      "summary": "BBC Sport explores how playing football at high altitude affects the body and mind as England prepare to visit Mexico and their fortress Azteca Stadium.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpv3xzyr73po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T02:12:05.000Z",
-      "category": "worldcup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0v05qyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T08:21:52.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Football"
       ]
     },
     {
-      "id": "5121eb9c272deb",
-      "title": "Latest ever winner, comeback and controversy - Senegal's remarkable exit",
-      "summary": "Late drama, controversy, history and heartbreak - the World Cup last-32 tie between Belgium and Senegal had everything.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8e2ezvzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T01:28:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fcb20be1f96901",
-      "title": "Why did England struggle against DR Congo - and what can they learn?",
-      "summary": "A tactical analysis of England's victory over DR Congo - and what it might teach them for their next World Cup match against Mexico.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T00:07:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6ca1594aa9aba1",
-      "title": "Belgium beat Senegal with dramatic late extra-time penalty after staging comeback",
-      "summary": "Youri Tielemans struck a 125th-minute penalty as Belgium rallied from two goals down and defeated Senegal 3-2 after extra time in their World Cup last 32 clash.",
+      "id": "64c9fbddb495ab",
+      "title": "Liverpool want shock Chelsea deal after Diomande collapse; ‘ask’ Man City about Brazilian",
+      "summary": "Liverpool have made two shock enquiries for Premier League stars as their search for a winger takes a desperate turn, according to reports.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/belgium-senegal-world-cup-match-report",
-      "publishedAt": "2026-07-01T23:12:28.000Z",
-      "category": "worldcup",
+      "url": "https://www.football365.com/news/liverpool-shock-chelsea-transfer-diomande-collapse-ask-man-city-savinho",
+      "publishedAt": "2026-07-02T08:21:48.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Premier League",
+        "Chelsea",
+        "Liverpool"
       ]
     },
     {
-      "id": "550413add183b7",
-      "title": "What you need to know about England's last-16 opponents Mexico",
-      "summary": "England will face Mexico in the World Cup round of 16. Here is what you need to know about them.",
+      "id": "ab0285de026ac3",
+      "title": "Where would Sandro Tonali fit in the 20 most expensive midfielders ever? He’s already in…",
+      "summary": "Sandro Tonali already appears once in a list of the most expensive midfielders in transfer history, with a place in the top three imminent.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/20-most-expensive-midfielders-ever-transfer-history",
+      "publishedAt": "2026-07-02T07:50:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Newcastle fearing Arsenal power with player close to joining Chelsea",
+      "summary": "Newcastle fear that Arsenal will be able to pull off a deal for Bruno Guimaraes this summer, while Chelsea are closing in on a Marc Cucurella replacement.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-02T07:50:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "65f540ae1670de",
+      "title": "San Jose close in on deal for Scotland's Gunn - gossip",
+      "summary": "Scotland goalkeeper linked with MLS move plus domestic transfer news.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8d25v111r6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T23:02:52.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq61qdql7e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T07:48:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "fbe7df1be18000",
+      "title": "Who will win the 2026 World Cup Golden Ball? Mbappe now favourite",
+      "summary": "Kylian Mbappe has joined Lionel Messi on six goals and, more importantly, is clearly the best player at this World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
+      "publishedAt": "2026-07-02T07:24:15.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -314,7 +389,7 @@
       "summary": "The World Cup’s first ever last-32 knockout round is well under way and serving up plenty of shock results and late drama.",
       "source": "Football365",
       "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-07-01T22:50:47.000Z",
+      "publishedAt": "2026-07-02T07:20:47.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -322,27 +397,135 @@
       ]
     },
     {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal behind unlikely Prem pair again",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are being shown the Premier League way by Crystal Palace and Sunderland now.",
+      "id": "1c74a23d8565d6",
+      "title": "England out to fourth in World Cup betting after DR Congo battle",
+      "summary": "France are now shorter than 2/1 to win the World Cup while England have dropped to fourth favourites after that DR Congo struggle.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-07-01T22:47:06.000Z",
+      "url": "https://www.football365.com/news/who-are-the-favourites-for-the-2026-world-cup-in-the-united-states",
+      "publishedAt": "2026-07-02T07:15:18.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cbf873c9baf2a4",
+      "title": "Thierry Henry sends shivers down England with Mexico World Cup warning",
+      "summary": "The Three Lions will travel to Mexico for their last-16 clash, where the co-hosts will have a significant advantage, given the game will be 7,200ft above sea level and...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thierry-henry-england-world-cup-warning-mexico-last-16-clash",
+      "publishedAt": "2026-07-02T07:07:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1d2c99e14cc059",
+      "title": "Lopes will relish Messi duel, says Cape Verde defender's mother",
+      "summary": "The prospect of facing World Cup record goalscorer Lionel Messi in a knockout game would strike fear into most defenders, but not Roberto Lopes, according to the Cape V...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07yjj5j299o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T07:02:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "33f6867c129649",
+      "title": "Tonali heading to London today for Tottenham ‘medical’ after £100m fee was agreed – Romano",
+      "summary": "Newcastle midfielder Sandro Tonali is set to have his medical tests in London today ahead of a transfer to Tottenham.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-tonali-london-medical-today-record-breaking-fee-agreed",
+      "publishedAt": "2026-07-02T07:02:13.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "690fec4c494026",
+      "title": "Modric and Ronaldo reunited at World Cup as Croatia aim to snap Portugal’s streak",
+      "summary": "Two of international football’s 200 club have had parallel careers with their countries, but will this be their last meeting? Can you remember what you were doing on 1...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/02/modric-ronaldo-reunited-world-cup-croatia-portugal",
+      "publishedAt": "2026-07-02T07:00:06.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-07-02T07:00:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "7117c839c9845b",
+      "title": "Football Daily",
+      "summary": "England are through... now the Azteca awaits.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ns844v?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T06:58:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "4ad0d5a8010fcd",
+      "title": "Fabrizio Romano reveals Eduardo Camavinga decision on leaving Real Madrid for Man City",
+      "summary": "Fabrizio Romano has disclosed whether Eduardo Camavinga wants to leave Real Madrid for Manchester City in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/eduardo-camavinga-real-madrid-fabrizio-romano-manchester-city",
+      "publishedAt": "2026-07-02T06:38:23.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "eef8e5fb0d30e3",
+      "title": "Arsenal star accused of ‘giving up’ in England World Cup win over DR Congo",
+      "summary": "Former England defender Stuart Pearce has criticised Arsenal winger Noni Madueke for “giving up” in the Three Lions’ 2-1 win over DR Congo.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-madueke-accused-giving-up-england-congo-world-cup",
+      "publishedAt": "2026-07-02T06:36:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
         "World Cup",
         "Arsenal"
       ]
     },
     {
-      "id": "a20d9c395b836a",
-      "title": "No time for England to adapt to altitude - Tuchel",
-      "summary": "Mexico will have a \"huge advantage\" against England in the World Cup last-16 tie because of the altitude of the Azteca Stadium in Mexico City, says head coach Thomas Tu...",
+      "id": "4cb94231b11bd9",
+      "title": "Who am I? Guess World Cup star No 25",
+      "summary": "Will you get today's player in as few attempts as possible?",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T22:11:59.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4pl4jdk4ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T05:51:25.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -350,228 +533,53 @@
       ]
     },
     {
-      "id": "271f2a22cb175f",
-      "title": "16 Conclusions on England 2-1 DR Congo: Kane, Tuchel, Rice, and this team’s undroppable worst player",
-      "summary": "England were better than all of us watching will care to remember, but still needed Harry Kane to rescue them from World Cup humiliation.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-16-conclusions-england-congo-kane-tuchel",
-      "publishedAt": "2026-07-01T21:53:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b4110d36497903",
-      "title": "‘Let the children watch’: Tuchel on England’s 1am BST kick-off after Kane rescue act",
-      "summary": "Head coach urges parents to ‘write an excuse for school’ so kids can see his team’s World Cup last-16 game against Mexico Harry Kane came to England’s rescue as they av...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-children-1am-bst-england-mexico-harry-kane-world-cup",
-      "publishedAt": "2026-07-01T21:39:59.000Z",
-      "category": "worldcup",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "79a67e19b3b10a",
-      "title": "Quiz: Name every team England have played in World Cup knockouts",
-      "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ev...",
+      "id": "e7e3beb8dd05b5",
+      "title": "From playing with the boys to fulfilling a WSL dream",
+      "summary": "BBC Sport meets 16-year-old Molly Stroud, who is set to leave Plymouth to join Manchester City's academy.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T21:37:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8eddd9e6bbb541",
-      "title": "'Why not take advantage?' - did hydration breaks spark England comeback?",
-      "summary": "England came from behind to beat DR Congo and reach the last 16 of the World Cup, but did the momentum noticeably swing their way after the hydration breaks?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T21:23:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d595a6ce87d28e",
-      "title": "Genuine superstar Kane produces his biggest England moment",
-      "summary": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T20:41:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fbf3619aefa6f0",
-      "title": "Spurs target West Ham's Summerville - Thursday's gossip",
-      "summary": "Tottenham target West Ham's Crysencio Summerville, Juventus consider Sunderland striker Brian Brobbey, Everton look at Pape Gueye and Mandela Keita to replace Idrissa G...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2krd2yzwxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T20:20:23.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ky18y31meo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T05:21:37.000Z",
       "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Juventus"
-      ]
-    },
-    {
-      "id": "1576e769e7a80c",
-      "title": "Four die in Mexico City World Cup celebrations",
-      "summary": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T20:15:59.000Z",
-      "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab788115c6c395",
-      "title": "Wayne Rooney namechecks Arsenal star amid ‘big concerns’ and warns England ‘will go out’",
-      "summary": "Former Manchester United star Wayne Rooney reacts to England’s win against DR Congo in the Round of 32 at the 2026 World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-dr-congo-noni-madueke-arsenal-wayne-rooney-verdict",
-      "publishedAt": "2026-07-01T20:10:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal",
         "Manchester"
       ]
     },
     {
-      "id": "4cc33714829e62",
-      "title": "World Cup: Kane rescues England - 5 Live reaction",
-      "summary": "Harry Kane scores twice to see off DR Congo and send England to the Azteca Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nw81yr?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T19:43:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e4910500dc6584",
-      "title": "'He is ridiculous' - Rice praise for match-winner Kane",
-      "summary": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T19:25:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Is Van Dijk really ‘very close’ to Liverpool exit?",
-      "summary": "Newcastle want a Tottenham midfielder while Spurs chase one of theirs, while Virgil van Dijk is said to be ‘very close’ to leaving Liverpool. Really?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-01T19:19:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "864debe1d5e01a",
-      "title": "A step-by-step guide to show Harry Kane has actually scored precisely zero proper goals for England",
-      "summary": "No man has scored more World Cup goals for England than Harry Kane. But none of those 13 goals actually count. And nor do the other 71.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/handy-guide-harry-kane-precisely-zero-england-goals",
-      "publishedAt": "2026-07-01T19:13:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "aaa227acde5cc2",
-      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-      "summary": "Three of the victims died from suffocation More than a million people gathered in Mexico City Four people died, three ⁠from suffocation, as thousands of fans crowded Me...",
+      "id": "1267e02baaed41",
+      "title": "A goal, a red and a LeBron James shout: Folarin Balogun gets the spotlight in US’s wild World Cup win",
+      "summary": "The versatile striker was dangerous in his time on the field on Wednesday, but that time was prematurely ended with a surprising ejection The day after the US supreme c...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
-      "publishedAt": "2026-07-01T18:49:01.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-goal-usmnt-world-cup-birthright-citizenship",
+      "publishedAt": "2026-07-02T05:11:35.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "france",
       "tags": [
         "Football",
         "World Cup"
       ]
     },
     {
-      "id": "ae08387f11d36d",
-      "title": "Win over DR Congo 'our best game of the tournament' - Kane",
-      "summary": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c802jzd528eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T18:40:36.000Z",
-      "category": "worldcup",
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-07-02T05:00:36.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Premier League",
+        "Transfer"
       ]
     },
     {
-      "id": "8f59482b630e13",
-      "title": "Kane scores twice as England come from behind to reach last 16",
-      "summary": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+      "id": "6e234a32ba6454",
+      "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
+      "summary": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T18:31:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d9bfbe57916b24",
-      "title": "Harry Kane tipped for Ballon d’Or after England beat DR Congo at World Cup as BBC pundits stunned",
-      "summary": "Bayern Munich striker Harry Kane scored both goals for England in their 2-1 win against DR Congo at the 2026 World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-england-dr-congo-2026-world-cup",
-      "publishedAt": "2026-07-01T18:27:19.000Z",
-      "category": "worldcup",
-      "region": "germany",
-      "tags": [
-        "World Cup",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "5d7935259f300e",
-      "title": "Harry Kane double saves England from their worst World Cup defeat ever",
-      "summary": "Harry Kane scored a brace to bring England from behind against DR Congo and set up a round of 16 tie with hosts Mexico at the Azteca Stadium.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-double-saves-england-from-worst-world-cup-defeat-ever",
-      "publishedAt": "2026-07-01T18:05:18.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T04:59:47.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
