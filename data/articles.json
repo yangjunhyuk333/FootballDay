@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T14:11:44.312Z",
+  "generatedAt": "2026-07-02T19:38:03.332Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,157 +99,12 @@
       "pinned": true
     },
     {
-      "id": "efda61b4f24b9a",
-      "title": "Copy of Copy of World Cup VAR review: Misapplied protocols leave B...",
-      "summary": "null",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49244156/world-cup-var-review-misapplied-protocols-leave-usmnt-folarin-balogun-wrongly-red-carded-world-cup-vs-bosnia-herzegovina",
-      "publishedAt": "2026-07-02T15:00:13.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab36243ffe309c",
-      "title": "Balogun red-carded in USMNT clash with Bosnia",
-      "summary": "Folarin Balogun's star turn at this World Cup went sideways early in the second half Wednesday night, as the American forward was sent off against Bosnia-Herzegovina.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026",
-      "publishedAt": "2026-07-02T14:48:56.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7e08bfe24b3a14",
-      "title": "Welcome to Pete's Garden: Messi, Argentina's World...",
-      "summary": "Pete's Garden, a nonprofit organization in Kansas City, is dedicated to minimizing food waste at the World Cup and helping families in need.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49242532/world-cup-2026-kansas-city-petes-garden-food-distribution-argentina-lionel-messi",
-      "publishedAt": "2026-07-02T14:47:08.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c3d4a878dfb4c0",
-      "title": "✈️FIFA prez Infantino clocks up 39,000 WC miles",
-      "summary": "The FIFA president has been flying all across the World Cup host nations on his private jet. Here's where he has been so far during the tournament.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49116383/infantino-fifa-presidents-epic-world-cup-tour",
-      "publishedAt": "2026-07-02T14:30:28.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "c92bfeff246ea2",
-      "title": "USMNT beats Bosnia for 1st WC KO win since '02",
-      "summary": "The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
-      "publishedAt": "2026-07-02T14:30:27.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "458a9587b89ec5",
-      "title": "City confirm deal to sign Anderson from Forest",
-      "summary": "Manchester City have reached an agreement with Nottingham Forest to sign Elliot Anderson, the club have confirmed.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49247312/man-city-announce-deal-sign-elliot-anderson-nottingham-forest",
-      "publishedAt": "2026-07-02T14:30:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cda3f498f685dc",
-      "title": "'Icons' Modric, Ronaldo look to avoid WC send-off",
-      "summary": "Luka Modric and Cristiano Ronaldo are \"two great icons of world football,\" Portugal midfielder Vitinha said on Wednesday ahead of his team's clash with Croatia.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49241567/croatia-portugal-luka-modric-cristiano-ronaldo-2026-world-cup",
-      "publishedAt": "2026-07-02T14:30:27.000Z",
-      "category": "league",
-      "region": "global",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "afcfc80c36a637",
-      "title": "Tielemans on Trossard fight: 'Part of football'",
-      "summary": "Youri Tielemans has played down talks of a rift with teammate Leandro Trossard following their on-field scuffle during Belgium's round-of-32 World Cup win against Seneg...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49246195/belgium-youri-tielemans-downplays-leandro-trossard-clash-part-football",
-      "publishedAt": "2026-07-02T14:30:27.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1b606206848535",
-      "title": "Kane passes Pelé WC goals total in England win",
-      "summary": "Harry Kane has surpassed Pelé's World Cup goals total after scoring two goals against Congo DR on Wednesday to bring his goal tally to 13 and lead England to a 2-1 vict...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-tally",
-      "publishedAt": "2026-07-02T14:30:27.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b2d26d6e8d5c48",
-      "title": "Sources: Spurs agree Tonali deal with Newcastle",
-      "summary": "Tottenham are set to smash their transfer record for the second time in a matter of days after agreeing a deal worth up to £100 million to sign Sandro Tonali, sources t...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49240006/tottenham-agree-deal-sign-sandro-tonali-newcastle-sources",
-      "publishedAt": "2026-07-02T14:30:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "211a4629149649",
-      "title": "Leaderboards: PGA Tour, DP World Tour, Ladies European Tour and more",
-      "summary": "Latest golf scores and results from around the world, including the PGA Tour's John Deere Classic, the DP World Tour's BMW International Open and the Ladies European To...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-      "publishedAt": "2026-07-02T14:11:44.054Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "41516fa1d9a74c",
       "title": "Shearer at £237m? Where Anderson transfer stands in adjusted rankings",
       "summary": "Elliot Anderson becomes the third-most expensive signing in Premier League history after Alexander Isak and Florian Wirtz with his £116m transfer from Nottingham Forest...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13559238/elliot-anderson-becomes-third-most-expensive-premier-league-signing-with-116m-man-city-move-but-hes-only-31st-when-adjusting-historic-fees",
-      "publishedAt": "2026-07-02T14:11:44.053Z",
+      "publishedAt": "2026-07-02T19:38:03.086Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -259,25 +114,12 @@
       ]
     },
     {
-      "id": "7d96973b42af1f",
-      "title": "How to survive England's 1am World Cup tie with Mexico...",
-      "summary": "England face Mexico for a place in the World Cup quarter-finals, but with the tie not kicking off until 1am UK time on Monday, we have a handy guide for you on how best...",
+      "id": "09c6ee5905079b",
+      "title": "Anderson's record-breaking £116m Man City move announced",
+      "summary": "Elliot Anderson's record-breaking £116m transfer to Manchester City from Nottingham Forest has been announced.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559769/world-cup-2026-mexico-vs-england-how-to-survive-three-lions-1am-last-16-tie-on-monday",
-      "publishedAt": "2026-07-02T14:11:44.053Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6bc50aea071c1e",
-      "title": "Man City’s £824m rebuild topped by British-record Anderson move",
-      "summary": "Manchester City’s transfer spending has hit £824m in three years after signing Elliot Anderson in a British-record £116m deal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13557947/man-city-transfer-spending-explained-elliot-anderson-move-smashes-british-record-transfer-fee",
-      "publishedAt": "2026-07-02T14:11:44.053Z",
+      "url": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
+      "publishedAt": "2026-07-02T19:38:03.085Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -286,12 +128,106 @@
       ]
     },
     {
-      "id": "164e861c32886d",
-      "title": "'A huge advantage for Mexico' - England face an Azteca altitude problem",
-      "summary": "\"It is one of the most beautiful fixtures you can have playing Mexico in the Azteca,\" said Thomas Tuchel after England booked their World Cup last 16 spot. But it is al...",
+      "id": "657dee4971894d",
+      "title": "Pubs allowed to stay open until 5am for England's World Cup clash vs Mexico",
+      "summary": "England are through to the last-16 of the 2026 World Cup - but their clash against Mexico will not kick-off until 1am UK time.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7000-feet",
-      "publishedAt": "2026-07-02T14:11:44.053Z",
+      "url": "https://www.skysports.com/football/news/12040/13559749/england-bank-holiday",
+      "publishedAt": "2026-07-02T19:38:03.084Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "de804d303eeb66",
+      "title": "McInnes Q&A on transfer targets, new signings, Ferguson interest & more!",
+      "summary": "Rangers manager Derek McInnes says the club are working on making more summer signings after adding five players in the opening weeks of the transfer window.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13559827/rangers-transfer-news-derek-mcinnes-talks-new-signings-possible-departures-lewis-ferguson-links-and-more",
+      "publishedAt": "2026-07-02T19:38:03.084Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Memorial to honour Jota unveiled at Anfield",
+      "summary": "Liverpool latest: Memorial to honour Jota unveiled at Anfield",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-02T19:38:03.084Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "deca813fda4263",
+      "title": "South Africa chasing 170 to beat England in T20 World Cup semi-final LIVE!",
+      "summary": "South Africa chasing 170 to beat England in T20 World Cup semi-final LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13559863/womens-t20-world-cup-semi-final-england-vs-south-africa-live-latest-cricket-score-updates-video-and-analysis-from-the-oval",
+      "publishedAt": "2026-07-02T19:38:03.082Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9ec6e2521c01b",
+      "title": "Spain v Austria: World Cup 2026 last 32 – live",
+      "summary": "⚽️ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽️ Player guide | Bracketology | The full draw | Golden Boot 1 min Lamine Yamal works Alexander Schlager inside th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/02/spain-v-austria-world-cup-2026-last-32-live",
+      "publishedAt": "2026-07-02T19:31:59.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "11b6fed3cb37ce",
+      "title": "Romano confirms fully agreed Tottenham transfer is OFF – ‘decision has been made’",
+      "summary": "A fully agreed Tottenham transfer has been abandoned, with two separate sources including Fabrizio Romano pointing to Mateus Fernandes and Sandro Tonali as to why",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-confirms-fully-agreed-tottenham-transfer-off",
+      "publishedAt": "2026-07-02T18:49:33.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "421394800415f3",
+      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T18:45:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2070eef8028a20",
+      "title": "Ghosts of the Azteca: England return to scene of infamous Maradona handball",
+      "summary": "Mexico have a formidable record in their iconic stadium but for many it will always be associated with one player As soon as the World Cup draw was completed in Washing...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/02/azteca-england-diego-maradona-handball-mexico-world-cup",
+      "publishedAt": "2026-07-02T18:00:06.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -300,42 +236,157 @@
       ]
     },
     {
-      "id": "c41997f50da123",
-      "title": "Bronze extends Chelsea stay by another year",
-      "summary": "Defender Lucy Bronze has signed a one-year contract extension with Chelsea until 2027, the club has announced.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559807/lucy-bronze-england-defender-extends-chelsea-stay-by-a-year-to-continue-helping-club-move-forward",
-      "publishedAt": "2026-07-02T14:11:44.053Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7e08bac596f2de",
-      "title": "Merse: Mexico is heads-or-tails match - they could run England off their feet",
-      "summary": "Sky Sports' Paul Merson looks ahead to England's last-16 World Cup encounter with co-hosts Mexico on Monday, a game he thinks is too close to call.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559758/mexico-vs-england-world-cup-last-16-tie-is-heads-or-tails-match-they-could-run-us-off-our-feet-says-paul-merson",
-      "publishedAt": "2026-07-02T14:11:44.053Z",
+      "id": "4dd49edc0d327f",
+      "title": "Thomas Tuchel claims Fifa rule puts England at ‘huge’ disadvantage in Mexico City altitude",
+      "summary": "FA’s preferred acclimatisation option ruled out Tuchel reveals Declan Rice came off ‘in terrible pain’ Thomas Tuchel says England will be at a “huge” disadvantage in th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage",
+      "publishedAt": "2026-07-02T18:00:05.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
-      "id": "09c6ee5905079b",
-      "title": "Anderson's record-breaking £116m Man City move announced",
-      "summary": "Elliot Anderson's record-breaking £116m transfer to Manchester City from Nottingham Forest has been announced.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-116m-transfer-from-nottingham-forest",
-      "publishedAt": "2026-07-02T14:11:44.052Z",
+      "id": "655749f3cc9dc3",
+      "title": "FGR team closure 'sends message women not valued'",
+      "summary": "Former Forest Green Rovers women's captain Hattie Jones says the closure of the team suggests female football is not valued.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce37599zj78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T16:49:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "bd6c96f011f092",
+      "title": "Bournemouth reach decision on selling Eli Junior Kroupi to Tottenham or Arsenal",
+      "summary": "Spurs are fixing their gaze on Arsenal target, Kroupi, once they’ve smashed their transfer record for Tonali, and two Sky Sports reporters have revealed the decision Bo...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bournemouth-reach-decision-selling-eli-junior-kroupi-tottenham-arsenal",
+      "publishedAt": "2026-07-02T16:36:22.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "cdcd5e7c6f1284",
+      "title": "Premier League clubs interested in Japan's Nakamura",
+      "summary": "Japan winger Keito Nakamura is keen to move to the Premier League this summer after attracting interest from several clubs, following his impressive World Cup performan...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T15:52:35.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2e50277c0a0faa",
+      "title": "Why Spurs' statement spending appears set to continue",
+      "summary": "Tottenham are set to break their record transfer for the second time in a matter of days with the club's impressive performance off the field allowing greater flexibili...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T15:50:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "5a78f36c1f9606",
+      "title": "Tottenham agree personal terms with £50m winger and will now accelerate negotiations with his club – report",
+      "summary": "Tottenham Hotspur will engage in talks with Manchester City over the signing of one of their star wingers, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-hotspur-savinho-manchester-city-west-ham-united-crysencio-summerville",
+      "publishedAt": "2026-07-02T15:03:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8b28606be359d2",
+      "title": "Egyptian-Australians grapple with a ‘bittersweet’ dilemma: who to support in the World Cup?",
+      "summary": "The Egyptian diaspora are ‘addicted to football’ and will be in full voice when the Pharaohs take on the Socceroos. For some it’s a ‘win-win situation’ ⚽️ When do the S...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/02/egypt-australia-socceroos-pharaohs-diaspora-who-to-support-world-cup",
+      "publishedAt": "2026-07-02T15:00:03.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "30c775f817fb2b",
+      "title": "Uefa will not use red cards for players who cover mouth",
+      "summary": "Players who cover their mouths in confrontations with opponents will not be shown red cards in Uefa competitions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2dy80ddllxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T14:55:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "fb2ab5e4ec29ea",
+      "title": "Former Arsenal midfielder Cazorla retires at 41",
+      "summary": "Former Arsenal midfielder Santi Cazorla retires from playing at the age of 41.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e1n409zzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-02T14:44:56.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3a85070669ce1b",
+      "title": "Trump is avoiding the World Cup because it’s packed with good things he doesn’t like | Barney Ronay",
+      "summary": "For all its gloss and elitist governance, football will not bend to the will of a president so eager to demonise and exclude At 4.38pm on 28 June Donald Trump dropped a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/02/donald-trump-world-cup-fifa",
+      "publishedAt": "2026-07-02T14:31:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "e635fac58fdac4",
+      "title": "Fabrizio Romano reveals Man City decision on £75m Chelsea raid after Enzo Maresca gets involved",
+      "summary": "Fabrizio Romano has disclosed Manchester City’s stance on signing Chelsea star Malo Gusto for £75million in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-manchester-city-malo-gusto-fabrizio-romano-update",
+      "publishedAt": "2026-07-02T14:26:35.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea",
         "Manchester"
       ]
     },
@@ -353,32 +404,17 @@
       ]
     },
     {
-      "id": "c92bbe88179e14",
-      "title": "World Cup Q&A: England reporter Jacob Steinberg answers your questions – live",
-      "summary": "Jacob was in Atlanta last night to witness England’s Harry Kane-led comeback against DR Congo. He is online now answering all your questions about the Three Lions’ chan...",
+      "id": "625031399dad99",
+      "title": "Malik Tillman’s bloody sock game rockets into US World Cup history",
+      "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faith While Malik Tillman was...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-qa-ask-england-reporter-jacob-steinberg-your-questions-now",
-      "publishedAt": "2026-07-02T13:58:50.000Z",
-      "category": "transfer",
+      "url": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup",
+      "publishedAt": "2026-07-02T14:00:01.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "5cc2120019d992",
-      "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
-      "summary": "⚽ All the latest news from day 22 of the tournament ⚽ Bracketology | Knockout stage draw | And email us And I appreciate all this has been forgotten because England won...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live",
-      "publishedAt": "2026-07-02T13:52:22.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     },
     {
@@ -512,7 +548,7 @@
     },
     {
       "id": "920bebddd5f4ef",
-      "title": "Sporting director Hughes set to leave Reds next year",
+      "title": "Sporting director Hughes set to leave Liverpool next year",
       "summary": "Richard Hughes is overseeing Liverpool's current transfer window, but is expected to exit the club next summer.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgd049j753o?at_medium=RSS&at_campaign=rss",
@@ -562,32 +598,6 @@
       "region": "england",
       "tags": [
         "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ef7134f14878e8",
-      "title": "The World Cup's free agents looking for their next move",
-      "summary": "Fourteen players still at the World Cup have no club to return to once the tournament is over.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzleqqvjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T12:44:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "226833a67b6e86",
-      "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
-      "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T12:43:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup"
       ]
     }
