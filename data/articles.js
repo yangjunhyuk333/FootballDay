@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-03T14:19:05.050Z",
+  "generatedAt": "2026-07-03T19:36:14.780Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,131 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "141c9d7ead4870",
-      "title": "Stanway joins Arsenal after Bayern exit",
-      "summary": "Arsenal have signed Lionesses midfielder Georgia Stanway following her exit from Bayern Munich.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13560001/georgia-stanway-arsenal-sign-lionesses-midfielder-after-bayern-munich-departure",
-      "publishedAt": "2026-07-03T14:19:04.669Z",
-      "category": "transfer",
-      "region": "england germany",
+      "id": "dcd85ee990f68c",
+      "title": "World Cup live updates: Own goal draws Australia l...",
+      "summary": "null",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
+      "publishedAt": "2026-07-03T20:25:45.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Arsenal",
-        "Bayern"
+        "World Cup"
       ]
     },
     {
-      "id": "e6d87949fad4b0",
-      "title": "Ronaldo pays tribute to Jota after Portugal's World Cup win over Croatia",
-      "summary": "Ronaldo pays tribute to Jota after Portugal's World Cup win over Croatia",
+      "id": "2d35625cee164e",
+      "title": "How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "publishedAt": "2026-07-03T19:53:51.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1fd8af1229c0f1",
+      "title": "Allegri named new Napoli manager in 3-year deal",
+      "summary": "Serie A runners-up Napoli have officially appointed Massimiliano Allegri as their new head coach.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49258287/napoli-appoint-massimiliano-allegri-new-manager-replaces-antonio-conte",
+      "publishedAt": "2026-07-03T19:48:49.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "499aaf9a2fdec4",
+      "title": "FIFA: Croatia VAR call vs. Portugal was correct",
+      "summary": "FIFA has confirmed that Croatia's equaliser against Portugal was correctly ruled out for offside due to technology housed inside the World Cup ball.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49256422/fifa-var-correctly-denied-croatia-equaliser-portugal",
+      "publishedAt": "2026-07-03T19:48:48.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "0036ea3cb17c42",
+      "title": "Ancelotti: SAF is only manager more qualified",
+      "summary": "Brazil manager Carlo Ancelotti had a reply to social media doubters in Brazil on Friday, saying legendary former Manchester United manager Sir Alex Ferguson is the only...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49260431/brazil-carlo-ancelotti-sir-alex-ferguson-only-manager-more-qualified",
+      "publishedAt": "2026-07-03T19:48:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9d9ba86c776b96",
+      "title": "Nagelsmann out as Germany boss, Klopp lined up",
+      "summary": "Julian Nagelsmann is out as the Germany head coach following the team's shock exit from the World Cup in the round of 32, with talks already being sought with Jürgen Kl...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49225220/julian-nagelsmann-germany-world-cup-2026",
+      "publishedAt": "2026-07-03T19:48:48.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3eaaff58812b5f",
+      "title": "Ronaldo pays 'special' tribute to Jota after WC wi...",
+      "summary": "Cristiano Ronaldo and Portugal paid an emotional tribute to former teammate Diogo Jota after their 2-1 World Cup win over Croatia in Toronto on Thursday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49254330/cristiano-ronaldo-portugal-tribute-diogo-jota-croatia",
+      "publishedAt": "2026-07-03T19:48:48.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "81cb3b47f433c1",
+      "title": "No reds for mouth covering in Champions League",
+      "summary": "Players will not be sent off for covering their mouths when speaking to an opponent in UEFA competitions, the governing body confirmed.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49251814/uefa-wont-send-players-cover-mouth-addressing-opponent",
+      "publishedAt": "2026-07-03T19:48:48.000Z",
+      "category": "ucl",
+      "region": "global",
+      "tags": [
+        "Champions League",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "e76bd9037a6b38",
+      "title": "🤔 Has Brazil really lost its World Cup aura?",
+      "summary": "Brazil used to be synonymous with the World Cup, adored for the way they played as much as for winning more than any other team. Have they lost that magic?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49242526/have-brazil-lost-aura-made-defining-world-cup-team",
+      "publishedAt": "2026-07-03T19:48:48.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e7dd78f153536e",
+      "title": "Can flawless Australia be beaten in Women's T20 World Cup final?",
+      "summary": "Australia booked their place in the Women's T20 World Cup final with a dominant eight-wicket victory to make it six wins out of six at the tournament - and the smart mo...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "publishedAt": "2026-07-03T14:19:04.669Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13559466/icc-womens-t20-world-cup-flawless-australia-favourites-coming-into-final-but-buoyed-england-will-provide-tough-test-at-lords",
+      "publishedAt": "2026-07-03T19:36:14.524Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -131,7 +236,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England will play Australia in the ICC Women's T20 World Cup final in what is set to be a blockbuster event at Lord's on Sunday.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13559738/icc-womens-t20-world-cup-final-teams-favourites-location-start-times-ceremony-as-australia-await-opponents",
-      "publishedAt": "2026-07-03T14:19:04.668Z",
+      "publishedAt": "2026-07-03T19:36:14.524Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -140,28 +245,15 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "7bc983c786f565",
-      "title": "Transfer Centre LIVE!",
-      "summary": "Transfer Centre LIVE!",
+      "title": "Transfer Centre LIVE! Guimaraes, Tchouameni and Tonali latest...",
+      "summary": "Transfer Centre LIVE! Guimaraes, Tchouameni and Tonali latest...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-07-03T14:19:04.668Z",
+      "publishedAt": "2026-07-03T19:36:14.524Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "7a30e149bf8b4b",
-      "title": "Tchouameni and Scott high on Man Utd midfield shortlist",
-      "summary": "Aurelien Tchouameni and Alex Scott remain high on Manchester United's list of midfield targets.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559979/man-utd-transfer-news-aurelien-tchouameni-and-alex-scott-high-on-midfield-shortlist-with-ayyoub-bouaddi-also-of-interest",
-      "publishedAt": "2026-07-03T14:19:04.668Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -170,7 +262,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated",
-      "publishedAt": "2026-07-03T14:19:04.668Z",
+      "publishedAt": "2026-07-03T19:36:14.524Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -178,113 +270,92 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Real Madrid comment on Fernandez transfer links",
-      "summary": "Chelsea latest: Real Madrid comment on Fernandez transfer links",
+      "id": "015841450a25a4",
+      "title": "Xhaka staying at Sunderland despite Chelsea bid",
+      "summary": "Captain Granit Xhaka will be staying at Sunderland, Sky Sports News can exclusively confirm.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-07-03T14:19:04.668Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go? - Summer 2026",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T14:08:46.000Z",
+      "url": "https://www.skysports.com/football/news/12040/13560190/sunderland-transfer-news-granit-xhaka-staying-at-stadium-of-light-after-chelsea-bid-for-black-cats-captain-rejected",
+      "publishedAt": "2026-07-03T19:36:14.523Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Chelsea"
       ]
     },
     {
-      "id": "f185f28e0b81ee",
-      "title": "€100m French winger wants ‘to join Tottenham’ after ‘holding talks in last 24 hours’ – report",
-      "summary": "Tottenham Hotspur have received a huge boost in their quest to sign a French star in the summer transfer window, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-hotspur-bournemouth-eli-junior-kroupi-roberto-de-zerbi-transfer-update",
-      "publishedAt": "2026-07-03T13:57:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "5c45465cafa956",
-      "title": "Director reveals Liverpool ‘offer’ for World Cup star will be ‘considered’",
-      "summary": "A bid from Liverpool for Mainz midfielder Kaishu Sano will be considered this summer, according to the Bundesliga club’s sporting director.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-offer-sano-mainz-will-be-considered",
-      "publishedAt": "2026-07-03T13:55:15.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bundesliga",
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2104c62a06fbe2",
-      "title": "Arsenal agree to Lille’s request with €80m Ayyoub Bouaddi transfer now on",
-      "summary": "Arsenal have made a compromise in their efforts to sign Ayyoub Bouaddi, and with Lille’s request being met, a transfer can now proceed",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-agree-lille-request-e80m-ayyoub-bouaddi-transfer-latest",
-      "publishedAt": "2026-07-03T13:53:44.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "8be8618daf7df7",
-      "title": "Man Utd react after being offered £200,000-a-week Barcelona star for €50m",
-      "summary": "Manchester United have been contacted over a 2026 summer deal for a Barcelona and France international star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jules-kounde-manchester-united-barcelona",
-      "publishedAt": "2026-07-03T13:47:18.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d6981c5ecb5817",
-      "title": "World Cup 2026: Germany hold Klopp talks after Nagelsmann quits; Portugal to face Spain after VAR drama – live",
-      "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Email us Julian Nagelsmann is set to resign as Germany coach , acc...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/03/world-cup-2026-portugal-spain-switzerland-australia-egypt-argentina-cape-verde-colombia-ghana-live",
-      "publishedAt": "2026-07-03T13:39:12.000Z",
+      "id": "95aa87ed2bd54c",
+      "title": "YouTube sensation Dalke within TWO of the lead at BMW International Open!",
+      "summary": "Highlights from the second round of the BMW International Open at the Golfclub Munchen Eichenried in Germany where YouTube star Brad Dalke finds himself in contention f...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13560240/bmw-international-open-second-round-highlights",
+      "publishedAt": "2026-07-03T19:36:14.523Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "8ad167b8c00b20",
+      "title": "YouTuber Brad Dalke in contention for title on DP World Tour debut",
+      "summary": "YouTube golfer Brad Dalke finds himself challenging for the title on his DP World Tour debut at the BMW International Open, sitting two shots off the lead at the halfwa...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13560227/brad-dalke-youtuber-challenging-on-dp-world-tour-debut-as-he-sits-two-shots-off-lead-at-bmw-international-open",
+      "publishedAt": "2026-07-03T19:36:14.520Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "389d722fbf8160",
+      "title": "Australia v Egypt: World Cup 2026 last 32 – live",
+      "summary": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott A message to all Australian fans who have got up early /...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live",
+      "publishedAt": "2026-07-03T19:33:08.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
         "Football",
-        "Soccer",
         "World Cup",
         "Inter"
       ]
     },
     {
-      "id": "dc1b37867dc7b3",
-      "title": "Spygate all over again as England delay Mexico arrival over prying eyes concern – report",
-      "summary": "The Three Lions will reportedly delay their arrival to Mexico City to guard against fears of spying ahead of their World Cup last-16 clash with Mexico at the Azteca Sta...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spygate-all-over-again-as-england-delay-mexico-arrival-over-prying-eyes-concern-report",
-      "publishedAt": "2026-07-03T13:30:31.000Z",
+      "id": "c0ff4e315e0ee3",
+      "title": "How a bad loss to France help reshape Colombia's W...",
+      "summary": "Colombia have won their World Cup group and head into the knockout stage dreaming of a deep run, one that may have been sparked by a humbling defeat to France just mont...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49245153/how-bad-loss-france-help-reshape-colombias-world-cup-campaign",
+      "publishedAt": "2026-07-03T19:28:57.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f6f3f3a8f479d3",
+      "title": "Grades for every team eliminated from the World Cu...",
+      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "publishedAt": "2026-07-03T19:27:49.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c07b2f98b98b1f",
+      "title": "England v Mexico set to move to earlier kick-off time",
+      "summary": "England's World Cup last-16 tie with Mexico could be moved to earlier on Sunday because of the threat of storms.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T19:24:07.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -292,203 +363,69 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "4253949d6361ff",
-      "title": "Arsenal could sign £60m Aston Villa star instead of Rogers as Saliba will sign for Real Madrid",
-      "summary": "Arsenal could look to sign Ezri Konsa from Aston Villa this summer which ‘may impact’ their pursuit of Morgan Rogers, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-konsa-rogers-aston-villa-transfer-saliba-real-madrid",
-      "publishedAt": "2026-07-03T13:21:02.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "755fcf53bc0d77",
-      "title": "Paraguay v France: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 16 clash between Paraguay and France.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/paraguay-v-france-prediction-preview",
-      "publishedAt": "2026-07-03T13:14:08.000Z",
+      "id": "a005c362ef542a",
+      "title": "Get a grip on Mora and take aerial route: what England can do to contain Mexico",
+      "summary": "Thomas Tuchel’s team can tame the co-hosts by slowing things down and isolating Raúl Jiménez One of the question marks over Mexico’s team before this World Cup centred...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/03/tactical-test-what-england-must-do-to-handle-mexicos-threat",
+      "publishedAt": "2026-07-03T19:12:13.000Z",
       "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-03T12:45:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-07-03T12:39:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "109c4ba27accb9",
-      "title": "Man City and Spurs are biggest spenders of the 2026 summer transfer window",
-      "summary": "Three Premier League clubs are at the top of the biggest spenders list for the summer of 2026 with Barcelona playing catch-up.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-07-03T12:36:50.000Z",
-      "category": "transfer",
       "region": "england spain",
       "tags": [
-        "Premier League",
-        "Transfer",
+        "Football",
+        "World Cup",
+        "Chelsea",
         "Barcelona"
       ]
     },
     {
-      "id": "522aad81b4de3b",
-      "title": "Agreed Tottenham signing ‘100% off’ with ‘talks ongoing’ for different deal",
-      "summary": "A fully agreed Tottenham transfer has been confirmed as ‘100 percent off’, and an alternative deal is ‘complicated’ due to the costs involved.",
+      "id": "d6de10f9b5bdab",
+      "title": "Arsenal told ‘insult’ bid for Guimaraes is way below Newcastle price tag",
+      "summary": "Arsenal have been told their bid for Bruno Guimaraes, which was rejected by Newcastle was an “insult” and they are way below where they need to be for him.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/agreed-tottenham-transfer-100-percent-off-talks-ongoing-different-deal",
-      "publishedAt": "2026-07-03T12:20:11.000Z",
+      "url": "https://www.football365.com/news/arsenal-bid-guimaraes-insult-arteta-must-do-more",
+      "publishedAt": "2026-07-03T19:07:09.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Arsenal"
       ]
     },
     {
-      "id": "f3a7bb6ba423a5",
-      "title": "Roma interest in Chelsea star confirmed amid rumours that Alonso wants Garnacho out",
-      "summary": "Roma are interested in signing Chelsea winger Alejandro Garnacho but it won’t impact their move for Mason Greenwood, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-roma-garnacho-move-confirmed-alonso-out",
-      "publishedAt": "2026-07-03T12:19:56.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4f9fbc05809f96",
-      "title": "Tuchel reveals key England starter is playing through ‘terrible pain’ ahead of Mexico showdown",
-      "summary": "The Three Lions face Mexico in the World Cup last 16 in the early hours of Monday morning UK time, and Tuchel is confident a top star will be fit ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/thomas-tuchel-reveals-declan-rice-playing-through-terrible-pain-england-mexico",
-      "publishedAt": "2026-07-03T12:06:19.000Z",
+      "id": "dfa94913ad14bb",
+      "title": "England’s game against Mexico could be moved to noon local time, 7pm UK time Sunday",
+      "summary": "Game originally set to kick off at 6pm local time Could be rescheduled due to risk of thunderstorms Fifa is in discussions over moving the kick-off time of Mexico v Eng...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-match-timing",
+      "publishedAt": "2026-07-03T18:59:25.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "577c3c80143d8f",
-      "title": "Chelsea and Xabi Alonso involved in ‘real tug-of-war’ over ‘essential’ £25m star",
-      "summary": "Chelsea owners BlueCo and Xabi Alonso do not see eye-to-eye over a midfielder that the former Real Madrid manager wants to sign.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-xabi-alonso-blueco-granit-xhaka",
-      "publishedAt": "2026-07-03T11:46:55.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "40bd4de84ecbf0",
-      "title": "Colombia v Ghana: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 32 clash between Colombia and Ghana.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/colombia-v-ghana-prediction-preview",
-      "publishedAt": "2026-07-03T11:41:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "38faf6bb3c0aef",
-      "title": "England fan tickets for Mexico on resale for up to £26K",
-      "summary": "Tickets originally bought by England fans for Monday's last 16 game against Mexico are relisted for thousands of pounds on Fifa's official resale portal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T11:36:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
+        "Football",
+        "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "196dc8a72c75fd",
-      "title": "Ranking England’s largely depressing options to start at right-back against Mexico",
-      "summary": "England are going to have to play a World Cup last-16 game against Mexico at the Azteca. And they’re going to need a right-back. But who?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ranking-englands-largely-depressing-options-to-start-at-right-back-against-mexico",
-      "publishedAt": "2026-07-03T11:20:16.000Z",
+      "id": "7e08bfe24b3a14",
+      "title": "Welcome to Pete's Garden: Messi, Argentina's World...",
+      "summary": "Pete's Garden, a nonprofit organization in Kansas City, is dedicated to minimizing food waste at the World Cup and helping families in need.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49242532/world-cup-2026-kansas-city-petes-garden-food-distribution-argentina-lionel-messi",
+      "publishedAt": "2026-07-03T18:57:07.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "e59bf806ee433b",
-      "title": "Ronaldo and Portugal kept in World Cup by mysterious ‘technology nobody knew about’",
-      "summary": "Cristiano Ronaldo and Portugal remain in the World Cup thanks to use of a mysterious ‘technology nobody knew about’ against Croatia.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ronaldo-portugal-world-cup-mysterious-technology",
-      "publishedAt": "2026-07-03T11:18:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "262c74fb747680",
-      "title": "Norway have finally lived up to World Cup billing – a reunion with Brazil is perfect timing | Lars Sivertsen",
-      "summary": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998 For a country of 5.6 million people, Norway’s list of co...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/03/norway-have-finally-lived-up-to-world-cup-billing-a-reunion-with-brazil-is-perfect-timing",
-      "publishedAt": "2026-07-03T11:12:57.000Z",
-      "category": "worldcup",
-      "region": "italy france",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "7ef59c3cedb82e",
-      "title": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
-      "summary": "Lionel Messi versus Vozinha. It is the World Cup battle no-one knew they wanted, but which fans now cannot wait to see.",
+      "id": "6eb43f74473f0b",
+      "title": "Ashour heads Egypt into lead against Australia",
+      "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T11:01:01.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T18:32:23.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -496,97 +433,152 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6d6a902586b362",
-      "title": "'You can't breathe' - what is it like playing at altitude?",
-      "summary": "BBC pundits Rachel Corsie and Lucas Leiva explain their experiences of playing football at altitude, ahead of England's game at Estadio Azteca against Mexico which sits...",
+      "id": "e2b830495b9d00",
+      "title": "Xhaka set to stay at Sunderland despite Chelsea interest",
+      "summary": "Sunderland captain Granit Xhaka is set to stay at the club this summer, despite interest from Chelsea.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T10:49:32.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz8jj0g50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T18:11:14.000Z",
       "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "90e9b30992ecbb",
-      "title": "Family ties and focus: Lamine Yamal carries burden of Spain’s World Cup dream",
-      "summary": "The 18-year-old is leading a nation’s effort to win a second title – to the delight of his three-year-old brother No one celebrated Spain’s last-32 win quite like Keyne...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/03/lamine-yamal-spain-world-cup-brother-keyne",
-      "publishedAt": "2026-07-03T10:43:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "944ed6ab858d99",
-      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T10:39:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "07254ba8434234",
-      "title": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
-      "summary": "Anthony Elanga and Yoane Wissa both struggled in their first season at Newcastle, but five goals between at the World Cup them suggest things will be different next term.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T10:23:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a1ec1326edd33e",
-      "title": "Germany want Klopp talks as Nagelsmann resigns",
-      "summary": "The German football association is seeking talks with Jurgen Klopp about becoming their men's national team coach after Julian Nagelsmann resigned.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T10:17:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "bae94d3515155a",
-      "title": "Liverpool make shock decision on Virgil van Dijk future – top source",
-      "summary": "Liverpool could be about to make a monumental mistake regarding the future of the Netherlands international central defender.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-willing-to-sell-virgil-van-dijk-2026-summer",
-      "publishedAt": "2026-07-03T10:08:51.000Z",
-      "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Liverpool",
+        "Chelsea",
         "Inter"
       ]
     },
     {
-      "id": "aa17103e8f5669",
-      "title": "England must go low against Mexico to hit heights with Total Arsenalball",
-      "summary": "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the low block If any win will do then England do not have to worry abou...",
+      "id": "4b2ffde4e98386",
+      "title": "My Mexico 1986 memories of Maradona, the Azteca and a commentary faux pas | David Pleat",
+      "summary": "Working at the 1986 World Cup match was unforgettable thanks to the most controversial goal in history and then the best I have seen live When I took my first televisio...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/03/total-arsenalball-england-low-block-mexico-azteca",
-      "publishedAt": "2026-07-03T10:00:26.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-world-cup-2026-azteca-stadium-diego-maradona-argentina",
+      "publishedAt": "2026-07-03T18:00:35.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
-        "World Cup",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6f2a175e9d8df1",
+      "title": "Odds to win the World Cup: Spain odds shorten afte...",
+      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "publishedAt": "2026-07-03T17:34:57.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "75ff061d9d194e",
+      "title": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland",
+      "summary": "Chelsea and Manchester United also interested in winger Real Madrid issue statement denying Fernández contact Fulham have joined the race to sign Crysencio Summerville...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville",
+      "publishedAt": "2026-07-03T17:18:07.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "37b51a17d05883",
+      "title": "The friends who drove from Ghana to the World Cup",
+      "summary": "Six fans of the Black Stars are living proof of how football can drive supporters to extreme lengths to follow their team.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgmz5jnr37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T17:11:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cbe2599a5d77eb",
+      "title": "Canada v Morocco: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup round of 16 clash between Canada and Morocco.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/canada-v-morocco-prediction-preview",
+      "publishedAt": "2026-07-03T16:57:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4ec6cdaf5fb577",
+      "title": "Man City's Ake in talks over £7m Fenerbahce move",
+      "summary": "Manchester City are in talks with Fenerbahce over a £7m deal for Netherlands defender Nathan Ake.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T16:54:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "104ca6212f9a8e",
+      "title": "Can the U.S. win without Balogun? One big question...",
+      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win withou...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+      "publishedAt": "2026-07-03T16:38:30.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "543f58c9147aa9",
+      "title": "Onana loan exit confirmed and Rashford may need to follow for new signing",
+      "summary": "Manchester United and Trabzonspor have confirmed that goalkeeper Andre Onana has rejoined the Turkish club on another season-long loan, while the future of Marcus Rashf...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-onana-exit-confirmed-rashford-next",
+      "publishedAt": "2026-07-03T16:06:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6985fc7509c887",
+      "title": "How to turn BBC Sport alerts on or off for England v Mexico",
+      "summary": "Find out how to turn BBC Sport alerts off (or on!) for England's World Cup last-16 match against Mexico.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wv22v93zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T15:35:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c8024eb341b5c9",
+      "title": "Football Daily | Time waits for no man, nor Cristiano Ronaldo’s football legacy",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before Football Daily’s inbox is flooded by an angry reader with fingers busier than Arsenal fans at a Viktor Gyökor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/03/football-daily-gwc-cristiano-ronaldo-portugal",
+      "publishedAt": "2026-07-03T14:44:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
         "Arsenal"
       ]
     }
