@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-04T13:43:28.142Z",
+  "generatedAt": "2026-07-04T19:21:00.885Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,52 +99,38 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Listen: Sportsound with Levein, McLeish, Halliday, Lennon, Neilson & Naysmith",
-      "summary": "All the World Cup and domestic football news. Who's next for the Scotland manager job?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T16:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "id": "337f2a2cf4350d",
+      "title": "'This is a MELTDOWN' | Dean's awful putt ends up in the water!",
+      "summary": "Joe Dean was looking for somewhere to hide after he incredibly putted into the water on the 18th green at the BMW International Open.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13560444/this-is-a-meltdown-joe-deans-awful-putt-ends-up-in-the-water",
+      "publishedAt": "2026-07-04T19:21:00.439Z",
+      "category": "transfer",
+      "region": "italy",
       "tags": [
-        "Football",
-        "World Cup"
+        "Inter"
       ]
     },
     {
-      "id": "5b957b36e02def",
-      "title": "Mexico will come out swinging as Tuchel faces more selection headaches",
-      "summary": "England will face their biggest test of the World Cup so far when they take on Mexico at the Azteca Stadium.",
+      "id": "b05192eac9efbf",
+      "title": "Andy Burnham reveals the PL manager who inspires his leadership",
+      "summary": "Andy Burnham has revealed the Premier League manager who inspires his leadership, while enjoying the Super League Magic Weekend at the Hill Dickinson Arena.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13560378/mexico-vs-england-world-cup-last-16-thomas-tuchel-faces-another-right-back-dilemma-as-azteca-awaits",
-      "publishedAt": "2026-07-04T13:43:27.791Z",
-      "category": "worldcup",
+      "url": "https://www.skysports.com/watch/video/13560454/andy-burnham-reveals-the-premier-league-manager-who-inspires-his-leadership",
+      "publishedAt": "2026-07-04T19:21:00.439Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Premier League"
       ]
     },
     {
-      "id": "8f16b426795824",
-      "title": "Watch Women's T20 World Cup final for FREE on Sky Sports App and skysports.com",
-      "summary": "Everyone can stream the ICC Women's T20 World Cup final live for FREE on the Sky Sports App and skysports.com.",
+      "id": "3f99ad4945b049",
+      "title": "England kick-off chaos: What really happened and how storms could delay the game",
+      "summary": "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs England in the World Cup last 16 was when Mexican journalists started a...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
-      "publishedAt": "2026-07-04T13:43:27.790Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f99dd900c7b3d7",
-      "title": "England arrive in Mexico under heavy security",
-      "summary": "Watch England's World Cup squad arrive in Mexico City ahead of their last 16 tie against Mexico.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13560344/world-cup-england-arrive-in-mexico-under-heavy-security",
-      "publishedAt": "2026-07-04T13:43:27.790Z",
+      "url": "https://www.skysports.com/football/news/12040/13560485/world-cup-2026-england-kick-off-chaos-explained-and-how-storms-hitting-mexico-could-delay-the-last-16-tie",
+      "publishedAt": "2026-07-04T19:21:00.438Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -152,25 +138,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a835825207b4bf",
-      "title": "Stream ICC Women's T20 World Cup final FREE on Sky Sports App & skysports.com",
-      "summary": "Stream ICC Women's T20 World Cup final FREE on Sky Sports App & skysports.com",
+      "id": "16a26115831f6d",
+      "title": "England take T20I series lead vs India after Bethell batting brilliance!",
+      "summary": "Highlights from the second T20 international between England and India at Old Trafford, Manchester.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13560358/watch-womens-t20-world-cup-final-between-england-and-australia-for-free-on-skysports-com-and-sky-sports-app",
-      "publishedAt": "2026-07-04T13:43:27.790Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "725eb81ae207bf",
-      "title": "Scorecard: England vs India, second T20I",
-      "summary": "Latest score from the second T20 international of the five-match series between England and India at Old Trafford in Manchester. Watch on Sky Sports Cricket.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-v-india/scorecard/d0711f3a-990b-56ae-bb1e-dc68f31d8355",
-      "publishedAt": "2026-07-04T13:43:27.789Z",
+      "url": "https://www.skysports.com/watch/video/13560467/england-vs-india-2nd-t20i-highlights",
+      "publishedAt": "2026-07-04T19:21:00.438Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -179,12 +152,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "2fea56aa8b0e9c",
-      "title": "Carra: Tuchel's created right-back problem with 'bizarre decision'",
-      "summary": "Jamie Carragher believes England boss Thomas Tuchel is to blame for his side's right-back issue at the World Cup.",
+      "id": "b56856e8cca080",
+      "title": "Bethell blasts England to victory to spoil Sooryavanshi's historic debut",
+      "summary": "Jacob Bethell fired an unbeaten 76 off 46 balls as England beat India by four wickets in the second T20I at Old Trafford, spoiling Vaibhav Sooryavanshi's international...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13560384/england-boss-thomas-tuchel-has-created-world-cup-right-back-problem-ahead-of-mexico-last-16-game-says-jamie-carragher",
-      "publishedAt": "2026-07-04T13:43:27.789Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13560414/england-spoil-vaibhav-sooryavanshis-debut-as-jacob-bethell-fires-hosts-to-four-wicket-win-over-india-in-second-t20i",
+      "publishedAt": "2026-07-04T19:21:00.437Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "21db6f299ea43d",
+      "title": "Ounahi gives Morocco the lead against Canada",
+      "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T19:04:56.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -192,18 +179,139 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "7ba4c127796bb5",
-      "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina – live",
-      "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Mail us Australia lost to Egypt on penalties in one of the more di...",
+      "id": "17834ba5cea30f",
+      "title": "World Cup 2026: Canada crash out as Ounahi double sends Morocco into last eight – live reaction",
+      "summary": "⚽️ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Scott The prize on offer today is a quarter-final against eit...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
-      "publishedAt": "2026-07-04T13:30:36.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jul/04/canada-v-morocco-world-cup-2026-last-16-live",
+      "publishedAt": "2026-07-04T19:04:32.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal overtaken by unlikely Prem pair again",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are obviously behind Crystal Palace and Sunderland now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-04T18:50:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a756c8c447506c",
+      "title": "Fit and firing Harry Kane is leading England by example on World Cup mission",
+      "summary": "The England captain is feeling fitter than ever but warns his team may have to ‘grind it out’ against Mexico Nobody is more qualified than Thierry Henry to talk about f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/04/harry-kane-leading-england-world-cup-mexico",
+      "publishedAt": "2026-07-04T18:00:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "72697c5f152dd2",
+      "title": "Listen: Sportsound with Lennon, Levein & Neilson",
+      "summary": "All the news from the World Cup plus Neil Lennon, Robbie Neilson, Craig McLeish and more",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nwwwr8?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T16:41:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "142a1c725a53e1",
+      "title": "Arsenal get green light to sign superstar winger after Leandro Trossard sale agreed",
+      "summary": "Arsenal have agreed to sell Leandro Trossard to Besiktas, with a report revealing the two superstar wingers Andrea Berta will choose from as his replacement.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-green-light-sign-morgan-rogers-bradley-barcola-leandro-trossard-besiktas-sale-agreed",
+      "publishedAt": "2026-07-04T16:24:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4ec6cdaf5fb577",
+      "title": "Fenerbahce complete deal to sign Ake from Man City",
+      "summary": "Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T15:04:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b413551d37e94c",
+      "title": "Football Daily | Argentina advance. But for Cape Verde, they’ll always have for ever",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! They couldn’t, could they? They almost did. Fair play, Gianni Infantino, adding an extra knockout round has proved a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/04/football-daily-email-gwc-cape-verde-argentina",
+      "publishedAt": "2026-07-04T14:29:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "10cd3cfe8664fd",
+      "title": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi",
+      "summary": "After lighting up the 2022 World Cup Morocco are once again shining on the global stage - but this time they have teenage sensation Ayyoub Bouaddi in their ranks.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c802jp3lz13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T14:22:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b3479a3a5f3068",
+      "title": "Liverpool journalist reveals Andoni Iraola stance on selling Virgil van Dijk after FSG plan emerges",
+      "summary": "Liverpool manager Andoni Iraola’s stance on selling star defender Virgil van Dijk in the summer transfer window emerges.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-journalist-reveals-andoni-iraola-stance-on-selling-virgil-van-dijk-after-fsg-plan-emerges",
+      "publishedAt": "2026-07-04T14:17:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7f7bdbe998b0d7",
+      "title": "Alonso ‘convinces’ dream Man Utd target to sign for Chelsea in huge Carrick blow",
+      "summary": "New Chelsea head coach Xabi Alonso has managed to convince top Man Utd target Aurelien Tchouameni to sign for the Blues, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-alonso-convinces-tchouameni-dream-man-utd-target-carrick-blow",
+      "publishedAt": "2026-07-04T14:01:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
       ]
     },
     {
@@ -479,114 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "63a121d3d4d09c",
-      "title": "Survival is key for England in epic test or it will be a Mexican wave goodbye",
-      "summary": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not process Nausea, cramps, shortness of br...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/04/england-survival-mexico-world-cup-2026-thomas-tuchel",
-      "publishedAt": "2026-07-04T07:00:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d356c721a986e5",
-      "title": "‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners",
-      "summary": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe again Brazil arrived at the World Cup with several open wounds....",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/04/brazil-carlo-ancelotti-world-cup",
-      "publishedAt": "2026-07-04T07:00:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "709810668cd3f8",
-      "title": "Tottenham receive official offer for £60m star after he was tipped to be ‘collateral damage’",
-      "summary": "Tottenham have received an offer from a Turkish giant to take Richarlison off their hands in the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-official-offer-richarlison-collateral-damage",
-      "publishedAt": "2026-07-04T06:48:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "dac53e2ecee6d9",
-      "title": "The biggest non-World Cup transfer in every World Cup year since 1966",
-      "summary": "Nothing inflates transfer fees and hype around a signing like a good World Cup, but those players won’t be the only big movers each year.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-non-world-cup-transfer-every-world-cup-year",
-      "publishedAt": "2026-07-04T06:16:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "d9b631a1b44737",
-      "title": "The Azteca: a classic stadium reimagined for the modern world",
-      "summary": "The Azteca has undergone a modern transformation which will make it iconic but unrecognisable for England against Mexico at the World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/the-azteca-classic-stadium-reimagined-for-the-modern-world",
-      "publishedAt": "2026-07-04T06:16:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ccffb1a1a76b81",
-      "title": "Who am I? Guess World Cup star No 27",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrk3l4d90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T06:06:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9442b289410e33",
-      "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
-      "summary": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T05:37:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: England drop after limping past DR Congo as Azteca awaits",
-      "summary": "The first knockout round of the World Cup is over, and we’re now barrelling into the last 16 with chaotic drama everywhere you look…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-07-04T03:56:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup"
       ]
     }
