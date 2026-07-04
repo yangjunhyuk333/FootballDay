@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-03T19:36:14.780Z",
+  "generatedAt": "2026-07-04T03:34:57.748Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,183 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "dcd85ee990f68c",
-      "title": "World Cup live updates: Own goal draws Australia l...",
-      "summary": "null",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
-      "publishedAt": "2026-07-03T20:25:45.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2d35625cee164e",
-      "title": "How will the USMNT cope without suspended star str...",
-      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
-      "publishedAt": "2026-07-03T19:53:51.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1fd8af1229c0f1",
-      "title": "Allegri named new Napoli manager in 3-year deal",
-      "summary": "Serie A runners-up Napoli have officially appointed Massimiliano Allegri as their new head coach.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49258287/napoli-appoint-massimiliano-allegri-new-manager-replaces-antonio-conte",
-      "publishedAt": "2026-07-03T19:48:49.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A"
-      ]
-    },
-    {
-      "id": "499aaf9a2fdec4",
-      "title": "FIFA: Croatia VAR call vs. Portugal was correct",
-      "summary": "FIFA has confirmed that Croatia's equaliser against Portugal was correctly ruled out for offside due to technology housed inside the World Cup ball.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49256422/fifa-var-correctly-denied-croatia-equaliser-portugal",
-      "publishedAt": "2026-07-03T19:48:48.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "0036ea3cb17c42",
-      "title": "Ancelotti: SAF is only manager more qualified",
-      "summary": "Brazil manager Carlo Ancelotti had a reply to social media doubters in Brazil on Friday, saying legendary former Manchester United manager Sir Alex Ferguson is the only...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49260431/brazil-carlo-ancelotti-sir-alex-ferguson-only-manager-more-qualified",
-      "publishedAt": "2026-07-03T19:48:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9d9ba86c776b96",
-      "title": "Nagelsmann out as Germany boss, Klopp lined up",
-      "summary": "Julian Nagelsmann is out as the Germany head coach following the team's shock exit from the World Cup in the round of 32, with talks already being sought with Jürgen Kl...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49225220/julian-nagelsmann-germany-world-cup-2026",
-      "publishedAt": "2026-07-03T19:48:48.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3eaaff58812b5f",
-      "title": "Ronaldo pays 'special' tribute to Jota after WC wi...",
-      "summary": "Cristiano Ronaldo and Portugal paid an emotional tribute to former teammate Diogo Jota after their 2-1 World Cup win over Croatia in Toronto on Thursday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49254330/cristiano-ronaldo-portugal-tribute-diogo-jota-croatia",
-      "publishedAt": "2026-07-03T19:48:48.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "81cb3b47f433c1",
-      "title": "No reds for mouth covering in Champions League",
-      "summary": "Players will not be sent off for covering their mouths when speaking to an opponent in UEFA competitions, the governing body confirmed.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49251814/uefa-wont-send-players-cover-mouth-addressing-opponent",
-      "publishedAt": "2026-07-03T19:48:48.000Z",
-      "category": "ucl",
-      "region": "global",
-      "tags": [
-        "Champions League",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "e76bd9037a6b38",
-      "title": "🤔 Has Brazil really lost its World Cup aura?",
-      "summary": "Brazil used to be synonymous with the World Cup, adored for the way they played as much as for winning more than any other team. Have they lost that magic?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49242526/have-brazil-lost-aura-made-defining-world-cup-team",
-      "publishedAt": "2026-07-03T19:48:48.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e7dd78f153536e",
-      "title": "Can flawless Australia be beaten in Women's T20 World Cup final?",
-      "summary": "Australia booked their place in the Women's T20 World Cup final with a dominant eight-wicket victory to make it six wins out of six at the tournament - and the smart mo...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13559466/icc-womens-t20-world-cup-flawless-australia-favourites-coming-into-final-but-buoyed-england-will-provide-tough-test-at-lords",
-      "publishedAt": "2026-07-03T19:36:14.524Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2636dc1a436f63",
-      "title": "Music acts, start times announced for ICC Women's T20 World Cup final",
-      "summary": "England will play Australia in the ICC Women's T20 World Cup final in what is set to be a blockbuster event at Lord's on Sunday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13559738/icc-womens-t20-world-cup-final-teams-favourites-location-start-times-ceremony-as-australia-await-opponents",
-      "publishedAt": "2026-07-03T19:36:14.524Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7bc983c786f565",
-      "title": "Transfer Centre LIVE! Guimaraes, Tchouameni and Tonali latest...",
-      "summary": "Transfer Centre LIVE! Guimaraes, Tchouameni and Tonali latest...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-07-03T19:36:14.524Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "c66b92a77b3fe8",
-      "title": "Stones to start? Rice at right-back? England XIs to face Mexico",
-      "summary": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated",
-      "publishedAt": "2026-07-03T19:36:14.524Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "015841450a25a4",
       "title": "Xhaka staying at Sunderland despite Chelsea bid",
       "summary": "Captain Granit Xhaka will be staying at Sunderland, Sky Sports News can exclusively confirm.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13560190/sunderland-transfer-news-granit-xhaka-staying-at-stadium-of-light-after-chelsea-bid-for-black-cats-captain-rejected",
-      "publishedAt": "2026-07-03T19:36:14.523Z",
+      "publishedAt": "2026-07-04T03:34:57.280Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -288,11 +117,64 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Highlights from the second round of the BMW International Open at the Golfclub Munchen Eichenried in Germany where YouTube star Brad Dalke finds himself in contention f...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13560240/bmw-international-open-second-round-highlights",
-      "publishedAt": "2026-07-03T19:36:14.523Z",
+      "publishedAt": "2026-07-04T03:34:57.280Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "806dc81c01f16f",
+      "title": "Argentina avoid biggest World Cup upset with extra-time win vs Cape Verde",
+      "summary": "Argentina avoided the biggest upset in World Cup history after Diney Borges' own-goal in extra-time rescued a 3-2 win over Cape Verde to book their place in the last 16...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/argentina-vs-cape-verde/report/549852",
+      "publishedAt": "2026-07-04T03:34:57.278Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d72c0d679509e5",
+      "title": "England vs Mexico WILL kick-off at 1am Monday",
+      "summary": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
+      "publishedAt": "2026-07-04T03:34:57.278Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7d718b9512043d",
+      "title": "Papers: Fulham join Chelsea, Man Utd in race for Summerville",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13560285/fulham-join-chelsea-and-man-utd-in-race-for-west-ham-winger-crysencio-summerville-paper-talk",
+      "publishedAt": "2026-07-04T03:34:57.278Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "97d7dcb8a77f69",
+      "title": "Egypt eliminate Australia from World Cup after penalty shoot-out drama",
+      "summary": "Egypt are into the last 16 of the World Cup after beating Australia in a dramatic penalty shoot-out in Dallas.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/australia-vs-egypt/report/549851",
+      "publishedAt": "2026-07-04T03:34:57.278Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -301,7 +183,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "YouTube golfer Brad Dalke finds himself challenging for the title on his DP World Tour debut at the BMW International Open, sitting two shots off the lead at the halfwa...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13560227/brad-dalke-youtuber-challenging-on-dp-world-tour-debut-as-he-sits-two-shots-off-lead-at-bmw-international-open",
-      "publishedAt": "2026-07-03T19:36:14.520Z",
+      "publishedAt": "2026-07-04T03:34:57.278Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -309,12 +191,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "389d722fbf8160",
-      "title": "Australia v Egypt: World Cup 2026 last 32 – live",
-      "summary": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott A message to all Australian fans who have got up early /...",
+      "id": "448d69e725f9c9",
+      "title": "Colombia v Ghana: World Cup 2026 last 32 – live",
+      "summary": "⚽️ Kick-off time: 8.30pm local/9.30pm EDT/2.30am BST/1.30pm AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Beau First email of the session, from someone just...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live",
-      "publishedAt": "2026-07-03T19:33:08.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live",
+      "publishedAt": "2026-07-04T03:20:33.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -324,42 +206,316 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c0ff4e315e0ee3",
-      "title": "How a bad loss to France help reshape Colombia's W...",
-      "summary": "Colombia have won their World Cup group and head into the knockout stage dreaming of a deep run, one that may have been sparked by a humbling defeat to France just mont...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49245153/how-bad-loss-france-help-reshape-colombias-world-cup-campaign",
-      "publishedAt": "2026-07-03T19:28:57.000Z",
+      "id": "a2ed926ddc558e",
+      "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
+      "summary": "Cape Verde may have been the World Cup's smallest nation but they leave the largest impact as they depart following defeat by defending champions Argentina in an epic.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T03:09:37.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "f6f3f3a8f479d3",
-      "title": "Grades for every team eliminated from the World Cu...",
-      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "publishedAt": "2026-07-03T19:27:49.000Z",
+      "id": "1fc22fb213b13d",
+      "title": "Messi restricted to a bit-part as Cape Verde fairytale almost becomes Argentina horror story",
+      "summary": "Whatever story Lionel Messi writes at these finals, the Argentina star was only a supporting act in the fairy tale of this World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-argentina-3-2-cape-verde-cabral-best-goal-vozinha-messi",
+      "publishedAt": "2026-07-04T02:26:19.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal overtaken by unlikely Prem pair again",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are obviously behind Crystal Palace and Sunderland now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-04T02:08:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3ab723708646ad",
+      "title": "Five and a half hours that left England's World Cup tie in chaos",
+      "summary": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport tells how a story of confusi...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T01:36:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "e80cf3279ee876",
+      "title": "Cape Verde threaten shock for the ages before Argentina break hearts in World Cup classic",
+      "summary": "What a game, what a series of moments, what a display of spirit and skill from Cape Verde, a tiny island nation with a far-flung diaspora team, who took Argentina right...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report",
+      "publishedAt": "2026-07-04T01:06:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "959993a836380a",
+      "title": "Martinez restores Argentina's lead against Cape Verde",
+      "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy8exgyd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T00:48:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "92a109f85da15c",
+      "title": "Argentina stunned as Duarte equalises for Cape Verde",
+      "summary": "Deroy Duarte stuns Argentina as he equalises for Cape Verde during their World Cup round of 32 match in Miami.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly8p49l2vwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T00:45:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6dbd053e5b1446",
+      "title": "'Sensational' Messi finish gives Argentina the lead",
+      "summary": "Lionel Messi hits Argentina's opening goal against Cape Verde with a \"sensational\" finish in Miami, as he scores in an eighth consecutive World Cup game.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yz02je4n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T00:44:21.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "World Cup"
       ]
     },
     {
       "id": "c07b2f98b98b1f",
-      "title": "England v Mexico set to move to earlier kick-off time",
-      "summary": "England's World Cup last-16 tie with Mexico could be moved to earlier on Sunday because of the threat of storms.",
+      "title": "England-Mexico kick-off unchanged after Fifa U-turn",
+      "summary": "England's World Cup last-16 tie against Mexico will kick off as scheduled at 01:00 BST on Monday.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T19:24:07.000Z",
+      "publishedAt": "2026-07-04T00:16:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "dfa94913ad14bb",
+      "title": "England’s game against Mexico to stay at 1am UK kick-off after day of chaos",
+      "summary": "Fifa held discussions about game kicking off earlier Risk of thunderstorms in Mexico had caused concern England have avoided the prospect of their World Cup match again...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-match-timing",
+      "publishedAt": "2026-07-03T23:26:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9b550acdea93f3",
+      "title": "England v Mexico kick-off remains unchanged amid FIFA farce",
+      "summary": "England will face Mexico at the scheduled time of 1am BST after FIFA considered bringing the game forward amid the threat of storms.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-mexico-earlier-kick-off-fa-clarification",
+      "publishedAt": "2026-07-03T22:55:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "0378c7d7b408ee",
+      "title": "Rice likely to be available for England v Mexico",
+      "summary": "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ongoing injury issue.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crm0pnnldeyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T22:02:50.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "9da28120a28806",
+      "title": "Watch the full shootout as Egypt hold nerve to make World Cup last 16",
+      "summary": "Egypt defeat Australia on penalties to claim their first ever win in the World Cup knockout stage, and make it through to the last 16.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yz8gqpdddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T21:54:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd’s dwindling midfield options take them to Real Madrid",
+      "summary": "Manchester United are linked with a Real Madrid midfielder but there are two obstacles in their way, while Ayyoub Bouaddi continues to attract interest…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-03T21:50:01.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "4e70aac6b006a8",
+      "title": "Thomas Tuchel avoided certain sack against Congo as England future revealed",
+      "summary": "Thomas Tuchel would almost certainly have been sacked had England lost to DR Congo in the World Cup round of 32, as his future beyond the tournament has now been ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thomas-tuchel-avoided-certain-sack-congo-england-future",
+      "publishedAt": "2026-07-03T21:48:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ee70f8af0a30e0",
+      "title": "Egypt into last 16 after shootout victory against Australia",
+      "summary": "Egypt defeated Australia on penalties to claim their first ever win in the World Cup knockout stage and set up a last-16 tie with either Argentina or Cape Verde.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czde25nmq6no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T21:45:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2b1bdde989aec0",
+      "title": "Top 10 available managers: Nagelsmann joins Guardiola and Slot",
+      "summary": "Xavi fancies a Premier League job but his conditions appear…unrealistic. Some managers are only on here for now…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-10-available-football-managers-coaches",
+      "publishedAt": "2026-07-03T21:30:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e49248f37f2d79",
+      "title": "'History for the Pharaohs' - Egypt celebrate after winning shootout",
+      "summary": "Egypt celebrate as they win a World Cup knockout match for the first time after beating Australia 4-2 on penalties in Dallas to reach the last 16.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c621r4e4xpjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T21:27:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cf28a5a3e835ae",
+      "title": "Rogers believes earlier start ‘better’ for England against Mexico with Three Lions ‘ready’",
+      "summary": "England playmaker Morgan Rogers feels the World Cup round of 16 game against Mexico being brought forward is “better” for the side, who are “ready” regardless.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-mexico-rogers-believes-earlier-start-better-three-lions-ready",
+      "publishedAt": "2026-07-03T21:18:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ffa85d9a80b9fd",
+      "title": "Australia screw up shootout as Egypt ease into World Cup last 16",
+      "summary": "Australia tried to get in Egypt’s heads before their penalty shoot-out after a 1-1 draw but their ploy failed miserably…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/australia-screw-up-shootout-as-egypt-ease-into-world-cup-last-16",
+      "publishedAt": "2026-07-03T21:08:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a8d1bd03e93d57",
+      "title": "Egypt reach World Cup last 16 in shootout as Australia’s goalkeeper gamble backfires",
+      "summary": "Hossam Abdelmaguid puffed out his cheeks, began his run up with exaggerated slowness, checked and then, as Mat Ryan fell to his left, put the ball to his right. Harry S...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report",
+      "publishedAt": "2026-07-03T21:03:29.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d7bffbcad44749",
+      "title": "Liverpool open to Van Dijk offers - Saturday's gossip",
+      "summary": "Virgil van Dijk's Liverpool future appears a little uncertain with the club prepared to listen to offers for him, Fulham keen on West Ham winger Crysencio Summerville w...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx59xrgnppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T21:01:04.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Liverpool",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "e8ccb1292a33a4",
+      "title": "Chelsea sign Japan midfielder Matsukubo",
+      "summary": "Chelsea sign Japan international Manaka Matsukubo on a five-year contract from North Carolina Courage.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry2g0d579o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T19:58:13.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
       ]
     },
     {
@@ -389,34 +545,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "dfa94913ad14bb",
-      "title": "England’s game against Mexico could be moved to noon local time, 7pm UK time Sunday",
-      "summary": "Game originally set to kick off at 6pm local time Could be rescheduled due to risk of thunderstorms Fifa is in discussions over moving the kick-off time of Mexico v Eng...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-match-timing",
-      "publishedAt": "2026-07-03T18:59:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "7e08bfe24b3a14",
-      "title": "Welcome to Pete's Garden: Messi, Argentina's World...",
-      "summary": "Pete's Garden, a nonprofit organization in Kansas City, is dedicated to minimizing food waste at the World Cup and helping families in need.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49242532/world-cup-2026-kansas-city-petes-garden-food-distribution-argentina-lionel-messi",
-      "publishedAt": "2026-07-03T18:57:07.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -458,128 +586,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "6f2a175e9d8df1",
-      "title": "Odds to win the World Cup: Spain odds shorten afte...",
-      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "publishedAt": "2026-07-03T17:34:57.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "75ff061d9d194e",
-      "title": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland",
-      "summary": "Chelsea and Manchester United also interested in winger Real Madrid issue statement denying Fernández contact Fulham have joined the race to sign Crysencio Summerville...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville",
-      "publishedAt": "2026-07-03T17:18:07.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "37b51a17d05883",
-      "title": "The friends who drove from Ghana to the World Cup",
-      "summary": "Six fans of the Black Stars are living proof of how football can drive supporters to extreme lengths to follow their team.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgmz5jnr37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T17:11:22.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cbe2599a5d77eb",
-      "title": "Canada v Morocco: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 16 clash between Canada and Morocco.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/canada-v-morocco-prediction-preview",
-      "publishedAt": "2026-07-03T16:57:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4ec6cdaf5fb577",
-      "title": "Man City's Ake in talks over £7m Fenerbahce move",
-      "summary": "Manchester City are in talks with Fenerbahce over a £7m deal for Netherlands defender Nathan Ake.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T16:54:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "104ca6212f9a8e",
-      "title": "Can the U.S. win without Balogun? One big question...",
-      "summary": "As this week sees the World Cup field cut from 32 to 16, we're wondering what the biggest issue is for each team still in the tournament -- like can the U.S. win withou...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-      "publishedAt": "2026-07-03T16:38:30.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "543f58c9147aa9",
-      "title": "Onana loan exit confirmed and Rashford may need to follow for new signing",
-      "summary": "Manchester United and Trabzonspor have confirmed that goalkeeper Andre Onana has rejoined the Turkish club on another season-long loan, while the future of Marcus Rashf...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-onana-exit-confirmed-rashford-next",
-      "publishedAt": "2026-07-03T16:06:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6985fc7509c887",
-      "title": "How to turn BBC Sport alerts on or off for England v Mexico",
-      "summary": "Find out how to turn BBC Sport alerts off (or on!) for England's World Cup last-16 match against Mexico.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wv22v93zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T15:35:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c8024eb341b5c9",
-      "title": "Football Daily | Time waits for no man, nor Cristiano Ronaldo’s football legacy",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before Football Daily’s inbox is flooded by an angry reader with fingers busier than Arsenal fans at a Viktor Gyökor...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/03/football-daily-gwc-cristiano-ronaldo-portugal",
-      "publishedAt": "2026-07-03T14:44:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
       ]
     }
   ],
