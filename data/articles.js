@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-05T09:12:20.855Z",
+  "generatedAt": "2026-07-05T13:49:43.905Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,27 +99,239 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "202d782a1af000",
-      "title": "Furbank misery for Borthwick and England as poor discipline bites again",
-      "summary": "George Furbank will miss the rest of England's summer internationals after he was withdrawn from the team to face South Africa because of appendicitis.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13560573/england-boss-steve-borthwick-rules-george-furbank-out-of-summer-matches-and-defends-poor-discipline-in-loss-to-south-africa",
-      "publishedAt": "2026-07-05T09:12:20.632Z",
-      "category": "issue",
-      "region": "italy",
+      "id": "5bca5e91ed777a",
+      "title": "Listen to Sportsound",
+      "summary": "All the latest football news, plus golf, tennis, Commonwealth Games and much more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-05T15:00:00.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Football"
       ]
     },
     {
-      "id": "65fce948cbd1cd",
-      "title": "Morocco knock out World Cup co-hosts Canada to reach last eight",
-      "summary": "Azzedine Ounahi scored a double before Soufiane Rahimi added a third to knock out World Cup co-hosts Canada and send Morocco into the last eight thanks to a 3-0 win in...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/canada-vs-morocco/report/549854",
-      "publishedAt": "2026-07-05T09:12:20.632Z",
+      "id": "f6f3f3a8f479d3",
+      "title": "Grades for every team eliminated from the World Cu...",
+      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how their run compared with expectations.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "publishedAt": "2026-07-05T14:45:04.000Z",
       "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "472275c0dff86d",
+      "title": "Inside Real Madrid's transfer plans: Mourinho pull...",
+      "summary": "José Mourinho's predecessors at Real Madrid were frustrated by a lack of control over transfers, but he's changing the age profile for instant success.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49115778/inside-real-madrid-transfer-plans-mourinho-pulling-strings-build-win-now-team",
+      "publishedAt": "2026-07-05T14:43:08.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Transfer",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "ceca945ee8d996",
+      "title": "Transfer rumors, news: Chelsea, Madrid, Barça chas...",
+      "summary": "Manchester City have issued a hands-off warning to elite European clubs over center back Rúben Dias. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49274634/transfer-rumors-news-chelsea-real-madrid-barcelona-chase-man-city-ruben-dias",
+      "publishedAt": "2026-07-05T14:43:07.000Z",
+      "category": "transfer",
       "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2a7758fbe23f57",
+      "title": "France's Mbappé calls Paraguay tactics 'ugly'",
+      "summary": "Kylian Mbappé warned future World Cup opponents that France are ready to \"play ugly\" and get their \"hands dirty\" after brushing off Paraguay's provocations in a heated...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49272367/france-kylian-mbappe-paraguay-tactics-get-our-hands-dirty",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7cd8e409d848e8",
+      "title": "Tuchel urges England to avoid stress in Mexico",
+      "summary": "Thomas Tuchel has told his England players \"not to lose their heads\" despite a turbulent buildup to their World Cup round-of-16 clash against Mexico.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49272640/thomas-tuchel-england-not-lose-your-heads-amid-tricky-mexico-buildup-world-cup",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d6c6c1b123ee0e",
+      "title": "Brazil deny 'anti-Haaland plan' for World Cup tie",
+      "summary": "Brazil coach Carlo Ancelotti maintains he is not about to set up an \"anti Erling Haaland plan\" against Norway at the World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49271499/brazil-dont-anti-erling-haaland-plan-world-cup-carlo-ancelotti",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2218aa58e72055",
+      "title": "Marsch on Canada exit: We were the better team",
+      "summary": "Canada coach Jesse Marsch insisted that his side were \"the better team\" in their 3-0 World Cup defeat to Morocco on Saturday, saying \"I'd rather be us than them.\"",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f0712c11c76c4e",
+      "title": "Aguirre ignores Mexico's Azteca altitude advantage...",
+      "summary": "Mexico manager Javier Aguirre is dismissing talk of an altitude or crowd advantage at the Azteca ahead of Sunday's World Cup round-of-16 match against England.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49271795/aguirre-dismisses-azteca-altitude-advantage-warns-powerful-england",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "33d79dd60507ff",
+      "title": "Ounahi brace for Morocco eliminates Canada",
+      "summary": "A second-half brace from Azzedine Ounahi and a third from Soufiane Rahimi saw Morocco become the first nation to make the quarterfinals of the World Cup with a 3-0 win...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0c883cd1583863",
+      "title": "Mbappé scores penalty, France beat Paraguay at WC",
+      "summary": "Kylian Mbappé scored the only goal from the penalty spot as France defeated Paraguay 1-0 in the World Cup round of 16 in Philadelphia on Saturday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49271796/kylian-mbappe-penalty-leads-france-paraguay-world-cup-quarterfinals",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "abc93b80b837b0",
+      "title": "⚾ Pochettino is latest WC star to throw first pitc...",
+      "summary": "U.S. coach Mauricio Pochettino was the latest soccer star to throw the first pitch at an MLB game this summer. How did he and he fellow footballers do?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49261996/usmnt-coach-mauricio-pochettino-latest-world-cup-star-throw-first-pitch-mlb",
+      "publishedAt": "2026-07-05T14:40:56.000Z",
+      "category": "league",
+      "region": "global",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "aa97c20488f1e6",
+      "title": "A key USMNT World Cup perk: An embedded barber, wh...",
+      "summary": "The USMNT's unique hairstyles are turning heads at the World Cup, and it's thanks to their embedded barber who gives them fresh cuts in camp.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49271996/where-does-usmnt-rank-great-world-cup-hairstyles",
+      "publishedAt": "2026-07-05T14:26:00.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2d35625cee164e",
+      "title": "How will the USMNT cope without suspended star str...",
+      "summary": "With Folarin Balogun controversially suspended for the USMNT's World Cup round-of-16 clash with Belgium, it's time to weigh options on how to replace him.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49256530/how-usmnt-cope-red-card-striker-folarin-balogun-world-cup-round-16-belgium",
+      "publishedAt": "2026-07-05T14:26:00.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "881f3cc5f9a00b",
+      "title": "Copy of Pride, joy and anxiety: What watching a family mem...",
+      "summary": "It's incredible for families who have seen loved ones go from kicking a ball around the house to walking out on the biggest stage there is at a World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49266645/world-cup-pride-joy-anxiety-watching-family-member-play-means",
+      "publishedAt": "2026-07-05T14:23:48.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "879376106daca2",
+      "title": "France pass toughest World Cup test yet in beating...",
+      "summary": "France haven't really been challenged yet at this World Cup in the way Paraguay tested them Sunday, but Mbappe & Co. were able to stay cool in the sweltering heat and a...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49272197/france-kylian-mbappe-paraguay-world-cup-reaction-analysis",
+      "publishedAt": "2026-07-05T14:23:25.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0e40cefb66ddb5",
+      "title": "World Cup VAR review: Did France deserve deciding ...",
+      "summary": "null",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
+      "publishedAt": "2026-07-05T14:23:25.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "54c6177b3650d8",
+      "title": "World Cup Daily live: Mexico fans try to give Engl...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the World Cup as Brazil face Norway and England take on Mexico.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49274470/mexico-england-brazil-norway-round-16",
+      "publishedAt": "2026-07-05T14:22:56.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
         "World Cup"
       ]
@@ -130,7 +342,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Kylian Mbappe's 70th-minute penalty gave France a 1-0 victory over Paraguay in an ill-tempered World Cup last-16 tie in Philadelphia to set up a quarter-final meeting w...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/paraguay-vs-france/report/549855",
-      "publishedAt": "2026-07-05T09:12:20.631Z",
+      "publishedAt": "2026-07-05T13:49:43.648Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,11 +355,179 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13560523/newcastle-transfer-news-bruno-guimaraes-considered-priceless-amid-interest-for-midfielder-paper-talk",
-      "publishedAt": "2026-07-05T09:12:20.631Z",
+      "publishedAt": "2026-07-05T13:49:43.648Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer"
+      ]
+    },
+    {
+      "id": "a25c0dd49190e4",
+      "title": "Women's T20 World Cup final LIVE! Build-up ahead of Australia vs England",
+      "summary": "Women's T20 World Cup final LIVE! Build-up ahead of Australia vs England",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13560606/womens-t20-world-cup-final-australia-vs-england-live-latest-cricket-score-updates-video-and-analysis-from-lords",
+      "publishedAt": "2026-07-05T13:49:43.647Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2c8ada44c8fc64",
+      "title": "Hollick wins BMW International Open as YouTube star Dalke fades",
+      "summary": "Michael Hollick produced a sensational eagle on the final hole to win the DP World Tour's BMW International Open on Sunday, as YouTuber Brad Dalke sealed a credible top...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13560585/dp-world-tour-michael-hollick-wins-bmw-international-open-as-youtube-star-brad-dalke-secures-top-30-finish",
+      "publishedAt": "2026-07-05T13:49:43.646Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "18cf0d13a87bb2",
+      "title": "Tottenham in strong position to complete 80-goal winger signing as superstar eyes dream Prem move",
+      "summary": "Tottenham are focusing their efforts on bringing in a new superstar winger after signing Mateus Fernandes and agreeing a deal for Sandro Tonali, with AC Milan ace Rafae...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rafael-leao-spurs-transfer-news-ac-milan-portugal",
+      "publishedAt": "2026-07-05T13:38:46.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "cb89fa6ef05b17",
+      "title": "Arsenal won’t ‘go away’ in Newcastle star chase with Magpies in ‘difficult’ situation",
+      "summary": "Arsenal aren’t expected to “go away” in the chase for a Newcastle star, as the Magpies are trying to rectify a “difficult” situation, per insider Pete O’Rourke.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-wont-go-away-guimaraes-chase-newcastle-difficult",
+      "publishedAt": "2026-07-05T13:28:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "64f0616ada1e34",
+      "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
+      "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Email us Kylian Mbappe has pulled level with Lionel Messi at the t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
+      "publishedAt": "2026-07-05T13:20:44.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "91c33544edd975",
+      "title": "Copy of How can Brazil stop Haaland? It might come down to...",
+      "summary": "Brazil face Norway in the round of 16 of the World Cup, and the showdown against Erling Haaland and Carlo Ancelotti's midfielders will be one to watch.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49265115/how-brazil-stop-erling-haaland-come-their-midfielders",
+      "publishedAt": "2026-07-05T13:16:11.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "985a630fa2b55e",
+      "title": "Real Madrid sign defender Dumfries from Inter Milan",
+      "summary": "Real Madrid sign Netherlands full-back Denzel Dumfries from Inter Milan on a four-year deal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-05T12:23:41.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Real Madrid",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "5cba99e412b9a2",
+      "title": "Mexico coach fires warning to England ‘icon’ ahead of WC showdown – ‘We’ll try to neutralise him’",
+      "summary": "Javier Aguirre wants his players to make an elite England star feel ‘uncomfortable’, and has promised they will ‘try to neutralise him’ in their World Cup last-16 match...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mexico-coach-javier-aguirre-fires-world-cup-warning-england-captain-harry-kane",
+      "publishedAt": "2026-07-05T11:59:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4a98d34be1948f",
+      "title": "England fighting history as well as Mexican nation in Azteca cauldron",
+      "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-05T11:34:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "add6c5290e12ad",
+      "title": "Jurgen Klopp to leave Red Bull as Romano announces Liverpool icon’s next job",
+      "summary": "Fabrizio Romano has confirmed that Klopp will end his role as Red Bull’s head of global soccer, with a new move ‘accepted’",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jurgen-klopp-germany-manager-next-move-leave-red-bull-fabrizio-romano",
+      "publishedAt": "2026-07-05T10:37:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Soccer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9c725ac32285ff",
+      "title": "Stay humble - the Premier League feud about to hit world stage",
+      "summary": "The Premier League feud between Manchester City's Erling Haaland and Arsenal defender Gabriel goes global as Norway meet Brazil at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-05T09:25:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e3e4ac1fb83418",
+      "title": "Manchester United target Andrey Santos but Chelsea value midfielder at £50m",
+      "summary": "Newcastle also linked with £50m-rated Brazilian Chelsea need to sell to help Xabi Alonso rebuild squad Manchester United are targeting the Chelsea midfielder Andrey San...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/05/andrey-santos-manchester-united-chelsea-transfer",
+      "publishedAt": "2026-07-05T09:13:26.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
@@ -180,24 +560,9 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "64f0616ada1e34",
-      "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
-      "summary": "⚽ All the latest news and reaction from the World Cup ⚽ Player guide | Bracketology | Knockout draw | Email us Kylian Mbappe has pulled level with Lionel Messi at the t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
-      "publishedAt": "2026-07-05T08:56:46.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
       "id": "1a20b91c93169a",
       "title": "England enter the Azteca - where football kings are crowned",
-      "summary": "BBC sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 o...",
+      "summary": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 o...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-05T08:26:39.000Z",
@@ -209,379 +574,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "446200d24bd4d8",
-      "title": "'Sassuolo and Bologna in Bowie transfer talks' - gossip",
-      "summary": "Sassuolo and Bologna are reportedly in talks with Hellas Verona about Kieron Bowie, while Celtic are linked with Norwegian striker Tobias Lauritsen and three clubs are...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1ly222d9djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T08:03:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "f480f42b8afc99",
-      "title": "Mexico return luxury watches gifted by YouTuber",
-      "summary": "World Cup co-hosts Mexico - who play England on Sunday night - return luxury watches gifted to them by a content creator because Fifa rules prohibit expensive gifts.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T07:57:34.000Z",
+      "id": "09281b4d9bab7c",
+      "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
+      "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden wen...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver",
+      "publishedAt": "2026-07-05T08:15:31.000Z",
       "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a07f9e18f8cdb4",
-      "title": "France find a way past Paraguay and what awaits England in Mexico? | World Cup Daily – video",
-      "summary": "Max Rushden is joined by Barry Glendenning , Archie Rhind-Tutt, Barney Ronay and Philippe Auclair as France beat a spiky Paraguay side to reach the quarter-finals Conti...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jul/05/france-paraguay-england-mexico-world-cup-daily-podcast-video",
-      "publishedAt": "2026-07-05T07:49:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2af74a7efaea77",
-      "title": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
-      "summary": "Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worth I would be shocked if the record for the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup",
-      "publishedAt": "2026-07-05T07:00:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cbd8704efcddf6",
-      "title": "A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator",
-      "summary": "Illegal online casinos are producing fake BBC stories and AI-generated videos in an attempt to deceive customers Respect of copyright law has never ranked highly in the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/05/a-footballing-deepfake-how-bruno-fernandes-fell-victim-to-an-unlicensed-betting-operator",
-      "publishedAt": "2026-07-05T07:00:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "90f51660fbce5d",
-      "title": "Football is at the centre of the universe in Brazil in a way it is not in the US | Rodrygo",
-      "summary": "Huge parties take place when the national team play but people in Brazil cherish a good game, whoever is playing The World Cup atmosphere, which, for many of us, is one...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/05/football-centre-of-universe-brazil-not-in-us",
-      "publishedAt": "2026-07-05T07:00:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e28cf0c0ddeee4",
-      "title": "Mexico v England: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup round of 16 clash between Mexico and England.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/mexico-v-england-prediction-preview",
-      "publishedAt": "2026-07-05T06:47:42.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "81ccbc44acb486",
-      "title": "Who am I? Guess World Cup star No 28",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx21k039r7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T05:46:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8e4fa5a9e57065",
-      "title": "The Norway story - 28-year wait for their biggest-ever party",
-      "summary": "Norway have waited 28 years for an appearance at the World Cup - now they face Brazil hoping to make history by reaching the quarter-finals for the first time.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpq3pgdp500o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T03:39:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3b5b5b2871072d",
-      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-      "summary": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watchi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T01:53:01.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1df2bafd1f1c31",
-      "title": "French football chief condemns Chilavert’s remarks that Les Bleus are ‘a squad from Africa’",
-      "summary": "Philippe Diallo: former goalkeeper has ‘fallen into disgrace’ Remarks came in run-up to France v Paruguay match The French football federation president, Philippe Diall...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/04/french-football-chief-condemns-chilaverts-remarks-that-les-bleus-are-a-squad-from-africa",
-      "publishedAt": "2026-07-05T01:00:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b3eb205e20b83b",
-      "title": "France overcome resolute Paraguay to reach quarter-final",
-      "summary": "World Cup favourites France book their quarter-final place thanks to Kylian Mbappe's second-half penalty against a stubborn Paraguay side in Philadelphia.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T00:27:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: England behind both remaining co-hosts as Morocco rise",
-      "summary": "The first knockout round of the World Cup is over, and we’re now barrelling into the last 16 with chaotic drama everywhere you look…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-07-05T00:25:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4e51d555879414",
-      "title": "Mbappe tells Paraguay to ‘f*** off’ after France beat ‘absolute disgrace’ in astonishing game",
-      "summary": "Kylian Mbappe dropped a couple of bombs on Paraguay after France survived one of the most ridiculous World Cup games in recent memory.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mbappe-x-rated-verdict-paraguay-france-world-cup",
-      "publishedAt": "2026-07-05T00:15:29.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "062427fcedbfe5",
-      "title": "Mexico could bring the best out of Tuchel's England",
-      "summary": "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clywpjjpze4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-05T00:15:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "86b25cd1462cd2",
-      "title": "Belgium players say they will need ‘balls’ to nullify home crowd against US",
-      "summary": "Belgium play Americans in the last-16 on Monday US have enjoyed strong support at home at the World Cup A raucous, pro-US crowd is expected in Seattle for the Americans...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/04/belgium-united-states-world-cup-environment",
-      "publishedAt": "2026-07-04T23:57:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8a6d50f7565854",
-      "title": "'Disgusting' Paraguay went 'way too far' against France",
-      "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T23:50:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0549f00e90f4db",
-      "title": "Mbappe coolly fires France into lead from penalty spot",
-      "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T23:06:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal overtaken by unlikely Prem pair again",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are obviously behind Crystal Palace and Sunderland now.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-07-04T22:35:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1a6b33c760a359",
-      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
-      "summary": "Kylian Mbappe is destined to absolutely shatter the all-time World Cup scoring record while winning myriad trophies for France and Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
-      "publishedAt": "2026-07-04T22:34:46.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "5e7d476aab40ca",
-      "title": "James doubtful for Mexico tie but Quansah fit again",
-      "summary": "Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T22:13:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "56488bd8b0d478",
-      "title": "Premier League quartet want Scott - Sunday's gossip",
-      "summary": "Bournemouth's Alex Scott wanted by Premier League quartet, Arsenal agree to sell Leandro Trossard, Manchester United's Kobbie Mainoo on Real Madrid's radar, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T21:52:22.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "ccce606b3f5230",
-      "title": "Marsch makes baffling statement in dig at ‘defensive’ Morocco after Canada exit",
-      "summary": "Jesse Marsch went into hyperbolic overdrive by stating he would ‘rather be’ Canada than Morocco after managing the former to World Cup defeat.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/marsch-baffling-statement-dig-defensive-morocco-canada-world-cup",
-      "publishedAt": "2026-07-04T21:25:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e927f17e72f131",
-      "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
-      "summary": "As Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T21:20:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "03492542583663",
-      "title": "Everton agree £24m deal for Chelsea winger George",
-      "summary": "Everton agree a deal worth up to £24m including add-ons to sign Chelsea winger Tyrique George, subject to personal terms and a medical.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7pvqde72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-04T20:59:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6a7b8eab2dd595",
-      "title": "‘We were better than them’: Marsch bullish despite Canada’s World Cup exit to Morocco",
-      "summary": "Canada coach says his side ‘totally controlled the match’ Ouahbi: ‘It takes some nerve to say when you lose 3-0’ Jesse Marsch spoke of his pride in his Canada side afte...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/04/jesse-marsch-canada-morocco-world-cup",
-      "publishedAt": "2026-07-04T20:58:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-04T20:03:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "2d3c439a6facfe",
-      "title": "Arsenal working on moves for two £115m-plus superstars after connected deal agreed",
-      "summary": "Arsenal have agreed to sell Leandro Trossard to Besiktas and an extremely reliable source has revealed the Gunners are now ‘simultaneously’ working on moves for two sup...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-working-moves-bradley-barcola-morgan-rogers-leandro-trossard-transfer-agreed",
-      "publishedAt": "2026-07-04T20:00:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
