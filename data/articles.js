@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-06T20:04:10.211Z",
+  "generatedAt": "2026-07-07T03:51:11.261Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,205 +99,18 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "10de422e693edc",
-      "title": "Why FIFA's Balogun reversal is an uncomfortable de...",
-      "summary": "For USMNT fans, seeing Folarin Balogun play against Belgium after FIFA rescinded his suspension will feel a bit odd -- a jumble of joy tinged with a heavy slice of unea...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49283694/two-things-true-baloguns-world-cup-reprieve",
-      "publishedAt": "2026-07-06T20:47:42.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "750b1315b82f07",
-      "title": "Nobody benefits from FIFA letting Balogun off the ...",
-      "summary": "The U.S. will be buzzing to have Folarin Balogun available vs. Belgium, but it's a bad look for this World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49278521/nobody-benefits-fifa-letting-balogun-hook-not-even-usmnt",
-      "publishedAt": "2026-07-06T20:47:42.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "0df34bd30d4491",
-      "title": "Mexico proud, but 'hurt' after exiting World Cup",
-      "summary": "Mexico manager Javier Aguirre said he feels proud but hurt after being eliminated from the FIFA World Cup with a 3-2 loss against England on Sunday night at the Estadio...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49283428/mexico-proud-hurt-exiting-world-cup-england",
-      "publishedAt": "2026-07-06T20:05:18.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5b54d72baebcd7",
-      "title": "Tearful Neymar retires from Brazil after WC exit",
-      "summary": "An emotional Neymar said his career with Brazil had \"finished\" after his team's World Cup exit at the hands of Norway in the round of 16 on Sunday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49281072/neymar-brazil-retires-world-cup-2026-exit-norway",
-      "publishedAt": "2026-07-06T20:05:18.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1751330bc336a0",
-      "title": "UEFA: FIFA crossed 'red line' on Balogun ban",
-      "summary": "UEFA have strongly criticized FIFA's decision to suspend USMNT striker Folarin Balogun's red card, thus allowing the United States striker to be available for the World...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49284889/uefa-fifa-folarin-balogun-red-card-ban-overturned-usmnt",
-      "publishedAt": "2026-07-06T20:05:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "df5ea90955fd06",
-      "title": "Tottenham sign Tonali for club record $125M fee",
-      "summary": "Tottenham have shattered their transfer record for the second time this summer after agreeing a deal worth up to £100m ($133m) to sign Sandro Tonali from Newcastle Unit...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49246543/sandro-tonali-completes-record-transfer-tottenham-newcastle-united",
-      "publishedAt": "2026-07-06T20:05:16.000Z",
+      "id": "4b1852eadd7bd7",
+      "title": "Papers: Villa's Rogers asking price revealed amid interest from Arsenal",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561135/arsenal-transfers-aston-villa-to-demand-british-record-fee-to-allow-morgan-rogers-sale-paper-talk",
+      "publishedAt": "2026-07-07T03:51:11.009Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "9555d8dabeb805",
-      "title": "Trump: I asked Infantino to 'review' Balogun red",
-      "summary": "President Donald Trump said Monday he called FIFA president Gianni Infantino to review the red card given to USMNT striker Folarin Balogun in the team's match against B...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49286603/us-president-donald-trump-confirms-asked-fifa-review-balogun-red-card",
-      "publishedAt": "2026-07-06T20:05:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "99e730d1664375",
-      "title": "FIFA reject Belgium request; Balogun can play",
-      "summary": "FIFA has ruled a request from the Belgium federation for an explanation of Folarin Balogun's suspended red card as \"inadmissible,\" meaning it has no grounds to appeal t...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49287344/fifa-reject-belgium-request-balogun-clear-play-belgium",
-      "publishedAt": "2026-07-06T20:05:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5cb61a0eea1691",
-      "title": "Giuliani: FIFA review won't affect USMNT legacy",
-      "summary": "Andrew Giuliani, the head of the White House task force on the World Cup, told ESPN on Monday that he has no concerns at all over FIFA's decision to reduce Folarin Balo...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy",
-      "publishedAt": "2026-07-06T20:05:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "7043f66efdb936",
-      "title": "England survive to beat Mexico in Azteca thriller",
-      "summary": "England survived a raucous Azteca Stadium atmosphere and a red card early in the second half to prevail past co-hosts Mexico 3-2 in a thrilling World Cup round-of-16 cl...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49282902/england-mexico-2026-world-cup-azteca-red-card-bellingham",
-      "publishedAt": "2026-07-06T20:05:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "78512d2576271e",
-      "title": "🏆2026-27 UCL season begins mid-World Cup",
-      "summary": "The new Champions League campaign begins 38 days after last season's final. Plenty of unheralded clubs are involved, all with their own fascinating stories.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49254165/imps-saints-vikings-action-2026-27-champions-league-kicks-off",
-      "publishedAt": "2026-07-06T20:05:15.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Champions League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f2d2cad5e767ba",
-      "title": "Henderson to miss rest of World Cup after freak injury",
-      "summary": "England midfielder Jordan Henderson has been ruled out for the remainder of the World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13560940/world-cup-2026-englands-jordan-henderson-out-of-tournament-after-freak-injury-against-mexico",
-      "publishedAt": "2026-07-06T20:04:09.843Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "afca43bf9d36c8",
-      "title": "Trump boasts, Infantino hits back and Belgium vow action as Balogun furore rages on",
-      "summary": "President Donald Trump says he asked FIFA boss Gianni Infantino to \"review\" Folarin Balogun's red card and World Cup ban, which has since been suspended, allowing the U...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie",
-      "publishedAt": "2026-07-06T20:04:09.843Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "825cd2ff421bf1",
-      "title": "Spurs smash transfer record again to sign Tonali in £100m deal",
-      "summary": "Tottenham have signed Sandro Tonali from Newcastle United in a club-record £100m deal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13559730/sandro-tonali-tottenham-sign-italy-midfielder-in-club-record-100m-deal-from-newcastle",
-      "publishedAt": "2026-07-06T20:04:09.843Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ee0439222a5a56",
-      "title": "Brentford latest: Bees close to signing Wilson on free transfer",
-      "summary": "Brentford latest: Bees close to signing Wilson on free transfer",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-07-06T20:04:09.842Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
+        "Transfer",
+        "Arsenal",
+        "Inter"
       ]
     },
     {
@@ -306,11 +119,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Everton latest: George completes permanent move from Chelsea",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-07-06T20:04:09.842Z",
+      "publishedAt": "2026-07-07T03:51:11.009Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "721536d92a6994",
+      "title": "Ronaldo: I won't make any rash decisions on Portugal future",
+      "summary": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portu...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future",
+      "publishedAt": "2026-07-07T03:51:11.008Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -319,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-07-06T20:04:09.840Z",
+      "publishedAt": "2026-07-07T03:51:11.008Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -328,18 +154,236 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ef38a073a7bc56",
-      "title": "Portugal v Spain: World Cup 2026 last 16 – live",
-      "summary": "⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Scott The great pennant showdown. Spain have managed to pul...",
+      "id": "f84e30eba8dc26",
+      "title": "Reaction as Portugal lose to Spain and Ronaldo exits World Cup for final time",
+      "summary": "Reaction as Portugal lose to Spain and Ronaldo exits World Cup for final time",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
+      "publishedAt": "2026-07-07T03:51:11.008Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ee0439222a5a56",
+      "title": "Brentford latest: Bees close to signing Wilson on free transfer",
+      "summary": "Brentford latest: Bees close to signing Wilson on free transfer",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-07-07T03:51:11.008Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "49da5c6e5815fa",
+      "title": "Best of three? Not even FIFA can save USA now after capitulation against Belgium",
+      "summary": "After all that, the United States couldn’t even put up a fight in their controversy-addled World Cup last-16 clash with Belgium in Seattle.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/united-states-crash-out-world-cup-balogun-controversy",
+      "publishedAt": "2026-07-07T02:41:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: People’s champs Belgium climb after beating USA",
+      "summary": "The first knockout round of the World Cup is over, and we’re now barrelling into the last 16 with chaotic drama everywhere you look…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-07-07T02:35:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1243acb0ba50ef",
+      "title": "Ragged USA crash out of World Cup with last-16 defeat to Belgium",
+      "summary": "The United States’ quest to get Folarin Balogun’s red card overturned may have opened a Pandora’s box – one specifically designed to contain the national team’s worst n...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live",
-      "publishedAt": "2026-07-06T19:56:36.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report",
+      "publishedAt": "2026-07-07T01:59:04.000Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
+        "Fifa",
         "Inter"
+      ]
+    },
+    {
+      "id": "85ae31c4bc7197",
+      "title": "‘They have Messi, but we have Salah’: Egypt prepare to take on Argentina",
+      "summary": "Last 16 tie will be the first international meeting between two modern legends who may yet go on making history As Mohamed Salah savoured the feeling of Egypt’s histori...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/07/lionel-messi-mo-salah-egypt-argentina-world-cup",
+      "publishedAt": "2026-07-07T01:08:15.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ec5f737d5efac6",
+      "title": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
+      "summary": "BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T23:51:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d8fc83bde9929f",
+      "title": "Spain's World Cup challenge built on record-breaking historic defence",
+      "summary": "If Spain are to get their hands on the World Cup trophy again, they may have their defence, rather than their attack, to thank.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T23:16:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "73eaca04054871",
+      "title": "Mikel Merino comes full circle with Spain in touching tale of fathers and sons | Sid Lowe",
+      "summary": "Having battled back from injury to make the World Cup, the matchwinner’s goal was a deserved payoff for unsung sacrifices And then, suddenly, there was Mikel Merino cir...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/06/mikel-merino-spain-world-cup-winner-portugal",
+      "publishedAt": "2026-07-06T22:42:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6a3b3c8ebe3b73",
+      "title": "Why European backlash over Trump intervention won't worry Infantino",
+      "summary": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T22:26:20.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "08f05d7bc8ff24",
+      "title": "Ronaldo and Portugal die wondering after limp World Cup exit to below-par Spain",
+      "summary": "Cristiano Ronaldo’s final attempt at World Cup glory ended with barely a whimper as Portugal limped out at the hands of Spain.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronaldo-portugal-die-wondering-limp-world-cup-exit-spain",
+      "publishedAt": "2026-07-06T21:51:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5dd8ce7a1d149c",
+      "title": "Spain into quarter-finals after Merino's late winner against Portugal",
+      "summary": "Spain leave it late as super-sub Mikel Merino scores a stoppage-time winner to send his side into the quarter-finals, ending Cristiano Ronaldo's hopes of World Cup glory.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T21:46:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6d981bb054076a",
+      "title": "Super-sub Merino nets late Spain winner to end Ronaldo’s World Cup dream",
+      "summary": "Arsenal midfielder Merino once again demonstrated his qualities as a deadly finisher to knock Ronaldo and Portugal out of the World Cup",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-results-portugal-spain-mikel-merino-winner-cristiano-ronaldo-dream-over",
+      "publishedAt": "2026-07-06T21:22:29.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "15266fa373c983",
+      "title": "Super-sub Merino delivers 'killer goal' for Spain",
+      "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T21:14:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "094e84a5a740e4",
+      "title": "Starmer intervened in row over Mexico-England kick-off time",
+      "summary": "Fifa had been set to bring the match forward by six hours, due to a forecast of thunderstorms.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T21:08:35.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "50fa0d72865b66",
+      "title": "‘A despicable woman’: Kylian Mbappé hits out at Paraguayan senator over racist attack",
+      "summary": "Celeste Amarilla called striker a ‘colonised Cameroonian’ French Football Federation to file criminal charges France’s Kylian Mbappé has hit back at a Paraguayan senato...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/06/a-despicable-women-kylian-mbappe-hits-out-at-paraguayan-senator-over-racist-attack",
+      "publishedAt": "2026-07-06T20:51:28.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "3641de44e9173e",
+      "title": "Tottenham to bid for Kroupi - Tuesday gossip",
+      "summary": "Tottenham to target Bournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a potential White replacement for Arsenal, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wyy0evxn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T20:33:16.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal"
       ]
     },
     {
@@ -348,25 +392,11 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The Football Association is considering whether to appeal after England defender Jarell Quansah's red card against Mexico.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-06T19:49:01.000Z",
+      "publishedAt": "2026-07-06T20:15:41.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "7ddb61f26ab411",
-      "title": "Trump confirms he asked Fifa to review Balogun ban",
-      "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-06T19:06:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
       ]
     },
     {
@@ -383,19 +413,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ddba1644eb42e5",
-      "title": "New balls, please! Bellingham, Yamal, Messi unveil...",
-      "summary": "In a move that is in no way tempting fate, Lionel Messi, Jude Bellingham and Lamine Yamal have all posed with the new-look World Cup final match ball.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49287087/world-cup-final-adidas-trionda-match-ball-argentina-lionel-messi-england-jude-bellingham-spain-lamine-yamal",
-      "publishedAt": "2026-07-06T18:40:00.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "cb358495d09531",
       "title": "Liverpool complete superb signing as Fabrizio Romano declares ‘here we go’",
       "summary": "Liverpool have completed the signing of a young defender, with Fabrizio Romano confirming a deal our colleagues on TEAMtalk broke news on three months ago.",
@@ -409,16 +426,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5ef50f270d7912",
-      "title": "England end Mexico's World Cup with best win on fo...",
-      "summary": "Outside of England, the Three Lions' World Cup history is mixed at best, but they defied the odds to grind out an emotional last-16 win over Mexico.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49283101/england-end-mexico-world-cup-best-win-foreign-soil-their-history",
-      "publishedAt": "2026-07-06T18:02:07.000Z",
-      "category": "worldcup",
-      "region": "global",
+      "id": "78a91d07c8ff8a",
+      "title": "Will Irish League clubs make more European history?",
+      "summary": "European football has become a stage where Irish Premiership teams can dream bigger than ever, but will any clubs achieve more history this season?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wyyz5p0z4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T18:02:47.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "World Cup"
+        "Football"
       ]
     },
     {
@@ -439,7 +456,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "84077a88351c53",
       "title": "Tuchel claims World Cup refereeing ‘not good enough’ but says England have belief to go all the way",
-      "summary": "Tuchel critical of ‘unreliable’ officiating against Mexico Victory at the Azteca ‘fuels our belief we are here to stay’ Thomas Tuchel called the ­standard of refereeing...",
+      "summary": "Tuchel critical of ‘unreliable’ officiating against Mexico FA could launch appeal against Quansah’s red card Thomas Tuchel called the standard of refereeing at the Worl...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/06/thomas-tuchel-england-mexico-norway-world-cup-2026",
       "publishedAt": "2026-07-06T18:00:16.000Z",
@@ -459,60 +476,6 @@ window.FOOTBALLDAY_DATA = {
       "publishedAt": "2026-07-06T17:37:05.000Z",
       "category": "worldcup",
       "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "90330ea64066a1",
-      "title": "NWSL Power Rankings: Rodman puts Spirit on top, ah...",
-      "summary": "After a month off to observe the men's World Cup, the NWSL is back, and Trinity Rodman has the Washington Spirit on top of ESPN's Power Rankings.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49286503/nwsl-power-rankings-trinity-rodman-puts-washington-spirit-top-ahead-league-leading-san-diego-wave",
-      "publishedAt": "2026-07-06T17:32:36.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c8d4b94202d865",
-      "title": "‘I got three hours’ sleep’: fans on watching England beat Mexico at the World Cup",
-      "summary": "Football fans around the globe watched the match – with some of them missing out on a night’s sleep to tune in I watched England v Mexico from the Mexican end. Anyone w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/06/three-hours-sleep-fans-watching-england-mexico-world-cup",
-      "publishedAt": "2026-07-06T17:29:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "094e84a5a740e4",
-      "title": "Starmer intervened in row over Mexico-England kick-off time",
-      "summary": "Fifa had been set to bring the match forward by six hours, due to a forecast of thunderstorms.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-06T17:12:06.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9dd8070d32494d",
-      "title": "Haaland brings the thunder, strikes down Brazil as...",
-      "summary": "Brazil's World Cup hopes were dashed by Erling Haaland, whose stunning brace propelled Norway to the quarterfinals.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49280315/haaland-brings-thunder-strikes-brazil-norway-reach-quarterfinals-2026-world-cup",
-      "publishedAt": "2026-07-06T17:11:18.000Z",
-      "category": "worldcup",
-      "region": "global",
       "tags": [
         "World Cup"
       ]
@@ -576,19 +539,58 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "96b4188ec92a49",
-      "title": "Belgium are looking for a new beginning at the World Cup against USA | Jonathan Wilson",
-      "summary": "Parts of 2018’s Golden Generation still remain, but there are more than enough good players in this Belgian side to give the US headaches • Predict the winner | Daily p...",
+      "id": "c7f5675d3870dd",
+      "title": "Jordan Henderson out of World Cup with broken wrist sustained in post-match celebrations",
+      "summary": "Unused substitute fell over advertising board Midfielder given oxygen and taken to hospital A historic night for England as they defeated Mexico 3-2 in their World Cup...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/06/belgium-look-for-a-new-beginning-against-usa",
-      "publishedAt": "2026-07-06T15:38:11.000Z",
-      "category": "transfer",
-      "region": "italy",
+      "url": "https://www.theguardian.com/football/2026/jul/06/jordan-henderson-wrist-injury-england-mexico-world-cup",
+      "publishedAt": "2026-07-06T15:27:52.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "Football",
-        "Soccer",
         "World Cup",
-        "Inter"
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "febf6f60707422",
+      "title": "Real Madrid offered €120m Liverpool target in staggering deal – report",
+      "summary": "Mourinho has been given the chance to sign a classy star heavily linked with Liverpool and Man Utd for a huge €120m, as per a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-transfer-news-liverpool-adam-wharton-offered-crystal-palace",
+      "publishedAt": "2026-07-06T14:41:54.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T14:25:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f496a39125295b",
+      "title": "Beever-Jones signs new contract until 2030 with Chelsea",
+      "summary": "England forward Aggie Beever-Jones signs a new contract with Chelsea, extending her stay at the club she joined as a nine-year-old until 2030.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn599py6xvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T14:00:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
       ]
     }
   ],
