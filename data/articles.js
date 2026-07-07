@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-07T09:50:40.340Z",
+  "generatedAt": "2026-07-07T14:47:28.414Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,168 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "e2dc9b78c427f1",
-      "title": "'Overturn this': Belgium troll U.S. after dominant...",
-      "summary": "Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match Monday night -- and poked fun at the U.S. afterward.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16",
-      "publishedAt": "2026-07-07T10:29:32.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "caae0e43822064",
-      "title": "USMNT dismisses Balogun noise in World Cup exit: '...",
-      "summary": "The U.S. men's national team crashed out of the World Cup on Tuesday in a 4-1 loss to Belgium, but players denied that the whirlwind surrounding Folarin Balogun's rever...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49293102/usmnt-dismisses-balogun-noise-2026-fifa-world-cup-exit",
-      "publishedAt": "2026-07-07T10:29:31.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "11bd4c72de9ed9",
-      "title": "World Cup daily live: Messi fans troll Speed after...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the 2026 World Cup as we figure out the last two teams to make the quarterfinals.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49293140/world-cup-daily-live-messi-fans-troll-speed-ronaldo-exit-argentina-colombia-action",
-      "publishedAt": "2026-07-07T10:16:40.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ddba1644eb42e5",
-      "title": "⚽Bellingham, Yamal, Messi unveil WC final ball",
-      "summary": "In a move that is in no way tempting fate, Lionel Messi, Jude Bellingham and Lamine Yamal have all posed with the new-look World Cup final match ball.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49287087/world-cup-final-adidas-trionda-match-ball-argentina-lionel-messi-england-jude-bellingham-spain-lamine-yamal",
-      "publishedAt": "2026-07-07T10:09:03.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f7aac35a06d326",
-      "title": "Scaloni: 'No truly dominant team' at World Cup",
-      "summary": "Argentina manager Lionel Scaloni said the 2026 World Cup is presenting a strong challenge for the tournament favorites, who are struggling to overcome lower-ranked oppo...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49290873/argentina-scaloni-warns-truly-dominant-team-world-cup",
-      "publishedAt": "2026-07-07T10:09:02.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b434feed1ba078",
-      "title": "USMNT's World Cup dream crushed by Belgium",
-      "summary": "Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup",
-      "publishedAt": "2026-07-07T10:08:35.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f465184289ab08",
-      "title": "Ronaldo exits in tears as Spain end final World Cu...",
-      "summary": "An emotional Cristiano Ronaldo said he had a \"clear conscience\" as he exited his final World Cup as Portugal were eliminated 1-0 by Spain in the round of 16 in Arlingto...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49290017/cristiano-ronaldo-portugal-spain-last-world-cup-2026",
-      "publishedAt": "2026-07-07T10:08:35.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9185545add5bb3",
-      "title": "Martinez steps down, says Portugal 'didn't fail'",
-      "summary": "Roberto Martinez confirmed that he is leaving his job as Portugal coach after Monday's 1-0 World Cup round-of-16 defeat to Spain, while denying that the result was \"a f...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49290322/roberto-martinez-steps-says-portugal-fail",
-      "publishedAt": "2026-07-07T10:08:35.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1c3364109817e2",
-      "title": "MVP Rodri shines, seeks more from Spain in QFs",
-      "summary": "Spain midfielder Rodri was named the best player in his team's 1-0 victory over Portugal but warned they still have \"room for improvement\" ahead of the World Cup quarte...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49291209/mvp-rodri-shines-vs-portugal-seeks-more-spain-world-cup-quarterfinals",
-      "publishedAt": "2026-07-07T10:08:35.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "05016d5c40ddb8",
-      "title": "Pulisic forced off injured for USMNT vs. Belgium",
-      "summary": "Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss against Belgium.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup",
-      "publishedAt": "2026-07-07T10:08:34.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f3b368c88f7737",
-      "title": "USMNT will look back at 2026 World Cup as a missed...",
-      "summary": "It all broke right for the U.S. this tournament: the draw, the injuries, the decisions. And yet America is once again coming to terms with a round-of-16 exit.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49293165/usmnt-look-back-2026-world-cup-missed-opportunity",
-      "publishedAt": "2026-07-07T10:01:05.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3d9f30f00b011e",
-      "title": "Belgium handed U.S. a World Cup reality check -- a...",
-      "summary": "The World Cup dream for the U.S. went up in smoke Monday, comprehensively dismantled 4-1 by Belgium.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check",
-      "publishedAt": "2026-07-07T10:01:05.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "9e457eae6be034",
       "title": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
       "summary": "Brighton latest: Julio subject to transfer interest from Europe and Brazil",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-07-07T09:50:40.145Z",
+      "publishedAt": "2026-07-07T14:47:28.001Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -269,52 +113,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f84e30eba8dc26",
-      "title": "What is Ronaldo's World Cup legacy? HAVE YOUR SAY!",
-      "summary": "What is Ronaldo's World Cup legacy? HAVE YOUR SAY!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/portugal-vs-spain/live/549858",
-      "publishedAt": "2026-07-07T09:50:40.145Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ee0439222a5a56",
-      "title": "Brentford latest: Bees close to signing Wilson on free transfer",
-      "summary": "Brentford latest: Bees close to signing Wilson on free transfer",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-07-07T09:50:40.145Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "a9fdae711348d7",
-      "title": "'Overturn this' - Belgium mock Trump and FIFA after USA World Cup exit",
-      "summary": "Belgium players appeared to mock US President Donald Trump and FIFA after eliminating co-hosts USA from the World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561192/overturn-this-belgium-mock-usa-after-world-cup-exit",
-      "publishedAt": "2026-07-07T09:50:40.144Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "721536d92a6994",
       "title": "Ronaldo: I won't make any rash decisions on Portugal future",
       "summary": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portu...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future",
-      "publishedAt": "2026-07-07T09:50:40.144Z",
+      "publishedAt": "2026-07-07T14:47:28.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -327,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "We look back at Cristiano Ronaldo's most outrageous flicks and tricks from his spells in the Premier League with Manchester United.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13561216/cristiano-ronaldos-best-skills-showboats-for-manchester-united",
-      "publishedAt": "2026-07-07T09:50:40.144Z",
+      "publishedAt": "2026-07-07T14:47:28.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -341,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Former England goalkeeper Mary Earps picks out Jordan Pickford's top three attributes as the he prepares to face Erling Haaland in the World Cup.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13561194/what-are-jordon-pickfords-best-attributes-mary-earps-gives-her-take",
-      "publishedAt": "2026-07-07T09:50:40.144Z",
+      "publishedAt": "2026-07-07T14:47:28.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -354,7 +158,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England’s medics are working hard on Reece James in the hope that he may be able to help England’s right-back crisis and play some part in the World Cup quarter-final a...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-clash-with-norway-to-ease-right-back-crisis",
-      "publishedAt": "2026-07-07T09:50:40.144Z",
+      "publishedAt": "2026-07-07T14:47:28.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -362,12 +166,54 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "a9fdae711348d7",
+      "title": "'Overturn this' - Belgium mock Trump and FIFA after USA World Cup exit",
+      "summary": "Belgium players appeared to mock US President Donald Trump and FIFA after eliminating co-hosts USA from the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561192/overturn-this-belgium-mock-usa-after-world-cup-exit",
+      "publishedAt": "2026-07-07T14:47:27.999Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "526b83e4225365",
+      "title": "Infantino as secure as ever at FIFA – the Balogun Farrago is no resigning matter, and here’s why",
+      "summary": "There seems to be an assumption Gianni Infantino will face real consequences from the Balogun sh*storm. He almost certainly won’t.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/infantino-remains-secure-fifa-balogun-resigning-matter",
+      "publishedAt": "2026-07-07T14:45:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c9f9777f652f60",
+      "title": "Argentina v Egypt: World Cup 2026 last 16 – live",
+      "summary": "⚽️ World Cup kick-off time: 12pm EDT/5pm BST, 2am AEST ⚽️ Player guide | Bracketology | Golden Boot | Email Scott Argentina: Emiliano Martinez, Molina, Romero, Lisandro...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/07/argentina-v-egypt-world-cup-2026-last-16-live",
+      "publishedAt": "2026-07-07T14:40:09.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
       "id": "579c7e06aa5c7c",
       "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
-      "summary": "⚽ News and previews before the final last-16 match-ups ⚽ Player guide | Bracketology | Golden Boot | Email Luke Let’s talk about everyone’s favourite subject: England!...",
+      "summary": "⚽ News and previews before the final last-16 match-ups ⚽ Player guide | Bracketology | Golden Boot | Email us Let’s talk about everyone’s favourite subject: England! Wh...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive",
-      "publishedAt": "2026-07-07T09:40:09.000Z",
+      "publishedAt": "2026-07-07T14:37:37.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -375,6 +221,306 @@ window.FOOTBALLDAY_DATA = {
         "World Cup",
         "Fifa",
         "Inter"
+      ]
+    },
+    {
+      "id": "d688c3473a001f",
+      "title": "Man Utd reach verdict on pushing ahead with signing £80m Bournemouth star Alex Scott",
+      "summary": "According to reports, Manchester United plan to ‘push forward to complete’ a move for AFC Bournemouth star Alex Scott this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-reach-verdict-pushing-ahead-signing-80m-bournemouth-alex-scott",
+      "publishedAt": "2026-07-07T14:29:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4641a49d53501b",
+      "title": "The US had the biggest opportunity in the history of American soccer. They wasted it | Alexander Abnos",
+      "summary": "The USMNT’s run at a home World Cup had attracted people who usually ignore soccer. Instead of triumph, they saw a humbling at the hands of Belgium In the closing momen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
+      "publishedAt": "2026-07-07T14:00:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "257fa79a028c1d",
+      "title": "Chelsea set price for Alejandro Garnacho sale as leading contender to sign ex-Man Utd star named",
+      "summary": "According to reports, Chelsea have set an exit price for former Manchester United star Alejandro Garnacho after opening the door to a transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-set-price-alejandro-garnacho-sale-leading-contender-sign-ex-man-utd-star",
+      "publishedAt": "2026-07-07T13:44:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6238d820f8baba",
+      "title": "Why Jude Bellingham’s world is bigger than most of us can understand",
+      "summary": "The boy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic There has never been an English footballer quite...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders",
+      "publishedAt": "2026-07-07T13:39:23.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "df6f404f58845f",
+      "title": "Journalist jokingly tips Man Utd to contact second Chelsea reserve midfielder after Andrey Santos",
+      "summary": "A prominent Manchester United correspondent has torn into INEOS for trying to sign the Chelsea and Brazil international midfielder.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/andrey-santos-manchester-united-chelsea-romeo-lavia",
+      "publishedAt": "2026-07-07T12:49:58.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "6bf0c39accf337",
+      "title": "La Liga chief critical of 'complicit silence' surrounding Fifa",
+      "summary": "La Liga president Javier Tebas has criticised the \"complicit silence\" which surrounds Fifa after the Folarin Balogun controversy.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-07T12:49:44.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "La Liga",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "70fba940f8a31d",
+      "title": "Paul Scholes predicts England’s fate at the World Cup – ‘I think we’re in big trouble’",
+      "summary": "Manchester United legend Paul Scholes has predicted England’s World Cup fate ahead of the quarter-final against Norway.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/paul-scholes-predicts-england-fate-world-cup-big-trouble",
+      "publishedAt": "2026-07-07T12:42:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "be6b6e3cf35120",
+      "title": "Liverpool icon Mo Salah now a serious target for LaLiga giant – he’ll replace outbound legend",
+      "summary": "One of Spain’s big three are ‘serious’ about signing Liverpool legend, Mohamed Salah, and if a deal were agreed, he’d take the replace of an outbound icon.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-icon-mo-salah-serious-target-atletico-madrid-replace-antoine-griezmann",
+      "publishedAt": "2026-07-07T12:34:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8ed342806d6c65",
+      "title": "Switzerland v Colombia: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup round of 16 clash between Switzerland and Colombia.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/switzerland-v-colombia-prediction-preview",
+      "publishedAt": "2026-07-07T12:12:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "446cb95b7540ee",
+      "title": "Mourinho reaches decision on Real Madrid signing Erling Haaland from Man City – report",
+      "summary": "Mourinho has decided whether Madrid should move for the City superstar as Vinicius Junior’s replacement, a report has claimed",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-transfer-news-erling-haaland-jose-mourinho-man-city-exit",
+      "publishedAt": "2026-07-07T12:07:35.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "12fefc2a162742",
+      "title": "Yan Diomande told to sign for Liverpool as Reds expert reveals FSG acceptance in winger update",
+      "summary": "RB Leipzig superstar Yan Diomande has been told to “go to Liverpool”, while Reds expert James Pearce has revealed an update on their transfer business.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/yan-diomande-told-sign-liverpool-reds-expert-reveals-fsg-acceptance-in-winger-update",
+      "publishedAt": "2026-07-07T12:03:03.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "290d72cb25b8f8",
+      "title": "9.1m watch England's epic win over Mexico",
+      "summary": "A peak audience of 9.1 million tuned in overnight to watch England beat Mexico to reach the quarter-finals of the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-07T11:50:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e254aa87120b42",
+      "title": "Arsenal set price for Barcelona to sign Saliba as truth on Odegaard exit agreement revealed",
+      "summary": "A new report claims Arsenal have set a price for Barcelona to sign William Saliba, while there is an update on Martin Odegaard’s future.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-set-price-barcelona-sign-saliba-truth-odegaard-agreement-exit-revealed",
+      "publishedAt": "2026-07-07T11:15:26.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "61ed0000f1eabb",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-07T11:12:00.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "a243849d66aa06",
+      "title": "The superstar double act that became England's Wonderwall",
+      "summary": "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-07T11:11:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a754cdd9e1931a",
+      "title": "Romano claims Chelsea will ‘send new official bid’ for defender after reaching ‘agreement on terms’",
+      "summary": "Fabrizio Romano has revealed that Chelsea are determined to bring a Spanish left-back to Stamford Bridge in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/romano-chelsea-will-send-new-official-bid-defender-reaching-agreement",
+      "publishedAt": "2026-07-07T11:08:36.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0aced4c29b2c77",
+      "title": "£25m World Cup midfielder shoots up Man Utd wish list",
+      "summary": "United are considering moving for an impressive World Cup midfielder as an alternative to the likes of Scott and Tchouameni, as per a trusted journalist",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-news-midfield-targets-sander-berge-fulham-world-cup",
+      "publishedAt": "2026-07-07T11:07:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6dbfb7f4f1b7cb",
+      "title": "€175m winger willing to wait for Tottenham and fulfil his great desire",
+      "summary": "Tottenham Hotspur have received a huge boost in their quest to sign Rafael Leao, with a journalist claiming that the AC Milan winger is ready to join manager Roberto De...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-leao-transfer",
+      "publishedAt": "2026-07-07T10:20:17.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-07-07T10:05:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "12d982813c4b4d",
+      "title": "Messi v Salah: A World Cup meeting of two national icons",
+      "summary": "Mohamed Salah and Lionel Messi will meet in the last 16 of the World Cup on Tuesday with their nations' hopes resting firmly on their shoulders.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-07T09:58:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "df58006bfb3fce",
+      "title": "The 20 best footballers out of contract and available for free NOW",
+      "summary": "Ibrahima Konate and Marcos Senesi got their clubs, so who is left on the unwanted, free agent pile now it is July?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-footballers-available-free-transfers-contract-summer-2026",
+      "publishedAt": "2026-07-07T09:55:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c128c4b5d60d82",
+      "title": "David Squires on … England’s World Cup classic in Mexico and a Trump novelty",
+      "summary": "Our cartoonist looks at the big stories from the World Cup as England reach the last eight but the US slump out Buy David’s cartoons | Some of his favourite works And h...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/07/david-squires-on-england-world-cup-classic-mexico-donald-trump-fifa-usa-belgium",
+      "publishedAt": "2026-07-07T09:50:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -443,143 +589,6 @@ window.FOOTBALLDAY_DATA = {
         "Premier League",
         "Transfer",
         "Manchester"
-      ]
-    },
-    {
-      "id": "0758fa01d5d092",
-      "title": "Transfer rumors, news: Liverpool ahead of Man Unit...",
-      "summary": "Liverpool have made contact over a move for Mexico wonderkid Gilberto Mora. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49293765/transfer-rumors-news-liverpool-ahead-man-united-mora-race",
-      "publishedAt": "2026-07-07T09:10:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a45770478e2492",
-      "title": "Men's transfer grades: Tottenham get C for $125m T...",
-      "summary": "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "publishedAt": "2026-07-07T09:09:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "61b0f2e0e736b4",
-      "title": "Belgium taunt US with ‘overturn this’ after World Cup shellacking",
-      "summary": "Belgium posted a photo of Romelu Lukaku celebrating after scoring his team’s fourth goal with the caption: “Overturn this.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/belgium-taunt-us-overturn-this-world-cup",
-      "publishedAt": "2026-07-07T08:59:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5b589273af2fdb",
-      "title": "Fifa accuses Uefa of hypocrisy in latest war of words over Folarin Balogun decision",
-      "summary": "It says overturning red cards is a common measure No talk from Uefa before about ‘red line’, Fifa states Fifa has hit back at Uefa in the war of words over the lifting...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/07/fifa-accuses-uefa-hypocrisy-folarin-balogun-world-cup-decision-red-card",
-      "publishedAt": "2026-07-07T08:58:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "66012d7090c35b",
-      "title": "Former Chelsea boss Rosenior named Paris FC manager",
-      "summary": "Liam Rosenior is back in football management with Ligue 1 club Paris FC after being sacked by Chelsea in April.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy6jm0k65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-07T08:58:21.000Z",
-      "category": "league",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Ligue 1",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a255080594368b",
-      "title": "Arsenal have to pay £25m to West Ham to agree deal for World Cup star",
-      "summary": "Arsenal have been made aware of the fee that they need to pay West Ham United to sign one of their best players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-west-ham-united-aaron-wan-bissaka-latest-transfer-update",
-      "publishedAt": "2026-07-07T08:51:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "61555b12a971df",
-      "title": "Arsenal want to make five more signings after Jeremy Monga deal fell through for four reasons",
-      "summary": "Arsenal have reportedly decided to strengthen with five more signings this summer after missing out on Manchester City-bound Jeremy Monga for four reasons.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-want-make-five-more-signings-jeremy-monga-deal-fell-through-four-reasons",
-      "publishedAt": "2026-07-07T08:48:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3282daf3cc0947",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-07T08:17:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f2eb0800adacdf",
-      "title": "Neymar was Ancelotti's gamble at the World Cup, an...",
-      "summary": "Carlo Ancelotti calling up Neymar to Brazil's World Cup squad was always a risk, and it backfired badly when they got eliminated to Norway in the round of 16.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49292862/neymar-was-ancelottis-gamble-world-cup-failed",
-      "publishedAt": "2026-07-07T08:09:13.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c8fa84db3264a0",
-      "title": "What's next for Brazil after another painful World...",
-      "summary": "Brazil had to wait 28 years to win their first World Cup. Sunday's elimination means they'll be waiting 28 years, at least, for their next one.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49285837/next-brazil-another-painful-world-cup-exit",
-      "publishedAt": "2026-07-07T08:09:13.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
