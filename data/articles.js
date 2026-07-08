@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-08T14:25:11.377Z",
+  "generatedAt": "2026-07-08T19:39:38.210Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,213 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "0e578acceca02d",
-      "title": "Egypt make complaint to FIFA about 'unfair' referee decisions in Argentina defeat",
-      "summary": "Egypt have filed a formal complaint to FIFA about the refereeing decisions during their last-16 tie against Argentina, Sky Sports News understands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561649/argentina-3-2-egypt-fifa-receive-complaint-from-egypt-about-the-refereeing-decisions-in-last-16-defeat",
-      "publishedAt": "2026-07-08T14:25:11.375Z",
+      "id": "9584ee2fcc2989",
+      "title": "Best bets for the 2026 World Cup quarterfinal roun...",
+      "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49298153/fifa-world-cup-betting-quarterfinal-round-best-bets-picks-odds-props-futures-2026",
+      "publishedAt": "2026-07-08T20:34:36.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "55f8c39c4472d7",
+      "title": "Egypt FA: Can't be silent on Argentina referee cal...",
+      "summary": "The Egyptian FA said it \"cannot remain silent regarding the refereeing decisions\" following the team's round-of-16 loss to Argentina at the World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49305559/egypt-argentina-world-cup-2026-referee-var-knockout",
+      "publishedAt": "2026-07-08T20:20:24.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a214ba561ced2d",
+      "title": "Sources: Portugal eye Jorge Jesus for head coach",
+      "summary": "Portugal's Football Federation hope to announce Roberto Martinez's successor by the end of the week, with veteran coach Jorge Jesus the leading candidate to take over t...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49305287/portugal-jorge-jesus-roberto-martinez",
+      "publishedAt": "2026-07-08T20:20:24.000Z",
+      "category": "league",
+      "region": "global",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "d5863fd85b5fe4",
+      "title": "EU lawmakers eye investigating FIFA's Infantino",
+      "summary": "Dozens of European lawmakers are gathering support to launch an investigation in the European Parliament of FIFA boss Gianni Infantino over his involvement in the decis...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49301831/eu-lawmakers-want-gianni-infantino-investigated-trump-contact",
+      "publishedAt": "2026-07-08T20:20:24.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
         "Fifa"
       ]
     },
     {
-      "id": "c347c3153c8c6c",
-      "title": "Lord's braced for historic Test as England and India face off",
-      "summary": "England suffered a heartbreaking seven-wicket defeat to Australia in the ICC Women's T20 World Cup final at Lord's, but they have the chance to write new headlines at t...",
+      "id": "fe0d84a96921a0",
+      "title": "⚽ World Cup Golden Boot tracker: Messi leads",
+      "summary": "We're into the quarterfinals at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
+      "publishedAt": "2026-07-08T20:20:24.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c53837190c4b24",
+      "title": "Marcotti's Mini World Cup Musings: Messi is supern...",
+      "summary": "After 28 days of games, Wednesday is the first rest day of the 2026 World Cup: the perfect opportunity to reflect on four weeks of fabulous football.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49307058/gabriele-marcotti-mini-world-cup-musings-lionel-messi-supernatural-usmnt-get-reality-check",
+      "publishedAt": "2026-07-08T19:48:07.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e1f759503fcbb4",
+      "title": "Sources: Utd, Chelsea agree $67M deal for Santos",
+      "summary": "Manchester United have agreed a deal with Chelsea for midfielder Andrey Santos, sources have told ESPN.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49307337/man-united-agree-50m-deal-sign-chelsea-midfielder-andrey-santos-sources",
+      "publishedAt": "2026-07-08T19:47:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "19d62e68510a7a",
+      "title": "2x Ballon d'Or winner Putellas joins London City",
+      "summary": "Two-time Ballon d'Or winner and former Barcelona star Alexia Putellas has joined London City Lionesses.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49018363/two-ballon-dor-winner-alexia-putellas-joins-wsl-side-london-city-lionesses",
+      "publishedAt": "2026-07-08T19:47:58.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "39e2019f97455b",
+      "title": "Amorim: I made 'mistakes' as Man United boss",
+      "summary": "Ruben Amorim has admitted to making mistakes during his time as Manchester United boss but said he learned a lot during his time at Old Trafford.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49307048/ruben-amorim-made-mistakes-manchester-united-ac-milan",
+      "publishedAt": "2026-07-08T19:47:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d3e8424cbf895d",
+      "title": "Messi, Ream, Berhalter headline MLS ASG roster",
+      "summary": "Argentina and Inter Miami CF star Lionel Messi and U.S. players Matt Freese, Max Arfsten, Tim Ream and Sebastian Berhalter were included in MLS' 29-man All-Star Game ro...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49298192/lionel-messi-tim-ream-seb-berhalter-headline-mls-all-star-game-roster",
+      "publishedAt": "2026-07-08T19:47:58.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "dc7aba74b87274",
+      "title": "FIFA suspended 2 U.S. officials for Belgium game",
+      "summary": "Two staff members of the United States men's soccer team were suspended by FIFA from Monday's round-of-16 game against Belgium.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49299468/fifa-suspended-usa-soccer-staff-members-belgium",
+      "publishedAt": "2026-07-08T19:47:57.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "Soccer",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "f2e4a06879225b",
+      "title": "World Cup Daily live: Tournament's 3,000th goal on...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
+      "publishedAt": "2026-07-08T19:42:45.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "286db011c1bb66",
+      "title": "After rejecting France, Bouaddi can end their Worl...",
+      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
+      "publishedAt": "2026-07-08T19:42:45.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2b76e3b66e0efe",
+      "title": "Leeds sign free agent Wilson after Fulham exit",
+      "summary": "Leeds have completed a deal to sign Harry Wilson on a free transfer following his departure from Fulham.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13561258/england-vs-india-nat-sciver-brunts-side-set-for-historic-first-lords-test-after-heartbreaking-t20-world-cup-final-loss",
-      "publishedAt": "2026-07-08T14:25:11.375Z",
+      "url": "https://www.skysports.com/football/news/12040/13561731/harry-wilson-to-leeds-united-wales-international-makes-elland-road-switch-after-leaving-fulham",
+      "publishedAt": "2026-07-08T19:39:38.028Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "dc7cb6a3d92a7c",
+      "title": "Man Utd agree £50m deal for Chelsea midfielder Santos",
+      "summary": "Manchester United have agreed a £50m deal to sign Chelsea midfielder Andrey Santos.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561742/andrey-santos-manchester-united-agree-50m-deal-for-chelsea-and-brazil-midfielder",
+      "publishedAt": "2026-07-08T19:39:38.028Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "75cd24dc03083f",
+      "title": "Superstars, politics and hydration breaks: Themes of the World Cup so far",
+      "summary": "A rest day at the World Cup provides the opportunity to take stock of how the biggest-ever edition has gone so far.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561711/world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-of-tournament-so-far",
+      "publishedAt": "2026-07-08T19:39:38.028Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -125,42 +313,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "dd172b2cf266fb",
-      "title": "'Perfect occasion to sign off' - Beaumont announces England retirement",
-      "summary": "Tammy Beaumont will retire from international cricket at the end of the Rothesay Test match against India, live on Sky Sports .",
+      "id": "096d7c75a5f743",
+      "title": "London City Lionesses complete landmark signing of Putellas",
+      "summary": "London City Lionesses have completed the landmark signing of free agent Alexia Putellas following her departure from Barcelona.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13561650/tammy-beaumont-england-record-breaker-to-retire-from-international-cricket-after-historic-lords-test-against-india",
-      "publishedAt": "2026-07-08T14:25:11.375Z",
+      "url": "https://www.skysports.com/football/news/12040/13548205/alexia-putellas-news-barcelona-and-spain-midfielder-joins-london-city-lionesses-on-a-free-transfer",
+      "publishedAt": "2026-07-08T19:39:38.028Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "spain",
       "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "70d0a2d2e3dc4c",
-      "title": "Highlights: England THUMP India in 3rd T20I thrashing",
-      "summary": "Highlights from the third T20 international between England and India at Trent Bridge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13561435/england-vs-india-3rd-t20i-highlights",
-      "publishedAt": "2026-07-08T14:25:11.375Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "9d35338e91054e",
-      "title": "'I hope they lose and cry!' | Hovland's World Cup wish ahead of Saturday!",
-      "summary": "Viktor Hovland made his feelings very clear on who he is backing in the World Cup quarter-final between England and Norway on Saturday!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13561357/viktor-hovlands-world-cup-wish-ahead-of-saturday-i-hope-they-lose-and-cry",
-      "publishedAt": "2026-07-08T14:25:11.375Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Barcelona"
       ]
     },
     {
@@ -169,7 +331,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports' Dave Reed explains which FOUR England players need to watch their step in the World Cup quarter-final against Norway and why one of them is NOT captain Harr...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13561651/explained-why-harry-kane-is-safe-from-missing-world-cup-semi-final-but-jude-bellingham-is-not",
-      "publishedAt": "2026-07-08T14:25:11.374Z",
+      "publishedAt": "2026-07-08T19:39:38.028Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,109 +339,81 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d2079932b5dd65",
-      "title": "The five biggest Premier League transfer overpays of the summer so far",
-      "summary": "Spurs are responsible for three of the five biggest Premier League overpays so far this summer, but not the most apparently egregious.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-premier-league-transfer-overpays-this-summer-spurs",
-      "publishedAt": "2026-07-08T14:12:16.000Z",
+      "id": "6918b8aceabb0d",
+      "title": "Newcastle captain Guimaraes tells club he wants to join Arsenal",
+      "summary": "Newcastle captain Bruno Guimaraes has told the club he wants to join Arsenal, it has been confirmed to Sky Sports News .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561780/bruno-guimaraes-transfer-news-newcastle-captain-tells-club-he-wants-to-join-arsenal-after-world-cup-exit-with-brazil",
+      "publishedAt": "2026-07-08T19:39:38.027Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Transfer"
+        "Arsenal"
       ]
     },
     {
-      "id": "cccd6947a3390b",
-      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Croatia head coach Dalic quits – live",
-      "summary": "⚽ All the latest as we look ahead to the quarter-finals ⚽ Player guide | Bracketology | Golden Boot | Email us Perhaps Lionel Messi could do with a look at this video –...",
+      "id": "384a72d3638435",
+      "title": "Newcastle reporter reveals whether Guimaraes will force his way to Arsenal in Isak saga repeat",
+      "summary": "Could Bruno Guimaraes force his way to Arsenal from Newcastle United just like Alexander Isak went on strike before joining Liverpool?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-newcastle-bruno-guimaraes-latest-update",
+      "publishedAt": "2026-07-08T19:19:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6562915c9335e7",
+      "title": "Man Utd reach decision on Rashford return as current expectation revealed with Carrick stance",
+      "summary": "According to reports, Manchester United have ‘reached a huge decision’ on Marcus Rashford’s future after ‘crunch talks’ with Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-reach-decision-rashford-return-current-expectation-revealed-carrick-stance",
+      "publishedAt": "2026-07-08T19:16:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dffbb535f7ade7",
+      "title": "Reece James remains injury doubt as England’s World Cup right-back woes go on",
+      "summary": "Defender unable to train with squad on Wednesday Declan Rice and Marc Guéhi also trained individually Reece James is a doubt for England’s World Cup quarter-final again...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live",
-      "publishedAt": "2026-07-08T14:09:40.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final",
+      "publishedAt": "2026-07-08T19:08:24.000Z",
       "category": "worldcup",
-      "region": "italy",
+      "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "69a40a946694c7",
-      "title": "World Cup quiz: Teams to have played the most quarter-finals",
-      "summary": "With the first World Cup quarter-final taking place tomorrow we've been inspired to make this quiz.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3plgedn30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T14:04:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "7a46721ad6bab3",
-      "title": "Real Madrid accept significant Man Utd offer as Tchouameni reacts to ‘very good’ deal",
-      "summary": "Man Utd have made a five-year contract offer to Real Madrid midfielder Aurelien Tchouameni, according to reports.",
+      "id": "2e218154d2b9a0",
+      "title": "Real Madrid want record-breaking fee to agree Aurelien Tchouameni deal with Man Utd",
+      "summary": "Manchester United have been made aware of the massive transfer fee that Real Madrid will demand for Aurelien Tchouameni.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-tchouameni-real-madrid-accept-offer-very-good-contract",
-      "publishedAt": "2026-07-08T14:01:35.000Z",
+      "url": "https://www.football365.com/news/real-madrid-man-united-tchouameni-record-breaking-transfer-fee",
+      "publishedAt": "2026-07-08T18:33:55.000Z",
       "category": "transfer",
-      "region": "spain",
+      "region": "england spain",
       "tags": [
+        "Transfer",
+        "Manchester",
         "Real Madrid"
       ]
     },
     {
-      "id": "62785248ad5506",
-      "title": "Egypt want officials kicked out of World Cup",
-      "summary": "The Egyptian FA lodges a complaint with Fifa and demands an investigation into \"double standards\" of officiating in the controversial defeat by Argentina.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzdd070r3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T13:45:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "b2ee14069b51cb",
-      "title": "World Cup referees running 13km per match; they train like players",
-      "summary": "Referees are typically covering 12 to 13 kilometres per match according to FIFA – a distance comparable to many outfield players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-referees-running-13km-per-match-they-train-like-players",
-      "publishedAt": "2026-07-08T13:34:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "63d4803a54f0d5",
-      "title": "Iraola ‘requests’ Chelsea star as third Liverpool signing after insider says £120m man ‘will leave’",
-      "summary": "Liverpool head coach Andoni Iraola has reportedly asked the Reds hierarchy to break the bank to sign Chelsea midfielder Enzo Fernandez.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-iraola-requests-fernandez-chelsea-signing-will-leave",
-      "publishedAt": "2026-07-08T13:33:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e267a785b6f5cd",
-      "title": "A World Cup free agent XI: summer bargains and top targets among clubless players",
-      "summary": "A goalkeeper with 27.5m Instagram followers and a forward whose future is opaque make our team of players looking for new clubs As late bloomers and cult heroes go, few...",
+      "id": "a48e2c077fa357",
+      "title": "Egyptian FA questions ‘fairness’ of loss to Argentina amid refereeing furore",
+      "summary": "Statement says decisions ‘raised serious concerns’ Association rues ‘controversial and influential incidents’ The Egyptian Football Association has questioned the “fair...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-free-agent-xi-vozinha-salah-clubless-players",
-      "publishedAt": "2026-07-08T13:21:06.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/08/egyptian-fa-questions-fairness-of-loss-to-argentina-amid-refereeing-furore",
+      "publishedAt": "2026-07-08T18:23:18.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -288,12 +422,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ade9c2928c4d2a",
-      "title": "Wrexham to 'hold nerve' in transfer window - Parkinson",
-      "summary": "Wrexham manager Phil Parkinson urging patience after a slow start to the transfer window by the Championship club.",
+      "id": "195f238a74da28",
+      "title": "Liverpool ready to bid for £80m-rated Yan Diomande alternative who is loved by Andoni Iraola",
+      "summary": "According to reports, Liverpool are ‘ready to bid’ for Brighton star Yankuba Minteh, with this deal to be triggered by Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-ready-bid-80m-rated-yan-diomande-alternative-loved-iraola",
+      "publishedAt": "2026-07-08T18:22:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "98e4316423e96b",
+      "title": "Leeds confirm Wilson arrival on free transfer",
+      "summary": "Leeds confirm the signing attacking midfielder Harry Wilson on a four-year deal.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w220v7n97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T13:17:51.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rydrz49e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-08T18:03:09.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -301,80 +449,39 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "b78ca133a1a4ca",
-      "title": "No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil",
-      "summary": "Country’s model prioritises joy while offering choice – and Erling Haaland’s World Cup exploits show that it works At full time, the arithmetic felt wrong. A team from...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/08/how-norway-made-sport-fun-kids-built-football-team-beat-brazil-world-cup",
-      "publishedAt": "2026-07-08T13:13:57.000Z",
+      "id": "b19666ea2a96e6",
+      "title": "Pay-to-play youth soccer explains America's World Cup losses",
+      "summary": "Focus is more on parents' ability to pay for travel matches than on young player development",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/worldcup/story/_/id/49297263/usmnt-world-cup-loss-youth-travel-soccer-system",
+      "publishedAt": "2026-07-08T18:02:59.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
-        "Football",
+        "Soccer",
         "World Cup"
       ]
     },
     {
-      "id": "4d261ffd45b620",
-      "title": "Has World Cup signalled end of chaos at corners?",
-      "summary": "Can the Premier League learn anything from the refereeing of corners at the World Cup?",
+      "id": "6ef024f50a5022",
+      "title": "Chelsea announce £40m Quenda signing",
+      "summary": "Chelsea announce the signing of Sporting winger Geovany Quenda in a deal worth £40m.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y723g7eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T12:50:16.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy0v39qkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-08T18:01:38.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e73b41b8ca52dd",
-      "title": "How to take a World Cup shootout penalty",
-      "summary": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04yk2rzv2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T12:46:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "45a75a9335e7cb",
-      "title": "Journalist drops seismic Tchouameni to Man Utd blow amid huge Liverpool boost",
-      "summary": "It is good news for Liverpool but bad news for Man Utd as Madrid decide on the future of six midfielders, according to a journalist",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfers-aurelien-tchouameni-real-madrid-decision-sale-liverpool-camavinga",
-      "publishedAt": "2026-07-08T12:42:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "18fcd63e4d7378",
-      "title": "Romano gives ‘here we go’ to Chelsea transfer in ninth deal of the summer window",
-      "summary": "Chelsea have allowed Jesse Derry to join Sporting CP on a season-long loan deal as Fabrizio Romano gives his ‘here we go’ confirmation.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-transfer-romano-here-we-go-derry-sporting-cp-vlahovic",
-      "publishedAt": "2026-07-08T12:41:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
         "Chelsea"
       ]
     },
     {
-      "id": "818e08cc1ab368",
-      "title": "World Cup pressure rankings: Desperate England will always take one trophy",
-      "summary": "Who is under the most pressure to grab that infamous slab of gold that is the World Cup? It’s fair to say it’s not Switzerland…",
+      "id": "fb7ce995a2089d",
+      "title": "France v Morocco: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup quarter-final between France and Morocco.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-pressure-rankings-england",
-      "publishedAt": "2026-07-08T12:31:37.000Z",
+      "url": "https://www.football365.com/match-preview/france-v-morocco-prediction-preview",
+      "publishedAt": "2026-07-08T17:55:07.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -382,205 +489,98 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5029c7fb6edd8c",
-      "title": "Dalic leaves as Croatia coach after nine years",
-      "summary": "Croatia head coach Zlatko Dalic steps down after nine years in charge following their defeat against Portugal in the World Cup.",
+      "id": "3cc29a3ef36234",
+      "title": "Arsenal target Guimaraes asks to leave Newcastle",
+      "summary": "Newcastle midfielder Bruno Guimaraes asks to leave the club with Arsenal accelerating their interest in the 28-year-old.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly7eeyl5evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T12:27:04.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "20e60e858d8ae5",
-      "title": "Man Utd get ruthless with new decision on Marcus Rashford future revealed",
-      "summary": "Manchester United have made up their mind regarding what to do with Marcus Rashford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-ruthless-new-decision-marcus-rashford-future-revealed",
-      "publishedAt": "2026-07-08T12:26:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3a2f0226280a34",
-      "title": "Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
-      "summary": "The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament This has been the W...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026",
-      "publishedAt": "2026-07-08T12:14:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T12:14:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "94e99635cd7531",
-      "title": "From Hart to Seedorf to Kewell: standout pundits of the 2026 World Cup",
-      "summary": "We pick six of the best analysts to feature at the World Cup in North America on screens in the UK, US and Australia Joe Hart There’s long been a feeling that, when it...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/08/standout-pundits-2026-world-cup-joe-hart-clarence-seedorf-harry-kewell",
-      "publishedAt": "2026-07-08T12:08:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ef1ec58bcdbed5",
-      "title": "Meet the duo visiting all 16 World Cup venues in a London cab",
-      "summary": "Meet Ollie Jenks and Seth Scott, who are attempting to visit all 16 World Cup stadiums in a traditional London taxi.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlw73llp3jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T11:51:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "df3ccd7357deb1",
-      "title": "Tottenham make decisive move for eighth signing, while Spurs go all out to beat Arsenal to Kroupi",
-      "summary": "Tottenham are lining up a deal to sign Juventus goalkeeper Michele Di Gregorio this summer, according to reports in Italy.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-decisive-move-di-gregorio-juventus-all-out-arsenal-kroupi",
-      "publishedAt": "2026-07-08T11:27:02.000Z",
-      "category": "transfer",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77yg781lr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-08T17:52:11.000Z",
+      "category": "ratings",
       "region": "england italy",
       "tags": [
         "Arsenal",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "91507d5e2b8a43",
-      "title": "England handed ‘great omen’ ahead of Norway clash as plan to stop Haaland ‘revealed’",
-      "summary": "England might not be able to come up with a plan to stop Erling Haaland in the World Cup quarter-final, but they do have a ‘timely omen’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-plan-erling-haaland-world-cup-quarter-final-mediawatch",
-      "publishedAt": "2026-07-08T11:13:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "973acb72523149",
-      "title": "A striker duel for the ages & Qatar revenge - what to expect in quarter-finals",
-      "summary": "Setting the scene for each of the four intriguing World Cup quarter-finals that begin on Thursday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyyvn1yn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T10:56:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "96c7831b776e84",
-      "title": "Goals galore - how dominant is Premier League wealth at World Cup?",
-      "summary": "BBC Sport explores just how dominant the Premier League's wealth is at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77yg8nr516o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T10:52:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e20242036dfcbd",
-      "title": "Marcus Rashford expected to start new season back at Manchester United",
-      "summary": "Carrick set to welcome player after World Cup Club preference is to ease wage bill by selling striker Marcus Rashford is set to be re-integrated at Manchester United af...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/08/marcus-rashford-return-manchester-united-new-season-move-away-not-ruled-out-football",
-      "publishedAt": "2026-07-08T10:51:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Europa League",
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1747748b4480f3",
-      "title": "England are in The World Cup New Order: Germany and Brazil left behind",
-      "summary": "This is the first time a World Cup quarter‑final has featured none of Germany, the Netherlands, Italy or Brazil. It’s a new club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-are-in-the-world-cup-new-order-germany-and-brazil-left-behind",
-      "publishedAt": "2026-07-08T10:48:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ca18af58d9785d",
-      "title": "Man Utd renew interest in Norway star after Brazil win as INEOS find out asking price",
-      "summary": "Man Utd are once again looking into the possibility of signing Borussia Dortmund defender Julian Ryerson this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-ryerson-dortmund-renew-interest-asking-price",
-      "publishedAt": "2026-07-08T10:32:56.000Z",
-      "category": "transfer",
-      "region": "italy germany",
-      "tags": [
         "Inter"
       ]
     },
     {
-      "id": "fed3e3f6c8d00f",
-      "title": "Aurelien Tchouameni reaches decision on joining Man Utd as INEOS prepare monster bid",
-      "summary": "Tchouameni is open to joining Man Utd from Real Madrid on one condition, with INEOS now prepared to put a mega-money bid on the table.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aurelien-tchouameni-reaches-decision-joining-man-utd-ineos-prepare-monster-bid",
-      "publishedAt": "2026-07-08T10:20:15.000Z",
+      "id": "e650eea88bcf5a",
+      "title": "From Barcelona to Bromley: Inside Putellas' move to LCL",
+      "summary": "London City Lionesses have pulled off one of the biggest signings in WSL history - but how did they persuade Alexia Putellas to join?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn75ndvd1y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-08T17:39:10.000Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "3a83048bac4ac7",
+      "title": "Aid worker who organised World Cup screenings in Gaza killed in Israeli strike",
+      "summary": "Mohamed al-Wahidi died when a missile struck his taxi shortly before Egypt played Argentina in their last 16 match A Palestinian aid worker who had organised screenings...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/world/2026/jul/08/aid-worker-world-cup-screenings-gaza-killed-israeli-strike",
+      "publishedAt": "2026-07-08T17:35:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d487af545b17e1",
+      "title": "Romano reveals Real Madrid decision on signing Rodri from Man City after Perez call",
+      "summary": "Fabrizio Romano has disclosed the decision that Real Madrid president Florentino Perez has made about signing Manchester City midfielder Rodri",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/romano-reveals-real-madrid-decision-signing-rodri-man-city-perez-call",
+      "publishedAt": "2026-07-08T17:34:30.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
         "Real Madrid"
       ]
     },
     {
+      "id": "39825f7a458006",
+      "title": "Premier League 2026-27 kits: Ranking every jersey ...",
+      "summary": "It's still almost two months before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "publishedAt": "2026-07-08T17:33:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
       "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Man Utd, Newcastle lead race for German; Spurs working on seventh signing",
-      "summary": "Man Utd and Newcastle are at the front of the queue for a €120m midfielder, while Tottenham ‘keep working’ towards their next signing…",
+      "title": "Transfer rumour ranking: Man Utd agree second signing and third could follow soon",
+      "summary": "Manchester United have ‘agreed’ their second summer signing, and another arrival could quickly follow. Meanwhile, Bruno Guimaraes has made an exit decision.",
       "source": "Football365",
       "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-08T09:58:01.000Z",
+      "publishedAt": "2026-07-08T17:20:01.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d41e2acd72bfc8",
+      "title": "Copy of Meet your World Cup quarterfinalists! How they got...",
+      "summary": "And then there were eight. Four weeks after the World Cup began, the quarterfinals start on Thursday with each team three wins away from lifting the trophy.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49294844/fifa-world-cup-quarterfinal-preview-predictions-odds-argentina-belgium-england-france-morocco-norway-spain-switzerland",
+      "publishedAt": "2026-07-08T17:14:04.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
       ]
     }
   ],
