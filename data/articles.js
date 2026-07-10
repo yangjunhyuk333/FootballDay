@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-09T19:52:18.803Z",
+  "generatedAt": "2026-07-10T03:45:43.755Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,204 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "b47533fc6bc587",
-      "title": "Sources: Pulisic has microfracture, bone bruise",
-      "summary": "USMNT and AC Milan attacker Christian Pulisic sustained a bone bruise and microfracture in his lower leg and will be sidelined for several weeks, U.S. Soccer confirmed...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources",
-      "publishedAt": "2026-07-09T20:45:16.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Soccer",
-        "Milan"
-      ]
-    },
-    {
-      "id": "23510f919c2746",
-      "title": "Haaland says Norway's WC chances 'still really low...",
-      "summary": "Norway striker Erling Haaland has said that his side's chances of winning the World Cup are \"really low\" -- and that all the pressure is on England ahead of their World...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49317174/norway-erling-haaland-chances-really-low-world-cup-pressure-england-quarterfinal",
-      "publishedAt": "2026-07-09T20:45:16.000Z",
+      "id": "f8ea4d68225e6a",
+      "title": "Mbappe mirrors Messi magic as World Cup's greatest storyline rolls on",
+      "summary": "This summer's World Cup has been one of the most fascinating on the pitch in recent memory. Not because of the teams. Because of two men.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562058/kylian-mbappe-produces-a-copy-paste-performance-as-his-world-cup-battle-with-lionel-messi-continues-to-produce-magic",
+      "publishedAt": "2026-07-10T03:45:43.264Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "fe0d84a96921a0",
-      "title": "⚽ World Cup Golden Boot tracker: Messi leads",
-      "summary": "We're into the quarterfinals at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "publishedAt": "2026-07-09T20:45:16.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "74c67d88b07e29",
-      "title": "Source: Barça bid for Dortmund's Karim Adeyemi",
-      "summary": "Barcelona have made an offer for Borussia Dortmund's Karim Adeyemi as they continue to build their attack for next season, a source told ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49312905/barcelona-bid-borussia-dortmund-karim-adeyemi-source",
-      "publishedAt": "2026-07-09T20:44:59.000Z",
-      "category": "transfer",
-      "region": "spain germany",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "9f566ea690184d",
-      "title": "England's Quansah gets 2-game ban for Ro16 red",
-      "summary": "England fullback Jarell Quansah has been suspended for two matches after receiving a red card in his side's World Cup round-of-16 win over Mexico.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49315827/england-jarell-quansah-suspended-two-world-cup-matches-mexico-red",
-      "publishedAt": "2026-07-09T20:44:58.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e1f759503fcbb4",
-      "title": "Sources: Utd, Chelsea agree $67M deal for Santos",
-      "summary": "Manchester United have agreed a deal with Chelsea for midfielder Andrey Santos, sources have told ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49307337/man-united-agree-50m-deal-sign-chelsea-midfielder-andrey-santos-sources",
-      "publishedAt": "2026-07-09T20:44:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5c4c06bb7887e9",
-      "title": "U.S.'s Campbell joins Elversberg from Dortmund",
-      "summary": "American forward Cole Campbell is joining Bundesliga newcomer Elversberg from Borussia Dortmund.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49315578/us-cole-campbell-joins-elversberg-borussia-dortmund",
-      "publishedAt": "2026-07-09T20:44:58.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "10c8abec479e64",
-      "title": "Cherundolo to coach U.S. U-23s at '28 Olympics",
-      "summary": "The U.S. Soccer Federation named former United States international and MLS Cup-winning coach Steve Cherundolo to be the manager of the U.S. U-23 national team that wil...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49314430/steve-cherundolo-manager-us-u23s-2028-la-olympics",
-      "publishedAt": "2026-07-09T20:44:58.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Soccer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "27d14fcee1dbf0",
-      "title": "World Cup updates: France take on Morocco in first...",
-      "summary": "null",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49309361/world-cup-updates-france-take-morocco-first-quarterfinal-showdown",
-      "publishedAt": "2026-07-09T20:11:46.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0457879044b921",
-      "title": "'Put pressure on the English lads!' | Haaland: Everyone should stay humble!",
-      "summary": "Erling Haaland looks ahead to the World Cup match against England, where he will be facing some of his Premier League pals.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13562026/erling-haaland-everyone-should-stay-humble-put-pressure-on-the-english-lads",
-      "publishedAt": "2026-07-09T19:52:18.426Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "90c2b0c76bd10e",
-      "title": "Is Man Utd's midfield rebuild going to plan?",
-      "summary": "Manchester United had plans to rebuild their midfield with top signings this summer and despite falling short in the search for a number of targets, progress is now bei...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561668/man-utd-transfer-news-is-the-old-trafford-midfield-rebuild-going-to-plan-as-michael-carricks-side-prepare-for-2026-27",
-      "publishedAt": "2026-07-09T19:52:18.426Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "57cff858d4e051",
-      "title": "Betfred World Matchplay 2026: Littler faces Springer as draw confirmed",
-      "summary": "Luke Littler will take on Niko Springer as he looks to defend his World Matchplay title, live on Sky Sports from July 18-26, at the Winter Gardens in Blackpool.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13561989/betfred-world-matchplay-2026-luke-littler-faces-niko-springer-luke-humphries-takes-on-cameron-menzies-as-draw-confirmed",
-      "publishedAt": "2026-07-09T19:52:18.426Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "771c5679af9f81",
-      "title": "Redknapp: Quansah two-match ban 'harsh' | 'Get the PM to ring FIFA!'",
-      "summary": "Harry Redknapp jokingly calls for the Prime Minister to ring FIFA after Jarell Quansah was handed a two match suspension for his foul against Mexico last week.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13562061/get-our-prime-minister-to-ring-fifa-harry-redknapp-calls-for-british-pm-to-overturn-jarell-quansahs-two-match-ban",
-      "publishedAt": "2026-07-09T19:52:18.426Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "da1a0e48835b50",
-      "title": "Bruno pursuit shows Arsenal's efforts to capitalise on 'win window'",
-      "summary": "Two days after Arsenal's title celebrations at Selhurst Park in May, when fans were still savouring their success, co-chair Josh Kroenke was already looking ahead. \"If...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561995/bruno-guimaraes-to-arsenal-newcastle-captain-wanted-as-gunners-aim-to-turn-title-success-into-dominance",
-      "publishedAt": "2026-07-09T19:52:18.426Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "16c3625c2d0093",
-      "title": "Arsenal sign former Leeds goalkeeper Meslier",
-      "summary": "Illan Meslier has joined Arsenal on a free transfer after being released by Leeds United last week.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561962/illan-meslier-to-arsenal-gunners-sign-former-leeds-goalkeeper-on-free-transfer",
-      "publishedAt": "2026-07-09T19:52:18.426Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
       ]
     },
     {
@@ -305,11 +117,173 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England defender Jarell Quansah has been banned for two matches following his red card in their World Cup last-16 victory over Mexico.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13562035/jarrell-quansah-banned-for-two-world-cup-games-for-red-card-vs-mexico",
-      "publishedAt": "2026-07-09T19:52:18.425Z",
+      "publishedAt": "2026-07-10T03:45:43.264Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "b2af63274c5856",
+      "title": "Papers: EU lawmakers call for investigation into Balogun 'scandal'",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562130/x-paper-talk",
+      "publishedAt": "2026-07-10T03:45:43.263Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "2dc25e4d0d36d0",
+      "title": "Mbappe magic sees off Morocco as France skipper shrugs off penalty miss",
+      "summary": "Kylian Mbappe shrugged off a missed penalty to star as France beat Morocco 2-0 in Boston to clinch their spot in the semi-finals of the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/france-vs-morocco/report/549862",
+      "publishedAt": "2026-07-10T03:45:43.262Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "81d99fd4392c7f",
+      "title": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "summary": "World Cup winners in 1998 and 2018, France have created another special team and in beating Morocco showed why they are favourites to win the 2026 competition.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T00:43:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e3bd691d122010",
+      "title": "Klopp reveals how Liverpool tried to sign Mbappe",
+      "summary": "Jurgen Klopp says he \"flew around in a circle\" in a private plane with Kylian Mbappe and his family when he tried to sign him for Liverpool a decade ago.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-09T23:42:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "73b792a5b5015e",
+      "title": "Mbappe is Mr World Cup and France look simply unstoppable after Morocco cruise",
+      "summary": "France and Kylian Mbappe are going to take some stopping at this World Cup. If anyone does manage it, it won’t be the way Morocco tried.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mbappe-mr-world-cup-france-unstoppable-morocco-cruise",
+      "publishedAt": "2026-07-09T22:27:42.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Mbappe-powered France have air of inevitability",
+      "summary": "We’re into the 2026 World Cup quarter-finals now, and it’s hard to see how anyone topples the increasingly clear favourites.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-07-09T22:15:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "04a59c9a3c2437",
+      "title": "Mbappé stunner ends Morocco resistance to send France into World Cup semi-finals",
+      "summary": "There is a relentlessness to this France that might make them irresistible. Morocco no doubt had the best of intentions, ideas of how they could hurt the side that had...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report",
+      "publishedAt": "2026-07-09T22:13:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a27bebda59d4bc",
+      "title": "Norway's Haaland calls for media pressure on England before quarter-final",
+      "summary": "Norway striker Erling Haaland says all the pressure is on England before the two sides' World Cup quarter-final on Saturday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-09T22:01:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is destined to absolutely shatter the all-time World Cup scoring record while winning myriad trophies for France and Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-07-09T21:37:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal catch unlikely Prem pair again",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are obviously level with Crystal Palace and Sunderland now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-09T21:33:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a811b3f8533384",
+      "title": "‘There is a magnificent balance’: how Spain built a record-breaking defence",
+      "summary": "The Spain goalkeeper Unai Simón has not conceded a goal at the World Cup and, worryingly for Belgium, he has not had to face that many shots “We’re the villains, there...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/09/there-is-a-magnificent-balance-how-spain-built-a-record-breaking-defence",
+      "publishedAt": "2026-07-09T21:25:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e54c6da05d3c13",
+      "title": "Spurs make offer for Kolo Muani - Friday gossip",
+      "summary": "Tottenham make an offer for Randal Kolo Muani but Juventus remain favourites to sign the forward, Arsenal are ready to finalise a deal for Christos Tzolis, Marcus Rashf...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz91n7e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-09T20:41:50.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Barcelona",
+        "Juventus"
       ]
     },
     {
@@ -324,21 +298,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "3067a218bf20b9",
-      "title": "France v Morocco: World Cup 2026 quarter-final – live",
-      "summary": "⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott France have long demonstrated the benefits of diversity at the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live",
-      "publishedAt": "2026-07-09T19:32:58.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     },
     {
@@ -455,7 +414,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "0bfe8e7e63c75a",
       "title": "Jarell Quansah handed two-match ban by Fifa for sending off against Mexico",
-      "summary": "England defender’s challenge deemed serious foul play Misses quarter-final as well as potential semi-final Jarell Quansah has been given a two-game ban for his red card...",
+      "summary": "England defender’s challenge deemed serious foul play Quansah misses quarter-final and potential semi-final Jarell Quansah has been given a two-game ban for his red car...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/09/jarell-quansah-handed-two-match-ban-by-fifa-for-sending-off-against-mexico",
       "publishedAt": "2026-07-09T17:02:40.000Z",
@@ -536,32 +495,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "bb904adcf0963c",
-      "title": "Grading the USMNT's World Cup: Did Pochettino, Pul...",
-      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
-      "publishedAt": "2026-07-09T16:17:45.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "fb3929d189817e",
-      "title": "Let's face it: The USMNT's coach doesn't matter --...",
-      "summary": "U.S. fans expected more out of the USMNT's coach at the World Cup, but there was one problem: the players.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49298797/usmnt-failed-world-cup-players-no-coach-save-them",
-      "publishedAt": "2026-07-09T16:17:45.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "fced90b7a6b675",
       "title": "Oxford placed under summer transfer embargo by EFL",
       "summary": "Oxford United are placed under a temporary transfer embargo by the English Football League.",
@@ -587,6 +520,74 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "World Cup"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Arsenal moving for another winger as Newcastle make progress",
+      "summary": "Newcastle United have agreed a fee for a World Cup star but they could yet lose out, while Arsenal are serious about another winger…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-09T15:33:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "75f62626b249f9",
+      "title": "Going first in a penalty shootout gives teams an advantage … or does it?",
+      "summary": "Thirteen of the past 15 shootouts at World Cups have been won by the team that went second By Opta Analyst After watching 120 minutes of football, you might not find ob...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/09/world-cup-first-penalty-shootout-advantage-second",
+      "publishedAt": "2026-07-09T15:18:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1ef0dcefbc14d2",
+      "title": "Newcastle signal Guimaraes will join Arsenal for stunning new fee after signing announced and another nearly agreed",
+      "summary": "The signs from multiple sources now point to Newcastle selling Bruno Guimaraes to Arsenal for a compromised fee.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/newcastle-signal-bruno-guimaraes-join-arsenal-stunning-new-fee-sean-steur-transfer-announced-johan-manzambi-nearly-agreed",
+      "publishedAt": "2026-07-09T15:17:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "174729074dec22",
+      "title": "Man Utd target French midfielder if Ederson deal falls through – ‘enquiries made’",
+      "summary": "Manchester United have a replacement midfielder in mind should Ederson Silva’s deal to Old Trafford this summer collapse.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-manu-kone-ederson",
+      "publishedAt": "2026-07-09T15:11:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "abf9df8559ac4f",
+      "title": "Football banning orders strengthened in pitch invasion and pyro crackdown",
+      "summary": "Scottish courts will be granted more powers to hand out football banning orders in order to improve safety at matches.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c0lyrk3yz73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-09T15:05:31.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     }
   ],
