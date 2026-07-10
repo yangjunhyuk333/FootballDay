@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-10T09:43:20.548Z",
+  "generatedAt": "2026-07-10T14:38:04.497Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,81 +99,30 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "2dc25e4d0d36d0",
-      "title": "Mbappe magic sees off Morocco as France skipper shrugs off penalty miss",
-      "summary": "Kylian Mbappe shrugged off a missed penalty to star as France beat Morocco 2-0 in Boston to clinch their spot in the semi-finals of the World Cup.",
+      "id": "4483861e76e34d",
+      "title": "Arsenal sign Batlle from Barcelona",
+      "summary": "Arsenal have confirmed the signing of Ona Batlle from Barcelona.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/france-vs-morocco/report/549862",
-      "publishedAt": "2026-07-10T09:43:20.342Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b2af63274c5856",
-      "title": "Papers: EU lawmakers call for investigation into Balogun 'scandal'",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562130/x-paper-talk",
-      "publishedAt": "2026-07-10T09:43:20.342Z",
+      "url": "https://www.skysports.com/football/news/12040/13562080/arsenal-former-man-utd-defender-ona-batlle-joins-gunners-on-a-permanent-deal-from-barcelona",
+      "publishedAt": "2026-07-10T14:38:04.200Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england spain",
       "tags": [
-        "Transfer"
+        "Arsenal",
+        "Barcelona"
       ]
     },
     {
-      "id": "498f3d66ece8d2",
-      "title": "Guehi a serious doubt for quarter-final",
-      "summary": "Marc Guehi is a serious doubt for England’s World Cup quarter-final on Saturday against Norway as he battles a hamstring strain picked up in the win over Mexico.",
+      "id": "3678811408cf6c",
+      "title": "'It could be interesting': Benitez reveals stance on Scotland amid links",
+      "summary": "\"I'm open to all the good countries, yes.\"",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway",
-      "publishedAt": "2026-07-10T09:43:20.341Z",
-      "category": "worldcup",
-      "region": "england",
+      "url": "https://www.skysports.com/football/news/12040/13562284/rafa-benitez-ex-liverpool-real-madrid-boss-reveals-stance-on-scotland-amid-search-for-steve-clarkes-successor",
+      "publishedAt": "2026-07-10T14:38:04.200Z",
+      "category": "transfer",
+      "region": "italy",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e3f621dc47cb66",
-      "title": "World Cup bracket: Who will join France in semi-finals?",
-      "summary": "The World Cup has entered the quarter-final stages - so how is the route to the final on July 19 now shaping up?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final",
-      "publishedAt": "2026-07-10T09:43:20.341Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a9d0778d544503",
-      "title": "Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
-      "summary": "What tactical nuances could decide Norway vs England in Saturday’s World Cup quarter-final in Miami? Our tactical dossier breaks down the key head-to-head clashes, thre...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12016/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchel-s-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals",
-      "publishedAt": "2026-07-10T09:43:20.341Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "450fbf6e76f27d",
-      "title": "Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
-      "summary": "What tactical nuances could decide Norway vs England in Saturday’s World Cup quarter-final in Miami? Our tactical dossier breaks down the key head-to-head clashes, thre...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchels-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals",
-      "publishedAt": "2026-07-10T09:43:20.340Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Inter"
       ]
     },
     {
@@ -182,11 +131,64 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Ian Nolan will become the Rugby Football League's new chief executive.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13562196/rugby-football-league-ian-nolan-appointed-new-chief-executive",
-      "publishedAt": "2026-07-10T09:43:20.339Z",
+      "publishedAt": "2026-07-10T14:38:04.200Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "e78e3b4ec4251c",
+      "title": "Arrest made after online racist abuse directed at Nsemba",
+      "summary": "A man has been arrested after racist abuse was aimed at Junior Nsemba after Wigan's narrow victory over St Helens at Magic Weekend in Liverpool.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13562246/wigan-warriors-man-arrested-after-racist-abuse-aimed-at-junior-nsemba-after-magic-weekend-win-over-st-helens",
+      "publishedAt": "2026-07-10T14:38:04.199Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "66ae7e090ccefa",
+      "title": "Edwards leaves FSG and Liverpool ahead of new season",
+      "summary": "Michael Edwards has left his role as chief executive officer (CEO) of football for Fenway Sports Group (FSG), who own Liverpool, leaving the club ahead of the 2026/27 s...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562295/liverpool-latest-michael-edwards-leaves-as-chief-executive-officer-of-football-for-fenway-sports-group",
+      "publishedAt": "2026-07-10T14:38:04.198Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fd51de961a3c38",
+      "title": "Devlin attracts interest from Rangers - gossip",
+      "summary": "Rangers linked with midfielders as English clubs express interest in Scottish left-back.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v29j8ee3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T14:31:01.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "e98a5c692f93c8",
+      "title": "Sam Allardyce tells Thomas Tuchel to make ‘bold’ change for England vs Norway – ‘it’s a big decision’",
+      "summary": "Sam Allardyce has explained why he thinks Dan Burn should start ahead of Marc Guehi for England’s World Cup quarter-final against Norway.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/sam-allardyce-tells-thomas-tuchel-bold-change-england-norway-big-decision",
+      "publishedAt": "2026-07-10T14:22:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -195,13 +197,317 @@ window.FOOTBALLDAY_DATA = {
       "summary": "⚽ All the latest news as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us A 17-year-old girl fell off a truck and died while celebrati...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
-      "publishedAt": "2026-07-10T09:34:28.000Z",
+      "publishedAt": "2026-07-10T14:22:16.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "30c33d80499de7",
+      "title": "Man City offer £10 match tickets for local residents",
+      "summary": "Manchester City are to trial an initiative next season offering Premier League matchday tickets priced at £10 for adults living in the local area.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce37xww195yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T14:14:54.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8920d5802cc40c",
+      "title": "Argentina v Switzerland: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup quarter-final between Argentina and Switzerland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/argentina-v-switzerland-prediction-preview",
+      "publishedAt": "2026-07-10T14:02:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7fcc502c1dcbd7",
+      "title": "Michael Edwards leaves FSG for one main reason as Liverpool replacement revealed",
+      "summary": "Liverpool chief Michael Edwards is leaving his role at FSG before the start of next season, and his replacement has been named.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-edwards-leaves-fsg-one-main-reason-liverpool-replacement-revealed",
+      "publishedAt": "2026-07-10T13:36:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b2d81729335d05",
+      "title": "Football Daily | Mbappé and France are on the march. Who’s going to stop them?",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Marchons, marchons. Fans of France’s remaining rivals at the Geopolitics World Cup – and lovers of business-end big...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/10/football-daily-email-gwc-france-morocco",
+      "publishedAt": "2026-07-10T13:18:48.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "816424a1390460",
+      "title": "Tottenham transfer now 100% dead for two reasons despite De Zerbi plea to get deal done",
+      "summary": "According to reports, Tottenham Hotspur’s move to sign Joao Palhinha permanently from Bayern Munich is now ‘100% dead in the water’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-transfer-now-100-dead-two-reasons-de-zerbi-plea",
+      "publishedAt": "2026-07-10T13:15:18.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "3dbdc439915c1e",
+      "title": "How do England stop Norway - and Haaland?",
+      "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday how do Thomas Tuchel's side prepare for their main threat - star striker Erling Haaland?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T12:39:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "584a2c53b33f84",
+      "title": "Norway v England: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup quarter-final between Norway and England.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/norway-v-england-prediction-preview",
+      "publishedAt": "2026-07-10T12:29:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "05645830f27563",
+      "title": "Wing wizards or worries? England and Norway have choices to make out wide",
+      "summary": "Thomas Tuchel seems undecided, while Ståle Solbakken has been structured before the World Cup quarter-final While there will be much focus on Harry Kane and Erling Haal...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/10/wing-wizards-england-norway-2026-world-cup-quarter-final",
+      "publishedAt": "2026-07-10T12:15:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "81bd1748290f04",
+      "title": "Time marches on: what the next three years will bring for the USMNT",
+      "summary": "After a fun World Cup with a dismal end, the US enters the 2030 cycle with numerous avenues to rebuild the squad There are massive questions lingering around the US men...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/10/usmnt-world-cup-qualifying-gold-cup-copa-america",
+      "publishedAt": "2026-07-10T12:00:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6e8d28e3fad687",
+      "title": "Lineker claims Infantino ‘almost untenable’ at FIFA as Shearer hits out at ‘scandalous’ Quansah decision",
+      "summary": "Gary Lineker and Alan Shearer have hit out at FIFA and Gianni Infantino after England star Jarell Quansah was given a two-match ban.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lineker-claims-infantino-almost-untenable-fifa-shearer-hits-out-scandalous-quansah-decision",
+      "publishedAt": "2026-07-10T11:46:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "dda51001a2130d",
+      "title": "'What old timers can do' - the evolution of Belgium's golden generation",
+      "summary": "BBC Sport explores what is behind Belgium's progress to the last eight of the World Cup, and whether they were too easily discounted among the contenders.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T11:38:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4642e7ca9bc31a",
+      "title": "Liverpool reluctantly accept conditions to sign Jones replacement to get a deal done",
+      "summary": "Liverpool have now accepted the conditions to sign Lille midfielder Ayyoub Bouaddi this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-accept-bouaddi-conditions-lille-transfer-deal-done",
+      "publishedAt": "2026-07-10T11:33:44.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ffb2dc920ffb01",
+      "title": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
+      "summary": "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet Let’s set the world on fire. T...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/10/nosferatu-golf-weekend-england-players-trust-thomas-tuchel",
+      "publishedAt": "2026-07-10T11:30:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b549dc6a5f1c5a",
+      "title": "Why an England v Argentina World Cup semi-final must be blocked by FIFA",
+      "summary": "It would be a miracle if England and Norway get their World Cup quarter-final on, but the Three Lions cannot be allowed to play Argentina.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/why-england-argentina-world-cup-semi-final-must-be-blocked-fifa",
+      "publishedAt": "2026-07-10T11:16:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "3d32d2b7012e02",
+      "title": "Arsenal sign Spain defender Batlle on free transfer",
+      "summary": "Arsenal sign Spain international Ona Batlle on a free transfer following her exit from Barcelona.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T11:01:28.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "4f5a8bc4f6ae1e",
+      "title": "Arsenal hail signing of ‘winner’ Ona Batlle after Barcelona summer exodus",
+      "summary": "Batlle is fourth arrival after Stanway, Cerci and Reuteler Full-back is one of four big Barça free transfer departures Arsenal have confirmed the signing of the Spain f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/10/arsenal-sign-ona-batlle-spain-barcelona-defender",
+      "publishedAt": "2026-07-10T11:00:19.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3f335e3b2beac7",
+      "title": "A-Z World Cup quiz: Name the best performing team for every letter",
+      "summary": "When it comes to the World Cup it's not all about the numbers - the letters are important too!",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjepy9vk5vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T10:51:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c656878c873ac7",
+      "title": "Mohamed Salah closing in on next move with deal in place for former Liverpool star",
+      "summary": "According to reports, former Liverpool star Mohamed Salah has reached a decision on whether to stay in Europe with a ‘deal already in place’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mohamed-salah-closing-in-next-move-deal-in-place-former-liverpool-star",
+      "publishedAt": "2026-07-10T10:39:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "de46d0e40cf5b7",
+      "title": "How football has helped immigrants make a home in the US",
+      "summary": "Football is the common bond for the immigrants and refugees who play matches in a Maine park, and has helped them develop a sense of community in a foreign land.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e2n00gge6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T10:35:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "98372a8b6e47bc",
+      "title": "Kylian Mbappe delivers injury update as France fret over superstar forward",
+      "summary": "France may have reached the World Cup semi-finals with a 2-0 win over Morocco, but an injury scare involving superstar skipper Mbappe could be a major concern going for...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-delivers-injury-update-world-cup-worry",
+      "publishedAt": "2026-07-10T10:08:17.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "49924b543ecd12",
+      "title": "Man City complete third signing and receive green light for fourth as Chelsea star moving closer",
+      "summary": "According to reports, Manchester City now have a ‘green light’ to land Chelsea and France star Malo Gusto, who could be their fourth summer signing.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-complete-third-signing-green-light-fourth-chelsea-star-moving-closer",
+      "publishedAt": "2026-07-10T09:56:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a5a7c3675727a3",
+      "title": "More than the Score",
+      "summary": "How does a breakout performance at the World Cup affect a player’s transfer value?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ny0prm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T09:49:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer"
       ]
     },
     {
@@ -289,303 +595,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "324869d02666ff",
-      "title": "Football Daily",
-      "summary": "England Assistant Manager Anthony Barry speaks with Ian Dennis ahead of Norway match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ny0bzw?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T09:08:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "8a0daec999104f",
-      "title": "Exit strategies: how and why 25% of World Cup coaches have left their jobs",
-      "summary": "Twelve coaches have been sacked or walked away from their national teams – here’s a full rundown Sabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after T...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs",
-      "publishedAt": "2026-07-10T09:03:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Watkins on his way? Four Arsenal whispers assessed",
-      "summary": "We’re sceptical of reports Ollie Watkins is on his way to Turkey, while Arsenal are linked with France and Belgium-based wingers…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-10T09:03:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "581c72ae2afa1e",
-      "title": "Thomas Tuchel told to drop England star for World Cup quarter-final vs Norway – ‘you’d be foolish’",
-      "summary": "Stuart Pearce has explained why he thinks Thomas Tuchel should drop Declan Rice for England’s World Cup quarter-final against Norway.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tuchel-told-drop-england-star-world-cup-quarter-final-norway",
-      "publishedAt": "2026-07-10T08:40:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "45432cbd5845db",
-      "title": "How would England beat France in the World Cup final? Their ‘three-point plan’ revealed…",
-      "summary": "It feels like Norway, Argentina, Switzerland, Spain and Belgium might want a bit more input but England are already plotting a World Cup final against France.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-england-beat-france-world-cup-final-three-point-plan",
-      "publishedAt": "2026-07-10T08:39:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4040e595cd80e5",
-      "title": "'A bit of a rebel' - what can Celtic expect from forward Duran?",
-      "summary": "Celtic are set to sign their first player in the transfer window - 24-year-old Colombian forward Camilo Duran from Qarabag - for a reported £5.5m. But who is he?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x3yep3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T08:35:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "268dc6217442c3",
-      "title": "New Celtic arrival Duran eyes further Champions League impact",
-      "summary": "Celtic confirm the signing of Colombian forward Camilo Duran from Qarabag on a five-year deal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crelrygnp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T08:15:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "cfe192a64c83ae",
-      "title": "France maul meek Morocco to reach semi-finals | World Cup Daily – video",
-      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin and Philippe Auclair as France comfortably beat Morocco 2-0 to become the first team to book their place in the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jul/10/france-maul-meek-morocco-to-reach-semi-finals-world-cup-daily-video",
-      "publishedAt": "2026-07-10T08:10:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "daaefcdc70cf69",
-      "title": "Man Utd could move to sign Liverpool star ahead of Tottenham on one condition",
-      "summary": "According to reports, Manchester United could yet push to beat Tottenham Hotspur in the race to sign Cody Gakpo from Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-move-sign-liverpool-star-tottenham-one-condition",
-      "publishedAt": "2026-07-10T08:08:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "989024dacc0223",
-      "title": "Alan Shearer makes England U-turn with World Cup prediction for two reasons – ‘I’ve changed my mind’",
-      "summary": "Alan Shearer has revealed why he has “changed” his mind on England’s chances of winning this summer’s World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alan-shearer-england-u-turn-world-cup-prediction-two-reasons",
-      "publishedAt": "2026-07-10T07:42:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "162e1fb9ba00c4",
-      "title": "Football Daily",
-      "summary": "France march on into the semi-finals. Can anyone stop them?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ns8dyr?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T07:34:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c1562328ee508a",
-      "title": "Bruno Guimaraes to Arsenal among five inevitable transfers this summer",
-      "summary": "Sagas can roll on for weeks and months but we’ve tried to predict how five of this summer’s biggest will end.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-transfer-sagas-of-the-summer-predicting-where-they-will-end-up",
-      "publishedAt": "2026-07-10T07:20:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b1b3f8e10277a5",
-      "title": "Arsenal told how much to offer to sign Bruno Guimaraes as Andrea Berta planning to bid £77m",
-      "summary": "According to reports, Arsenal are ‘planning to offer’ £77m to sign Newcastle United star Bruno Guimaraes, but this may not be enough.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-told-offer-sign-bruno-guimaraes-as-berta-planning-bid-77m",
-      "publishedAt": "2026-07-10T07:14:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ac19d60078c153",
-      "title": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup",
-      "summary": "Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family Jayèma has had a World Cup like no other. Who else but...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/give-me-another-medal-hair-stylist-world-cup-jayema-lamine-yamal-raphinha",
-      "publishedAt": "2026-07-10T07:00:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5a39c2f81186c4",
-      "title": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle",
-      "summary": "The attacking players spent two years together at BVB, forming a friendship on their way to the very top This World Cup has been about the biggest names from the beginn...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/haaland-bellingham-dortmund-friends-centre-stage-norway-v-england-battle-world-cup-2026",
-      "publishedAt": "2026-07-10T07:00:15.000Z",
-      "category": "worldcup",
-      "region": "england spain italy germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "e79eae19c34246",
-      "title": "London to Lisbon and back every game: England rack up the World Cup miles",
-      "summary": "England have been happy with their Kansas City base but it has led to them travelling more than the other quarter-finalists – here’s just how much more Much was made of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/london-to-lisbon-and-back-every-game-england-rack-up-the-world-cup-miles",
-      "publishedAt": "2026-07-10T07:00:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "81973d8668a985",
-      "title": "How De la Fuente's Spain are closing in on greatness",
-      "summary": "Before Spain's World Cup quarter-final against Belgium, Guillem Balague talks to Spain boss Luis de la Fuente about their identity and Lamine Yamal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T06:47:29.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1e1d70af57a3af",
-      "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
-      "summary": "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T06:36:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "94072d3a5f2f43",
-      "title": "How good is Monga and what role could he play at Man City?",
-      "summary": "Manchester City appear to have struck an early blow on Arsenal by agreeing a deal to sign teenage starlet Jeremy Monga from Leicester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr4vvlp7d0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T06:06:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2eae6a8578d4db",
-      "title": "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
-      "summary": "Erling Haaland has guided Norway to their first World Cup since 1998. So what is it like being a global name from a nation with a population of just 5.5 million?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T05:47:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0a5c12f2d3e80b",
-      "title": "Who am I? Guess World Cup star No 33",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy20q7wd3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T05:20:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "35d809ac768235",
-      "title": "Loyal and royal: How the future King became a football superfan",
-      "summary": "A love of football connects William to the country he will one day reign over in a way polo would not.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cly9r8j7vrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T01:55:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
