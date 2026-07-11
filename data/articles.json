@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:38:55.881Z",
+  "generatedAt": "2026-07-11T03:12:42.939Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,183 +99,267 @@
       "pinned": true
     },
     {
-      "id": "fe787c090d3d9f",
-      "title": "Norway boss plays down Kane vs. Haaland talk",
-      "summary": "Norway head coach Ståle Solbakken has said his team's World Cup quarterfinal meeting with England is more than just Harry Kane vs. Erling Haaland.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49326819/norway-vs-england-more-harry-kane-vs-erling-haaland-face-stale-solbakken",
-      "publishedAt": "2026-07-10T20:33:03.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2c7df4cc10b2ba",
-      "title": "Sources: Barça near deal for Dortmund's Adeyemi",
-      "summary": "Barcelona are closing in on the signing of Karim Adeyemi after a breakthrough in negotiations with Borussia Dortmund, sources confirmed to ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49326245/barcelona-deal-borussia-dortmund-karim-adeyemi-sources",
-      "publishedAt": "2026-07-10T20:32:43.000Z",
-      "category": "transfer",
-      "region": "spain germany",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "107cb2638f9422",
-      "title": "Klopp: Mbappé, Liverpool had talks on private jet",
-      "summary": "Jürgen Klopp has revealed the lengths Liverpool went to in an attempt to sign Kylian Mbappé in 2017, citing talks on a private jet in the \"most expensive non-transfer\"...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49322019/jurgen-klopp-kylian-mbappe-liverpool-talks-private-jet-psg-transfer",
-      "publishedAt": "2026-07-10T20:32:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d7b976ab80feea",
-      "title": "Liverpool face upheaval, CEO Edwards quits FSG",
-      "summary": "Liverpool are facing a period of significant behind-the-scenes upheaval following the departure of Michael Edwards, the chief executive officer of football for owners F...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49323819/michael-edwards-leaves-liverpool-ownership-role",
-      "publishedAt": "2026-07-10T20:32:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "cb9524c2eee495",
-      "title": "Madrid vs. Fiorentina Aug. 1 in Mourinho return",
-      "summary": "Real Madrid coach José Mourinho said he is \"on a mission\" as he completed his first day Friday at Valdebebas to continue planning the 2026-27 season.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49325535/real-madrid-face-fiorentina-aug-1-jose-mourinho-return",
-      "publishedAt": "2026-07-10T20:32:43.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "aef8a816de250a",
-      "title": "Arsenal sign Ona Batlle after Barcelona exit",
-      "summary": "Ona Batlle will join Arsenal upon the expiry of her Barcelona contract in the summer, it has been announced.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/48581144/ona-batlle-joins-arsenal-following-barcelona-exit",
-      "publishedAt": "2026-07-10T20:32:43.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "bb904adcf0963c",
-      "title": "⚽ USMNT World Cup grades: Expectations met?",
-      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
-      "publishedAt": "2026-07-10T20:32:42.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d41e2acd72bfc8",
-      "title": "Meet your World Cup quarterfinalists! How they got...",
-      "summary": "Four weeks after the World Cup began, the quarterfinals are underway, with each team three wins from lifting the trophy. Next up, Spain vs. Belgium.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49294844/fifa-world-cup-quarterfinal-preview-predictions-odds-argentina-belgium-england-france-morocco-norway-spain-switzerland",
-      "publishedAt": "2026-07-10T20:17:07.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "76cc07b64ded18",
-      "title": "The most important players of the World Cup quarte...",
-      "summary": "Individual superstars become even more influential at this point in the tournament.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49301521/most-important-player-every-2026-world-cup-quarterfinal-team",
-      "publishedAt": "2026-07-10T20:17:07.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6565f4f40de654",
-      "title": "Álvarez's return could be Argentina's antidote to ...",
-      "summary": "A sense of celebration has hung over Argentina ever since Qatar 2022, even into this World Cup. That must change in the business end of the tournament.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49325317/julian-alvarez-return-argentina-antidote-their-lionel-messi-dependency-world-cup",
-      "publishedAt": "2026-07-10T19:39:05.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ea5f60c6124038",
-      "title": "Man City sign Charles from Chelsea",
-      "summary": "Manchester City have signed Niamh Charles from Chelsea on a three-year deal.",
+      "id": "9eb9aa0e8d2730",
+      "title": "Rice and Guehi give England injury boost ahead of Norway quarter-final",
+      "summary": "Declan Rice, Marc Guehi and Reece James gave England a triple injury boost ahead of their World Cup quarter-final with Norway.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562248/man-city-transfer-news-niamh-charles-signs-from-wsl-rivals-chelsea-on-three-year-contract",
-      "publishedAt": "2026-07-10T19:38:55.705Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/news/12040/13562422/world-cup-2026-englands-declan-rice-marc-guehi-and-reece-james-train-ahead-of-quarter-final-with-norway",
+      "publishedAt": "2026-07-11T03:12:42.570Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Chelsea",
-        "Manchester"
+        "World Cup"
       ]
     },
     {
-      "id": "201721ee777f41",
-      "title": "Bruno, Manzambi and a new transfer policy - inside Newcastle's summer of change",
-      "summary": "This is a transformative summer for Newcastle in terms of transfers ahead of a big season for the club - with lots of new faces.",
+      "id": "a81f512b8ccf50",
+      "title": "Papers: England bonuses for winning World Cup revealed",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562252/newcastle-transfer-news-latest-updates-on-bruno-guimaraes-johan-manzambi-and-player-exits-as-eddie-howe-prepares-for-new-season",
-      "publishedAt": "2026-07-10T19:38:55.705Z",
+      "url": "https://www.skysports.com/football/news/12040/13562437/world-cup-2026-england-bonuses-for-lifting-the-trophy-revealed-paper-talk",
+      "publishedAt": "2026-07-11T03:12:42.570Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "World Cup",
         "Transfer"
       ]
     },
     {
-      "id": "66ae7e090ccefa",
-      "title": "Edwards leaves FSG and Liverpool ahead of new season",
-      "summary": "Michael Edwards has left his role as chief executive officer (CEO) of football for Fenway Sports Group (FSG), who own Liverpool, leaving the club ahead of the 2026/27 s...",
+      "id": "f91722a267e1dc",
+      "title": "ECB face no action over Stokes retirement video",
+      "summary": "No action will be taken by the International Cricket Council (ICC) over Ben Stokes' retirement video.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562295/liverpool-latest-michael-edwards-leaves-as-chief-executive-officer-of-football-for-fenway-sports-group",
-      "publishedAt": "2026-07-10T19:38:55.705Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13562434/ben-stokes-icc-to-take-no-action-against-ecb-over-former-england-captains-retirement-video-from-inside-dressing-room",
+      "publishedAt": "2026-07-11T03:12:42.569Z",
       "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6bed17985c5fda",
+      "title": "Merino: From mobility scooter to World Cup hero in six months",
+      "summary": "Mikel Merino might have hoped to appear earlier than the 85th minute against Belgium following his match-winning impact from the bench against Portugal. Instead, he had...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562417/mikel-merino-arsenal-midfielder-proving-spains-world-cup-hero-after-overcoming-injury-that-left-him-in-mobility-scooter",
+      "publishedAt": "2026-07-11T03:12:42.569Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0688aa15e1cc77",
+      "title": "No FIFA explanation over Quansah suspension claims Tuchel",
+      "summary": "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarell Quansah was handed a two-game suspension following his red card ag...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card",
+      "publishedAt": "2026-07-11T03:12:42.569Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8f6f9627dde555",
+      "title": "Tuchel fears more Haaland heroics as England seek identity against Norway",
+      "summary": "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, before the World Cup quarter-final The way that Thomas Tuchel remembers...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final",
+      "publishedAt": "2026-07-11T00:00:34.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "cf354a390fed96",
+      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
+      "summary": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T23:29:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e805b4bedab1eb",
+      "title": "Lammens' error spells end for Belgium's golden generation",
+      "summary": "Belgium's World Cup campaign ends after Senne Lammens' error against Spain - could it all be over for their golden generation too?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T23:14:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3b49c7002960ea",
+      "title": "England's Guehi, Rice & James all train before Norway game",
+      "summary": "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T22:06:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e2abb6ff9f17c9",
+      "title": "Spain into semi-finals at expense of Belgium after Merino's late winner",
+      "summary": "Mikel Merino emerges as Spain's hero yet again as the substitute scores in the 88th minute to stun Belgium and set up a World Cup semi-final against France.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/cd0m9e88g0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T22:01:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5f1dd8515c6330",
+      "title": "'Influential' Lamine Yamal has 'more to give' to Spain",
+      "summary": "BBC Sport World Cup pundits Cesar Azpilicueta and Wayne Rooney look at how Lamine Yamal performed against Belgium and feel there is \"more to come\" from the Spain forward.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T21:52:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a1e3e3286c7a94",
+      "title": "Senne Lammens suffers on World Cup baptism of fire as Merino capitalises for Spain",
+      "summary": "It was a mistake by Manchester United goalkeeper Senne Lammens on his World Cup debut to cost Belgium as Spain advanced to the semi-finals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/senne-lammens-world-cup-baptism-fire-merino-capitalises-spain",
+      "publishedAt": "2026-07-10T21:23:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "37ef394de3c45c",
+      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
+      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another abs...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
+      "publishedAt": "2026-07-10T21:13:02.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
-        "Liverpool"
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem and up to third",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are have fallen to third and are holding off Crystal Palace and Sunderland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-10T20:57:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b8221be1c1ded0",
+      "title": "Salah demands put Saudi switch in doubt - Saturday's gossip",
+      "summary": "Mohamed Salah's financial demands putting off Saudi clubs, Bayern Munich rebuff Real Madrid move for Michael Olise, Barcelona agree to sign Karim Adeyemi, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy06rnjzxkyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T20:32:14.000Z",
+      "category": "transfer",
+      "region": "spain germany",
+      "tags": [
+        "Barcelona",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "e869032cb7dbeb",
+      "title": "Man Utd's Ederson move in doubt",
+      "summary": "Manchester United's attempt to complete a £35m deal for Atalanta midfielder is in doubt",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9d2z59596eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T20:27:18.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5060e8657582e2",
+      "title": "England favourites to reach semis, says Norway boss",
+      "summary": "England are favourites to reach the semi-finals of the World Cup, Norway boss Stale Solbakken has told BBC Sport.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq61n2gqqv0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T20:10:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fb25264e09f1fa",
+      "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
+      "summary": "The two players have won an army of admirers from social media clips for their honesty in interviews.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T19:53:49.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd deal dead, Arsenal eyeing ex-defender?",
+      "summary": "The rumours around Ederson have turned out to be true, while Arsenal are linked with one of their old boys…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-10T19:53:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
       "id": "f0ed4516adbfa5",
       "title": "New species named after Cape Verde keeper Vozinha",
-      "summary": "A new species of sea snail has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-10T19:30:06.000Z",
@@ -283,21 +367,6 @@
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "3b4b4988aa5574",
-      "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
-      "summary": "⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST ⚽ Player guide | Bracketology | Golden Boot | Email Billy “I did my year abroad in Belgium and Germany in 2015/16,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
-      "publishedAt": "2026-07-10T19:26:50.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     },
     {
@@ -339,34 +408,6 @@
       "tags": [
         "Arsenal",
         "Inter"
-      ]
-    },
-    {
-      "id": "adfd4846195933",
-      "title": "Mbappé, France dispatch Morocco with latest lethal...",
-      "summary": "France are favorites to win the World Cup for many reasons -- the first being Kylian Mbappé, perhaps the best player in the world right now.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49318321/kylian-mbappe-france-lethal-morocco-reaching-2026-world-cup-semifinals",
-      "publishedAt": "2026-07-10T18:22:41.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b7b767625d3636",
-      "title": "Players and staff to reap £19m bonus bonanza if England win World Cup",
-      "summary": "FA would pay out half its £38m Fifa prize money Players could net £15m, Thomas Tuchel £3m England’s players and coaching staff will receive around half of the FA’s £38m...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/players-and-staff-to-reap-19m-bonus-bonanza-if-england-win-world-cup",
-      "publishedAt": "2026-07-10T18:11:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
       ]
     },
     {
@@ -421,46 +462,6 @@
       "region": "england",
       "tags": [
         "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "05dc8c171f1010",
-      "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49320148/world-cup-daily-live-remix-teen-erling-haaland-rap-song-hits-no-1-spain-face-belgium",
-      "publishedAt": "2026-07-10T17:14:53.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "3f1680c2648b2b",
-      "title": "Haaland is not just Norway's talisman, but also th...",
-      "summary": "In a different timeline, Haaland could have played for England, but the man has become the avatar for Norway and, in many ways, the World Cup as a whole. Can he launch...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49316632/erling-haaland-norway-world-cup-manchester-city-england-striker-analysis-lionel-messi",
-      "publishedAt": "2026-07-10T17:08:54.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f6f3f3a8f479d3",
-      "title": "Copy of Grades for every team eliminated from the World Cu...",
-      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how its run compared with expectations.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-      "publishedAt": "2026-07-10T17:08:40.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
         "World Cup"
       ]
     },
@@ -521,19 +522,6 @@
       ]
     },
     {
-      "id": "7d7d4ff1cb99e2",
-      "title": "USMNT's Pulisic flopped at this World Cup, but does he deserve the blame?",
-      "summary": "In his prime at a World Cup on home soil, this summer was Christian Pulisic's moment, but for a number of reasons, he failed to meet it.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery",
-      "publishedAt": "2026-07-10T14:43:17.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "a86b17fe8883a7",
       "title": "Edwards leaves football chief role with Liverpool owners FSG",
       "summary": "Liverpool owners Fenway Sports Group announce the departure of Michael Edwards, the company's chief executive of football.",
@@ -585,6 +573,19 @@
       "tags": [
         "Premier League",
         "Manchester"
+      ]
+    },
+    {
+      "id": "8920d5802cc40c",
+      "title": "Argentina v Switzerland: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup quarter-final between Argentina and Switzerland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/argentina-v-switzerland-prediction-preview",
+      "publishedAt": "2026-07-10T14:02:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     }
   ],
