@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-11T03:12:42.939Z",
+  "generatedAt": "2026-07-11T08:02:50.460Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,25 +104,11 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Declan Rice, Marc Guehi and Reece James gave England a triple injury boost ahead of their World Cup quarter-final with Norway.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13562422/world-cup-2026-englands-declan-rice-marc-guehi-and-reece-james-train-ahead-of-quarter-final-with-norway",
-      "publishedAt": "2026-07-11T03:12:42.570Z",
+      "publishedAt": "2026-07-11T08:02:50.090Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "a81f512b8ccf50",
-      "title": "Papers: England bonuses for winning World Cup revealed",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562437/world-cup-2026-england-bonuses-for-lifting-the-trophy-revealed-paper-talk",
-      "publishedAt": "2026-07-11T03:12:42.570Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer"
       ]
     },
     {
@@ -131,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "No action will be taken by the International Cricket Council (ICC) over Ben Stokes' retirement video.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13562434/ben-stokes-icc-to-take-no-action-against-ecb-over-former-england-captains-retirement-video-from-inside-dressing-room",
-      "publishedAt": "2026-07-11T03:12:42.569Z",
+      "publishedAt": "2026-07-11T08:02:50.089Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -144,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Mikel Merino might have hoped to appear earlier than the 85th minute against Belgium following his match-winning impact from the bench against Portugal. Instead, he had...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13562417/mikel-merino-arsenal-midfielder-proving-spains-world-cup-hero-after-overcoming-injury-that-left-him-in-mobility-scooter",
-      "publishedAt": "2026-07-11T03:12:42.569Z",
+      "publishedAt": "2026-07-11T08:02:50.089Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -153,15 +139,276 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "0688aa15e1cc77",
-      "title": "No FIFA explanation over Quansah suspension claims Tuchel",
+      "title": "No FIFA explanation over Quansah suspension, claims Tuchel",
       "summary": "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarell Quansah was handed a two-game suspension following his red card ag...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card",
-      "publishedAt": "2026-07-11T03:12:42.569Z",
+      "publishedAt": "2026-07-11T08:02:50.089Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Fifa"
+      ]
+    },
+    {
+      "id": "efda4d7f0fd9f9",
+      "title": "'England go home' | Norway's Viking party not ready to end",
+      "summary": "Gary Cotterill reports from Miami as the Norway fans prepare for the FIFA World Cup quarter-final against England.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13562457/fifa-world-cup-norways-viking-party-not-ready-to-end",
+      "publishedAt": "2026-07-11T08:02:50.089Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "a37a59194e412f",
+      "title": "Hey Jude: Bellingham's return to England indispensability",
+      "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T07:54:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "961e4c3441f363",
+      "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+      "summary": "⚽ All the latest updates as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us Emma Hayes says England need to be wary of Norway’s colle...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live",
+      "publishedAt": "2026-07-11T07:46:42.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7d4f27f6dc8381",
+      "title": "Huge Barcola blow for Liverpool with Arsenal ‘top of the race’ to sign PSG winger",
+      "summary": "Arsenal are “top of the race” to sign Paris Saint-Germain winger Bradley Barcola in a blow to Liverpool, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-barcola-blow-arsenal-top-race-psg-transfer",
+      "publishedAt": "2026-07-11T07:26:41.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "5de50a70451481",
+      "title": "‘What’s the point of working if you can’t do stuff like this?’ England fans descend on Miami",
+      "summary": "England and Norway fans have flocked to Miami in their tens of thousands to enjoy the football and sunshine It is not just another morning on Ocean Drive, where brashne...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/whats-the-point-of-working-if-you-cant-do-stuff-like-this-england-fans-descend-on-miami",
+      "publishedAt": "2026-07-11T07:00:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "62e7a925604b55",
+      "title": "The ad machine: how David Beckham conquered America",
+      "summary": "The former England midfielder is everywhere at this World Cup, having reached a popularity in the US other Brits have rarely achieved Watch US television for any length...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america",
+      "publishedAt": "2026-07-11T07:00:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bc98abb13731cb",
+      "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+      "summary": "The fourth in a special series of World Cup 2026-themed collages made for the Guardian by the celebrated satirist Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england",
+      "publishedAt": "2026-07-11T07:00:43.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5c14509ce4ba7e",
+      "title": "Man Utd deny Ederson ‘deal is 100% off’ with the Red Devils ‘fighting’ to seal transfer",
+      "summary": "Man Utd sources are insisting that a deal to sign Atalanta midfielder Ederson is not completely off despite claims on Friday night.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-deny-ederson-deal-is-100-off-with-the-red-devils-fighting-to-seal-transfer",
+      "publishedAt": "2026-07-11T07:00:07.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "664bbe18c37301",
+      "title": "Man Utd want to sign Championship midfielder after Ederson transfer collapses",
+      "summary": "Man Utd are now reportedly looking to sign Wolves midfielder Joao Gomes after Fabrizio Romano revealed that a deal for Ederson has collapsed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-want-to-sign-championship-midfielder-after-ederson-transfer-collapses",
+      "publishedAt": "2026-07-11T06:27:02.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "dc0868baf5a9de",
+      "title": "England World Cup quarter-finals ranked: Hands of God, lobbing Seaman and penalties…",
+      "summary": "Before England face Norway in their 11th World Cup quarter-final, we’ve ranked all the previous 10, which feature a high concentration of absolute nonsense…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-world-cup-quarter-finals-ranked-hand-of-god-penalties",
+      "publishedAt": "2026-07-11T06:04:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "95db59efdb519c",
+      "title": "Five players who should’ve gone to the World Cup: Trent, Frimpong and more",
+      "summary": "With the World Cup entering its closing stages, attention turns to which absent players could have made a difference – England have one.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/five-players-who-shouldve-gone-world-cup-trent-frimpong-england",
+      "publishedAt": "2026-07-11T06:03:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "70c2b2b3dd2392",
+      "title": "When the World Cup finishes, the football continues on BBC Sport",
+      "summary": "When the World Cup ends we'll still have loads of great content every day as we build up to the new football season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T06:03:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "41282ae4072507",
+      "title": "England N-Team will never score in the Alphabet World Cup",
+      "summary": "N isn’t for Norway and their notorious number nine, it’s for Nevilles, never-ending defenders and north London legends. The England N-Team is here.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-n-team-will-never-score-in-the-alphabet-world-cup",
+      "publishedAt": "2026-07-11T06:01:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "059aa18f4a5aa7",
+      "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+      "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T05:55:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c813c4244a4167",
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T05:13:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f93a93c6f9f358",
+      "title": "Haaland has advantage over Man City team-mates",
+      "summary": "BBC Sport World Cup pundits Micah Richards, Wayne Rooney and Cesar Azpilicueta look ahead to England's match against Norway and feel that Erling Haaland will have an ad...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/cy06rd1z816o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T05:10:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "06d1b3708bf517",
+      "title": "England set for open-air Miami heat - but do Norway hold the edge?",
+      "summary": "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jzl3zxpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T05:08:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6d9f27a8ca3cf9",
+      "title": "Haaland’s hometown hails ‘little boy who grew into a huge Viking’",
+      "summary": "The people of Bryne are proud of local hero’s rise to the top of world football as Norway prepare to face England Surrounded by red hats, No 9 shirts and Erling Haaland...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/erling-haaland-hometown-bryne-norway-fans",
+      "publishedAt": "2026-07-11T04:00:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "305e0228826d33",
+      "title": "Spain full of belief as De la Fuente flags ‘high expectations’ for World Cup date with France",
+      "summary": "Spanish coach says ‘France has exceptional potential, but so do we’ His side are through to semi-final after 2-1 win over Belgium Luis de la Fuente believes his Spain h...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/spain-full-of-belief-as-de-la-fuente-flags-high-expectations-for-world-cup-date-with-france",
+      "publishedAt": "2026-07-11T00:02:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
       ]
     },
     {
@@ -260,20 +507,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "37ef394de3c45c",
-      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
-      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another abs...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report",
-      "publishedAt": "2026-07-10T21:13:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "1b2e93d9e65ec0",
       "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem and up to third",
       "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are have fallen to third and are holding off Crystal Palace and Sunderland.",
@@ -331,7 +564,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "fb25264e09f1fa",
       "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
-      "summary": "The two players have won an army of admirers from social media clips for their honesty in interviews.",
+      "summary": "The two players have won an army of admirers from social media clips and their honesty in interviews.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-10T19:53:49.000Z",
@@ -354,238 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "f0ed4516adbfa5",
-      "title": "New species named after Cape Verde keeper Vozinha",
-      "summary": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T19:30:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7016f0e02eb7ac",
-      "title": "Alonso ‘demands’ Real Madrid star as sixth signing at Chelsea for three reasons",
-      "summary": "Head coach Xabi Alonso is demanding that Chelsea sign Eduardo Camavinga from Real Madrid this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-alonso-demands-camavinga-signing-real-madrid-three-reasons",
-      "publishedAt": "2026-07-10T19:15:23.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "53b34ca706d28b",
-      "title": "Romano confirms Ederson ‘deal off’ bombshell as Man Utd ‘change transfer plans’",
-      "summary": "Fabrizio Romano has confirmed that Man Utd have pulled out of a deal to sign Atalanta midfielder Ederson over medical concerns.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-drops-huge-ederson-deal-off-bombshell-as-man-utd-change-transfer-plans",
-      "publishedAt": "2026-07-10T19:00:48.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "178c5674cabc1f",
-      "title": "Arteta wants £25m ex-Arsenal star to return as CL final starter closes in on summer exit",
-      "summary": "Arsenal are reportedly interested in bringing back West Ham centre-back Dinos Mavropanos this summer after selling him four years ago.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-wants-return-mavropanos-west-ham-trossard-exit-besiktas",
-      "publishedAt": "2026-07-10T18:33:56.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6c249dfb6e6678",
-      "title": "Cutting off Erling Haaland is key but Norway are not just a one-man team | Emma Hayes",
-      "summary": "England need to be wary of a united Ståle Solbakken side who know their strengths before the World Cup quarter-final England fans are going to have to be really patient...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/10/erling-haaland-england-norway-2026-world-cup-quarter-final-emma-hayes",
-      "publishedAt": "2026-07-10T17:59:57.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bbbf6ccd292dc0",
-      "title": "Man City's Lewis on faith, football and helping the homeless",
-      "summary": "Manchester City midfielder Rico Lewis talks about finding God and his charity work involving football that is aiming to tackle homelessness.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlw6z175rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T17:52:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9c220904fb9d61",
-      "title": "Haaland & Heggem inspiring Baggies' striker Heggebo",
-      "summary": "West Bromwich Albion striker Aune Heggebo says watching Erling Haaland and his old Baggies team-mate Torbjorn Heggem exploits for Norway at the World Cup has been amazi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyx73842do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T17:38:16.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d96d9de7e82be2",
-      "title": "Hacking worry for Argentine FA over World Cup emails",
-      "summary": "Argentina's football association signals it may have suffered a cyber attack after emails from its accounts reportedly criticised refereeing in the dramatic win against...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2j3dglq5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T17:26:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5fa4c73909bc04",
-      "title": "Man Utd register interest in ex-Liverpool man as they line up third and fourth signings",
-      "summary": "Man Utd have made their interest known in former Liverpool defender Neco Williams as they look for a new full-back, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-register-interest-williams-liverpool-nottingham-forest-kone",
-      "publishedAt": "2026-07-10T16:32:07.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "a1872d1997311a",
-      "title": "England defender Charles joins Man City from Chelsea",
-      "summary": "Manchester City have signed England international Niamh Charles for £500,000 from Women's Super League rivals Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T16:00:17.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "fd01d6d0c34a17",
-      "title": "Jesus reunites with Ronaldo as new Portugal head coach",
-      "summary": "Jorge Jesus is named Portugal's new head coach on a four-year contract to run through to the 2030 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T15:41:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0773a010db6fe1",
-      "title": "England duo told need to do ‘more’ as Arsenal star urged to ‘turn up’ vs Norway",
-      "summary": "England duo Bukayo Saka and Anthony Gordon have been told that they need to do “more” when they face Norway and for the remainder of the World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-duo-told-need-more-arsenal-star-told-turn-up-norway",
-      "publishedAt": "2026-07-10T14:51:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a86b17fe8883a7",
-      "title": "Edwards leaves football chief role with Liverpool owners FSG",
-      "summary": "Liverpool owners Fenway Sports Group announce the departure of Michael Edwards, the company's chief executive of football.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3gqz6qleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T14:42:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fd51de961a3c38",
-      "title": "Devlin attracts interest from Rangers - gossip",
-      "summary": "Rangers linked with midfielders as English clubs express interest in Scottish left-back.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v29j8ee3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T14:31:01.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e98a5c692f93c8",
-      "title": "Sam Allardyce tells Thomas Tuchel to make ‘bold’ change for England vs Norway – ‘it’s a big decision’",
-      "summary": "Sam Allardyce has explained why he thinks Dan Burn should start ahead of Marc Guehi for England’s World Cup quarter-final against Norway.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/sam-allardyce-tells-thomas-tuchel-bold-change-england-norway-big-decision",
-      "publishedAt": "2026-07-10T14:22:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "30c33d80499de7",
-      "title": "Man City offer £10 match tickets for local residents",
-      "summary": "Manchester City are to trial an initiative next season offering Premier League matchday tickets priced at £10 for adults living in the local area.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce37xww195yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T14:14:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8920d5802cc40c",
-      "title": "Argentina v Switzerland: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup quarter-final between Argentina and Switzerland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/argentina-v-switzerland-prediction-preview",
-      "publishedAt": "2026-07-10T14:02:34.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
