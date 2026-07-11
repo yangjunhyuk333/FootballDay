@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-11T13:36:57.386Z",
+  "generatedAt": "2026-07-11T19:10:40.458Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,42 +99,42 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "d2ca77a8360e3b",
-      "title": "Chelsea want permanent Garnacho sale this summer",
-      "summary": "Chelsea are prepared to sell Alejandro Garnacho for £50m this summer, preferring a permanent departure over a loan proposal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562540/chelsea-transfers-alejandro-garnacho-up-for-sale-a-year-after-joining-from-joining-from-manchester-united",
-      "publishedAt": "2026-07-11T13:36:56.970Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "6f2a175e9d8df1",
+      "title": "Odds to win the World Cup: France to semis, Spain ...",
+      "summary": "Updated odds for the remaining teams to advance to the final and to win the 2026 World Cup.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "publishedAt": "2026-07-11T19:51:37.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Chelsea"
+        "World Cup"
       ]
     },
     {
-      "id": "3ecf6a1d6d0879",
-      "title": "Man City sign teenager Monga from Leicester for £10m",
-      "summary": "Manchester City have completed the signing of Jeremy Monga from Leicester City.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562077/jeremy-monga-transfer-man-city-complete-signing-of-17-year-old-leicester-city-winger",
-      "publishedAt": "2026-07-11T13:36:56.970Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "f6f3f3a8f479d3",
+      "title": "Copy of Grades for every team eliminated from the World Cu...",
+      "summary": "When the World Cup ends, 47 teams will have been eliminated, and we're grading every one on how its run compared with expectations.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+      "publishedAt": "2026-07-11T19:50:26.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Manchester"
+        "World Cup"
       ]
     },
     {
-      "id": "f3f2669fb56cc3",
-      "title": "Wanted by Arsenal but now at Man City - just how good is Monga?",
-      "summary": "Wanted by Arsenal but now at Man City - just how good is Monga?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/story-telling/12040/13561376/jeremy-monga-to-manchester-city-how-good-is-leicester-teenage-prodigy-who-has-signed-for-enzo-marescas-side-over-arsenal",
-      "publishedAt": "2026-07-11T13:36:56.970Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "6565f4f40de654",
+      "title": "Álvarez return could be Argentina's antidote to th...",
+      "summary": "A sense of celebration has hung over Argentina ever since their 2022 World Cup win. That must change now.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49325317/julian-alvarez-return-argentina-antidote-their-lionel-messi-dependency-world-cup",
+      "publishedAt": "2026-07-11T19:38:49.000Z",
+      "category": "worldcup",
+      "region": "global",
       "tags": [
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
@@ -143,11 +143,262 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jurgen Klopp is on the verge of becoming Germany's new head coach after reaching an agreement in principle with the German Football Association [DFB], according to repo...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13560208/jurgen-klopp-former-liverpool-boss-on-the-verge-of-becoming-germany-head-coach-and-replacing-julian-nagelsmann",
-      "publishedAt": "2026-07-11T13:36:56.969Z",
+      "publishedAt": "2026-07-11T19:10:40.084Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "76a219eda54a1e",
+      "title": "Norway v England: World Cup 2026 quarter-final – live",
+      "summary": "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST ⚽️ Player guide | Bracketology | Golden Boot | Mail Scott Uefa have been throwing ersatz Super Bowl shapes at the Champ...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live",
+      "publishedAt": "2026-07-11T18:58:23.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9a00aadb98da04",
+      "title": "Guehi and Stones set to start for England in World Cup quarter-final",
+      "summary": "Marc Guehi has won his fitness race and is expected to be fit for England's World Cup quarter-final against Norway, with John Stones set to play alongside the central d...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T18:46:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "dbb082eccec711",
+      "title": "South Africa's Adams, who played at WC, dies at 25...",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died aged 25, the South African Football Players Union has confirmed.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
+      "publishedAt": "2026-07-11T18:07:40.000Z",
+      "category": "league",
+      "region": "global",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "731cedbf637832",
+      "title": "Klopp and Germany agree on 'key points' of deal",
+      "summary": "Jürgen Klopp has reached an agreement on the \"key points\" of a deal to become the new Germany head coach, the German football federation has said.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49334704/jurgen-klopp-germany-world-cup-julian-nagelsmann",
+      "publishedAt": "2026-07-11T18:07:40.000Z",
+      "category": "transfer",
+      "region": "global",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ed19d0b451aa07",
+      "title": "Sources: Chelsea prioritise exit for Garnacho",
+      "summary": "Chelsea are demanding €50 million ($57m) for Alejandro Garnacho after the winger did not report back to the club for preseason training, sources have told ESPN.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49334998/chelsea-prioritise-exit-wantaway-alejandro-garnacho-sources",
+      "publishedAt": "2026-07-11T18:07:30.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1e991c3529d538",
+      "title": "Former Chelsea chairman Ken Bates dies aged 94",
+      "summary": "Former Chelsea chairman Ken Bates has died at the age of 94, the club announced on Saturday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49333624/former-chelsea-chairman-ken-bates-dies-aged-94",
+      "publishedAt": "2026-07-11T18:07:30.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "aa8731b24feb7a",
+      "title": "Man City beat Arsenal to signing of teen Monga",
+      "summary": "Manchester City have completed the signing of winger Jeremy Monga from Leicester City.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49124668/jeremy-monga-man-city-leicester-city-premier-league-transfers",
+      "publishedAt": "2026-07-11T18:07:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "545250de5b0651",
+      "title": "Kane says Haaland 'completely different' than me",
+      "summary": "Harry Kane played down comparisons with Erling Haaland on Friday and vowed England are ready to peak in the World Cup's latter stages.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49329575/harry-kane-erling-haaland-completely-different-player-me",
+      "publishedAt": "2026-07-11T18:07:29.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a96199a747f15d",
+      "title": "Spain's Yamal: France should fear us in semifinal",
+      "summary": "Lamine Yamal says France should fear Spain as the two nations gear up for a heavyweight World Cup semifinal in Arlington, Texas, on Tuesday.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49328508/spain-lamine-yamal-france-world-cup-semifinal",
+      "publishedAt": "2026-07-11T18:07:29.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bb904adcf0963c",
+      "title": "⚽ USMNT World Cup grades: Expectations met?",
+      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
+      "publishedAt": "2026-07-11T18:07:29.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9007fffbcfdd36",
+      "title": "Spain’s Mikel Merino enjoys happy knack of scoring late winners",
+      "summary": "Midfielder has risen from the bench to come up with the decisive goal in past two games – Spain’s first World Cup knockout victories since they won the tournament in 20...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/spains-mikel-merino-enjoys-happy-knack-of-scoring-late-winners",
+      "publishedAt": "2026-07-11T17:33:57.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ceaeaa2e9f1e9a",
+      "title": "Football without faith is nothing so Infantino is playing with fire at World Cup | Jonathan Wilson",
+      "summary": "Swirl around Fifa’s machinations and about big team and big name bias creates doubt – and that’s a dangerous game About 25 years ago, I was in the office of a sports ne...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/football-without-faith-infantino-world-cup",
+      "publishedAt": "2026-07-11T17:00:54.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "ef2fb4eed1fa3b",
+      "title": "Colourful, controversial and significant - ex-Chelsea and Leeds owner Bates dies",
+      "summary": "Former Chelsea and Leeds owner Ken Bates, who has died aged 94, was a colourful and controversial figure - but also a significant one for English football, writes Phil...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1ve57d5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T16:28:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "88d3314e116c01",
+      "title": "Coventry City sign winger Tchaouna from Burnley",
+      "summary": "Premier League Coventry City signed winger Loum Tchaouna from relegated Burnley for an undisclosed fee.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3gxer241o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T16:26:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8ea0c6ec72b016",
+      "title": "Norway v England World Cup quarter-final could be postponed because of soaring temperatures in Miami – report",
+      "summary": "The 2026 World Cup quarter-final tie between Norway and England at the Miami Stadium could be postponed due to soaring temperatures.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-norway-england-2026-world-cup-quarter-final-tie",
+      "publishedAt": "2026-07-11T16:24:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f5da87990377a2",
+      "title": "Man Utd, Liverpool, Chelsea deals among five transfers scuppered by failed medicals",
+      "summary": "Ederson’s move to Manchester United is reported to be going the same way as these five stars who had their hopes dashed by a doc…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/failed-medicals-transfers-man-utd-chelsea-liverpool",
+      "publishedAt": "2026-07-11T16:21:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd eye another Brazil midfielder, Liverpool’s Barcola blow",
+      "summary": "Man Utd are back on the trail of a different Brazil midfielder amid doubts over Ederson, while Arsenal seem to be leading the race for Bradley Barcola…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-11T16:04:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "83bbf8ca9d68cb",
+      "title": "Liverpool make contact to stop Man Utd from signing midfielder in €45m deal",
+      "summary": "Liverpool and Manchester City are competing for a Wolves and Brazil international midfielder in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-wolves-joao-gomes",
+      "publishedAt": "2026-07-11T15:47:54.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -156,7 +407,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T13:29:51.000Z",
+      "publishedAt": "2026-07-11T14:47:47.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -164,31 +415,101 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "961e4c3441f363",
-      "title": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
-      "summary": "⚽ All the latest updates as the quarter-finals continue ⚽ Player guide | Bracketology | Golden Boot | Email us The brilliant Cold War Steve is back with the latest of h...",
+      "id": "9000f963a3a1b6",
+      "title": "Jürgen Klopp reaches agreement to take over as Germany head coach",
+      "summary": "Former Liverpool manager to replace Julian Nagelsmann Germany lost to Paraguay in last 32 of the World Cup Jürgen Klopp has “reached an agreement on the key points” to...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live",
-      "publishedAt": "2026-07-11T13:22:07.000Z",
-      "category": "worldcup",
-      "region": "italy",
+      "url": "https://www.theguardian.com/football/2026/jul/11/jurgen-klopp-reaches-agreement-germany-head-coach",
+      "publishedAt": "2026-07-11T14:07:28.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Football",
         "World Cup",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5e6c50cb41f245",
+      "title": "World Cup daily: Free England-Norway ticket for Er...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49329226/world-cup-daily-england-norway-argentina-switzerland-quarterfinals-erling-haaland",
+      "publishedAt": "2026-07-11T14:07:27.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "c03a551f526cd4",
+      "title": "Fabrizio Romano says ‘winger wants Arsenal move’ as Andrea Berta finalising agreement",
+      "summary": "Fabrizio Romano has reported that a Greece international winger wants to join Arsenal in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/christos-tzolis-wants-to-join-arsenal-fabrizio-romano-update",
+      "publishedAt": "2026-07-11T13:58:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
         "Inter"
       ]
     },
     {
-      "id": "bde7f7c47c1271",
-      "title": "Former Chelsea and Leeds owner Bates dies aged 94",
-      "summary": "Former Chelsea and Leeds United owner Ken Bates has died aged 94, Chelsea announced on Saturday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ry513ljq3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T13:21:14.000Z",
+      "id": "efffa82cdd4ebc",
+      "title": "PL side ‘doing everything’ to thwart £85m Tottenham transfer; Spurs look to hijack £13m West Ham deal",
+      "summary": "Bournemouth are attempting to do everything they can to deter Tottenham from signing Eli Junior Kroupi this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-doing-everything-bournemouth-block-kroupi-transfer-hijack-west-ham-vargas",
+      "publishedAt": "2026-07-11T13:58:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "3349674ab01954",
+      "title": "Ken Bates, colourful and controversial former Chelsea chair, dies aged 94",
+      "summary": "Bates oversaw eventful 21-year period in club’s history Subsequent ownership of Leeds was hugely troubled Ken Bates, one of the most colourful and controversial figures...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/ken-bates-chelsea-leeds-dies-aged-94",
+      "publishedAt": "2026-07-11T13:48:29.000Z",
       "category": "league",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6ebdb329c87372",
+      "title": "Chelsea agree to sell Garnacho at specific price as Man Utd learn how much they’ll receive",
+      "summary": "Chelsea have set two asking prices for Garnacho, with Man Utd now learning how much they’re in line to receive via their sell-on clause.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-agree-sell-alejandro-garnacho-specific-price-man-utd-learn-how-much-receive",
+      "publishedAt": "2026-07-11T13:45:37.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "e7866c4cf44c2e",
+      "title": "South Africa World Cup midfielder Jayden Adams dies aged 25",
+      "summary": "Adams played in South Africa’s World Cup group games Midfielder played for Mamelodi Sundowns Jayden Adams, who played in South Africa’s three group games at the World C...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/south-africa-world-cup-midfielder-jayden-adams-dies-aged-25",
+      "publishedAt": "2026-07-11T13:29:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
       ]
     },
     {
@@ -219,6 +540,36 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "1816d15bbcd88f",
+      "title": "Transfer rumors, news: Could Man United sign Parag...",
+      "summary": "Manchester United are rumored to be interested in Paraguay goalkeeper Orlando Gill. Transfer talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49331445/transfer-rumors-news-man-united-sign-paraguay-gk-senne-lammens-competition",
+      "publishedAt": "2026-07-11T13:00:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "4c7ddbb731fa53",
+      "title": "Football Daily | Belgium and the End Of The Golden Generation Klaxon",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Look at it up there on the hill, shining in the sunlight, an almost imperceptible aura of melancholia surrounding it...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/11/belgium-golden-generation-football-daily-newsletter",
+      "publishedAt": "2026-07-11T12:44:07.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
       "id": "41343ffeca6116",
       "title": "‘A brilliant reprieve, a unifying force’: America falls in love with World Cup",
       "summary": "Packed stadiums, record TV viewers, and an outlet for joyous multiculturalism under attack by Trump – the tournament has taken the US by storm There were plenty of reas...",
@@ -245,353 +596,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "World Cup",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "eb9d086a0da60e",
-      "title": "Real Madrid reach decision on signing Arsenal star as Man City beat Gunners to Monga signing",
-      "summary": "Real Madrid have made a decision on whether to sign Arsenal midfielder Martin Zubimendi this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-reach-decision-on-signing-arsenal-star-as-man-city-beat-gunners-to-monga-signing",
-      "publishedAt": "2026-07-11T11:52:50.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "279e717b6986a2",
-      "title": "£85m striker rejects PSG to sign for Tottenham as £145m double signing explodes",
-      "summary": "Why Bournemouth striker Kroupi has turned down the chance to join PSG in favour of signing for Spurs has been revealed, with the move part of a double attacking reinfor...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/85m-striker-kroupi-rejects-psg-sign-tottenham-145m-double-coup-savinho",
-      "publishedAt": "2026-07-11T11:27:45.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Psg"
-      ]
-    },
-    {
-      "id": "d49f9e07e38d79",
-      "title": "Tunnel vision: candid photos of World Cup 2026 stars",
-      "summary": "Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always don...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars",
-      "publishedAt": "2026-07-11T11:00:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "17cb59211373be",
-      "title": "Should Argentina take Messi off penalties?",
-      "summary": "Lionel Messi keeps rewriting World Cup history, but after his latest miss from the spot, should Argentina hand penalty duties to someone else?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6214y2dlgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T10:51:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "804aba6f700ffa",
-      "title": "Guimaraes will make Arsenal move ‘on two grounds’ with Newcastle ‘flabbergasted’",
-      "summary": "Bruno Guimaraes wants Newcastle to receive a “high fee” for his services in order to complete a move to Arsenal, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-guimaraes-two-grounds-newcastle-flabbergasted",
-      "publishedAt": "2026-07-11T09:53:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9354514a7d5ac8",
-      "title": "Lammens laments late mistake as Spain make the semis | World Cup Daily",
-      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin and Nicky Bandini as Spain win it late on against Belgium and to preview England v Norway. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jul/11/lammens-laments-late-mistake-as-spain-make-the-semis-world-cup-daily",
-      "publishedAt": "2026-07-11T09:47:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T09:37:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e599dc934ffde1",
-      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "summary": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Con...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "publishedAt": "2026-07-11T09:16:01.000Z",
-      "category": "transfer",
-      "region": "italy germany",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Bundesliga",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "7dabad78d91dd1",
-      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "summary": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "publishedAt": "2026-07-11T09:15:43.000Z",
-      "category": "transfer",
-      "region": "england spain italy france germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "La Liga",
-        "Serie A"
-      ]
-    },
-    {
-      "id": "8a2df2d8de0358",
-      "title": "Chelsea could hijack next Man Utd midfield signing as Alonso eyes two deals worth €95m",
-      "summary": "Chelsea are reportedly in the race to sign Man Utd transfer target Danilo Santos this summer after agreeing to sell Andrey Santos.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-hijack-man-utd-midfield-signing-danilo-alonso-costa-porto",
-      "publishedAt": "2026-07-11T09:11:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "04431c3df1e889",
-      "title": "Football Daily",
-      "summary": "England manager Thomas Tuchel & captain Harry Kane speak to John Murray ahead of Norway.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ny6vsk?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T09:07:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Man Utd eye another Brazil midfielder, Liverpool’s Barcola blow",
-      "summary": "Man Utd are back on the trail of a different Brazil midfielder amid doubts over Ederson, while Arsenal seem to be leading the race for Bradley Barcola…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-11T09:01:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c23614db612cde",
-      "title": "Manchester City beat Arsenal to signing of 17-year-old Jeremy Monga from Leicester",
-      "summary": "Manchester City agree £12.5m fee for winger New coach Maresca knows Monga from time at Leicester Manchester City have beaten Arsenal to the £12.5m signing of the 17-yea...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/11/manchester-city-beat-arsenal-to-signing-of-17-year-old-jeremy-monga-from-leicester",
-      "publishedAt": "2026-07-11T09:00:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e25e2e6b134f8b",
-      "title": "Who am I? Guess World Cup star No 34",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd0pmv2mr3jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T09:00:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "653c567f30aa77",
-      "title": "Belgium balls up will do Lammens good, Liverpool chief’s true colours",
-      "summary": "The Mailbox reacts to Belgium’s exit after Senne Lammens’ slip up, while Spurs attempt to distance themselves from The Cartel…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mailbox-world-cup-belgium-spain-courtois-lammens-big-sis-spurs-newcastle-scr-psr",
-      "publishedAt": "2026-07-11T08:43:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "02aa406789e3c2",
-      "title": "Romano rules out Tottenham move for winger who ‘wants’ PL move; names two top targets",
-      "summary": "Tottenham will not pursue a move for AC Milan star Rafael Leao this summer as they have two other targets in mind, says Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-romano-rules-out-leao-gakpo-savinho",
-      "publishedAt": "2026-07-11T08:28:42.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "b1792c8e1038d6",
-      "title": "The Man Utd youngsters to look out for in Finland and Norway",
-      "summary": "Manchester United's pre-season schedule begins before the World Cup final. Which so many senior players still missing, who are the youngsters who could impress?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74yej43w97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T08:25:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a37a59194e412f",
-      "title": "Hey Jude: Bellingham's return to England indispensability",
-      "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T07:54:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7d4f27f6dc8381",
-      "title": "Huge Barcola blow for Liverpool with Arsenal ‘top of the race’ to sign PSG winger",
-      "summary": "Arsenal are “top of the race” to sign Paris Saint-Germain winger Bradley Barcola in a blow to Liverpool, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-barcola-blow-arsenal-top-race-psg-transfer",
-      "publishedAt": "2026-07-11T07:26:41.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "62e7a925604b55",
-      "title": "The ad machine: how David Beckham conquered America",
-      "summary": "The former England midfielder is everywhere at this World Cup, having reached a popularity in the US other Britons have rarely achieved Watch US television for any leng...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america",
-      "publishedAt": "2026-07-11T07:00:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5de50a70451481",
-      "title": "‘What’s the point of working if you can’t do stuff like this?’ England fans descend on Miami",
-      "summary": "England and Norway fans have flocked to Miami in their tens of thousands to enjoy the football and sunshine It is not just another morning on Ocean Drive, where brashne...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/11/whats-the-point-of-working-if-you-cant-do-stuff-like-this-england-fans-descend-on-miami",
-      "publishedAt": "2026-07-11T07:00:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bc98abb13731cb",
-      "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-      "summary": "The fourth in a special series of World Cup 2026-themed collages made for the Guardian by the celebrated satirist Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england",
-      "publishedAt": "2026-07-11T07:00:43.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5c14509ce4ba7e",
-      "title": "Man Utd deny Ederson ‘deal is 100% off’ with the Red Devils ‘fighting’ to seal transfer",
-      "summary": "Man Utd sources are insisting that a deal to sign Atalanta midfielder Ederson is not completely off despite claims on Friday night.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-deny-ederson-deal-is-100-off-with-the-red-devils-fighting-to-seal-transfer",
-      "publishedAt": "2026-07-11T07:00:07.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "664bbe18c37301",
-      "title": "Man Utd want to sign Championship midfielder after Ederson transfer collapses",
-      "summary": "Man Utd are now reportedly looking to sign Wolves midfielder Joao Gomes after Fabrizio Romano revealed that a deal for Ederson has collapsed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-want-to-sign-championship-midfielder-after-ederson-transfer-collapses",
-      "publishedAt": "2026-07-11T06:27:02.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "dc0868baf5a9de",
-      "title": "England World Cup quarter-finals ranked: Hands of God, lobbing Seaman and penalties…",
-      "summary": "Before England face Norway in their 11th World Cup quarter-final, we’ve ranked all the previous 10, which feature a high concentration of absolute nonsense…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-world-cup-quarter-finals-ranked-hand-of-god-penalties",
-      "publishedAt": "2026-07-11T06:04:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
