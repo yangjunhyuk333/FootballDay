@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-12T08:24:15.311Z",
+  "generatedAt": "2026-07-12T13:36:43.601Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "f832e0cdec807f",
-      "title": "Tuchel NOT happy with England display but Bellingham responds: 'Whatever'",
-      "summary": "Thomas Tuchel admitted he was not happy with England's performance in their nervy World Cup quarter-final win over Norway - admitting the Three Lions were \"sloppy, luck...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13562621/thomas-tuchel-unhappy-with-englands-display-in-world-cup-quarter-final-win-over-norway-but-jude-bellingham-responds-with-whatever",
-      "publishedAt": "2026-07-12T08:24:14.786Z",
+      "id": "5bca5e91ed777a",
+      "title": "Listen: Sunday Sportsound including Falkirk manager John McGlynn",
+      "summary": "All the latest from the final day of the Scottish Open golf, Wimbledon, World Cup and more",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T16:00:00.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -112,16 +112,45 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e1c469b66d1e25",
-      "title": "EPIC SCENES! England fans overjoyed at fan parks after Norway win",
-      "summary": "Relive the best of the fans reaction as England came from behind to beat Norway in the World Cup quarter-finals.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13562667/world-cup-england-fans-overjoyed-at-fan-parks-after-norway-win",
-      "publishedAt": "2026-07-12T08:24:14.786Z",
+      "id": "070ef2cc02d4c8",
+      "title": "Get ready for the World Cup semifinals! What you n...",
+      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
+      "publishedAt": "2026-07-12T14:15:09.000Z",
       "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8be2269b6a647f",
+      "title": "Copy of Transfer rumors, news: Man United, Liverpool turn ...",
+      "summary": "Wolves star João Gomes looked set for Atlético Madrid but could now head to Manchester United or Liverpool. Transfer talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49341464/transfer-rumors-news-man-united-liverpool-turn-wolves-midfielder-joao-gomes",
+      "publishedAt": "2026-07-12T13:51:47.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Transfer",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "50c23d7866ea72",
+      "title": "Copy of What it's like to transfer clubs during a World Cu...",
+      "summary": "Plenty of players have moved clubs during a major tournament, but what is that experience like and how much does it impact negotiations?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49334079/what-transfer-clubs-world-cup-does-ever-go-wrong",
+      "publishedAt": "2026-07-12T13:51:47.000Z",
+      "category": "transfer",
+      "region": "global",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -130,7 +159,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Julian Alvarez scored an extra-time stunner as Argentina beat 10-man Switzerland 3-1 and set up a mouth-watering World Cup semi-final clash with England.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/argentina-vs-switzerland/report/549865",
-      "publishedAt": "2026-07-12T08:24:14.785Z",
+      "publishedAt": "2026-07-12T13:36:43.149Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,7 +172,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Highlights from the fifth T20 international between England and India in Southampton as the hosts romped to a 4-0 series win.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13562617/england-vs-india-5th-t20i-highlights",
-      "publishedAt": "2026-07-12T08:24:14.785Z",
+      "publishedAt": "2026-07-12T13:36:43.149Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -156,7 +185,46 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England booked their place in the semi-finals of the World Cup as another double from the brilliant Jude Bellingham clinched a 2-1 extra-time victory over Norway in Mia...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/norway-vs-england/report/549864",
-      "publishedAt": "2026-07-12T08:24:14.785Z",
+      "publishedAt": "2026-07-12T13:36:43.149Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bdd5219fdc944c",
+      "title": "'One of the greats' - How 'hardy' Knight will be remembered for England",
+      "summary": "Tash Farrant hailed Heather Knight as \"one of the greats\" after the former England captain announced her retirement from international cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13562756/heather-knights-international-retirement-former-england-captain-one-of-the-greats-says-tash-farrant",
+      "publishedAt": "2026-07-12T13:36:43.148Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "460465bc6c86a1",
+      "title": "Did the ball hit the Spidercam cable before England's equaliser? FIFA sensor reveals all...",
+      "summary": "Watch to see if the ball hit the Spidercam cable before England's equalising goal. Credit: FIFA.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13562727/world-cup-did-the-ball-hit-the-cable-camera-before-englands-equalising-goal",
+      "publishedAt": "2026-07-12T13:36:43.148Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "745502c62fa904",
+      "title": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
+      "summary": "Paul Merson says Jude Bellingham has the X-factor needed to help England win the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562724/paul-merson-jude-bellingham-has-x-factor-needed-to-win-england-the-world-cup",
+      "publishedAt": "2026-07-12T13:36:43.148Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -169,7 +237,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying on with their 2-1 extra-time win over Norway.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13562616/norway-1-2-england-aet-player-ratings-jude-bellinghams-sensational-summer-carries-on-as-harry-kane-has-off-day-in-world-cup-quarter-final-win",
-      "publishedAt": "2026-07-12T08:24:14.784Z",
+      "publishedAt": "2026-07-12T13:36:43.148Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,26 +245,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0ffbf33905f2b1",
-      "title": "Zlatan Ibrahimovic fires dig at Arsenal star as England ‘started with one player less’ vs Norway",
-      "summary": "Zlatan Ibrahimovic has hit out at Arsenal winger Noni Madueke for his performance as England beat Norway to reach the World Cup semi-finals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/zlatan-ibrahimovic-fires-dig-arsenal-star-england-started-one-guy-less-norway",
-      "publishedAt": "2026-07-12T08:15:30.000Z",
+      "id": "54427e15b06913",
+      "title": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI",
+      "summary": "As we look ahead to the World Cup semi-final, BBC Sport pick their last-four combined XI. Do you agree?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T13:29:06.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
       "id": "ee9e9a78e0ba6b",
-      "title": "World Cup 2026: England set up Argentina semi-final, Norway and Switzerland fume – live",
+      "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
       "summary": "⚽ All the latest as the quarter-finals conclude ⚽ Player guide | Bracketology | Golden Boot | Email us Sidebar, Whatever bears such a striking resemblance to Neil Innes...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
-      "publishedAt": "2026-07-12T08:06:02.000Z",
+      "publishedAt": "2026-07-12T13:28:50.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -206,52 +273,81 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "355556c420f6c0",
-      "title": "Wayne Rooney makes England prediction after win vs Norway and drops bold Argentina claim",
-      "summary": "Wayne Rooney has backed England to reach the World Cup final even though he was not enthused by their performance against Norway.",
+      "id": "98d4dda8ce8d1a",
+      "title": "Man Utd ready to ‘finance’ Harry Kane transfer as Bayern Munich push for new contract",
+      "summary": "Tottenham and Manchester United are both keeping a close eye on Harry Kane’s situation, with Bayern Munich determined to tie the England captain down to a new contract...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/wayne-rooney-england-prediction-win-norway-bold-argentina-claim",
-      "publishedAt": "2026-07-12T07:52:22.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "url": "https://www.football365.com/news/harry-kane-transfer-news-ratcliffe-man-utd-tottenham-bayern-munich",
+      "publishedAt": "2026-07-12T13:11:56.000Z",
+      "category": "transfer",
+      "region": "england germany",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0c51ce089fef0f",
-      "title": "Italian & German interest in Rangers' Barron - gossip",
-      "summary": "Three clubs track Rangers midfielder as Celtic consider Manchester United goalkeeper.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy06j9e3jz6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T07:37:16.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
+        "Transfer",
         "Manchester",
-        "Inter"
+        "Bayern"
       ]
     },
     {
-      "id": "cf3c7976ef6a3b",
-      "title": "Senegal sack manager Thiaw in wake of World Cup exit",
-      "summary": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T07:25:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1d7ca9239d24a2",
-      "title": "Thomas Tuchel issues response to Jude Bellingham after dig at England players – ‘no one disputes that’",
-      "summary": "Thomas Tuchel has responded to Jude Bellingham over comments on England’s effort in the World Cup quarter-final win vs Norway, while he claims they can and must improve.",
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Arsenal target three attackers as Man Utd identify Ederson alternatives",
+      "summary": "Arsenal are looking to revamp their attack with as many as three signings, while Manchester United have picked out alternatives to Ederson.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/thomas-tuchel-response-jude-bellingham-dig-england-players",
-      "publishedAt": "2026-07-12T07:21:08.000Z",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-12T12:50:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c7019159d43ef8",
+      "title": "World Cup Daily Live: Spidercam debate rumbles on ...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49340531/world-cup-daily-live-spidercam-debate-rumbles-four-semifinalists-confirmed-england-argentina-france-spain",
+      "publishedAt": "2026-07-12T12:43:39.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b771c0a8c1e6dc",
+      "title": "Copy of Bellingham's big night eclipses anonymous Haaland ...",
+      "summary": "Jude Bellingham struck twice as England came from behind to beat Norway 2-1 in extra time and reach the World Cup semifinals amid sweltering Florida heat.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49335118/england-reach-world-cup-semifinals-jude-bellingham-big-night-norway-erling-haaland-anonymous",
+      "publishedAt": "2026-07-12T12:41:46.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3b16325ff78840",
+      "title": "Arsenal pushing to strike quick agreement for Julian Alvarez as Andrea Berta given triple boost",
+      "summary": "According to reports, Arsenal are now ‘pushing’ to sign Atletico Madrid star Julian Alvarez and their hopes of landing him have been boosted.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-pushing-strike-quick-agreement-alvarez-berta-triple-boost",
+      "publishedAt": "2026-07-12T12:40:55.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "caaa4470f688a9",
+      "title": "Big stars and old rivals - what to expect in semi-finals",
+      "summary": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T12:29:10.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -259,25 +355,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "48c1f4775b2db0",
-      "title": "Who am I? Guess World Cup star No 35",
-      "summary": "Will you get today's player in as few attempts as possible?",
+      "id": "0cdb060ba8f408",
+      "title": "'Not happy with the performance' - so why do England keep winning?",
+      "summary": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx21gn50e08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T06:15:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac4ea380ccc1ad",
-      "title": "Footballers more likely to suffer depression and anxiety - study",
-      "summary": "A new study finds evidence of reduced brain volume in former elite footballers, who also report difficulties with thinking skills and decision-making.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn59nnkyy2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T05:09:55.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T12:19:03.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -285,52 +368,131 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5c758ee8a7a027",
-      "title": "'We should all be excited' - Messi set for first England meeting",
-      "summary": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T04:48:18.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "id": "f52d219dc346b5",
+      "title": "Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
+      "summary": "Midfielder got England back on level terms in fine fashion but pictures suggest illegal interference in the buildup Norway’s goalkeeper, Ørjan Håskjold Nyland, launches...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026",
+      "publishedAt": "2026-07-12T11:57:06.000Z",
+      "category": "league",
+      "region": "italy",
       "tags": [
-        "World Cup"
+        "Football",
+        "Inter"
       ]
     },
     {
-      "id": "bfe93cf561ff0a",
-      "title": "Bellingham reaching heights of World Cup legends with Messi next",
-      "summary": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T04:35:19.000Z",
-      "category": "worldcup",
+      "id": "9fe060e5bb9eba",
+      "title": "Lineker reveals ‘concern’ with ‘brilliant’ England star for Argentina match – ‘the one thing I would say’",
+      "summary": "Gary Lineker has revealed why he has a “concern” with Manchester City star Elliot Anderson for England’s match against Argentina.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lineker-reveals-concern-brilliant-england-star-argentina-match",
+      "publishedAt": "2026-07-12T11:43:14.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Manchester"
       ]
     },
     {
-      "id": "7625404a79fab5",
-      "title": "Top four ranked teams make semi-finals for first time",
-      "summary": "For the first time since there have been Fifa rankings the top four ranked teams have made the semi-final of the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T04:26:44.000Z",
+      "id": "dbb082eccec711",
+      "title": "South Africa's Adams, who played at WC, dies at 25...",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died at age 25, the South African Football Players Union has confirmed.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49333373/south-africa-midfielder-jayden-adams-dies-aged-25-weeks-world-cup-appearance",
+      "publishedAt": "2026-07-12T11:30:25.000Z",
+      "category": "league",
+      "region": "global",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "a352c6b6576de1",
+      "title": "FIFA denies ball hit wire in England's first goal",
+      "summary": "FIFA stated there is \"no evidence\" the ball struck an overhead wire before England's equalizing goal against Norway in the Three Lions' 2-1 World Cup quarterfinals vict...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49337953/england-norway-world-cup-goal-ball-camera-cable-jude-bellingham",
+      "publishedAt": "2026-07-12T11:29:43.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "global",
       "tags": [
         "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "978c0eeb953613",
-      "title": "Argentina ride their luck again before setting up World Cup semi-final against England",
-      "summary": "Argentina emerged from another extraordinary knockout tie against Switzerland to set up a World Cup semi-final against England.",
+      "id": "ed19d0b451aa07",
+      "title": "Sources: Chelsea prioritise exit for Garnacho",
+      "summary": "Chelsea are demanding €50 million ($57m) for Alejandro Garnacho after the winger did not report back to the club for preseason training, sources have told ESPN.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49334998/chelsea-prioritise-exit-wantaway-alejandro-garnacho-sources",
+      "publishedAt": "2026-07-12T11:29:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "bb904adcf0963c",
+      "title": "⚽ USMNT World Cup grades: Expectations met?",
+      "summary": "At this summer's World Cup, the U.S. did its homework, aced the quizzes, and then failed the final exam. How should we grade its World Cup?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49314124/usa-world-cup-report-card-grades-mauricio-pochettino-christian-pulisic-analysis",
+      "publishedAt": "2026-07-12T11:29:43.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "898776037cedf3",
+      "title": "Álvarez's screamer a 'huge release' for Argentina",
+      "summary": "Julián Álvarez said he felt a 'huge release of emotions' after he scored his first World Cup goal for Argentina to propel his team into the semifinals against England.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49340795/julian-alvarez-extra-screamer-fires-argentina-semifinals-world-cup",
+      "publishedAt": "2026-07-12T11:29:42.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "f15b4c15a61214",
+      "title": "Copy of Embolo red-carded for diving after VAR review",
+      "summary": "Switzerland forward Breel Embolo was sent off in the second half of a World Cup quarterfinal match with Argentina on Saturday night after a video review showed he was g...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49339724/switzerland-breel-embolo-red-card-diving-var-argentina-2026-world-cup",
+      "publishedAt": "2026-07-12T11:29:42.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ff5796801e67a4",
+      "title": "Messi praises 'not normal' Argentina in WC defense...",
+      "summary": "Lionel Messi has said Argentina's remarkable run of success is \"not normal\" after the reigning world champions beat Switzerland to reach the World Cup semifinals, where...",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
+      "publishedAt": "2026-07-12T11:29:41.000Z",
+      "category": "worldcup",
+      "region": "global",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7bdd9e9cfdf2f0",
+      "title": "England civil war nonsense exposed as Kane offers insight into Tuchel v Bellingham situation",
+      "summary": "Only England can celebrate reaching a World Cup semi with a civil war between star and manager – except Tuchel v Bellingham is no such thing.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/argentina-ride-their-luck-world-cup-semi-final-england",
-      "publishedAt": "2026-07-12T04:24:31.000Z",
+      "url": "https://www.football365.com/news/tuchel-bellingham-england-civil-war-exposed-kane-insight",
+      "publishedAt": "2026-07-12T11:21:13.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -338,12 +500,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "7823a5386a4138",
-      "title": "Embolo sent off as result of mistaken identity rule",
-      "summary": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup.",
+      "id": "807640ddd79812",
+      "title": "Rice in bed for nearly three days before Norway game - Tuchel",
+      "summary": "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T04:22:57.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T11:15:14.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -351,12 +513,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: England and Argentina scramble into final four",
-      "summary": "Only four remain at the 2026 World Cup, and England are one of them. But there is a clear favourite, and that is very much not England.",
+      "id": "441a4630ae7d02",
+      "title": "Lionel Scaloni makes England claim before Argentina’s World Cup semi-final – ‘this is what I can say’",
+      "summary": "Argentina boss Lionel Scaloni has looked ahead to his side’s World Cup semi-final against England, who will be a “very tough opponent”.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-07-12T04:15:47.000Z",
+      "url": "https://www.football365.com/news/lionel-scaloni-england-claim-argentina-world-cup-semi-final",
+      "publishedAt": "2026-07-12T11:01:32.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -364,12 +526,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0f5bf0fc95a9fc",
-      "title": "Julián Álvarez’s extra-time stunner sinks 10-man Switzerland to send Argentina into semi-finals",
-      "summary": "Did anyone think they would do it the easy way? If Argentina are to win this World Cup they will only get there via rollercoaster. A seemingly straightforward night’s w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/12/switzerland-argentina-world-cup-quarter-final-match-report",
-      "publishedAt": "2026-07-12T03:58:37.000Z",
+      "id": "901936374a7141",
+      "title": "Rio Ferdinand tells Arsenal to sign £40m Man Utd star as INEOS identify two potential replacements",
+      "summary": "Rio Ferdinand has encouraged Arsenal to make a move for Manchester United and England star Marcus Rashford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rio-ferdinand-tells-arsenal-sign-40m-man-utd-star-ineos-two-replacements",
+      "publishedAt": "2026-07-12T10:11:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f32208cf8c947a",
+      "title": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
+      "summary": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T10:10:33.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -378,157 +554,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "712cec430895ec",
-      "title": "England into semi-finals - what is their path to the final?",
-      "summary": "BBC Sport takes a look at what England will need to do to reach the World Cup final after progressing to the semi-finals.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T03:57:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6d9bba42c20610",
-      "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
-      "summary": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner J...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T03:08:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0518ebc7914f94",
-      "title": "Jude Bellingham excels in parallel World Cup but cannot win trophy alone | Barney Ronay",
-      "summary": "Up against Norway’s heart and skill and Florida’s heat, talisman got England through – but there is much to fix Jude against the sun. For much of this game there was a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-parallel-world-cup-norway-england",
-      "publishedAt": "2026-07-12T02:37:55.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f1983613a49322",
-      "title": "16 Conclusions from Norway 1-2 England: Bellingham, Spence, Anderson, Haaland, cables",
-      "summary": "England are in the World Cup semi-final; 16 Conclusions later, we’re still not really sure how. Apart from just saying ‘Jude’ and ‘Bellingham’.",
+      "id": "c14f8e7bdd2d7f",
+      "title": "Erling Haaland slams ‘weak’ decision in England game as his father claims Norway ‘got robbed’",
+      "summary": "Erling Haaland has hit out at a “weak” decision as Norway lost 2-1 to England in the World Cup quarter-finals to exit the tournament.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/england-norway-world-cup-quarter-final-jude-bellingham-djed-spence-erling-haaland-16-conclusions",
-      "publishedAt": "2026-07-12T02:27:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "04d3dee3f7be30",
-      "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
-      "summary": "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T02:20:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e61a4fbe898fee",
-      "title": "Pick your England XI for World Cup semi-final",
-      "summary": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-12T01:38:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bf68d35cf2f955",
-      "title": "Sir Jude Bellingham fires England into World Cup semi-finals with Norway brace",
-      "summary": "Jude Bellingham scored twice as England beat Norway 2-1 after extra time to reach the 2026 World Cup semi-finals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/report-jude-bellingham-england-world-cup-semi-finals-norway-win",
-      "publishedAt": "2026-07-12T01:27:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "970311f1ce9fff",
-      "title": "Player ratings as England beat Norway: Bellingham outstanding, Spence daring, Saka impactful",
-      "summary": "England are World Cup semi-finalists thanks to Jude Bellingham’s brace vs Norway. Here are our player ratings from that quarter-final.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/player-ratings-england-norway-bellingham-spence-saka-kane-pickford",
-      "publishedAt": "2026-07-12T01:20:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "92fd1c0afc31d5",
-      "title": "Norway 1-2 England: World Cup quarter-final player ratings from Miami",
-      "summary": "Jude Bellingham shone again for England while Marc Guéhi edged a fierce battle with clubmate Erling Haaland Orjan Håskjold Nyland Norway’s hero against Brazil will have...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/12/norway-1-2-england-world-cup-quarter-final-player-ratings-from-miami",
-      "publishedAt": "2026-07-12T00:03:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9ab2c41ca60a56",
-      "title": "'He has dragged them through all tournament' - England player ratings",
-      "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T23:51:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c6995126dadbb6",
-      "title": "BBC to show England's World Cup semi-final",
-      "summary": "England's World Cup semi-final against Argentina will be broadcast live on BBC One and BBC iPlayer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx268mlg3lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T23:47:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "53e412dcba43f3",
-      "title": "'Man of all the moments' - Bellingham gives England the lead",
-      "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T23:46:44.000Z",
+      "url": "https://www.football365.com/news/erling-haaland-slams-weak-decision-england-game-father-claims-norway-robbed",
+      "publishedAt": "2026-07-12T09:41:42.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -541,38 +572,12 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are have fallen to third and are holding off Crystal Palace and Sunderland.",
       "source": "Football365",
       "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-07-11T23:14:06.000Z",
+      "publishedAt": "2026-07-12T09:35:06.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "e73b41b8ca52dd",
-      "title": "How to take a World Cup shootout penalty",
-      "summary": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04yk2rzv2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T23:03:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "27d98b7bae8ce6",
-      "title": "Fifa official refuses to answer BBC's Balogun ban questions",
-      "summary": "The head of Fifa's disciplinary committee refuses to answer BBC questions about the decision-making process which led to United States striker Folarin Balogun avoiding...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T22:45:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
       ]
     }
   ],
