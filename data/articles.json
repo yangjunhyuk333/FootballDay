@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T08:16:04.414Z",
+  "generatedAt": "2026-07-14T13:54:43.932Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,95 +99,67 @@
       "pinned": true
     },
     {
-      "id": "653d9125b71427",
-      "title": "Messi is about to play England for the first time ...",
-      "summary": "Until Wednesday's second semifinal of the 2026 World Cup kicks off, it's a strange historical quirk that Lionel Messi has never played against England.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49350614/world-cup-2026-semifinal-argentina-lionel-messi-first-match-england-record-vs-brazil-germany-italy-spain",
-      "publishedAt": "2026-07-14T08:43:44.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8847daa970b43d",
-      "title": "Projecting the USMNT 2030 World Cup roster: 30 pla...",
-      "summary": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
-      "publishedAt": "2026-07-14T08:40:49.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "91ee834e471baf",
-      "title": "The USMNT's struggles at the World Cup can't be fi...",
-      "summary": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
-      "publishedAt": "2026-07-14T08:40:33.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b07503de0f49bb",
-      "title": "Transfer rumors, news: Liverpool, Chelsea, Spurs e...",
-      "summary": "Liverpool, Chelsea and Tottenham Hotspur are interested in Benfica winger Andreas Schjelderup. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49356176/transfer-rumors-news-liverpool-chelsea-spurs-eye-norway-world-cup-star-andreas-schjelderup",
-      "publishedAt": "2026-07-14T08:29:52.000Z",
+      "id": "8321d3379fa3ac",
+      "title": "Man City interested in Morocco wonderkid Bouaddi",
+      "summary": "Manchester City are showing interest in Lille midfielder Ayyoub Bouaddi.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13563315/ayyoub-bouaddi-manchester-city-interested-in-morocco-and-lille-wonderkid-after-impressive-world-cup",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england italy france",
       "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool",
+        "Manchester",
         "Inter"
       ]
     },
     {
-      "id": "9849a39e8ac387",
-      "title": "Aston Villa latest: PSG set to sign Digne for £8.5m",
-      "summary": "Aston Villa latest: PSG set to sign Digne for £8.5m",
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Alvarez not keen on move to England amid Barcelona dream",
+      "summary": "Arsenal latest: Alvarez not keen on move to England amid Barcelona dream",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-07-14T08:16:04.189Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
       "category": "transfer",
-      "region": "france",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "0fd23e3b65bafd",
+      "title": "Sunderland latest: Ex-Dortmund and PSG defender Meunier set to sign",
+      "summary": "Sunderland latest: Ex-Dortmund and PSG defender Meunier set to sign",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
+      "category": "transfer",
+      "region": "france germany",
       "tags": [
         "Psg"
       ]
     },
     {
-      "id": "443381705dc0ca",
-      "title": "How Spain can knock France off their 'World Cup favourites' perch",
-      "summary": "And so there were four. As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up...",
+      "id": "afb9f3ae8b7dc2",
+      "title": "Which club's players have scored most WC goals? Arsenal join leaders",
+      "summary": "Which teams' players have scored the most goals at the World Cup so far?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final",
-      "publishedAt": "2026-07-14T08:16:04.189Z",
+      "url": "https://www.skysports.com/football/news/12040/13558909/world-cup-2026-how-many-goals-have-players-from-premier-league-clubs-scored",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
       "category": "worldcup",
-      "region": "italy",
+      "region": "england",
       "tags": [
         "World Cup",
-        "Fifa",
-        "Inter"
+        "Arsenal"
       ]
     },
     {
-      "id": "c221a0988136ca",
-      "title": "'A little lost' - Why has Mainoo become England's forgotten man?",
-      "summary": "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup.",
+      "id": "9526ff1c99130d",
+      "title": "Carra: England must exploit Messi in World Cup semi-final",
+      "summary": "Jamie Carragher believes England can exploit Lionel Messi in their World Cup semi-final against Argentina.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
+      "url": "https://www.skysports.com/football/news/12040/13563342/england-vs-argentina-jamie-carragher-believes-thomas-tuchels-side-can-exploit-lionel-messi-in-their-world-cup-semi-final",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -200,11 +172,50 @@
       "summary": "Declan Rice is fit and available to start England's World Cup semi-final against Argentina on Wednesday, Sky Sports News understands.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "0787b2f8efa095",
+      "title": "New faces in England Women squad as World Cup preparations ramp up vs France",
+      "summary": "New faces in England Women squad as World Cup preparations ramp up vs France",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c221a0988136ca",
+      "title": "'A little lost' - Why has Mainoo become England's forgotten man?",
+      "summary": "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c161419d1b3684",
+      "title": "Scorecard: England vs India, first one-day international, Edgbaston",
+      "summary": "Scorecard: England vs India, first one-day international, Edgbaston",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-india/scorecard/062239c6-6471-5351-b2d0-3f8ca68fee70",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -213,7 +224,7 @@
       "summary": "Xabi Alonso says defender Reece James will remain Chelsea captain - and he wants Enzo Fernandez to stay at the club.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13563108/xabi-alonso-reece-james-to-remain-as-chelsea-captain-while-new-boss-wants-enzo-fernandez-to-stay-at-club",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
+      "publishedAt": "2026-07-14T13:54:43.601Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -222,162 +233,42 @@
       ]
     },
     {
-      "id": "336ff7392d3c78",
-      "title": "Scottish Premiership ins and outs - the confirmed deals so far...",
-      "summary": "The summer transfer window opens on June 15 and closes at 5pm UK time on September 3. Find out who is on the move across the Scottish Premiership.",
+      "id": "3b89bed9117b42",
+      "title": "England World Cup semi-final and final? A reminder of where and when!",
+      "summary": "A reminder of where and when England's semi-final against Argentina takes place and, if they get that far, when to make a note in your diary for the final.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13548430/transfer-news-summer-transfer-window-2026-scottish-premiership-deals-ins-and-outs",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
+      "url": "https://www.skysports.com/watch/video/13563368/world-cup-semi-final-and-final-a-reminder-of-where-and-when",
+      "publishedAt": "2026-07-14T13:54:43.600Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e9e8b8c7d93198",
+      "title": "Arsenal confirm Trossard is moving to Besiktas",
+      "summary": "Arsenal have confirmed Leandro Trossard is moving to Besiktas.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13563271/leandro-trossard-arsenal-confirm-winger-joining-besiktas-in-17m-deal",
+      "publishedAt": "2026-07-14T13:54:43.600Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Arsenal"
       ]
     },
     {
-      "id": "c2a447c6571eff",
-      "title": "Premier League ins and outs - the confirmed deals so far...",
-      "summary": "The summer transfer window opened on June 15 and closes at 11pm UK time on September 1. Find out who is on the move across the Premier League.",
+      "id": "4971802e1e73b5",
+      "title": "Football news: Slot a candidate for Netherlands job",
+      "summary": "Football news: Slot a candidate for Netherlands job",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "publishedAt": "2026-07-14T13:54:43.600Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "0c49915f0a6215",
-      "title": "Spurs latest: Inter Milan interested in Spence",
-      "summary": "Spurs latest: Inter Milan interested in Spence",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Iraola gives Barcola update and says: 'We need a winger'",
-      "summary": "Liverpool latest: Iraola gives Barcola update and says: 'We need a winger'",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "de1c76952133a9",
-      "title": "Papers: Alonso determined to keep Fernandez at Chelsea",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13563203/enzo-fernandez-xabi-alonso-determined-to-keep-wantaway-argentina-world-cup-star-at-chelsea-paper-talk",
-      "publishedAt": "2026-07-14T08:16:04.188Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "4829c2925d4a87",
-      "title": "France counterattack, Argentina set pieces: How Wo...",
-      "summary": "We're down to the final four of the World Cup, with the four top-ranked teams set to square off. Yet all of them use very different attacking styles in order to score g...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
-      "publishedAt": "2026-07-14T08:05:23.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a363e029b3bd60",
-      "title": "France boss: Spain favorites for 'spectacular' sem...",
-      "summary": "France head coach Didier Deschamps deflected questions about his team's World Cup favorite status and projected a \"spectacular game\" against Spain in Tuesday's semifinal.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49354271/france-deschamps-predicts-spectacular-semifinal-clash-vs-spain",
-      "publishedAt": "2026-07-14T08:03:48.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bc22c52342f747",
-      "title": "World Cup Daily live: Happy Birthday to Lamine Yam...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we now know our four World Cup semifinalists.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49348483/world-cup-daily-live-happy-birthday-lamine-yamal-world-cup-itself",
-      "publishedAt": "2026-07-14T08:02:13.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "02702f539668b4",
-      "title": "Inside Spain's World Cup camp: Can good vibes coul...",
-      "summary": "As they prepare to face France's four musketeers, Spain have built their own powerful \"all for one\" mentality together in their World Cup summer camp.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49349006/inside-spain-world-cup-camp-good-vibes-carry-title",
-      "publishedAt": "2026-07-14T08:02:09.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "02caf390884d03",
-      "title": "What's it really like to face Yamal and Mbappé? We...",
-      "summary": "ESPN has asked LaLiga players and coaches what it's like to take on Lamine Yamal and Kylian Mbappé, who will clash in Tuesday's World Cup semifinal.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49041085/whats-really-face-world-cup-laliga-stars-spain-barcelona-lamine-yamal-france-kylian-mbappe",
-      "publishedAt": "2026-07-14T08:02:09.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f8e448844fd82b",
-      "title": "Preparing for penalties: How goalkeepers get ready...",
-      "summary": "Since the shootout debuted at the 1982 World Cup, 39 knockout games have been decided from the penalty spot. What does preparation look like for the goalkeepers?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49350274/penalties-world-cup-england-spain-france-argentina-shootout-stats-psychology",
-      "publishedAt": "2026-07-14T08:01:25.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "46b5fe660f7373",
-      "title": "Copy of Copy of Hate extra time and penalties? One man is on a mis...",
-      "summary": "Soccer's format for deciding cup games that end in a tie is a flawed system. So what is an alternative?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49335902/hate-extra-penalties-heres-how-one-man-mission-replace-them",
-      "publishedAt": "2026-07-14T08:01:25.000Z",
-      "category": "league",
-      "region": "global",
-      "tags": [
-        "Soccer"
+        "Football"
       ]
     },
     {
@@ -386,7 +277,7 @@
       "summary": "⚽️ Latest news before first of the semi-finals in Dallas ⚽️ Player guide | Golden Boot | Football Daily | Email us Atlanta police are increasing staffing and resources...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
-      "publishedAt": "2026-07-14T07:59:34.000Z",
+      "publishedAt": "2026-07-14T13:40:47.000Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -396,26 +287,12 @@
       ]
     },
     {
-      "id": "0f7aeef239f803",
-      "title": "England: Significant Declan Rice injury update revealed with two stars to miss Argentina game",
-      "summary": "There is a significant update on Arsenal star Declan Rice’s availability ahead of England’s World Cup semi-final against Argentina.",
+      "id": "2b275dd2edd8a8",
+      "title": "Man Utd want three more signings after Youri Tielemans with Red Devils duo to leave",
+      "summary": "Manchester United reportedly have a deal ‘done’ for Youri Tielemans, and they have decided which positions to strengthen for the rest of this window.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/england-significant-declan-rice-injury-update-revealed-two-stars-miss-argentina-game",
-      "publishedAt": "2026-07-14T07:52:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "91a82e499f8bee",
-      "title": "Sources: United in advanced talks for Tielemans",
-      "summary": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
+      "url": "https://www.football365.com/news/man-utd-want-three-more-signings-youri-tielemans-red-devils-star-set-exit",
+      "publishedAt": "2026-07-14T13:26:32.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -423,118 +300,122 @@
       ]
     },
     {
-      "id": "5b94bc3d58a3cc",
-      "title": "Haaland, Norway return home to heroes' welcome",
-      "summary": "Erling Haaland and his Norway teammates were welcomed home by a crowd of thousands following their historic World Cup achievements in North America.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49353144/erling-haaland-norway-return-home-heroes-welcome-world-cup-exit",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b85043fc14dd32",
-      "title": "Kane rejects England 'division,' backs Bellingham",
-      "summary": "Captain Harry Kane has dismissed the idea of division in the England squad, insisting there is \"complete togetherness\" ahead of the World Cup semifinal with Argentina.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49356103/harry-kane-dismisses-england-division-world-cup-want-jude-bellingham-say",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "516d774f49a49e",
-      "title": "Revs re-sign USMNT's Turner on loan from Lyon",
-      "summary": "The New England Revolution announced on Monday that it has extended the loan of United States men's national team goalkeeper Matt Turner from Ligue 1 side Lyon through...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49350801/new-england-revolution-extend-contract-usmnt-gk-matt-turner-loan-lyon",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T13:20:18.000Z",
       "category": "transfer",
-      "region": "france",
-      "tags": [
-        "Ligue 1"
-      ]
-    },
-    {
-      "id": "dfec8c0acccac1",
-      "title": "Alonso wants Enzo Fernández to stay at Chelsea",
-      "summary": "Chelsea manager Xabi Alonso has said he wants to keep Enzo Fernández at the club amid a potential exit this summer.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49350741/xabi-alonso-wants-enzo-fernandez-stay-chelsea",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Transfer"
       ]
     },
     {
-      "id": "b871b936daf63c",
-      "title": "Police investigating death of South Africa's Adams...",
-      "summary": "Police said Monday they are investigating the death of South Africa World Cup football player Jayden Adams, after his body was discovered this weekend at a property in...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49349593/police-investigating-death-south-africa-world-cup-player-jayden-adams",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
+      "id": "2b0786e523c11c",
+      "title": "What age gives a squad best chance to win World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team looks into the typical age of a World Cup-winning team",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8l8y5451vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T13:12:48.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
-        "Football",
         "World Cup"
       ]
     },
     {
-      "id": "6feafc47145fac",
-      "title": "Source: Villa's Digne agrees deal for PSG return",
-      "summary": "Paris Saint-Germain have agreed a deal with Lucas Digne to bring the Aston Villa defender back to Paris after paying his £10 million ($13.3m) release clause, a source t...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49350428/lucas-digne-agrees-deal-return-psg-aston-villa-source",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
+      "id": "c0fc361653853c",
+      "title": "Newcastle shamed by ranking of world’s most attractive clubs to prospective new signings",
+      "summary": "Eight Premier League clubs rank in the top 20 for attractiveness to transfer targets, but there is no room anywhere for Newcastle.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-worlds-most-attractive-clubs-to-new-signings-newcastle",
+      "publishedAt": "2026-07-14T13:11:06.000Z",
       "category": "transfer",
-      "region": "france",
+      "region": "england",
       "tags": [
-        "Psg"
+        "Premier League",
+        "Transfer"
       ]
     },
     {
-      "id": "049ff3b0adc8d3",
-      "title": "💦 Why hydration breaks could be here to stay",
-      "summary": "FIFA's mandated three-minute breaks have been a talking point throughout the 2026 World Cup.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49326566/hydration-breaks-world-cup-soccer-broadcast-rights",
-      "publishedAt": "2026-07-14T07:51:33.000Z",
+      "id": "ce20bd75e34e9b",
+      "title": "Man Utd mentioned in report about Arsenal willing to sell Brazilian star for €50m",
+      "summary": "Manchester United have been linked with an Arsenal star who is available for a move in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-arsenal-gabriel-martinelli",
+      "publishedAt": "2026-07-14T13:04:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "df58006bfb3fce",
+      "title": "The 20 best footballers out of contract and available for free NOW",
+      "summary": "Ibrahima Konate and Marcos Senesi got their clubs, so who is left on the unwanted, free agent pile now it is July?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-footballers-available-free-transfers-contract-summer-2026",
+      "publishedAt": "2026-07-14T12:55:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "307389793e3bb9",
+      "title": "American Elfath to referee England v Argentina",
+      "summary": "Fifa announce American referee Ismail Elfath will take charge of England's World Cup semi-final against Argentina.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lylenekjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T12:42:41.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "World Cup",
         "Fifa"
       ]
     },
     {
-      "id": "7a05d5e48f89dc",
-      "title": "Nicky Butt claims Man Utd star could cost England in World Cup semi-final – ‘only thing he can do is bad’",
-      "summary": "Nicky Butt has warned Thomas Tuchel that Kobbie Mainoo could cost England in the World Cup semi-finals against Argentina.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/nicky-butt-claims-man-utd-star-cost-england-world-cup-semi-final",
-      "publishedAt": "2026-07-14T07:26:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2ee6f2c97431de",
-      "title": "Increased security for England and Argentina tie",
-      "summary": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta.",
+      "id": "6f89d885533bc0",
+      "title": "Huge haul of fake Scotland and England football strips seized in raid",
+      "summary": "The trading standards seizure in Edinburgh found about 58,000 strips and is estimated to be one of the largest of its kind in the UK.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-14T07:14:16.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm2r2y5ymm6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T12:41:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Five-year net spend table now topped by Spurs after Tonali transfer",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have just jumped over Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-07-14T12:20:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "76dfc138cac603",
+      "title": "Paul Scholes, John Terry make bold England vs Argentina predictions – ‘it will be chaos’",
+      "summary": "Paul Scholes and John Terry have predicted England’s fate at this summer’s World Cup ahead of Wednesday’s semi-final against Argentina.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/paul-scholes-john-terry-bold-england-argentina-predictions",
+      "publishedAt": "2026-07-14T12:01:55.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -542,46 +423,167 @@
       ]
     },
     {
-      "id": "93eaae6c6a12ea",
-      "title": "Man Utd reporter suggests next INEOS signing could be Real Madrid superstar",
-      "summary": "Manchester United could be able to sign a Real Madrid star even though he has agreed to sign a new deal, according to a reporter.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-real-madrid-aurelien-tchouameni-u-turn",
-      "publishedAt": "2026-07-14T07:06:48.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "id": "8c577a95fb3c4d",
+      "title": "The agony and ecstasy of World Cup penalty shootouts – in pictures",
+      "summary": "Ever since France midfielder Alain Giresse struck the World Cup’s first shootout penalty in 1982, a total of 342 players have stepped up to face the goalkeeper for the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/14/the-agony-and-ecstasy-of-world-cup-penalty-shootouts-in-pictures",
+      "publishedAt": "2026-07-14T12:00:25.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Manchester",
-        "Real Madrid"
+        "Football",
+        "World Cup"
       ]
     },
     {
-      "id": "92397954f1e39f",
-      "title": "Man Utd copying Liverpool with midfield rebuild – but Red Devils need more",
-      "summary": "Manchester United are following Liverpool’s lead while remodelling their midfield, but the Red Devils still need one final piece of the jigsaw.",
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-midfield-transfers-santos-tielemans-kone-liverpool",
-      "publishedAt": "2026-07-14T07:06:08.000Z",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-07-14T12:00:02.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "339e12600b58a2",
+      "title": "Darlow joins Man Utd after Leeds exit",
+      "summary": "Manchester United sign veteran goalkeeper Karl Darlow after his contract expires at Leeds.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T11:52:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "8f42a7a656c232",
-      "title": "The other Lionel: how Scaloni went from accidental manager to World Cup hero",
-      "summary": "After forming an almost paternal relationship with Lionel Messi and providing a rare sense of stability, Argentina’s unheralded saviour is on the verge of World Cup his...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero",
-      "publishedAt": "2026-07-14T07:00:23.000Z",
+      "id": "7ffaff9f316483",
+      "title": "What's next at Liverpool for Argentina's proven winner Mac Allister?",
+      "summary": "After a poor season at Liverpool, Alexis Mac Allister is back thriving for Argentina - so what does his future look like at Anfield?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd0m02yl03zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T11:38:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "38782108fa2c00",
+      "title": "Barry's journey from Accrington Stanley to World Cup semi-final",
+      "summary": "His playing career peaked at Accrington Stanley - now Anthony Barry is Thomas Tuchel's right-hand man in England's bid for World Cup glory.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T11:35:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6ecebde29b84f4",
+      "title": "Man Utd complete second summer signing as Romano reveals Ederson ‘new proposal’ after collapse",
+      "summary": "According to reports, Manchester United have made a firm decision on whether to return for Ederson Silva, while they have sealed their second summer signing.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-complete-second-summer-signing-romano-reveals-ederson-new-proposal",
+      "publishedAt": "2026-07-14T11:29:11.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "621a07f8fca812",
+      "title": "Football Daily",
+      "summary": "England Harry Kane speaks ahead of England's World Cup semi-final against Argentina.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nyp4sd?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T11:18:00.000Z",
       "category": "worldcup",
-      "region": "italy",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "704c00ce1f322a",
+      "title": "Andoni Iraola to save forgotten Liverpool star alongside Harvey Elliott",
+      "summary": "Harvey Elliott is not the only player who could return to the fold under Andoni Iraola and bolster Liverpool’s options",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-andoni-iraola-harvey-elliott-stefan-bajcetic",
+      "publishedAt": "2026-07-14T11:10:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "41c97576c4c90e",
+      "title": "Manchester City set sights on signing Morocco’s Ayyoub Bouaddi for £85m",
+      "summary": "Lille teenager impressed during the World Cup Signing would make it £200m on two midfielders Manchester City are intent on signing Lille’s 18-year-old midfielder Ayyoub...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/14/manchester-city-set-sights-on-signing-morocco-ayyoub-bouaddi-85m-transfer-window",
+      "publishedAt": "2026-07-14T11:08:17.000Z",
+      "category": "transfer",
+      "region": "england france",
       "tags": [
         "Football",
         "World Cup",
-        "Inter"
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e65ce5779f2643",
+      "title": "Walked for 47% of the World Cup - the evolution of Messi",
+      "summary": "Lionel Messi is looking to beat England and reach a third World Cup final with Argentina. Guillem Balague looks at the evolution of one of the game's all-time greats.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T11:00:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fb531b49b75e32",
+      "title": "Arsenal sign Germany forward Baum from RB Leipzig",
+      "summary": "Arsenal have signed Germany forward Lisa Baum on a permanent deal from RB Leipzig.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzymzln5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T11:00:09.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "422fd15f8cacf1",
+      "title": "World Cup and Ballon d’Or in reach as Harry Kane enters defining week of his career",
+      "summary": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performances Five days to win the Ballon d’Or. T...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/14/world-cup-and-ballon-dor-england-harry-kane",
+      "publishedAt": "2026-07-14T10:45:00.000Z",
+      "category": "worldcup",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Bayern"
       ]
     }
   ],
