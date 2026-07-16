@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T19:18:02.606Z",
+  "generatedAt": "2026-07-16T02:55:05.825Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,134 +99,12 @@
       "pinned": true
     },
     {
-      "id": "a849d317c1b793",
-      "title": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
-      "summary": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "68a4a6cb5dbd4c",
-      "title": "Post Malone headlines WCup closing ceremony",
-      "summary": "A wide array of performers, from Post Malone to Tom Cruise to streamer IShowSpeed, will help close out the World Cup, FIFA said Tuesday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "104dd7faa9061f",
-      "title": "Man United's Ugarte undergoes knee surgery",
-      "summary": "Manuel Ugarte has undergone surgery after suffering a knee injury at the World Cup, Manchester United have confirmed.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e8570a2cdbbf12",
-      "title": "Spain's Yamal: 'New York, we're coming for you'",
-      "summary": "Lamine Yamal is looking forward to take New York by storm after helping Spain reach the World Cup final with a 2-0 win against France.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49365585/lamine-yamal-sends-world-cup-final-warning-new-york-coming-you",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "981d60e35a0e7e",
-      "title": "Greenwood signs with Fenerbahçe from Marseille",
-      "summary": "Former Manchester United forward Mason Greenwood on Wednesday signed for Fenerbahçe to join his third club in three years.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49367104/mason-greenwood-signs-fenerbahce-marseille",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8c4e616d6ecdac",
-      "title": "Fraud case against ex-Serie A ref chief dropped",
-      "summary": "Milan's public prosecutor has dismissed the case against former Italian referee designator Gianluca Rocchi and his deputy Andrea Gervasoni for alleged sports fraud.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49367237/fraud-case-former-serie-referee-chief-dropped",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A",
-        "Milan"
-      ]
-    },
-    {
-      "id": "1d9854ec60265c",
-      "title": "Lewa on Fire: No Euro club would do after Barça",
-      "summary": "New Chicago Fire signing Robert Lewandowski said he couldn't imagine playing for another European club after his four-season stint with Barcelona, and that explains in...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "8d4e5e231db0bc",
-      "title": "Man United sign Villa's Tielemans in $47M deal",
-      "summary": "Manchester United have announced the signing of midfielder Youri Tielemans from Aston Villa.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e95c0ea36ba820",
-      "title": "📈 World Cup stock watch: Who has impressed?",
-      "summary": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled",
-      "publishedAt": "2026-07-15T20:12:10.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "84fdd16a85d93a",
       "title": "Arsenal still interested in Alvarez as Tzolis move explored",
       "summary": "Arsenal are still interested in Atletico Madrid striker Julian Alvarez.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13563616/julian-alvarez-arsenal-still-interested-in-atletico-madrid-forward-despite-players-preference-to-join-barcelona",
-      "publishedAt": "2026-07-15T19:18:02.357Z",
+      "publishedAt": "2026-07-16T02:55:05.404Z",
       "category": "transfer",
       "region": "england spain italy",
       "tags": [
@@ -240,7 +118,7 @@
       "summary": "The French media delivered a frank assessment of the national team on Wednesday morning after their World Cup semi-final exit to Spain.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13563586/france-0-2-spain-french-media-reacts-to-disappointing-world-cup-semi-final-loss-including-scathing-lequipe-player-ratings",
-      "publishedAt": "2026-07-15T19:18:02.357Z",
+      "publishedAt": "2026-07-16T02:55:05.404Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -248,26 +126,64 @@
       ]
     },
     {
-      "id": "d4a420b02d0a9a",
-      "title": "Will The Open tee times change if England reach the World Cup final?",
-      "summary": "R&A chief executive Mark Darbon has confirmed that plans are \"under review\" on whether to change Sunday's final-round tee times at The Open, should England reach the FI...",
+      "id": "729f9eebf43016",
+      "title": "World Cup format changes revealed by ICC",
+      "summary": "The ICC has announced revamped structures for its two men's World Cup tournaments, including the creation of new 'Super Series' and 'Super 7' rounds at next year's 50-o...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/news/12040/13563600/the-open-will-tee-times-change-for-sundays-final-round-at-royal-birkdale-if-england-reach-the-world-cup-final",
-      "publishedAt": "2026-07-15T19:18:02.357Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13563666/world-cup-odi-and-t20-cricket-format-changes-revealed-by-icc-including-12-team-main-group-for-2027",
+      "publishedAt": "2026-07-16T02:55:05.403Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Fifa"
+        "World Cup"
       ]
     },
     {
-      "id": "544bfcf193be72",
-      "title": "Spain show teamwork may win out in 'World Cup of superstars'",
-      "summary": "France's attacking firepower was the focus of the build-up to their World Cup semi-final against Spain. If it wasn't Kylian Mbappe who did the damage, it would surely b...",
+      "id": "caa488657b3445",
+      "title": "Tuchel vows to remain as England head coach after Argentina defeat",
+      "summary": "Thomas Tuchel says he will stay on to lead England into Euro 2028 despite their World Cup semi-final defeat to Argentina.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated",
-      "publishedAt": "2026-07-15T19:18:02.357Z",
+      "url": "https://www.skysports.com/football/news/12040/13563857/thomas-tuchel-england-head-coach-vows-to-remain-until-euro-2028-despite-world-cup-semi-final-loss-to-argentina",
+      "publishedAt": "2026-07-16T02:55:05.403Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "39dbc1e306997c",
+      "title": "Kane: Holding on was not enough against Argentina",
+      "summary": "England captain Harry Kane admitted trying to hold on to a 1-0 lead backfired as their World Cup hopes were ended by Argentina's late show in a 2-1 semi-final defeat.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13563844/england-out-of-world-cup-harry-kane-says-holding-on-was-not-enough-against-argentina",
+      "publishedAt": "2026-07-16T02:55:05.402Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "eb106446c1435c",
+      "title": "85, 90+2! Argentina's late show breaks England hearts to end World Cup dream",
+      "summary": "England missed out on their first World Cup final since 1966 after a stunning late turnaround from rivals Argentina saw the holders earn a 2-1 victory thanks to Lautaro...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/england-vs-argentina/report/549867",
+      "publishedAt": "2026-07-16T02:55:05.402Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0d2617ba52c91b",
+      "title": "England player ratings: Spence shines but Bellingham, Rice and Kane fail to deliver",
+      "summary": "England are out of the World Cup after losing their semi-final 2-1 to Argentina in Atlanta. Here are the England player ratings on a disappointing night for the Three L...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13562938/england-vs-argentina-player-ratings-djed-spence-shines-for-three-lions-but-jude-bellingham-declan-rice-and-harry-kane-fail-to-deliver",
+      "publishedAt": "2026-07-16T02:55:05.402Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -280,7 +196,7 @@
       "summary": "England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner has ruled.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13563741/nobby-stiles-former-man-utd-midfielder-and-england-world-cup-winners-death-linked-to-heading-footballs-coroner-rules",
-      "publishedAt": "2026-07-15T19:18:02.356Z",
+      "publishedAt": "2026-07-16T02:55:05.402Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -289,312 +205,377 @@
       ]
     },
     {
-      "id": "729f9eebf43016",
-      "title": "World Cup format changes revealed by ICC",
-      "summary": "The ICC has announced revamped structures for its two men's World Cup tournaments, including the creation of new 'Super Series' and 'Super 7' rounds at next year's 50-o...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13563666/world-cup-odi-and-t20-cricket-format-changes-revealed-by-icc-including-12-team-main-group-for-2027",
-      "publishedAt": "2026-07-15T19:18:02.356Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f1a3e1b01ec6b6",
-      "title": "England v Argentina: World Cup 2026 semi-final – live",
-      "summary": "⚽ Kick-off in Atlanta is 3pm EST/8pm BST/5am AEST ⚽ Golden Boot | Player guide | And get Football Daily England’s defenders will face an extreme challenge when they com...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live",
-      "publishedAt": "2026-07-15T19:09:16.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "540d049d5debfd",
-      "title": "Man Utd target Summerville - Thursday's gossip",
-      "summary": "West Ham winger Crysencio Summerville is a target for Manchester United, Arsenal are preparing an offer for Norway winger Antonio Nusa, Everton consider moving for Manc...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1mymdm2rp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T18:53:17.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "74d588804d6e36",
-      "title": "Spain players’ ‘clear’ preference for World Cup final opponent revealed ahead of England vs Argentina",
-      "summary": "According to reports, Spain’s squad have a ‘clear’ preference between England and Argentina for their World Cup final opponent.",
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem and up to third",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are have fallen to third and are holding off Crystal Palace and Sunderland.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/spain-players-clear-preference-world-cup-final-opponent-england-argentina",
-      "publishedAt": "2026-07-15T18:40:35.000Z",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-16T01:46:06.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8c5cf6cb55d6bd",
-      "title": "ITV and BBC to screen full World Cup final half-time show despite time concerns",
-      "summary": "Broadcasters expect to have time to analyse the game Channels planning for break to last 25 to 30 minutes ITV and BBC are planning to screen Fifa’s controversial half-t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/15/itv-bbc-world-cup-final-half-time-show",
-      "publishedAt": "2026-07-15T18:22:54.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
         "World Cup",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T18:06:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "64fa0aa8f2af09",
-      "title": "Headers caused Stiles' brain disease, coroner finds",
-      "summary": "England 1966 World Cup winner Nobby Stiles died with a condition caused by heading footballs, his inquest concludes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzyygmxvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T18:05:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bfe5efa36862bb",
-      "title": "Marcus Rashford gets new Man Utd escape route as officials fly in to negotiate deal",
-      "summary": "Marcus Rashford could be reunited with a former Manchester United teammate, according to a new report about the future of the winger.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-marcus-rashford-fenerbahce",
-      "publishedAt": "2026-07-15T18:04:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c95d666c212ba6",
-      "title": "In this star-powered World Cup, Spain show value of collective and control | Sid Lowe",
-      "summary": "Luis de la Fuente’s final-bound team have been fuelled by togetherness and a commitment to each other that goes back a long way On the way out of the dressing room in A...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control",
-      "publishedAt": "2026-07-15T18:03:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e515b72b4f45f5",
-      "title": "USMNT's World Cup over, Pochettino's contract done...",
-      "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
-      "publishedAt": "2026-07-15T17:59:49.000Z",
-      "category": "worldcup",
-      "region": "global",
-      "tags": [
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "91ee834e471baf",
-      "title": "Gutting youth soccer in America is not enough to m...",
-      "summary": "Everyone thinks they can fix the USMNT, but maybe it is making progress and luck just hasn't been on its side.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
-      "publishedAt": "2026-07-15T17:59:49.000Z",
-      "category": "league",
-      "region": "global",
-      "tags": [
-        "Soccer"
-      ]
-    },
-    {
-      "id": "8e1cc2dd3b613c",
-      "title": "Arsenal forward Trossard joins Besiktas for £15.3m",
-      "summary": "Arsenal forward Leandro Trossard joins Besiktas on a three-year deal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T17:50:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Arsenal"
       ]
     },
     {
-      "id": "60f27f6e76fc47",
-      "title": "Waddle tells Arsenal to scrap move for £100m Newcastle star for three reasons – ‘I’m surprised’",
-      "summary": "Arsenal have been encouraged to scrap their move for Newcastle United star Bruno Guimaraes for three reasons.",
+      "id": "8ebfb8f14d15d5",
+      "title": "16 Conclusions on England 1-2 Argentina: Tuchel sack, ‘no regrets’ and a Southgate World Cup semi exit",
+      "summary": "If Thomas Tuchel is to be given one more tournament with this England squad, he must win it or leave. That was a cowardly surrender against Argentina.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/waddle-tells-arsenal-scrap-move-100m-newcastle-star-three-reasons",
-      "publishedAt": "2026-07-15T17:48:51.000Z",
-      "category": "transfer",
+      "url": "https://www.football365.com/news/16-conclusions-england-argentina-world-cup-semi-final-tuchel-sack",
+      "publishedAt": "2026-07-16T01:41:57.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "World Cup"
       ]
     },
     {
-      "id": "b5f5fc07c333d8",
-      "title": "Arsenal to ‘finalise’ third summer signing in five days after winger tells Gunners ‘he wants to join’",
-      "summary": "Arsenal plan to get a deal done for the international winger inside the next five days, according to a reliable source.",
+      "id": "cac325a0060f4b",
+      "title": "Why England's loss to Argentina felt like most painful in 60 years of hurt",
+      "summary": "England's years of hurt will now stretch beyond 60, but the late collapse to a World Cup semi-final defeat by Argentina may be the most painful wound of all.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj365n05mgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T01:35:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "94a8fba8ec8ce6",
+      "title": "Defeat will haunt England for a long time, says Burn",
+      "summary": "England defender Dan Burn says the World Cup semi-final defeat by Argentina will haunt him.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1k13mvgyljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T00:43:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a1b9709fa87745",
+      "title": "'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit – video",
+      "summary": "“I think there's not much to say. For now, everyone has to process what's just happened,” Harry Kane said after the defending champions, Argentina, rallied to beat Engl...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/jul/16/gutted-harry-kane-on-messi-argentina-and-devastation-of-world-cup-semi-final-exit-video",
+      "publishedAt": "2026-07-16T00:35:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fc2f3f7dadc6bf",
+      "title": "Tuchel retains FA backing despite England defeat",
+      "summary": "Thomas Tuchel retains the backing of the Football Association despite England failing to reach the World Cup final.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly5ljl414xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T00:33:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0d713b7781a666",
+      "title": "Football Daily",
+      "summary": "Did defensive tactics cost England a place in the World Cup final?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nz1dsp?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a92a9e5127006c",
+      "title": "'That's why he's the king' - Messi sets up third World Cup final",
+      "summary": "BBC Sport looks at Lionel Messi's masterclass on the right wing to knock England out of the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jnl9zdzn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T23:42:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "695b99ff15473b",
+      "title": "'He was my biggest fan' - BBC pundit Richards' father dies",
+      "summary": "Micah Richards pays tribute to his father Lincoln, who died shortly before the BBC pundit went on air for England's World Cup semi-final defeat by Argentina.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yv3e5y0w4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T23:41:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2b9c9ff5ca351b",
+      "title": "Jude Bellingham slaps Argentina star after England loss in World Cup semi-final",
+      "summary": "England star Jude Bellingham has been caught giving Argentina player Valentin Barco a slap after his side’s World Cup semi-final loss.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-christos-tzolis-club-brugge-transfer-imminent",
-      "publishedAt": "2026-07-15T17:10:25.000Z",
+      "url": "https://www.football365.com/news/jude-bellingham-slaps-argentina-star-england-loss-world-cup-semi-final",
+      "publishedAt": "2026-07-15T23:26:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a7bb06a3980618",
+      "title": "Argentina risk FIFA punishment over Falklands banner after beating England in World Cup semi-final",
+      "summary": "Argentina risk being punished by FIFA after some players held up a Falklands banner after beating England in the World Cup semi-finals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/argentina-risk-fifa-punishment-falklands-banner-beating-england-world-cup-semi-final",
+      "publishedAt": "2026-07-15T23:00:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "5ab320c1a6cde8",
+      "title": "Argentina face disciplinary action over Falklands banner after semi-final",
+      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of thei...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T22:49:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "29896de635d8c4",
+      "title": "Fabrizio Romano reveals whether Marcus Rashford would leave Man Utd for Fenerbahce",
+      "summary": "Fabrizio Romano has reacted to rumours that Fenerbahce want to sign Marcus Rashford from Manchester United in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/marcus-rashford-man-utd-fenerbahce-fabrizio-romano-update",
+      "publishedAt": "2026-07-15T22:43:15.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c7ea6e4fecfd3e",
-      "title": "England starting XI vs Argentina revealed as Thomas Tuchel makes three changes",
-      "summary": "England’s starting XI for Wednesday’s World Cup semi-final against Argentina has been revealed, with Thomas Tuchel making three changes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-starting-xi-vs-argentina-revealed-one-change",
-      "publishedAt": "2026-07-15T16:57:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "32883d1256032e",
-      "title": "Nobby Stiles died with brain condition caused by repeatedly heading a football, coroner rules",
-      "summary": "England World Cup winner died in 2020 but his death was never reported by authorities to the coroner’s office The England footballer and World Cup winner Nobby Stiles d...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/15/nobby-stiles-died-with-brain-condition-caused-by-repeatedly-heading-a-football-coroner-rules",
-      "publishedAt": "2026-07-15T16:43:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
+        "Transfer",
         "Manchester"
       ]
     },
     {
-      "id": "a5a692160a0b34",
-      "title": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video",
-      "summary": "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is far more complex, says the Guardian’s Jonathan Liew. It began with...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/jul/15/war-culture-empire-and-football-england-and-argentinas-deep-romantic-rivalry-video",
-      "publishedAt": "2026-07-15T16:23:20.000Z",
+      "id": "24207a9e888150",
+      "title": "'No regrets' - Tuchel on England's defeat by Argentina",
+      "summary": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stad...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T22:40:05.000Z",
       "category": "worldcup",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Football",
         "World Cup"
       ]
     },
     {
-      "id": "040c2e03e367f1",
-      "title": "Leeds’ £21m transfer pursuit of Inter and Juventus target casts doubt on pair’s future",
-      "summary": "Leeds United are reportedly ready to duke it out with Serie A giants Juventus and Inter Milan for Udinese star Oumar Solet – which could precipitate the departure of tw...",
+      "id": "ba619dde0b9a33",
+      "title": "'Gutted' - Kane disappointed over World Cup exit",
+      "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T22:23:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4d9296795bef45",
+      "title": "England player ratings vs Argentina as Jude Bellingham, Declan Rice flop but Djed Spence sparkles",
+      "summary": "England are out of the World Cup as Jude Bellingham and Declan Rice disappointed against Argentina, but Djed Spence was brilliant again.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/leeds-21m-transfer-pursuit-inter-juventus-target-casts-doubt-pairs-future",
-      "publishedAt": "2026-07-15T16:07:31.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A",
-        "Transfer",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "a3712b2d3285b8",
-      "title": "France move from Deschamps to Zidane wondering wha...",
-      "summary": "France's Didier Deschamps era ended with a shock World Cup semifinal defeat to Spain. Is Zinedine Zidane better placed to get more out of this clearly talented group?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/49364445/france-move-deschamps-zidane-wondering-couldve-been",
-      "publishedAt": "2026-07-15T15:54:24.000Z",
+      "url": "https://www.football365.com/news/england-player-ratings-argentina-bellinghameclan-rice-flop-spence-sparkles",
+      "publishedAt": "2026-07-15T22:23:33.000Z",
       "category": "worldcup",
-      "region": "global",
+      "region": "england",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "d344790f152d2e",
-      "title": "Unlicensed casinos could face ban on sponsoring UK sports teams from 2027",
-      "summary": "Proposal to protect vulnerable and stop money laundering could affect Premier League clubs and Formula One UK politics live – latest updates Unlicensed casinos could be...",
+      "id": "4109225eb90fb9",
+      "title": "Tuchel says ‘no regrets’ after England catastrophe and names who’s responsible for Argentina defeat",
+      "summary": "England manager Thomas Tuchel has given his take on the Three Lions’ defeat to Argentina in the semi-finals of the 2026 World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thomas-tuchel-england-argentina-world-cup-defeat-reaction",
+      "publishedAt": "2026-07-15T22:19:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "32e3f9739a93eb",
+      "title": "Argentina shatter England's World Cup dreams in semi-final",
+      "summary": "Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock out Thomas Tuchel's side, in a dramatic semi-final in Atlanta.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T22:05:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "dc489d4e2fd5af",
+      "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+      "summary": "Banner refers to Falkland Islands conflict in 1982 Players celebrate on the pitch with the message The Argentina players celebrated their World Cup win over England wit...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/society/2026/jul/15/unlicensed-casinos-uk-sports-team-sponsorship-ban",
-      "publishedAt": "2026-07-15T15:47:11.000Z",
-      "category": "issue",
+      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+      "publishedAt": "2026-07-15T22:03:19.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T21:57:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Premier League"
       ]
     },
     {
-      "id": "6c0980de9530dd",
-      "title": "Manchester United to target £30m Crysencio Summerville should Marcus Rashford leave",
-      "summary": "West Ham winger available for right price after relegation Rashford has two years remaining on United contract Manchester United will turn their attention towards Cryse...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/15/manchester-united-crysencio-summerville-marcus-rashford",
-      "publishedAt": "2026-07-15T15:38:05.000Z",
+      "id": "6d9970df04e854",
+      "title": "Argentina celebrate progressing to World Cup final",
+      "summary": "Defending champions Argentina celebrate at full time, after beating England 2-1 to make it through to their second successive World Cup final.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w0jlx451go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T21:53:27.000Z",
       "category": "worldcup",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Football",
-        "World Cup",
-        "Manchester",
-        "Inter"
+        "World Cup"
       ]
     },
     {
-      "id": "c0b12dc0f83a25",
-      "title": "Barcelona midfielder stance on joining Man Utd revealed amid internal discussion",
-      "summary": "A Barcelona star has decided whether or not he will join Manchester United in the summer transfer window, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-barcelona-marc-casado",
-      "publishedAt": "2026-07-15T15:35:02.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
+      "id": "9b2b5fe22e3214",
+      "title": "England 1-2 Argentina: World Cup semi-final player ratings",
+      "summary": "Lionel Messi was at his effervescent best while Harry Kane struggled to make an impact Jordan Pickford Had little chance with either goal. Pulled off a sensational save...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-player-ratings",
+      "publishedAt": "2026-07-15T21:44:17.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Transfer",
-        "Manchester",
-        "Barcelona",
-        "Inter"
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fbe7df1be18000",
+      "title": "Who will win the 2026 World Cup Golden Ball? Messi odds-on after win v England",
+      "summary": "Lionel Messi will clearly win this award if he drags Argentina to another unlikely triumph.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-world-cup-2026-golden-ball",
+      "publishedAt": "2026-07-15T21:24:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "35201a5cd3c527",
+      "title": "Fernandez fires in equaliser for Argentina",
+      "summary": "Enzo Fernandez equalises for Argentina against England in the 2026 World Cup semi final at the Atlanta Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj4kx9n4pv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T21:20:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a6afa5386f87c3",
+      "title": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final",
+      "summary": "England hearts broken after turnaround in Atlanta In pictures: our pick of the best big-match images England’s destiny is tournament heartbreak. The only question conce...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report",
+      "publishedAt": "2026-07-15T21:19:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "23463743e78917",
+      "title": "Late Martinez header sends Argentina to World Cup final",
+      "summary": "Substitute Lautaro Martinez is in the right place at the right time to head home Lionel Messi's 92nd-minute cross to send Argentina to the World Cup final at the expens...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckg3184ymemo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T21:18:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "71531b94435d7b",
+      "title": "Thomas Tuchel f***s it as Argentina smash England’s bus to end World Cup dream",
+      "summary": "England are out of the 2026 World Cup after Thomas Tuchel went too far, too early with the defensive gameplan that had served him so well.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-thomas-tuchel-wrong-argentina-england-world-cup-semi-final",
+      "publishedAt": "2026-07-15T21:18:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3bfec07593fcd9",
+      "title": "Final two World Cup matches to be shown live on BBC",
+      "summary": "Saturday's World Cup third-place play-off between England and France and Sunday's World Cup final will both be live on BBC TV.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8xn7178x1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T21:16:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     }
   ],
