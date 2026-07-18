@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-17T19:16:44.415Z",
+  "generatedAt": "2026-07-18T02:49:52.916Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Dominik Szoboszlai has signed a new long-term deal at Liverpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
-      "publishedAt": "2026-07-17T19:16:44.173Z",
+      "publishedAt": "2026-07-18T02:49:52.579Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Gary Neville has hit back at Thomas Tuchel's suggestions that English football's 'DNA' was to blame for their World Cup semi-final defeat to Argentina.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination",
-      "publishedAt": "2026-07-17T19:16:44.173Z",
+      "publishedAt": "2026-07-18T02:49:52.579Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -126,12 +126,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "99fb9f24a4ec72",
-      "title": "Some England players bemused by Tuchel subs in Argentina defeat",
-      "summary": "A number of England players - including more than one senior player - were bemused by Thomas Tuchel's defensive substitutions in the World Cup semi-final against Argent...",
+      "id": "84d32bcbcec263",
+      "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564497/some-england-players-bemused-by-thomas-tuchel-subs-in-argentina-world-cup-semi-final-defeat",
-      "publishedAt": "2026-07-17T19:16:44.173Z",
+      "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
+      "publishedAt": "2026-07-18T02:49:52.578Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c86e442841d7b6",
+      "title": "'They made him a defensive player' - Trump questions Kane role in loss",
+      "summary": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T02:12:52.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -139,12 +153,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "553878d27cfa03",
-      "title": "Why Manzambi could be a revelation at Aston Villa",
-      "summary": "In a World Cup dominated by the biggest names, Johan Manzambi has been the exception to the rule. With more goals than starts for Switzerland, he has been a breakout st...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13563365/johan-manzambi-to-aston-villa-switzerlands-world-cup-star-from-freiburg-can-be-unai-emerys-diamond",
-      "publishedAt": "2026-07-17T19:16:44.173Z",
+      "id": "5b683707b76653",
+      "title": "Argentina like to leave mark on opponents - Laporte",
+      "summary": "Spain defender Aymeric Laporte claims World Cup final opponents Argentina are a team that \"likes to leave a mark on their opponents\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj63e8l0kjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T00:38:05.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -152,12 +166,107 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "95f6ed52160331",
-      "title": "The remarkable Messi and Lamine Yamal photos showing 'the beginning of two legends'",
-      "summary": "Lionel Messi and Lamine Yamal will play against each other for the first time when Argentina face Spain in Sunday's World Cup final.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564364/world-cup-final-2026-the-remarkable-photos-of-lionel-messi-and-lamine-yamals-first-meeting-as-they-prepare-to-face-off",
-      "publishedAt": "2026-07-17T19:16:44.173Z",
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T23:48:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "07e55aedd5a671",
+      "title": "White House defends Argentina team over Falklands banner",
+      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T22:12:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8aacc11e02f205",
+      "title": "Arsenal want Villa's Rogers - Saturday's gossip",
+      "summary": "Arsenal want Morgan Rogers, Mohamed Salah is set to join Besiktas, Manchester United are interested in Neco Williams, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd69qv6536zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T21:42:18.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c9b096869225cf",
+      "title": "Tuchel urges England to finish strongly in emotional address",
+      "summary": "England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T20:39:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3fa183716eb51c",
+      "title": "‘Leo has surpassed Diego’: after two decades Argentina embraces Messi",
+      "summary": "The little maestro has hitherto lived in the shadow of Maradona who has for so long coloured the soul and defined the passion of football in Argentina It is time to con...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/17/leo-has-surpassed-diego-after-two-decades-argentina-embraces-messi",
+      "publishedAt": "2026-07-17T20:31:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "9583b8d09566ce",
+      "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
+      "summary": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament The thick smoke that has engulfed...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
+      "publishedAt": "2026-07-17T20:21:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "ae2462eaa22b67",
+      "title": "Stick with Tuchel unless Guardiola is available - Rooney",
+      "summary": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T20:16:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "0bdf397658a6f5",
+      "title": "Spain v Argentina: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the World Cup final between Spain and Argentina.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/spain-v-argentina-prediction-preview",
+      "publishedAt": "2026-07-17T20:11:55.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -175,6 +284,21 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "7518196f1b7c8f",
+      "title": "God’s will? Destiny? Lionel Messi, Lamine Yamal, that photo and the World Cup final",
+      "summary": "The boy in the baby bath has unbelievably become the successor to Messi at Barcelona and now, maybe, on the world stage too “Maybe Lionel Messi has picked up lots of ba...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
+      "publishedAt": "2026-07-17T19:00:36.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona"
       ]
     },
     {
@@ -202,19 +326,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T17:03:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     },
     {
@@ -475,113 +586,6 @@ window.FOOTBALLDAY_DATA = {
         "Soccer",
         "World Cup",
         "Fifa"
-      ]
-    },
-    {
-      "id": "d06f501c1bb00d",
-      "title": "The big World Cup final quiz",
-      "summary": "Argentina and Spain will contest the 23rd World Cup final on Sunday. How much do you know about the previous 22? This is a quiz by Richard Foster, who presents the It S...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-final-quiz-argentina-spain",
-      "publishedAt": "2026-07-17T13:04:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b16dc613a02904",
-      "title": "Sean Dyche tells Thomas Tuchel he’s ‘clutching’ with England excuses after World Cup exit",
-      "summary": "Sean Dyche has disagreed with some comments from Thomas Tuchel, feeling he’s “clutching” following England’s World Cup exit at the hands of Argentina.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/dyche-tuchel-clutching-excuses-england-world-cup",
-      "publishedAt": "2026-07-17T13:01:29.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bda2ddce1fce8e",
-      "title": "How World Cup final could be pivotal in Ballon d'Or race",
-      "summary": "With the Ballon d'Or race tighter than ever before, BBC Sport looks at how the World Cup final could determine the 2026 winner.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87ngl370p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T12:56:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d186c99e399853",
-      "title": "France v England: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup third-place play-off between France and England.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/france-v-england-prediction-preview",
-      "publishedAt": "2026-07-17T12:55:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cad3c521b04e0f",
-      "title": "Arsenal prepare bid for second Aston Villa star to replace Saliba after Berta rethink",
-      "summary": "According to reports, Arsenal are now stepping up their interest in signing Morgan Rogers and Ezri Konsa from Aston Villa.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-prepare-bid-second-aston-villa-star-replace-saliba-berta-rethink",
-      "publishedAt": "2026-07-17T12:51:17.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "a8fdc816931f19",
-      "title": "Unbeatables v untouchables? Spain’s run faces ultimate test in World Cup final",
-      "summary": "Spain’s streak started after a defeat in 2024 but Argentina are no slouches – they are on an unbeaten run of 14 matches Spain look unstoppable. Their 2-0 victory agains...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/17/unbeatables-v-untouchables-spains-run-faces-ultimate-test-in-world-cup-final",
-      "publishedAt": "2026-07-17T12:46:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bfae86801924e6",
-      "title": "Enzo Fernandez deletes Wonderwall social media taunt as Argentina backed to lose v Spain",
-      "summary": "Enzo Fernandez has deleted a social media post taunting England with Wonderwall, as Argentina have been backed to lose the World Cup final against Spain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/enzo-fernandez-deletes-wonderwall-taunt-argentina-backed-lose-spain",
-      "publishedAt": "2026-07-17T12:36:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bb468ddbd48ab2",
-      "title": "Neville names three England stars who have ‘probably’ played at final World Cup – ‘that was your last’",
-      "summary": "Gary Neville has picked out three England players who have “probably” featured at their last World Cup this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/neville-names-three-england-stars-played-final-world-cup",
-      "publishedAt": "2026-07-17T12:19:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
