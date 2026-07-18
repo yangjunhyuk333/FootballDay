@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:59:14.877Z",
+  "generatedAt": "2026-07-18T13:25:04.730Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Dominik Szoboszlai has signed a new long-term deal at Liverpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
-      "publishedAt": "2026-07-18T07:59:14.502Z",
+      "publishedAt": "2026-07-18T13:25:04.461Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,38 +117,11 @@
       "summary": "England are in the midst of a run of three matches against the top three sides in world football. That is unprecedented.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564512/france-vs-england-why-world-cup-third-place-play-off-is-huge-for-three-lions-boss-thomas-tuchel",
-      "publishedAt": "2026-07-18T07:59:14.502Z",
+      "publishedAt": "2026-07-18T13:25:04.461Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "1a9f2fbc20e759",
-      "title": "Neville: I have a big problem with Tuchel's DNA comments",
-      "summary": "Gary Neville has hit back at Thomas Tuchel's suggestions that English football's 'DNA' was to blame for their World Cup semi-final defeat to Argentina.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination",
-      "publishedAt": "2026-07-18T07:59:14.502Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "dcff486dceb470",
-      "title": "Joshua vs Itauma is 'perfect story' for Nigeria fight, says promoter",
-      "summary": "A \"blockbuster fight\" between Anthony Joshua and Moses Itauma in Nigeria would create more global interest than Muhammad Ali’s 'Rumble in the Jungle', says promoter Dr...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13563737/anthony-joshua-vs-moses-itauma-bigger-than-rumble-in-the-jungle-if-staged-in-nigeria-says-promoter-dr-ezekiel-adamu",
-      "publishedAt": "2026-07-18T07:59:14.501Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     },
     {
@@ -157,7 +130,7 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
-      "publishedAt": "2026-07-18T07:59:14.501Z",
+      "publishedAt": "2026-07-18T13:25:04.460Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -166,17 +139,352 @@
       ]
     },
     {
+      "id": "dcff486dceb470",
+      "title": "Joshua vs Itauma is 'perfect story' for Nigeria fight, says promoter",
+      "summary": "A \"blockbuster fight\" between Anthony Joshua and Moses Itauma in Nigeria would create more global interest than Muhammad Ali’s 'Rumble in the Jungle', says promoter Dr...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13563737/anthony-joshua-vs-moses-itauma-bigger-than-rumble-in-the-jungle-if-staged-in-nigeria-says-promoter-dr-ezekiel-adamu",
+      "publishedAt": "2026-07-18T13:25:04.459Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
       "id": "0c181a11633c2f",
-      "title": "World Cup 2026 latest: buildup to France v England third-place playoff and Spain v Argentina final",
-      "summary": "⚽ World Cup latest on final weekend of tournament ⚽ England’s exit was not just about Tuchel ⚽ Email us | Archive: Argentina v Spain in 1966 In other through-the-lookin...",
+      "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final",
+      "summary": "⚽ World Cup latest on final weekend of tournament ⚽ England’s exit was not just about Tuchel ⚽ Email us | Archive: Argentina v Spain in 1966 I’m still getting my head a...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/18/world-cup-latest-buildup-france-england-third-place-spain-argentina",
-      "publishedAt": "2026-07-18T07:43:28.000Z",
+      "publishedAt": "2026-07-18T13:08:45.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "92d95f4000661a",
+      "title": "Huge rise in harmful social media posts this World Cup",
+      "summary": "There have been 14 times more harmful social media posts and comments during this World Cup than in 2022, Fifa finds.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vg6q24e18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T13:07:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "715c33a4effdc6",
+      "title": "The classroom moment that bonds finalists De la Fuente & Scaloni forever",
+      "summary": "Spain manager Luis de la Fuente and Argentina boss Lionel Scaloni will go head-to-head in the World Cup final on Sunday - and the two men know each other well.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98v13rgyrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T13:00:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b8b149065ba1d2",
+      "title": "Quiz: Name every men's World Cup final host city",
+      "summary": "The World Cup final is where heroes are made and dreams come true for players and fans alike. Can you name every city that has ever hosted the showpiece?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgzp820y9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T12:55:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "0f530c56d3dccf",
+      "title": "Arsenal make ‘mega bid’ for Premier League star with Rice ‘pulling the strings’",
+      "summary": "Arsenal have made a ‘mega bid’ to sign Aston Villa attacker Morgan Rogers with Declan Rice having an influence, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-mega-bid-rogers-aston-villa-rice-pull-strings",
+      "publishedAt": "2026-07-18T12:31:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "5d2988e99b4bcf",
+      "title": "Football Daily | France v England in the third-place playoff: the game nobody wants to play",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Saturday’s rebranded “bronze final” between France and England in Miami might feel like a modern, Gianni-coded exerc...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/football-daily-email-gwc-england-france",
+      "publishedAt": "2026-07-18T11:46:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "b49f57347e215b",
+      "title": "Liverpool tipped to sign £130m PL star as one of ‘three big signings’; transfer branded ‘head-scratcher’",
+      "summary": "Alan Shearer thinks Liverpool could sign Bournemouth attacker Rayan as one of “two or three big signings” in the remainder of the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-shearer-rayan-three-big-signings-nicol-munoz",
+      "publishedAt": "2026-07-18T11:42:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8b1a1158f3d5e7",
+      "title": "A bit 'blah' or a worthy host? Is MetLife right World Cup final choice?",
+      "summary": "North America correspondent Nada Tawfik explores the decision to award the World Cup final to MetLife Stadium amid competition from rival venues.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgj5dlr45zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T11:30:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e44fc5ce8d8207",
+      "title": "Gianni Infantino unlikely to face IOC sanctions over Balogun red card scandal",
+      "summary": "Donald Trump spoke to Fifa president before ban lifted Human rights body FairSquare sent complaint to IOC Gianni Infantino is poised to escape without sanction after co...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-unlikely-to-face-ioc-sanctions-over-balogun-red-card-scandal",
+      "publishedAt": "2026-07-18T11:00:02.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bee1b49670be36",
+      "title": "Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job",
+      "summary": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup The BBC punditry trio Wayne Rooney, Micah Richards...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/joe-hart-wayne-rooney-micah-richards-rowing-hudson-river-world-cup",
+      "publishedAt": "2026-07-18T11:00:02.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
         "World Cup"
+      ]
+    },
+    {
+      "id": "2992f8756e37fc",
+      "title": "World Cup winner Capdevila appeals to Trump after US travel permit denied",
+      "summary": "Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States b...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T10:43:40.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a9fc45e4bf2fd6",
+      "title": "False nines or firing forwards - England's potential life after Kane",
+      "summary": "Are England facing the prospect of using a false nine up front once record scorer Harry Kane calls time on his international career?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T10:42:07.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "94e03c9805b212",
+      "title": "Man Utd confident of £40m deal for PL star; Bundesliga club willing to discuss deal for midfielder",
+      "summary": "Man Utd are now confident they can land Sander Berge from Fulham in a deal worth £40m this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-confident-berge-fulham-frankfurt-larsson",
+      "publishedAt": "2026-07-18T10:34:34.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "426c47253aa3f4",
+      "title": "'Less than human': how unhoused people in Atlanta are being treated during the World Cup – video",
+      "summary": "“This is what happens when you apply these incredibly violent economic forces to these cities … it's happened at every World Cup I've been to,” explains our chief sport...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/jul/18/how-unhoused-people-in-atlanta-are-being-treated-during-the-world-cup-video",
+      "publishedAt": "2026-07-18T10:29:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "63922c00f06773",
+      "title": "Enzo Fernández shows real quality for Argentina but Chelsea future is up in the air",
+      "summary": "Brash midfielder has admirers in Madrid, though his World Cup displays illustrate what he can offer Xabi Alonso’s Blues Enzo Fernández was an unstoppable mix of style a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/enzo-fernandez-argentina-chelsea-future-world-cup",
+      "publishedAt": "2026-07-18T10:00:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7097a458af4001",
+      "title": "The harrowing dark side of England's World Cup exit",
+      "summary": "During a major football tournament such as the World Cup, some women and girls are constantly living in fear - because domestic abuse rises when England play, research...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwymljn8y10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T09:59:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "528d8285f9563f",
+      "title": "Chelsea transfer all but finalised with £27m deal to be completed in the next few hours",
+      "summary": "Chelsea will complete a deal for Trevoh Chalobah to join Serie A side Como ‘in the next few hours’, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-transfer-finalised-chalobah-completed-next-hours-como",
+      "publishedAt": "2026-07-18T09:37:52.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Serie A",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b332902ef537f0",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
+      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T09:16:54.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "29555fdbbd2694",
+      "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
+      "summary": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so Come rain or s...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
+      "publishedAt": "2026-07-18T09:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "adf77eea766d34",
+      "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
+      "summary": "The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the U...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
+      "publishedAt": "2026-07-18T09:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "f59ac81f122213",
+      "title": "Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo",
+      "summary": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T08:59:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "60e4b8b7edbb6a",
+      "title": "Arsenal make major breakthrough over Rogers as Romano gives ‘here we go’ to another deal",
+      "summary": "Arsenal are expected to launch their first bid for Morgan Rogers ‘within days’ after a ‘major breakthrough’, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-offer-rogers-within-days-romano-here-we-go",
+      "publishedAt": "2026-07-18T08:42:40.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T08:29:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Spurs star chooses between two clubs as Chelsea man nears €32m exit",
+      "summary": "A Tottenham midfielder has two clubs to decide between, while a Chelsea defender is closing in on a big move to the Italian top flight.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-18T08:19:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
       ]
     },
     {
@@ -284,301 +592,6 @@
       "source": "Football365",
       "url": "https://www.football365.com/news/fifa-world-cup-bronze-final-england-v-france-nonsense-scrapped",
       "publishedAt": "2026-07-18T05:57:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3914b1318ea3a2",
-      "title": "Half-time show and ad breaks among five times FIFA did whatever the f*** it likes with this World Cup",
-      "summary": "The World Cup final half-time show is just the latest occasion FIFA has seen fit to do whatever it likes with this tournament…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-2026-five-times-five-disgraced-itself-infantino-power",
-      "publishedAt": "2026-07-18T05:52:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a2c66f863f9edf",
-      "title": "Who am I? Guess World Cup star No 41",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyp7m9qg4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T05:51:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ce631c677e3a37",
-      "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
-      "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T02:50:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c86e442841d7b6",
-      "title": "'They made him a defensive player' - Trump questions Kane role in semi",
-      "summary": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T02:12:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5b683707b76653",
-      "title": "Argentina like to leave mark on opponents - Laporte",
-      "summary": "Spain defender Aymeric Laporte claims World Cup final opponents Argentina are a team that \"likes to leave a mark on their opponents\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj63e8l0kjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T00:38:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T23:48:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "07e55aedd5a671",
-      "title": "White House defends Argentina team over Falklands banner",
-      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T22:12:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "8aacc11e02f205",
-      "title": "Arsenal want Villa's Rogers - Saturday's gossip",
-      "summary": "Arsenal want Morgan Rogers, Mohamed Salah is set to join Besiktas, Manchester United are interested in Neco Williams, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd69qv6536zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T21:42:18.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c9b096869225cf",
-      "title": "Tuchel urges England to finish strongly in emotional address",
-      "summary": "England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T20:39:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3fa183716eb51c",
-      "title": "‘Leo has surpassed Diego’: after two decades Argentina embraces Messi",
-      "summary": "The little maestro has hitherto lived in the shadow of Maradona who has for so long coloured the soul and defined the passion of football in Argentina It is time to con...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/17/leo-has-surpassed-diego-after-two-decades-argentina-embraces-messi",
-      "publishedAt": "2026-07-17T20:31:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "9583b8d09566ce",
-      "title": "Smoke, travel and Trump threaten New York’s grand World Cup finale",
-      "summary": "Wildfires, transport issues and the appearance of the president could overshadow the final for a city that has embraced the tournament The thick smoke that has engulfed...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/17/smoke-travel-trump-new-york-world-cup-final",
-      "publishedAt": "2026-07-17T20:21:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "ae2462eaa22b67",
-      "title": "Stick with Tuchel unless Guardiola is available - Rooney",
-      "summary": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T20:16:26.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "0bdf397658a6f5",
-      "title": "Spain v Argentina: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the World Cup final between Spain and Argentina.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/spain-v-argentina-prediction-preview",
-      "publishedAt": "2026-07-17T20:11:55.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bac810f4467c12",
-      "title": "Ederson extends Atalanta contract after Man Utd move collapses",
-      "summary": "Atalanta midfielder Ederson extends his contract after a move to Manchester United collapses.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c629dxeye0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T19:12:58.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7518196f1b7c8f",
-      "title": "God’s will? Destiny? Lionel Messi, Lamine Yamal, that photo and the World Cup final",
-      "summary": "The boy in the baby bath has unbelievably become the successor to Messi at Barcelona and now, maybe, on the world stage too “Maybe Lionel Messi has picked up lots of ba...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/17/gods-will-destiny-lionel-messi-lamine-yamal-that-photo-and-the-world-cup-final",
-      "publishedAt": "2026-07-17T19:00:36.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "e8403a1bd9794f",
-      "title": "Newcastle under increased threat with Guimaraes to Arsenal ‘close enough’",
-      "summary": "Newcastle are nearing the loss of Bruno Guimaraes, as former Premier League scout Keith Wyness thinks his move to Arsenal is now “close enough.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-close-enough-guimaraes-explosive-newcastle-exit",
-      "publishedAt": "2026-07-17T18:42:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T17:42:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "dcb1a1976a8453",
-      "title": "'Chaos v calm' - Sutton's World Cup final and third-place predictions",
-      "summary": "BBC Sport's football expert Chris Sutton makes his prediction for Spain against Argentina in the World Cup final, and the bronze final between France and England.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3zrgxkzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T16:26:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "bed6fdf449bed5",
-      "title": "Are Argentina being treated favourably at World Cup?",
-      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T16:26:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "41c26ccdfa6e4e",
-      "title": "World Cup final, the Tour de France and Open golf – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/jul/17/world-cup-final-the-tour-de-france-and-open-golf-follow-with-us",
-      "publishedAt": "2026-07-17T16:06:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b8acb9ec4a3906",
-      "title": "Leeds sign £34.1m defender Muharemovic",
-      "summary": "Leeds United sign defender Tarik Muharemovic for £34.1m from Serie A side Sassuolo.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0kl9rjpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T16:00:06.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A"
-      ]
-    },
-    {
-      "id": "2b25a25915ccb9",
-      "title": "Tuchel urged to drop two England big hitters for fresh legs in France showdown",
-      "summary": "Thomas Tuchel has been urged to freshen up his England side for their third-place World Cup play-off against France, with two key starters dropped down to the bench.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tuchel-urged-drop-kane-rice-engand-france-showdown",
-      "publishedAt": "2026-07-17T15:06:06.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
