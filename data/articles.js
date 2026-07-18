@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-18T13:25:04.730Z",
+  "generatedAt": "2026-07-18T19:10:47.005Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,71 +99,254 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "ffc453c23bc50f",
-      "title": "Szoboszlai signs new long-term Liverpool deal",
-      "summary": "Dominik Szoboszlai has signed a new long-term deal at Liverpool.",
+      "id": "37a59a5bae64fd",
+      "title": "Santos debuts as Man Utd beaten by Wrexham in opening pre-season clash",
+      "summary": "Andrey Santos made his Manchester United debut as Michel Carrick's side lost 1-0 to Wrexham in their opening pre-season fixture at the Olympic Stadium in Helsinki.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool",
-      "publishedAt": "2026-07-18T13:25:04.461Z",
+      "url": "https://www.skysports.com/football/news/12040/13564369/man-utd-0-1-wrexham-andrey-santos-makes-red-devils-debut-in-opening-pre-season-loss-in-helsinki",
+      "publishedAt": "2026-07-18T19:10:46.709Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Manchester"
       ]
     },
     {
-      "id": "ad267cea8132e7",
-      "title": "Why third-place play-off against France is huge for Tuchel and England",
-      "summary": "England are in the midst of a run of three matches against the top three sides in world football. That is unprecedented.",
+      "id": "1549be6174de5f",
+      "title": "'Statement of intent!' | How Chelsea agreed HUGE £117m deal for Rogers!",
+      "summary": "Sky Sports News' Kaveh Solhekol breaks down Chelsea's £117m deal for Morgan Rogers and what he could add to Xabi Alonso's side.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564512/france-vs-england-why-world-cup-third-place-play-off-is-huge-for-three-lions-boss-thomas-tuchel",
-      "publishedAt": "2026-07-18T13:25:04.461Z",
+      "url": "https://www.skysports.com/watch/video/13564768/why-have-chelsea-made-mega-bid-for-morgan-rogers",
+      "publishedAt": "2026-07-18T19:10:46.708Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Chelsea"
       ]
     },
     {
-      "id": "84d32bcbcec263",
-      "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "id": "519400645dc277",
+      "title": "Chelsea agree record £117m deal for Villa's Rogers",
+      "summary": "Chelsea have agreed a record £117m deal with Aston Villa for Morgan Rogers.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk",
-      "publishedAt": "2026-07-18T13:25:04.460Z",
+      "url": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
+      "publishedAt": "2026-07-18T19:10:46.707Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Arsenal"
+        "Chelsea"
       ]
     },
     {
-      "id": "dcff486dceb470",
-      "title": "Joshua vs Itauma is 'perfect story' for Nigeria fight, says promoter",
-      "summary": "A \"blockbuster fight\" between Anthony Joshua and Moses Itauma in Nigeria would create more global interest than Muhammad Ali’s 'Rumble in the Jungle', says promoter Dr...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13563737/anthony-joshua-vs-moses-itauma-bigger-than-rumble-in-the-jungle-if-staged-in-nigeria-says-promoter-dr-ezekiel-adamu",
-      "publishedAt": "2026-07-18T13:25:04.459Z",
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T18:49:13.000Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Transfer"
       ]
     },
     {
-      "id": "0c181a11633c2f",
-      "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final",
-      "summary": "⚽ World Cup latest on final weekend of tournament ⚽ England’s exit was not just about Tuchel ⚽ Email us | Archive: Argentina v Spain in 1966 I’m still getting my head a...",
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T18:48:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "98a30bd4609d48",
+      "title": "Man Utd ‘in talks with Tottenham’ over signing English gem and want deal ‘done quickly’",
+      "summary": "Manchester United and Tottenham Hotspur are negotiating a deal for an English left-winger, according to three sources.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-tottenham-tynan-thompson-talks",
+      "publishedAt": "2026-07-18T18:41:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0067fed95f7815",
+      "title": "Luis de la Fuente reveals Spain will not man-mark Messi in World Cup final",
+      "summary": "Coach tells of first encounter when Messi was 16 ‘I took man-marker off and Messi scored four’ Luis de la Fuente says he will not man-mark Lionel Messi in the World Cup...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/jul/18/world-cup-latest-buildup-france-england-third-place-spain-argentina",
-      "publishedAt": "2026-07-18T13:08:45.000Z",
+      "url": "https://www.theguardian.com/football/2026/jul/18/luis-de-la-fuente-reveals-spain-will-not-man-mark-messi-in-world-cup-final",
+      "publishedAt": "2026-07-18T18:15:43.000Z",
       "category": "worldcup",
       "region": "spain",
       "tags": [
         "Football",
         "World Cup",
         "Barcelona"
+      ]
+    },
+    {
+      "id": "3927d4e19864aa",
+      "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
+      "summary": "Fee makes Rogers most expensive English player Arsenal were also keen on Rogers, a £15m Villa signing Chelsea are poised to sign Morgan Rogers from Aston Villa for £117...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m",
+      "publishedAt": "2026-07-18T18:10:33.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1eaa33cef66d1e",
+      "title": "Chelsea agree record £117m deal for Villa's Rogers",
+      "summary": "Chelsea have agreed a club record £117m deal to sign England international midfielder Morgan Rogers from Aston Villa.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T18:02:48.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e5685fe23251b6",
+      "title": "Morgan Rogers rejects Arsenal for Chelsea in £117m deal after Xabi Alonso gets involved",
+      "summary": "Morgan Rogers has decided to join Chelsea from Aston Villa, despite Arsenal pushing for a deal for the England international star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/morgan-rogers-picks-chelsea-over-arsenal-aston-villa-deal",
+      "publishedAt": "2026-07-18T17:49:27.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "aee52e863cd0f8",
+      "title": "Spain's final training session before World Cup final cancelled",
+      "summary": "Spain's final session before Sunday's World Cup final has been cancelled due to thunderstorms in New Jersey.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T17:32:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6d1fe2cf6adae5",
+      "title": "Shackle Rodri the metronome and Argentina’s passion play can floor Spain | Jonathan Wilson",
+      "summary": "The World Cup final is a classic clash of the process team against a side riding an emotional urge to fulfil Messi’s destiny In the 37 minutes between England going ahe...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/shackle-rodri-the-metronome-and-argentinas-passion-play-can-floor-spain",
+      "publishedAt": "2026-07-18T17:00:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b9da0eb7880877",
+      "title": "Inside Iraola's first week at Liverpool and big decisions he faces",
+      "summary": "New Liverpool manager Andoni Iraola has lots of decisions to make ahead of the new season. BBC Sport gives an insight into his first week in the job.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce34zpppy6qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T15:54:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "03126b62f05f43",
+      "title": "Liverpool ‘medical’ imminent as midfielder agrees ‘historic transfer’",
+      "summary": "A Colombian gem has agreed to join Liverpool and will undergo a medical shortly, but he will not play for the Reds until next year.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/samuel-martinez-joining-liverpool-medical",
+      "publishedAt": "2026-07-18T15:22:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "be3c9f9f0d0d18",
+      "title": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up",
+      "summary": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament “A lot of our community has been push...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
+      "publishedAt": "2026-07-18T15:15:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "768ff2ca5b8cc3",
+      "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+      "summary": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topic The Brazilian journalist and co...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final",
+      "publishedAt": "2026-07-18T15:03:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a3941e682807f2",
+      "title": "Will the World Cup affect Arsenal's transfer plans?",
+      "summary": "With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is sha...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T14:47:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "690450a6ece5cd",
+      "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+      "summary": "Why does the Fifa World Cup Bronze Final still exist?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T13:23:13.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -405,193 +588,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "29555fdbbd2694",
-      "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
-      "summary": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so Come rain or s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
-      "publishedAt": "2026-07-18T09:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "adf77eea766d34",
-      "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-      "summary": "The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility Ever since the U...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
-      "publishedAt": "2026-07-18T09:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "f59ac81f122213",
       "title": "Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo",
       "summary": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-18T08:59:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "60e4b8b7edbb6a",
-      "title": "Arsenal make major breakthrough over Rogers as Romano gives ‘here we go’ to another deal",
-      "summary": "Arsenal are expected to launch their first bid for Morgan Rogers ‘within days’ after a ‘major breakthrough’, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-offer-rogers-within-days-romano-here-we-go",
-      "publishedAt": "2026-07-18T08:42:40.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T08:29:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Spurs star chooses between two clubs as Chelsea man nears €32m exit",
-      "summary": "A Tottenham midfielder has two clubs to decide between, while a Chelsea defender is closing in on a big move to the Italian top flight.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-18T08:19:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0bd368e810f5e9",
-      "title": "Best finishers, defensive kings & runners - World Cup finalists in numbers",
-      "summary": "European champions Spain will face World Cup holders and South American champions Argentina in the final. How do they compare? BBC Sport takes a look at the numbers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0rd8zrwvwno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T07:35:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7ea1b77e818580",
-      "title": "Romano reveals Tottenham are waiting for ‘green light’ for seventh signing as he predicts next exit",
-      "summary": "Fabrizio Romano has revealed what will give Tottenham the “green light” from Manchester City to complete a deal for Savinho.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-romano-green-light-savinho-manchester-city-bergvall-exit",
-      "publishedAt": "2026-07-18T07:33:36.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "433bea4057e323",
-      "title": "'Similar to Courtois' - could Penders become Chelsea number one?",
-      "summary": "Chelsea's newest goalkeeping prospect, Mike Penders, is from the same production line that produced the legendary Thibaut Courtois.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyxyr267ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T07:12:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "414ab4723f45d4",
-      "title": "Spain’s Mikel Merino: ‘The focus is on being a good human first, then a good footballer’",
-      "summary": "The Arsenal midfielder talks about how Luis de la Fuente has created a team built on respect and how they plan to beat Argentina in the World Cup final The night before...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup",
-      "publishedAt": "2026-07-18T07:00:52.000Z",
-      "category": "worldcup",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "1ceda2925dc184",
-      "title": "Cold War Steve on … Don Quixote and Sancho Panza coming to save the World Cup",
-      "summary": "The fifth in a special series of World Cup 2026-themed collages made for the Guardian by the celebrated satirist Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup",
-      "publishedAt": "2026-07-18T07:00:51.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5f8d1fe3523c63",
-      "title": "Romano gives transfer update on Liverpool legend Salah after agent, Besiktas deny ‘agreement’",
-      "summary": "Liverpool forward Mohamed Salah has not got an agreement with Besiktas but Fabrizio Romano insists the Turkish club “did make an offer”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-transfer-update-salah-agent-besiktas-deny-agreement",
-      "publishedAt": "2026-07-18T06:34:51.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "89b8c3566d2dd9",
-      "title": "Chelsea’s transfer priority and ideal signing as Xabi Alonso era begins",
-      "summary": "Experience will be top of the wishlist for Xabi Alonso as he settles into the Stamford Bridge dugout.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelseas-transfer-priority-ideal-signing-xabi-alonso-era-begins",
-      "publishedAt": "2026-07-18T05:57:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d8b0a0469800d0",
-      "title": "World Cup bronze final: ‘The worst game to play’ is a nonsense and should be binned",
-      "summary": "The penultimate game of the World Cup is always by far its least important and a waste of time for knackered England and flagging France to reach an outcome few ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fifa-world-cup-bronze-final-england-v-france-nonsense-scrapped",
-      "publishedAt": "2026-07-18T05:57:26.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
