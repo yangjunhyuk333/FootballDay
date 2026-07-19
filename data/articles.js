@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-19T03:20:14.129Z",
+  "generatedAt": "2026-07-19T08:25:22.246Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,77 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "c1565c1e044ca5",
-      "title": "TMO drama in chaotic finale as 13-man England hold on for win in Argentina",
-      "summary": "England's rugby players avenged defeat to Argentina in the World Cup semi-finals with a chaotic, ill-tempered 31-24 Nations Championship victory that went to the wire i...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13564782/argentina-24-31-england-late-tmo-drama-as-13-man-england-seal-dramatic-nations-championship-win",
-      "publishedAt": "2026-07-19T03:20:13.809Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "632e6305289ebc",
-      "title": "Premier League pre-season: Glasner's Forest off to winning start",
-      "summary": "Premier League pre-season: Glasner's Forest off to winning start",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights",
-      "publishedAt": "2026-07-19T03:20:13.809Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "7eaec5170e62c2",
-      "title": "England claim third at World Cup with win in 10-goal thriller over France",
-      "summary": "Bukayo Saka’s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/france-vs-england/report/549868",
-      "publishedAt": "2026-07-19T03:20:13.808Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9438bdcf278c01",
-      "title": "England tournament player ratings: Who impressed and who struggled?",
-      "summary": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
-      "publishedAt": "2026-07-19T03:20:13.808Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "519400645dc277",
-      "title": "Chelsea agree record £117m deal for Villa's Rogers",
-      "summary": "Chelsea have agreed a record £117m deal with Aston Villa for Morgan Rogers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
-      "publishedAt": "2026-07-19T03:20:13.808Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": "ab2052f3eff850",
       "title": "Hat-trick hero Saka: I'm fit and wanted to play more",
       "summary": "Bukayo Saka revealed he \"wanted to play more\" at the World Cup after scoring a hat-trick to earn England a bronze medal against France - after Thomas Tuchel tactically...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564841/france-4-6-england-bukayo-saka-reveals-he-is-fully-fit-and-wanted-to-play-more-at-the-world-cup-after-hat-trick-in-third-place-play-off",
-      "publishedAt": "2026-07-19T03:20:13.808Z",
+      "publishedAt": "2026-07-19T08:25:21.970Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -182,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564829/nicolas-jackson-and-crysencio-summerville-on-aston-villas-radar-paper-talk",
-      "publishedAt": "2026-07-19T03:20:13.808Z",
+      "publishedAt": "2026-07-19T08:25:21.970Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -196,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Kylian Mbappe now leads the way in the Golden Boot race with 10 goals - two clear of Lionel Messi who plays in Sunday's World Cup final.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564837/world-cup-2026-golden-boot-race-kylian-mbappe-pulls-two-goals-clear-of-lionel-messi-ahead-of-world-cup-final",
-      "publishedAt": "2026-07-19T03:20:13.808Z",
+      "publishedAt": "2026-07-19T08:25:21.970Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -204,15 +139,194 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "9438bdcf278c01",
+      "title": "England tournament player ratings: Who impressed and who struggled?",
+      "summary": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
+      "publishedAt": "2026-07-19T08:25:21.969Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3929b5c69e4492",
+      "title": "World Cup final predictions: Back Spain to surge as Argentina's engine empties",
+      "summary": "This one certainly should live up to the billing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13564773/world-cup-final-predictions-and-best-bets-back-spain-to-surge-as-argentinas-engine-empties",
+      "publishedAt": "2026-07-19T08:25:21.969Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "519400645dc277",
+      "title": "Chelsea agree record £117m deal for Villa's Rogers",
+      "summary": "Chelsea have agreed a record £117m deal with Aston Villa for Morgan Rogers.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
+      "publishedAt": "2026-07-19T08:25:21.969Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7eaec5170e62c2",
+      "title": "England claim third at World Cup with win in 10-goal thriller over France",
+      "summary": "Bukayo Saka’s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/france-vs-england/report/549868",
+      "publishedAt": "2026-07-19T08:25:21.968Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3ea6c827a30055",
+      "title": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
+      "summary": "⚽ World Cup final starts at 3pm EST, 8pm BST, 5am AEST ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Watching England against France – though, of course, de...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
+      "publishedAt": "2026-07-19T08:11:00.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "4142d6c8e73453",
+      "title": "Tuchel makes stunning admission about Saka after England win v France – ‘I was not even aware’",
+      "summary": "Bukayo Saka starred for Thomas Tuchel’s England against France in the third-place playoff at the 2026 World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-bukayo-saka-thomas-tuchel-reaction-after-france-game",
+      "publishedAt": "2026-07-19T08:00:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7682fe8e1d2524",
+      "title": "Spain v Argentina in the World Cup final: the referee, the stats and the omens",
+      "summary": "As the top two in the Fifa rankings prepare to meet in New Jersey on Sunday we look at the pointers that may help decide the game Slavko Vincic becomes the first Sloven...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/19/spain-v-argentina-world-cup-final-referee-stats-omens",
+      "publishedAt": "2026-07-19T07:00:21.000Z",
+      "category": "worldcup",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "1a8e48101fefcf",
+      "title": "World Cup final data pointers: Spain’s defensive record and Argentina’s attack",
+      "summary": "The reigning champions may need to continue outperforming their xG to overcome Spain’s superb defensive record The World Cup final will feature the champions of South A...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/19/world-cup-final-spain-argentina-goals-defensive-record",
+      "publishedAt": "2026-07-19T07:00:20.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2c17c2f545f043",
+      "title": "Thomas Tuchel sack: Pundits round on England boss after too little, too late France epic",
+      "summary": "Bukayo Saka became just the second England player to score a hat-trick in a World Cup knockout match, as the Three Lions stunned France 6-4 to secure a third-placed fin...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thomas-tuchel-england-sack-pundits-discuss-after-france-epic",
+      "publishedAt": "2026-07-19T06:51:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "49299b61684cd8",
+      "title": "Who am I? Guess World Cup star No 42",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g02zp311po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T05:51:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "14ceb16092c58b",
+      "title": "Football Daily",
+      "summary": "What's next for England?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nxtxwv?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T05:22:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "7ea3f8c70cbb1a",
+      "title": "England beat France in an epic World Cup third-place playoff – in pictures",
+      "summary": "As England register their best World Cup finish since 1966, we bring you our pick of the images from Miami where Bukayo Saka’s hat-trick sealed a 6-4 victory for Thomas...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/19/england-beat-france-world-cup-third-place-playoff-best-images-gallery-in-pictures",
+      "publishedAt": "2026-07-19T04:29:58.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
       "id": "a69bf17503fb99",
       "title": "Best England team for a long time? That's a fact, says Rice",
-      "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup.",
+      "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after they secure a third-placed finish at the World Cup.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-19T02:29:00.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "044cd6b7cf2bc0",
+      "title": "‘Something very special’: Tuchel reflects on World Cup after England claim third",
+      "summary": "France beaten 6-4 on ‘very emotional’ day for squad ‘This will help – but you never fully celebrate bronze’ Thomas Tuchel has said England’s players can be proud of the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/19/thomas-tuchel-world-cup-england-third-france",
+      "publishedAt": "2026-07-19T01:27:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
         "World Cup"
       ]
     },
@@ -321,20 +435,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e2c8cee38d118d",
-      "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
-      "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report",
-      "publishedAt": "2026-07-18T23:05:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
       "id": "b7260c915efd7a",
       "title": "Fifa to announce record $15bn World Cup revenue, smashing expectations",
       "summary": "Hospitality and secondary ticket market help fuel rise Gianni Infantino will feel this shores up his position Fifa will announce record $15bn (£11.2bn) revenues from th...",
@@ -375,20 +475,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "World Cup",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "1107317d496570",
-      "title": "Hydration breaks not popular and Fifa will review - Wenger",
-      "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T21:42:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
       ]
     },
     {
@@ -489,21 +575,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0067fed95f7815",
-      "title": "Luis de la Fuente reveals Spain will not man-mark Messi in World Cup final",
-      "summary": "Coach tells of first encounter when Messi was 16 ‘I took man-marker off and Messi scored four’ Luis de la Fuente says he will not man-mark Lionel Messi in the World Cup...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/luis-de-la-fuente-reveals-spain-will-not-man-mark-messi-in-world-cup-final",
-      "publishedAt": "2026-07-18T18:15:43.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
       "id": "3927d4e19864aa",
       "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
       "summary": "Fee makes Rogers most expensive English player Arsenal were also keen on Rogers, a £15m Villa signing Chelsea are poised to sign Morgan Rogers from Aston Villa for £117...",
@@ -517,75 +588,6 @@ window.FOOTBALLDAY_DATA = {
         "Transfer",
         "Arsenal",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "1eaa33cef66d1e",
-      "title": "Chelsea agree record £117m deal for Villa's Rogers",
-      "summary": "Chelsea have agreed a club record £117m deal to sign England international midfielder Morgan Rogers from Aston Villa.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T18:02:48.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e5685fe23251b6",
-      "title": "Morgan Rogers rejects Arsenal for Chelsea in £117m deal after Xabi Alonso gets involved",
-      "summary": "Morgan Rogers has decided to join Chelsea from Aston Villa, despite Arsenal pushing for a deal for the England international star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/morgan-rogers-picks-chelsea-over-arsenal-aston-villa-deal",
-      "publishedAt": "2026-07-18T17:49:27.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "aee52e863cd0f8",
-      "title": "Spain's final training session before World Cup final cancelled",
-      "summary": "Spain's final session before Sunday's World Cup final has been cancelled due to thunderstorms in New Jersey.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T17:32:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6d1fe2cf6adae5",
-      "title": "Shackle Rodri the metronome and Argentina’s passion play can floor Spain | Jonathan Wilson",
-      "summary": "The World Cup final is a classic clash of the process team against a side riding an emotional urge to fulfil Messi’s destiny In the 37 minutes between England going ahe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/shackle-rodri-the-metronome-and-argentinas-passion-play-can-floor-spain",
-      "publishedAt": "2026-07-18T17:00:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b9da0eb7880877",
-      "title": "Inside Iraola's first week at Liverpool and big decisions he faces",
-      "summary": "New Liverpool manager Andoni Iraola has lots of decisions to make ahead of the new season. BBC Sport gives an insight into his first week in the job.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce34zpppy6qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T15:54:39.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     }
   ],
