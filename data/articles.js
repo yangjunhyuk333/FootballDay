@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-19T08:25:22.246Z",
+  "generatedAt": "2026-07-19T13:26:48.943Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,65 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "ab2052f3eff850",
-      "title": "Hat-trick hero Saka: I'm fit and wanted to play more",
-      "summary": "Bukayo Saka revealed he \"wanted to play more\" at the World Cup after scoring a hat-trick to earn England a bronze medal against France - after Thomas Tuchel tactically...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564841/france-4-6-england-bukayo-saka-reveals-he-is-fully-fit-and-wanted-to-play-more-at-the-world-cup-after-hat-trick-in-third-place-play-off",
-      "publishedAt": "2026-07-19T08:25:21.970Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "18a3ee22ea4f00",
-      "title": "Papers: Jackson, Summerville on Villa's radar after Chelsea's Rogers move",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564829/nicolas-jackson-and-crysencio-summerville-on-aston-villas-radar-paper-talk",
-      "publishedAt": "2026-07-19T08:25:21.970Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7ca8f77f7fe9cb",
-      "title": "Golden Boot race: Mbappe pulls two clear of Messi",
-      "summary": "Kylian Mbappe now leads the way in the Golden Boot race with 10 goals - two clear of Lionel Messi who plays in Sunday's World Cup final.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564837/world-cup-2026-golden-boot-race-kylian-mbappe-pulls-two-goals-clear-of-lionel-messi-ahead-of-world-cup-final",
-      "publishedAt": "2026-07-19T08:25:21.970Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9438bdcf278c01",
-      "title": "England tournament player ratings: Who impressed and who struggled?",
-      "summary": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
-      "publishedAt": "2026-07-19T08:25:21.969Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "3929b5c69e4492",
       "title": "World Cup final predictions: Back Spain to surge as Argentina's engine empties",
       "summary": "This one certainly should live up to the billing.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564773/world-cup-final-predictions-and-best-bets-back-spain-to-surge-as-argentinas-engine-empties",
-      "publishedAt": "2026-07-19T08:25:21.969Z",
+      "publishedAt": "2026-07-19T13:26:48.658Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -170,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Chelsea have agreed a record £117m deal with Aston Villa for Morgan Rogers.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564758/morgan-rogers-transfer-news-chelsea-agree-record-117m-deal-for-aston-villa-forward-and-arsenals-no-1-target",
-      "publishedAt": "2026-07-19T08:25:21.969Z",
+      "publishedAt": "2026-07-19T13:26:48.658Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -183,10 +130,63 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Bukayo Saka’s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/france-vs-england/report/549868",
-      "publishedAt": "2026-07-19T08:25:21.968Z",
+      "publishedAt": "2026-07-19T13:26:48.657Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9438bdcf278c01",
+      "title": "England tournament player ratings: Who impressed and who struggled?",
+      "summary": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated",
+      "publishedAt": "2026-07-19T13:26:48.657Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2c26c9c8f85720",
+      "title": "Nightmare window or well-needed rebuild? Villa's turbulent summer analysed",
+      "summary": "In the aftermath of ending a 30-year wait for silverware and qualifying for the Champions League once again, Aston Villa have been rocked by player exits and injuries,...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13563614/aston-villa-why-unai-emery-is-navigating-well-needed-rebuild-and-not-a-nightmare-transfer-window-ahead-of-morgan-rogers-exit",
+      "publishedAt": "2026-07-19T13:26:48.657Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "0ff2d07ca1e17a",
+      "title": "Scorecard: England vs India, third ODI, Lord's",
+      "summary": "Latest from the series-deciding third one-day international between England and India. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-india/scorecard/09c46815-1e0a-55b8-9b8d-694b3188274a",
+      "publishedAt": "2026-07-19T13:26:48.656Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "25ab2cdd182000",
+      "title": "An opportunity missed? | England World Cup Verdict",
+      "summary": "Sky Sports football correspondent Rob Dorsett has been with England every step of the way at the World Cup - he reflects on England's performance at the tournament and...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13564902/world-cup-2026-englands-tournament-analysed",
+      "publishedAt": "2026-07-19T13:26:48.655Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
         "World Cup"
       ]
     },
@@ -196,13 +196,232 @@ window.FOOTBALLDAY_DATA = {
       "summary": "⚽ World Cup final starts at 3pm EST, 8pm BST, 5am AEST ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Watching England against France – though, of course, de...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
-      "publishedAt": "2026-07-19T08:11:00.000Z",
+      "publishedAt": "2026-07-19T13:10:28.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
         "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "22acba31199bf5",
+      "title": "World Cup quiz: Can you name every winner?",
+      "summary": "With the World Cup final taking place on Sunday, put your knowledge of the previous winners to the test.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k2zxdl5edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T13:00:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8673821318e68a",
+      "title": "Harry Kane is ‘terrible’ at one thing and it is holding this England side back",
+      "summary": "England surrendering in the World Cup semi-final had nothing to do with their ‘DNA’; it was down to a problem summed up by Harry Kane.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/harry-kane-terrible-england-captain-blamed-world-cup-exit",
+      "publishedAt": "2026-07-19T12:29:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "656d7b0d6982c2",
+      "title": "How the 2026 World Cup’s greatest triumph lies in its green arenas",
+      "summary": "The environmental impact of a 48-team World Cup hosted across three countries cannot be overstated, but the stadiums leave a positive legacy.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-stadiums-greatest-triumph-azteca",
+      "publishedAt": "2026-07-19T12:10:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e0c8ec96dd9c50",
+      "title": "Lewis Hall transfer preference between Man Utd and Chelsea emerges",
+      "summary": "A report reveals which club Newcastle United star Lewis Hall would prefer to join – Manchester United or Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-chelsea-lewis-hall-preference",
+      "publishedAt": "2026-07-19T12:01:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "66d97317de55ef",
+      "title": "England 2026 World Cup squad: player-by-player ratings",
+      "summary": "After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament Jordan Pickford Could he have done better with Enzo Fernánde...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
+      "publishedAt": "2026-07-19T11:00:28.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ec83db5f2ba1a5",
+      "title": "Spain’s coaching culture leads the way, thanks to visionary Johan Cruyff | Philipp Lahm",
+      "summary": "Great brought an ideology to Barcelona that Guardiola and Emery refined, defining the playing style of the national team Two countries are generating powerful, cross-bo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/19/spain-argentina-2026-world-cup-final-johan-cruyff-pep-guardiola",
+      "publishedAt": "2026-07-19T11:00:24.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "fa0de2a41a7bd2",
+      "title": "Brazil legend Ronaldo only sees one winner in World Cup final – ‘the game will be easy’",
+      "summary": "Speaking on his official TikTok account with fellow Brazil 2002 World Cup winner Denilson, Ronaldo was very clear on his opinion on how the 2026 final will play out.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/brazil-legend-ronaldo-predicts-world-cup-final-result",
+      "publishedAt": "2026-07-19T10:38:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5cfb738b8a134f",
+      "title": "'Legend' or 'regrets'? A final that will define Lamine Yamal's World Cup",
+      "summary": "Lamine Yamal may not have had a sparkling World Cup but victory for Spain in Sunday's World Cup final would write a very different narrative.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx8r45w2gzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T10:11:29.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b56b83c85d17a3",
+      "title": "I've been a World Cup official - I promise you there is no favouritism",
+      "summary": "Darren Cann speaks to BBC Sport about the conspiracy theories around the World Cup and what referees really think.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T09:55:59.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "dc6942526211e4",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "summary": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T09:55:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "606a7c2e5c191e",
+      "title": "Has Saka shown Tuchel he's too good to leave out?",
+      "summary": "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T09:52:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9c15b6f6336ae8",
+      "title": "Chelsea now just £3m away from signing star who’s ‘keen on a move’ after Morgan Rogers deal",
+      "summary": "Chelsea are close to agreeing a fee for a France international defender, according to a reliable journalist.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-crystal-palace-maxence-lacroix-deal",
+      "publishedAt": "2026-07-19T09:35:43.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "9fac8adcc4caae",
+      "title": "Fifa gives fraud ‘an open door’ with betting, says Council of Europe chief",
+      "summary": "Fifa deal with prediction market company under fire Balogun reprieve showed ‘rules bend under pressure’ Fifa has been accused of providing an “open door to fraud” and a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/19/fifa-fraud-open-door-betting-council-of-europe-world-cup",
+      "publishedAt": "2026-07-19T09:00:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "bbb1087ad4bd34",
+      "title": "Harry Kane reaches decision on joining Tottenham from Bayern Munich after World Cup exit",
+      "summary": "A German journalist has revealed whether Harry Kane plans to leave Bayern Munich for Tottenham Hotspur in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/harry-kane-reaches-decision-joining-tottenham-from-bayern-munich-after-world-cup-exit",
+      "publishedAt": "2026-07-19T08:50:13.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "4c2aa36240f7f7",
+      "title": "World Cup finals ranked: France thriller second only to Messi’s crowning moment",
+      "summary": "The last World Cup showpiece held in the United States was a tough watch while Argentina have thrilled and infuriated in their last two finals…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fifa-world-cup-finals-ranked-argentina-france-spain-brazil-italy-argentina-germany",
+      "publishedAt": "2026-07-19T08:41:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem and up to third",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are have fallen to third and are holding off Crystal Palace and Sunderland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-19T08:39:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
       ]
     },
     {
@@ -305,7 +524,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "a69bf17503fb99",
-      "title": "Best England team for a long time? That's a fact, says Rice",
+      "title": "Best England team for a long time - that's a fact, says Rice",
       "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after they secure a third-placed finish at the World Cup.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
@@ -317,16 +536,15 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "044cd6b7cf2bc0",
-      "title": "‘Something very special’: Tuchel reflects on World Cup after England claim third",
-      "summary": "France beaten 6-4 on ‘very emotional’ day for squad ‘This will help – but you never fully celebrate bronze’ Thomas Tuchel has said England’s players can be proud of the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/19/thomas-tuchel-world-cup-england-third-france",
-      "publishedAt": "2026-07-19T01:27:05.000Z",
+      "id": "94d40a17484d8d",
+      "title": "World Cup set for longest half-time in tournament's history",
+      "summary": "Half-time at the World Cup final between Spain and Argentina is set to be the longest in the tournament's history.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T01:43:45.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
         "World Cup"
       ]
     },
@@ -367,227 +585,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "9db4ab1f9676cf",
-      "title": "Brilliant first half, turbulent second - Tuchel",
-      "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T00:13:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "9ca195c0c6f542",
-      "title": "England 6-4 France: Rating the players as Three Lions secure best World Cup finish since 1966",
-      "summary": "Bukayo Saka hogged the headlines in a perplexing England performance from which very few judgements should be made. But we’re gonna do it anyway…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-england-6-4-france-player-ratings-saka-hat-trick-bellingham-rice",
-      "publishedAt": "2026-07-18T23:53:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "54549ece1bf7eb",
-      "title": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
-      "summary": "Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T23:48:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a288237723b455",
-      "title": "How did England players rate during the World Cup?",
-      "summary": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T23:31:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c88e487be9d21b",
-      "title": "England take bronze over feckless France amid 10-goal nonsense",
-      "summary": "Bukayo Saka scored a hat-trick while England secured their second-best finish at a World Cup with a ludicrous 6-4 victory over France in the third-place play-off.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-take-bronze-over-feckless-france-amid-10-goal-nonsense",
-      "publishedAt": "2026-07-18T23:23:07.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b7260c915efd7a",
-      "title": "Fifa to announce record $15bn World Cup revenue, smashing expectations",
-      "summary": "Hospitality and secondary ticket market help fuel rise Gianni Infantino will feel this shores up his position Fifa will announce record $15bn (£11.2bn) revenues from th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue",
-      "publishedAt": "2026-07-18T22:30:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "9e5850cf3ecf32",
-      "title": "Romano reveals whether Arsenal will now threaten Liverpool for Bradley Barcola after Morgan Rogers ‘shock’",
-      "summary": "Fabrizio Romano gives his take on whether Arsenal will rival Liverpool for the signature of Paris Saint-Germain winger Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-liverpool-bradley-barcola-psg-fabrizio-romano-transfer-update",
-      "publishedAt": "2026-07-18T22:05:49.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who are the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem and up to third",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but are have fallen to third and are holding off Crystal Palace and Sunderland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-07-18T21:47:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "93b827dc93a52a",
-      "title": "Rice fires England into early lead against France",
-      "summary": "Captain Declan Rice gives England an early lead, scoring in the third minute against France in the World Cup third-place play-off at Miami Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0qvzk59jn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T21:17:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "98fe7a259e18a0",
-      "title": "Tottenham confident of Savinho signing - Sunday's gossip",
-      "summary": "Tottenham are hopeful of signing Savinho from Manchester City, Real Madrid cool their interest in Rodri, AC Milan are keeping tabs on Phil Foden, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8nypvz22no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T20:46:50.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Real Madrid",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "9efb43a3c32979",
-      "title": "Fabrizio Romano reveals Arsenal ‘calls’ to sign Yan Diomande and immediate response",
-      "summary": "Fabrizio Romano reveals the response that Arsenal have received after trying to hijack Paris Saint-Germain’s deal for Yan Diomande.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-yan-diomande-fabrizio-romano-transfer-update",
-      "publishedAt": "2026-07-18T19:50:43.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "965a9645917282",
-      "title": "Manchester United start new signing Andrey Santos in pre-season loss to Wrexham",
-      "summary": "Brazilian makes first appearance after joining from Chelsea Carrick rings changes at half-time as United lose 1-0 in Helsinki Andrey Santos made a bright first Manchest...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/manchester-united-start-new-signing-andrey-santos-in-pre-season-loss-to-wrexham",
-      "publishedAt": "2026-07-18T19:15:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T18:49:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T18:48:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "98a30bd4609d48",
-      "title": "Man Utd ‘in talks with Tottenham’ over signing English gem and want deal ‘done quickly’",
-      "summary": "Manchester United and Tottenham Hotspur are negotiating a deal for an English left-winger, according to three sources.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-tottenham-tynan-thompson-talks",
-      "publishedAt": "2026-07-18T18:41:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3927d4e19864aa",
-      "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
-      "summary": "Fee makes Rogers most expensive English player Arsenal were also keen on Rogers, a £15m Villa signing Chelsea are poised to sign Morgan Rogers from Aston Villa for £117...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m",
-      "publishedAt": "2026-07-18T18:10:33.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
       ]
     }
   ],
