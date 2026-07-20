@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-20T09:23:03.452Z",
+  "generatedAt": "2026-07-20T14:16:05.867Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,26 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "d424658f0cd634",
-      "title": "World Cup final player ratings: Messi peters out as super-subs inspire Spain",
-      "summary": "Spain beat Argentina 1-0 in one of the most one-sided World Cup finals in history. From Ferran Torres' heroics to Lionel Messi's last dance, here are the player ratings...",
+      "id": "2122acfb101a5d",
+      "title": "Hearts, Rangers, Motherwell and Hibs find out Euro qualifying opponents",
+      "summary": "Hearts, Rangers, Motherwell and Hibernian have found out their next qualifying opponents in the Champions League, Europa League and Conference League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564993/spain-vs-argentina-player-ratings-lionel-messi-fails-to-produce-one-last-moment-of-magic-as-super-subs-guide-spain-to-world-cup-triumph",
-      "publishedAt": "2026-07-20T09:23:03.198Z",
+      "url": "https://www.skysports.com/football/news/12040/13565199/hearts-rangers-motherwell-and-hibernian-find-out-champions-league-europa-league-and-conference-league-qualifying-opponents",
+      "publishedAt": "2026-07-20T14:16:05.526Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Europa League"
+      ]
+    },
+    {
+      "id": "903ac2b5e409fb",
+      "title": "'We were the better team' - Spain beat Argentina to win World Cup",
+      "summary": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
+      "publishedAt": "2026-07-20T14:16:05.526Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -112,38 +126,39 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "49a186f20801c0",
-      "title": "Kane: Tuchel and England will learn from World Cup heartbreak",
-      "summary": "England captain Harry Kane has backed Thomas Tuchel to succeed as England head coach amid criticism of his tactics in the World Cup semi-final defeat over Argentina.",
+      "id": "f39a9ac1ed5872",
+      "title": "What would a 64-team World Cup look like - and could it work in 2030?",
+      "summary": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this compet...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565042/harry-kane-backs-thomas-tuchel-to-succeed-as-england-head-coach-and-refuses-to-rule-out-playing-in-2030-world-cup",
-      "publishedAt": "2026-07-20T09:23:03.198Z",
-      "category": "worldcup",
+      "url": "https://www.skysports.com/football/news/12040/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work",
+      "publishedAt": "2026-07-20T14:16:05.525Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "9cbcb24a0931a7",
-      "title": "Spain's commitment to possession game vindicated by World Cup glory",
-      "summary": "It was not the thrilling final of four years ago, or even the carefree goal-fest of the previous evening but Spain still deserve enormous credit for dethroning Argentin...",
+      "id": "e418af01353f04",
+      "title": "Chelsea sign Malard from Man Utd",
+      "summary": "Chelsea have completed the signing of Manchester United forward Melvine Malard on a £750,000 deal.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565110/world-cup-win-for-spain-over-argentina-is-a-triumph-for-the-spanish-style-and-their-commitment-to-possession-football",
-      "publishedAt": "2026-07-20T09:23:03.198Z",
-      "category": "worldcup",
+      "url": "https://www.skysports.com/football/news/12040/13565293/melvine-malard-chelsea-complete-signing-of-manchester-united-forward-on-750000-deal",
+      "publishedAt": "2026-07-20T14:16:05.525Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
       "id": "c29bd90e5d9859",
-      "title": "'Nothing to blame them for' - Argentina papers defend team after dismal final",
+      "title": "'Nothing to blame them for' - Argentina papers defend team after dismal final and brawl",
       "summary": "Argentina's national media defended their team's performance in the World Cup final - despite a defensive and ill-disciplined display.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display",
-      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "publishedAt": "2026-07-20T14:16:05.525Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -156,7 +171,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "It's all over - and, once again, it's not coming home.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028",
-      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "publishedAt": "2026-07-20T14:16:05.525Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -164,12 +179,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "903ac2b5e409fb",
-      "title": "'We were the better team' - Spain beat Argentina to win World Cup",
-      "summary": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
+      "id": "81ca0709e58a4a",
+      "title": "World Cup 2026 in Numbers!",
+      "summary": "How many goals, red cards and penalties? Take a look at the World Cup in 2026 in Numbers.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
-      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "url": "https://www.skysports.com/watch/video/13565224/the-world-cup-2026-in-numbers",
+      "publishedAt": "2026-07-20T14:16:05.524Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,26 +192,103 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "547a8ab2a17c8c",
-      "title": "The Verdict: No 'fairytale finale' for Messi as Spain win second World Cup",
-      "summary": "Sky Sports football correspondent Rob Dorsett analyses Spain's victory over Argentina in the World Cup final - plus the first half-time show in the history of the tourn...",
+      "id": "016f3b009d5eeb",
+      "title": "Rohit shrugs off retirement chat as he plans to play on through the 'noise'",
+      "summary": "India great Rohit Sharma has shrugged off talk about his international future after scoring a century against England in the ODI series decider at Lord's.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13565123/world-cup-2026-messis-argentina-fairy-tale-title-defence-ends-as-spain-claim-second-crown",
-      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13565255/rohit-sharma-india-batting-great-brushes-off-retirement-chat-after-hitting-century-against-england-at-lords-in-third-odi",
+      "publishedAt": "2026-07-20T14:16:05.524Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "09062913d2abb9",
+      "title": "Guardiola holds talks over Italy head coach role",
+      "summary": "The Italian Football Federation (FIGC) has met with Pep Guardiola to convince him to take over as national team head coach, according to Sky in Italy.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
+      "publishedAt": "2026-07-20T14:16:05.524Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5c11457e6a4fba",
+      "title": "Fulham latest: Arbeloa plots double raid for Real Madrid duo Mastantuono and Garcia",
+      "summary": "Fulham latest: Arbeloa plots double raid for Real Madrid duo Mastantuono and Garcia",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-07-20T14:16:05.524Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "2f50bacf2d7c6a",
+      "title": "'Rogers move is crazy money for a player Chelsea don't need!'",
+      "summary": "In his latest column, Sky Sports' Paul Merson gives his reaction to Morgan Rogers' stunning £117m move to Chelsea.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565204/morgan-rogers-to-chelsea-paul-merson-says-blues-do-not-need-to-spend-117m-on-aston-villa-forward-as-they-have-cole-palmer",
+      "publishedAt": "2026-07-20T14:16:05.524Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b7714ea3eeb27e",
+      "title": "Tuchel's subs, Rodri's rank, Messi's masterclass - World Cup highs & lows",
+      "summary": "As the World Cup draws to a close, with Spain crowned champions for the second time in their history, Sky Sports writers reflect on a tournament that captured the world...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13563289/2026-world-cup-awards-thomas-tuchel-rodri-harry-kane-and-lionel-messi-all-feature-in-tournament-highs-and-lows",
+      "publishedAt": "2026-07-20T14:16:05.524Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
         "World Cup"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T14:12:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "18cf68f23fc53e",
+      "title": "Chelsea sign Man Utd striker Malard for £850,000",
+      "summary": "France forward Melvine Malard links up again with Chelsea manager Sonia Bompastor, who gave her her debut at Lyon.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62120n7y8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T14:09:05.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Chelsea"
       ]
     },
     {
       "id": "a72db1d50980d4",
-      "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
+      "title": "World Cup 2026: Spain’s champions land in Madrid for heroes’ welcome after beating Argentina – live",
       "summary": "⚽ Latest World Cup news as tournament comes to close ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Back to the action on the field, or rather slightly adjac...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
-      "publishedAt": "2026-07-20T09:16:40.000Z",
+      "publishedAt": "2026-07-20T13:58:04.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -206,83 +298,38 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "df58006bfb3fce",
-      "title": "The 20 best footballers out of contract and available for free NOW",
-      "summary": "Ibrahima Konate and Marcos Senesi got their clubs, so who is left on the unwanted, free agent pile now it is July?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-footballers-available-free-transfers-contract-summer-2026",
-      "publishedAt": "2026-07-20T08:55:13.000Z",
-      "category": "transfer",
+      "id": "daee9d2fbb3120",
+      "title": "World Cup final watched by 15.8m people on BBC",
+      "summary": "Spain's victory in Sunday's World Cup final attracts a peak audience of 15.8 million on BBC One and BBC iPlayer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq89v9jgwpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T13:57:41.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football"
+        "World Cup"
       ]
     },
     {
-      "id": "584d0176d2409e",
-      "title": "Man Utd offered chance to sign top Liverpool, Arsenal target as PSG make huge U-turn",
-      "summary": "Man Utd have been given the chance to sign PSG winger Bradley Barcola amid interest from Liverpool and Arsenal, according to reports.",
+      "id": "ce12593ac9ecfe",
+      "title": "Three major factors see Guimaraes reach final decision on leaving Newcastle for Arsenal",
+      "summary": "Bruno Guimaraes is convinced he needs to leave Newcastle United this summer to join Arsenal over ‘three major factors’, according to reports.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-offered-chance-sign-liverpool-barcola-psg-u-turn",
-      "publishedAt": "2026-07-20T08:51:21.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Psg",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal eye England defender, Man Utd to move on France star",
-      "summary": "Arsenal are said to be keen on an England defender but they have plenty of competition, while Man Utd are set to move decisively for a France midfielder…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-20T08:45:01.000Z",
+      "url": "https://www.football365.com/news/arsenal-guimaraes-three-major-factors-decision-leave-newcastle",
+      "publishedAt": "2026-07-20T13:56:12.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
         "Arsenal"
       ]
     },
     {
-      "id": "2ec528967fe40b",
-      "title": "Stay or go - at 28, Rashford faces big Man Utd call",
-      "summary": "The World Cup is over, and Marcus Rashford returns home not knowing if his future at club level lies with Manchester United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8m7n5827xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T08:26:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1a6b33c760a359",
-      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
-      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
-      "publishedAt": "2026-07-20T08:21:46.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "3d2edc3e4a2b24",
-      "title": "Thank God Argentina and their small-d*** energy lost to footballers of Spain",
-      "summary": "Spain saved football and the World Cup by beating Argentina, who behaved like thugs once again in the final.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/thank-god-argentina-lost-footballers-spain-mailbox",
-      "publishedAt": "2026-07-20T08:21:32.000Z",
+      "id": "7c287f9b8aae26",
+      "title": "Tuchel is clinging to an outdated English style – he must let players take risks | Jacob Steinberg",
+      "summary": "Head coach should ditch a physical approach that has rarely worked and embrace England’s gifted ball players Only England can claim the bronze medal at the World Cup by...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/thomas-tuchel-football-assocation-fa-england-world-cup-2026-head-coach",
+      "publishedAt": "2026-07-20T13:55:15.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -291,26 +338,68 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1b2e93d9e65ec0",
-      "title": "Who were the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem",
-      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but fell behind two clubs and had to hold off Crystal Palace and Sunderland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
-      "publishedAt": "2026-07-20T08:14:06.000Z",
+      "id": "581279bc70ea9b",
+      "title": "Manager Garcia to leave Belgium when contract expires",
+      "summary": "Belgium manager Rudi Garcia will leave his role after the country's football association decided against extending his contract.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2ry9n8ygxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T13:52:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "33315f851de10f",
+      "title": "‘Beyond reproach’: Argentinian media praises Scaloni’s team despite World Cup final defeat",
+      "summary": "Clarín says team ‘gave it their all’ in losing effort La Nación: ‘They are the pride of the nation’ After Argentina lost 1-0 to Spain in the World Cup final on Sunday,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/beyond-reproach-argentinian-media-praises-scaloni-team-despite-world-cup-final-defeat",
+      "publishedAt": "2026-07-20T13:30:34.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup",
-        "Arsenal"
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2cea200725e795",
+      "title": "Merson claims Chelsea don’t need ‘atrocious’ Rogers for £117m as Cole predicts exit",
+      "summary": "Arsenal legend Paul Merson insists that Morgan Rogers “isn’t what Chelsea needed” this summer as the Blues close in on a £117m transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-merson-atrocious-rogers-aston-villa-cole-predicts-fernandez-exit",
+      "publishedAt": "2026-07-20T13:15:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "746a7ecf82be1e",
+      "title": "Why are Premier League transfer fees soaring?",
+      "summary": "With Morgan Rogers set to become the third £100m-plus Premier League transfer of the summer, BBC Sport looks at how the market keeps growing.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g37y2nyp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T13:04:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
       ]
     },
     {
       "id": "a1e6998cd3e90c",
-      "title": "Scottish clubs to learn European qualifying opponents",
-      "summary": "Hearts, Rangers, Motherwell and Hibernian await news of potential European opponents on Monday when the third qualifying round draws are made for the Champions League,...",
+      "title": "Scottish quartet learn possible European opponents",
+      "summary": "Hearts, Rangers, Motherwell and Hibernian discover their pathways as the third qualifying round draws are made for the Champions League, Europa League and Conference Le...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c70g4v2klwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T08:07:29.000Z",
+      "publishedAt": "2026-07-20T12:50:56.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -319,12 +408,97 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f72afdd5c8f840",
-      "title": "Mbappe wins race for the 2026 World Cup golden boot",
-      "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
+      "id": "a0c4388c82a561",
+      "title": "Watch the BBC's closing World Cup montage",
+      "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T08:03:37.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T12:50:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-07-20T12:33:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2eae04d7b6c9dc",
+      "title": "The Caicedo, Wirtz and Pogba transfer records which will be smashed when Rogers joins Chelsea",
+      "summary": "Morgan Rogers will smash at least nine different transfer records when he completes his surprise £117m move from Aston Villa to Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/the-transfer-records-which-will-be-smashed-when-rogers-joins-chelsea",
+      "publishedAt": "2026-07-20T12:32:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "65425881dc3439",
+      "title": "‘A unique collective experience’: Spain media hail team’s World Cup triumph",
+      "summary": "El Mundo marks country’s ‘unique collective experience’ El Pais highlights the side’s ‘conviction of hard work’ Sometimes football is about more than just football. As...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/spain-media-hail-2026-world-cup-final-triumph",
+      "publishedAt": "2026-07-20T12:30:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "674d40461b2484",
+      "title": "Liverpool get huge £85m transfer boost as PSG ‘pass’ on Yan Diomande transfer",
+      "summary": "Liverpool have received a huge transfer boost as PSG have reportedly decided to pull out of the race to sign RB Leipzig winger Yan Diomande.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-huge-transfer-boost-psg-pass-yan-diomande-transfer",
+      "publishedAt": "2026-07-20T12:19:15.000Z",
+      "category": "transfer",
+      "region": "england france germany",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "8ee951d7ea0324",
+      "title": "Julian Alvarez considers Atletico Madrid strike as Barcelona and Arsenal transfer saga takes new twist",
+      "summary": "Julian Alvarez is effectively considering going on strike in a bid to force an exit from Atletico Madrid, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/julian-alvarez-considers-atletico-madrid-strike-barcelona-arsenal-transfer-saga-new-twist",
+      "publishedAt": "2026-07-20T12:13:48.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "81f6f48feb07e3",
+      "title": "Lionel Messi ‘a baby’ as Argentina ‘total embarrassment’ in World Cup final loss",
+      "summary": "Lionel Messi has been labelled “sad” and “a baby” as his Argentina side were “a total embarrassment” in their World Cup final loss against Spain.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lionel-messi-sad-baby-argentina-total-embarrassment",
+      "publishedAt": "2026-07-20T12:02:03.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -332,39 +506,42 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "4c2aa36240f7f7",
-      "title": "World Cup finals ranked: Argentina, Messi at centre of best and worst",
-      "summary": "The two World Cup finals held in the United States were the worst in our memories, with Lionel Messi the face of the best and worst showpieces and one in ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fifa-world-cup-finals-ranked-argentina-france-spain-brazil-italy-argentina-germany",
-      "publishedAt": "2026-07-20T07:41:11.000Z",
+      "id": "667b2ad9e96d6b",
+      "title": "Could Infantino really push through a 64-team World Cup?",
+      "summary": "If we have learned one thing from Gianni Infantino's Fifa tenure, it is that more is better. That could mean 64 teams at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T11:57:57.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
+        "World Cup",
+        "Fifa"
       ]
     },
     {
-      "id": "df276d1103a82f",
-      "title": "Romano reveals how ‘surprised’ Arsenal were beaten to Rogers by Chelsea; Diomande latest",
-      "summary": "Arsenal were hit by a “big surprise” when Chelsea swooped to hijack their deal for Morgan Rogers, according to Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-surprised-beaten-rogers-chelsea-diomande",
-      "publishedAt": "2026-07-20T07:21:18.000Z",
+      "id": "af828d16e16098",
+      "title": "João Gomes seals £38m Aston Villa move, Hall and Robinson on Manchester United list",
+      "summary": "Brazil midfielder Gomes joins from Wolves United sign young winger Thompson from Spurs The Brazil international João Gomes has joined Aston Villa in a £38m deal. The 25...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-aston-villa-lewis-hall-antonee-robinson-manchester-united-transfer-latest",
+      "publishedAt": "2026-07-20T11:45:42.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Arsenal",
-        "Chelsea"
+        "Football",
+        "Transfer",
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
-      "id": "aae01dc0eb0d47",
-      "title": "Even loveless Infantino and Trump could not ruin the undefeated World Cup",
-      "summary": "In the USA we have a saying: everything Trump touches dies. But the World Cup didn’t die because it’s bigger than Trump and Infantino.",
+      "id": "cae92c226fbced",
+      "title": "Argentina thuggery is consequence of World Cup referee leniency",
+      "summary": "We all want the game to flow but then we don’t want Argentina in the World Cup final. The inquests continue.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/infantino-trump-ruin-world-cup-opinion",
-      "publishedAt": "2026-07-20T07:13:43.000Z",
+      "url": "https://www.football365.com/news/argentina-thuggery-world-cup-referees-mailbox",
+      "publishedAt": "2026-07-20T11:33:36.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -372,12 +549,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "80c73ec3202f15",
-      "title": "World Cup 2026 Power Rankings: Spain rule, but where did the other 47 finish?",
-      "summary": "We know the order for the top four, but where did every team end up in the final, definitive 2026 World Cup Power Rankings?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
-      "publishedAt": "2026-07-20T07:03:47.000Z",
+      "id": "564b3bf70203e6",
+      "title": "Argentina boss Scaloni leaves press conference in tears",
+      "summary": "Argentina manager Lionel Scaloni leaves his post-match news conference in tears when talking about his future after Sunday's World Cup final defeat by Spain.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvglel7g7v2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T11:25:29.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -385,12 +562,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "556f488fcb6698",
-      "title": "Top 30: from half a million World Cup photos, why I love these the most",
-      "summary": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral, that delicious diving header from Jude Bellingham and a humbling...",
+      "id": "8c6ffdacc7e9ce",
+      "title": "Ugly scenes as Argentina lose World Cup final – video",
+      "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 de...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery",
-      "publishedAt": "2026-07-20T07:00:49.000Z",
+      "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+      "publishedAt": "2026-07-20T11:21:26.000Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -400,196 +577,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "873b6fd7daeba1",
-      "title": "Podcast: World Cup lessons & Celtic's transfer standstill",
-      "summary": "What has the World Cup changed - and why are Celtic fans losing patience?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nzs5zc?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "0d59eed9ce65a4",
-      "title": "Celtic revive chase for striker Hogh - gossip",
-      "summary": "Celtic rekindle interest in Norway-based striker and receive encouragement in hunt for a new goalkeeper...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ceqexpndrnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T06:53:12.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "fc44e554a67fef",
-      "title": "Who will win the 2026 Ballon d’Or? Rodri now the favourite for second trophy",
-      "summary": "The Ballon d’Or was always going to be intrinsically linked with the World Cup so that’s why Rodri is now the favourite.",
+      "id": "48608a767a3752",
+      "title": "Vinicius Jr ‘tops list’ of Arsenal transfer targets after Morgan Rogers ‘snub’",
+      "summary": "Vinicius Jr is top of a list of three potential new Arsenal targets after the Morgan Rogers snub. Alas, that list is not actually Arsenal’s list.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-the-2026-ballon-dor-yamal-the-runaway-early-favourite",
-      "publishedAt": "2026-07-20T06:20:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Five-year net spend table now topped by Spurs after Tonali transfer",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have just jumped over Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-07-20T06:20:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "87d72d8e981499",
-      "title": "Arsenal line up Stones free transfer - Monday's gossip",
-      "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T05:59:22.000Z",
+      "url": "https://www.football365.com/news/arsenal-vinicius-jr-morgan-rogers-snub-transfer-target-mediawatch",
+      "publishedAt": "2026-07-20T11:07:54.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "109c4ba27accb9",
-      "title": "Spurs are biggest spenders of the 2026 summer transfer window",
-      "summary": "Four Premier League clubs are at the top of the biggest spenders list for the summer of 2026 with Bayern and Barcelona playing catch-up.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-07-20T05:50:50.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Barcelona",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "47c6c7c44ab6a5",
-      "title": "Who am I? Guess World Cup star No 43",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0png1j1lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T05:44:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "09f1c073f21d13",
-      "title": "Spain are world champions - World Cup Daily",
-      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Rate, review, share on Apple Podcasts and join t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily",
-      "publishedAt": "2026-07-20T02:59:13.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "909f00a600e588",
-      "title": "16 Conclusions on the World Cup final: abysmal Argentina, pathetic Fernandez, brilliant Spain, weird HT show",
-      "summary": "Spain were laughably deserving winners of a ridiculously American World Cup final against an abysmal Argentina and their childish players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/16-conclusions-2026-world-cup-final-argentina-spain-fernandez-messi-half-time-show",
-      "publishedAt": "2026-07-20T02:29:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5f030ebfb24291",
-      "title": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
-      "summary": "Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T01:28:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4b806ec8042852",
-      "title": "Sixteen titles in five years - why Spain are a dominant force",
-      "summary": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T01:19:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "22acba31199bf5",
-      "title": "World Cup quiz: Can you name every winner?",
-      "summary": "With the World Cup final taking place on Sunday, put your knowledge of the previous winners to the test.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k2zxdl5edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T01:08:16.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0b3b3510b9118f",
-      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump,...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T00:44:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "0b5d247589a529",
-      "title": "Argentina boss Scaloni leaves news conference in tears talking about his future",
-      "summary": "Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T00:29:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Arsenal"
       ]
     }
   ],
