@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T03:34:35.554Z",
+  "generatedAt": "2026-07-20T09:23:03.452Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "e6d87949fad4b0",
-      "title": "Rodri named World Cup Best Player as Spain dominate awards",
-      "summary": "Rodri named World Cup Best Player as Spain dominate awards",
+      "id": "d424658f0cd634",
+      "title": "World Cup final player ratings: Messi peters out as super-subs inspire Spain",
+      "summary": "Spain beat Argentina 1-0 in one of the most one-sided World Cup finals in history. From Ferran Torres' heroics to Lionel Messi's last dance, here are the player ratings...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans",
-      "publishedAt": "2026-07-20T03:34:35.382Z",
+      "url": "https://www.skysports.com/football/news/12040/13564993/spain-vs-argentina-player-ratings-lionel-messi-fails-to-produce-one-last-moment-of-magic-as-super-subs-guide-spain-to-world-cup-triumph",
+      "publishedAt": "2026-07-20T09:23:03.198Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -112,25 +112,51 @@
       ]
     },
     {
-      "id": "122e1b854f341d",
-      "title": "Wade, MVG, Anderson, Van Veen pick up first-round Matchplay wins",
-      "summary": "James Wade came through a tough 10-7 battle against Jermaine Wattimena to make it through to the second round of the World Matchplay at Blackpool’s Winter Gardens.",
+      "id": "49a186f20801c0",
+      "title": "Kane: Tuchel and England will learn from World Cup heartbreak",
+      "summary": "England captain Harry Kane has backed Thomas Tuchel to succeed as England head coach amid criticism of his tactics in the World Cup semi-final defeat over Argentina.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13564995/world-matchplay-darts-james-wade-battles-through-on-20th-appearance-in-blackpool-as-gian-van-veen-comes-up-with-crucial-victory",
-      "publishedAt": "2026-07-20T03:34:35.381Z",
-      "category": "transfer",
-      "region": "italy",
+      "url": "https://www.skysports.com/football/news/12040/13565042/harry-kane-backs-thomas-tuchel-to-succeed-as-england-head-coach-and-refuses-to-rule-out-playing-in-2030-world-cup",
+      "publishedAt": "2026-07-20T09:23:03.198Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Inter"
+        "World Cup"
       ]
     },
     {
-      "id": "d424658f0cd634",
-      "title": "World Cup final player ratings: Messi peters out as super-subs inspire Spain",
-      "summary": "Spain beat Argentina 1-0 in one of the most one-sided World Cup finals in history. From Ferran Torres' heroics to Lionel Messi's last dance, here are the player ratings...",
+      "id": "9cbcb24a0931a7",
+      "title": "Spain's commitment to possession game vindicated by World Cup glory",
+      "summary": "It was not the thrilling final of four years ago, or even the carefree goal-fest of the previous evening but Spain still deserve enormous credit for dethroning Argentin...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564993/spain-vs-argentina-player-ratings-lionel-messi-fails-to-produce-one-last-moment-of-magic-as-super-subs-guide-spain-to-world-cup-triumph",
-      "publishedAt": "2026-07-20T03:34:35.379Z",
+      "url": "https://www.skysports.com/football/news/12040/13565110/world-cup-win-for-spain-over-argentina-is-a-triumph-for-the-spanish-style-and-their-commitment-to-possession-football",
+      "publishedAt": "2026-07-20T09:23:03.198Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c29bd90e5d9859",
+      "title": "'Nothing to blame them for' - Argentina papers defend team after dismal final",
+      "summary": "Argentina's national media defended their team's performance in the World Cup final - despite a defensive and ill-disciplined display.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display",
+      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c5402e5eddd57e",
+      "title": "England's World Cup assessed - by Sky Sports readers",
+      "summary": "It's all over - and, once again, it's not coming home.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13564884/englands-world-cup-assessed-by-sky-sports-readers-thomas-tuchel-tactics-players-expectations-and-what-next-for-euro-2028",
+      "publishedAt": "2026-07-20T09:23:03.197Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -139,11 +165,333 @@
     },
     {
       "id": "903ac2b5e409fb",
-      "title": "Spain beat Argentina to win World Cup",
+      "title": "'We were the better team' - Spain beat Argentina to win World Cup",
       "summary": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/spain-vs-argentina/report/549869",
-      "publishedAt": "2026-07-20T03:34:35.376Z",
+      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "547a8ab2a17c8c",
+      "title": "The Verdict: No 'fairytale finale' for Messi as Spain win second World Cup",
+      "summary": "Sky Sports football correspondent Rob Dorsett analyses Spain's victory over Argentina in the World Cup final - plus the first half-time show in the history of the tourn...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13565123/world-cup-2026-messis-argentina-fairy-tale-title-defence-ends-as-spain-claim-second-crown",
+      "publishedAt": "2026-07-20T09:23:03.197Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a72db1d50980d4",
+      "title": "World Cup 2026: latest news and reaction after Spain beat Argentina to win trophy – live",
+      "summary": "⚽ Latest World Cup news as tournament comes to close ⚽ Player guide | Golden Boot | Follow on TikTok | Mail us Back to the action on the field, or rather slightly adjac...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
+      "publishedAt": "2026-07-20T09:16:40.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "df58006bfb3fce",
+      "title": "The 20 best footballers out of contract and available for free NOW",
+      "summary": "Ibrahima Konate and Marcos Senesi got their clubs, so who is left on the unwanted, free agent pile now it is July?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-footballers-available-free-transfers-contract-summer-2026",
+      "publishedAt": "2026-07-20T08:55:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "584d0176d2409e",
+      "title": "Man Utd offered chance to sign top Liverpool, Arsenal target as PSG make huge U-turn",
+      "summary": "Man Utd have been given the chance to sign PSG winger Bradley Barcola amid interest from Liverpool and Arsenal, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-offered-chance-sign-liverpool-barcola-psg-u-turn",
+      "publishedAt": "2026-07-20T08:51:21.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Psg",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Arsenal eye England defender, Man Utd to move on France star",
+      "summary": "Arsenal are said to be keen on an England defender but they have plenty of competition, while Man Utd are set to move decisively for a France midfielder…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-20T08:45:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2ec528967fe40b",
+      "title": "Stay or go - at 28, Rashford faces big Man Utd call",
+      "summary": "The World Cup is over, and Marcus Rashford returns home not knowing if his future at club level lies with Manchester United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8m7n5827xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T08:26:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-07-20T08:21:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "3d2edc3e4a2b24",
+      "title": "Thank God Argentina and their small-d*** energy lost to footballers of Spain",
+      "summary": "Spain saved football and the World Cup by beating Argentina, who behaved like thugs once again in the final.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thank-god-argentina-lost-footballers-spain-mailbox",
+      "publishedAt": "2026-07-20T08:21:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1b2e93d9e65ec0",
+      "title": "Who were the highest-scoring clubs at the 2026 World Cup? Arsenal best in Prem",
+      "summary": "Arsenal took an early lead in terms of World Cup club scorers, but fell behind two clubs and had to hold off Crystal Palace and Sunderland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-the-highest-scoring-clubs-2026-world-cup",
+      "publishedAt": "2026-07-20T08:14:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a1e6998cd3e90c",
+      "title": "Scottish clubs to learn European qualifying opponents",
+      "summary": "Hearts, Rangers, Motherwell and Hibernian await news of potential European opponents on Monday when the third qualifying round draws are made for the Champions League,...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70g4v2klwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T08:07:29.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Europa League"
+      ]
+    },
+    {
+      "id": "f72afdd5c8f840",
+      "title": "Mbappe wins race for the 2026 World Cup golden boot",
+      "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T08:03:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4c2aa36240f7f7",
+      "title": "World Cup finals ranked: Argentina, Messi at centre of best and worst",
+      "summary": "The two World Cup finals held in the United States were the worst in our memories, with Lionel Messi the face of the best and worst showpieces and one in ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fifa-world-cup-finals-ranked-argentina-france-spain-brazil-italy-argentina-germany",
+      "publishedAt": "2026-07-20T07:41:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "df276d1103a82f",
+      "title": "Romano reveals how ‘surprised’ Arsenal were beaten to Rogers by Chelsea; Diomande latest",
+      "summary": "Arsenal were hit by a “big surprise” when Chelsea swooped to hijack their deal for Morgan Rogers, according to Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-romano-surprised-beaten-rogers-chelsea-diomande",
+      "publishedAt": "2026-07-20T07:21:18.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "aae01dc0eb0d47",
+      "title": "Even loveless Infantino and Trump could not ruin the undefeated World Cup",
+      "summary": "In the USA we have a saying: everything Trump touches dies. But the World Cup didn’t die because it’s bigger than Trump and Infantino.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/infantino-trump-ruin-world-cup-opinion",
+      "publishedAt": "2026-07-20T07:13:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "80c73ec3202f15",
+      "title": "World Cup 2026 Power Rankings: Spain rule, but where did the other 47 finish?",
+      "summary": "We know the order for the top four, but where did every team end up in the final, definitive 2026 World Cup Power Rankings?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/2026-world-cup-power-rankings",
+      "publishedAt": "2026-07-20T07:03:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "556f488fcb6698",
+      "title": "Top 30: from half a million World Cup photos, why I love these the most",
+      "summary": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral, that delicious diving header from Jude Bellingham and a humbling...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery",
+      "publishedAt": "2026-07-20T07:00:49.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "873b6fd7daeba1",
+      "title": "Podcast: World Cup lessons & Celtic's transfer standstill",
+      "summary": "What has the World Cup changed - and why are Celtic fans losing patience?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nzs5zc?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "0d59eed9ce65a4",
+      "title": "Celtic revive chase for striker Hogh - gossip",
+      "summary": "Celtic rekindle interest in Norway-based striker and receive encouragement in hunt for a new goalkeeper...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqexpndrnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T06:53:12.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "fc44e554a67fef",
+      "title": "Who will win the 2026 Ballon d’Or? Rodri now the favourite for second trophy",
+      "summary": "The Ballon d’Or was always going to be intrinsically linked with the World Cup so that’s why Rodri is now the favourite.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-will-win-the-2026-ballon-dor-yamal-the-runaway-early-favourite",
+      "publishedAt": "2026-07-20T06:20:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Five-year net spend table now topped by Spurs after Tonali transfer",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have just jumped over Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-07-20T06:20:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "87d72d8e981499",
+      "title": "Arsenal line up Stones free transfer - Monday's gossip",
+      "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T05:59:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "109c4ba27accb9",
+      "title": "Spurs are biggest spenders of the 2026 summer transfer window",
+      "summary": "Four Premier League clubs are at the top of the biggest spenders list for the summer of 2026 with Bayern and Barcelona playing catch-up.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
+      "publishedAt": "2026-07-20T05:50:50.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Barcelona",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "47c6c7c44ab6a5",
+      "title": "Who am I? Guess World Cup star No 43",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0png1j1lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T05:44:11.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -233,7 +581,7 @@
     },
     {
       "id": "0b5d247589a529",
-      "title": "Scaloni leaves news conference in tears talking about his future",
+      "title": "Argentina boss Scaloni leaves news conference in tears talking about his future",
       "summary": "Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo?at_medium=RSS&at_campaign=rss",
@@ -242,351 +590,6 @@
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "f978413c2feec6",
-      "title": "Victory for football? Spain beat Argentina to win World Cup",
-      "summary": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T00:28:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f490f91aadce01",
-      "title": "'The reaction is terrible' - World Cup final turns ugly at full-time",
-      "summary": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T00:22:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab73fd42d0b202",
-      "title": "Trump show offers fitting fever-dream end to a World Cup of excess and damage",
-      "summary": "Football appeared a sideshow for much of the last afternoon of a tournament nurtured to indulge the cult of the individual It ended almost as Gianni Infantino and Donal...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/20/donald-trump-world-cup-excess-damage-football",
-      "publishedAt": "2026-07-19T23:59:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "538fc58ca231f3",
-      "title": "Football Daily: Spain win the World Cup",
-      "summary": "Spain won 1-0 against Argentina after extra time in New Jersey.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nzr634?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T23:39:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2a0b8b74e7e602",
-      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T23:17:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "ab6d87c8dde8a5",
-      "title": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer",
-      "summary": "Game’s greatest player will not see his legacy sullied by defeat to Spain but his team’s display destroyed the game Playing on the grandest stage in sport for the last...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
-      "publishedAt": "2026-07-19T23:06:16.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ca4b25521fec84",
-      "title": "At the World Cup of superstars, a team take home the trophy | Sid Lowe",
-      "summary": "The European champions conceded just one goal in the tournament and Spain’s success is a victory for a system Release the pressure, let it out. All of it and all of the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/20/world-cup-2026-final-spain-argentina",
-      "publishedAt": "2026-07-19T23:05:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "31994017dd460b",
-      "title": "Mbappe first to win Golden Boot twice as Rodri named World Cup's best player",
-      "summary": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri land...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T23:00:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "33f33a5ddaaceb",
-      "title": "The 2026 World Cup final: Spain 1-0 Argentina – in pictures",
-      "summary": "After six weeks of football, Spain defeated Argentina to win their second title in the 104th and final game of the 2026 World Cup Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
-      "publishedAt": "2026-07-19T22:55:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4dfb78f15d2993",
-      "title": "Spain seal second World Cup as Torres sinks toothless Argentina in extra time",
-      "summary": "Substitute Ferran Torres crashed home the winner at the start of the second period of extra time as Spain beat a toothless but resilient Argentina side 1-0.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spain-argentina-world-cup-final-match-report",
-      "publishedAt": "2026-07-19T22:46:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "51bace5a9fb121",
-      "title": "Who made the difference for Spain? World Cup final player ratings",
-      "summary": "BBC Sport journalist Neil Johnston rates the players after the World Cup final between Spain and Argentina.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjgp7656xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T22:44:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "72e2522f517946",
-      "title": "Spain 1-0 Argentina (aet): 2026 World Cup final player ratings",
-      "summary": "Rodri looks back to his imperious best in Spain’s midfield while Enzo Fernández has a day to forget for Argentina Unai Simón Was alert to clear danger after Cubarsí’s e...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/19/spain-argentina-world-cup-final-player-ratings",
-      "publishedAt": "2026-07-19T22:35:01.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6daf5211a89044",
-      "title": "‘It was crap’: Wayne Rooney’s candour helps BBC in World Cup final TV battle",
-      "summary": "BBC scored a late goal in head-to-head with ITV over the World Cup by being in the stadium for the final “I thought it was crap,” Wayne Rooney surmised on BBC after end...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/19/world-cup-2026-final-tv-review-bbc-itv-wayne-rooney",
-      "publishedAt": "2026-07-19T22:32:52.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "698300a05c374b",
-      "title": "How the World Cup has affected your Premier League team",
-      "summary": "Now Spain have been crowned world champions after victory over Argentina in New Jersey, attention will quickly shift to the new domestic season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T22:31:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "17ff6aa52d9155",
-      "title": "Argentina and Spain serve up worst World Cup final contender but justice prevails for La Roja",
-      "summary": "Spain are world champions for the second time but only after one of the most uninspiring, yawn-inducing finals in recent memory.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/argentina-spain-worst-world-cup-final-contender-justice-prevails",
-      "publishedAt": "2026-07-19T22:23:29.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "89222b87e20856",
-      "title": "Spain win World Cup after Ferran Torres breaks 10-man Argentina’s resistance",
-      "summary": "It was the triumph of an idea, an identity. Of an unshakable and patient faith. And when it was over, Spain’s new generation having emulated the one from the 2010 World...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report",
-      "publishedAt": "2026-07-19T22:17:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1573541d165b4d",
-      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T22:16:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d43047cccba869",
-      "title": "Hits, misses and Muppets: the star-studded World Cup half-time show nobody asked for",
-      "summary": "It zipped along, cramming in Shakira, Madonna and Coldplay, but football fans may not be convinced of need for this mid-match spectacle Like hydration breaks and Donald...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
-      "publishedAt": "2026-07-19T22:11:12.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f4c62a58efc4ef",
-      "title": "Spain's Torres scores only goal of World Cup final",
-      "summary": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp30nd7vpn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T22:03:04.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e00ecd95f399ed",
-      "title": "Stars shine at the World Cup final half-time show",
-      "summary": "Madonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T20:52:06.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "87d72d8e981499",
-      "title": "Arsenal line up Stones free transfer - Monday's gossip",
-      "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T20:48:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "488ad3d1730cd6",
-      "title": "Swansea close in on deal for Motherwell's Just",
-      "summary": "Swansea City hope to tie up a deal for Motherwell's Elijah Just after he impressed for New Zealand at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T19:16:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-07-19T18:58:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-19T18:37:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Spurs star chooses between two clubs as Chelsea man nears €32m exit",
-      "summary": "A Tottenham midfielder has two clubs to decide between, while a Chelsea defender is closing in on a big move to the Italian top flight.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-19T18:25:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
       ]
     }
   ],
