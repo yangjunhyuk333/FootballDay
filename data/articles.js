@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-20T19:48:08.977Z",
+  "generatedAt": "2026-07-21T03:15:09.198Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,55 +99,42 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "6dcf1c217be535",
-      "title": "A tribute to Kevin Keegan | 1951-2026",
-      "summary": "Sky Sports takes a look back at the incredible career of former England manager and legendary footballer Kevin Keegan, who has died at the age of 75.",
+      "id": "de1a0e688d3c4c",
+      "title": "England latest: Latest FIFA rankings published - where do Three Lions sit?",
+      "summary": "England latest: Latest FIFA rankings published - where do Three Lions sit?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13565319/kevin-keegan-dies-at-the-age-of-75-1951-2026",
-      "publishedAt": "2026-07-20T19:48:08.763Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "81ca0709e58a4a",
-      "title": "World Cup 2026 in Numbers!",
-      "summary": "How many goals, red cards and penalties? Take a look at the World Cup in 2026 in Numbers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13565224/the-world-cup-2026-in-numbers",
-      "publishedAt": "2026-07-20T19:48:08.763Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "publishedAt": "2026-07-21T03:15:09.132Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Fifa"
       ]
     },
     {
-      "id": "016f3b009d5eeb",
-      "title": "Rohit shrugs off retirement chat as he plans to play on through the 'noise'",
-      "summary": "India great Rohit Sharma has shrugged off talk about his international future after scoring a century against England in the ODI series decider at Lord's.",
+      "id": "2c4b9b277c6bee",
+      "title": "Palace seek £55m-plus for Lacroix as talks with Chelsea begin",
+      "summary": "Chelsea are in talks with Crystal Palace over the signing of defender Maxence Lacroix.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13565255/rohit-sharma-india-batting-great-brushes-off-retirement-chat-after-hitting-century-against-england-at-lords-in-third-odi",
-      "publishedAt": "2026-07-20T19:48:08.763Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "09062913d2abb9",
-      "title": "Guardiola holds talks over Italy head coach role",
-      "summary": "The Italian Football Federation (FIGC) has met with Pep Guardiola to convince him to take over as national team head coach, according to Sky in Italy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach",
-      "publishedAt": "2026-07-20T19:48:08.763Z",
+      "url": "https://www.skysports.com/football/news/12040/13565423/maxence-lacroix-transfer-news-chelsea",
+      "publishedAt": "2026-07-21T03:15:09.132Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f039877339acdd",
+      "title": "Papers: Man Utd looking at Hall, Robinson to strengthen left-back options",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565441/arsenal-planning-short-term-move-for-free-agent-john-stones-following-william-salibas-world-cup-injury-paper-talk",
+      "publishedAt": "2026-07-21T03:15:09.132Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -156,7 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The biggest World Cup in history produced numbers to match. Forty-eight teams, 104 games and three host countries delivered a record 308 goals before Spain were crowned...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13563675/world-cup-2026-data-analysis-record-goals-bigger-fifa-ranking-gaps-older-starting-xis-travel-heat-penalties-substitutes-and-how-spain-won-it",
-      "publishedAt": "2026-07-20T19:48:08.762Z",
+      "publishedAt": "2026-07-21T03:15:09.132Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -169,11 +156,109 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Morgan Rogers is set to join Chelsea in a British-record £117m from Aston Villa - and his arrival is set to have a knock-on effect for Xabi Alonso's Blues.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad",
-      "publishedAt": "2026-07-20T19:48:08.762Z",
+      "publishedAt": "2026-07-21T03:15:09.132Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "6dcf1c217be535",
+      "title": "A tribute to Kevin Keegan | 1951-2026",
+      "summary": "Sky Sports takes a look back at the incredible career of former England manager and legendary footballer Kevin Keegan, who has died at the age of 75.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13565319/kevin-keegan-dies-at-the-age-of-75-1951-2026",
+      "publishedAt": "2026-07-21T03:15:09.132Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "cd53b4916d2a70",
+      "title": "Man Utd and Arsenal fight over Kone - Tuesday's gossip",
+      "summary": "Manchester United and Arsenal fight over France's Manu Kone, Nico Williams could be heading to the Premier League champions, and West Ham reject latest Crysencio Summer...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c934q4722zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T22:38:01.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T22:29:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "255aa5142a9a84",
+      "title": "Gallery: Spain celebrate World Cup triumph in Madrid",
+      "summary": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T21:50:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9373a92fb51cab",
+      "title": "Argentina players face bans as Fifa opens investigation into World Cup final brawls",
+      "summary": "Leandro Paredes was shown red card after final whistle Fifa looking into Falklands banner at England game Fifa has opened an investigation into the violent scenes that...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/argentina-players-face-bans-as-fifa-opens-investigation-into-world-cup-final-brawls",
+      "publishedAt": "2026-07-20T20:42:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "26099feddef1a4",
+      "title": "Arsenal reach decision on hijacking £55m Chelsea transfer after Morgan Rogers signs",
+      "summary": "Fabrizio Romano has revealed whether Arsenal will now hijack Chelsea’s next big-money move after Morgan Rogers put pen to paper at Stamford Bridge.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-reach-decision-hijacking-55m-chelsea-maxence-lacroix-transfer-morgan-rogers-signs",
+      "publishedAt": "2026-07-20T20:20:13.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a4b509068c107a",
+      "title": "Nearly two million people join Spain’s World Cup celebrations in Madrid",
+      "summary": "Squad arrived home at 2.30pm local time on Monday Victory festivities to centre around the Plaza de Cibeles Almost two million Spaniards, many still bleary-eyed and fee...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
+      "publishedAt": "2026-07-20T20:01:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
       ]
     },
     {
@@ -188,6 +273,19 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "World Cup",
         "Fifa"
+      ]
+    },
+    {
+      "id": "7085296798de13",
+      "title": "Football Daily",
+      "summary": "The Football Daily pays tribute to Kevin Keegan with teammates, colleagues and fans.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nzx54w?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T19:29:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -233,19 +331,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T17:51:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
       "id": "60ce56e02f8d9f",
       "title": "Guardiola in reported talks with Italy - would England come calling?",
       "summary": "Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job.",
@@ -256,19 +341,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "dc6f2beb70eb0a",
-      "title": "Hearts to 'go for it' in Champions League quest",
-      "summary": "Head coach Wouter Vrancken insists Hearts will \"go for it\" as they prepare to start their Champions League qualifying campaign at Sturm Graz on Tuesday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T17:07:27.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
       ]
     },
     {
@@ -466,6 +538,22 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "ce1fecd46405f5",
+      "title": "A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary",
+      "summary": "The former England manager may be remembered by many for his ‘I’d love it’ rant in 1996, but that should not obscure the remarkable nature of his football career Kevin...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-tribute-pioneer-superstar-liverpool-newcastle-hamburg-england",
+      "publishedAt": "2026-07-20T15:02:51.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Fifa",
+        "Liverpool"
+      ]
+    },
+    {
       "id": "5642290c2c7554",
       "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
       "summary": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty.",
@@ -503,85 +591,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "a050501923d5f1",
-      "title": "Newcastle, Liverpool and England legend Keegan dies",
-      "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T14:38:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3872ddbeeb7eaa",
-      "title": "Kevin Keegan, Liverpool legend and former Newcastle manager, dies aged 75",
-      "summary": "Keegan revealed in June 2026 he had stage four cancer Starred for Liverpool, Hamburg, Newcastle and England Kevin Keegan, the former England and Newcastle manager who w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-liverpool-legend-and-former-newcastle-manager-dies-aged-75",
-      "publishedAt": "2026-07-20T14:28:43.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0c3b0d28121c84",
-      "title": "Everton sign defender Blundell on permament deal",
-      "summary": "Hannah Blundell, who has won three England caps, says it was an \"easy decision\" to make her Everton move permanent after leaving Manchester United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T14:27:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T14:26:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "c17d86601fdf8f",
-      "title": "Liverpool sign midfielder Itamura from Feyenoord",
-      "summary": "Liverpool sign attacking midfielder Mao Itamura from Feyenoord.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly520nn5r8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T14:14:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "18cf68f23fc53e",
-      "title": "Chelsea sign Man Utd striker Malard for £850,000",
-      "summary": "France forward Melvine Malard links up again with Chelsea manager Sonia Bompastor, who gave her her debut at Lyon.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62120n7y8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T14:09:05.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
