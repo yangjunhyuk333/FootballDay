@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-21T19:37:10.567Z",
+  "generatedAt": "2026-07-22T03:13:16.458Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "69afd6735c386a",
-      "title": "Premier League referee Taylor retires",
-      "summary": "Long-serving Premier League referee Anthony Taylor is standing down after 16 years in England's top flight at the conclusion of the World Cup.",
+      "id": "fc37b38ffba0e0",
+      "title": "Chelsea sign Rogers in record-breaking £117m deal",
+      "summary": "Chelsea have completed the signing of Morgan Rogers from Aston Villa in a record-breaking £117m deal.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup",
-      "publishedAt": "2026-07-21T19:37:10.447Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d43f7bc70d0631",
-      "title": "Aston Villa in talks to sign Garnacho",
-      "summary": "Aston Villa are in talks to sign Alejandro Garnacho from Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea",
-      "publishedAt": "2026-07-21T19:37:10.447Z",
+      "url": "https://www.skysports.com/football/news/12040/13564944/morgan-rogers-transfer-news-chelsea-complete-record-breaking-117m-deal-to-sign-forward-from-aston-villa",
+      "publishedAt": "2026-07-22T03:13:15.977Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,57 +112,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "882902babb389d",
-      "title": "Charges and challenges - the scale of the task facing Maresca at Man City",
-      "summary": "Plenty of the Premier League's top clubs have rolled the managerial dice ahead of next season. Manchester City are one of those starting a new era, turning to Enzo Mare...",
+      "id": "5c94469c69c361",
+      "title": "Littler hits nine-darter in epic Matchplay win over Aspinall as MVG beaten",
+      "summary": "Luke Littler and Nathan Aspinall produced a World Matchplay epic, with the world No 1 hitting a nine-darter on the way to a mesmerising 11-8 win at the Winter Gardens i...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way",
-      "publishedAt": "2026-07-21T19:37:10.447Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4cad725a7bcae4",
-      "title": "Arsenal, Chelsea and Man Utd target Scott rejects new Bournemouth contract",
-      "summary": "Alex Scott has turned down a new Bournemouth contract amid strong interest from Arsenal, Chelsea and Manchester United, Sky Sports News understands.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united",
-      "publishedAt": "2026-07-21T19:37:10.447Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "cbde5ed1e8485b",
-      "title": "Arsenal most impacted? The clubs hit hardest by World Cup",
-      "summary": "The World Cup is over but could Premier League clubs feel the effects of the tournament as they prepare for the new season?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565569/arsenal-aston-villa-and-man-utd-among-premier-league-clubs-most-impacted-by-injuries-and-possible-world-cup-fatigue",
-      "publishedAt": "2026-07-21T19:37:10.447Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "88f957381d5faf",
-      "title": "Stokes scores century in first match for Durham after England retirement",
-      "summary": "Former England captain Ben Stokes hit a match-winning hundred in his first appearance for Durham following his international retirement.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13565739/ben-stokes-former-england-captain-hits-durham-hundred-in-first-match-after-international-retirement",
-      "publishedAt": "2026-07-21T19:37:10.446Z",
+      "url": "https://www.skysports.com/darts/news/12040/13565567/world-matchplay-darts-luke-littler-hits-nine-darter-in-epic-11-8-win-over-nathan-aspinall-as-michael-van-gerwen-beaten",
+      "publishedAt": "2026-07-22T03:13:15.976Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -189,12 +130,310 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city",
-      "publishedAt": "2026-07-21T19:37:10.446Z",
+      "publishedAt": "2026-07-22T03:13:15.976Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Chelsea"
+      ]
+    },
+    {
+      "id": "91de61ca60ee7b",
+      "title": "'Let's all calm down!' | Littler nails outrageous NINE-DARTER in OPENING leg!",
+      "summary": "Luke Littler produced an incredible nine-darter in the opening leg of his clash with Nathan Aspinall at the Winter Gardens in Blackpool.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13565798/luke-littler-hits-an-incredible-9-darter-in-opening-leg-against-nathan-aspinall",
+      "publishedAt": "2026-07-22T03:13:15.976Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "69afd6735c386a",
+      "title": "Premier League referee Taylor retires",
+      "summary": "Long-serving Premier League referee Anthony Taylor is standing down after 16 years in England's top flight at the conclusion of the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup",
+      "publishedAt": "2026-07-22T03:13:15.976Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a0875f4e854eef",
+      "title": "Enzo Fernandez: Argentina played with 'pride' and 'humility'",
+      "summary": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour aft...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565780/enzo-fernandez-says-argentina-played-with-pride-and-humility-as-fifa-investigate-world-cup-final-behaviour",
+      "publishedAt": "2026-07-22T03:13:15.975Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "ce029b43ac875e",
+      "title": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565784/xxxx-paper-talk",
+      "publishedAt": "2026-07-22T03:13:15.975Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Transfer",
+        "Psg"
+      ]
+    },
+    {
+      "id": "88f957381d5faf",
+      "title": "Stokes scores century in first match for Durham after England retirement",
+      "summary": "Former England captain Ben Stokes hit a match-winning hundred in his first appearance for Durham following his international retirement.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13565739/ben-stokes-former-england-captain-hits-durham-hundred-in-first-match-after-international-retirement",
+      "publishedAt": "2026-07-22T03:13:15.975Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "52738ec56cf1ff",
+      "title": "Hearts suffer chastening CL defeat in nightmare first game for Vrancken",
+      "summary": "New Hearts head coach Wouter Vrancken endured a nightmare debut as his side's Champions League hopes all but vanished with a 4-0 defeat against Sturm Graz.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sturm-graz-vs-hearts/report/558226",
+      "publishedAt": "2026-07-22T03:13:15.974Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "ead766a732c758",
+      "title": "Iraola wants Mac Allister & Alisson to stay with Reds",
+      "summary": "Liverpool boss Andoni Iraola wants midfielder Alexis Mac Allister and goalkeeper Alisson to remain at the club.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd7n21n2qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T22:46:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4b1a8d403d80e5",
+      "title": "Chelsea, Arsenal and Spurs all want Rashford - Wednesday's gossip",
+      "summary": "A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Villa's Ezri Konsa, and Nottingham Forest look set to sign a new defender.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70g8j875klo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T22:44:41.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Five-year net spend table now topped by £745m Chelsea",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-07-21T22:20:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "cddf3c4a662c11",
+      "title": "Every £50m+ transfer between Premier League clubs proves absurd tax",
+      "summary": "Chelsea and Spurs, with help from Man City and Liverpool, have ensured that any move between Premier League clubs costs at least £427m.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/most-expensive-transfers-between-premier-league-clubs-50m",
+      "publishedAt": "2026-07-21T22:08:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2b79ff5d59b00b",
+      "title": "Liverpool make £40m ‘offer’ to sign Barcelona star after ‘express request’ from Iraola",
+      "summary": "Liverpool have made an ‘offer’ to sign Barcelona forward Ferran Torres as they look to add to Andoni Iraola’s attack, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-make-40m-offer-to-sign-barcelona-star-after-express-request-from-iraola",
+      "publishedAt": "2026-07-21T21:57:29.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "101bd8f617500f",
+      "title": "The biggest sell-on fees ever received as Morgan Rogers misses out on record",
+      "summary": "Middlesbrough just missed out on a record sell-on fee, but will probably be happy with their share of the Morgan Rogers to Chelsea move.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/biggest-sell-on-fee-clauses-ever-received-chelsea",
+      "publishedAt": "2026-07-21T21:51:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "37e36786963c3d",
+      "title": "Bournemouth reject £64m bid from Chelsea for Scott",
+      "summary": "Bournemouth reject a £64m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T21:47:05.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c8921d66a3e495",
+      "title": "Iraola determined to keep Mac Allister and Alisson at Liverpool this season",
+      "summary": "Coach aims to strengthen with Ekitiké and Bradley out Mac Allister has been linked with move to Real Madrid Andoni Iraola has said he is determined to keep Alexis Mac A...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/21/andoni-iraola-liverpool-alexis-mac-allister-alisson-next-season",
+      "publishedAt": "2026-07-21T21:42:40.000Z",
+      "category": "worldcup",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "12748be0a274ca",
+      "title": "Morgan Rogers to Chelsea is the biggest step down in Premier League transfer history",
+      "summary": "Six of the eight most expensive transfers down the Premier League table have been to Chelsea or Spurs – and there is a new biggest ever.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/most-expensive-steps-down-premier-league-transfer-history-spurs",
+      "publishedAt": "2026-07-21T21:26:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c3981c4fe90f88",
+      "title": "Villa in talks to sign Chelsea's Garnacho",
+      "summary": "Aston Villa enter talks to sign Chelsea winger Alejandro Garnacho on loan, with a potential obligation to buy.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T21:24:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a1634016cb7acf",
+      "title": "Morgan Rogers ‘excited to join biggest club in London’ after making £117m Chelsea move",
+      "summary": "England international signs seven-year contract Xabi Alonso was key factor in Chelsea’s record signing Morgan Rogers has joined Chelsea from Aston Villa for a fee of £1...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/21/morgan-rogers-biggest-club-london-117m-chelsea-deal",
+      "publishedAt": "2026-07-21T21:16:26.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7313d317188679",
+      "title": "The last five times every Premier League club has broken their transfer record",
+      "summary": "Chelsea are the seventh Premier League club to break their transfer record this summer, with Man Utd still lagging behind everyone.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/last-five-times-every-premier-league-club-broken-transfer-record",
+      "publishedAt": "2026-07-21T21:08:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b7baaa679dec70",
+      "title": "Chelsea sign £117m Rogers - what will he bring?",
+      "summary": "Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T20:57:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-07-21T20:54:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "92bbae5ca050e3",
+      "title": "Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for £1.35bn",
+      "summary": "Bhatia resigns as a director of QPR Minority stake deal values the club at £4.5bn Liverpool’s owner is in talks over ­selling a minority stake to a consortium led by th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia",
+      "publishedAt": "2026-07-21T20:13:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -225,6 +464,20 @@ window.FOOTBALLDAY_DATA = {
         "World Cup",
         "Fifa",
         "Inter"
+      ]
+    },
+    {
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-07-21T18:58:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
       ]
     },
     {
@@ -287,19 +540,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "92bbae5ca050e3",
-      "title": "Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
-      "summary": "Bhatia backed by father-in-law Lakshmi Mittal Minority stake deal values the club at £4.5bn Liverpool’s owner is in talks over selling a significant minority stake to a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia",
-      "publishedAt": "2026-07-21T17:20:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "5ddf4fb9c89d5a",
       "title": "Tottenham risking Liverpool, Chelsea hijack for seventh signing despite being most advanced club",
       "summary": "Tottenham are reportedly running the risk of missing out on Benfica winger Andreas Schjelderup amid interest from Liverpool and Chelsea.",
@@ -342,19 +582,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c3981c4fe90f88",
-      "title": "Villa in talks to sign Chelsea's Garnacho",
-      "summary": "Aston Villa enter talks to sign Chelsea winger Alejandro Garnacho on loan, with a potential obligation to buy.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T16:16:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": "bacd6deb9ec3c2",
       "title": "Bruno Fernandes makes stunning U-turn on Man Utd future as he reaches decision on £64m transfer",
       "summary": "Man Utd captain Bruno Fernandes is now considering a move to join Turkish side Galatasaray this summer, according to reports.",
@@ -378,226 +605,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "48f950b41f3f31",
-      "title": "Liverpool now ‘serious’ for shock Tottenham signing after Spurs approve transfer",
-      "summary": "Liverpool are ‘serious’ about signing a rapid Tottenham player who Spurs fans might be more than a little disappointed to learn has the club’s approval to leave.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-serious-shock-tottenham-signing-djed-spence-spurs-approve-transfer",
-      "publishedAt": "2026-07-21T15:51:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d3d8befc47bfb2",
-      "title": "The defining moments of the 2026 World Cup",
-      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T15:45:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "4958c8199a3258",
-      "title": "Romano reveals Aston Villa have ‘sent official bid’ for Chelsea star; Villans in Leao talks",
-      "summary": "Aston Villa have made an official bid to sign Chelsea winger Alejandro Garnacho, according to Fabrizio Romano, amid interest in Rafael Leao.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-romano-send-official-bid-chelsea-leao-talks-milan",
-      "publishedAt": "2026-07-21T15:24:45.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "1791586e928bea",
-      "title": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! The Geopolitics World Cup is already fading from view, replaced by a thin July gruel of pre-season friendlies and tr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/21/football-daily-email-world-cup",
-      "publishedAt": "2026-07-21T15:05:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "0764c96dad7189",
-      "title": "‘The scrutiny is constant’: referee Anthony Taylor retires from football",
-      "summary": "The 47-year-old took charge of five World Cup matches Taylor has refereed in the Premier League for 16 years Anthony Taylor has announced his retirement from elite refe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance",
-      "publishedAt": "2026-07-21T15:05:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ead49549f42d56",
-      "title": "Man Utd initiate talks to make World Cup star their fourth signing; INEOS open to creative Zirkzee sale",
-      "summary": "Man Utd are looking to bring Orlando Gill to Old Trafford after starting talks over the signing of the World Cup star, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-initiate-talks-gill-san-lorenzo-fourth-signing-zirkzee-sale",
-      "publishedAt": "2026-07-21T14:54:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eb505cb5025d2e",
-      "title": "Derry City given suspended partial stadium closure by Uefa",
-      "summary": "Derry City are to be issued a suspended partial closure of Ryan McBride Brandywell Stadium by Uefa.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/cq6d25dzleqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T14:46:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Uefa"
-      ]
-    },
-    {
-      "id": "f20bcd5ce618fe",
-      "title": "Man Utd ‘make move’ for dominant Bologna star after CEO ‘promises’ transfer",
-      "summary": "United have acted on their interest in a Serie A star, according to a report, and a club official has already admitted a transfer is likely to happen",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-news-jhon-lucumi-move-bologna-promised-transfer",
-      "publishedAt": "2026-07-21T14:29:27.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A",
-        "Transfer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3e2cafcf313149",
-      "title": "Australia striker McNamara joins Everton",
-      "summary": "Everton sign Australia striker Holly McNamara on a free transfer from Melbourne City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:54:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:50:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "dcc666dbda34ea",
-      "title": "Arsenal could offer Tonali money and Bruno Guimaraes may still be a bargain…",
-      "summary": "The market for midfielders is steaming drunk but Bruno Guimaraes could still be a bargain if Arsenal offered Newcastle another Tonali-type fee…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-guimaraes-to-arsenal-offer-bargain-tonali-fee-newcastle",
-      "publishedAt": "2026-07-21T13:48:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "278f258f31f842",
-      "title": "What could Burnham as PM mean for football?",
-      "summary": "Andy Burnham is only into his second day as the UK's Prime Minister, but already people are wondering what this could mean for sport.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/c80nvp5d1mno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:24:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "84bf5dc75d2804",
-      "title": "Ferguson says Keegan built Newcastle's greatest team",
-      "summary": "Former Manchester United manager Sir Alex Ferguson says Kevin Keegan \"carried the love of the game on his sleeve\" as he paid tribute to his former rival.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd7nzxzdjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:21:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9047b7872daee4",
-      "title": "Fernandez defends Argentina as Messi questions remain",
-      "summary": "Midfielder Enzo Fernandez claims Argentina represented their nation \"in the best possible way\" in the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:19:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5f462287c08038",
-      "title": "Man City agree terms with £85m star as Ornstein reveals medical for Arsenal man to join Maresca’s side",
-      "summary": "According to reports, Manchester City have reached an ‘agreement’ over personal terms to sign Lille and Morocco star Ayyoud Bouaddi.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-agree-terms-85m-star-ornstein-reveals-medical-arsenal-man",
-      "publishedAt": "2026-07-21T13:14:41.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "165d55209c1fcc",
-      "title": "Keeper Martinez may 'step aside' from Argentina",
-      "summary": "Argentina goalkeeper Emi Martinez says he is considering whether it is \"time to step aside\" from international football after his side's 1-0 defeat to Spain in the Worl...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62xzle86n4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:01:20.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
       ]
     }
   ],
