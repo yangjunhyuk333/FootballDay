@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-23T03:19:59.118Z",
+  "generatedAt": "2026-07-23T08:36:30.791Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,40 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "79f4e374abdd50",
+      "title": "Casemiro joins Inter Miami but club faces 'tampering' investgation",
+      "summary": "Casemiro has joined Inter Miami on a free transfer after leaving Manchester United.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
+      "publishedAt": "2026-07-23T08:36:30.318Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ad54889c454b77",
+      "title": "Menzies provides update after falling ill on World Matchplay stage",
+      "summary": "Cameron Menzies' match against Ross Smith at the World Matchplay Darts was abandoned after the Scot became dizzy on stage and later fainted at the Winter Gardens on Wed...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/darts/news/12040/13566098/world-matchplay-darts-cameron-menzies-withdraws-after-becoming-unwell-on-stage-during-second-round-match-against-ross-smith",
+      "publishedAt": "2026-07-23T08:36:30.318Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
       "id": "b958d668fcbb9d",
       "title": "Papers: Rodri pushing for Real Madrid move",
       "summary": "The top stories and transfer rumours from Thursday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566135/man-city-transfer-news-rodri-pushing-for-real-madrid-move-despite-being-set-to-undergo-back-surgery",
-      "publishedAt": "2026-07-23T03:19:58.902Z",
+      "publishedAt": "2026-07-23T08:36:30.318Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -118,7 +146,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal retain an interest in Bradley Barcola after missing out on Morgan Rogers to Chelsea, according to Sky Sports News reporter Dharmesh Sheth.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566027/bradley-barcola-arsenal-retain-an-interest-in-paris-saint-germain-forward-after-missing-out-on-morgan-rogers-to-chelsea",
-      "publishedAt": "2026-07-23T03:19:58.902Z",
+      "publishedAt": "2026-07-23T08:36:30.318Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -128,12 +156,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "2605325e6f63e3",
+      "title": "Saliba out for 'extended period' with back injury",
+      "summary": "Arsenal have confirmed William Saliba will be out for an extended period with a back injury.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem",
+      "publishedAt": "2026-07-23T08:36:30.317Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "819d989ac6ae7d",
-      "title": "Aston Villa agree deal to sign Garnacho",
+      "title": "Villa agree deal to sign Garnacho...but it's complicated",
       "summary": "Aston Villa have agreed a deal to sign Alejandro Garnacho from Chelsea.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13565869/alejandro-garnacho-transfer-news-aston-villa-agree-deal-with-chelsea-for-winger",
-      "publishedAt": "2026-07-23T03:19:58.901Z",
+      "publishedAt": "2026-07-23T08:36:30.317Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -141,44 +182,179 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "79f4e374abdd50",
-      "title": "Casemiro joins Inter Miami on free transfer",
-      "summary": "Casemiro has joined Inter Miami on a free transfer after leaving Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13556097/casemiro-transfer-news-former-man-utd-midfielder-joins-inter-miami-on-free-transfer",
-      "publishedAt": "2026-07-23T03:19:58.901Z",
+      "id": "6dbb9c4ca3bd8b",
+      "title": "England failed at World Cup through ‘sentiment, reputation and fear’",
+      "summary": "Yes we are still talking about England’s failure at the World Cup a week later. But also Spain, Man City, Arsenal and more.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-failed-world-cup-sentiment-reputation-fear-mailbox",
+      "publishedAt": "2026-07-23T08:19:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "55181387439c47",
+      "title": "Ruiz & Gavi's reward for World Cup win... 150kg of tomatoes",
+      "summary": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T07:54:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "852da149d53a6a",
+      "title": "Man Utd will submit formal offer for fifth signing imminently after agent receives ‘economic proposal’",
+      "summary": "Manchester United are planning to bid for a 2026 World Cup star and could make an offer before this weekend, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/orlando-gill-manchester-united-bid-san-lorenzo",
+      "publishedAt": "2026-07-23T07:43:42.000Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Transfer",
-        "Manchester",
-        "Inter"
+        "World Cup",
+        "Manchester"
       ]
     },
     {
-      "id": "ad54889c454b77",
-      "title": "Menzies withdraws from World Matchplay Darts after becoming unwell on stage",
-      "summary": "Cameron Menzies' match against Ross Smith at the World Matchplay Darts was abandoned after the Scot became dizzy on stage and later fainted at the Winter Gardens on Wed...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13566098/world-matchplay-darts-cameron-menzies-withdraws-after-becoming-unwell-on-stage-during-second-round-match-against-ross-smith",
-      "publishedAt": "2026-07-23T03:19:58.901Z",
-      "category": "issue",
-      "region": "italy",
+      "id": "26dfdea2b009ba",
+      "title": "Don’t like the result? Don’t worry, sport no longer ends on the field of play | Jonathan Liew",
+      "summary": "From the wrong headset in an F2 garage to Fifa overturning a red card, we are in a landscape where fairness is the enemy A funny and very small thing happened at the Fo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/jul/23/sport-fairness-fifa-world-cup-2026-fia-motor-sport-golf-open-championship",
+      "publishedAt": "2026-07-23T07:00:38.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Fifa"
       ]
     },
     {
-      "id": "2605325e6f63e3",
-      "title": "Saliba out for 'extended period' with back injury",
-      "summary": "Arsenal have confirmed William Saliba will be out for an extended period with a back injury.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem",
-      "publishedAt": "2026-07-23T03:19:58.900Z",
+      "id": "cd3b7c6a600b69",
+      "title": "‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup",
+      "summary": "The joy, love, hope and fun provided by fans outweighed the commercialism, extortionate prices and ugly politics This summer has been so vibrant and full of life. I had...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics",
+      "publishedAt": "2026-07-23T07:00:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cbf190cd27d529",
+      "title": "Yan Diomande and PSG react to Arsenal hijack ‘calls’ and ‘enquiry’",
+      "summary": "Fabrizio Romano and Ben Jacobs have reported whether Yan Diomande wants to join Arsenal, despite having a deal in place with PSG.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-yan-diomande-rb-leipzig-psg-fabrizio-romano-update",
+      "publishedAt": "2026-07-23T07:00:04.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "617275c0aee8e7",
+      "title": "Arsenal regain title, Spurs less sh*t, and other Premier League assumptions that might be wrong",
+      "summary": "Based on highly scientific methods (vibes, reading stuff, odds) we’ve come up with some assumptions about next season. Assumptions that might be wrong.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-regain-title-spurs-less-sht-and-other-premier-league-assumptions-that-might-be-wrong",
+      "publishedAt": "2026-07-23T06:43:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-07-23T06:33:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1897e69bffa2d2",
+      "title": "‘I’ve been told to f*** off’ – the reality of football meeting foodbanks",
+      "summary": "In Southend, we see football supporters and the local foodbank in complete sync from the start. Though there are always exceptions…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/southend-united-fans-foodbanks",
+      "publishedAt": "2026-07-23T06:30:46.000Z",
       "category": "issue",
       "region": "england",
       "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e121174e46ffad",
+      "title": "Five transfers to induce Newcastle meltdown include Bruno Guimaraes to Arsenal, Lewis Hall to Man Utd",
+      "summary": "Newcastle United are having a torrid ol’ time in the transfer market, and these five meltdown-inducing deals will only make matters worse…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/feature-five-transfers-newcastle-meltdown-guimaraes-arsenal-hall-man-utd",
+      "publishedAt": "2026-07-23T06:28:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-07-23T05:54:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f82dd685da6fdf",
+      "title": "Who am I? Guess Premier League star No 3",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw3yv2jxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T05:46:44.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1a8c5b1dd03e59",
+      "title": "One month, two record transfers - why English midfielders are in demand",
+      "summary": "Elliot Anderson and Morgan Rogers both sold for record transfer fees, so why are English midfielders so in demand?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T05:15:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -350,7 +526,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "e94d18cb423b6d",
-      "title": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield | Andy Hunter",
+      "title": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield",
       "summary": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club",
@@ -419,188 +595,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "2134422c296cbc",
-      "title": "Alex Scott decides stance on joining Chelsea as Blues step up interest after £64m rejected offer",
-      "summary": "According to reports, AFC Bournemouth star Alex Scott is ‘keen’ on joining Chelsea after the Premier League giants had a £64m offer rejected.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alex-scott-decides-joining-chelsea-blues-step-up-interest-64m-rejected-offer",
-      "publishedAt": "2026-07-22T17:46:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "82a302032ce4dc",
-      "title": "Inter Miami sign Casemiro as MLS announces investigation into tampering",
-      "summary": "Midfielder signs a one-year deal with extension option League investigation centers on the transfer Inter Miami have signed Casemiro as a free agent, but Major League S...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/22/inter-miami-casemiro-mls-investigation-tampering",
-      "publishedAt": "2026-07-22T17:42:44.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Transfer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "35a16be737a250",
-      "title": "Romano reveals Aston Villa, Chelsea ‘agreement’ reached for Garnacho as double deal boosted",
-      "summary": "According to reports, Aston Villa have now reached an ‘agreement’ to sign Alejandro Garnacho, and they could land a second Chelsea star this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-aston-villa-chelsea-agreement-reached-garnacho-double-deal-boosted",
-      "publishedAt": "2026-07-22T16:29:39.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "785e53693ea58b",
-      "title": "Garnacho, Rogers and two clubs trying to balance the books",
-      "summary": "How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T15:54:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ff731451f2b3cd",
-      "title": "Premier League quiz: This summer's most expensive signings so far",
-      "summary": "There have already been some huge deals this summer, but have you been paying attention?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydrym4rezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T15:52:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "70c4b9d654ed7e",
-      "title": "Chelsea have spent ‘poorly’ as Rogers told he should’ve ‘pushed’ for Arsenal instead of ‘money’ move",
-      "summary": "Former Aston Villa scout Bryan King feels departing midfielder Morgan Rogers should’ve gone to Arsenal, but has chosen Chelsea “for money.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/morgan-rogers-shouldve-joined-arsenal-chelsea-switch-money",
-      "publishedAt": "2026-07-22T15:52:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool attempt last-gasp hijack as Man City close in on next signing",
-      "summary": "Liverpool have cheekily attempted to hijack Paris Saint-Germain, while Manchester City are closing in on another major signing.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-22T15:49:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e09034f1d0c42b",
-      "title": "The Bezos factor - unpicking puzzle of Liverpool's potential investors",
-      "summary": "Could Amazon founder and American billionaire Jeff Bezos really become one of Liverpool's new investors? BBC Sport takes a look.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980l82wnd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T15:18:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d3521a2363e79f",
-      "title": "Enzo Fernandez tipped to ‘throw in the towel’ at Chelsea with ‘perfect’ replacement named by ex-Blue",
-      "summary": "Chelsea are being tipped to make Enzo Fernandez “throw in the towel” after his World Cup ending, with his “perfect” replacement named by an ex-Blues man.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/enzo-fernandez-throw-towel-chelsea-replacement-manu-kone",
-      "publishedAt": "2026-07-22T15:09:54.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "decc2f055dc5b5",
-      "title": "Liverpool lodge approach for new winger target in an attempt to sign top Paris Saint-Germain target",
-      "summary": "According to reports, Liverpool have made an ‘approach’ in an attempt to hijack PSG in the race to sign Monaco’s Maghnes Akliouche.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-approach-new-winger-target-sign-top-psg-target",
-      "publishedAt": "2026-07-22T14:26:59.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "a0343762f82d63",
-      "title": "One World Cup player for every Premier League club including Kone to Man Utd",
-      "summary": "Don’t buy a player on the back of a World Cup? With more than 1,000 there this summer, that might be harder than ever to avoid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/one-per-club-world-cup-players-premier-league-transfer-targets",
-      "publishedAt": "2026-07-22T14:15:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b54862ff07c8c8",
-      "title": "Arsenal ‘reach agreement’ to sign Julian Alvarez in stunning swap as transfer accelerates",
-      "summary": "Arsenal have now reached an agreement to sign Argentina international Julian Alvarez from Atletico Madrid this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-julian-alvarez-reach-agreement-swap-gyokeres-accelerates",
-      "publishedAt": "2026-07-22T14:06:55.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5686f3157fead0",
-      "title": "Who are the Premier League’s highest-paid players? Marcus Rashford back on big podium",
-      "summary": "Mo Salah, Bernardo Silva and Casemiro have left the Premier League and left this list of the Premier League’s highest-paid players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/highest-paid-players-in-premier-league-biggest-salary-wage",
-      "publishedAt": "2026-07-22T13:55:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
