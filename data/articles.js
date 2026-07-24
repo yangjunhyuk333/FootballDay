@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-24T03:13:41.663Z",
+  "generatedAt": "2026-07-24T08:32:58.751Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,66 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
-      "summary": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-07-24T03:13:41.486Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a8928abaecef2e",
-      "title": "Rodri to undergo back surgery and may miss start of Premier League season",
-      "summary": "Manchester City's World Cup winner Rodri is to undergo minor surgery on his back, which means he may miss the start of the Premier League season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566264/rodri-man-citys-world-cup-winner-to-undergo-back-surgery-and-may-miss-start-of-premier-league-season",
-      "publishedAt": "2026-07-24T03:13:41.486Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2f7c9e277e6eaf",
-      "title": "Explained: Why the Garnacho to Villa deal is complicated",
-      "summary": "Sky Sports' James Savundra explains the complications behind Alejandro Garnacho's move from Chelsea to Aston Villa...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13566318/explained-why-a-move-for-alejandro-garnacho-from-chelsea-to-aston-villa-is-complicated",
-      "publishedAt": "2026-07-24T03:13:41.486Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "e5a9636b2925d8",
-      "title": "Seifert scores big as Super Giants beat Spirit in Lord's thriller",
-      "summary": "Tim Seifert's huge knock of 67 runs off 45 deliveries saw Manchester Super Giants defeat London Spirit by seven runs in thrilling circumstances at Lord's.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13566364/the-hundred-tim-seiferts-big-knock-guides-manchester-super-giants-to-thrilling-seven-run-win-vs-london-spirit",
-      "publishedAt": "2026-07-24T03:13:41.486Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "4a664c895960f1",
       "title": "Domestic abuse reports reach record UK highs during 2026 World Cup",
       "summary": "Domestic abuse reports reached record highs in the UK during the 2026 World Cup, figures have shown.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566371/world-cup-2026-domestic-abuse-reports-reached-record-high-in-uk-with-major-increase-in-incidents-around-england-games",
-      "publishedAt": "2026-07-24T03:13:41.485Z",
+      "publishedAt": "2026-07-24T08:32:58.428Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -167,15 +113,28 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "f85d5adde87b68",
-      "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move sealed",
+      "title": "'Kings of Manchester' - Anderson sends Man Utd message after City move",
       "summary": "Elliot Anderson has declared Manchester City the \"kings of Manchester\" after completing his £116m move from Nottingham Forest.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566398/elliot-anderson-new-man-city-signing-sends-man-utd-message-after-completing-116m-move-from-nottingham-forest",
-      "publishedAt": "2026-07-24T03:13:41.485Z",
+      "publishedAt": "2026-07-24T08:32:58.428Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
+      "summary": "Liverpool latest: Goalkeeper signs new deal as another leaves on loan",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-24T08:32:58.428Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -184,11 +143,160 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder",
-      "publishedAt": "2026-07-24T03:13:41.484Z",
+      "publishedAt": "2026-07-24T08:32:58.427Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer"
+      ]
+    },
+    {
+      "id": "26b3fe8566369c",
+      "title": "Chelsea agree deal with Palace for Lacroix",
+      "summary": "Chelsea have agreed a deal with Crystal Palace to sign Maxence Lacroix.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace",
+      "publishedAt": "2026-07-24T08:32:58.424Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "9e0a1feb0bbac5",
+      "title": "Man Utd bring in Leicester goalkeeper Leitzig",
+      "summary": "Manchester United sign goalkeeper Janina Leitzig from Leicester City for an undisclosed fee.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjle91ry39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T08:07:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "53927ea45cf8e5",
+      "title": "Jacobs ranks likelihood of five Man Utd transfers as INEOS reach agreement for fifth signing",
+      "summary": "Ben Jacobs has ranked the likelihood of Man Utd signing various midfielders this summer amid claims Manu Kone has agreed personal terms.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-jacobs-ranks-five-tranfers-kone-agreement",
+      "publishedAt": "2026-07-24T08:02:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "470d618a6bec81",
+      "title": "Real Madrid reporter reveals Liverpool plan about signing Vinicius Junior",
+      "summary": "Liverpool’s plan regarding a move for Real Madrid and Brazil international winger Vinicius Junior has been disclosed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-real-madrid-vinicius-junior",
+      "publishedAt": "2026-07-24T07:25:53.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Liverpool",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-07-24T07:23:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "eb39eba7ec6cf4",
+      "title": "Romano rejects Liverpool winger rumours as French star ‘wants to join’ another club",
+      "summary": "Liverpool have not yet made a move to sign Monaco winger Maghnes Akliouche this summer, according to transfer insider Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-rejects-akliouche-transfer-rumours-psg-wants-join",
+      "publishedAt": "2026-07-24T07:16:35.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b51a493440dede",
+      "title": "Bruno Guimaraes will get his wish to sign for Arsenal as Newcastle replacement heads for ‘medical’",
+      "summary": "Arsenal ‘will’ get a deal for Bruno Guimaraes over the line as Newcastle close in on the signing of Aladji Bamba, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-bruno-guimaraes-will-sign-newcastle-medical-romano-bamba",
+      "publishedAt": "2026-07-24T06:41:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "61f7002037bb92",
+      "title": "Socceroos star allegedly tests positive for cocaine after speeding",
+      "summary": "Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T06:24:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4faee0ef961efb",
+      "title": "Who am I? Guess Premier League star No 4",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d52rr559o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T05:34:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7447ffd91d57ed",
+      "title": "Socceroos star Cristian Volpato allegedly tests positive for cocaine during roadside test",
+      "summary": "Australia forward allegedly driving almost 50km/h over speed limit 22-year-old was stopped twice for speeding on Anzac Bridge in Sydney Socceroos forward Cristian Volpa...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding",
+      "publishedAt": "2026-07-24T05:33:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "337e62ae7f5a0e",
+      "title": "Why Rogers and Palmer will thrive together in Alonso's Chelsea",
+      "summary": "Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T05:28:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
       ]
     },
     {
@@ -309,19 +417,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c550a55b182492",
-      "title": "'Motherhood should not be the end of anyone's story'",
-      "summary": "After returning to football after giving birth, Nigeria's Ngozi Okobi-Okeoghene says social media users makes players \"feel bad\" about getting married and having childr...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74g515ekyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T17:01:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
       "id": "3f6a63388fbbca",
       "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
       "summary": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.",
@@ -435,19 +530,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e5e5febbff2562",
-      "title": "Aberdeen granted permanent alcohol licence",
-      "summary": "Aberdeen Football Club have been granted a permanent alcohol licence by city council for matches at Pittodrie.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgew70yjrpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T15:02:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
       "id": "d37022c52c6819",
       "title": "Football clubs urged to ease police cost burden on taxpayers",
       "summary": "Football clubs are urged to contribute more to the cost of match policing to ease the burden on taxpayers, as incident figures for the 2025-26 season are published.",
@@ -513,88 +595,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "730656cc92b61e",
-      "title": "Goalkeeper Startup joins WSL newcomers Birmingham",
-      "summary": "Birmingham City have signed goalkeeper Katie Startup following her exit from Manchester City when her contract expired.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1m15jpvm13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T14:00:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "785e53693ea58b",
-      "title": "Garnacho, Rogers and two clubs trying to balance the books",
-      "summary": "How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T13:53:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "af83b1cf5785be",
-      "title": "Real Madrid reach shock decision on selling Aurelien Tchouameni to Man Utd",
-      "summary": "A new report suggests that Real Madrid have made a complete U-turn on selling Aurelien Tchouameni to Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-manchester-united-aurelien-tchouameni-sale-decision",
-      "publishedAt": "2026-07-23T13:42:28.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "05fed860775b3f",
-      "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "summary": "Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a man...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card",
-      "publishedAt": "2026-07-23T13:40:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "bb870ac1c62d98",
-      "title": "Gabriel, 15, gets first senior Man Utd call-up",
-      "summary": "Manchester United teenager JJ Gabriel, 15, could make his senior debut on Friday after receiving a call-up for the first team's Rosenborg friendly.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce85j3mgl06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T13:36:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4e7a44832bc540",
-      "title": "Codina on why she joined West Ham project",
-      "summary": "Laia Codina won trophies and found a \"new family\" during her three-year spell at Arsenal - but she was ready for a change with West Ham.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4nmjwl8j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T13:22:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
