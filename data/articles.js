@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-24T13:53:44.839Z",
+  "generatedAt": "2026-07-24T19:35:29.853Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,39 +99,38 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "26b3fe8566369c",
-      "title": "Chelsea agree deal with Palace for Lacroix",
-      "summary": "Chelsea have agreed a deal with Crystal Palace to sign Maxence Lacroix.",
+      "id": "33868c4d1b01bd",
+      "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
+      "summary": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565648/maxence-lacroix-transfer-news-chelsea-agree-deal-to-sign-france-defender-from-crystal-palace",
-      "publishedAt": "2026-07-24T13:53:44.452Z",
+      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
+      "publishedAt": "2026-07-24T19:35:29.441Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Liverpool"
       ]
     },
     {
-      "id": "e0324c70d0df08",
-      "title": "Why do Barcelona want to break transfer records to sign Kerolin?",
-      "summary": "It's been brief. Kerolin only joined the Women's Super League from the NWSL 18 months ago. She's about to leave as the English top-flight's most expensive export.",
+      "id": "b7f38b768cd7ee",
+      "title": "Devlin: Rangers wait was 'too stressful'",
+      "summary": "Cammy Devlin revealed the stress he felt at the 2026 World Cup as he looked to make his move to Rangers.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566568/kerolin-nicoli-transfer-news-man-city-forward-poised-to-join-barcelona-as-womens-super-leagues-most-expensive-export",
-      "publishedAt": "2026-07-24T13:53:44.452Z",
-      "category": "transfer",
-      "region": "spain",
+      "url": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful",
+      "publishedAt": "2026-07-24T19:35:29.441Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Transfer",
-        "Barcelona"
+        "World Cup"
       ]
     },
     {
       "id": "9b02c87106f691",
-      "title": "Replacing Pep, Chelsea, Rodri and Gealish - Marecsa Best Bits",
+      "title": "Replacing Pep, Chelsea, Rodri and Grealish - Maresca's best bits",
       "summary": "Watch the best bits from Enzo Maresca's first news conference as Manchester City manager.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13566651/manchester-city-enzo-marescas-best-bits-from-first-news-conference",
-      "publishedAt": "2026-07-24T13:53:44.451Z",
+      "publishedAt": "2026-07-24T19:35:29.441Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -145,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Across the seven games in which Bournemouth took points off Arsenal, Manchester City, Manchester United, Liverpool and Chelsea last season, it is telling that Alex Scot...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566546/alex-scott-how-bournemouth-midfielder-wanted-by-arsenal-chelsea-and-man-utd-flourished-under-andoni-iraola",
-      "publishedAt": "2026-07-24T13:53:44.451Z",
+      "publishedAt": "2026-07-24T19:35:29.441Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -156,29 +155,184 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "2335e49d65dd9c",
-      "title": "Could Adeyemi's Barcelona move see Flick unlock winger's true potential?",
-      "summary": "Perhaps Karim Adeyemi's move to Barcelona should not come as a surprise even if usurping Lamine Yamal as the team's star left-footed right-winger is impossible. After a...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561670/karim-adeyemi-to-barcelona-why-hansi-flick-reunion-could-help-former-borussia-dortmund-winger-unlock-his-potential",
-      "publishedAt": "2026-07-24T13:53:44.451Z",
-      "category": "transfer",
-      "region": "spain",
+      "id": "fe4ea0612acbf0",
+      "title": "‘You need to evolve’: Enzo Maresca plots life after Pep at Manchester City",
+      "summary": "Italian does not shy away from the task of following a legend but his previous time at the club may help him Relaxed and tanned, Enzo Maresca offered a warm note with h...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresco-manchester-city-pep-guardiola",
+      "publishedAt": "2026-07-24T18:13:47.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Barcelona"
+        "Football",
+        "Manchester"
       ]
     },
     {
-      "id": "d3df447ad5437c",
-      "title": "Spain coach says Argentina behaviour 'intolerable' after World Cup final",
-      "summary": "Spain head coach Luis de la Fuente has described the conduct of Argentina players after the World Cup final as \"intolerable and unacceptable\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566607/argentina-behaviour-after-world-cup-final-was-intolerable-and-unacceptable-says-spain-head-coach-luis-de-la-fuente",
-      "publishedAt": "2026-07-24T13:53:44.451Z",
+      "id": "96d4585efa8099",
+      "title": "Newcastle expected by insider to ‘outbid’ two rivals for £60m Tottenham star at ‘top of list’",
+      "summary": "Newcastle are expected two “outbid” the two other sides pushing to sign a Tottenham man who former Premier League scout Mick Brown believes is “top of the list.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/newcastle-outbid-rivals-bergvall-tottenham",
+      "publishedAt": "2026-07-24T17:38:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "20beb1361b3e8a",
+      "title": "Palace want teenage Brest defender Le Guen",
+      "summary": "Crystal Palace are interested in signing 19-year-old Brest centre-back Raphael le Guen.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq6dy718z2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T17:20:04.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "a06e4ced22e337",
+      "title": "IOC says Infantino complaint outside its scope",
+      "summary": "The IOC says it will not investigate Gianni Infantino as a complaint about the Fifa president is \"outside\" its scope.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07rzz54jyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T16:07:14.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "a15192ac66ebcb",
+      "title": "Concrete Man Utd interest in 21y/o striker revealed as €35m bid rejected",
+      "summary": "United have found an exciting 21-year-old who can replace Zirkzee in their forward line, according to a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-news-nicolo-tresoldi-striker-target-bid-rejected",
+      "publishedAt": "2026-07-24T15:54:19.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T15:43:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "26b284d51091d9",
+      "title": "Man Utd reach decision on selling Bruno Fernandes after Michael Carrick gets involved",
+      "summary": "Manchester United have made up their mind on whether or not to sell Bruno Fernandes to Galatasaray in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-bruno-fernandes-sale-decision-michael-carrick",
+      "publishedAt": "2026-07-24T14:50:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Liverpool given new Diomande hope amid Vinicius Jr claims",
+      "summary": "Liverpool are back in with a sniff of Yan Diomande but they will encounter the same problems as PSG, while Vinicius Jr is also linked with the Reds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-24T14:47:01.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "9572f0034befef",
+      "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
+      "summary": "What to watch on TV plus other ways to occupy your time now that the party is over The 2026 World Cup is over, and the millions of people who enjoyed it now find themse...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
+      "publishedAt": "2026-07-24T14:36:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
         "World Cup"
+      ]
+    },
+    {
+      "id": "d8bba8fa2aceea",
+      "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
+      "summary": "World Cup winner Rodri is to have back surgery, says new Manchester City boss Enzo Maresca.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T14:24:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1c40dbf8182d69",
+      "title": "Arsenal starter ‘asks to open talks’ with Real Madrid after Arteta decision as Alvarez move ignites",
+      "summary": "Arsenal midfielder Martin Zubimendi has instructed his representatives to open talks over a move to Real Madrid, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-starter-asks-to-open-talks-with-real-madrid-after-arteta-decision-as-alvarez-move-ignites",
+      "publishedAt": "2026-07-24T14:07:19.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c2fa04c696ad8d",
+      "title": "Liverpool have just received some bad news about signing Bradley Barcola",
+      "summary": "Liverpool are facing a new threat in their quest to sign Bradley Barcola from Paris Saint-Germain in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-bradley-barcola-bayern-munich-threat-psg",
+      "publishedAt": "2026-07-24T14:05:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2a23521eba8805",
+      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Man...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter",
+      "publishedAt": "2026-07-24T14:02:33.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
       ]
     },
     {
@@ -238,8 +392,8 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "ff70a169cb525d",
-      "title": "‘Football can change a country’: Klopp sets sights high after unveiling as Germany head coach",
-      "summary": "Klopp warns media to ‘leave my family in peace’ Suggests role will be his final job in top-level football Jürgen Klopp said he wants his team to “change a country” afte...",
+      "title": "Jürgen Klopp vows to change Germany but threatens to quit if family hounded by media",
+      "summary": "Suggests role will be his final job in top-level football Warns journalists to ‘leave my family in peace’ Jürgen Klopp said he wants his team to “change a country” afte...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach",
       "publishedAt": "2026-07-24T12:08:39.000Z",
@@ -335,19 +489,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Transfer"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T10:43:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -459,147 +600,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "World Cup"
-      ]
-    },
-    {
-      "id": "a986077c7078bc",
-      "title": "Kane set for talks with Bayern Munich over new deal",
-      "summary": "Harry Kane is set to begin talks over a new Bayern Munich contract, with Barcelona and various Saudi Arabian clubs reportedly interested in the England captain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T09:38:26.000Z",
-      "category": "transfer",
-      "region": "spain italy germany",
-      "tags": [
-        "Barcelona",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f4dc657ce1fe88",
-      "title": "Chelsea agree deal to sign Palace defender Lacroix",
-      "summary": "Chelsea agree deal to sign France defender Maxence Lacroix from Crystal Palace after two impressive seasons.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp9eyz14y7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T09:14:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-07-24T09:05:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "7a681023880c7a",
-      "title": "Real Madrid willing to sell Tchouameni to Man Utd for bargain fee after Mourinho reaches decision",
-      "summary": "Real Madrid have set a price for Aurelien Tchouameni, with Manchester United keen on the France international defensive midfielder.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aurelien-tchouameni-manchester-united-real-madrid-transfer-fee",
-      "publishedAt": "2026-07-24T09:05:08.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "61f7002037bb92",
-      "title": "Australia star allegedly tests positive for cocaine after speeding",
-      "summary": "Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T08:59:12.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a22559d3eceb67",
-      "title": "Romano reveals next top Chelsea target as seventh signing heads for Blues ‘medical’ today",
-      "summary": "Chelsea have made Kerim Alajbegovic their next transfer target, according to Fabrizio Romano, as Maxence Lacroix heads for his medical.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-romano-next-target-alajbegovic-ornstein-medical-lacroix",
-      "publishedAt": "2026-07-24T08:42:36.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool being used by Vinicius Jr, Baleba still out of Man Utd’s reach",
-      "summary": "Liverpool are being linked with Vinicius Jr, which is very convenient for the Real Madrid star’s agents, while literally nothing has changed between Man Utd and Carlos...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-24T08:15:01.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9e0a1feb0bbac5",
-      "title": "Man Utd bring in Leicester goalkeeper Leitzig",
-      "summary": "Manchester United sign goalkeeper Janina Leitzig from Leicester City for an undisclosed fee.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjle91ry39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T08:07:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "53927ea45cf8e5",
-      "title": "Jacobs ranks likelihood of five Man Utd transfers as INEOS reach agreement for fifth signing",
-      "summary": "Ben Jacobs has ranked the likelihood of Man Utd signing various midfielders this summer amid claims Manu Kone has agreed personal terms.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-jacobs-ranks-five-tranfers-kone-agreement",
-      "publishedAt": "2026-07-24T08:02:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "470d618a6bec81",
-      "title": "Real Madrid reporter reveals Liverpool plan about signing Vinicius Junior",
-      "summary": "Liverpool’s plan regarding a move for Real Madrid and Brazil international winger Vinicius Junior has been disclosed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-real-madrid-vinicius-junior",
-      "publishedAt": "2026-07-24T07:25:53.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Liverpool",
-        "Real Madrid",
-        "Inter"
       ]
     }
   ],
