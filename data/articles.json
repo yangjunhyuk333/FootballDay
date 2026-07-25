@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T03:13:46.950Z",
+  "generatedAt": "2026-07-25T08:12:21.579Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@
       "pinned": true
     },
     {
-      "id": "33868c4d1b01bd",
-      "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
-      "summary": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
-      "publishedAt": "2026-07-25T03:13:46.633Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "8dcdbee2cdea92",
       "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
       "summary": "RB Leipzig have rejected an £85.4m bid from Real Madrid for Yan Diomande, according to Sky Germany.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
-      "publishedAt": "2026-07-25T03:13:46.633Z",
+      "publishedAt": "2026-07-25T08:12:21.313Z",
       "category": "transfer",
       "region": "england spain germany",
       "tags": [
@@ -126,30 +113,16 @@
       ]
     },
     {
-      "id": "7e928a83c60ec1",
-      "title": "Papers: Premier League clubs plotting Watkins bid",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "id": "33868c4d1b01bd",
+      "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
+      "summary": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566763/paper-talk-manchester-united-and-arsenal-plotting-ollie-watkins-bid",
-      "publishedAt": "2026-07-25T03:13:46.633Z",
+      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
+      "publishedAt": "2026-07-25T08:12:21.313Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "b7f38b768cd7ee",
-      "title": "Devlin: Rangers wait was 'too stressful'",
-      "summary": "Cammy Devlin revealed the stress he felt at the 2026 World Cup as he looked to make his move to Rangers.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful",
-      "publishedAt": "2026-07-25T03:13:46.633Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Liverpool"
       ]
     },
     {
@@ -158,11 +131,149 @@
       "summary": "Van Veen on Winter Garden boos: That 118 finish was for you!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action",
-      "publishedAt": "2026-07-25T03:13:46.632Z",
+      "publishedAt": "2026-07-25T08:12:21.312Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "b69cf32d1ca000",
+      "title": "Arsenal ready to smash British transfer record with Berta confident of striking agreement",
+      "summary": "Arsenal are confident of striking agreements with Atletico Madrid and Julian Alvarez for the striker’s transfer, and the Gunners are prepared to set a new British trans...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-ready-smash-british-transfer-record-andrea-berta-confident-striking-julian-alvarez-atletico-madrid-agreements",
+      "publishedAt": "2026-07-25T08:09:26.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1f3463f31b93de",
+      "title": "Chelsea near £52m deal after medical passed as BlueCo buckle on long-held transfer policy",
+      "summary": "Chelsea are inching closer to a £52m deal for Crystal Palace defender Maxence Lacroix, in a big shift in BlueCo’s transfer policy.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-near-52m-deal-blueco-buckle-long-held-transfer-policy",
+      "publishedAt": "2026-07-25T07:49:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d85977b553a304",
+      "title": "Celtic eye Cancellieri as Maeda replacement - gossip",
+      "summary": "Celtic consider move for Serie A winger as former Rangers captain has talks with MLS club...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd695gqx376o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T07:44:51.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "ee2553f7aebb6f",
+      "title": "On the move - football's youngest journeymen",
+      "summary": "The players who had appeared for a remarkable number of clubs by their 23rd birthday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T07:35:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ac97859f166456",
+      "title": "Morgan Rogers ‘joined the wrong club’ in Chelsea over ‘tailor-made’ Liverpool",
+      "summary": "Chelsea are ‘the wrong club’ for Morgan Rogers. Arsenal weren’t his best fit either; Liverpool and Andoni Iraola could have ‘unleashed’ him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/morgan-rogers-joined-wrong-club-chelsea-arsenal-tailor-made-liverpool",
+      "publishedAt": "2026-07-25T07:17:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ce3f21c363084e",
+      "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
+      "summary": "The English transfer record has been smashed, with Elliot Anderson and Morgan Rogers on the move during a busy summer of signings For once, Mikel Arteta is not spending...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need",
+      "publishedAt": "2026-07-25T07:00:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "932cf2b58764cc",
+      "title": "Yan Diomande reaches decision on joining Arsenal after hijack ‘calls’ and €100m Real Madrid bid",
+      "summary": "Arsenal have made ‘calls’ for the signing of Yan Diomande, and Fabrizio Romano has revealed all on the RB Leipzig winger after Real Madrid bid €100m.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/yan-diomande-reaches-decision-joining-arsenal-hijack-calls-e100m-real-madrid-bid",
+      "publishedAt": "2026-07-25T06:22:44.000Z",
+      "category": "transfer",
+      "region": "england spain italy germany",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d3c6806b5b1a2f",
+      "title": "Who am I? Guess Premier League star No 5",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0kv2ggq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T05:51:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1cca3e25f222e2",
+      "title": "What was the 2026 World Cup’s legacy? Proving that relentless expansion is unsustainable…",
+      "summary": "The 2026 World Cup was a logistical and sustainability nightmare with 48 teams and three hosts, which doesn’t bode well for 2030 and onwards.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/what-was-the-2026-world-cups-legacy-proving-that-relentless-expansion-is-unsustainable",
+      "publishedAt": "2026-07-25T05:45:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "4a93e3368c111c",
+      "title": "How do Manchester City manage the Rodri dilemma?",
+      "summary": "BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T05:36:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -207,21 +318,6 @@
       "tags": [
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "ed2f5f2f3901e0",
-      "title": "Transfer news: Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
-      "summary": "Midfielder agrees five-year contract after £34m move Dutch winger leaves West Ham in deal worth £60m Newcastle have made Aladji Bamba their fourth signing of the summer...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
-      "publishedAt": "2026-07-24T20:10:41.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Inter"
       ]
     },
     {
@@ -289,6 +385,19 @@
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T16:10:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -483,120 +592,6 @@
       "publishedAt": "2026-07-24T12:23:42.000Z",
       "category": "transfer",
       "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ff70a169cb525d",
-      "title": "Jürgen Klopp vows to change Germany but threatens to quit if family hounded by media",
-      "summary": "Suggests role will be his final job in top-level football Warns journalists to ‘leave my family in peace’ Jürgen Klopp said he wants his team to “change a country” afte...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach",
-      "publishedAt": "2026-07-24T12:08:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cf5f96998b856e",
-      "title": "Liverpool given hope of Yan Diomande transfer for three reasons as PSG face fiasco",
-      "summary": "Liverpool still have a chance of landing Yan Diomande with PSG increasingly frustrating the player’s entourage, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-yan-diomande-transfer-three-reasons-hope-psg-face-fiasco",
-      "publishedAt": "2026-07-24T12:05:34.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "40493d04228b63",
-      "title": "Devlin opens up on 'too stressful' Hearts exit for Rangers",
-      "summary": "Cammy Devlin says it was \"too stressful\" to head to the World Cup with his club future still to be decided - although the extra time taken did lead to a move to Rangers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c80n5mnvkyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T11:00:59.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "109c4ba27accb9",
-      "title": "Spurs are STILL biggest spenders of the 2026 summer transfer window",
-      "summary": "Five Premier League clubs are at the top of the biggest spenders list for the summer of 2026 with AC Milan and Bayern the outliers.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-07-24T11:00:50.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Bayern",
-        "Milan"
-      ]
-    },
-    {
-      "id": "1b0cb1982451d4",
-      "title": "Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
-      "summary": "Tommy Elphick and Shaun Cooper to work on set-pieces Iraola felt ‘very lucky’ to work with them at Bournemouth Andoni Iraola has outlined the roles his backroom staff w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills",
-      "publishedAt": "2026-07-24T11:00:13.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a6065a204743d9",
-      "title": "Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente",
-      "summary": "Spain head coach hits out at ‘acts of aggression’ Fifa investigation into incident yet to result in sanctions Spain’s head coach, Luis de la Fuente, has hit out at the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/argentina-behaviour-world-cup-final-intolerable-de-la-fuente",
-      "publishedAt": "2026-07-24T10:56:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-24T10:56:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "08742d2c6857c3",
-      "title": "Elliot Anderson bizarrely doesn’t call Manchester United the biggest team ever after joining City",
-      "summary": "Elliot Anderson has weirdly not called Manchester United the biggest and best team in the city after joining their bitter rivals.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/elliot-anderson-manchester-united-dig-crisis-city-signing",
-      "publishedAt": "2026-07-24T10:28:36.000Z",
-      "category": "transfer",
-      "region": "england",
       "tags": [
         "Manchester"
       ]
