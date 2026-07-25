@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T08:12:21.579Z",
+  "generatedAt": "2026-07-25T13:44:19.203Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,30 +99,43 @@
       "pinned": true
     },
     {
-      "id": "8dcdbee2cdea92",
-      "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
-      "summary": "RB Leipzig have rejected an £85.4m bid from Real Madrid for Yan Diomande, according to Sky Germany.",
+      "id": "fcdaedfd1b7e7d",
+      "title": "Celtic vs AC Milan in pre-season friendly LIVE!",
+      "summary": "Celtic vs AC Milan in pre-season friendly LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
-      "publishedAt": "2026-07-25T08:12:21.313Z",
+      "url": "https://www.skysports.com/football/celtic-vs-ac-milan/live/556660",
+      "publishedAt": "2026-07-25T13:44:18.940Z",
       "category": "transfer",
-      "region": "england spain germany",
+      "region": "italy",
       "tags": [
-        "Liverpool",
-        "Real Madrid"
+        "Milan"
       ]
     },
     {
-      "id": "33868c4d1b01bd",
-      "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
-      "summary": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
+      "id": "c70599863bf27d",
+      "title": "Inter Milan interested in signing Tottenham captain Romero",
+      "summary": "Inter Milan are interested in signing Tottenham captain Cristian Romero, according to Sky in Italy.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
-      "publishedAt": "2026-07-25T08:12:21.313Z",
+      "url": "https://www.skysports.com/football/news/12040/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window",
+      "publishedAt": "2026-07-25T13:44:18.940Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "edffbb0500be13",
+      "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
+      "summary": "Woking's director of football Jody Brown claims Jermain Defoe didn't turn up for a meeting and training amid \"growing concerns\" within the club before he left his role...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit",
+      "publishedAt": "2026-07-25T13:44:18.939Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Football"
       ]
     },
     {
@@ -131,11 +144,173 @@
       "summary": "Van Veen on Winter Garden boos: That 118 finish was for you!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action",
-      "publishedAt": "2026-07-25T08:12:21.312Z",
+      "publishedAt": "2026-07-25T13:44:18.939Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T13:27:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "b0e9ca9096e835",
+      "title": "Arsenal reach decision on who to sign if Newcastle reject new Bruno Guimaraes bid",
+      "summary": "Arsenal are primed to bid £70m for Bruno Guimaraes, but if Newcastle say no and the Gunners call it quits, a report has revealed who they’ll turn to",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-reach-decision-sign-alex-scott-newcastle-reject-new-bruno-guimaraes-bid",
+      "publishedAt": "2026-07-25T12:21:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "00b4d142cc5e3e",
+      "title": "Barcelona pledge support after worker dies",
+      "summary": "Barcelona offer support to the family of a worker who died during renovations at the club's Nou Camp stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crrvd8zz7vqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T12:18:55.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "a6da4e60213e27",
+      "title": "Growing concerns before Defoe exit - Woking director",
+      "summary": "Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermai...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T11:08:50.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5d9e1817ab32e8",
+      "title": "Arsenal sensationally linked with Tottenham star amid €50m price tag negotiation",
+      "summary": "Arsenal have been linked with a surprise move for a Tottenham star, but face competition from a host of European giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-sensationally-linked-tottenham-star-e50m-price-tag-negotiation",
+      "publishedAt": "2026-07-25T11:07:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7c166f87deae78",
+      "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
+      "summary": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T11:01:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "99866ab0893d96",
+      "title": "Missing a major football tournament? Fear not, Wafcon 2026 is about to start",
+      "summary": "The Women’s Africa Cup of Nations starts in Morocco on Sunday, with Cape Verde and Egypt looking to continue feelgood factor from the men’s World Cup and Nigeria going...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/25/wafcon-2026-womens-africa-cup-nations-guide",
+      "publishedAt": "2026-07-25T11:00:40.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d2079932b5dd65",
+      "title": "Rogers to Chelsea only the third-biggest Premier League overpay so far this summer",
+      "summary": "Spurs are responsible for three of the seven biggest Premier League overpays so far this summer, but not the most apparently egregious.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/biggest-premier-league-transfer-overpays-this-summer-spurs",
+      "publishedAt": "2026-07-25T10:46:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "17e259ceaec901",
+      "title": "Real Madrid strike ‘agreement’ as Man Utd cleared to sign Aurelien Tchouameni for £68m",
+      "summary": "Real Madrid have struck an agreement on personal terms with Rodri, with numerous sources including Fabrizio Romano explaining why this is good news for Manchester Unite...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-strike-rodri-agreement-man-utd-cleared-sign-aurelien-tchouameni-68m",
+      "publishedAt": "2026-07-25T10:29:37.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "01090f75c2e266",
+      "title": "Chelsea in talks for Villa set-piece guru MacPhee",
+      "summary": "Chelsea are looking to sign highly regarded set-piece coach Austin MacPhee from Aston Villa but they face competition from Premier League and Saudi Pro League clubs.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T10:09:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "4071433142a1f6",
+      "title": "Arsenal ready to offer £85m plus big-name player for Julian Alvarez",
+      "summary": "Arsenal are reportedly willing to part ways with 2025 summer signing Viktor Gyokeres as part of an exchange to recruit Atletico Madrid’s Julian Alvarez.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/andrea-berta-ready-offer-85m-plus-viktor-gyokeres-for-julian-alvarez-transfer",
+      "publishedAt": "2026-07-25T09:35:08.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "73b1828396a5c8",
+      "title": "Man Utd get green light to sign Tchouameni for £68m with Rodri ‘joining’ Real Madrid",
+      "summary": "Real Madrid are now ready to sell Aurelien Tchouameni to Manchester United for £68m, with Los Blancos set to sign Rodri from Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-green-light-sign-aurelien-tchouameni-68m-rodri-joining-real-madrid",
+      "publishedAt": "2026-07-25T09:17:14.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
       ]
     },
     {
@@ -388,19 +563,6 @@
       ]
     },
     {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T16:10:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
       "id": "a06e4ced22e337",
       "title": "IOC says Infantino complaint outside its scope",
       "summary": "The IOC says it will not investigate Gianni Infantino as a complaint about the Fifa president is \"outside\" its scope.",
@@ -424,176 +586,6 @@
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T15:43:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "26b284d51091d9",
-      "title": "Man Utd reach decision on selling Bruno Fernandes after Michael Carrick gets involved",
-      "summary": "Manchester United have made up their mind on whether or not to sell Bruno Fernandes to Galatasaray in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-bruno-fernandes-sale-decision-michael-carrick",
-      "publishedAt": "2026-07-24T14:50:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool given new Diomande hope amid Vinicius Jr claims",
-      "summary": "Liverpool are back in with a sniff of Yan Diomande but they will encounter the same problems as PSG, while Vinicius Jr is also linked with the Reds.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-24T14:47:01.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "9572f0034befef",
-      "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
-      "summary": "What to watch on TV plus other ways to occupy your time now that the party is over The 2026 World Cup is over, and the millions of people who enjoyed it now find themse...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
-      "publishedAt": "2026-07-24T14:36:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d8bba8fa2aceea",
-      "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
-      "summary": "World Cup winner Rodri is to have back surgery, says new Manchester City boss Enzo Maresca.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T14:24:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1c40dbf8182d69",
-      "title": "Arsenal starter ‘asks to open talks’ with Real Madrid after Arteta decision as Alvarez move ignites",
-      "summary": "Arsenal midfielder Martin Zubimendi has instructed his representatives to open talks over a move to Real Madrid, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-starter-asks-to-open-talks-with-real-madrid-after-arteta-decision-as-alvarez-move-ignites",
-      "publishedAt": "2026-07-24T14:07:19.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "c2fa04c696ad8d",
-      "title": "Liverpool have just received some bad news about signing Bradley Barcola",
-      "summary": "Liverpool are facing a new threat in their quest to sign Bradley Barcola from Paris Saint-Germain in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-bradley-barcola-bayern-munich-threat-psg",
-      "publishedAt": "2026-07-24T14:05:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2a23521eba8805",
-      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Man...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter",
-      "publishedAt": "2026-07-24T14:02:33.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "bc3e088624a069",
-      "title": "Chelsea plot stunning £70m Liverpool raid as shock report names three targets",
-      "summary": "Alonso, who nearly took charge of Liverpool in 2024, could contact a top Reds star for Chelsea this summer, one source has claimed",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-transfer-news-alexis-mac-allister-liverpool-70-million-target",
-      "publishedAt": "2026-07-24T13:48:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "851cda6e259577",
-      "title": "Man Utd sirens are blaring for ex-Norwich winger with Liverpool confident of sealing Barcola deal",
-      "summary": "Man Utd are interested in signing Bologna winger Jonathan Rowe this summer as look to bring in a new winger, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-sirens-rowe-bologna-liverpool-confident-barcola",
-      "publishedAt": "2026-07-24T13:35:27.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3120ed35c9dc78",
-      "title": "How can Chelsea and Tottenham spend all this money in the transfer market?",
-      "summary": "There are two conspicuous outliers this summer in terms of transfer spend, with Chelsea and Spurs both splurging over £200m so far. How?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-can-chelsea-and-tottenham-spend-all-this-money-in-the-transfer-market",
-      "publishedAt": "2026-07-24T13:03:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "03ea3f36990e06",
-      "title": "Man Utd have just got some bad news about Manu Kone after reaching agreement",
-      "summary": "Manu Kone is waiting for Paris Saint-Germain, despite the AS Roma star agreeing a deal to join Manchester United this summer, according to a report. On Thursday, it eme...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-have-just-got-some-bad-news-about-manu-kone-after-reaching-agreement",
-      "publishedAt": "2026-07-24T12:23:42.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
