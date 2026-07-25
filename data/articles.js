@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-24T19:35:29.853Z",
+  "generatedAt": "2026-07-25T03:13:46.950Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,11 +104,39 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool's owners Fenway Sports Group are in talks with a consortium fronted by Amit Bhatia over the sale of a minority stake in the club.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club",
-      "publishedAt": "2026-07-24T19:35:29.441Z",
+      "publishedAt": "2026-07-25T03:13:46.633Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "8dcdbee2cdea92",
+      "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
+      "summary": "RB Leipzig have rejected an £85.4m bid from Real Madrid for Yan Diomande, according to Sky Germany.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger",
+      "publishedAt": "2026-07-25T03:13:46.633Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "7e928a83c60ec1",
+      "title": "Papers: Premier League clubs plotting Watkins bid",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13566763/paper-talk-manchester-united-and-arsenal-plotting-ollie-watkins-bid",
+      "publishedAt": "2026-07-25T03:13:46.633Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
       ]
     },
     {
@@ -117,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Cammy Devlin revealed the stress he felt at the 2026 World Cup as he looked to make his move to Rangers.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566652/cammy-devlin-waiting-on-rangers-move-during-world-cup-was-too-stressful",
-      "publishedAt": "2026-07-24T19:35:29.441Z",
+      "publishedAt": "2026-07-25T03:13:46.633Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -125,32 +153,101 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "9b02c87106f691",
-      "title": "Replacing Pep, Chelsea, Rodri and Grealish - Maresca's best bits",
-      "summary": "Watch the best bits from Enzo Maresca's first news conference as Manchester City manager.",
+      "id": "434d9de1d8bb9f",
+      "title": "Van Veen on Winter Garden boos: That 118 finish was for you!",
+      "summary": "Van Veen on Winter Garden boos: That 118 finish was for you!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13566651/manchester-city-enzo-marescas-best-bits-from-first-news-conference",
-      "publishedAt": "2026-07-24T19:35:29.441Z",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action",
+      "publishedAt": "2026-07-25T03:13:46.632Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Chelsea",
-        "Manchester"
+        "Inter"
       ]
     },
     {
-      "id": "f58077e22be822",
-      "title": "Scott: The 'scrawny-looking kid' turned complete midfielder wanted by the elite",
-      "summary": "Across the seven games in which Bournemouth took points off Arsenal, Manchester City, Manchester United, Liverpool and Chelsea last season, it is telling that Alex Scot...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566546/alex-scott-how-bournemouth-midfielder-wanted-by-arsenal-chelsea-and-man-utd-flourished-under-andoni-iraola",
-      "publishedAt": "2026-07-24T19:35:29.441Z",
+      "id": "abb08f55d89fed",
+      "title": "Austin FC academy players under investigation by police and FBI for allegations of youth-on-youth sexual abuse",
+      "summary": "Austin FC reported allegations to local law enforcement Multiple sources confirm the ongoing inquiries Multiple players in the academy of Major League Soccer club Austi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
+      "publishedAt": "2026-07-24T21:45:26.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "90683ab6699ec2",
+      "title": "Gallas tells Chelsea they ‘have to get’ Arsenal centre-back target after Lacroix transfer",
+      "summary": "William Gallas has told Chelsea they “have to go get” a centre-back who Arsenal are targeting as the fellow defenders are “going to progress,” such as new signing Maxen...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gallas-tells-chelsea-get-arsenal-target-stones-lacroix-transfer",
+      "publishedAt": "2026-07-24T21:08:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "8773d20c923273",
+      "title": "Real Madrid confident of signing Rodri - Saturday's gossip",
+      "summary": "Real Madrid are confident they will sign Rodri from Man City, Arsenal eye player-plus-cash deal for Atletico striker Julian Alvarez, while Roma are keen on Fulham winge...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7qq6nkddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T20:37:28.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "ed2f5f2f3901e0",
+      "title": "Transfer news: Newcastle sign Monaco’s Bamba, Summerville joins Al-Hilal",
+      "summary": "Midfielder agrees five-year contract after £34m move Dutch winger leaves West Ham in deal worth £60m Newcastle have made Aladji Bamba their fourth signing of the summer...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco",
+      "publishedAt": "2026-07-24T20:10:41.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0e5e65b20c91e6",
+      "title": "Dismissed solicitor is still acting for footballers in brain injury court case",
+      "summary": "Richard Boardman dropped by group of rugby players Football group includes family of Nobby Stiles The solicitor dismissed by a group of over 1,000 rugby players with br...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/jul/24/discarded-solicitor-still-acting-for-footballers-over-brin-injuries",
+      "publishedAt": "2026-07-24T19:39:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c47b1eb58a88bf",
+      "title": "Man Utd could force exit Aston Villa ‘really don’t want’ with expected Ollie Watkins bid",
+      "summary": "Aston Villa star Ollie Watkins is a target for Manchester United and Arsenal, and a bid from the Red Devils is expected if one thing happens.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ollie-watkins-bid-expected-aston-villa-exit",
+      "publishedAt": "2026-07-24T19:37:45.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal",
-        "Chelsea",
-        "Liverpool",
         "Manchester"
       ]
     },
@@ -502,104 +599,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "04638b811946d9",
-      "title": "Chelsea decide on hijacking Arsenal move for Bruno Guimaraes – three sources",
-      "summary": "Chelsea have made up their mind on whether or not they will rival Arsenal for Newcastle United midfielder Bruno Guimaraes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-guimaraes-chelsea-arsenal-newcastle-united",
-      "publishedAt": "2026-07-24T10:25:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c432769ad75536",
-      "title": "Real Madrid star reaches decision on Man Utd transfer after Red Devils make offer",
-      "summary": "Man Utd and arch-rivals Man City have made an ‘offer’ to sign Eduardo Camavinga from Real Madrid this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-star-reaches-decision-on-man-utd-transfer-after-red-devils-make-offer",
-      "publishedAt": "2026-07-24T10:25:06.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8760ce7022e194",
-      "title": "David Squires on … the notable people and big moments from World Cup 2026",
-      "summary": "Our cartoonist looks back at the big stories and headline-generating characters at the biggest World Cup ever Buy a cartoon | Some of David’s favourite works And his la...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/jul/24/david-squires-on-the-notable-people-and-big-moments-from-world-cup-2026",
-      "publishedAt": "2026-07-24T10:10:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "7820eba7761fe2",
-      "title": "Guardiola turns down Italy manager job",
-      "summary": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T09:47:25.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "017d5902304302",
-      "title": "Man Utd handed Tchouameni boost - Friday's gossip",
-      "summary": "Real Madrid open to selling Aurelien Tchouameni to Manchester United, Arsenal eye John Stones and Ezri Konsa, Chelsea favourites for Kerim Alajbegovic, Yan Diomande bac...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cedjnz7wxy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T09:47:15.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9f2efbb9aa2415",
-      "title": "PL side willing to meet Tottenham asking price for midfielder as Spurs open talks for Brazilian",
-      "summary": "Brighton are set to make an unexpected move to sign Tottenham midfielder Lucas Bergvall in the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-bergvall-asking-price-brighton-open-talks-richarlison-juventus",
-      "publishedAt": "2026-07-24T09:45:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "cd6bc24649f3a1",
-      "title": "England amputee team's World Cup dream on hold",
-      "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T09:43:39.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
       ]
     }
   ],
