@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-25T13:44:19.203Z",
+  "generatedAt": "2026-07-25T19:14:16.525Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,39 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "fcdaedfd1b7e7d",
-      "title": "Celtic vs AC Milan in pre-season friendly LIVE!",
-      "summary": "Celtic vs AC Milan in pre-season friendly LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-ac-milan/live/556660",
-      "publishedAt": "2026-07-25T13:44:18.940Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "c70599863bf27d",
-      "title": "Inter Milan interested in signing Tottenham captain Romero",
-      "summary": "Inter Milan are interested in signing Tottenham captain Cristian Romero, according to Sky in Italy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window",
-      "publishedAt": "2026-07-25T13:44:18.940Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
       "id": "edffbb0500be13",
       "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
       "summary": "Woking's director of football Jody Brown claims Jermain Defoe didn't turn up for a meeting and training amid \"growing concerns\" within the club before he left his role...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit",
-      "publishedAt": "2026-07-25T13:44:18.939Z",
+      "publishedAt": "2026-07-25T19:14:16.274Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -139,15 +112,146 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "434d9de1d8bb9f",
-      "title": "Van Veen on Winter Garden boos: That 118 finish was for you!",
-      "summary": "Van Veen on Winter Garden boos: That 118 finish was for you!",
+      "id": "245ec73e9d8885",
+      "title": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
+      "summary": "Arsenal are looking into a potential deal for Real Madrid winger Vinicius Junior.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13566495/world-matchplay-darts-live-updates-video-analysis-scores-commentary-with-gerwyn-price-gian-van-veen-and-james-wade-in-action",
-      "publishedAt": "2026-07-25T13:44:18.939Z",
+      "url": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
+      "publishedAt": "2026-07-25T19:14:16.273Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "38f3e906423ff2",
+      "title": "Kalpana defeats Calandagan in King George battle",
+      "summary": "Kalpana battled her way to a thrilling victory in the international clash of the generations landing a thrilling King George VI And Queen Stakes at Ascot.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13566848/ascot-kalpana-defeats-calandagan-in-king-george-vi-and-queen-elizabeth-stakes-battle",
+      "publishedAt": "2026-07-25T19:14:16.273Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "1f94e0fd013d27",
+      "title": "Duran scores and assists as Celtic round off pre-season with AC Milan draw",
+      "summary": "Camilo Duran impressed again as Celtic rounded off pre-season with an entertaining 2-2 draw against AC Milan.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/celtic-vs-ac-milan/report/556660",
+      "publishedAt": "2026-07-25T19:14:16.273Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "ac5474498ad770",
+      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
+      "summary": "Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle “I played with him on my PlayStation, and now I’ve s...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football",
+      "publishedAt": "2026-07-25T19:00:50.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "94084e596d1757",
+      "title": "Man Utd reach final decision on signing £70m midfielder after talks",
+      "summary": "Manchester United have made up their mind on rivalling Arsenal for one of the best young players in the Premier League.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-alex-scott-bournemouth-arsenal-final-decision-reached",
+      "publishedAt": "2026-07-25T18:51:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fa08efc7c2e9bb",
+      "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
+      "summary": "Brazil forward has one year left on contract at Bernabéu Vinícius future at Real uncertain after Mourinho arrival Arsenal are exploring a shock deal to sign Vinícius Jú...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
+      "publishedAt": "2026-07-25T17:32:00.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e53d840bb70045",
+      "title": "Arsenal have just received some bad news about signing Vinicius Junior",
+      "summary": "Real Madrid manager Jose Mourinho’s stance on selling Vinicius Junior amid interest from Arsenal has been revealed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-vinicius-junior-real-madrid-jose-mourinho-decision",
+      "publishedAt": "2026-07-25T16:21:21.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "f2fb2942293c97",
+      "title": "Liverpool reach decision on signing Vinicius Junior after Real Madrid superstar ‘suggested’ to FSG",
+      "summary": "Liverpool have made up their mind on whether or not they will sign Vinicius Junior from Real Madrid in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-vinicius-junior-real-madrid",
+      "publishedAt": "2026-07-25T15:38:30.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "04345288153457",
+      "title": "Howe unsure over Guimaraes amid Arsenal interest",
+      "summary": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T14:54:03.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5e58023cd90f34",
+      "title": "Real Madrid stance on selling Vinicius Junior to Arsenal emerges",
+      "summary": "Arsenal are interested in a blockbuster deal for Real Madrid and Brazil international winger Vinicius Junior.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-real-madrid-vinicius-junior",
+      "publishedAt": "2026-07-25T14:19:22.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
         "Inter"
       ]
     },
@@ -157,11 +261,37 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T13:27:08.000Z",
+      "publishedAt": "2026-07-25T13:59:05.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "63a8d363c76707",
+      "title": "Defoe’s shock Woking exit came after ‘growing concerns’, says club",
+      "summary": "Director of football claims manager failed to turn up for training Former Spurs striker’s stint ended after four months Jermain Defoe’s departure from Woking came after...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/25/jermain-defoe-woking-exit",
+      "publishedAt": "2026-07-25T13:53:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T13:27:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -463,128 +593,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Soccer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "90683ab6699ec2",
-      "title": "Gallas tells Chelsea they ‘have to get’ Arsenal centre-back target after Lacroix transfer",
-      "summary": "William Gallas has told Chelsea they “have to go get” a centre-back who Arsenal are targeting as the fellow defenders are “going to progress,” such as new signing Maxen...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gallas-tells-chelsea-get-arsenal-target-stones-lacroix-transfer",
-      "publishedAt": "2026-07-24T21:08:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8773d20c923273",
-      "title": "Real Madrid confident of signing Rodri - Saturday's gossip",
-      "summary": "Real Madrid are confident they will sign Rodri from Man City, Arsenal eye player-plus-cash deal for Atletico striker Julian Alvarez, while Roma are keen on Fulham winge...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7qq6nkddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T20:37:28.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "0e5e65b20c91e6",
-      "title": "Dismissed solicitor is still acting for footballers in brain injury court case",
-      "summary": "Richard Boardman dropped by group of rugby players Football group includes family of Nobby Stiles The solicitor dismissed by a group of over 1,000 rugby players with br...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/jul/24/discarded-solicitor-still-acting-for-footballers-over-brin-injuries",
-      "publishedAt": "2026-07-24T19:39:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c47b1eb58a88bf",
-      "title": "Man Utd could force exit Aston Villa ‘really don’t want’ with expected Ollie Watkins bid",
-      "summary": "Aston Villa star Ollie Watkins is a target for Manchester United and Arsenal, and a bid from the Red Devils is expected if one thing happens.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ollie-watkins-bid-expected-aston-villa-exit",
-      "publishedAt": "2026-07-24T19:37:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fe4ea0612acbf0",
-      "title": "‘You need to evolve’: Enzo Maresca plots life after Pep at Manchester City",
-      "summary": "Italian does not shy away from the task of following a legend but his previous time at the club may help him Relaxed and tanned, Enzo Maresca offered a warm note with h...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresco-manchester-city-pep-guardiola",
-      "publishedAt": "2026-07-24T18:13:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "96d4585efa8099",
-      "title": "Newcastle expected by insider to ‘outbid’ two rivals for £60m Tottenham star at ‘top of list’",
-      "summary": "Newcastle are expected two “outbid” the two other sides pushing to sign a Tottenham man who former Premier League scout Mick Brown believes is “top of the list.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-outbid-rivals-bergvall-tottenham",
-      "publishedAt": "2026-07-24T17:38:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "20beb1361b3e8a",
-      "title": "Palace want teenage Brest defender Le Guen",
-      "summary": "Crystal Palace are interested in signing 19-year-old Brest centre-back Raphael le Guen.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq6dy718z2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T17:20:04.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "a06e4ced22e337",
-      "title": "IOC says Infantino complaint outside its scope",
-      "summary": "The IOC says it will not investigate Gianni Infantino as a complaint about the Fifa president is \"outside\" its scope.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07rzz54jyro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T16:07:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a15192ac66ebcb",
-      "title": "Concrete Man Utd interest in 21y/o striker revealed as €35m bid rejected",
-      "summary": "United have found an exciting 21-year-old who can replace Zirkzee in their forward line, according to a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-news-nicolo-tresoldi-striker-target-bid-rejected",
-      "publishedAt": "2026-07-24T15:54:19.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
         "Inter"
       ]
     }
