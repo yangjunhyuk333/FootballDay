@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-26T08:32:32.566Z",
+  "generatedAt": "2026-07-26T13:38:38.179Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "658e7bf224ef69",
-      "title": "Destructive Littler makes history as he sets up Matchplay final with Price",
-      "summary": "Luke Littler was at his brilliant best in a 17-5 win over Dirk van Duijvenbode to set up a World Matchplay Darts final against Gerwyn Price at the Winter Gardens in Bla...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13566875/world-matchplay-darts-luke-littler-demolishes-dirk-van-duijvenbode-to-set-up-final-with-gerwyn-price-and-pass-3-million-in-prize-money",
-      "publishedAt": "2026-07-26T08:32:32.352Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "eec6620ce22557",
       "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
-      "publishedAt": "2026-07-26T08:32:32.351Z",
+      "publishedAt": "2026-07-26T13:38:37.887Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -131,7 +118,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England women ramped up preparations for the Rugby League World Cup in their mid-season international against France on Saturday, with a dominant performance in Toulouse.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13566994/england-women-ramp-up-preparations-for-rugby-league-world-cup-with-win-against-france-in-toulouse",
-      "publishedAt": "2026-07-26T08:32:32.351Z",
+      "publishedAt": "2026-07-26T13:38:37.887Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -140,25 +127,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "97b0a09b85ab85",
-      "title": "Liverpool 4-2 Sunderland: How Andoni Iraola's Reds debut fared",
-      "summary": "Liverpool 4-2 Sunderland: How Andoni Iraola's Reds debut fared",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-sunderland/live/554985",
-      "publishedAt": "2026-07-26T08:32:32.351Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "f27a1e8781df2e",
       "title": "Impressive Liverpool beat Sunderland in Iraola's first game in charge",
       "summary": "Andoni Iraola won his first match in charge of Liverpool as his new side produced an impressive display to beat Sunderland 4-2 in their opening game of their summer tou...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-sunderland/report/554985",
-      "publishedAt": "2026-07-26T08:32:32.350Z",
+      "publishedAt": "2026-07-26T13:38:37.886Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -171,11 +145,187 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Real Madrid are in pole position to sign RB Leipzig winger Yan Diomande, according to Sky in Germany.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected",
-      "publishedAt": "2026-07-26T08:32:32.349Z",
+      "publishedAt": "2026-07-26T13:38:37.885Z",
       "category": "transfer",
       "region": "spain germany",
       "tags": [
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "320d203bfb55a9",
+      "title": "Tottenham transfer needs to be sorted within 10 days amid Arsenal hijack rumours",
+      "summary": "Inter Milan are reportedly looking to complete a deal for Tottenham centre-back Cristian Romero ‘within 10 days’ amid interest from Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-transfer-needs-to-be-sorted-within-10-days-amid-arsenal-hijack-rumours",
+      "publishedAt": "2026-07-26T12:41:28.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "5906a5e506427f",
+      "title": "Romano reveals Barcola has reached decision on joining Liverpool as Reds ‘lead race’",
+      "summary": "Fabrizio Romano has revealed that Bradley Barcola is giving ‘priority’ to Liverpool in the summer ‘if they can get a deal done’ with PSG.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-barcola-reaches-decision-transfer",
+      "publishedAt": "2026-07-26T11:59:27.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Arsenal dream of Vinicius Jr as suitors for Spurs sale go public",
+      "summary": "Liverpool are back in with a sniff of Yan Diomande but they will encounter the same problems as PSG, while Vinicius Jr is also linked with the Reds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-26T11:37:01.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "fe8b9cad58aeac",
+      "title": "Vinicius Junior decides whether he’ll join Arsenal from Real Madrid",
+      "summary": "Vinicius Junior has made up his mind on a potential move to Arsenal from Real Madrid in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-vinicius-junior-real-madrid-transfer-decision-reached",
+      "publishedAt": "2026-07-26T11:35:57.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8ae20d539b3c05",
+      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
+      "summary": "Inter sporting director confirms attempt to sign Romero Spurs captain helped Argentina reach World Cup final Inter have entered talks with Tottenham over the potential...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window",
+      "publishedAt": "2026-07-26T11:34:40.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Europa League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ac216f5ff0e406",
+      "title": "‘We want to win the league’: Arsenal’s new recruits ink in WSL success",
+      "summary": "Despite a busy transfer window with Beth Mead moving on and seven new signings, academy graduates such as Lotte Wubben-Moy remain key to trophies Georgia Stanway looks...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/arsenal-new-recruits-georgia-stanway-lotte-wubben-moy-wsl",
+      "publishedAt": "2026-07-26T11:00:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "357a5bd8666544",
+      "title": "Liverpool get transfer boost as Bradley Barcola makes final decision on PSG contract",
+      "summary": "Liverpool have been given a transfer boost as Bradley Barcola makes his ‘final decision’ over whether to accept a new PSG deal or not.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-boost-bradley-barcola-final-decision-psg-contract",
+      "publishedAt": "2026-07-26T10:58:40.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "a86ffc21487d58",
+      "title": "Mohamed Salah strikes ‘agreement’ with next club as ex-Liverpool striker could join him",
+      "summary": "Mohamed Salah has an ‘agreement in principle’ to join Besiktas after leaving Liverpool with the Turkish side ‘confident’ of a deal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-mohamed-salah-agreement-next-club-nunez",
+      "publishedAt": "2026-07-26T10:26:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fa6cd15ae40a9b",
+      "title": "Liverpool make transfer decision on Giorgi Mamardashvili future",
+      "summary": "Liverpool have decided what they will do with Georgia international goalkeeper Giorgi Mamardashvili in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-giorgi-mamardashvili-transfer-decision-reached",
+      "publishedAt": "2026-07-26T09:52:16.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3e908c7055c476",
+      "title": "Real Madrid tell Arsenal how much to pay for Vinicius Junior as Yan Diomande move gets ‘green light’",
+      "summary": "Real Madrid have informed Arsenal how much they will need to bid to sign Vinicius Junior as they get the ‘green light’ for Yan Diomande.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-real-madrid-vinicius-junior-how-much-pay-yan-diomande-green-light",
+      "publishedAt": "2026-07-26T09:39:32.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "5419e92726d87b",
+      "title": "Japan football great ‘King Kazu’ Miura, 59, scores first competitive goal in four years",
+      "summary": "Kazuyoshi Miura converts cross to score in 52nd minute Former Japan international preparing for his 42nd season The Japanese football legend Kazuyoshi Miura scored his...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/japan-football-great-king-kazuyoshi-miura-59-scores-first-competitive-goal-for-four-years",
+      "publishedAt": "2026-07-26T09:14:49.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "9b1a6c9f2bdea1",
+      "title": "Chelsea will accept offers for five players as medical is confirmed for seventh signing",
+      "summary": "Chelsea are reportedly ready to accept offers for five players as a deal for Maxence Lacroix could trigger a mass exodus at Stamford Bridge.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-will-accept-offers-chalobah-sarr-fofana-adarabioyo-badiashile-medical-lacroix",
+      "publishedAt": "2026-07-26T08:51:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
       ]
     },
     {
@@ -288,7 +438,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "667efa514099d2",
       "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
-      "summary": "Liverpool defeat Sunderland 4-2 in friendly in Nashville When Gomez went down, central defence formed by two teenagers The Andoni Iraola era at Liverpool opened with a...",
+      "summary": "Liverpool defeat Sunderland 4-2 in friendly in Nashville Gomez’s early injury leaves two teenagers in central defence The Andoni Iraola era at Liverpool opened with a v...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence",
       "publishedAt": "2026-07-26T00:49:24.000Z",
@@ -371,19 +521,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T19:42:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     },
     {
@@ -473,128 +610,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Inter"
-      ]
-    },
-    {
-      "id": "5e58023cd90f34",
-      "title": "Real Madrid stance on selling Vinicius Junior to Arsenal emerges",
-      "summary": "Arsenal are interested in a blockbuster deal for Real Madrid and Brazil international winger Vinicius Junior.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-real-madrid-vinicius-junior",
-      "publishedAt": "2026-07-25T14:19:22.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "63a8d363c76707",
-      "title": "Defoe’s shock Woking exit came after ‘growing concerns’, says club",
-      "summary": "Director of football claims manager failed to turn up for training Former Spurs striker’s stint ended after four months Jermain Defoe’s departure from Woking came after...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/25/jermain-defoe-woking-exit",
-      "publishedAt": "2026-07-25T13:53:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b0e9ca9096e835",
-      "title": "Arsenal reach decision on who to sign if Newcastle reject new Bruno Guimaraes bid",
-      "summary": "Arsenal are primed to bid £70m for Bruno Guimaraes, but if Newcastle say no and the Gunners call it quits, a report has revealed who they’ll turn to",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-reach-decision-sign-alex-scott-newcastle-reject-new-bruno-guimaraes-bid",
-      "publishedAt": "2026-07-25T12:21:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "00b4d142cc5e3e",
-      "title": "Barcelona pledge support after worker dies",
-      "summary": "Barcelona offer support to the family of a worker who died during renovations at the club's Nou Camp stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crrvd8zz7vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T12:18:55.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "a6da4e60213e27",
-      "title": "Growing concerns before Defoe exit - Woking director",
-      "summary": "Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermai...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T11:08:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5d9e1817ab32e8",
-      "title": "Arsenal sensationally linked with Tottenham star amid €50m price tag negotiation",
-      "summary": "Arsenal have been linked with a surprise move for a Tottenham star, but face competition from a host of European giants.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-sensationally-linked-tottenham-star-e50m-price-tag-negotiation",
-      "publishedAt": "2026-07-25T11:07:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7c166f87deae78",
-      "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
-      "summary": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T11:01:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "99866ab0893d96",
-      "title": "Missing a major football tournament? Fear not, Wafcon 2026 is about to start",
-      "summary": "The Women’s Africa Cup of Nations starts in Morocco on Sunday, with Cape Verde and Egypt looking to continue feelgood factor from the men’s World Cup and Nigeria going...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/25/wafcon-2026-womens-africa-cup-nations-guide",
-      "publishedAt": "2026-07-25T11:00:40.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d2079932b5dd65",
-      "title": "Rogers to Chelsea only the third-biggest Premier League overpay so far this summer",
-      "summary": "Spurs are responsible for three of the seven biggest Premier League overpays so far this summer, but not the most apparently egregious.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-premier-league-transfer-overpays-this-summer-spurs",
-      "publishedAt": "2026-07-25T10:46:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
       ]
     }
   ],
