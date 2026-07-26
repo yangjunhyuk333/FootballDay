@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-26T13:38:38.179Z",
+  "generatedAt": "2026-07-26T19:17:36.023Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,40 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "eec6620ce22557",
-      "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "id": "a39cb64917d805",
+      "title": "Defence needs additions, Iraola-ball excites: What we learned from Reds boss' debut",
+      "summary": "Andoni Iraola kicked off his Liverpool reign with a 4-2 win against Sunderland in Nashville on Saturday - so what did we learn from the new head coach's first outing in...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
-      "publishedAt": "2026-07-26T13:38:37.887Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8f5760997250fd",
-      "title": "England women ramp up Rugby League World Cup preparations with win in France",
-      "summary": "England women ramped up preparations for the Rugby League World Cup in their mid-season international against France on Saturday, with a dominant performance in Toulouse.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13566994/england-women-ramp-up-preparations-for-rugby-league-world-cup-with-win-against-france-in-toulouse",
-      "publishedAt": "2026-07-26T13:38:37.887Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f27a1e8781df2e",
-      "title": "Impressive Liverpool beat Sunderland in Iraola's first game in charge",
-      "summary": "Andoni Iraola won his first match in charge of Liverpool as his new side produced an impressive display to beat Sunderland 4-2 in their opening game of their summer tou...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-sunderland/report/554985",
-      "publishedAt": "2026-07-26T13:38:37.886Z",
+      "url": "https://www.skysports.com/football/news/12040/13567211/andoni-iraola-five-things-we-learned-from-liverpool-head-coachs-first-game-in-charge-against-sunderland",
+      "publishedAt": "2026-07-26T19:17:35.630Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -140,16 +112,179 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "bc8623fc8de8cf",
-      "title": "Real Madrid in pole position to sign RB Leipzig's Diomande",
-      "summary": "Real Madrid are in pole position to sign RB Leipzig winger Yan Diomande, according to Sky in Germany.",
+      "id": "25102c584112f3",
+      "title": "Greaves beats Sherrock to claim record third Women's Matchplay crown",
+      "summary": "Beau Greaves won the Women's World Matchplay for a record third time with a 6-5 last-leg victory over Fallon Sherrock at the Winter Gardens in Blackpool.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected",
-      "publishedAt": "2026-07-26T13:38:37.885Z",
+      "url": "https://www.skysports.com/darts/news/12040/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown",
+      "publishedAt": "2026-07-26T19:17:35.629Z",
       "category": "transfer",
-      "region": "spain germany",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "94a63964c6b709",
+      "title": "Mayo win first All-Ireland title in 75 years as 'curse lifted'",
+      "summary": "Mayo claimed a first All-Ireland Senior Football title for 75 years as they beat defending champions Kerry in a thrilling final at Croke Park.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/gaelic-football/news/12040/13567219/mayo-win-first-all-ireland-senior-football-title-in-75-years-as-curse-lifted-with-thrilling-victory-over-kerry-at-croke-park",
+      "publishedAt": "2026-07-26T19:17:35.627Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "6cb54b04986778",
+      "title": "Forgotten Liverpool man reaches decision on club future – ‘A fresh start’",
+      "summary": "Federico Chiesa has made clear his thoughts on his Liverpool future, stating he’s ready for “a fresh start” after recently suggesting he might have to look elsewhere.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/forgotten-liverpool-man-chiesa-fresh-start",
+      "publishedAt": "2026-07-26T18:41:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6bb7399a36dba7",
+      "title": "Prem rivals won’t land Djed Spence as Tottenham insider makes ’50 pence’ taunt",
+      "summary": "A Tottenham insider feels a Premier League rival were never going to land Djed Spence as they “only spend 50 pence on right-backs.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/prem-rivals-everton-wont-land-djed-spence",
+      "publishedAt": "2026-07-26T17:58:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7aba461c8eb2fb",
+      "title": "Régis Le Bris says Chelsea’s pursuit of Sunderland captain Xhaka is ‘closed’",
+      "summary": "Le Bris: ‘Granit wants to stay in Sunderland’ Xabi Alonso managed midfielder at Leverkusen Régis Le Bris has declared Chelsea’s pursuit of Granit Xhaka “closed” and ins...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/regis-le-bris-says-chelseas-pursuit-of-sunderland-captain-xhaka-is-closed",
+      "publishedAt": "2026-07-26T16:06:34.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Europa League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "dec1bc69148db7",
+      "title": "Chiesa happy but wants new chapter at Liverpool",
+      "summary": "Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T16:02:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9aebacfe8a5fba",
+      "title": "Gittens keen to impress 'world-class' Alonso",
+      "summary": "Chelsea winger Jamie Gittens says he will be involved in Xabi Alonso's squad next season and describes his new manager as \"one of the best to do it\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3gg1083no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T16:00:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "9de802497aaecd",
+      "title": "Chiesa wants ‘new chapter’ with Iraola after frustrating time under Slot at Liverpool",
+      "summary": "Forward scored in friendly win against Sunderland Chiesa had frustrating two seasons under Arne Slot Federico Chiesa has said he wants “a new chapter” at Liverpool with...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/federico-chiesa-liverpool-andoni-iraola-arne-slot-premier-league",
+      "publishedAt": "2026-07-26T16:00:15.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4f82466fcca4af",
+      "title": "Ronaldo plans to use Al-Nassr control to land Bruno Fernandes from Man Utd",
+      "summary": "Cristiano Ronaldo is taking some control of transfer decisions at Al-Nassr, and is leading an ‘intense effort’ to sign Bruno Fernandes from Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronaldo-negotiations-fernandes-al-nassr-man-utd",
+      "publishedAt": "2026-07-26T15:49:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "639866f872b5dc",
+      "title": "Rodri to Real Madrid hijacked by two European giants as ‘agreement’ reached",
+      "summary": "Madrid remain best-placed to sign Rodri from Man City, but they are now facing competition from two European heavyweights, as per a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rodri-to-real-madrid-transfer-news-agreement-reached-man-city-psg-hijack-barcelona",
+      "publishedAt": "2026-07-26T15:05:50.000Z",
+      "category": "transfer",
+      "region": "spain",
       "tags": [
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "a5798bb4586c56",
+      "title": "Maynard loses York job three months after title win",
+      "summary": "York City confirm the exit of manager Stuart Maynard, three months after he guided the club back into the English Football League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp87v9ddqvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T14:59:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "07662c2b534487",
+      "title": "Arsenal make £72m ‘offer’ for Spain star as Barcelona ‘give up’ on Alvarez in huge Gunners boost",
+      "summary": "Arsenal have made an ‘offer’ to sign Barcelona star Dani Olmo as they get a boost in the race to sign Julian Alvarez, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-offer-olmo-barcelona-give-up-alvarez-boost",
+      "publishedAt": "2026-07-26T14:08:04.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "e7887b1cbe377e",
+      "title": "Tottenham insider ‘would rather’ sacrifice 94-game star to keep Djed Spence",
+      "summary": "Tottenham insider John Wenham feels that Djed Spence should be kept at the club after his World Cup displays, and would “rather” a fellow Spurs man was shown the door.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-insider-sacrifice-udogie-keep-spence",
+      "publishedAt": "2026-07-26T13:51:30.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -436,21 +571,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "667efa514099d2",
-      "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
-      "summary": "Liverpool defeat Sunderland 4-2 in friendly in Nashville Gomez’s early injury leaves two teenagers in central defence The Andoni Iraola era at Liverpool opened with a v...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence",
-      "publishedAt": "2026-07-26T00:49:24.000Z",
-      "category": "issue",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
       "id": "3e0c4fdf1cea55",
       "title": "Fabrizio Romano says £60m Tottenham ‘deal is absolutely on’",
       "summary": "Fabrizio Romano names the Manchester City star that Tottenham Hotspur are planning to sign in the summer transfer window.",
@@ -477,138 +597,6 @@ window.FOOTBALLDAY_DATA = {
         "Arsenal",
         "Manchester",
         "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5f09c18a494bcd",
-      "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
-      "summary": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T21:21:03.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "53da0b4789faa8",
-      "title": "Fabrizio Romano reveals Man Utd decision on signing Danilo from Botafogo",
-      "summary": "Fabrizio Romano has reported whether Manchester United are interested in adding Botafogo midfielder Danilo to Michael Carrick’s squad.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-danilo-botafogo-fabrizio-romano-transfer-update",
-      "publishedAt": "2026-07-25T20:08:38.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T19:47:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "ac5474498ad770",
-      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
-      "summary": "Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle “I played with him on my PlayStation, and now I’ve s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football",
-      "publishedAt": "2026-07-25T19:00:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "94084e596d1757",
-      "title": "Man Utd reach final decision on signing £70m midfielder after talks",
-      "summary": "Manchester United have made up their mind on rivalling Arsenal for one of the best young players in the Premier League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-alex-scott-bournemouth-arsenal-final-decision-reached",
-      "publishedAt": "2026-07-25T18:51:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fa08efc7c2e9bb",
-      "title": "Arsenal make shock approach to sign Vinícius Júnior from Real Madrid",
-      "summary": "Brazil forward has one year left on contract at Bernabéu Vinícius future at Real uncertain after Mourinho arrival Arsenal are exploring a shock deal to sign Vinícius Jú...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid",
-      "publishedAt": "2026-07-25T17:32:00.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e53d840bb70045",
-      "title": "Arsenal have just received some bad news about signing Vinicius Junior",
-      "summary": "Real Madrid manager Jose Mourinho’s stance on selling Vinicius Junior amid interest from Arsenal has been revealed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-vinicius-junior-real-madrid-jose-mourinho-decision",
-      "publishedAt": "2026-07-25T16:21:21.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f2fb2942293c97",
-      "title": "Liverpool reach decision on signing Vinicius Junior after Real Madrid superstar ‘suggested’ to FSG",
-      "summary": "Liverpool have made up their mind on whether or not they will sign Vinicius Junior from Real Madrid in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-vinicius-junior-real-madrid",
-      "publishedAt": "2026-07-25T15:38:30.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "04345288153457",
-      "title": "Howe unsure over Guimaraes amid Arsenal interest",
-      "summary": "Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdrvxm682yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T14:54:03.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
         "Inter"
       ]
     }
