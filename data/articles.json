@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:25:32.326Z",
+  "generatedAt": "2026-07-26T08:32:32.566Z",
   "windowDays": 7,
   "articles": [
     {
@@ -100,29 +100,15 @@
     },
     {
       "id": "658e7bf224ef69",
-      "title": "Littler finds his destructive best to set up Matchplay final with Price",
+      "title": "Destructive Littler makes history as he sets up Matchplay final with Price",
       "summary": "Luke Littler was at his brilliant best in a 17-5 win over Dirk van Duijvenbode to set up a World Matchplay Darts final against Gerwyn Price at the Winter Gardens in Bla...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13566875/world-matchplay-darts-luke-littler-demolishes-dirk-van-duijvenbode-to-set-up-final-with-gerwyn-price-and-pass-3-million-in-prize-money",
-      "publishedAt": "2026-07-26T03:25:31.989Z",
+      "publishedAt": "2026-07-26T08:32:32.352Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "245ec73e9d8885",
-      "title": "Arsenal exploring deal for Real Madrid's Vinicius Jr",
-      "summary": "Arsenal are looking into a potential deal for Real Madrid winger Vinicius Junior.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
-      "publishedAt": "2026-07-26T03:25:31.989Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
       ]
     },
     {
@@ -131,7 +117,7 @@
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
-      "publishedAt": "2026-07-26T03:25:31.988Z",
+      "publishedAt": "2026-07-26T08:32:32.351Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -145,7 +131,7 @@
       "summary": "England women ramped up preparations for the Rugby League World Cup in their mid-season international against France on Saturday, with a dominant performance in Toulouse.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13566994/england-women-ramp-up-preparations-for-rugby-league-world-cup-with-win-against-france-in-toulouse",
-      "publishedAt": "2026-07-26T03:25:31.988Z",
+      "publishedAt": "2026-07-26T08:32:32.351Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -159,8 +145,141 @@
       "summary": "Liverpool 4-2 Sunderland: How Andoni Iraola's Reds debut fared",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-sunderland/live/554985",
-      "publishedAt": "2026-07-26T03:25:31.988Z",
+      "publishedAt": "2026-07-26T08:32:32.351Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f27a1e8781df2e",
+      "title": "Impressive Liverpool beat Sunderland in Iraola's first game in charge",
+      "summary": "Andoni Iraola won his first match in charge of Liverpool as his new side produced an impressive display to beat Sunderland 4-2 in their opening game of their summer tou...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-sunderland/report/554985",
+      "publishedAt": "2026-07-26T08:32:32.350Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bc8623fc8de8cf",
+      "title": "Real Madrid in pole position to sign RB Leipzig's Diomande",
+      "summary": "Real Madrid are in pole position to sign RB Leipzig winger Yan Diomande, according to Sky in Germany.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected",
+      "publishedAt": "2026-07-26T08:32:32.349Z",
+      "category": "transfer",
+      "region": "spain germany",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "89e82b12be6ee4",
+      "title": "Romano gives ‘here we go’ to fourth Arsenal signing after bid is launched for Vinicius Jr",
+      "summary": "Fabrizio Romano has give his ‘here we go’ confirmation to an Arsenal signing after the Gunners launch a bid to sign Vinicius Junior.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-romano-here-we-go-donczew-cardiff-vinicius-junior-real-madrid",
+      "publishedAt": "2026-07-26T07:58:00.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "575fafb6476c06",
+      "title": "Romano gives Arsenal timeline for ‘direct negotiations with Newcastle’ over Guimaraes after ‘agreement’",
+      "summary": "Arsenal are “not giving up” in their pursuit of Bruno Guimaraes as “direct negotiations with Newcastle” approach, says Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-timeline-direct-negotiations-newcastle-agreement",
+      "publishedAt": "2026-07-26T07:21:44.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "775ea60cf48cdc",
+      "title": "Vinicius next? Every Premier League player signed from Real Madrid ranked, with Arsenal trio in top ten",
+      "summary": "Real Madrid have sold 24 players to Premier League clubs over the years, with Arsenal hoping Vinicius Junior can make it a quarter-century.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-signings-from-premier-league-ranked-arsenal-chelsea",
+      "publishedAt": "2026-07-26T07:20:43.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "aa87fe044aa994",
+      "title": "How the death of Jayden Adams shook a community: ‘Being on the pitch was his happy place’",
+      "summary": "Those who knew the South African, who died aged 25 not long after playing at the World Cup, describe a humble and hard-working man who cared about friends and family Fo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup",
+      "publishedAt": "2026-07-26T07:00:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "63c5241951e70f",
+      "title": "Who am I? Guess Premier League star No 6",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekgekw0elo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T06:51:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a9be759f42914d",
+      "title": "Man Utd find £26m Kone solution to decrease £51m asking price in major swap deal",
+      "summary": "Man Utd could use Marcus Rashford as part of negotiations to sign Manu Kone from Serie A side Roma this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-kone-solution-rashford-major-swap-deal",
+      "publishedAt": "2026-07-26T06:48:39.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "46b62dd21edfc3",
+      "title": "Fabrizio Romano clarifies Man Utd stance on signing Carlos Baleba, Manu Kone and Danilo",
+      "summary": "Fabrizio Romano has given his take on how things are with Manchester United in regard to signing Danilo, Manu Kone and Carlos Baleba.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carlos-baleba-manu-kone-danilo-fabrizio-romano-transfer-latest",
+      "publishedAt": "2026-07-26T06:42:06.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "924d469723db0e",
+      "title": "Gomez injury overshadows winning start for Iraola",
+      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T06:25:17.000Z",
+      "category": "issue",
       "region": "england",
       "tags": [
         "Liverpool"
@@ -476,130 +595,6 @@
       "tags": [
         "Premier League",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "17e259ceaec901",
-      "title": "Real Madrid strike ‘agreement’ as Man Utd cleared to sign Aurelien Tchouameni for £68m",
-      "summary": "Real Madrid have struck an agreement on personal terms with Rodri, with numerous sources including Fabrizio Romano explaining why this is good news for Manchester Unite...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-strike-rodri-agreement-man-utd-cleared-sign-aurelien-tchouameni-68m",
-      "publishedAt": "2026-07-25T10:29:37.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "01090f75c2e266",
-      "title": "Chelsea in talks for Villa set-piece guru MacPhee",
-      "summary": "Chelsea are looking to sign highly regarded set-piece coach Austin MacPhee from Aston Villa but they face competition from Premier League and Saudi Pro League clubs.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T10:09:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "4071433142a1f6",
-      "title": "Arsenal ready to offer £85m plus big-name player for Julian Alvarez",
-      "summary": "Arsenal are reportedly willing to part ways with 2025 summer signing Viktor Gyokeres as part of an exchange to recruit Atletico Madrid’s Julian Alvarez.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/andrea-berta-ready-offer-85m-plus-viktor-gyokeres-for-julian-alvarez-transfer",
-      "publishedAt": "2026-07-25T09:35:08.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "73b1828396a5c8",
-      "title": "Man Utd get green light to sign Tchouameni for £68m with Rodri ‘joining’ Real Madrid",
-      "summary": "Real Madrid are now ready to sell Aurelien Tchouameni to Manchester United for £68m, with Los Blancos set to sign Rodri from Manchester City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-green-light-sign-aurelien-tchouameni-68m-rodri-joining-real-madrid",
-      "publishedAt": "2026-07-25T09:17:14.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "b69cf32d1ca000",
-      "title": "Arsenal ready to smash British transfer record with Berta confident of striking agreement",
-      "summary": "Arsenal are confident of striking agreements with Atletico Madrid and Julian Alvarez for the striker’s transfer, and the Gunners are prepared to set a new British trans...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-ready-smash-british-transfer-record-andrea-berta-confident-striking-julian-alvarez-atletico-madrid-agreements",
-      "publishedAt": "2026-07-25T08:09:26.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1f3463f31b93de",
-      "title": "Chelsea near £52m deal after medical passed as BlueCo buckle on long-held transfer policy",
-      "summary": "Chelsea are inching closer to a £52m deal for Crystal Palace defender Maxence Lacroix, in a big shift in BlueCo’s transfer policy.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-near-52m-deal-blueco-buckle-long-held-transfer-policy",
-      "publishedAt": "2026-07-25T07:49:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d85977b553a304",
-      "title": "Celtic eye Cancellieri as Maeda replacement - gossip",
-      "summary": "Celtic consider move for Serie A winger as former Rangers captain has talks with MLS club...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd695gqx376o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T07:44:51.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Serie A"
-      ]
-    },
-    {
-      "id": "ee2553f7aebb6f",
-      "title": "On the move - football's youngest journeymen",
-      "summary": "The players who had appeared for a remarkable number of clubs by their 23rd birthday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T07:35:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ac97859f166456",
-      "title": "Morgan Rogers ‘joined the wrong club’ in Chelsea over ‘tailor-made’ Liverpool",
-      "summary": "Chelsea are ‘the wrong club’ for Morgan Rogers. Arsenal weren’t his best fit either; Liverpool and Andoni Iraola could have ‘unleashed’ him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/morgan-rogers-joined-wrong-club-chelsea-arsenal-tailor-made-liverpool",
-      "publishedAt": "2026-07-25T07:17:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
       ]
     }
   ],
