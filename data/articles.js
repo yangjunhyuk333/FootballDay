@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-25T19:14:16.525Z",
+  "generatedAt": "2026-07-26T03:25:32.326Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "edffbb0500be13",
-      "title": "'People do not just fail to turn up' - Woking hit back at Defoe after exit",
-      "summary": "Woking's director of football Jody Brown claims Jermain Defoe didn't turn up for a meeting and training amid \"growing concerns\" within the club before he left his role...",
+      "id": "658e7bf224ef69",
+      "title": "Littler finds his destructive best to set up Matchplay final with Price",
+      "summary": "Luke Littler was at his brilliant best in a 17-5 win over Dirk van Duijvenbode to set up a World Matchplay Darts final against Gerwyn Price at the Winter Gardens in Bla...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566844/jermain-defoe-woking-claim-former-england-and-tottenham-striker-didnt-turn-up-for-meeting-and-training-before-shock-exit",
-      "publishedAt": "2026-07-25T19:14:16.274Z",
+      "url": "https://www.skysports.com/darts/news/12040/13566875/world-matchplay-darts-luke-littler-demolishes-dirk-van-duijvenbode-to-set-up-final-with-gerwyn-price-and-pass-3-million-in-prize-money",
+      "publishedAt": "2026-07-26T03:25:31.989Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Football"
+        "Inter"
       ]
     },
     {
@@ -117,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal are looking into a potential deal for Real Madrid winger Vinicius Junior.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13566893/vinicius-jr-transfer-news-arsenal-exploring-deal-for-real-madrid-and-brazil-forward",
-      "publishedAt": "2026-07-25T19:14:16.273Z",
+      "publishedAt": "2026-07-26T03:25:31.989Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -126,29 +126,145 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "38f3e906423ff2",
-      "title": "Kalpana defeats Calandagan in King George battle",
-      "summary": "Kalpana battled her way to a thrilling victory in the international clash of the generations landing a thrilling King George VI And Queen Stakes at Ascot.",
+      "id": "eec6620ce22557",
+      "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13566848/ascot-kalpana-defeats-calandagan-in-king-george-vi-and-queen-elizabeth-stakes-battle",
-      "publishedAt": "2026-07-25T19:14:16.273Z",
+      "url": "https://www.skysports.com/football/news/12040/13566990/chelsea160winger-pedro-neto-among-names-on160manchester-citys-radar-as-they-formulate-list-of-wing-targets-papers-talk",
+      "publishedAt": "2026-07-26T03:25:31.988Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "8f5760997250fd",
+      "title": "England women ramp up Rugby League World Cup preparations with win in France",
+      "summary": "England women ramped up preparations for the Rugby League World Cup in their mid-season international against France on Saturday, with a dominant performance in Toulouse.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13566994/england-women-ramp-up-preparations-for-rugby-league-world-cup-with-win-against-france-in-toulouse",
+      "publishedAt": "2026-07-26T03:25:31.988Z",
+      "category": "worldcup",
       "region": "italy",
       "tags": [
+        "World Cup",
         "Inter"
       ]
     },
     {
-      "id": "1f94e0fd013d27",
-      "title": "Duran scores and assists as Celtic round off pre-season with AC Milan draw",
-      "summary": "Camilo Duran impressed again as Celtic rounded off pre-season with an entertaining 2-2 draw against AC Milan.",
+      "id": "97b0a09b85ab85",
+      "title": "Liverpool 4-2 Sunderland: How Andoni Iraola's Reds debut fared",
+      "summary": "Liverpool 4-2 Sunderland: How Andoni Iraola's Reds debut fared",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-ac-milan/report/556660",
-      "publishedAt": "2026-07-25T19:14:16.273Z",
+      "url": "https://www.skysports.com/football/liverpool-vs-sunderland/live/554985",
+      "publishedAt": "2026-07-26T03:25:31.988Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "667efa514099d2",
+      "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+      "summary": "Liverpool defeat Sunderland 4-2 in friendly in Nashville When Gomez went down, central defence formed by two teenagers The Andoni Iraola era at Liverpool opened with a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence",
+      "publishedAt": "2026-07-26T00:49:24.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3e0c4fdf1cea55",
+      "title": "Fabrizio Romano says £60m Tottenham ‘deal is absolutely on’",
+      "summary": "Fabrizio Romano names the Manchester City star that Tottenham Hotspur are planning to sign in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/savinho-tottenham-hotspur-manchester-city-fabrizio-romano-update",
+      "publishedAt": "2026-07-25T22:29:10.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "774c35c034c97b",
+      "title": "Fabrizio Romano reveals Yan Diomande response to Arsenal as Real Madrid plan ‘new bid’",
+      "summary": "Fabrizio Romano has disclosed what Yan Diomande has told Arsenal and Manchester City about a potential move, amid interest from Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/yan-diomande-arsenal-manchester-city-response-real-madrid-agreement-fabrizio-romano-transfer-update",
+      "publishedAt": "2026-07-25T21:54:42.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Manchester",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5f09c18a494bcd",
+      "title": "Arsenal explore Vinicius Jr move - Sunday's gossip",
+      "summary": "Arsenal explore move for Vinicius Jr, Inter Milan interested in Cristian Romero and Real Madrid bid for Yan Diomande rejected, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw2wqxvjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T21:21:03.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
+        "Inter",
         "Milan"
+      ]
+    },
+    {
+      "id": "53da0b4789faa8",
+      "title": "Fabrizio Romano reveals Man Utd decision on signing Danilo from Botafogo",
+      "summary": "Fabrizio Romano has reported whether Manchester United are interested in adding Botafogo midfielder Danilo to Michael Carrick’s squad.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-danilo-botafogo-fabrizio-romano-transfer-update",
+      "publishedAt": "2026-07-25T20:08:38.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T19:47:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T19:42:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -256,19 +372,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T13:59:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "63a8d363c76707",
       "title": "Defoe’s shock Woking exit came after ‘growing concerns’, says club",
       "summary": "Director of football claims manager failed to turn up for training Former Spurs striker’s stint ended after four months Jermain Defoe’s departure from Woking came after...",
@@ -279,19 +382,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "78243969d4cdff",
-      "title": "Who has your Premiership club brought in & let go this summer?",
-      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T13:27:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     },
     {
@@ -510,90 +600,6 @@ window.FOOTBALLDAY_DATA = {
         "Arsenal",
         "Chelsea",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "ce3f21c363084e",
-      "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
-      "summary": "The English transfer record has been smashed, with Elliot Anderson and Morgan Rogers on the move during a busy summer of signings For once, Mikel Arteta is not spending...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need",
-      "publishedAt": "2026-07-25T07:00:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "932cf2b58764cc",
-      "title": "Yan Diomande reaches decision on joining Arsenal after hijack ‘calls’ and €100m Real Madrid bid",
-      "summary": "Arsenal have made ‘calls’ for the signing of Yan Diomande, and Fabrizio Romano has revealed all on the RB Leipzig winger after Real Madrid bid €100m.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/yan-diomande-reaches-decision-joining-arsenal-hijack-calls-e100m-real-madrid-bid",
-      "publishedAt": "2026-07-25T06:22:44.000Z",
-      "category": "transfer",
-      "region": "england spain italy germany",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "d3c6806b5b1a2f",
-      "title": "Who am I? Guess Premier League star No 5",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0kv2ggq3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T05:51:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1cca3e25f222e2",
-      "title": "What was the 2026 World Cup’s legacy? Proving that relentless expansion is unsustainable…",
-      "summary": "The 2026 World Cup was a logistical and sustainability nightmare with 48 teams and three hosts, which doesn’t bode well for 2030 and onwards.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/what-was-the-2026-world-cups-legacy-proving-that-relentless-expansion-is-unsustainable",
-      "publishedAt": "2026-07-25T05:45:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4a93e3368c111c",
-      "title": "How do Manchester City manage the Rodri dilemma?",
-      "summary": "BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T05:36:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "abb08f55d89fed",
-      "title": "Austin FC academy players under investigation by police and FBI for allegations of youth-on-youth sexual abuse",
-      "summary": "Austin FC reported allegations to local law enforcement Multiple sources confirm the ongoing inquiries Multiple players in the academy of Major League Soccer club Austi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
-      "publishedAt": "2026-07-24T21:45:26.000Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Inter"
       ]
     }
   ],
