@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:17:36.023Z",
+  "generatedAt": "2026-07-27T03:34:40.041Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,18 @@
       "pinned": true
     },
     {
-      "id": "a39cb64917d805",
-      "title": "Defence needs additions, Iraola-ball excites: What we learned from Reds boss' debut",
-      "summary": "Andoni Iraola kicked off his Liverpool reign with a 4-2 win against Sunderland in Nashville on Saturday - so what did we learn from the new head coach's first outing in...",
+      "id": "a7e6747dfaf227",
+      "title": "PSG pull out of Diomande race - Real confident of signing forward",
+      "summary": "Paris Saint-Germain have pulled out of the race to sign RB Leipzig forward Yan Diomande, with Real Madrid now increasingly confident of landing the Ivory Coast internat...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567211/andoni-iraola-five-things-we-learned-from-liverpool-head-coachs-first-game-in-charge-against-sunderland",
-      "publishedAt": "2026-07-26T19:17:35.630Z",
+      "url": "https://www.skysports.com/football/news/12040/13567238/yan-diomande-transfer-news-psg-pull-out-of-race-for-rb-leipzig-forward-real-madrid-confident-of-signing-ivorian",
+      "publishedAt": "2026-07-27T03:34:39.680Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain italy france germany",
       "tags": [
-        "Liverpool"
+        "Real Madrid",
+        "Psg",
+        "Inter"
       ]
     },
     {
@@ -117,11 +119,27 @@
       "summary": "Beau Greaves won the Women's World Matchplay for a record third time with a 6-5 last-leg victory over Fallon Sherrock at the Winter Gardens in Blackpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/darts/news/12040/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown",
-      "publishedAt": "2026-07-26T19:17:35.629Z",
+      "publishedAt": "2026-07-27T03:34:39.680Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "318114397cc165",
+      "title": "Papers: PSG value Barcola at £145m amid Liverpool and Arsenal interest",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567165/bradley-barcola-transfer-news-psg-value-france-forward-at-145m-amid-liverpool-and-arsenal-interest-paper-talk",
+      "publishedAt": "2026-07-27T03:34:39.679Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Psg"
       ]
     },
     {
@@ -130,8 +148,65 @@
       "summary": "Mayo claimed a first All-Ireland Senior Football title for 75 years as they beat defending champions Kerry in a thrilling final at Croke Park.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/gaelic-football/news/12040/13567219/mayo-win-first-all-ireland-senior-football-title-in-75-years-as-curse-lifted-with-thrilling-victory-over-kerry-at-croke-park",
-      "publishedAt": "2026-07-26T19:17:35.627Z",
+      "publishedAt": "2026-07-27T03:34:39.677Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T23:02:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "45b23b1d31f2b0",
+      "title": "Real Madrid ready to seal deal for Yan Diomande after PSG pull out of move",
+      "summary": "PSG formally withdraw from race to sign winger Teenager expected to complete Bernabéu switch Real Madrid look to have won the race for RB Leipzig’s coveted winger, Yan...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/26/real-madrid-ready-to-seal-deal-for-yan-diomande-after-psg-pull-out-of-move",
+      "publishedAt": "2026-07-26T21:55:32.000Z",
+      "category": "transfer",
+      "region": "spain italy france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "060e6c930c392d",
+      "title": "PSG want £145m for Barcola - Monday's gossip",
+      "summary": "Paris St-Germain want £145m for Bradley Barcola, Real Madrid set Vinicius Jr price and Arsenal to accelerate Bruno Guimaraes talks, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly5189yjgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T21:06:05.000Z",
+      "category": "league",
+      "region": "england spain france",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
+        "Psg"
+      ]
+    },
+    {
+      "id": "ff4ebbf13f614c",
+      "title": "Japan legend Miura, 59, scores first goal since 2022",
+      "summary": "Kazuyoshi Miura, the world's oldest professional footballer, scores his first goal in nearly four years at the age of 59 for Japanese third-tier side Fukushima United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3r087181ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T20:57:04.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football"
@@ -529,75 +604,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "a9be759f42914d",
-      "title": "Man Utd find £26m Kone solution to decrease £51m asking price in major swap deal",
-      "summary": "Man Utd could use Marcus Rashford as part of negotiations to sign Manu Kone from Serie A side Roma this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-kone-solution-rashford-major-swap-deal",
-      "publishedAt": "2026-07-26T06:48:39.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A"
-      ]
-    },
-    {
-      "id": "46b62dd21edfc3",
-      "title": "Fabrizio Romano clarifies Man Utd stance on signing Carlos Baleba, Manu Kone and Danilo",
-      "summary": "Fabrizio Romano has given his take on how things are with Manchester United in regard to signing Danilo, Manu Kone and Carlos Baleba.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carlos-baleba-manu-kone-danilo-fabrizio-romano-transfer-latest",
-      "publishedAt": "2026-07-26T06:42:06.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "924d469723db0e",
-      "title": "Gomez injury overshadows winning start for Iraola",
-      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T06:25:17.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3e0c4fdf1cea55",
-      "title": "Fabrizio Romano says £60m Tottenham ‘deal is absolutely on’",
-      "summary": "Fabrizio Romano names the Manchester City star that Tottenham Hotspur are planning to sign in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/savinho-tottenham-hotspur-manchester-city-fabrizio-romano-update",
-      "publishedAt": "2026-07-25T22:29:10.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "774c35c034c97b",
-      "title": "Fabrizio Romano reveals Yan Diomande response to Arsenal as Real Madrid plan ‘new bid’",
-      "summary": "Fabrizio Romano has disclosed what Yan Diomande has told Arsenal and Manchester City about a potential move, amid interest from Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/yan-diomande-arsenal-manchester-city-response-real-madrid-agreement-fabrizio-romano-transfer-update",
-      "publishedAt": "2026-07-25T21:54:42.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Manchester",
-        "Real Madrid",
-        "Inter"
       ]
     }
   ],
