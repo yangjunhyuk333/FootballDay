@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T03:34:40.041Z",
+  "generatedAt": "2026-07-27T09:59:00.210Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,47 +99,16 @@
       "pinned": true
     },
     {
-      "id": "a7e6747dfaf227",
-      "title": "PSG pull out of Diomande race - Real confident of signing forward",
-      "summary": "Paris Saint-Germain have pulled out of the race to sign RB Leipzig forward Yan Diomande, with Real Madrid now increasingly confident of landing the Ivory Coast internat...",
+      "id": "c0406188f009e2",
+      "title": "Are the Big Six raiding the rest of the Premier League?",
+      "summary": "What do Elliot Anderson, Morgan Rogers and Sandro Tonali have in common?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567238/yan-diomande-transfer-news-psg-pull-out-of-race-for-rb-leipzig-forward-real-madrid-confident-of-signing-ivorian",
-      "publishedAt": "2026-07-27T03:34:39.680Z",
+      "url": "https://www.skysports.com/football/news/12040/13566519/premier-league-transfers-are-big-six-clubs-raiding-their-rivals",
+      "publishedAt": "2026-07-27T09:58:59.789Z",
       "category": "transfer",
-      "region": "spain italy france germany",
+      "region": "england",
       "tags": [
-        "Real Madrid",
-        "Psg",
-        "Inter"
-      ]
-    },
-    {
-      "id": "25102c584112f3",
-      "title": "Greaves beats Sherrock to claim record third Women's Matchplay crown",
-      "summary": "Beau Greaves won the Women's World Matchplay for a record third time with a 6-5 last-leg victory over Fallon Sherrock at the Winter Gardens in Blackpool.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13567091/womens-world-matchplay-beau-greaves-defeats-fallon-sherrock-in-6-5-last-leg-decider-to-claim-record-third-blackpool-crown",
-      "publishedAt": "2026-07-27T03:34:39.680Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "318114397cc165",
-      "title": "Papers: PSG value Barcola at £145m amid Liverpool and Arsenal interest",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567165/bradley-barcola-transfer-news-psg-value-france-forward-at-145m-amid-liverpool-and-arsenal-interest-paper-talk",
-      "publishedAt": "2026-07-27T03:34:39.679Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool",
-        "Psg"
+        "Premier League"
       ]
     },
     {
@@ -148,11 +117,307 @@
       "summary": "Mayo claimed a first All-Ireland Senior Football title for 75 years as they beat defending champions Kerry in a thrilling final at Croke Park.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/gaelic-football/news/12040/13567219/mayo-win-first-all-ireland-senior-football-title-in-75-years-as-curse-lifted-with-thrilling-victory-over-kerry-at-croke-park",
-      "publishedAt": "2026-07-27T03:34:39.677Z",
+      "publishedAt": "2026-07-27T09:58:59.789Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "991408d224d1ac",
+      "title": "Chelsea latest: Alonso says 'impact' player Rogers and Palmer will line-up together",
+      "summary": "Chelsea latest: Alonso says 'impact' player Rogers and Palmer will line-up together",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-27T09:58:59.788Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "da5d6ba3d3700f",
+      "title": "Real to hold further talks over Vinicius Jr's future this week",
+      "summary": "Real Madrid will hold further talks with Vincius Junior's representatives about his future this week.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567300/vinicius-jr-transfer-news-real-madrid-to-hold-further-talks-over-brazil-internationals-future-this-week-amid-arsenal-interest",
+      "publishedAt": "2026-07-27T09:58:59.787Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "4971802e1e73b5",
+      "title": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+      "summary": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "publishedAt": "2026-07-27T09:58:59.786Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "74a16b352e0adf",
+      "title": "Chelsea close to reaching an agreement for eighth signing after Alonso demand",
+      "summary": "Chelsea are closing in on the signing of Bayer Leverkusen winger Kerim Alajbegovic in their eighth deal of the summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-close-agreement-alajbegovic-leverkusen-alonso-request",
+      "publishedAt": "2026-07-27T09:50:51.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "81fe681e24a73b",
+      "title": "Xabi Alonso explains Chelsea ‘plan’ for Rogers-Palmer axis – ‘I can see…’",
+      "summary": "Alonso has been speaking about what sort of impact he expects Rogers to make, alongside the business Chelsea are still expected to do in the remaining weeks of the summ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/xabi-alonso-explains-chelsea-plan-morgan-rogers-cole-palmer-axis",
+      "publishedAt": "2026-07-27T09:37:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "060e6c930c392d",
+      "title": "PSG want £145m for Barcola - Monday's gossip",
+      "summary": "Paris St-Germain want £145m for Bradley Barcola, Real Madrid set Vinicius Jr price and Arsenal to accelerate Bruno Guimaraes talks, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly5189yjgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T09:28:18.000Z",
+      "category": "league",
+      "region": "england spain france",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
+        "Psg"
+      ]
+    },
+    {
+      "id": "9fcabf2fd979e2",
+      "title": "Barcelona star ‘will head’ to Tottenham as seventh signing with £56m ‘offer’ prepared",
+      "summary": "Tottenham have prepared an offer to sign France international Jules Kounde from Barcelona this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-barcelona-will-head-seventh-signing-offer-prepared",
+      "publishedAt": "2026-07-27T09:06:31.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Liverpool leading Barcola race despite obvious stumbling block",
+      "summary": "Liverpool are the frontrunners for Bradley Barcola but PSG are driving a hard bargain, while Arsenal continue to be linked with Vinicius Jr…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-27T08:57:01.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "2f904b4b65e33b",
+      "title": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup",
+      "summary": "Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment of Iran The Fifa president, Gianni Infantino , has hit back at criti...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup",
+      "publishedAt": "2026-07-27T08:49:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "0fa0433444e902",
+      "title": "Football transfer rumours: Arsenal and Liverpool battle it out for Bradley Barcola?",
+      "summary": "Today’s rumours are back with a vengeance Like baggy trousers, small sunglasses and leopard print, transfer rumours are back in a big way. And there can be no doubting...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/27/football-transfer-rumours-arsenal-liverpool-bradley-barcola-psg",
+      "publishedAt": "2026-07-27T08:37:35.000Z",
+      "category": "transfer",
+      "region": "england spain france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "a8c68840ef3d0d",
+      "title": "Chelsea considering ‘submitting new bid’ for Arsenal target who wants Stamford Bridge",
+      "summary": "Arsenal have decided which midfielder to bid for if unable to sign Bruno Guimaraes, though Chelsea are weighing up whether to table a second bid for the player.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-considering-submitting-new-bid-arsenal-target-alex-scott-wants-stamford-bridge",
+      "publishedAt": "2026-07-27T08:24:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "04c56de8bb0999",
+      "title": "Man Utd make £68m ‘offer’ for ‘dream signing’ as they intensify pursuit of third midfielder",
+      "summary": "Man Utd have made an offer to sign Real Madrid star Aurelien Tchouameni as they search for a third midfield signing, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-offer-tchouameni-dream-signing-real-madrid",
+      "publishedAt": "2026-07-27T08:11:10.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "155b0d1b6b58ea",
+      "title": "Meditate, pray or watch football instead of spreading hate - Infantino",
+      "summary": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T08:07:28.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "88e669439d64ef",
+      "title": "How Liverpool can take advantage of Real Madrid’s ‘ridiculous’ Diomande problem",
+      "summary": "Liverpool need to ‘win’ the next transfer after losing Yan Diomande to Real Madrid, who offer four of eight potential targets for the Reds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/how-liverpool-can-take-advantage-of-real-madrids-ridiculous-diomande-problem",
+      "publishedAt": "2026-07-27T07:44:33.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "eead664ea277bd",
+      "title": "Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video",
+      "publishedAt": "2026-07-27T07:25:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6e9e4a662b8bb8",
+      "title": "Liverpool seal Bradley Barcola ‘agreement’ as first offer to PSG is revealed",
+      "summary": "Liverpool have an ‘agreement in principle’ with Bradley Barcola as they prepare their first offer for the PSG star, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-bradley-barcola-agreement-first-offer-psg",
+      "publishedAt": "2026-07-27T07:22:58.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "f54e90a710ca8e",
+      "title": "Football Weekly’s summer mailbag: World Cup 2026, the off-season and more: part one – podcast",
+      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson to answer your questions from the mailbag Rate, review, share on Apple Podcasts and join th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/audio/2026/jul/27/football-weekly-summer-mailbag-part-one-podcast",
+      "publishedAt": "2026-07-27T07:10:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "55ef78d03abd11",
+      "title": "Arsenal ready to break the bank for Vinicius Junior with financial package not an obstacle",
+      "summary": "Arsenal are ready to throw everything they have at a deal to sign Vinicius Junior from Real Madrid this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-break-bank-vinicius-junior-real-madrid-finances-not-obstacle",
+      "publishedAt": "2026-07-27T06:43:04.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "64aefff8784874",
+      "title": "Rogers and Palmer can play together - Alonso",
+      "summary": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T06:10:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "bdf16a0a54e784",
+      "title": "Who am I? Guess Premier League star No 7",
+      "summary": "Will you get today's player in as few attempts as possible?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lqnl4r5xzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T06:08:51.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "4b21d1c3b8d90b",
+      "title": "Diomande agrees Real Madrid terms as PSG step away",
+      "summary": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T05:46:37.000Z",
+      "category": "league",
+      "region": "spain italy france germany",
+      "tags": [
+        "Real Madrid",
+        "Psg",
+        "Inter"
       ]
     },
     {
@@ -182,21 +447,6 @@
         "Bundesliga",
         "World Cup",
         "Transfer"
-      ]
-    },
-    {
-      "id": "060e6c930c392d",
-      "title": "PSG want £145m for Barcola - Monday's gossip",
-      "summary": "Paris St-Germain want £145m for Bradley Barcola, Real Madrid set Vinicius Jr price and Arsenal to accelerate Bruno Guimaraes talks, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5189yjgdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T21:06:05.000Z",
-      "category": "league",
-      "region": "england spain france",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Psg"
       ]
     },
     {
@@ -347,263 +597,6 @@
       "tags": [
         "Arsenal",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "e7887b1cbe377e",
-      "title": "Tottenham insider ‘would rather’ sacrifice 94-game star to keep Djed Spence",
-      "summary": "Tottenham insider John Wenham feels that Djed Spence should be kept at the club after his World Cup displays, and would “rather” a fellow Spurs man was shown the door.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-insider-sacrifice-udogie-keep-spence",
-      "publishedAt": "2026-07-26T13:51:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "320d203bfb55a9",
-      "title": "Tottenham transfer needs to be sorted within 10 days amid Arsenal hijack rumours",
-      "summary": "Inter Milan are reportedly looking to complete a deal for Tottenham centre-back Cristian Romero ‘within 10 days’ amid interest from Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-transfer-needs-to-be-sorted-within-10-days-amid-arsenal-hijack-rumours",
-      "publishedAt": "2026-07-26T12:41:28.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "5906a5e506427f",
-      "title": "Romano reveals Barcola has reached decision on joining Liverpool as Reds ‘lead race’",
-      "summary": "Fabrizio Romano has revealed that Bradley Barcola is giving ‘priority’ to Liverpool in the summer ‘if they can get a deal done’ with PSG.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-barcola-reaches-decision-transfer",
-      "publishedAt": "2026-07-26T11:59:27.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal dream of Vinicius Jr as suitors for Spurs sale go public",
-      "summary": "Liverpool are back in with a sniff of Yan Diomande but they will encounter the same problems as PSG, while Vinicius Jr is also linked with the Reds.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-26T11:37:01.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "fe8b9cad58aeac",
-      "title": "Vinicius Junior decides whether he’ll join Arsenal from Real Madrid",
-      "summary": "Vinicius Junior has made up his mind on a potential move to Arsenal from Real Madrid in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-vinicius-junior-real-madrid-transfer-decision-reached",
-      "publishedAt": "2026-07-26T11:35:57.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8ae20d539b3c05",
-      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
-      "summary": "Inter sporting director confirms attempt to sign Romero Spurs captain helped Argentina reach World Cup final Inter have entered talks with Tottenham over the potential...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window",
-      "publishedAt": "2026-07-26T11:34:40.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Europa League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ac216f5ff0e406",
-      "title": "‘We want to win the league’: Arsenal’s new recruits ink in WSL success",
-      "summary": "Despite a busy transfer window with Beth Mead moving on and seven new signings, academy graduates such as Lotte Wubben-Moy remain key to trophies Georgia Stanway looks...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/26/arsenal-new-recruits-georgia-stanway-lotte-wubben-moy-wsl",
-      "publishedAt": "2026-07-26T11:00:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "357a5bd8666544",
-      "title": "Liverpool get transfer boost as Bradley Barcola makes final decision on PSG contract",
-      "summary": "Liverpool have been given a transfer boost as Bradley Barcola makes his ‘final decision’ over whether to accept a new PSG deal or not.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfer-boost-bradley-barcola-final-decision-psg-contract",
-      "publishedAt": "2026-07-26T10:58:40.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "a86ffc21487d58",
-      "title": "Mohamed Salah strikes ‘agreement’ with next club as ex-Liverpool striker could join him",
-      "summary": "Mohamed Salah has an ‘agreement in principle’ to join Besiktas after leaving Liverpool with the Turkish side ‘confident’ of a deal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-mohamed-salah-agreement-next-club-nunez",
-      "publishedAt": "2026-07-26T10:26:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fa6cd15ae40a9b",
-      "title": "Liverpool make transfer decision on Giorgi Mamardashvili future",
-      "summary": "Liverpool have decided what they will do with Georgia international goalkeeper Giorgi Mamardashvili in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-giorgi-mamardashvili-transfer-decision-reached",
-      "publishedAt": "2026-07-26T09:52:16.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3e908c7055c476",
-      "title": "Real Madrid tell Arsenal how much to pay for Vinicius Junior as Yan Diomande move gets ‘green light’",
-      "summary": "Real Madrid have informed Arsenal how much they will need to bid to sign Vinicius Junior as they get the ‘green light’ for Yan Diomande.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-real-madrid-vinicius-junior-how-much-pay-yan-diomande-green-light",
-      "publishedAt": "2026-07-26T09:39:32.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "5419e92726d87b",
-      "title": "Japan football great ‘King Kazu’ Miura, 59, scores first competitive goal in four years",
-      "summary": "Kazuyoshi Miura converts cross to score in 52nd minute Former Japan international preparing for his 42nd season The Japanese football legend Kazuyoshi Miura scored his...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/26/japan-football-great-king-kazuyoshi-miura-59-scores-first-competitive-goal-for-four-years",
-      "publishedAt": "2026-07-26T09:14:49.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9b1a6c9f2bdea1",
-      "title": "Chelsea will accept offers for five players as medical is confirmed for seventh signing",
-      "summary": "Chelsea are reportedly ready to accept offers for five players as a deal for Maxence Lacroix could trigger a mass exodus at Stamford Bridge.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-will-accept-offers-chalobah-sarr-fofana-adarabioyo-badiashile-medical-lacroix",
-      "publishedAt": "2026-07-26T08:51:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "89e82b12be6ee4",
-      "title": "Romano gives ‘here we go’ to fourth Arsenal signing after bid is launched for Vinicius Jr",
-      "summary": "Fabrizio Romano has give his ‘here we go’ confirmation to an Arsenal signing after the Gunners launch a bid to sign Vinicius Junior.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-here-we-go-donczew-cardiff-vinicius-junior-real-madrid",
-      "publishedAt": "2026-07-26T07:58:00.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "575fafb6476c06",
-      "title": "Romano gives Arsenal timeline for ‘direct negotiations with Newcastle’ over Guimaraes after ‘agreement’",
-      "summary": "Arsenal are “not giving up” in their pursuit of Bruno Guimaraes as “direct negotiations with Newcastle” approach, says Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-timeline-direct-negotiations-newcastle-agreement",
-      "publishedAt": "2026-07-26T07:21:44.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "775ea60cf48cdc",
-      "title": "Vinicius next? Every Premier League player signed from Real Madrid ranked, with Arsenal trio in top ten",
-      "summary": "Real Madrid have sold 24 players to Premier League clubs over the years, with Arsenal hoping Vinicius Junior can make it a quarter-century.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-signings-from-premier-league-ranked-arsenal-chelsea",
-      "publishedAt": "2026-07-26T07:20:43.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "aa87fe044aa994",
-      "title": "How the death of Jayden Adams shook a community: ‘Being on the pitch was his happy place’",
-      "summary": "Those who knew the South African, who died aged 25 not long after playing at the World Cup, describe a humble and hard-working man who cared about friends and family Fo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup",
-      "publishedAt": "2026-07-26T07:00:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "63c5241951e70f",
-      "title": "Who am I? Guess Premier League star No 6",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czekgekw0elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T06:51:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
