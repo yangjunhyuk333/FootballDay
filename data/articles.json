@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:41:12.814Z",
+  "generatedAt": "2026-07-28T02:50:50.277Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,52 @@
       "pinned": true
     },
     {
+      "id": "66fae99dd14822",
+      "title": "English football proposes trial to tackle goalkeeper timeouts",
+      "summary": "The top leagues in English football are set to trial new measures designed to tackle goalkeeper tactical timeouts in the upcoming season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567501/goalkeeper-tactical-timeouts-trial-for-new-rule-proposed-after-premier-league-efl-wsl-and-fa-reach-agreement",
+      "publishedAt": "2026-07-28T02:50:50.088Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "4971802e1e73b5",
+      "title": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+      "summary": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "publishedAt": "2026-07-28T02:50:50.087Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b0cd086f714863",
+      "title": "Papers: Man City hopeful Rodri will sign new deal - but braced for Real bid",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk",
+      "publishedAt": "2026-07-28T02:50:50.087Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "2130ef6aaa2c3a",
       "title": "Leeds close to club-record deal for Trafford",
       "summary": "Leeds United are close to agreeing a club-record deal with Manchester City for goalkeeper James Trafford.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567551/leeds-united-transfer-news-james-trafford-deal-moving-nearer-as-club-record-deal-close-to-being-reached-with-manchester-city",
-      "publishedAt": "2026-07-27T19:41:12.315Z",
+      "publishedAt": "2026-07-28T02:50:50.087Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +157,7 @@
       "summary": "Paolo Maldini has left his role as technical director of the Italian Football Federation (FIGC) following the decision not to appoint Andrea Pirlo as Italy head coach,...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567529/paolo-maldini-italian-football-federation-technical-director-quits-after-just-16-days-amid-head-coach-saga",
-      "publishedAt": "2026-07-27T19:41:12.315Z",
+      "publishedAt": "2026-07-28T02:50:50.087Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,29 +165,19 @@
       ]
     },
     {
-      "id": "66fae99dd14822",
-      "title": "English football proposes trial to tackle goalkeeper timeouts",
-      "summary": "The top leagues in English football are set to trial new measures designed to tackle goalkeeper tactical timeouts in the upcoming season.",
+      "id": "a804f3397071ab",
+      "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
+      "summary": "John Stones has verbally agreed to join Inter on a free transfer, according to Sky in Italy.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567501/goalkeeper-tactical-timeouts-trial-for-new-rule-proposed-after-premier-league-efl-wsl-and-fa-reach-agreement",
-      "publishedAt": "2026-07-27T19:41:12.315Z",
+      "url": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea",
+      "publishedAt": "2026-07-28T02:50:50.086Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "da5d6ba3d3700f",
-      "title": "Real to hold further talks over Vinicius Jr's future this week",
-      "summary": "Real Madrid will hold further talks with Vincius Junior's representatives about his future this week.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567300/vinicius-jr-transfer-news-real-madrid-to-hold-further-talks-over-brazil-internationals-future-this-week-amid-arsenal-interest",
-      "publishedAt": "2026-07-27T19:41:12.315Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
+        "Transfer",
+        "Arsenal",
+        "Chelsea",
+        "Inter"
       ]
     },
     {
@@ -156,7 +186,7 @@
       "summary": "Vinicius Junior's Real Madrid future has been the subject of recent speculation, with Arsenal exploring a deal for the forward, but what could happen next?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig",
-      "publishedAt": "2026-07-27T19:41:12.314Z",
+      "publishedAt": "2026-07-28T02:50:50.086Z",
       "category": "transfer",
       "region": "england spain italy",
       "tags": [
@@ -171,7 +201,7 @@
       "summary": "Chelsea are interested in signing Jordan Henderson from Brentford.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck",
-      "publishedAt": "2026-07-27T19:41:12.314Z",
+      "publishedAt": "2026-07-28T02:50:50.086Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -180,39 +210,104 @@
       ]
     },
     {
-      "id": "4971802e1e73b5",
-      "title": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
-      "summary": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "publishedAt": "2026-07-27T19:41:12.314Z",
-      "category": "worldcup",
+      "id": "bab5e766e4b633",
+      "title": "Man City brace for Rodri bid - Tuesday's gossip",
+      "summary": "Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set for Vi...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T21:21:18.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Manchester",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ea7132b3041120",
+      "title": "John Stones set for Inter move after shining for England at World Cup",
+      "summary": "Defender left Manchester City on free transfer ‘I still feel I have so much to give to a club’ Inter are closing in on signing John Stones as a free transfer after the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/27/john-stones-inter-move-england-world-cup-2026-manchester-city",
+      "publishedAt": "2026-07-27T21:02:47.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f1cebc4d280030",
+      "title": "John Stones snubs Liverpool and Arsenal as Fabrizio Romano confirms Inter Milan deal",
+      "summary": "Former Manchester City defender John Stones is reportedly set to sign with Inter Milan despite interest from a number of Premier League sides.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/john-stones-snubs-liverpool-arsenal-fabrizio-romano-confirms-inter-milan-deal",
+      "publishedAt": "2026-07-27T21:01:15.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ddddfa18586b65",
+      "title": "Chelsea explore surprise moves for Danny Welbeck and Jordan Henderson",
+      "summary": "Brighton striker scored 13 goals in league last season Veteran Brentford midfielder has a year left on contract Chelsea are understood to be in talks over a move to sig...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton",
+      "publishedAt": "2026-07-27T20:58:24.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "World Cup"
+        "Premier League",
+        "Transfer",
+        "Chelsea"
       ]
     },
     {
-      "id": "a804f3397071ab",
-      "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
-      "summary": "John Stones has verbally agreed to join Inter on a free transfer, according to Sky in Italy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea",
-      "publishedAt": "2026-07-27T19:41:12.313Z",
+      "id": "94a991c280d941",
+      "title": "Fifa president Gianni Infantino called to appear before Congress over Trump ties",
+      "summary": "Democrat Jamie Raskin pushes Fifa to release records of contact with Trump, administration and family business Jamie Raskin, the top Democrat on the House judiciary com...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin",
+      "publishedAt": "2026-07-27T20:22:41.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0b4eba34d854e0",
+      "title": "Inter in advanced talks with England defender Stones",
+      "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T20:02:14.000Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "italy",
       "tags": [
         "Transfer",
-        "Arsenal",
-        "Chelsea",
-        "Inter"
+        "Inter",
+        "Milan"
       ]
     },
     {
       "id": "4c8b5b9d84ee8e",
       "title": "Trial to be introduced in bid to prevent goalkeeper tactical time-outs",
-      "summary": "Measures planned to run throughout 2026-27 season Ifab yet to give permission for proposed rule change English football will introduce a trial this season in a bid to e...",
+      "summary": "Measures planned to run throughout 2026-27 season Ifab yet to give permission for proposed rule change English football will introduce a trial this season in an effort...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/27/new-rules-prevent-goalkeeper-tactical-time-outs",
       "publishedAt": "2026-07-27T19:07:38.000Z",
@@ -347,22 +442,6 @@
         "Premier League",
         "Manchester",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "ddddfa18586b65",
-      "title": "Chelsea explore surprise move to sign Danny Welbeck from Brighton",
-      "summary": "Veteran scored 13 goals in 37 league games last season Interest signals shift in Stamford Bridge transfer strategy Chelsea are understood to be in talks over a move to...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton",
-      "publishedAt": "2026-07-27T16:01:54.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Chelsea"
       ]
     },
     {
@@ -529,77 +608,6 @@
       "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
       "publishedAt": "2026-07-27T12:53:47.000Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "31cf7015ac1485",
-      "title": "Man Utd have just got some good news about signing Camavinga after ‘direct’ Mourinho talks",
-      "summary": "Manchester United will be delighted with the latest update on the future of Real Madrid and France international midfielder Eduardo Camavinga.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/eduardo-camavinga-real-madrid-manchester-united-jose-mourinho-transfer-latest",
-      "publishedAt": "2026-07-27T12:17:23.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2443a45d3458de",
-      "title": "Every Prem club’s highest-paid player: Vinicius Jr to topple Saka at Arsenal?",
-      "summary": "Bukayo Saka’s status as Arsenal’s highest earner could be under threat from Vinicius Jr, while Man Utd want rid of theirs…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-club-highest-earner-beat-paid-player",
-      "publishedAt": "2026-07-27T12:08:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c52e4066a8bf35",
-      "title": "PSG forward’s camp pushing transfer to Liverpool – it’s NOT Bradley Barcola",
-      "summary": "A PSG forward has turned down the opportunity to sign for Aston Villa, with his camp now offering the player to Liverpool and Manchester City",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/psg-ibrahim-mbaye-camp-pushing-transfer-liverpool-not-bradley-barcola",
-      "publishedAt": "2026-07-27T12:00:08.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Manchester",
-        "Psg"
-      ]
-    },
-    {
-      "id": "53cad4f85259ec",
-      "title": "Man City weigh up blockbuster move for Chelsea star Fernandez as ‘first bid’ for Rodri is imminent",
-      "summary": "Man City are considering making a huge offer for Chelsea star Enzo Fernandez as Real Madrid line up a bid for Rodri, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-blockbuster-move-chelsea-enzo-fernandez-first-bid-rodri-real-madrid",
-      "publishedAt": "2026-07-27T11:45:36.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9456528d38377c",
-      "title": "Martin & Foxes must 'find own way' after struggles",
-      "summary": "Leicester City manager Russell Martin says history should not be used to judge what he can achieve with the former Premier League champions.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz051zggn1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T11:04:51.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
         "Premier League"
