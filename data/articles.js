@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-28T08:41:35.311Z",
+  "generatedAt": "2026-07-28T14:20:26.586Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,73 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "b0cd086f714863",
-      "title": "Vinicius Jr not returning to Real Madrid training this week",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "id": "702d72388b98e2",
+      "title": "Can the new Scottish Premiership season top the best campaign in decades?",
+      "summary": "Little over 10 weeks ago, Celtic Park staged one of the most consequential league fixtures in the history of Scottish football.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk",
-      "publishedAt": "2026-07-28T08:41:35.070Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "2130ef6aaa2c3a",
-      "title": "Leeds close to club-record deal for Trafford",
-      "summary": "Leeds United are close to agreeing a club-record deal with Manchester City for goalkeeper James Trafford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567551/leeds-united-transfer-news-james-trafford-deal-moving-nearer-as-club-record-deal-close-to-being-reached-with-manchester-city",
-      "publishedAt": "2026-07-28T08:41:35.070Z",
+      "url": "https://www.skysports.com/football/news/12040/13567131/scottish-premiership-2026-27-after-celtics-final-day-triumph-over-hearts-how-can-the-new-season-top-the-best-in-decades",
+      "publishedAt": "2026-07-28T14:20:26.305Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2ca30348a0b6a0",
-      "title": "What Arsenal's interest and Real's Diomande pursuit mean for Vini Jr",
-      "summary": "Vinicius Junior's Real Madrid future has been the subject of recent speculation, with Arsenal exploring a deal for the forward, but what could happen next?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig",
-      "publishedAt": "2026-07-28T08:41:35.069Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c5a532d65c19e7",
-      "title": "Chelsea interested in Henderson after holding positive talks with Welbeck",
-      "summary": "Chelsea are interested in signing Jordan Henderson from Brentford.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck",
-      "publishedAt": "2026-07-28T08:41:35.069Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4971802e1e73b5",
-      "title": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
-      "summary": "Football news: Infantino tells World Cup critics to 'meditate and pray'",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "publishedAt": "2026-07-28T08:41:35.069Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
+        "Football"
       ]
     },
     {
@@ -174,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "John Stones has verbally agreed to join Inter Milan on a free transfer, according to Sky in Italy.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567544/john-stones-transfer-news-england-international-verbally-agrees-deal-to-join-inter-milan-amid-interest-from-arsenal-and-chelsea",
-      "publishedAt": "2026-07-28T08:41:35.068Z",
+      "publishedAt": "2026-07-28T14:20:26.305Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -185,9 +128,389 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "9849a39e8ac387",
+      "title": "Aston Villa latest: Digne to join PSG after his holiday",
+      "summary": "Aston Villa latest: Digne to join PSG after his holiday",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-07-28T14:20:26.304Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Psg"
+      ]
+    },
+    {
+      "id": "1ffab8f17b2d3f",
+      "title": "Joao Pedro nets hat-trick as Chelsea score SIX in Alonso's first game",
+      "summary": "Joao Pedro scored a nine-minute hat-trick as Xabi Alonso began his Chelsea reign with a ridiculous 6-4 victory over Western Sydney Wanderers in pre-season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567646/western-sydney-wanderers-4-6-chelsea-joao-pedro-scores-hat-trick-as-xabi-alonso-marks-first-game-with-bonkers-10-goal-thriller",
+      "publishedAt": "2026-07-28T14:20:26.304Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "cc980b24721576",
+      "title": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
+      "summary": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+      "publishedAt": "2026-07-28T14:20:26.303Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T14:09:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "85254e0fcc3141",
+      "title": "Mo Salah handed transfer ultimatum as reunion with ex-Liverpool star ruled out",
+      "summary": "Mohamed Salah’s search for a new club appears to be no closer to concluding after Fabrizio Romano has downplayed talk of an agreement with Besiktas, while a club figure...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mo-salah-transfer-ultimatum-reunion-ex-liverpool-star-ruled-out",
+      "publishedAt": "2026-07-28T14:03:20.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8ab8b7c30f7ca2",
+      "title": "Andoni Iraola ‘demands’ Liverpool sign one of two targets after Bradley Barcola transfer",
+      "summary": "Liverpool transfer target Andoni Iraola wants the club to sign one of two Premier League centre-backs this summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-iraola-demands-stones-konsa-transfers-barcola",
+      "publishedAt": "2026-07-28T14:01:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "242c4f9cb03e47",
+      "title": "Relive Zidane's World Cup masterclass as he's named France head coach",
+      "summary": "New France head coach Zinedine Zidane produces a masterclass against Brazil in the quarter-finals of the 2006 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpvwkdnpgkpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T13:36:50.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b6d0ad94b1b90b",
+      "title": "Alonso's first Chelsea match was a tale of four strikers",
+      "summary": "Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T13:28:28.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "363b7f566c3fdd",
+      "title": "What Vinicius Junior is ‘telling his friends’ about Arsenal transfer after ‘first official offer’ claim",
+      "summary": "Arsenal target Vinicius Junior has told his friends that he doesn’t want to leave on a free transfer next summer, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-vinicius-junior-what-telling-friends-transfer-real-madrid",
+      "publishedAt": "2026-07-28T13:11:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0d9c5c98340dab",
+      "title": "Arsenal finalising Bruno Guimaraes signing as Newcastle compromise on fee and agreement done",
+      "summary": "Arsenal have made significant progress in their attempts to convince Newcastle to sell Bruno Guimaraes, and a report has revealed how much the deal will be worth.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-finalising-bruno-guimaraes-signing-newcastle-compromise-transfer-fee-agreement-done",
+      "publishedAt": "2026-07-28T12:43:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "898344bf253d34",
+      "title": "Personal terms ‘agreed’ with Arsenal now in ‘daily contact’ for attacker’s transfer",
+      "summary": "An Arsenal attacker has an agreement on personal terms in place, though a reporter has revealed what’s holding up a club-to-club agreement despite almost ‘daily contact...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/personal-terms-agreed-arsenal-daily-contact-fabio-vieira-transfer",
+      "publishedAt": "2026-07-28T12:41:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "49c2501f84f2af",
+      "title": "Best No.10s available for transfer this summer: Gibbs-White ahead of Elliott, Mount, Nwaneri",
+      "summary": "This summer’s attacking midfielder market is… pretty underwhelming. Topped by Morgan Gibbs-White, here is the 10 best available No.10s.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-no-10s-available-for-summer-transfer-window",
+      "publishedAt": "2026-07-28T12:33:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "46a1534b46e03c",
+      "title": "Declan Rice ‘looks like a prisoner of war breaking rocks’ because England is embarrassed to copy Scotland",
+      "summary": "Declan Rice and his Premier League pals look permanently knackered because the FA is too embarrassed to follow one obvious Scottish solution.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/declan-rice-flogged-england-knackered-embarrassed-scotland",
+      "publishedAt": "2026-07-28T12:25:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "89ba5964c36e89",
+      "title": "Can lightning strike twice? Cape Verde set for Wafcon debut",
+      "summary": "After the men's success at the World Cup, Cape Verde should not be underestimated on their Women's Africa Cup of Nations debut, forward Sandra Martins warns.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e4jy2xnglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T12:09:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "2b6ca3343b77d1",
+      "title": "Rodri out for 'short period' after back surgery",
+      "summary": "Manchester City midfielder Rodri will be sidelined for a \"short period of rehabilitation\" following back surgery on Monday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j158w2dxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T12:03:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f0091577d3ddb5",
+      "title": "Man Utd deal for ‘dream signing’ could be on as Real Madrid ‘need to sell’ this summer",
+      "summary": "Man Utd could have a chance of signing Aurelien Tchouameni this summer with Real Madrid needing to sell, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-tchouameni-dream-signing-on-real-madrid-need-sell",
+      "publishedAt": "2026-07-28T11:52:22.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "65a373f7829da9",
+      "title": "Arsenal face big transfer complication with Saliba cover as Newcastle’s Guimaraes hope grows",
+      "summary": "Arsenal have identified a defender to cover for the injured William Saliba but face a ‘significant complication’ in the deal, at a time when Newcastle United are growin...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-face-transfer-complication-william-saliba-cover-newcastles-bruno-guimaraes-hope-grows",
+      "publishedAt": "2026-07-28T11:41:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "58e27652479859",
+      "title": "England keeper Hampton extends deal at Chelsea",
+      "summary": "England international Hannah Hampton signs a new two-year deal with Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gvew81dd0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T11:34:05.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "580316c1b5f4c6",
+      "title": "Milos Kerkez: ‘I’m delighted – Andoni Iraola is the perfect fit for Liverpool’",
+      "summary": "Full-back on being reunited with former manager, the shock of Arne Slot’s sacking and being mistaken for a bridegroom It has been quite the summer for Milos Kerkez. The...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/28/milos-kerkez-andoni-iraola-liverpool",
+      "publishedAt": "2026-07-28T11:00:02.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "de55564b4da659",
+      "title": "Xabi Alonso could do Jose Mourinho a favour by signing £43m Real Madrid outcast",
+      "summary": "Xabi Alonso is reportedly pushing Chelsea hard to sign out-of-favour Real Madrid left-back Alvaro Carreras, who is likely to struggle for minutes under new boss Jose Mo...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/xabi-alonso-jose-mourinho-favour-signing-43m-real-madrid-outcast",
+      "publishedAt": "2026-07-28T10:10:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "34f6d71a6127e1",
+      "title": "Arsenal given ‘boost’ as Vinicius Junior definitely goes on ‘strike’ at Real Madrid",
+      "summary": "Arsenal target Vinicius Junior has enacted a ‘Real Madrid contract strike plan’, while Liverpool have a Bradley Barcola ‘transfer boost’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/vinicius-junior-real-madrid-strike-arsenal-transfer-boost",
+      "publishedAt": "2026-07-28T10:07:03.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "43769c7ac6a605",
+      "title": "Man Utd reach decision on hijacking Chelsea’s move for Danny Welbeck",
+      "summary": "Man Utd will not be making a late offer to sign Danny Welbeck despite previous talks to sign the Chelsea target, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-reach-decision-hijacking-chelsea-danny-welbeck",
+      "publishedAt": "2026-07-28T10:01:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "bab5e766e4b633",
+      "title": "Man City brace for Rodri bid - Tuesday's gossip",
+      "summary": "Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set to mak...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T09:49:53.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c5b84494eabfe7",
+      "title": "Liverpool make record-breaking ‘offer’ for Bradley Barcola after ‘agreement’ is struck for PSG star",
+      "summary": "Liverpool have made a huge offer to sign Bradley Barcola after striking an agreement over personal terms, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-huge-ofer-bradley-barcola-agreement-struck-psg",
+      "publishedAt": "2026-07-28T09:19:54.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "75e81f5ae08795",
+      "title": "Zidane confirmed as France head coach",
+      "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T09:03:49.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "b2ee194def6808",
+      "title": "Newcastle sign Liverpool forward Kiernan",
+      "summary": "Newcastle United confirm the signing of Republic of Ireland forward Leanne Kiernan from Liverpool for an undisclosed fee.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T09:02:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c0aba8c1abaaed",
+      "title": "Romano reveals how many more players Tottenham ‘will sign’ as one deal is ruled out",
+      "summary": "Tottenham are not in the running to sign AC Milan winger Rafael Leao as Fabrizio Romano reveals how many more players they will sign.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-romano-how-many-signings-savinho-leao-ruled-out",
+      "publishedAt": "2026-07-28T08:52:44.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd midfielder link makes no sense, two big Leeds deals",
+      "summary": "Manchester United like Lucas Bergvall but he’s not what they need right now, while Leeds look set to follow up their record purchase with another huge signing…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-28T08:47:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
       "id": "af65331c32c388",
       "title": "Football transfer rumours: Manchester United to sign Juve’s Francisco Conceição?",
-      "summary": "Today’s rumours are napping on the beach As sports fans everywhere eagerly await the resumption of the County Championship cricket season , what better way to while awa...",
+      "summary": "Today’s rumours are napping on the beach As sports fans everywhere eagerly await the resumption of cricket’s County Championship season , what better way to while away...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/28/football-transfer-rumours-manchester-united-francisco-conceicao-juventus",
       "publishedAt": "2026-07-28T08:33:36.000Z",
@@ -264,349 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Premier League"
-      ]
-    },
-    {
-      "id": "ee377050a7d161",
-      "title": "Top 10 veteran signings features Chelsea trio and Spurs, Liverpool cult heroes",
-      "summary": "Chelsea have three players in the top five Premier League signings over the age of 30 – it could have been more – just as they rediscover their appetite for ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-10-veteran-signings-over-30-chelsea-spurs-liverpool-man-utd-palace",
-      "publishedAt": "2026-07-28T06:45:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "62df3a3057afe8",
-      "title": "Liverpool starter will leave Anfield this summer as surprise transfer takes shape – report",
-      "summary": "Liverpool winger Cody Gakpo will leave Anfield in the summer transfer window amid interest from Fenerbahce, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-gakpo-leave-anfield-surprise-transfer-fenerbahce",
-      "publishedAt": "2026-07-28T06:35:45.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "996c9127c859bd",
-      "title": "Rangers near Makhanya deal as Hogh passes Celtic medical - gossip",
-      "summary": "Celtic, Dundee United and Rangers close in on latest signings as VAR take on new rules from World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj09wx10r1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T06:33:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2205f60cfc30fa",
-      "title": "Who am I? Guess Premier League star No 8",
-      "summary": "Will you get today's player in as few attempts as possible?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjlym7kjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T06:14:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "7557afece876bb",
-      "title": "Why Chelsea want to sign older players",
-      "summary": "Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T05:34:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "cea7da48bf162a",
-      "title": "Is Wales set to host football's closest derby?",
-      "summary": "Cwmbran Celtic and Cwmbran Town are separated by just 40 metres but will meet on the pitch for the first time in 16 years.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw5d2zw1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T05:07:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-28T04:43:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "d2079932b5dd65",
-      "title": "Rogers to Chelsea only the third-biggest Premier League overpay so far this summer",
-      "summary": "Spurs are responsible for three of the seven biggest Premier League overpays so far this summer, but not the most apparently egregious.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-premier-league-transfer-overpays-this-summer-spurs",
-      "publishedAt": "2026-07-28T04:28:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "bab5e766e4b633",
-      "title": "Man City brace for Rodri bid - Tuesday's gossip",
-      "summary": "Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set to mak...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T21:21:18.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "ea7132b3041120",
-      "title": "John Stones set for Inter move after shining for England at World Cup",
-      "summary": "Defender left Manchester City on free transfer ‘I still feel I have so much to give to a club’ Inter are closing in on signing John Stones as a free transfer after the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/john-stones-inter-move-england-world-cup-2026-manchester-city",
-      "publishedAt": "2026-07-27T21:02:47.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f1cebc4d280030",
-      "title": "John Stones snubs Liverpool and Arsenal as Fabrizio Romano confirms Inter Milan deal",
-      "summary": "Former Manchester City defender John Stones is reportedly set to sign with Inter Milan despite interest from a number of Premier League sides.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/john-stones-snubs-liverpool-arsenal-fabrizio-romano-confirms-inter-milan-deal",
-      "publishedAt": "2026-07-27T21:01:15.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ddddfa18586b65",
-      "title": "Chelsea explore surprise moves for Danny Welbeck and Jordan Henderson",
-      "summary": "Brighton striker scored 13 goals in league last season Veteran Brentford midfielder has a year left on contract Chelsea are understood to be in talks over a move to sig...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton",
-      "publishedAt": "2026-07-27T20:58:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "94a991c280d941",
-      "title": "Fifa president Gianni Infantino called to appear before Congress over Trump ties",
-      "summary": "Democrat Jamie Raskin pushes Fifa to release records of contact with Trump, administration and family business Jamie Raskin, the top Democrat on the House judiciary com...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin",
-      "publishedAt": "2026-07-27T20:22:41.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "0b4eba34d854e0",
-      "title": "Inter in advanced talks with England defender Stones",
-      "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T20:02:14.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "4c8b5b9d84ee8e",
-      "title": "Trial to be introduced in bid to prevent goalkeeper tactical time-outs",
-      "summary": "Measures planned to run throughout 2026-27 season Ifab yet to give permission for proposed rule change English football will introduce a trial this season in an effort...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/new-rules-prevent-goalkeeper-tactical-time-outs",
-      "publishedAt": "2026-07-27T19:07:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f0814ae73fc21b",
-      "title": "Mind the ever-growing gap: the Premier League keeps spending big",
-      "summary": "English clubs have spent more on players this summer than the other four major European leagues combined The financial power of the Premier League is unmatched. The tea...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/mind-the-ever-growing-gap-the-premier-league-keeps-spending",
-      "publishedAt": "2026-07-27T19:00:17.000Z",
-      "category": "transfer",
-      "region": "england spain italy france germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "La Liga",
-        "Serie A"
-      ]
-    },
-    {
-      "id": "d045b0ea923cde",
-      "title": "Chelsea open talks to sign Henderson and Welbeck",
-      "summary": "Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T18:54:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "00ad03b1d39f54",
-      "title": "Jordan Henderson reacts after learning Chelsea want to sign him",
-      "summary": "Former Liverpool midfielder Jordan Henderson’s stance on leaving Brentford for Chelsea in the summer transfer window has emerged.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-jordan-henderson-brentford-free-transfer",
-      "publishedAt": "2026-07-27T18:13:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6d3422acd8e1ec",
-      "title": "English football agrees trial to end goalkeeper tactical timeouts",
-      "summary": "English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T17:32:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "8a7873cfecb46d",
-      "title": "Gabriel Martinelli reaches decision on Arsenal future as Vinicius Junior plan takes shape",
-      "summary": "A report has revealed what Gabriel Martinelli plans to do about his future at Arsenal this summer, as the Gunners target Vinicius Junior.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gabriel-martinelli-arsenal-vinicius-junior-real-madrid-decision-made",
-      "publishedAt": "2026-07-27T17:16:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "06ef72b5161787",
-      "title": "Spurs’ plans for new training facility in London park blocked by high court",
-      "summary": "Judge quashes Enfield council’s decision to grant planning permission for new women’s and girls’ football academy A council’s decision to allow Tottenham Hotspur Footba...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/tottenham-hotspur-plans-for-new-footbal-training-facility-london-park-blocked-by-high-court",
-      "publishedAt": "2026-07-27T17:13:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "90400ab7a4e6dd",
-      "title": "Liverpool's centre-back situation and why Iraola must act",
-      "summary": "BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T16:58:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "171f7c2e826813",
-      "title": "The 2026 World Cup is over, but the onslaught of soccer relentlessly rolls on | Leander Schaerlaeckens",
-      "summary": "The supply of soccer seems to be enormously exceeding demand. It’s made the sport feel utterly overwhelming On Friday, the Scottish Premiership kicks off its 2026-27 se...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup",
-      "publishedAt": "2026-07-27T16:36:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "988acf8e6ac3db",
-      "title": "Man City and Barcelona run into same ‘problem’ for French forward – Fabrizio Romano",
-      "summary": "Manchester City and Barcelona are both facing an uphill struggle to sign a certain coveted Premier League forward, according to Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-barcelona-same-transfer-problem-fabrizio-romano-julian-alvarez-update",
-      "publishedAt": "2026-07-27T16:13:11.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Premier League",
-        "Manchester",
-        "Barcelona"
       ]
     }
   ],
