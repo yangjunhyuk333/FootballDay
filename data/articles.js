@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-28T19:38:25.665Z",
+  "generatedAt": "2026-07-29T02:57:45.129Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "1ffab8f17b2d3f",
-      "title": "Joao Pedro nets hat-trick as Chelsea score SIX in Alonso's first game",
-      "summary": "Joao Pedro scored a nine-minute hat-trick as Xabi Alonso began his Chelsea reign with a ridiculous 6-4 victory over Western Sydney Wanderers in pre-season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567646/western-sydney-wanderers-4-6-chelsea-joao-pedro-scores-hat-trick-as-xabi-alonso-marks-first-game-with-bonkers-10-goal-thriller",
-      "publishedAt": "2026-07-28T19:38:24.980Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": "1600ab8d7b613d",
-      "title": "UEFA hit out at FIFA plans to sell stakes linked to World Cup",
-      "summary": "A major row has broken out between football's two major governing bodies over FIFA's plans to seek private investment in the World Cup, with UEFA reacting angrily and E...",
+      "title": "World Cup boycott threat and Burnham criticism - FIFA sparks fury over investor plan",
+      "summary": "A major row has broken out between football's governing bodies over FIFA's plans to seek private investment in the World Cup, with UEFA reacting angrily and European na...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition",
-      "publishedAt": "2026-07-28T19:38:24.980Z",
+      "publishedAt": "2026-07-29T02:57:44.871Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -129,11 +116,11 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "49a1d11f070b58",
-      "title": "Mandhana fires Manchester Super Giants to victory over SunRisers Leeds",
+      "title": "Mandhana fires Super Giants to victory over SunRisers",
       "summary": "Smriti Mandhana dazzled with an imperious 88no to fire Manchester Super Giants to a four-wicket win over SunRisers Leeds at Headingley.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13567867/the-hundred-smriti-mandhana-magic-fires-manchester-super-giants-to-victory-over-sunrisers-leeds-at-headingley",
-      "publishedAt": "2026-07-28T19:38:24.979Z",
+      "publishedAt": "2026-07-29T02:57:44.870Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -146,7 +133,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "West Ham latest: Ajax and Real Sociedad interested in Alvarez",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "publishedAt": "2026-07-28T19:38:24.979Z",
+      "publishedAt": "2026-07-29T02:57:44.870Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -159,7 +146,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Vinicius Junior will be staying at Real Madrid beyond this summer, Sky Sports News has been told.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567839/real-madrid-transfer-news-vinicius-junior-to-stay-at-the-santiago-bernabeu-beyond-this-summer-despite-arsenal-interest",
-      "publishedAt": "2026-07-28T19:38:24.979Z",
+      "publishedAt": "2026-07-29T02:57:44.870Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -173,11 +160,132 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Aston Villa latest: Could UEFA ruling impact move for Jackson?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-07-28T19:38:24.979Z",
+      "publishedAt": "2026-07-29T02:57:44.870Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Uefa"
+      ]
+    },
+    {
+      "id": "5b99894b33b294",
+      "title": "Marsh, Crawley and Brook propel SunRisers past Super Giants",
+      "summary": "Multiple magnificent top order batting performances secured SunRisers Leeds a dominant eight-wicket win over Manchester Super Giants at Headingley.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13567912/the-hundred-harry-brook-mitch-marsh-zak-crawley-propel-sunrisers-leeds-past-manchester-super-giants-in-record-headingley-chase",
+      "publishedAt": "2026-07-29T02:57:44.870Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1ffab8f17b2d3f",
+      "title": "Joao Pedro nets hat-trick as Chelsea score SIX in Alonso's first game",
+      "summary": "Joao Pedro scored a nine-minute hat-trick as Xabi Alonso began his Chelsea reign with a ridiculous 6-4 victory over Western Sydney Wanderers in pre-season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13567646/western-sydney-wanderers-4-6-chelsea-joao-pedro-scores-hat-trick-as-xabi-alonso-marks-first-game-with-bonkers-10-goal-thriller",
+      "publishedAt": "2026-07-29T02:57:44.870Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b272dd232063ff",
+      "title": "Are there already worrying signs for Vrancken's Hearts?",
+      "summary": "Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T22:56:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "b189e05b686933",
+      "title": "'This could be a long season for Hearts'",
+      "summary": "Reaction as Sturm Graz outclass Hearts in the Champions League qualifiers",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p1c3m1?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T22:54:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "144410ad3902ad",
+      "title": "Tottenham set Man City deadline for Savinho deal as alternative winger targets lined up",
+      "summary": "It’s claimed that Spurs have informed City they do not want negotiations dragging into August and have set a clear deadline for the Premier League champions to make the...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-set-man-city-deadline-for-savinho-signing-alternatives-lined-up",
+      "publishedAt": "2026-07-28T21:46:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8be0cc5a9a4738",
+      "title": "Kick It Out wants tougher sanctions as discrimination hits new high",
+      "summary": "Anti-discrimination body Kick It Out says tougher sanctions are needed to punish discrimination in football, as the number of annual incidents hits a record high.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c30489zl298o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T21:31:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "eceaae8a441b6f",
+      "title": "Barcola agrees Liverpool move - Wednesday's gossip",
+      "summary": "PSG's Bradley Barcola verbally agrees to join Liverpool but clubs apart on valuation, Real Madrid have no plans to sell Vinicius Jr, Everton want around £70m for Iliman...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czrj8ke23g3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T21:31:10.000Z",
+      "category": "league",
+      "region": "england spain france",
+      "tags": [
+        "Liverpool",
+        "Real Madrid",
+        "Psg"
+      ]
+    },
+    {
+      "id": "d6a3779e1d22cb",
+      "title": "Abusive chanting against immigrants in English football on rise, new data reveals",
+      "summary": "Reported incidents of all discrimination reach new high Reports of abuse in grassroots football rose for fifth year Abusive chanting against immigrants has become a fea...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/28/abusive-chanting-immigrants-england-football-matches-on-rise-kick-it-out",
+      "publishedAt": "2026-07-28T21:30:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "270811816888af",
+      "title": "Savinho open to leaving Man City amid Spurs interest",
+      "summary": "Manchester City winger Savinho is open to leaving the club and is keen to join Premier League rivals Tottenham.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2kqvkwz17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T19:37:04.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -270,7 +378,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "11eb4990b4848e",
       "title": "Fifa accused of ‘selling the soul of football’ over $20bn World Cup commercial rights sale plan",
-      "summary": "World governing body set to raise millions from venture Uefa hits out at proposal and could take legal action Fifa has announced plans to sell the commercial rights to...",
+      "summary": "World governing body set to raise millions from venture Uefa hits out at proposal and could take legal action Explainer: what Fifa’s plans mean and what happens next Fi...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/28/fifa-plan-sell-world-cup-commercial-rights-uefa-hits-out",
       "publishedAt": "2026-07-28T16:17:42.000Z",
@@ -313,6 +421,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "78243969d4cdff",
+      "title": "Who has your Premiership club brought in & let go this summer?",
+      "summary": "Your one-stop shop for all the ins and outs in the Scottish Premiership during the 2026 summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T15:49:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "451e7ff1b966cc",
       "title": "Xabi Alonso plays down Welbeck and Henderson moves after Chelsea win",
       "summary": "‘There will be a lot of transfer links, a lot of rumours’ Chelsea hit back to beat Western Sydney Wanderers 6-4 Xabi Alonso refused to confirm Chelsea are interested in...",
@@ -330,15 +451,14 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "ff59de902d1934",
-      "title": "Uefa says Fifa plan for private investment in World Cup 'crosses line'",
-      "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-28T15:36:29.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
         "World Cup",
         "Fifa",
         "Uefa"
@@ -478,128 +598,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "898344bf253d34",
-      "title": "Personal terms ‘agreed’ with Arsenal now in ‘daily contact’ for attacker’s transfer",
-      "summary": "An Arsenal attacker has an agreement on personal terms in place, though a reporter has revealed what’s holding up a club-to-club agreement despite almost ‘daily contact...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/personal-terms-agreed-arsenal-daily-contact-fabio-vieira-transfer",
-      "publishedAt": "2026-07-28T12:41:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "49c2501f84f2af",
-      "title": "Best No.10s available for transfer this summer: Gibbs-White ahead of Elliott, Mount, Nwaneri",
-      "summary": "This summer’s attacking midfielder market is… pretty underwhelming. Topped by Morgan Gibbs-White, here is the 10 best available No.10s.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-no-10s-available-for-summer-transfer-window",
-      "publishedAt": "2026-07-28T12:33:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "46a1534b46e03c",
-      "title": "Declan Rice ‘looks like a prisoner of war breaking rocks’ because England is embarrassed to copy Scotland",
-      "summary": "Declan Rice and his Premier League pals look permanently knackered because the FA is too embarrassed to follow one obvious Scottish solution.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/declan-rice-flogged-england-knackered-embarrassed-scotland",
-      "publishedAt": "2026-07-28T12:25:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "89ba5964c36e89",
-      "title": "Can lightning strike twice? Cape Verde set for Wafcon debut",
-      "summary": "After the men's success at the World Cup, Cape Verde should not be underestimated on their Women's Africa Cup of Nations debut, forward Sandra Martins warns.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e4jy2xnglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T12:09:04.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2b6ca3343b77d1",
-      "title": "Rodri out for 'short period' after back surgery",
-      "summary": "Manchester City midfielder Rodri will be sidelined for a \"short period of rehabilitation\" following back surgery on Monday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j158w2dxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T12:03:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f0091577d3ddb5",
-      "title": "Man Utd deal for ‘dream signing’ could be on as Real Madrid ‘need to sell’ this summer",
-      "summary": "Man Utd could have a chance of signing Aurelien Tchouameni this summer with Real Madrid needing to sell, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-tchouameni-dream-signing-on-real-madrid-need-sell",
-      "publishedAt": "2026-07-28T11:52:22.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "65a373f7829da9",
-      "title": "Arsenal face big transfer complication with Saliba cover as Newcastle’s Guimaraes hope grows",
-      "summary": "Arsenal have identified a defender to cover for the injured William Saliba but face a ‘significant complication’ in the deal, at a time when Newcastle United are growin...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-face-transfer-complication-william-saliba-cover-newcastles-bruno-guimaraes-hope-grows",
-      "publishedAt": "2026-07-28T11:41:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "58e27652479859",
-      "title": "England keeper Hampton extends deal at Chelsea",
-      "summary": "England international Hannah Hampton signs a new two-year deal with Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gvew81dd0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T11:34:05.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "580316c1b5f4c6",
-      "title": "Milos Kerkez: ‘I’m delighted – Andoni Iraola is the perfect fit for Liverpool’",
-      "summary": "Full-back on being reunited with former manager, the shock of Arne Slot’s sacking and being mistaken for a bridegroom It has been quite the summer for Milos Kerkez. The...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/28/milos-kerkez-andoni-iraola-liverpool",
-      "publishedAt": "2026-07-28T11:00:02.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Inter"
       ]
     }
   ],
