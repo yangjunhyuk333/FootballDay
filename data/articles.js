@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-29T14:20:15.260Z",
+  "generatedAt": "2026-07-29T19:23:16.998Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,41 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "dd3c76f4c1feeb",
-      "title": "Liverpool set to open talks with PSG over Barcola signing",
-      "summary": "Liverpool are set to open talks with PSG over a potential deal for Bradley Barcola.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567997/bradley-barcola-transfer-news-liverpool-set-to-open-talks-with-paris-saint-germain-over-winger-with-an-opening-offer-prepared",
-      "publishedAt": "2026-07-29T14:20:15.077Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "9382c0498bccbc",
-      "title": "Real Madrid want Rodri - How would Man City cope without him?",
-      "summary": "Real Madrid chiefs clearly took a keen interest in this summer's World Cup. So much so that it has motivated them to move for Spain's prize midfielder Rodri a year earl...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567710/rodri-to-real-madrid-how-will-man-city-and-enzo-maresca-cope-without-the-premier-leagues-best-central-midfielder-if-he-moves",
-      "publishedAt": "2026-07-29T14:20:15.077Z",
-      "category": "worldcup",
-      "region": "spain italy",
-      "tags": [
-        "World Cup",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
       "id": "c594d661cf616a",
       "title": "New PL season, new kits... but which is your favourite?",
       "summary": "Take a look at the new home kit that EVERY Premier League team will be wearing this season, can you decide which is your favourite?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13568044/premier-league-new-season-new-kit-but-which-is-your-favourite",
-      "publishedAt": "2026-07-29T14:20:15.076Z",
+      "publishedAt": "2026-07-29T19:23:16.683Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -146,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Gianni Infantino has given football associations until September 19 to back his plan to sell off part of FIFA to private investors with a £30.1m ($40m) incentive to acc...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568022/world-cup",
-      "publishedAt": "2026-07-29T14:20:15.076Z",
+      "publishedAt": "2026-07-29T19:23:16.683Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -160,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Chelsea have agreed an undisclosed fee with Brighton for Danny Welbeck.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13567471/danny-welbeck-transfer-news",
-      "publishedAt": "2026-07-29T14:20:15.076Z",
+      "publishedAt": "2026-07-29T19:23:16.683Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -173,11 +144,311 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Justin Langer says he hasn't heard from anyone at the ECB over the vacant England Test head coach role which he has been linked with, but the Australian hinted at being...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13567991/justin-langer-hints-at-interest-in-england-test-head-coach-job-but-says-he-hasnt-heard-from-ecb",
-      "publishedAt": "2026-07-29T14:20:15.076Z",
+      "publishedAt": "2026-07-29T19:23:16.683Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "666ab3f2868f91",
+      "title": "Argentina face FIFA action over Falklands banner and World Cup final behaviour",
+      "summary": "FIFA has opened disciplinary proceedings against Argentina over potential breaches of multiple laws during the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568194/world-cup-2026-fifa-opens-disciplinary-proceedings-against-argentina-over-several-potential-breaches-including-falklands-banner",
+      "publishedAt": "2026-07-29T19:23:16.682Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "49e496c4c3209e",
+      "title": "Romano makes ‘for sure’ claim as Liverpool look to agree Barcola deal at stunning price",
+      "summary": "Fabrizio Romano has relayed the latest he’s hearing on Bradley Barcola to Liverpool, while the most respected source on everything to do with the Reds has weighed in wi...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-transfer-updates-liverpool-bradley-barcola-psg",
+      "publishedAt": "2026-07-29T19:22:41.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c8ffde0af3cb4a",
+      "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
+      "summary": "Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T18:54:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fdc34b33dc9972",
+      "title": "Wrexham complete signing of Palace defender Imray",
+      "summary": "Wrexham have completed the signing of Crystal Palace full-back Danny Imray, their first incoming of the summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl7d6n6kp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T18:00:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "97753f2efe2dad",
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T17:21:57.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8fb055e841169d",
+      "title": "Infantino’s World Cup plan is part of a desire for expansion that was clear from the start | Paul MacInnes",
+      "summary": "Fifa’s plans to sell a share of the World Cup’s commercial rights are the latest in a long line of presidential power moves In hindsight, it was all in the open from th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/gianni-infantino-fifa-president-world-cup-commercial-rights-plan",
+      "publishedAt": "2026-07-29T17:21:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "6923e5ac540409",
+      "title": "Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
+      "summary": "Players brandished banner after semi-final against England Paredes and Molina investigated over brawl after final defeat Fifa has opened disciplinary proceedings agains...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos",
+      "publishedAt": "2026-07-29T17:09:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "9cad567334032e",
+      "title": "Spain U20s midfielder Arques joins London City",
+      "summary": "London City Lionesses sign Spanish youth international Daniela Arques from Sporting, subject to international clearance.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03mr318r6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T17:00:14.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "a72c6c222603bf",
+      "title": "Chelsea beaten to striker signing with ‘deal done’ and final transfer fee revealed",
+      "summary": "Chelsea have lost out in their efforts to sign a striker sensation, with two separate sources confirming which club beat the Blues and how much the deal is worth.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-beaten-striker-signing-deal-done-final-transfer-fee-revealed",
+      "publishedAt": "2026-07-29T16:54:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "72390d64405b34",
+      "title": "Gianni Infantino’s big World Cup sale and Fifa’s race to the bottom line",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! We begin Football Daily’s 29 July 2026 edition with a trip back to 26 February 2016. Gianni Infantino has been elect...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/gianni-infantinos-big-world-cup-sale-and-fifas-race-to-the-bottom-line",
+      "publishedAt": "2026-07-29T16:14:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "689784d99b8932",
+      "title": "Liverpool transfer collapses despite offer as multi-year effort comes to nothing",
+      "summary": "Liverpool will not be signing a player they’ve had their eye on for the past two years, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-collapses-despite-offer-multi-year-effort-fails",
+      "publishedAt": "2026-07-29T15:53:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8dc3ceabd17222",
+      "title": "USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
+      "summary": "Deal would extend Argentinian through 2030 World Cup Coach would stand to earn ‘significantly’ more Pochettino’s tenure has been mixed bag of results USMNT head coach M...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status",
+      "publishedAt": "2026-07-29T15:45:40.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "88e2b3367aa499",
+      "title": "Infantino warns England, other nations to adhere to World Cup plan or face consequences",
+      "summary": "FIFA’s 211 member associations, including the English FA, have been promised windfalls of up to $40 million (£30.1m) each if they agree to the proposal by the deadline.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gianni-infantino-warns-england-other-nations-new-world-cup-plan-face-consequences",
+      "publishedAt": "2026-07-29T15:43:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "827eb7b9d78eee",
+      "title": "Liverpool preparing opening bid for PSG's Barcola",
+      "summary": "Liverpool step up their interest for Paris St-Germain's Bradley Barcola and are preparing an opening bid.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T15:42:20.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Liverpool",
+        "Psg",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5a6831a3c9748b",
+      "title": "Bradley Barcola reacts to Chelsea ‘concrete interest’ and reaches Liverpool decision",
+      "summary": "Bradley Barcola has made up his mind on rejecting Liverpool and joining Chelsea from Paris Saint-Germain in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-chelsea-bradley-barcola-psg-transfer-latest",
+      "publishedAt": "2026-07-29T15:17:28.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Liverpool to open Barcola bidding, Man Utd target faces salary decision",
+      "summary": "Liverpool are psyching up to open the bidding for Bradley Barcola but they’ll need to woo PSG, while Dusan Vlahovic must decide how much he wants Man Utd…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-29T15:02:01.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "192dc5409913cd",
+      "title": "Fifa offers $40m if nations back controversial plan",
+      "summary": "Fifa has set a deadline of 19 September for member associations to access cash as FA voice disapproval of world governing body's funding plan before emergency Uefa meet...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T14:56:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "8129a79def6741",
+      "title": "Gary Neville praises Chelsea double deal as he shakes head at Man Utd call",
+      "summary": "Gary Neville has praised the decision from Chelsea to sign to new players, while blasting a previous Manchester United decision which has become a clear mistake.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gary-neville-praises-chelsea-welbeck-henderson-united-mistake",
+      "publishedAt": "2026-07-29T14:49:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a4b24fadfb924d",
+      "title": "Liverpool prepare opening offer for Paris Saint-Germain’s Bradley Barcola",
+      "summary": "23-year-old open to Premier League move PSG value Barcola in the region of £145m Liverpool are preparing an opening offer for Bradley Barcola after talks with the Paris...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/liverpool-prepare-opening-offer-for-paris-saint-germains-bradley-barcola",
+      "publishedAt": "2026-07-29T14:48:56.000Z",
+      "category": "transfer",
+      "region": "england spain france germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T14:24:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-07-29T14:21:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -191,6 +462,20 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "4a1108f87791d6",
+      "title": "Defence promises to be a central issue for Carrick and Manchester United",
+      "summary": "Manager may have concerns over his group of five central defenders withstanding the demands of a long campaign Manchester United’s central defender quintet of Leny Yoro...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league",
+      "publishedAt": "2026-07-29T14:05:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
       ]
     },
     {
@@ -218,20 +503,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "World Cup",
         "Fifa"
-      ]
-    },
-    {
-      "id": "192dc5409913cd",
-      "title": "Fifa offers $40m if nations back controversial plan",
-      "summary": "Fifa has set a deadline of 19 September for member associations to access cash as FA voice disapproval of world governing body's funding plan before emergency Uefa meet...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T13:38:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa",
-        "Uefa"
       ]
     },
     {
@@ -278,7 +549,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "209a3b093a8f9b",
-      "title": "Timber leaves Arsenal camp over groin issue",
+      "title": "Timber leaves Arsenal camp for groin check",
       "summary": "Jurrien Timber travels back to London from Arsenal's training camp in Spain in a move related to the groin injury that caused him to miss the end of last season.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpq8ndn0g7go?at_medium=RSS&at_campaign=rss",
@@ -327,269 +598,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Fifa"
-      ]
-    },
-    {
-      "id": "a38855a1ffe4d4",
-      "title": "Spacey-Cale to step down at Southampton",
-      "summary": "Southampton director of women's football Marieanne Spacey-Cale says she will step down this year.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kdpxqk29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T12:05:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "9d09c06b169906",
-      "title": "Football’s most valuable free agent: Why has no one signed Dusan Vlahovic yet?",
-      "summary": "Even amid links with Man Utd, it’s a paradox that this summer’s most valuable free agent remains without a club…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/dusan-vlahovic-free-agent-why-nobody-signed-striker-yet",
-      "publishedAt": "2026-07-29T11:58:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "65dd503c1cb848",
-      "title": "Noussair Mazraoui takes final stance on leaving Man Utd after ‘direct conversations’ with Michael Carrick",
-      "summary": "Noussair Mazraoui has made up his mind on his future at Manchester United after holding talks with manager Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/noussair-mazraoui-manchester-united-michael-carrick-final-decision",
-      "publishedAt": "2026-07-29T11:30:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8f0c66211479b4",
-      "title": "‘From what I hear’ – Liverpool ‘priority’ signing is not currently Bradley Barcola",
-      "summary": "Liverpool are more interested in bringing a centre-back to Anfield than Paris Saint-Germain winger Bradley Barcola, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-different-priority-signing-bradley-barcola",
-      "publishedAt": "2026-07-29T11:30:06.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T11:10:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "610855c536bdea",
-      "title": "Rayo Vallecano to move stadium over Legionnaires risk",
-      "summary": "La Liga side Rayo Vallecano are barred from playing at their home stadium just weeks before the new season over the risk of supporters contracting Legionnaires' disease.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1w1p797q7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T10:48:24.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga"
-      ]
-    },
-    {
-      "id": "f444c859736fbc",
-      "title": "Double Tottenham exit ramps up as superstar helps one raid amid talks over similar move",
-      "summary": "Two Tottenham stars look to be en route to similar locations, with Cristian Romero having spoken to an international team-mate about a move to Inter Milan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-pair-romero-vicario-exits-martinez-convinces",
-      "publishedAt": "2026-07-29T10:38:10.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "591777186d1b82",
-      "title": "Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames",
-      "summary": "European football has shown an increased willingness to talk tough with Fifa but words can only be wielded so many times • FA joins criticism of Fifa plan to sell off W...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/29/uefa-show-backbone-concrete-action-fifa-infantino-world-cup-plans",
-      "publishedAt": "2026-07-29T10:22:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "564ff1f3f0f09f",
-      "title": "Guimaraes reaches decision on forcing Arsenal move as transfer now a ‘matter of honour’",
-      "summary": "Bruno Guimaraes has made his decision on potentially forcing a move from Newcastle United to Arsenal this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-guimaraes-reaches-decision-force-newcastle-transfer-matter-honour",
-      "publishedAt": "2026-07-29T10:10:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "34785ca5a87c0d",
-      "title": "Henderson nears Chelsea move as Welbeck has medical",
-      "summary": "Brighton striker Danny Welbeck is given permission to have a medical at Stamford Bridge as his switch to Chelsea moves closer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T10:06:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "699f1446b8ac10",
-      "title": "Fourth Arsenal signing ‘really imminent’ – it’s not Bruno Guimaraes",
-      "summary": "A journalist has revealed Arsenal’s next summer signing, as the Gunners continue to chase Newcastle United and Brazil star Bruno Guimaraes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fourth-arsenal-signing-really-imminent-its-not-bruno-guimaraes",
-      "publishedAt": "2026-07-29T10:03:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "dea40c71019d08",
-      "title": "Football transfer rumours: Eli Junior Kroupi to boost Barcelona attack?",
-      "summary": "Today’s tittle-tattle is walking on sunshine After waving Robert Lewandowski off into the sunset at the end of last season, Barcelona are in need of a new striker. The...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/29/football-transfer-rumours-eli-junior-kroupi-barcelona-alvarez-joao-pedro",
-      "publishedAt": "2026-07-29T09:30:33.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "eceaae8a441b6f",
-      "title": "Barcola agrees Liverpool move - Wednesday's gossip",
-      "summary": "PSG's Bradley Barcola verbally agrees to join Liverpool but clubs apart on valuation, Real Madrid have no plans to sell Vinicius Jr, Everton want around £70m for Iliman...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czrj8ke23g3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T09:23:41.000Z",
-      "category": "league",
-      "region": "england spain france",
-      "tags": [
-        "Liverpool",
-        "Real Madrid",
-        "Psg"
-      ]
-    },
-    {
-      "id": "5ea4fece8373f1",
-      "title": "Palace hold talks with ex-Arsenal defender Tomiyasu",
-      "summary": "Japan's Takehiro Tomiyasu, who is training with Crystal Palace, was named as a substitute in the pre-season friendly against Lens.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8e7e0l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T09:22:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2f3eb0d0259253",
-      "title": "FA joins criticism of Fifa plan to sell off World Cup stakes to private investors",
-      "summary": "FA in talks with other European associations Options include boycott and potential breakaway Members given 19 September deadline to opt in The Football Association has...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors",
-      "publishedAt": "2026-07-29T09:21:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "b24f68c1469b8a",
-      "title": "PSG reach decision on hijacking Real Madrid deal for Yan Diomande – Fabrizio Romano",
-      "summary": "Fabrizio Romano reveals whether Paris Saint-Germain plan to sign Yan Diomande ahead of Real Madrid in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-psg-yan-diomande-rb-leipzig-fabrizio-romano-latest",
-      "publishedAt": "2026-07-29T08:42:28.000Z",
-      "category": "transfer",
-      "region": "spain italy france",
-      "tags": [
-        "Transfer",
-        "Real Madrid",
-        "Psg"
-      ]
-    },
-    {
-      "id": "a69870e41f12d7",
-      "title": "Romano reveals first Real Madrid move for Rodri as Man City eye ‘another attacker’ after Savinho plea",
-      "summary": "Real Madrid have now ‘approached’ Man City ‘for the first time’ as they look to do a deal for Rodri, according to Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-romano-rodri-real-madrid-new-attacker-savinho-plea",
-      "publishedAt": "2026-07-29T08:42:17.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8a5f8dd4efa795",
-      "title": "Birmingham & Preston - Barcelona's unlikely UK camp",
-      "summary": "Barcelona will be training at St George's Park this week and taking on Championship sides Birmingham City and Preston.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3k55m172o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T08:12:58.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "b231092396e31b",
-      "title": "Cucurella gets tattoo of Spain coach De la Fuente",
-      "summary": "Spain defender Marc Cucurella keeps his promise to get a tattoo of World Cup-winning coach Luis de la Fuente.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdewdedl44go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T07:42:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
