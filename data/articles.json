@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:23:16.998Z",
+  "generatedAt": "2026-07-30T02:42:42.000Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,40 @@
       "pinned": true
     },
     {
+      "id": "666ab3f2868f91",
+      "title": "Argentina face FIFA action over Falklands banner and World Cup final behaviour",
+      "summary": "FIFA has opened disciplinary proceedings against Argentina over potential breaches of multiple laws during the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568194/world-cup-2026-fifa-opens-disciplinary-proceedings-against-argentina-over-several-potential-breaches-including-falklands-banner",
+      "publishedAt": "2026-07-30T02:42:41.777Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "3b4f26be1fd92f",
+      "title": "Papers: Grealish attracting interest from Saudi side Al Hilal",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568271/jack-grealish-transfer-man-city-forward-attracting-interest-from-saudi-side-al-hilal-after-pre-season-snub-paper-talk",
+      "publishedAt": "2026-07-30T02:42:41.777Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
       "id": "c594d661cf616a",
       "title": "New PL season, new kits... but which is your favourite?",
       "summary": "Take a look at the new home kit that EVERY Premier League team will be wearing this season, can you decide which is your favourite?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13568044/premier-league-new-season-new-kit-but-which-is-your-favourite",
-      "publishedAt": "2026-07-29T19:23:16.683Z",
+      "publishedAt": "2026-07-30T02:42:41.777Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +145,7 @@
       "summary": "Gianni Infantino has given football associations until September 19 to back his plan to sell off part of FIFA to private investors with a £30.1m ($40m) incentive to acc...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568022/world-cup",
-      "publishedAt": "2026-07-29T19:23:16.683Z",
+      "publishedAt": "2026-07-30T02:42:41.777Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -126,43 +154,46 @@
       ]
     },
     {
-      "id": "b39fde0e982064",
-      "title": "Welbeck to have medical as Chelsea set to pay first fee for over-26 since 2022",
-      "summary": "Chelsea have agreed an undisclosed fee with Brighton for Danny Welbeck.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567471/danny-welbeck-transfer-news",
-      "publishedAt": "2026-07-29T19:23:16.683Z",
-      "category": "transfer",
+      "id": "53145ec62ada77",
+      "title": "Experimental Liverpool down Wrexham thanks to Rio Ngumoha’s deflected strike",
+      "summary": "Substitute’s 75th-minute shot gives Liverpool 1-0 win in New York Chances few and far between in pre-season friendly that fails to ignite Liverpool turned the Empire St...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/liverpool-wrexham-pre-season-friendly-rio-ngumoha-goal-match-report",
+      "publishedAt": "2026-07-30T01:53:17.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Football",
+        "Liverpool"
       ]
     },
     {
-      "id": "48ddc18bd74c62",
-      "title": "Langer hints at interest in England Test job",
-      "summary": "Justin Langer says he hasn't heard from anyone at the ECB over the vacant England Test head coach role which he has been linked with, but the Australian hinted at being...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13567991/justin-langer-hints-at-interest-in-england-test-head-coach-job-but-says-he-hasnt-heard-from-ecb",
-      "publishedAt": "2026-07-29T19:23:16.683Z",
+      "id": "fe3a731d485035",
+      "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
+      "summary": "Real Madrid confident in securing a deal for Manchester City's Rodri, Inter Milan could rekindle move for Liverpool's Curtis Jones, Aston Villa have bid for Palmeiras f...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgj861zn59o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T21:20:56.000Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england spain italy",
       "tags": [
+        "Liverpool",
+        "Manchester",
+        "Real Madrid",
         "Inter"
       ]
     },
     {
-      "id": "666ab3f2868f91",
-      "title": "Argentina face FIFA action over Falklands banner and World Cup final behaviour",
-      "summary": "FIFA has opened disciplinary proceedings against Argentina over potential breaches of multiple laws during the World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568194/world-cup-2026-fifa-opens-disciplinary-proceedings-against-argentina-over-several-potential-breaches-including-falklands-banner",
-      "publishedAt": "2026-07-29T19:23:16.682Z",
-      "category": "worldcup",
-      "region": "england",
+      "id": "e2b80a8e7c5e6f",
+      "title": "Tottenham pivot to signing Barcelona star after top target suffers serious injury",
+      "summary": "The top striker target at Tottenham, Eli Junior Kroupi, has undergone surgery, with Spurs now pivoting towards signing a Barcelona frontman instead.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-pivot-signing-barcelona-star-ferran-torres-eli-junior-kroupi-suffers-serious-injury",
+      "publishedAt": "2026-07-29T20:45:49.000Z",
+      "category": "transfer",
+      "region": "england spain",
       "tags": [
-        "World Cup",
-        "Fifa"
+        "Barcelona"
       ]
     },
     {
@@ -176,6 +207,37 @@
       "region": "england italy",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "e01323fa140254",
+      "title": "Uefa calls emergency meeting as opposition to Fifa plan hardens",
+      "summary": "55 members to meet on Thursday to coordinate response ‘Uefa knows there is significant and growing opposition’ Uefa has called an emergency ­meeting of its 55 members f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/29/uefa-emergency-meeting-fifa-gianni-infantini-world-cup-plan",
+      "publishedAt": "2026-07-29T19:07:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "344e3bcc7b6088",
+      "title": "Are Fifa and Infantino Selling the World Cup?",
+      "summary": "World football's governing body plans to sell off stakes in its football competitions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p1k1qx?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T19:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -206,7 +268,7 @@
     },
     {
       "id": "97753f2efe2dad",
-      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "title": "Alleged assaults and Falklands banner - Argentina face Fifa charges",
       "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
@@ -219,25 +281,9 @@
       ]
     },
     {
-      "id": "8fb055e841169d",
-      "title": "Infantino’s World Cup plan is part of a desire for expansion that was clear from the start | Paul MacInnes",
-      "summary": "Fifa’s plans to sell a share of the World Cup’s commercial rights are the latest in a long line of presidential power moves In hindsight, it was all in the open from th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/29/gianni-infantino-fifa-president-world-cup-commercial-rights-plan",
-      "publishedAt": "2026-07-29T17:21:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
       "id": "6923e5ac540409",
       "title": "Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
-      "summary": "Players brandished banner after semi-final against England Paredes and Molina investigated over brawl after final defeat Fifa has opened disciplinary proceedings agains...",
+      "summary": "Players held banner after semi-final against England Paredes and Molina investigated over brawl after final Fifa has opened disciplinary ­proceedings against Argentina...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos",
       "publishedAt": "2026-07-29T17:09:36.000Z",
@@ -410,22 +456,6 @@
       ]
     },
     {
-      "id": "a4b24fadfb924d",
-      "title": "Liverpool prepare opening offer for Paris Saint-Germain’s Bradley Barcola",
-      "summary": "23-year-old open to Premier League move PSG value Barcola in the region of £145m Liverpool are preparing an opening offer for Bradley Barcola after talks with the Paris...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/29/liverpool-prepare-opening-offer-for-paris-saint-germains-bradley-barcola",
-      "publishedAt": "2026-07-29T14:48:56.000Z",
-      "category": "transfer",
-      "region": "england spain france germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": "03f89965fa6d99",
       "title": "All done deals in July 2026",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
@@ -571,33 +601,6 @@
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "43460b2b417ad7",
-      "title": "Euro countries discuss World Cup boycott as Infantino told it’s ‘invalid’ with no England, Spain etc",
-      "summary": "European nations are discussing a plan to boycott the World Cup if Gianni Infantino sells a percentage of FIFA, with the president told a tournament is ‘invalid’ withou...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/euro-nations-plan-boycott-world-cup-fifa-invalid",
-      "publishedAt": "2026-07-29T12:13:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "7b5be137883a0a",
-      "title": "What has Infantino done now? How and why FIFA’s plan must be stopped…",
-      "summary": "If you hadn’t fully comprehended the cynicism and greed behind Gianni Infantino’s cash grab, here is why the FIFA egg must be stopped…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fifa-plan-infantino-sell-world-cup-explained-questons-answers-uefa",
-      "publishedAt": "2026-07-29T12:07:41.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
       ]
     }
   ],
