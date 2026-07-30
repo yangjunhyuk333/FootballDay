@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T14:12:52.654Z",
+  "generatedAt": "2026-07-30T19:39:18.618Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Real Madrid are expected to make an offer for Manchester City midfielder Rodri.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568453/rodri-transfer-latest-real-madrid-expected-to-make-bid-for-manchester-city-midfielder-after-prolonged-interest",
-      "publishedAt": "2026-07-30T14:12:52.541Z",
+      "publishedAt": "2026-07-30T19:39:18.201Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -113,29 +113,377 @@
       ]
     },
     {
-      "id": "fe94e8edde643d",
-      "title": "Chelsea sign Lacroix from Palace",
-      "summary": "Chelsea have completed the signing of Maxence Lacroix from Crystal Palace in a deal worth £51m.",
+      "id": "9c1fb71ee39c4b",
+      "title": "Players guilty of discrimination face 10-game ban under new FA rules",
+      "summary": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
-      "publishedAt": "2026-07-30T14:12:52.541Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/news/12040/13568548/players-found-guilty-of-discrimination-face-10-game-ban-under-new-fa-rules",
+      "publishedAt": "2026-07-30T19:39:18.200Z",
+      "category": "issue",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Football"
       ]
     },
     {
-      "id": "cadabe98ab6488",
-      "title": "Women's Super League fixtures announced for 2026/27 season",
-      "summary": "Manchester City will begin their Women's Super League title defence against newly-promoted Birmingham City after London City Lionesses have opened the 2026/27 season ag...",
+      "id": "995e07bcfeecb1",
+      "title": "Carra: Liverpool don't need Barcola - they need to replace Salah!",
+      "summary": "Jamie Carragher believes Liverpool do not need to buy Bradley Barcola from Paris Saint-Germain - urging his former club to focus on securing a replacement for Mohamed S...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567659/womens-super-league-fixtures-2026-27-man-city-host-birmingham-city-and-london-city-lionesses-face-man-utd-in-opening-round",
-      "publishedAt": "2026-07-30T14:12:52.541Z",
+      "url": "https://www.skysports.com/football/news/12040/13568493/bradley-barcola-transfer-news-jamie-carragher-says-liverpool-do-not-need-psg-winger-as-much-as-they-need-a-mohamed-salah-replacement",
+      "publishedAt": "2026-07-30T19:39:18.200Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "53804953f812c5",
+      "title": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
+      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
+      "publishedAt": "2026-07-30T19:39:18.199Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "5db2025beff3ea",
+      "title": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
+      "summary": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
+      "publishedAt": "2026-07-30T19:39:18.199Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "2385a040d64aef",
+      "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
+      "summary": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
+      "publishedAt": "2026-07-30T19:39:18.198Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5e792c79ad0abd",
+      "title": "Liverpool urged to change transfer stance on £34m star before deadline day",
+      "summary": "Inter Milan are hopeful that Liverpool will relent on their ‘exorbitant asking price’ for Curtis Jones amid rumours the midfielder is ‘unhappy’ at Anfield.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-urged-change-transfer-stance-34m-star-before-deadline-day",
+      "publishedAt": "2026-07-30T19:33:28.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "0966298bad1749",
+      "title": "Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
+      "summary": "France centre-back moves to Blues in £52m transfer Stones signs two-year contract with Serie A club Maxence Lacroix has joined Chelsea from Crystal Palace to become the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup",
+      "publishedAt": "2026-07-30T18:49:32.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "03f89965fa6d99",
+      "title": "All done deals in July 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T18:37:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6233d2a3579669",
+      "title": "Defender Stones joins Inter Milan on free transfer",
+      "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T18:36:32.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Serie A",
+        "Transfer",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "a70316c3b9f49c",
+      "title": "20-goal Scot ‘interested’ in discussing transfer after Chelsea, Man City contact",
+      "summary": "Chelsea and Manchester City have both made contact to sign a Scottish striker who’s suggested he’ll be interested in a move, having already scored 20 goals this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-rival-man-city-20-goal-scot-ure",
+      "publishedAt": "2026-07-30T17:51:21.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ce354b4c0f1432",
+      "title": "Fabrizio Romano drops fresh Rodri to Real Madrid update as Man City cling to one transfer hope",
+      "summary": "Manchester City are prepared to make things a bit more difficult for Real Madrid in their pursuit of talismanic midfielder Rodri, even though he is keen on a Santiago B...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-rodri-real-madrid-update-man-city-one-transfer-hope",
+      "publishedAt": "2026-07-30T17:33:46.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "6954b3805c390f",
+      "title": "Elliott ready to take 'second chance' at Liverpool",
+      "summary": "Harvey Elliott discusses his \"tough\" loan spell at Aston Villa and why he's determined to enjoy his football again at Liverpool.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30lp0z4qpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T17:32:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6903dfd3bbdd43",
+      "title": "Uefa to boycott World Cups if Fifa plans approved",
+      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back d...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T16:47:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "3ef1492c51f98b",
+      "title": "De Zerbi a fan of second Man City forward as insider discusses Tottenham links with four superstars",
+      "summary": "Tottenham boss Roberto De Zerbi is said to be an ‘admirer’ of a second Manchester City star as he pushes Spurs towards the capture of Savinho.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/de-zerbi-loves-man-city-man-marmoush",
+      "publishedAt": "2026-07-30T16:04:04.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "308554396c891e",
+      "title": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed",
+      "summary": "Uefa vote passes 55-0 at emergency meeting on Thursday Boycott would begin with Under-20 Women’s World Cup European countries have agreed to boycott all Fifa competitio...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/uefa-agrees-to-boycott-fifa-competitions-if-world-cup-sell-off-plans-proceed",
+      "publishedAt": "2026-07-30T15:35:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "dfdd6700ea81b1",
+      "title": "Toon turnover: the stats behind Eddie Howe’s highs and lows at Newcastle",
+      "summary": "During Eddie Howe’s time at Newcastle, only four clubs earned more Premier League points, but the team underperformed last term When Eddie Howe was appointed by Newcast...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/toon-turnover-the-stats-behind-eddie-howes-highs-and-lows-at-newcastle",
+      "publishedAt": "2026-07-30T15:33:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a67e6807ad92da",
+      "title": "Premier League agrees proposal to share an extra £1.5bn with EFL clubs",
+      "summary": "Clubs vote unanimously for ‘new deal for football’ ‘Lifeboat’ fund for clubs in crisis would be set up The Premier League has agreed on a proposal to reset financial di...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/premier-league-propose-to-share-an-extra-15bn-with-efl-clubs",
+      "publishedAt": "2026-07-30T15:32:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "3b477c76d3e82a",
+      "title": "World Cup star’s agent confirms Man Utd contact, with next move ‘close’",
+      "summary": "The agent of a World Cup record holder has confirmed contact from Manchester United, while stating his next transfer is “close” to completion.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/world-cup-star-gill-agent-united-contact",
+      "publishedAt": "2026-07-30T15:22:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd’s Lewis Hall boost? Man City’s big decision",
+      "summary": "What are the renewed links between Lewis Hall and Man Utd really based upon? There are some firmer developments on Rodri, though…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-30T15:05:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "b0193665d9d792",
+      "title": "Harvey Elliott revels in ‘second chance’ at Liverpool and has no regrets over Aston Villa loan",
+      "summary": "Midfielder grateful to be back with boyhood club Hardly played at Villa but won the Europa League Harvey Elliott believes he has been given “a second chance” at Liverpo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/harvey-elliott-liverpool-second-chance-aston-villa-loan",
+      "publishedAt": "2026-07-30T15:00:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Europa League",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "36416317eeb918",
+      "title": "Football Daily",
+      "summary": "John Bennett presents reaction to Eddie Howe's departure from Newcastle United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p1qp1x?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T14:57:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f18ade5b88abd6",
+      "title": "Premier League clubs agree EFL funding proposal",
+      "summary": "Premier League clubs agreed a funding proposal that they will put to the EFL over the next few days.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2r015jjl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T14:41:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1b044f6a5c2b2a",
+      "title": "Newcastle captain Guimaraes expected to join Arsenal",
+      "summary": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T14:39:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ff614ebced22c9",
+      "title": "Tottenham insider reveals ‘top four’ expectations with four stars key to De Zerbi push",
+      "summary": "Tottenham insider John Wenham feels the club can “really push for top four” again, but believes four stars who saw little football last season need to get back to it.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-top-four-expectations-four-stars-key",
+      "publishedAt": "2026-07-30T14:35:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "56815d11b39a1d",
+      "title": "Fifa’s sales pitch revealed: more tournaments, more debt … but no mention of women’s game",
+      "summary": "Fifa’s 25-page sales deck produced by JP Morgan Reference made to doubling global tournaments Fifa’s sales pitch to persuade members to approve the sale of the World Cu...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted",
+      "publishedAt": "2026-07-30T14:19:35.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "330f45781e6093",
+      "title": "Premier League sack race: Incoming Newcastle boss already under pressure…",
+      "summary": "A new Premier League season is just around the corner which means a new Premier League Sack Race is just as close. The newest runner is already close to the ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
+      "publishedAt": "2026-07-30T14:02:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -226,7 +574,7 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web",
       "publishedAt": "2026-07-30T13:04:14.000Z",
-      "category": "worldcup",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
@@ -250,22 +598,6 @@
       ]
     },
     {
-      "id": "0966298bad1749",
-      "title": "Chelsea complete deal for Crystal Palace and France defender Maxence Lacroix",
-      "summary": "Centre-back signs six-year deal with Xabi Alonso’s side Lacroix is fifth signing of busy summer for club Maxence Lacroix has joined Chelsea from Crystal Palace to becom...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup",
-      "publishedAt": "2026-07-30T11:48:02.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "7b9c5c1f82d682",
       "title": "Man Utd identify perfect signing for Michael Carrick as INEOS told to pay £43m to land him",
       "summary": "According to reports, Manchester United have been told to pay around £43m to sign Francisco Conceicao from Serie A giants Juventus.",
@@ -278,327 +610,6 @@
         "Serie A",
         "Manchester",
         "Juventus"
-      ]
-    },
-    {
-      "id": "358dc6083bd1c3",
-      "title": "The winner who played for Tuchel - potential Newcastle boss Jaissle",
-      "summary": "German Matthias Jaissle is the favourite to replace Eddie Howe at Newcastle - and has a reputation for attacking football and winning trophies.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8eglx37gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T10:56:32.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T10:36:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-07-30T10:25:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "1e0eff0d7b12bb",
-      "title": "Chelsea complete seventh summer signing but Blues miss out on £30m deal for one reason",
-      "summary": "Chelsea have confirmed that they have signed Maxence Lacroix from Crystal Palace, while Fabrizio Romano has an update on their other business.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-complete-seventh-signing-blues-miss-out-30m-deal-one-reason-romano",
-      "publishedAt": "2026-07-30T10:20:27.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-07-30T10:20:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "31a5f72628e93a",
-      "title": "'Ready to write Chelsea story' - Lacroix makes £52m move",
-      "summary": "Chelsea sign France World Cup defender Maxence Lacroix from Crystal Palace for £52m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T10:03:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "120da19cb18b57",
-      "title": "WSL fixtures: London City Lionesses open 2026-27 season against Manchester United",
-      "summary": "Big-spending club kick off season on Friday 4 September Champions Manchester City begin against Birmingham Those desperate to see what London City Lionesses will look l...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/wsl-fixtures-london-city-lionesses-open-2026-27-season-against-manchester-united",
-      "publishedAt": "2026-07-30T09:45:26.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f2862baeab8ab9",
-      "title": "Football transfer rumours: Jack Grealish to make Saudi switch to Al-Hilal?",
-      "summary": "Today’s rumours are getting out the paddling pool Having been left behind like an unloved t-shirt by Enzo Maresca as Manchester City departed for their pre-season tour...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/football-transfer-rumours-jack-grealish-al-hilal-rayan-liverpool",
-      "publishedAt": "2026-07-30T09:43:02.000Z",
-      "category": "transfer",
-      "region": "england spain italy france germany",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e6f9466b76e35e",
-      "title": "Man Utd consider Newcastle raid after Eddie Howe exit as unhappy Magpies star keen on leaving",
-      "summary": "According to reports, Manchester United are ‘ready to capitalise’ on Newcastle United’s situation by signing England international Lewis Hall.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-newcastle-raid-eddie-howe-exit-unhappy-star-wants-out",
-      "publishedAt": "2026-07-30T09:33:51.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "81f853780dd3c4",
-      "title": "Fifa could receive first money from Infantino plan in October",
-      "summary": "Fifa could bank first lot of private World Cup cash by end of October as European football's governing body Uefa will hold a meeting of all 55 member associations on Th...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T09:29:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "bd4f48fa778d07",
-      "title": "Romano reveals Marcus Rashford ‘message’ about leaving Man Utd for Cristiano Ronaldo reunion",
-      "summary": "Fabrizio Romano has reported whether Marcus Rashford wants to leave Manchester United for Al-Nassr in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rashford-manchester-united-al-nassr-ronaldo-romano-latest",
-      "publishedAt": "2026-07-30T09:06:40.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8e831a592719b1",
-      "title": "The best-paid managers in the Premier League: Glasner joint second!",
-      "summary": "Massive salaries are not just for the players and some of the top Premier League bosses earn multiple millions every year.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-best-paid-premier-league-managers-de-zerbi",
-      "publishedAt": "2026-07-30T09:01:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d7c4a01a5b2ff5",
-      "title": "London City host Man Utd to kick off WSL season",
-      "summary": "London City Lionesses are handed a Women's Super League opener against Manchester United as the Women's Super League fixtures are announced.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2dk0xxwgyno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T09:00:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b4d78eac55f7c6",
-      "title": "Fifa wants more money for its members but that does not guarantee investment | John Duerden",
-      "summary": "Asia and Africa are bastions of support for Gianni Infantino but Fifa’s money has not always been well spent in the regions Fifa’s justification for its proposed plans...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment",
-      "publishedAt": "2026-07-30T09:00:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "c6955cc6d2ce24",
-      "title": "Eddie Howe leaves after making Newcastle better than Man Utd, Chelsea, Spurs",
-      "summary": "Eddie Howe leaves Newcastle United in a sticky situation but here is why his legacy at St James’ Park cannot be disputed…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-table-during-eddie-howe-newcastle-reign-man-utd-spurs-chelsea",
-      "publishedAt": "2026-07-30T08:49:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "11c05871bc95d3",
-      "title": "Eddie Howe leaves Newcastle United with Matthias Jaissle set to replace him",
-      "summary": "Howe leaves after five years in charge at St James’ Park Al-Ahli’s German coach in line to take over Eddie Howe has left Newcastle after losing control of transfers and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/eddie-howe-leaves-newcastle-united-premier-league",
-      "publishedAt": "2026-07-30T08:26:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "fd069d77004342",
-      "title": "Jamie Carragher reacts to Liverpool trying to sign Bradley Barcola and points out glaring flaw",
-      "summary": "Jamie Carragher has given his take on Liverpool trying to sign Bradley Barcola from Paris Saint-Germain in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bradley-barcola-liverpool-psg-jamie-carragher-verdict",
-      "publishedAt": "2026-07-30T08:13:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool linked with £86m Salah replacement, Howe exit pushing Bruno Guimaraes out?",
-      "summary": "Liverpool are linked with a more apt replacement for Mo Salah, while Eddie Howe’s exit is likely to push Bruno Guimaraes closer to Arsenal…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-30T08:02:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "be8eafe8b958f1",
-      "title": "Man City edging closer to landing £68m star as replacement for Real Madrid-bound Rodri",
-      "summary": "According to reports, Manchester City are edging closer to signing Lille youngster Ayyoud Bouaddi as a replacement for Rodri.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-edging-closer-landing-68m-star-replacement-real-madrid-bound-rodri",
-      "publishedAt": "2026-07-30T07:38:29.000Z",
-      "category": "transfer",
-      "region": "england spain france",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e6028c7321c0a7",
-      "title": "How Tottenham's transfer window shows big WSL ambitions",
-      "summary": "It is clear from Tottenham's summer transfer business that they have big ambitions in the Women's Super League next season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98vj54z450o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T07:14:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "eae2599653b1df",
-      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
-      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
-      "publishedAt": "2026-07-30T07:14:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e783745766e5d0",
-      "title": "Trump lite? ‘Existential threat’ Infantino is FIFA’s Putin. Europe must show some balls…",
-      "summary": "FIFA president Gianni Infantino is likened to Vladimir Putin, Donald Trump and all the very worst people, while the Mailbox reminisces over the transfers with the wow f...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fifa-plan-infantino-putin-trump-uefa-mailbox",
-      "publishedAt": "2026-07-30T07:12:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a4852f9bb70cbe",
-      "title": "'Everton eye Celtic's Johnston amid Patterson interest' - gossip",
-      "summary": "Everton are linked with interest in Celtic's Alistair Johnston with Nathan Patterson tipped to exit, while Nadim Bajrami reportedly nears an exit from Rangers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmkwnyyxlzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T07:06:36.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
