@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-07-31T14:18:43.766Z",
+  "generatedAt": "2026-07-31T19:40:20.112Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
-      "publishedAt": "2026-07-31T14:18:43.620Z",
+      "publishedAt": "2026-07-31T19:40:19.805Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -119,7 +119,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest",
-      "publishedAt": "2026-07-31T14:18:43.620Z",
+      "publishedAt": "2026-07-31T19:40:19.805Z",
       "category": "transfer",
       "region": "italy germany",
       "tags": [
@@ -128,42 +128,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "58bfecce73592e",
-      "title": "FIFA denies 'selling football' as AFC joins opposition and senior advisor quits",
-      "summary": "Carlos Cordeiro - a senior advisor to FIFA president Gianni Infantino - has resigned in protest at plans to launch a consultation on selling stakes in a World Cup comme...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
-      "publishedAt": "2026-07-31T14:18:43.620Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "2890713bc680f9",
-      "title": "Chelsea handed £10m fine and suspended transfer ban",
-      "summary": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules,...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
-      "publishedAt": "2026-07-31T14:18:43.619Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "75f641627753b9",
       "title": "'It would be a brilliant story' - Key open to Stokes making Ashes return",
       "summary": "England cricket chief Rob Key has left the door open to Ben Stokes coming out of international retirement to play in next summer's home Ashes series against Australia.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia",
-      "publishedAt": "2026-07-31T14:18:43.619Z",
+      "publishedAt": "2026-07-31T19:40:19.804Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -176,7 +146,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Former AC Milan and Italy defender Franco Baresi has died aged 66.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568705/franco-baresi-ac-milan-legend-and-world-cup-winner-with-italy-dies-aged-66",
-      "publishedAt": "2026-07-31T14:18:43.619Z",
+      "publishedAt": "2026-07-31T19:40:19.804Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -184,9 +154,352 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "3649b98ab69ff2",
+      "title": "Dunkley and Gardner lead Rockets to dominant win over Super Giants",
+      "summary": "Trent Rockets ended the Manchester Super Giants’ unbeaten start to The Hundred after handing them a 31-run defeat at Old Trafford Cricket Ground thanks to half-centurie...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13568839/the-hundred-trent-rockets-beat-manchester-super-giants-to-climb-up-to-second-in-womens-competition",
+      "publishedAt": "2026-07-31T19:40:19.804Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2f426737ca16d8",
+      "title": "Chelsea's Mudryk cleared to play after doping ban resolved",
+      "summary": "Chelsea winger Mykhailo Mudryk has been cleared to return to play after his doping ban was resolved.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved",
+      "publishedAt": "2026-07-31T19:40:19.803Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2890713bc680f9",
+      "title": "Chelsea handed £10m fine and suspended transfer ban",
+      "summary": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules,...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
+      "publishedAt": "2026-07-31T19:40:19.803Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "732c7c0f5bf2e0",
+      "title": "Infantino on the brink? Who could replace him if he goes?",
+      "summary": "Fifa president Gianni Infantino is in the eye of a storm after his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T19:22:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "06792e88623ab5",
+      "title": "Arsenal’s next step: title defence may hinge on keeping a drained squad fit",
+      "summary": "Adding to a capable team is not easy, while the club may not dare to shatter the wage structure for Vinícius Junior After beating MK Dons 3-0 in a training-ground frien...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence",
+      "publishedAt": "2026-07-31T19:00:31.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0ffe534e260907",
+      "title": "Liverpool move closer to signing Barcola for two reasons after Romano reveals update",
+      "summary": "According to reports, Liverpool have now ‘moved closer’ to signing Paris Saint-Germain star Bradley Barcola after being given ‘encouragement’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-move-closer-signing-bradley-barcola-two-reasons-romano-agreement-claim",
+      "publishedAt": "2026-07-31T18:58:25.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7368d20fd86eb0",
+      "title": "Gianni Infantino, Fifa and the week that rocked the football world",
+      "summary": "Plan for sale of commercial rights to World Cup causes chaos with Uefa, AFC and Concacaf leading the opposition It has been a week that has rocked football. The news ca...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/gianni-infantino-fifa-week-that-rocked-the-football-world-world-cup",
+      "publishedAt": "2026-07-31T18:36:56.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "0b684539627596",
+      "title": "Man Utd transfer is now ‘more likely’ to go through as Newcastle supporters told to be ‘worried’",
+      "summary": "According to reports, Manchester United are now ‘more likely’ to sign Lewis Hall, with Newcastle United fans told to “be worried”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-now-more-likely-go-through-newcastle-supporters-worried",
+      "publishedAt": "2026-07-31T18:27:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fa4a5d030424ad",
+      "title": "Infantino under huge pressure after plan for World Cup sell-off sparks resignation and rebuke",
+      "summary": "Cordeiro quits as senior adviser to Fifa president Lamour: sell-off plan ‘defies belief and imagination’ The walls started closing in on Gianni Infantino after another...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke",
+      "publishedAt": "2026-07-31T18:05:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "f32c5996ad039a",
+      "title": "Inter make new approach to Liverpool for Curtis Jones with £30m offer likely",
+      "summary": "Italian champions willing to raise offer for midfielder Jones only has one year remaining on contract at Anfield Inter have made another approach for Curtis Jones and a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/inter-liverpool-curtis-jones-football-transfer-window",
+      "publishedAt": "2026-07-31T18:01:46.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "95f29731f96dc1",
+      "title": "'At least I'll sleep well tonight' - Fifa executive joins Burnham in questioning Infantino",
+      "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T17:45:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "b6826b0cca1c0e",
+      "title": "Why Africa could back controversial Fifa plan",
+      "summary": "Fifa's plan to sell stakes in its competitions to private investors has been heavily criticised, but the body running African football is yet to take a side.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy07qjzzexzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T17:34:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8a917dde13b2ad",
+      "title": "Tottenham pushing hard to sign Man City star nearing exit as European giants plot hijack",
+      "summary": "According to reports, Tottenham Hotspur are still ‘pressing hard’ to sign Manchester City star Savinho, but AC Milan could hijack them.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-pushing-hard-sign-man-city-star-nearing-exit-european-giants-hijack",
+      "publishedAt": "2026-07-31T17:23:15.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "4fdfac173f8509",
+      "title": "Two Arsenal signings deemed ‘impossible’ for two reasons but £77m star ‘can be the one’",
+      "summary": "According to reports, it will be “impossible” for Arsenal to sign Julian Alvarez and/or Kenan Yildiz this summer, but another deal is far more likely.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/two-arsenal-signings-impossible-two-reasons-77m-star-can-sign",
+      "publishedAt": "2026-07-31T16:57:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "15db5e8b73c258",
+      "title": "Chelsea sign Italy's Dragoni from Barcelona",
+      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T16:52:15.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "87be94670d041e",
+      "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
+      "summary": "Midfielder could still fly to La Manga on Sunday Howe says he stood down ‘to recharge and take a break’ Bruno Guimarães was not on Newcastle’s flight to Murcia on Frida...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
+      "publishedAt": "2026-07-31T16:17:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a72621b61a8739",
+      "title": "Chelsea's Mudryk free to play after appeal against doping ban",
+      "summary": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T15:59:06.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3f24260b189a4c",
+      "title": "Chelsea star Mykhaylo Mudryk free to make immediate return as FA ‘resolve appeal proceedings’",
+      "summary": "Chelsea winger Mykhaylo Mudryk is now free to return to football immediately after the English FA resolved the anti-doping disciplinary proceedings against the Ukrainia...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-star-mykhaylo-mudryk-free-immediate-return-fa-resolve-appeal-proceedings",
+      "publishedAt": "2026-07-31T15:51:28.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7ea6ac1c7fa241",
+      "title": "Arsenal reserve date for Bruno Guimaraes medical after reaching Newcastle agreement",
+      "summary": "Arsenal are edging closer to a deal for Bruno Guimaraes, with a journalist revealing that the Gunners have already “reserved a date” for his medical.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-guimaraes-arsenal-newcastle-united-medical",
+      "publishedAt": "2026-07-31T15:32:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c7ad8b6285ad14",
+      "title": "How does MLS pick up the World Cup mantle? Casemiro helps, but it’ll take much more",
+      "summary": "The World Cup gave MLS unprecedented momentum. Keeping it will depend less on signing aging icons than convincing America’s best young players to stay “Thanks World, we...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players",
+      "publishedAt": "2026-07-31T15:28:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8c51be19c34d14",
+      "title": "Paul Merson predicts likeliest challengers to Arsenal for Premier League title – it’s not Man City",
+      "summary": "Paul Merson has revealed the likeliest challengers to Arsenal for the Premier League title this coming season, and it isn’t Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-likeliest-challengers-liverpool-merson-man-city",
+      "publishedAt": "2026-07-31T15:13:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d61508b959f178",
+      "title": "Chelsea fined £10m but avoid suspended points deduction",
+      "summary": "Chelsea are fined £10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T14:29:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f3fbd08a61bf91",
+      "title": "Football Daily | Will Gianni Infantino survive as Fifa president?",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! You have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa",
+      "publishedAt": "2026-07-31T14:25:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "5c733cb793cd11",
+      "title": "Chelsea fined £10m over breaching FA rules but avoid points deduction punishment",
+      "summary": "The English FA have fined Chelsea £10 million ($13.41 million) after the club admitted to multiple historical breaches of regulations, the governing body confirmed on F...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-fined-10m-breaching-fa-rules-avoid-points-deduction-punishment",
+      "publishedAt": "2026-07-31T14:22:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
       "id": "5eec4c666ced03",
-      "title": "Celtic reject Engels bid and confirm Johnston interest",
-      "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alastair Johnston, manager Martin O'Neill confirms.",
+      "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
+      "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-31T14:15:10.000Z",
@@ -210,30 +523,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d61508b959f178",
-      "title": "Chelsea fined £10m but avoid suspended points deduction",
-      "summary": "Chelsea are fined £10m by the Football Association for breaching rules relating to payments to agents between 2009 and 2022.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T14:01:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "d72163560a7c60",
       "title": "Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
-      "summary": "Club escape suspended six-point deduction on appeal Owners admitted secret payments by previous regime Chelsea have been fined £10m and given a suspended two-window tra...",
+      "summary": "Club escape suspended six-point deduction on appeal Owners admitted secret payments by previous regime Chelsea have been fined £10m by the FA and served with a suspende...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches",
       "publishedAt": "2026-07-31T13:55:58.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
         "Football",
+        "Premier League",
         "Transfer",
         "Chelsea"
       ]
@@ -304,307 +604,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "87be94670d041e",
-      "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
-      "summary": "Midfielder may still fly to La Manga on Sunday Incoming head coach Jaissle to meet squad in Spain Bruno Guimarães was not on Newcastle’s flight to Murcia on Friday lunc...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
-      "publishedAt": "2026-07-31T12:50:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "58147b74ec3b62",
-      "title": "Andoni Iraola sends Liverpool transfer message to FSG despite £86m spend",
-      "summary": "Liverpool are reportedly still on the lookout for defensive reinforcements despite spending up to £60million on Jeremy Jacquet from Rennes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/andoni-iraola-sends-liverpool-transfer-message-fsg-despite-86m-spend",
-      "publishedAt": "2026-07-31T12:38:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3cba5cc497f4b2",
-      "title": "Fifa rapidly accelerates plan to expand World Cup to 64 teams from 2030 tournament",
-      "summary": "Research analysis to be delivered by 11 September Decision on expansion could be taken this year Fifa is pushing ahead with plans to expand the World Cup to 64 teams fr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-plan-world-cup-64-teams-2030-tournament",
-      "publishedAt": "2026-07-31T12:32:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "d7eb67e3e1da53",
-      "title": "Franco Baresi was not only the captain but the moral heart of great Milan team",
-      "summary": "The late centre-back defined an era of Italian defending and his collection of honours is eternal proof of his class There are very few players who become bywords for t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-was-not-only-the-captain-but-the-moral-heart-of-sacchis-great-milan-team",
-      "publishedAt": "2026-07-31T12:20:03.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Uefa",
-        "Milan"
-      ]
-    },
-    {
-      "id": "13f12a35ffea26",
-      "title": "Burnham says Infantino 'wrong man' to lead Fifa as criticism grows",
-      "summary": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T12:14:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "c10f7fe3cde676",
-      "title": "Newcastle respond to Man Utd approach for Lewis Hall with INEOS about to lodge opening bid",
-      "summary": "According to reports, Newcastle United have given Manchester United a response over Lewis Hall, who is apparently not for sale this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-respond-man-utd-approach-for-lewis-hall-ineos-lodge-opening-bid",
-      "publishedAt": "2026-07-31T12:12:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "03f89965fa6d99",
-      "title": "All done deals in July 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T11:55:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9edd38901ac8c5",
-      "title": "Second Chelsea bid for Alex Scott revealed with Blues ready to rake in £90m from sale of trio",
-      "summary": "Chelsea have prepared a new offer to attempt to persuade Bournemouth to sell Alex Scott to them this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-second-bid-alex-scott-sale-disasi-chalobah-badiashile",
-      "publishedAt": "2026-07-31T11:45:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a194b9a504db4c",
-      "title": "Man Utd under threat as Bayern Munich want Benjamin Sesko and Harry Kane together",
-      "summary": "Bayern Munich remain interested in Benjamin Sesko, amid a plan to play the Manchester United striker in the same side as current talisman Harry Kane, per an insider.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kane-decision-set-bayern-munich-threat-sesko",
-      "publishedAt": "2026-07-31T11:43:58.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Manchester",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "244bea8dbfaf55",
-      "title": "Trafford to Leeds, two Spurs transfers: Top 10 Premier League signings of the summer so far",
-      "summary": "Leeds and Tottenham both have two players in our ranking of the 10 best Premier League signings of the summer so far.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ranking-premier-league-signings-of-2026-summer-transfer-window",
-      "publishedAt": "2026-07-31T11:26:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "402ce106d05d16",
-      "title": "Uefa has formed a rare but fragile united front against Fifa in battle for football’s future | Nick Ames and Matt Hughes",
-      "summary": "Emerging from this week with unity over Fifa’s World Cup sell off was quite an acheivement but Europe cannot rest on its laurels It was a phrase not always heard when E...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/uefa-fifa-battle-for-football-future-world-cup-infantino",
-      "publishedAt": "2026-07-31T10:54:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "07fe610529c7f7",
-      "title": "Arsenal, Newcastle reach agreement for Bruno Guimaraes with fee revealed and deal in final stages",
-      "summary": "Arsenal and Newcastle have reportedly ‘reached an agreement’ over a fee for Brazil international Bruno Guimaraes after weeks of rumours.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-newcastle-reach-agreement-for-bruno-guimaraes-with-fee-revealed-and-deal-in-final-stages",
-      "publishedAt": "2026-07-31T10:37:22.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6b919be9bbfd98",
-      "title": "Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans",
-      "summary": "Infantino’s role as president under increasing pressure 143 of Fifa’s 211 members now stand against scheme Gianni Infantino’s authority has been dealt a fresh blow afte...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan",
-      "publishedAt": "2026-07-31T10:18:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5cc68efa0ea01e",
-      "title": "Euro giants threaten late hijack of Cristian Romero to Inter Milan as Tottenham demands clear",
-      "summary": "Atletico Madrid are reportedly exploring the conditions of a deal for Tottenham defender Cristian Romero, who Inter Milan are trying to sign, but it’s ‘complicated’ due...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/atletico-madrid-threaten-hijack-romero-tottenham-inter-milan",
-      "publishedAt": "2026-07-31T09:46:40.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "63153d3c3095c6",
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T09:44:48.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "d38b987cb7f82a",
-      "title": "FIFA issues defiant response to World Cup boycott as Gianni Infantino faces no-confidence vote",
-      "summary": "FIFA has responded to the threat of a boycott from European countries by saying that “nobody is selling football”, while vowing to continue with its controversial plan...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fifa-issues-defiant-response-world-cup-boycott-gianni-infantino-faces-no-confidence-vote",
-      "publishedAt": "2026-07-31T09:35:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "70e6e998c3d315",
-      "title": "Liverpool's Jones argues with Szoboszlai after game",
-      "summary": "Liverpool's Curtis Jones has a heated argument with team-mate Dominik Szoboszlai after his side's win over Wrexham.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T09:33:41.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "30de63b71e1838",
-      "title": "Guimaraes reaches amicable agreement with Newcastle over transfer amid ‘advanced’ Arsenal deal",
-      "summary": "Bruno Guimaraes has an ‘amicable agreement’ with Newcastle United to leave this summer amid interest from Arsenal, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-bruno-guimaraes-amicable-agreement-newcastle-transfer",
-      "publishedAt": "2026-07-31T09:14:51.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9a6d5488cd10ee",
-      "title": "Can We Kick It?: new doc is timely take on Black history, pay-to-play and future of US soccer",
-      "summary": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthrough Akbar Majeed take...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary",
-      "publishedAt": "2026-07-31T09:00:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Man Utd’s Lewis Hall boost? Man City’s big Rodri decision",
-      "summary": "Eddie Howe’s exit is likely to push Bruno Guimaraes closer to Arsenal, while the Other 14 get very busy in the transfer market…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-31T08:40:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ac74c5273452ff",
-      "title": "Football transfer rumours: Guimarães set for Arsenal? Newcastle to bring in Froholdt?",
-      "summary": "Today’s rumours have a geordie flavour Eddie Howe presumably won’t be reading this page for a while. Perhaps the now departed Newcastle boss will be seeking some beach...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt",
-      "publishedAt": "2026-07-31T08:37:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal"
       ]
     }
   ],
