@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T03:25:12.127Z",
+  "generatedAt": "2026-07-31T08:55:22.200Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,26 @@
       "pinned": true
     },
     {
-      "id": "995e07bcfeecb1",
-      "title": "Carra: Liverpool don't need Barcola - they need to replace Salah!",
-      "summary": "Jamie Carragher believes Liverpool do not need to buy Bradley Barcola from Paris Saint-Germain - urging his former club to focus on securing a replacement for Mohamed S...",
+      "id": "564847eeb1f593",
+      "title": "'Desperate, tone deaf' - Why FIFA's 4am statement raises more questions",
+      "summary": "Sky Sports' Kaveh Solhekol analyses FIFA's statement in response to criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entit...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568493/bradley-barcola-transfer-news-jamie-carragher-says-liverpool-do-not-need-psg-winger-as-much-as-they-need-a-mohamed-salah-replacement",
-      "publishedAt": "2026-07-31T03:25:11.866Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/watch/video/13568665/fifas-response-amid-criticism-of-decision-to-launch-consultation-on-selling-stakes-in-a-world-cup-analysed",
+      "publishedAt": "2026-07-31T08:55:21.937Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "World Cup",
+        "Fifa"
       ]
     },
     {
-      "id": "5db2025beff3ea",
-      "title": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
-      "summary": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
+      "id": "c241976846b03e",
+      "title": "'Serious questions now being asked' | Is this the beginning of the end for Infantino?",
+      "summary": "Kaveh Solhekol explains why FIFA president is under serious pressure after UEFA said they will boycott FIFA tournaments if the proposal to sell off a stake in the World...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
-      "publishedAt": "2026-07-31T03:25:11.865Z",
+      "url": "https://www.skysports.com/watch/video/13568648/is-this-the-beginning-of-the-end-for-infantino",
+      "publishedAt": "2026-07-31T08:55:21.937Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -127,16 +128,33 @@
       ]
     },
     {
-      "id": "9c1fb71ee39c4b",
-      "title": "Players guilty of discrimination face 10-game ban under new FA rules",
-      "summary": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
+      "id": "53804953f812c5",
+      "title": "Q&A: Why is UEFA boycotting FIFA tournaments and can it stop Infantino?",
+      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568548/players-found-guilty-of-discrimination-face-10-game-ban-under-new-fa-rules",
-      "publishedAt": "2026-07-31T03:25:11.865Z",
-      "category": "issue",
+      "url": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
+      "publishedAt": "2026-07-31T08:55:21.937Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football"
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "5db2025beff3ea",
+      "title": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
+      "summary": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
+      "publishedAt": "2026-07-31T08:55:21.937Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
       ]
     },
     {
@@ -145,7 +163,7 @@
       "summary": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
-      "publishedAt": "2026-07-31T03:25:11.864Z",
+      "publishedAt": "2026-07-31T08:55:21.936Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -160,7 +178,7 @@
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
-      "publishedAt": "2026-07-31T03:25:11.864Z",
+      "publishedAt": "2026-07-31T08:55:21.936Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -169,15 +187,215 @@
       ]
     },
     {
-      "id": "53804953f812c5",
-      "title": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
-      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
+      "id": "58bfecce73592e",
+      "title": "FIFA denies 'selling football' as AFC joins opposition to plan",
+      "summary": "FIFA insists \"nobody is selling football\" amid criticism of its decision to launch a consultation on selling stakes in a World Cup commercial entity to private investors.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
-      "publishedAt": "2026-07-31T03:25:11.864Z",
+      "url": "https://www.skysports.com/football/news/12040/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead",
+      "publishedAt": "2026-07-31T08:55:21.935Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "10963324853b80",
+      "title": "Are Bournemouth set to strike defender gold again with Silva?",
+      "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
+      "publishedAt": "2026-07-31T08:55:21.933Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Champions League",
+        "World Cup",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "13f12a35ffea26",
+      "title": "Asian confederation joins Uefa and Concacaf in opposing Fifa plan",
+      "summary": "The Asian Football Confederation (AFC) says it \"stands in solidarity\" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to priv...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:54:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "63153d3c3095c6",
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:47:33.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd’s Lewis Hall boost? Man City’s big Rodri decision",
+      "summary": "Eddie Howe’s exit is likely to push Bruno Guimaraes closer to Arsenal, while the Other 14 get very busy in the transfer market…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-07-31T08:40:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ac74c5273452ff",
+      "title": "Football transfer rumours: Guimarães set for Arsenal? Newcastle to bring in Froholdt?",
+      "summary": "Today’s rumours have a geordie flavour Eddie Howe presumably won’t be reading this page for a while. Perhaps the now departed Newcastle boss will be seeking some beach...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt",
+      "publishedAt": "2026-07-31T08:37:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "94e43ca8fb0be4",
+      "title": "Five Tottenham targets who could join soon after De Zerbi ‘bomba’ admission",
+      "summary": "Tottenham reportedly have five winger targets under consideration as Roberto De Zerbi admitted that another transfer could be close.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-five-targets-soon-de-zerbi-bomba-admission",
+      "publishedAt": "2026-07-31T08:23:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "bbc64ab58cbaaf",
+      "title": "Beever-Jones ready to 'conquer' new season after injury troubles last term",
+      "summary": "Chelsea and England forward Aggie Beever-Jones had her \"hardest\" season in 2025-26 and she had a big decision to make about her future when it ended.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c235g2vngk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:09:34.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d9a2e228031c79",
+      "title": "The Premier League clubs fighting a World Cup hangover",
+      "summary": "Which Premier League clubs have carried the biggest World Cup workload?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87n3wydzjzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:08:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "7817fd51fe2b00",
+      "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
+      "summary": "Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in a powerful position.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyg5887vp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T07:25:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "b0d1f31cc75d28",
+      "title": "Romano gives Barcola to Liverpool update as he reveals ‘the main issue’ holding up a transfer",
+      "summary": "Transfer insider Fabrizio Romano has revealed his latest update as Liverpool attempt to sign Paris Saint-Germain winger Bradley Barcola.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-barcola-update-main-issue-holding-up-transfer",
+      "publishedAt": "2026-07-31T07:23:31.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e072b6272edc85",
+      "title": "Franco Baresi, iconic former Milan and Italy defender, dies aged 66",
+      "summary": "Italian icon had undergone surgery on pulmonary nodule ‘The entire history of ⁠Milan is in ⁠tears,’ Serie A club says The former Milan and Italy defender Franco Baresi,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-iconic-former-milan-and-italy-defender-dies-aged-66",
+      "publishedAt": "2026-07-31T06:54:38.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Milan"
+      ]
+    },
+    {
+      "id": "c1a4a6d51bbb29",
+      "title": "Who am I? Guess Premier League star No 11",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy745804r8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T05:17:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "830c7a53ae2e61",
+      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and c...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T05:14:17.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "6b919be9bbfd98",
+      "title": "Fifa to push ahead with consultation plan despite backlash and insists ‘nobody is selling football’",
+      "summary": "Body responds after Uefa’s World Cup boycott threat Claims ‘process disrupted by incorrect media reports’ Fifa has responded to the threat of a boycott from European na...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan",
+      "publishedAt": "2026-07-31T04:55:54.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
         "World Cup",
         "Fifa",
         "Uefa"
@@ -194,22 +412,6 @@
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "830c7a53ae2e61",
-      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and c...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T21:40:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
       ]
     },
     {
@@ -377,22 +579,6 @@
       ]
     },
     {
-      "id": "308554396c891e",
-      "title": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed",
-      "summary": "Uefa agrees stance at emergency meeting on Thursday Boycott would begin with Under-20 Women’s World Cup European countries have agreed to boycott all Fifa competitions...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/uefa-agrees-to-boycott-fifa-competitions-if-world-cup-sell-off-plans-proceed",
-      "publishedAt": "2026-07-30T15:35:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
       "id": "dfdd6700ea81b1",
       "title": "Toon turnover: the stats behind Eddie Howe’s highs and lows at Newcastle",
       "summary": "During Eddie Howe’s time at Newcastle, only four clubs earned more Premier League points, but the team underperformed last term When Eddie Howe was appointed by Newcast...",
@@ -433,184 +619,6 @@
         "Football",
         "Premier League",
         "Fifa"
-      ]
-    },
-    {
-      "id": "3b477c76d3e82a",
-      "title": "World Cup star’s agent confirms Man Utd contact, with next move ‘close’",
-      "summary": "The agent of a World Cup record holder has confirmed contact from Manchester United, while stating his next transfer is “close” to completion.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/world-cup-star-gill-agent-united-contact",
-      "publishedAt": "2026-07-30T15:22:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Man Utd’s Lewis Hall boost? Man City’s big decision",
-      "summary": "What are the renewed links between Lewis Hall and Man Utd really based upon? There are some firmer developments on Rodri, though…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-07-30T15:05:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "b0193665d9d792",
-      "title": "Harvey Elliott revels in ‘second chance’ at Liverpool and has no regrets over Aston Villa loan",
-      "summary": "Midfielder grateful to be back with boyhood club Hardly played at Villa but won the Europa League Harvey Elliott believes he has been given “a second chance” at Liverpo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/harvey-elliott-liverpool-second-chance-aston-villa-loan",
-      "publishedAt": "2026-07-30T15:00:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Europa League",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "36416317eeb918",
-      "title": "Football Daily",
-      "summary": "John Bennett presents reaction to Eddie Howe's departure from Newcastle United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p1qp1x?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T14:57:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "f18ade5b88abd6",
-      "title": "Premier League clubs agree EFL funding proposal",
-      "summary": "Premier League clubs agreed a funding proposal that they will put to the EFL over the next few days.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2r015jjl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T14:41:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1b044f6a5c2b2a",
-      "title": "Newcastle captain Guimaraes expected to join Arsenal",
-      "summary": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T14:39:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ff614ebced22c9",
-      "title": "Tottenham insider reveals ‘top four’ expectations with four stars key to De Zerbi push",
-      "summary": "Tottenham insider John Wenham feels the club can “really push for top four” again, but believes four stars who saw little football last season need to get back to it.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-top-four-expectations-four-stars-key",
-      "publishedAt": "2026-07-30T14:35:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "56815d11b39a1d",
-      "title": "Fifa’s sales pitch revealed: more tournaments, more debt … but no mention of women’s game",
-      "summary": "Fifa’s 25-page sales deck produced by JP Morgan Reference made to doubling global tournaments Fifa’s sales pitch to persuade members to approve the sale of the World Cu...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted",
-      "publishedAt": "2026-07-30T14:19:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Incoming Newcastle boss already under pressure…",
-      "summary": "A new Premier League season is just around the corner which means a new Premier League Sack Race is just as close. The newest runner is already close to the ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-07-30T14:02:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "fdf815414f3cb4",
-      "title": "Arsenal close to completing double deal and Bruno Guimaraes could become sixth summer signing",
-      "summary": "According to reports, Arsenal are ‘closing in’ on their next two signings, while they look increasingly likely to land Bruno Guimaraes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-close-completing-double-deal-bruno-guimaraes-sixth-summer-signing",
-      "publishedAt": "2026-07-30T14:01:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5f925ee1288926",
-      "title": "Minimum 10-match ban for discrimination - FA",
-      "summary": "Players found guilty of discrimination will face a ban of at least 10 matches under strengthened Football Association rules.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4nlpwq1qyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T14:00:36.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "168f0634437c35",
-      "title": "Arsenal make unprecedented signings statement as Bruno Guimaraes chase accelerates",
-      "summary": "It’s been a summer of transfer misses for the Gunners to date, but that could be about to change as the north London outfit close in on the Newcastle skipper.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/unprecedented-signings-statement-made-amid-bruno-guimaraes-chase",
-      "publishedAt": "2026-07-30T13:44:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "610855c536bdea",
-      "title": "Rayo Vallecano to move stadium over Legionnaires risk",
-      "summary": "La Liga side Rayo Vallecano are barred from playing at their home stadium just weeks before the new season over the risk of supporters contracting Legionnaires' disease.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1w1p797q7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T13:44:14.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga"
       ]
     }
   ],
