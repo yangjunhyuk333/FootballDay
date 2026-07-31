@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:39:18.618Z",
+  "generatedAt": "2026-07-31T03:25:12.127Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,58 +99,16 @@
       "pinned": true
     },
     {
-      "id": "1b7ff46355651e",
-      "title": "Real Madrid expected to make offer for Rodri",
-      "summary": "Real Madrid are expected to make an offer for Manchester City midfielder Rodri.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568453/rodri-transfer-latest-real-madrid-expected-to-make-bid-for-manchester-city-midfielder-after-prolonged-interest",
-      "publishedAt": "2026-07-30T19:39:18.201Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9c1fb71ee39c4b",
-      "title": "Players guilty of discrimination face 10-game ban under new FA rules",
-      "summary": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568548/players-found-guilty-of-discrimination-face-10-game-ban-under-new-fa-rules",
-      "publishedAt": "2026-07-30T19:39:18.200Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
       "id": "995e07bcfeecb1",
       "title": "Carra: Liverpool don't need Barcola - they need to replace Salah!",
       "summary": "Jamie Carragher believes Liverpool do not need to buy Bradley Barcola from Paris Saint-Germain - urging his former club to focus on securing a replacement for Mohamed S...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568493/bradley-barcola-transfer-news-jamie-carragher-says-liverpool-do-not-need-psg-winger-as-much-as-they-need-a-mohamed-salah-replacement",
-      "publishedAt": "2026-07-30T19:39:18.200Z",
+      "publishedAt": "2026-07-31T03:25:11.866Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "53804953f812c5",
-      "title": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
-      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
-      "publishedAt": "2026-07-30T19:39:18.199Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa",
-        "Uefa"
       ]
     },
     {
@@ -159,7 +117,7 @@
       "summary": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup",
-      "publishedAt": "2026-07-30T19:39:18.199Z",
+      "publishedAt": "2026-07-31T03:25:11.865Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -169,18 +127,119 @@
       ]
     },
     {
+      "id": "9c1fb71ee39c4b",
+      "title": "Players guilty of discrimination face 10-game ban under new FA rules",
+      "summary": "Players found guilty of discrimination face serving at least 10-game bans under enhanced Football Association rules.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568548/players-found-guilty-of-discrimination-face-10-game-ban-under-new-fa-rules",
+      "publishedAt": "2026-07-31T03:25:11.865Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
       "id": "2385a040d64aef",
       "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
       "summary": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans",
-      "publishedAt": "2026-07-30T19:39:18.198Z",
+      "publishedAt": "2026-07-31T03:25:11.864Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
         "Transfer",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "71af4017db6976",
+      "title": "Papers: Arsenal closing in on deal for Newcastle captain Guimaraes",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk",
+      "publishedAt": "2026-07-31T03:25:11.864Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "53804953f812c5",
+      "title": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
+      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand",
+      "publishedAt": "2026-07-31T03:25:11.864Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "6cb2d9a82e7844",
+      "title": "Football Daily",
+      "summary": "A look ahead to the new Scottish Premiership season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p1tw86?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T22:21:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "830c7a53ae2e61",
+      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and c...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T21:40:21.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "d427978f7d4149",
+      "title": "Three clubs monitoring Delap - Friday's gossip",
+      "summary": "Three Premier League clubs are watching Chelsea's Liam Delap, Manchester City are closing in on rising star Ayyoub Bouaddi, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx857g7rx8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T19:53:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "83e121fcd5ff1c",
+      "title": "Uefa threatens full Fifa boycott over World Cup sale plans",
+      "summary": "UEFA’s 55 associations threaten a full FIFA boycott over plans to sell the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p1tg5d?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T19:48:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
       ]
     },
     {
@@ -320,7 +379,7 @@
     {
       "id": "308554396c891e",
       "title": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed",
-      "summary": "Uefa vote passes 55-0 at emergency meeting on Thursday Boycott would begin with Under-20 Women’s World Cup European countries have agreed to boycott all Fifa competitio...",
+      "summary": "Uefa agrees stance at emergency meeting on Thursday Boycott would begin with Under-20 Women’s World Cup European countries have agreed to boycott all Fifa competitions...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/30/uefa-agrees-to-boycott-fifa-competitions-if-world-cup-sell-off-plans-proceed",
       "publishedAt": "2026-07-30T15:35:09.000Z",
@@ -359,6 +418,21 @@
       "tags": [
         "Football",
         "Premier League"
+      ]
+    },
+    {
+      "id": "7c5df5368f025f",
+      "title": "Football Daily | Thought leader Eddie Howe runs out of time and ideas at Newcastle",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! That a vote of confidence isn’t worth the paper it’s written on has long been a footballing cliche. But not until th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/30/eddie-howe-newcastle-football-daily-newsletter",
+      "publishedAt": "2026-07-30T15:29:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Fifa"
       ]
     },
     {
@@ -537,79 +611,6 @@
       "region": "spain",
       "tags": [
         "La Liga"
-      ]
-    },
-    {
-      "id": "dac93079735dfe",
-      "title": "Eddie Howe to finally manage England, or replace Carrick at Man Utd",
-      "summary": "Will Eddie Howe take Mad Dog on a world tour with England, or is the now-departed Newcastle manager finally set to boss Manchester United?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/eddie-howe-next-job-after-leaving-newcastle-england-man-utd",
-      "publishedAt": "2026-07-30T13:29:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7fccbcff00a140",
-      "title": "Paul Merson claims Arsenal ‘have to’ sign Liverpool target after transfer mistake – ‘it’s a major worry’",
-      "summary": "Paul Merson has explained why he thinks Arsenal “have to” sign Liverpool target Bradley Barcola after making a transfer mistake.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/merson-claims-arsenal-have-to-sign-liverpool-target-transfer-mistake-major-worry",
-      "publishedAt": "2026-07-30T13:20:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4fa0567a571f9e",
-      "title": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
-      "summary": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the project It isn’t just football fans and Uefa ex...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web",
-      "publishedAt": "2026-07-30T13:04:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "95245390dc1670",
-      "title": "Arsenal and Bruno Guimaraes react to Eddie Howe leaving Newcastle as transfer boosted – report",
-      "summary": "A source has revealed how Arsenal and Bruno Guimaraes truly feel about Eddie Howe leaving as Newcastle United manager.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-and-bruno-guimaraes-react-to-eddie-howe-leaving-newcastle-as-transfer-boosted-report",
-      "publishedAt": "2026-07-30T11:58:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7b9c5c1f82d682",
-      "title": "Man Utd identify perfect signing for Michael Carrick as INEOS told to pay £43m to land him",
-      "summary": "According to reports, Manchester United have been told to pay around £43m to sign Francisco Conceicao from Serie A giants Juventus.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carrick-perfect-man-utd-signing-ineos-told-pay-43m",
-      "publishedAt": "2026-07-30T11:46:28.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Serie A",
-        "Manchester",
-        "Juventus"
       ]
     }
   ],
