@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T08:26:45.222Z",
+  "generatedAt": "2026-08-01T13:37:04.599Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,72 +99,28 @@
       "pinned": true
     },
     {
-      "id": "161c1c1e610e40",
-      "title": "Rockets blast past Super Giants to top of Hundred standings",
-      "summary": "Trent Rockets came out victorious in a top of the table clash against Manchester Super Giants at Old Trafford after a masterful unbeaten knock of 72 from 35 balls from...",
+      "id": "55027a9d4fa718",
+      "title": "What we learnt from Spurs beating Chelsea in Sydney...",
+      "summary": "What we learnt from Spurs beating Chelsea in Sydney...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13568844/the-hundred-trent-rockets-blast-past-manchester-super-giants-to-top-of-standings-in-mens-competition",
-      "publishedAt": "2026-08-01T08:26:44.723Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13568971/chelsea-vs-tottenham-live-pre-season-fixture-score-live-updates-and-team-news",
+      "publishedAt": "2026-08-01T13:37:04.309Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2f426737ca16d8",
-      "title": "Chelsea's Mudryk cleared to play after doping ban resolved",
-      "summary": "Chelsea winger Mykhailo Mudryk has been cleared to return to play after his doping ban was resolved.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved",
-      "publishedAt": "2026-08-01T08:26:44.722Z",
-      "category": "issue",
       "region": "england",
       "tags": [
         "Chelsea"
       ]
     },
     {
-      "id": "1867eaa7fad2b7",
-      "title": "'Desperate attempt to save his job!' | Infantino scraps plan to sell-off World Cup",
-      "summary": "Sky Sports' chief correspondent Kaveh Solhekol provides the latest update as FIFA scrap plans to sell off part of the World Cup to private investments.",
+      "id": "e4c9ceb6c8a2ca",
+      "title": "Richarlison scores late winner as 10-man Spurs beat Chelsea",
+      "summary": "Richarlison scored a 92nd-minute winner for Tottenham as they beat Chelsea 2-1 to win the Sydney Super Cup despite Kevin Danso being sent off in the second half.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13568962/fifa-president-gianni-infantino-scraps-plan-to-sell-off-world-cup",
-      "publishedAt": "2026-08-01T08:26:44.722Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "e51a73d701c537",
-      "title": "Infantino abandons plan to sell off stake in World Cup",
-      "summary": "FIFA president Gianni Infantino has abandoned his controversial plan to sell a stake in future World Cup profits to private equity investors after fierce opposition fro...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism",
-      "publishedAt": "2026-08-01T08:26:44.722Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "2890713bc680f9",
-      "title": "Chelsea handed £10m fine and suspended transfer ban",
-      "summary": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules,...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
-      "publishedAt": "2026-08-01T08:26:44.722Z",
+      "url": "https://www.skysports.com/football/news/12040/13568994/chelsea-1-2-tottenham-richarlison-scores-injury-time-winner-in-sydney-friendly-as-10-man-spurs-win-again-despite-kevin-danso-red-card",
+      "publishedAt": "2026-08-01T13:37:04.308Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "Transfer",
         "Chelsea"
       ]
     },
@@ -174,13 +130,255 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
-      "publishedAt": "2026-08-01T08:26:44.721Z",
+      "publishedAt": "2026-08-01T13:37:04.308Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Transfer",
         "Arsenal",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "1e2c41145e9762",
+      "title": "Bournemouth sign defender Silva from Benfica",
+      "summary": "Bournemouth have completed the signing of Portugal international defender Antonio Silva from Benfica.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
+      "publishedAt": "2026-08-01T13:37:04.307Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "5f4bb96dcce250",
+      "title": "Euro giants ‘close’ to Mohamed Salah ‘hijack’ as official offer amount for Liverpool legend is revealed",
+      "summary": "Turkish giants Trabzonspor are now ‘close to hijacking’ Besiktas’ deal to sign Liverpool legend Mohamed Salah, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-mohamed-salah-hijack-official-offer-trabzonspor-besiktas",
+      "publishedAt": "2026-08-01T13:28:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0f4ede2a89585f",
+      "title": "The five dramatic days that shook Infantino and world football",
+      "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T12:42:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "2acabeb910af4b",
+      "title": "Four reasons why Fifa's World Cup plan never stacked up",
+      "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T12:41:17.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "65d40f1f612181",
+      "title": "Arsenal starter ‘would like to go’ in ‘next phase’ of transfers as destination narrowed down",
+      "summary": "Arsenal winger Gabriel Martinelli “would ideally like to go” in “next phase of deals” before the window shuts, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-martinelli-wants-exit-next-phase-transfers",
+      "publishedAt": "2026-08-01T12:25:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7aaa60fc91a36e",
+      "title": "Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
+      "summary": "With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not ha...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/01/womens-football-continues-to-be-pawn-gianni-infantino-fifa-tenure",
+      "publishedAt": "2026-08-01T11:43:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "305ed6478bee13",
+      "title": "Potential third Man Utd midfield signing now ‘open’ to joining after new Chelsea bid is revealed",
+      "summary": "Bournemouth midfielder Alex Scott is now ‘open’ to joining Man Utd this summer after a new Chelsea bid was revealed, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-signing-scott-open-joining-chelsea-bid-revealed",
+      "publishedAt": "2026-08-01T11:40:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ee65a2a4bd4081",
+      "title": "Arsenal and Manchester United guilty of summer 2026’s biggest transfer undercharges",
+      "summary": "The biggest underpays of the summer 2026 transfer window so far have been for Arsenal, Aston Villa, Manchester United and Spurs players.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/biggest-transfer-underpays-summer-2026-arsenal-manchester-united",
+      "publishedAt": "2026-08-01T11:10:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7817fd51fe2b00",
+      "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
+      "summary": "Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in a powerful position.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyg5887vp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T10:18:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "dbb0a8977d8b2f",
+      "title": "Gianni Infantino ‘has lost Uefa’s confidence’ after Fifa chief scraps World Cup sell-off plan",
+      "summary": "Infantino ditched proposals after widespread backlash Uefa adds: ‘We cannot keep going on with secret schemes’ Uefa has warned Gianni Infantino that his style of leader...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/01/gianni-infantino-fifa-world-cup-sell-off-plans-scrapped-reaction-uefa-football",
+      "publishedAt": "2026-08-01T10:08:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "bd42da41aaa5a6",
+      "title": "Ornstein drops huge Vinicius Junior to Arsenal bombshell with ‘agreement’ expected",
+      "summary": "David Ornstein insists that Arsenal are expected to find an ‘agreement’ with Vinicius Junior if the Real Madrid star decides to join.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ornstein-drops-huge-vinicius-junior-to-arsenal-bombshell-with-agreement-expected",
+      "publishedAt": "2026-08-01T10:04:27.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "732c7c0f5bf2e0",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T10:02:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T09:58:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ced530318b9b32",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T09:51:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "7395ce8dcf003b",
+      "title": "PSG unlocks Barcola to Liverpool transfer as Romano makes ‘will be completed’ claim",
+      "summary": "Liverpool have been boosted by PSG making a move for Ajax winger Mika Godts as a deal for Bradley Barcola is unlocked.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-barcola-psg-transfer-godts-romano-completed-claim",
+      "publishedAt": "2026-08-01T09:41:18.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "11b0123b441ee7",
+      "title": "Next Chelsea transfer to ‘sign contract today’ as Blues pull at sleeve to seal Delap replacement",
+      "summary": "Former Liverpool midfielder Jordan Henderson will sign his contract as a new Chelsea player today, according to journalist Ben Jacobs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-chelsea-transfer-to-sign-contract-today-as-blues-pull-at-sleeve-to-seal-delap-replacement",
+      "publishedAt": "2026-08-01T09:04:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-08-01T08:30:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
       ]
     },
     {
@@ -347,21 +545,6 @@
       ]
     },
     {
-      "id": "119215f2d9608b",
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T05:42:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "acc2bf1b633c3d",
       "title": "Lacey and Tyler Fletcher lead Man Utd academy queue",
       "summary": "Shea Lacey and Tyler Fletcher are the Manchester United academy players most likely to break into the senior set-up this season.",
@@ -372,36 +555,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "732c7c0f5bf2e0",
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T00:04:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "9f718b7b2c776a",
-      "title": "Fifa scraps proposal to sell off stakes in World Cup after widespread backlash",
-      "summary": "Gianni ⁠Infantino issues statement on controversial plan ‘This proposal will not proceed,’ confirms Fifa president Gianni Infantino’s proposal to sell chunks of the Wor...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash",
-      "publishedAt": "2026-07-31T23:55:44.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
       ]
     },
     {
@@ -445,164 +598,6 @@
       "tags": [
         "Chelsea",
         "Inter"
-      ]
-    },
-    {
-      "id": "e92b9100bdeccd",
-      "title": "Arsenal ‘agree personal terms’ with Vinicius Junior as Fabrizio Romano drops Bruno Guimaraes update",
-      "summary": "Arsenal have convinced Real Madrid winger Vinicius Junior and are now trying to seal a deal for Newcastle United star Bruno Guimaraes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-vinicius-junior-personal-terms-agreed-bruno-guimaraes",
-      "publishedAt": "2026-07-31T21:00:27.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "06792e88623ab5",
-      "title": "Arsenal’s title defence: keeping tired players fit and the Vinícius question",
-      "summary": "Key players have piled up extra minutes at the World Cup and signing Vinícius Júnior would smash their wage structure After beating MK Dons 3-0 in a training-ground fri...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence",
-      "publishedAt": "2026-07-31T19:00:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0ffe534e260907",
-      "title": "Liverpool move closer to signing Barcola for two reasons after Romano reveals update",
-      "summary": "According to reports, Liverpool have now ‘moved closer’ to signing Paris Saint-Germain star Bradley Barcola after being given ‘encouragement’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-move-closer-signing-bradley-barcola-two-reasons-romano-agreement-claim",
-      "publishedAt": "2026-07-31T18:58:25.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0b684539627596",
-      "title": "Man Utd transfer is now ‘more likely’ to go through as Newcastle supporters told to be ‘worried’",
-      "summary": "According to reports, Manchester United are now ‘more likely’ to sign Lewis Hall, with Newcastle United fans told to “be worried”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-now-more-likely-go-through-newcastle-supporters-worried",
-      "publishedAt": "2026-07-31T18:27:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f32c5996ad039a",
-      "title": "Inter make new approach to Liverpool for Curtis Jones with £30m offer likely",
-      "summary": "Italian champions willing to raise offer for midfielder Jones only has one year remaining on contract at Anfield Inter have made another approach for Curtis Jones and a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/inter-liverpool-curtis-jones-football-transfer-window",
-      "publishedAt": "2026-07-31T18:01:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "aca7963fa72cc3",
-      "title": "Franco Baresi obituary",
-      "summary": "Italian footballer who captained AC Milan for 15 of his 20 seasons, a period of unprecedented success for the club At a time when Italian football was known for the exc...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary",
-      "publishedAt": "2026-07-31T17:31:08.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8a917dde13b2ad",
-      "title": "Tottenham pushing hard to sign Man City star nearing exit as European giants plot hijack",
-      "summary": "According to reports, Tottenham Hotspur are still ‘pressing hard’ to sign Manchester City star Savinho, but AC Milan could hijack them.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-pushing-hard-sign-man-city-star-nearing-exit-european-giants-hijack",
-      "publishedAt": "2026-07-31T17:23:15.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Milan"
-      ]
-    },
-    {
-      "id": "4fdfac173f8509",
-      "title": "Two Arsenal signings deemed ‘impossible’ for two reasons but £77m star ‘can be the one’",
-      "summary": "According to reports, it will be “impossible” for Arsenal to sign Julian Alvarez and/or Kenan Yildiz this summer, but another deal is far more likely.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/two-arsenal-signings-impossible-two-reasons-77m-star-can-sign",
-      "publishedAt": "2026-07-31T16:57:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "15db5e8b73c258",
-      "title": "Chelsea sign Italy's Dragoni from Barcelona",
-      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T16:52:15.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "87be94670d041e",
-      "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
-      "summary": "Midfielder could still fly to La Manga on Sunday Howe says he stood down ‘to recharge and take a break’ Bruno Guimarães was not on Newcastle’s flight to Murcia on Frida...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp",
-      "publishedAt": "2026-07-31T16:17:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a72621b61a8739",
-      "title": "Chelsea's Mudryk free to play after appeal against doping ban",
-      "summary": "Chelsea and Ukraine winger Mykhailo Mudryk has not played since November 2024, and has been unable to access the club's training ground.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T15:59:06.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
