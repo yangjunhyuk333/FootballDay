@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:40:20.112Z",
+  "generatedAt": "2026-08-01T03:23:35.621Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,71 +99,16 @@
       "pinned": true
     },
     {
-      "id": "10963324853b80",
-      "title": "Are Bournemouth set to strike defender gold again with Silva?",
-      "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13565767/antonio-silva-to-bournemouth-benfica-and-portugal-defender-is-premier-league-ready-and-a-good-fit-for-marco-rose",
-      "publishedAt": "2026-07-31T19:40:19.805Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Champions League",
-        "World Cup",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "abc18d35e39a10",
-      "title": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
-      "summary": "Meet Bahoya... the Bundesliga's fastest player attracting PL interest",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/story-telling/12040/13568489/meet-jean-matteo-bahoya-the-bundesligas-fastest-player-attracting-premier-league-interest",
-      "publishedAt": "2026-07-31T19:40:19.805Z",
-      "category": "transfer",
-      "region": "italy germany",
-      "tags": [
-        "Bundesliga",
-        "Inter"
-      ]
-    },
-    {
       "id": "75f641627753b9",
       "title": "'It would be a brilliant story' - Key open to Stokes making Ashes return",
       "summary": "England cricket chief Rob Key has left the door open to Ben Stokes coming out of international retirement to play in next summer's home Ashes series against Australia.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13568702/ben-stokes-england-cricket-chief-rob-key-says-door-is-open-for-former-captain-to-return-for-home-2027-ashes-against-australia",
-      "publishedAt": "2026-07-31T19:40:19.804Z",
+      "publishedAt": "2026-08-01T03:23:35.271Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "0c5782d9827ff9",
-      "title": "AC Milan and Italy legend Baresi dies aged 66",
-      "summary": "Former AC Milan and Italy defender Franco Baresi has died aged 66.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568705/franco-baresi-ac-milan-legend-and-world-cup-winner-with-italy-dies-aged-66",
-      "publishedAt": "2026-07-31T19:40:19.804Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "3649b98ab69ff2",
-      "title": "Dunkley and Gardner lead Rockets to dominant win over Super Giants",
-      "summary": "Trent Rockets ended the Manchester Super Giants’ unbeaten start to The Hundred after handing them a 31-run defeat at Old Trafford Cricket Ground thanks to half-centurie...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13568839/the-hundred-trent-rockets-beat-manchester-super-giants-to-climb-up-to-second-in-womens-competition",
-      "publishedAt": "2026-07-31T19:40:19.804Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -172,7 +117,7 @@
       "summary": "Chelsea winger Mykhailo Mudryk has been cleared to return to play after his doping ban was resolved.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568818/mykhailo-mudryk-chelsea-winger-cleared-to-play-again-with-immediate-effect-after-doping-ban-resolved",
-      "publishedAt": "2026-07-31T19:40:19.803Z",
+      "publishedAt": "2026-08-01T03:23:35.270Z",
       "category": "issue",
       "region": "england",
       "tags": [
@@ -185,7 +130,7 @@
       "summary": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules,...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era",
-      "publishedAt": "2026-07-31T19:40:19.803Z",
+      "publishedAt": "2026-08-01T03:23:35.270Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -195,12 +140,55 @@
       ]
     },
     {
+      "id": "161c1c1e610e40",
+      "title": "Rockets blast past Super Giants to top of Hundred standings",
+      "summary": "Trent Rockets came out victorious in a top of the table clash against Manchester Super Giants at Old Trafford after a masterful unbeaten knock of 72 from 35 balls from...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13568844/the-hundred-trent-rockets-blast-past-manchester-super-giants-to-top-of-standings-in-mens-competition",
+      "publishedAt": "2026-08-01T03:23:35.270Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1ba5287ad5a1f7",
+      "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
+      "publishedAt": "2026-08-01T03:23:35.269Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "119215f2d9608b",
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T00:12:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
       "id": "732c7c0f5bf2e0",
-      "title": "Infantino on the brink? Who could replace him if he goes?",
-      "summary": "Fifa president Gianni Infantino is in the eye of a storm after his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T19:22:15.000Z",
+      "publishedAt": "2026-08-01T00:04:26.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -209,19 +197,92 @@
       ]
     },
     {
+      "id": "9f718b7b2c776a",
+      "title": "Fifa scraps proposal to sell off stakes in World Cup after widespread backlash",
+      "summary": "Gianni ⁠Infantino issues statement on controversial plan ‘This proposal will not proceed,’ confirms Fifa president Gianni Infantino’s proposal to sell chunks of the Wor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash",
+      "publishedAt": "2026-07-31T23:55:44.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "a0b03f5b9a5553",
+      "title": "Arsenal agree Guimaraes fee - Saturday's gossip",
+      "summary": "Arsenal and Newcastle agree Bruno Guimaraes fee, Inter Milan increase Curtis Jones bid and Cristian Romero explores Spanish move, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07rpvkym70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T23:09:35.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "49e00006df3157",
+      "title": "Bowie makes loan switch to Serie A side Sassuolo",
+      "summary": "Scotland international Kieron Bowie has completed a loan move from Hellas Verona to Serie A side Sassuolo.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8ejv6j5wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T22:40:49.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Serie A",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5f012765f8b2fd",
+      "title": "Fabrizio Romano reveals Chelsea and Enzo Fernandez agent ‘new meetings next week’",
+      "summary": "Fabrizio Romano reports the latest on Argentina international midfielder Enzo Fernandez’s future at Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-enzo-fernandez-future-fabrizio-romano-update",
+      "publishedAt": "2026-07-31T22:35:30.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e92b9100bdeccd",
+      "title": "Arsenal ‘agree personal terms’ with Vinicius Junior as Fabrizio Romano drops Bruno Guimaraes update",
+      "summary": "Arsenal have convinced Real Madrid winger Vinicius Junior and are now trying to seal a deal for Newcastle United star Bruno Guimaraes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-vinicius-junior-personal-terms-agreed-bruno-guimaraes",
+      "publishedAt": "2026-07-31T21:00:27.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": "06792e88623ab5",
-      "title": "Arsenal’s next step: title defence may hinge on keeping a drained squad fit",
-      "summary": "Adding to a capable team is not easy, while the club may not dare to shatter the wage structure for Vinícius Junior After beating MK Dons 3-0 in a training-ground frien...",
+      "title": "Arsenal’s title defence: keeping tired players fit and the Vinícius question",
+      "summary": "Key players have piled up extra minutes at the World Cup and signing Vinícius Júnior would smash their wage structure After beating MK Dons 3-0 in a training-ground fri...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence",
       "publishedAt": "2026-07-31T19:00:31.000Z",
-      "category": "worldcup",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
         "Premier League",
-        "Arsenal",
-        "Chelsea"
+        "World Cup",
+        "Arsenal"
       ]
     },
     {
@@ -238,22 +299,6 @@
       ]
     },
     {
-      "id": "7368d20fd86eb0",
-      "title": "Gianni Infantino, Fifa and the week that rocked the football world",
-      "summary": "Plan for sale of commercial rights to World Cup causes chaos with Uefa, AFC and Concacaf leading the opposition It has been a week that has rocked football. The news ca...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/gianni-infantino-fifa-week-that-rocked-the-football-world-world-cup",
-      "publishedAt": "2026-07-31T18:36:56.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
       "id": "0b684539627596",
       "title": "Man Utd transfer is now ‘more likely’ to go through as Newcastle supporters told to be ‘worried’",
       "summary": "According to reports, Manchester United are now ‘more likely’ to sign Lewis Hall, with Newcastle United fans told to “be worried”.",
@@ -265,22 +310,6 @@
       "tags": [
         "Transfer",
         "Manchester"
-      ]
-    },
-    {
-      "id": "fa4a5d030424ad",
-      "title": "Infantino under huge pressure after plan for World Cup sell-off sparks resignation and rebuke",
-      "summary": "Cordeiro quits as senior adviser to Fifa president Lamour: sell-off plan ‘defies belief and imagination’ The walls started closing in on Gianni Infantino after another...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke",
-      "publishedAt": "2026-07-31T18:05:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
       ]
     },
     {
@@ -300,30 +329,19 @@
       ]
     },
     {
-      "id": "95f29731f96dc1",
-      "title": "'At least I'll sleep well tonight' - Fifa executive joins Burnham in questioning Infantino",
-      "summary": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T17:45:11.000Z",
+      "id": "aca7963fa72cc3",
+      "title": "Franco Baresi obituary",
+      "summary": "Italian footballer who captained AC Milan for 15 of his 20 seasons, a period of unprecedented success for the club At a time when Italian football was known for the exc...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary",
+      "publishedAt": "2026-07-31T17:31:08.000Z",
       "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "b6826b0cca1c0e",
-      "title": "Why Africa could back controversial Fifa plan",
-      "summary": "Fifa's plan to sell stakes in its competitions to private investors has been heavily criticised, but the body running African football is yet to take a side.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy07qjzzexzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T17:34:40.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
         "Football",
-        "Fifa"
+        "Serie A",
+        "World Cup",
+        "Inter"
       ]
     },
     {
@@ -478,9 +496,9 @@
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
         "World Cup",
-        "Transfer"
+        "Transfer",
+        "Fifa"
       ]
     },
     {
@@ -591,19 +609,6 @@
       "tags": [
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "47cb7c12c2849b",
-      "title": "Cole Palmer promises to go ‘harder’ after England snub – while he ‘fell asleep’ during World Cup game",
-      "summary": "Cole Palmer has admitted he watched some of the World Cup games England were involved in, but “fell asleep” during one, as he promises to work “harder” after being snub...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/cole-palmer-fell-asleep-england-game-harder-promise",
-      "publishedAt": "2026-07-31T12:57:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     }
   ],
