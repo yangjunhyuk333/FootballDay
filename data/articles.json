@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:37:30.841Z",
+  "generatedAt": "2026-08-02T19:16:44.000Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,55 +99,16 @@
       "pinned": true
     },
     {
-      "id": "5a287a12f5a000",
-      "title": "Dowman dazzles and debutant Tzolis scores as Arsenal dominate Girona",
-      "summary": "Max Dowman dazzled with a goal and an assist as Arsenal recorded a dominant 4-1 win against Girona in their pre-season game at Montilivi in Catalonia.",
+      "id": "2a1907ee0356a1",
+      "title": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
+      "summary": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/girona-vs-arsenal/report/562155",
-      "publishedAt": "2026-08-02T13:37:30.612Z",
+      "url": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987",
+      "publishedAt": "2026-08-02T19:16:43.587Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7c411c54d284ff",
-      "title": "Welbeck completes move to Chelsea",
-      "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
-      "publishedAt": "2026-08-02T13:37:30.611Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "298b0f723b3082",
-      "title": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
-      "summary": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-02T13:37:30.611Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "edb342d219264f",
-      "title": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
-      "summary": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-02T13:37:30.611Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
+        "Liverpool"
       ]
     },
     {
@@ -156,12 +117,95 @@
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
-      "publishedAt": "2026-08-02T13:37:30.610Z",
+      "publishedAt": "2026-08-02T19:16:43.587Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "a63223db44d8d4",
+      "title": "Real Madrid rule out one Vinicius Junior exit option as transfer stance for Arsenal target becomes clear",
+      "summary": "One of the mooted options for Vinicius Junior has been ruled out this summer, as Real Madrid try to keep him and Arsenal attempt to secure a remarkable signing. The Bra...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-rule-out-vinicius-junior-exit-option-transfer-stance-arsenal",
+      "publishedAt": "2026-08-02T18:59:59.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "338b7d5a048cfa",
+      "title": "Chelsea sign Strasbourg midfielder Barco",
+      "summary": "Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T18:38:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1e89e3f709489d",
+      "title": "Fabrizio Romano makes Bradley Barcola to Liverpool transfer prediction amid Cody Gakpo twist",
+      "summary": "Liverpool are upping the ante when it comes to top target Bradley Barcola, while Fabrizio Romano has provided an update on Tottenham’s pursuit of Cody Gakpo.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-bradley-barcola-liverpool-transfer-prediction-cody-gakpo-twist",
+      "publishedAt": "2026-08-02T17:04:01.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ded9328e829e9f",
+      "title": "Alonso heals Real Madrid scars to lead Chelsea's senior revolution",
+      "summary": "Xabi Alonso on healing from his Real Madrid exit, his gut feeling to join Chelsea and why he sees his new club as an exciting opportunity.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T16:00:36.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "7a8e28f3e03527",
+      "title": "Man Utd set to make loss on former Ruben Amorim hero as summer switch nears",
+      "summary": "Manchester United flop Altay Bayindir may have played his last game for the club as he inches closer to a Celta Vigo switch.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-make-loss-former-ruben-amorim-hero-summer-switch-nears",
+      "publishedAt": "2026-08-02T14:14:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1404f4b471b0ee",
+      "title": "Mohamed Salah demand to complete next move revealed as Liverpool legend nears full agreement",
+      "summary": "According to reports, Liverpool legend Mohamed Salah has made a ‘demand’ to Trabzonspor, who are ‘close’ to signing him after ‘hijacking’ Besiktas.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mohamed-salah-demand-complete-next-move-revealed-liverpool-legend-nears-full-agreement",
+      "publishedAt": "2026-08-02T14:03:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -250,20 +294,6 @@
       ]
     },
     {
-      "id": "335427d40fdef2",
-      "title": "Celtic to make new bid for Gineitis - gossip",
-      "summary": "Celtic up their offer for Serie A midfielder as Rangers open talks for winger from newly-promoted Premier League team...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg9q171y8qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T09:54:06.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Serie A"
-      ]
-    },
-    {
       "id": "534a5e9f4140c9",
       "title": "‘I’m surprised’ – Man Utd told they have made £35m transfer mistake with ‘outstanding player’",
       "summary": "Manchester United have been told that they have made a mistake with Atalanta star Ederson Silva, while they have been urged to replace two players.",
@@ -335,21 +365,6 @@
       ]
     },
     {
-      "id": "2370a5fc311ae2",
-      "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
-      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
-      "publishedAt": "2026-08-02T07:00:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "0e4e6653c90467",
       "title": "The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson",
       "summary": "Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season looms This used to be a land of giants. This use...",
@@ -362,6 +377,21 @@
         "Football",
         "Premier League",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "2370a5fc311ae2",
+      "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
+      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
+      "publishedAt": "2026-08-02T07:00:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -535,19 +565,6 @@
       ]
     },
     {
-      "id": "68ce3616780670",
-      "title": "Bruno Guimaraes to undergo Arsenal medical on Monday after Newcastle agree £80m deal",
-      "summary": "Bruno Guimaraes will undergo a medical with Arsenal on Monday, with the Gunners striking a deal worth £80million with Newcastle United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-guimaraes-arsenal-newcastle-deal-agreed-medical-booked",
-      "publishedAt": "2026-08-01T19:03:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "ced530318b9b32",
       "title": "Call for 'full review' as pressure grows on Infantino",
       "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
@@ -559,19 +576,6 @@
       "tags": [
         "Football",
         "Fifa"
-      ]
-    },
-    {
-      "id": "efe3a93c728dea",
-      "title": "Man Utd reach ‘agreement’ to offload 28y/o and already have replacement lined up",
-      "summary": "Manchester United have decided to send a goalkeeper out on loan and have already enquired about signing his replacement.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/altay-bayindir-orlando-gill-manchester-united-transfer-latest",
-      "publishedAt": "2026-08-01T17:05:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
