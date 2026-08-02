@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-01T19:15:12.881Z",
+  "generatedAt": "2026-08-02T03:23:25.003Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "96aee6c2a8ff29",
+      "title": "What we learned from Arsenal's win against Girona",
+      "summary": "What we learned from Arsenal's win against Girona",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
+      "publishedAt": "2026-08-02T03:23:24.493Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "7c411c54d284ff",
       "title": "Welbeck completes move to Chelsea",
       "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
-      "publishedAt": "2026-08-01T19:15:10.640Z",
+      "publishedAt": "2026-08-02T03:23:24.492Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -113,15 +126,15 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "298b0f723b3082",
-      "title": "Everton latest: Toffees interested in Man Utd youngster Wheatley",
-      "summary": "Everton latest: Toffees interested in Man Utd youngster Wheatley",
+      "title": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
+      "summary": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-01T19:15:10.640Z",
-      "category": "issue",
-      "region": "italy",
+      "publishedAt": "2026-08-02T03:23:24.492Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Arsenal"
       ]
     },
     {
@@ -130,7 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-01T19:15:10.640Z",
+      "publishedAt": "2026-08-02T03:23:24.492Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -138,12 +151,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "96aee6c2a8ff29",
-      "title": "Dowman and Tzolis score as Arsenal make it four against Girona LIVE!",
-      "summary": "Dowman and Tzolis score as Arsenal make it four against Girona LIVE!",
+      "id": "5a287a12f5a000",
+      "title": "Dowman dazzles and debutant Tzolis scores as Arsenal dominate Girona",
+      "summary": "Max Dowman dazzled with a goal and an assist as Arsenal recorded a dominant 4-1 win against Girona in their pre-season game at Montilivi in Catalonia.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
-      "publishedAt": "2026-08-01T19:15:10.640Z",
+      "url": "https://www.skysports.com/football/girona-vs-arsenal/report/562155",
+      "publishedAt": "2026-08-02T03:23:24.492Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,15 +164,87 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1e2c41145e9762",
-      "title": "Bournemouth sign defender Silva from Benfica",
-      "summary": "Bournemouth have completed the signing of Portugal international defender Antonio Silva from Benfica.",
+      "id": "86c092e1c4e40c",
+      "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569014/antonio-silva-bournemouth-clinch-signing-of-portugal-international-defender-from-benfica",
-      "publishedAt": "2026-08-01T19:15:10.640Z",
+      "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+      "publishedAt": "2026-08-02T03:23:24.491Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "5ec073f540e677",
+      "title": "Oshoala revives Nigeria's Wafcon and World Cup bid",
+      "summary": "Asisat Oshoala scores the only goal as Nigeria beat Zambia at Wafcon 2026 to revive the West Africans' hopes of reaching the 2027 Women's World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxe062y199o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T22:23:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d515e81635bd60",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T22:23:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "53659660e01146",
+      "title": "Salah close to Trabzonspor move - Sunday's gossip",
+      "summary": "Mohamed Salah edging towards a move to Trabzonspor, Bayern Munich keen on Manchester United striker Benjamin Sesko and Man City boss Enzo Maresca wants to work with Che...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T21:23:22.000Z",
+      "category": "league",
+      "region": "england germany",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "d57f85be4a45ec",
+      "title": "Man Utd plan Arsenal raid for left-back who can also play in midfield",
+      "summary": "Manchester United want to sign an England international star from Arsenal in the summer transfer window, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/myles-lewis-skelly-manchester-united-arsenal-transfer-latest",
+      "publishedAt": "2026-08-01T21:13:09.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "03339d7dd1bcf4",
+      "title": "Fabrizio Romano reveals what Man Utd internally think of JJ Gabriel as Leny Yoro gives verdict",
+      "summary": "Fabrizio Romano has reported what Manchester United truly think of JJ Gabriel, with Leny Yoro also giving his verdict.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-jj-gabriel-fabrizio-romano-leny-yoro-ineos-michael-carrick-verdicts",
+      "publishedAt": "2026-08-01T20:37:24.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
         "Inter"
       ]
     },
@@ -514,92 +599,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "732c7c0f5bf2e0",
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T10:02:43.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "7395ce8dcf003b",
-      "title": "PSG unlocks Barcola to Liverpool transfer as Romano makes ‘will be completed’ claim",
-      "summary": "Liverpool have been boosted by PSG making a move for Ajax winger Mika Godts as a deal for Bradley Barcola is unlocked.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-barcola-psg-transfer-godts-romano-completed-claim",
-      "publishedAt": "2026-08-01T09:41:18.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "11b0123b441ee7",
-      "title": "Next Chelsea transfer to ‘sign contract today’ as Blues pull at sleeve to seal Delap replacement",
-      "summary": "Former Liverpool midfielder Jordan Henderson will sign his contract as a new Chelsea player today, according to journalist Ben Jacobs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-chelsea-transfer-to-sign-contract-today-as-blues-pull-at-sleeve-to-seal-delap-replacement",
-      "publishedAt": "2026-08-01T09:04:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-01T08:30:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ccec39d1fee083",
-      "title": "Manzambi and Gomes for Rogers, Tielemans and £63m is transfer magic from Aston Villa",
-      "summary": "Aston Villa have quietly had an excellent summer transfer window so far – and do Newcastle deserve more credit for their work too?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manzambi-gomes-rogers-tielemans-63m-aston-villa-transfer-magic",
-      "publishedAt": "2026-08-01T08:20:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "bfa47cf77b543d",
-      "title": "Liverpool: Barcola ‘not too expensive’ for Reds as Bayern Munich given ‘no chance’ of transfer",
-      "summary": "Liverpool are getting ‘closer’ to signing Bradley Barcola this summer as ‘there’s no chance’ Bayern Munich can compete, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-bradley-barcola-closer-bayern-munich-no-chance-transfer",
-      "publishedAt": "2026-08-01T08:19:34.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Bayern"
       ]
     }
   ],
