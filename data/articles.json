@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T03:23:25.003Z",
+  "generatedAt": "2026-08-02T08:29:30.670Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,64 +99,12 @@
       "pinned": true
     },
     {
-      "id": "96aee6c2a8ff29",
-      "title": "What we learned from Arsenal's win against Girona",
-      "summary": "What we learned from Arsenal's win against Girona",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/girona-vs-arsenal/live/562155",
-      "publishedAt": "2026-08-02T03:23:24.493Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7c411c54d284ff",
-      "title": "Welbeck completes move to Chelsea",
-      "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
-      "publishedAt": "2026-08-02T03:23:24.492Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "298b0f723b3082",
-      "title": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
-      "summary": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-02T03:23:24.492Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "edb342d219264f",
-      "title": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
-      "summary": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-02T03:23:24.492Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "5a287a12f5a000",
       "title": "Dowman dazzles and debutant Tzolis scores as Arsenal dominate Girona",
       "summary": "Max Dowman dazzled with a goal and an assist as Arsenal recorded a dominant 4-1 win against Girona in their pre-season game at Montilivi in Catalonia.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/girona-vs-arsenal/report/562155",
-      "publishedAt": "2026-08-02T03:23:24.492Z",
+      "publishedAt": "2026-08-02T08:29:30.483Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -169,12 +117,221 @@
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
-      "publishedAt": "2026-08-02T03:23:24.491Z",
+      "publishedAt": "2026-08-02T08:29:30.482Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "7c411c54d284ff",
+      "title": "Welbeck completes move to Chelsea",
+      "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
+      "publishedAt": "2026-08-02T08:29:30.482Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "298b0f723b3082",
+      "title": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
+      "summary": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-08-02T08:29:30.482Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "edb342d219264f",
+      "title": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
+      "summary": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-02T08:29:30.482Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "89945d3c453929",
+      "title": "Arsenal: Romano reveals Guimaraes ‘expected shortly’ update as Newcastle ‘start plans’ to replace him",
+      "summary": "According to Fabrizio Romano, Newcastle United star Bruno Guimaraes is ‘expected’ to complete his move to Arsenal ‘shortly’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-romano-reveals-guimaraes-expected-shortly-update-newcastle-start-plans-medical",
+      "publishedAt": "2026-08-02T08:29:04.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fd3c453adbc17a",
+      "title": "Mikel Arteta responds to Vinicius Junior question after Arsenal transfer breakthrough – ‘that’s clear’",
+      "summary": "Arsenal head coach Mikel Arteta remained coy when asked about Vinicius Junior, though Real Madrid will reportedly sell him on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mikel-arteta-responds-vinicius-junior-arsenal-transfer-breakthrough-real-madrid",
+      "publishedAt": "2026-08-02T08:04:39.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8bee88d64185a7",
+      "title": "Liverpool optimistic of signing Bradley Barcola in cut-price deal as FSG set price to sell Cody Gakpo",
+      "summary": "According to reports, Liverpool are now open to offloading Cody Gakpo as they continue their pursuit of PSG star Bradley Barcola.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-optimistic-signing-bradley-barcola-fsg-set-price-sell-cody-gakpo",
+      "publishedAt": "2026-08-02T07:32:07.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "2370a5fc311ae2",
+      "title": "Gianni Infantino could face leadership challenge as Fifa Council members rebel",
+      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa Council who...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
+      "publishedAt": "2026-08-02T07:00:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "0e4e6653c90467",
+      "title": "The five big beasts are gone: who will be the Premier League’s next alpha manager? | Jonathan Wilson",
+      "summary": "Arsenal’s Mikel Arteta is perhaps best placed to fill the void but the coaching contenders are legion as another season looms This used to be a land of giants. This use...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/premier-league-managers-arteta-alonso-de-zerbi-carrick-klopp-guardiola",
+      "publishedAt": "2026-08-02T07:00:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "da4fe305e11f10",
+      "title": "Chelsea finalise deal after Arsenal fail with offer as Romano reveals Blues ‘new bid’ for Alonso’s top target",
+      "summary": "According to reports, Chelsea have fended off competition from Arsenal and others to keep Joao Pedro, while they have an ‘agreement’ for another transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-finalise-deal-arsenal-fail-offer-romano-reveals-blues-new-bid-alonso-top-target",
+      "publishedAt": "2026-08-02T06:59:51.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "8458f58c5ab624",
+      "title": "Five reasons for Vinicius Junior to join Arsenal rather than stay at Real Madrid",
+      "summary": "Could Vinicius Junior to Arsenal actually happen? We’ve racked our brains to pick out some reasons for the Real Madrid star to make the move.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/five-reasons-vinicius-junior-join-arsenal",
+      "publishedAt": "2026-08-02T06:15:54.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "109c4ba27accb9",
+      "title": "Spurs are STILL biggest spenders of the 2026 summer transfer window",
+      "summary": "Five Premier League clubs are at the top of the biggest spenders list for the summer of 2026 with AC Milan and Bayern the outliers.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
+      "publishedAt": "2026-08-02T06:08:50.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Bayern",
+        "Milan"
+      ]
+    },
+    {
+      "id": "90e64e674cd64e",
+      "title": "New boss Maresca is perfect for Man City - Gvardiol",
+      "summary": "New manager Enzo Maresca is a \"perfect one\" for Manchester City, says defender Josko Gvardiol.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny130kzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T06:01:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "af2ed35a76fe80",
+      "title": "Who am I? Guess Premier League star No 13",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7er2vlzyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T06:00:32.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-08-02T06:00:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "4030cea65e8dca",
+      "title": "What happened to star signings your club never made?",
+      "summary": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T05:42:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -193,13 +350,14 @@
     {
       "id": "d515e81635bd60",
       "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T22:23:20.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
+        "World Cup",
         "Fifa"
       ]
     },
@@ -446,159 +604,6 @@
         "World Cup",
         "Fifa",
         "Uefa"
-      ]
-    },
-    {
-      "id": "a97921b99d8150",
-      "title": "Newcastle react to claim Arsenal have completed Bruno Guimaraes signing for £80m",
-      "summary": "A local Newcastle United journalist reveals what he has been told about Bruno Guimaraes leaving for Arsenal in an £80million deal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-newcastle-united-bruno-guimaraes-latest-update",
-      "publishedAt": "2026-08-01T14:24:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "05b1c4dbfe3c13",
-      "title": "Mudryk Chelsea return will take time - Alonso",
-      "summary": "Xabi Alonso says he is \"very happy\" to be welcoming Mykhailo Mudryk back into his Chelsea squad, but it is \"too early\" to understand what he can do.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62eney6347o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T14:19:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5f4bb96dcce250",
-      "title": "Euro giants ‘close’ to Mohamed Salah ‘hijack’ as official offer amount for Liverpool legend is revealed",
-      "summary": "Turkish giants Trabzonspor are now ‘close to hijacking’ Besiktas’ deal to sign Liverpool legend Mohamed Salah, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-mohamed-salah-hijack-official-offer-trabzonspor-besiktas",
-      "publishedAt": "2026-08-01T13:28:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0f4ede2a89585f",
-      "title": "The five dramatic days that shook Infantino and world football",
-      "summary": "BBC Sport's Simon Stone reflects on the unravelling of Gianni Infantino's plans to sell off stakes in Fifa competitions.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8rny2p6144o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T12:42:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "2acabeb910af4b",
-      "title": "Four reasons why Fifa's World Cup plan never stacked up",
-      "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T12:41:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "65d40f1f612181",
-      "title": "Arsenal starter ‘would like to go’ in ‘next phase’ of transfers as destination narrowed down",
-      "summary": "Arsenal winger Gabriel Martinelli “would ideally like to go” in “next phase of deals” before the window shuts, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-martinelli-wants-exit-next-phase-transfers",
-      "publishedAt": "2026-08-01T12:25:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7aaa60fc91a36e",
-      "title": "Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack",
-      "summary": "With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s game Despite not ha...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/01/womens-football-continues-to-be-pawn-gianni-infantino-fifa-tenure",
-      "publishedAt": "2026-08-01T11:43:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "305ed6478bee13",
-      "title": "Potential third Man Utd midfield signing now ‘open’ to joining after new Chelsea bid is revealed",
-      "summary": "Bournemouth midfielder Alex Scott is now ‘open’ to joining Man Utd this summer after a new Chelsea bid was revealed, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-signing-scott-open-joining-chelsea-bid-revealed",
-      "publishedAt": "2026-08-01T11:40:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ee65a2a4bd4081",
-      "title": "Arsenal and Manchester United guilty of summer 2026’s biggest transfer undercharges",
-      "summary": "The biggest underpays of the summer 2026 transfer window so far have been for Arsenal, Aston Villa, Manchester United and Spurs players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-transfer-underpays-summer-2026-arsenal-manchester-united",
-      "publishedAt": "2026-08-01T11:10:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7817fd51fe2b00",
-      "title": "Courting controversy and befriending Trump - the story of Fifa boss Infantino",
-      "summary": "Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in a powerful position.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyg5887vp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T10:18:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "bd42da41aaa5a6",
-      "title": "Ornstein drops huge Vinicius Junior to Arsenal bombshell with ‘agreement’ expected",
-      "summary": "David Ornstein insists that Arsenal are expected to find an ‘agreement’ with Vinicius Junior if the Real Madrid star decides to join.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ornstein-drops-huge-vinicius-junior-to-arsenal-bombshell-with-agreement-expected",
-      "publishedAt": "2026-08-01T10:04:27.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
       ]
     }
   ],
