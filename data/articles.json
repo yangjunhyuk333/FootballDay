@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T08:29:30.670Z",
+  "generatedAt": "2026-08-02T13:37:30.841Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,24 +104,10 @@
       "summary": "Max Dowman dazzled with a goal and an assist as Arsenal recorded a dominant 4-1 win against Girona in their pre-season game at Montilivi in Catalonia.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/girona-vs-arsenal/report/562155",
-      "publishedAt": "2026-08-02T08:29:30.483Z",
+      "publishedAt": "2026-08-02T13:37:30.612Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "86c092e1c4e40c",
-      "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
-      "publishedAt": "2026-08-02T08:29:30.482Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
         "Arsenal"
       ]
     },
@@ -131,7 +117,7 @@
       "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee",
-      "publishedAt": "2026-08-02T08:29:30.482Z",
+      "publishedAt": "2026-08-02T13:37:30.611Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -144,7 +130,7 @@
       "summary": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-02T08:29:30.482Z",
+      "publishedAt": "2026-08-02T13:37:30.611Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -157,11 +143,153 @@
       "summary": "Man City latest: Maresca's first game ends in penalty shoot-out loss to Inter",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-02T08:29:30.482Z",
+      "publishedAt": "2026-08-02T13:37:30.611Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "86c092e1c4e40c",
+      "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
+      "publishedAt": "2026-08-02T13:37:30.610Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4cd83ac74172e2",
+      "title": "Man Utd star says yes to joining Euro giants after INEOS make call to sign Premier League striker",
+      "summary": "According to reports, Manchester United star Joshua Zirkzee has ‘said yes’ to a move to Juventus, while INEOS are working on signing a new striker.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-star-says-yes-joining-euro-giants-ineos-call-sign-premier-league-striker",
+      "publishedAt": "2026-08-02T13:26:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "2f37638d722891",
+      "title": "Mateus Fernandes reveals two reasons for choosing to join Tottenham instead of Manchester United",
+      "summary": "New Tottenham Hotspur midfielder Mateus Fernandes has revealed that he decided to join Spurs over Manchester United for two reasons.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fernandes-reveals-two-reasons-choosing-join-tottenham-instead-manchester-united",
+      "publishedAt": "2026-08-02T12:39:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c124e2454b7487",
+      "title": "Chelsea reach agreement for tenth summer signing with deal to be offical in the coming hours",
+      "summary": "According to reports, Chelsea have now reached an ‘agreement’ with La Liga outfit Rayo Vallecano over signing Pep Chavarria.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-reach-agreement-for-tenth-summer-signing-chavarria-henderson",
+      "publishedAt": "2026-08-02T12:05:43.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "La Liga",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7c5ef03a098dab",
+      "title": "Arsenal star almost certain to leave on one condition as Arteta issues verdict on selling Gyokeres",
+      "summary": "According to reports, Gabriel Martinelli is to leave Arsenal this summer on one condition, while Mikel Arteta has commented on Viktor Gyokeres’ future.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-star-almost-certain-leave-one-condition-arteta-verdict-selling-gyokeres",
+      "publishedAt": "2026-08-02T11:34:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1dc28ecef7c95a",
+      "title": "Robert Lewandowski strikes twice for Chicago Fire in MLS win over Charlotte",
+      "summary": "Poland striker scores double on his home MLS debut Messi returns as Inter Miami draw 2-2 with Columbus Robert Lewandowski scored two goals on his home debut as the Chic...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/mls-robert-lewandowski-chicago-fire-charlotte-messi-inter-miami-columbus",
+      "publishedAt": "2026-08-02T11:02:15.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fcdfc96391dc48",
+      "title": "Gianni Infantino’s position untenable as confederations lose confidence, head of European leagues claims",
+      "summary": "Gianni Infantino’s position as FIFA president appears untenable after his failed plan to sell a stake in the World Cup’s commercial rights, the head of Europe’s profess...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fifa-gianni-infantino-position-untenable-confederations-lose-confidence",
+      "publishedAt": "2026-08-02T09:58:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "335427d40fdef2",
+      "title": "Celtic to make new bid for Gineitis - gossip",
+      "summary": "Celtic up their offer for Serie A midfielder as Rangers open talks for winger from newly-promoted Premier League team...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg9q171y8qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T09:54:06.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Serie A"
+      ]
+    },
+    {
+      "id": "534a5e9f4140c9",
+      "title": "‘I’m surprised’ – Man Utd told they have made £35m transfer mistake with ‘outstanding player’",
+      "summary": "Manchester United have been told that they have made a mistake with Atalanta star Ederson Silva, while they have been urged to replace two players.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-told-made-35m-transfer-mistake-outstanding-player",
+      "publishedAt": "2026-08-02T09:42:34.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Guimaraes to Arsenal closer as Chelsea make new offer, Spurs eye Osimhen",
+      "summary": "Bruno Guimaraes to Arsenal now looks inevitable, while Chelsea have made a new offer for their top target and Tottenham are plotting an ambitious move.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-02T09:00:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
@@ -208,8 +336,8 @@
     },
     {
       "id": "2370a5fc311ae2",
-      "title": "Gianni Infantino could face leadership challenge as Fifa Council members rebel",
-      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa Council who...",
+      "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
+      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
       "publishedAt": "2026-08-02T07:00:15.000Z",
@@ -472,138 +600,6 @@
         "Manchester",
         "Inter",
         "Milan"
-      ]
-    },
-    {
-      "id": "245d23b8b16112",
-      "title": "Transfer news: Welbeck joins Chelsea, Brentford complete record Sangaré deal",
-      "summary": "35-year-old Brighton striker Welbeck seals £5m move Mali international Sangaré joins Bees for reported £39m Chelsea have signed Brighton’s veteran striker Danny Welbeck...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/01/transfer-news-welbeck-joins-chelsea-brentford-complete-record-sangare-deal",
-      "publishedAt": "2026-08-01T16:44:36.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Chelsea",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "3d6bdc10310bff",
-      "title": "Chelsea react as Arsenal ready to pay €100m for Joao Pedro",
-      "summary": "Chelsea have decided whether they will sell Joao Pedro to Arsenal, who are ready to make a big offer for the Brazilian star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-chelsea-joao-pedro-decision-reached",
-      "publishedAt": "2026-08-01T16:25:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "b79011d7c9642a",
-      "title": "Chelsea confirm Welbeck signing from Brighton",
-      "summary": "Chelsea complete the signing of Brighton striker Danny Welbeck.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5g1vy3p3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T16:22:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7089a4f0d673ad",
-      "title": "Watch Chelsea newcomer Welbeck's PL goals from last season",
-      "summary": "Watch all 13 Premier League goals scored by new Chelsea signing Danny Welbeck last season, including three against his new club.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cn9nyqxw52go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T16:08:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ffbd09996d9f21",
-      "title": "McAidoo 'the kind of winger I love' - Maresca",
-      "summary": "Despite Manchester City's penalty-shootout defeat by Inter Milan, teenager Ryan McAidoo grabs the opportunity to show manager Enzo Maresca what he can do.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c75g4gg02dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T15:27:44.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "c48758632d26a1",
-      "title": "Faster, faster: Iraola in a rush to plug Liverpool gaps before Premier League starts",
-      "summary": "New head coach needs to use the transfer market with defensive cover vital as injuries hamper US pre-season tour “Faster, faster,” bellowed Andoni Iraola throughout the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/01/liverpool-premier-league-andoni-iraola-leeds",
-      "publishedAt": "2026-08-01T15:25:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f43bc117329deb",
-      "title": "Fabrizio Romano has just dropped Bruno Guimaraes to Arsenal update – ‘get ready’",
-      "summary": "Fabrizio Romano has revealed the latest on Arsenal’s quest to sign Bruno Guimaraes from Newcastle United in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-guimaraes-arsenal-newcastle-fabrizio-romano-update",
-      "publishedAt": "2026-08-01T15:08:23.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "41cb2632b2f0d2",
-      "title": "De Zerbi wants ‘lovely guy’ Richarlison to stay at Tottenham after winner sinks Chelsea",
-      "summary": "10-man Spurs win pre-season match 2-1 in Sydney ‘He’s important, it’s not easy to find another striker’ Roberto De Zerbi wants Richarlison to stay at Tottenham, but say...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/01/roberto-de-zerbi-richarlison-tottenham-chelsea-friendly",
-      "publishedAt": "2026-08-01T15:02:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7edb1c63f74763",
-      "title": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
-      "summary": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subj...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics",
-      "publishedAt": "2026-08-01T15:00:55.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
       ]
     }
   ],
