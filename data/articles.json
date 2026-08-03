@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:16:44.000Z",
+  "generatedAt": "2026-08-03T03:25:17.874Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "2a1907ee0356a1",
-      "title": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
-      "summary": "Isak and Wirtz start for Liverpool vs Leeds LIVE!",
+      "id": "9a47fed7f5a4b3",
+      "title": "Liverpool collapse as Leeds come from 2-0 down to win",
+      "summary": "Liverpool threw away a two-goal lead in spectacular fashion as Leeds won the final match of both teams' United States tour 4-2.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987",
-      "publishedAt": "2026-08-02T19:16:43.587Z",
+      "url": "https://www.skysports.com/football/liverpool-vs-leeds-united/report/554987",
+      "publishedAt": "2026-08-03T03:25:17.372Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,17 +112,172 @@
       ]
     },
     {
-      "id": "86c092e1c4e40c",
-      "title": "Papers: Man Utd considering move for Arsenal's Lewis-Skelly",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "id": "2a1907ee0356a1",
+      "title": "What we learned from Liverpool's collapse to Leeds...",
+      "summary": "What we learned from Liverpool's collapse to Leeds...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569111/myles-lewis-skelly-transfer-news-man-utd-considering-move-for-arsenal-player-paper-talk",
-      "publishedAt": "2026-08-02T19:16:43.587Z",
+      "url": "https://www.skysports.com/football/liverpool-vs-leeds-united/live/554987",
+      "publishedAt": "2026-08-03T03:25:17.372Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bb1ead04fcfe97",
+      "title": "Papers: Man Utd edging closer to winning race for Hall",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569280/manchester-united-edging-closer-to-winning-transfer-race-for-lewis-hall-after-left-back-rejects-chelsea-return-paper-talk",
+      "publishedAt": "2026-08-03T03:25:17.372Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "c732245603a80f",
+      "title": "Tale of two halves leaves Iraola with plenty to ponder",
+      "summary": "On the overnight flight from Chicago back to England, Andoni Iraola will have plenty of thinking to do after the conclusion of Liverpool's pre-season US tour.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T23:18:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cb388615324d94",
+      "title": "Leeds stage thrilling comeback to sink Liverpool in Chicago friendly",
+      "summary": "Liverpool 2-4 Leeds Calvert-Lewin scores twice as Leeds come back from 2-0 down After 45 minutes at Soldier Field the tale of Liverpool’s pre-season tour of the US was...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/leeds-stage-thrilling-comeback-to-sink-liverpool-in-chicago-friendly",
+      "publishedAt": "2026-08-02T22:40:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "44cff4b94c3a8b",
+      "title": "Chelsea sign Argentina international Valentín Barco from Strasbourg",
+      "summary": "Barco a left-back who can also play in midfield Player had spell at Brighton before move to France Chelsea have signed the Argentina international Valentín Barco from t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/chelsea-sign-argentina-international-valentin-barco-from-strasbourg",
+      "publishedAt": "2026-08-02T21:28:32.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d8c21c6950e031",
+      "title": "Spurs make Osimhen approach - Monday's gossip",
+      "summary": "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n66edplno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T20:51:23.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b58e2252da7ac4",
+      "title": "Vinicius Junior transfer twist? Yan Diomande move to Real Madrid hits unexpected snag as agents clash",
+      "summary": "Yan Diomande’s transfer to Real Madrid has been put on hold due to a reported dispute between the agents involved in the deal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/vinicius-junior-transfer-twist-yan-diomande-move-real-madrid-snag-agents-clash",
+      "publishedAt": "2026-08-02T20:36:30.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
         "Transfer",
-        "Arsenal"
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Five-year net spend table now topped by astonishing £862m Chelsea",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-08-02T20:20:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-08-02T20:03:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "109c4ba27accb9",
+      "title": "Chelsea overtake Spurs as biggest spenders of the 2026 summer transfer window",
+      "summary": "Seven Premier League clubs are in the ten biggest spenders for the summer of 2026, with a new leader finally crowned.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
+      "publishedAt": "2026-08-02T19:48:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-08-02T19:48:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "2a59bc1494cefe",
+      "title": "Pressure on Gianni Infantino increases as Uefa members prepare to oppose re-election",
+      "summary": "European nations to withdraw letters of support for Fifa president Appetite to ensure Infantino is quickly removed from post European countries are planning to increase...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election",
+      "publishedAt": "2026-08-02T19:36:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
       ]
     },
     {
@@ -380,21 +535,6 @@
       ]
     },
     {
-      "id": "2370a5fc311ae2",
-      "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
-      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel",
-      "publishedAt": "2026-08-02T07:00:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "da4fe305e11f10",
       "title": "Chelsea finalise deal after Arsenal fail with offer as Romano reveals Blues ‘new bid’ for Alonso’s top target",
       "summary": "According to reports, Chelsea have fended off competition from Arsenal and others to keep Joao Pedro, while they have an ‘agreement’ for another transfer.",
@@ -424,19 +564,17 @@
       ]
     },
     {
-      "id": "109c4ba27accb9",
-      "title": "Spurs are STILL biggest spenders of the 2026 summer transfer window",
-      "summary": "Five Premier League clubs are at the top of the biggest spenders list for the summer of 2026 with AC Milan and Bayern the outliers.",
+      "id": "a276912e54e362",
+      "title": "The top 20 biggest transfers of the summer 2026 window…",
+      "summary": "Some big money has already been spent this summer, with Premier League clubs involved in the top seven deals….",
       "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-08-02T06:08:50.000Z",
+      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
+      "publishedAt": "2026-08-02T06:05:36.000Z",
       "category": "transfer",
-      "region": "england italy germany",
+      "region": "england",
       "tags": [
         "Premier League",
-        "Transfer",
-        "Bayern",
-        "Milan"
+        "Transfer"
       ]
     },
     {
@@ -463,147 +601,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-02T06:00:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "4030cea65e8dca",
-      "title": "What happened to star signings your club never made?",
-      "summary": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T05:42:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5ec073f540e677",
-      "title": "Oshoala revives Nigeria's Wafcon and World Cup bid",
-      "summary": "Asisat Oshoala scores the only goal as Nigeria beat Zambia at Wafcon 2026 to revive the West Africans' hopes of reaching the 2027 Women's World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxe062y199o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T22:23:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d515e81635bd60",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T22:23:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "53659660e01146",
-      "title": "Salah close to Trabzonspor move - Sunday's gossip",
-      "summary": "Mohamed Salah edging towards a move to Trabzonspor, Bayern Munich keen on Manchester United striker Benjamin Sesko and Man City boss Enzo Maresca wants to work with Che...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg9jlzwrnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T21:23:22.000Z",
-      "category": "league",
-      "region": "england germany",
-      "tags": [
-        "Chelsea",
-        "Manchester",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "d57f85be4a45ec",
-      "title": "Man Utd plan Arsenal raid for left-back who can also play in midfield",
-      "summary": "Manchester United want to sign an England international star from Arsenal in the summer transfer window, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/myles-lewis-skelly-manchester-united-arsenal-transfer-latest",
-      "publishedAt": "2026-08-01T21:13:09.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "03339d7dd1bcf4",
-      "title": "Fabrizio Romano reveals what Man Utd internally think of JJ Gabriel as Leny Yoro gives verdict",
-      "summary": "Fabrizio Romano has reported what Manchester United truly think of JJ Gabriel, with Leny Yoro also giving his verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-jj-gabriel-fabrizio-romano-leny-yoro-ineos-michael-carrick-verdicts",
-      "publishedAt": "2026-08-01T20:37:24.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ced530318b9b32",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:07:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T16:53:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "68b1aeb1ab3f7f",
-      "title": "Maresca loses first match as Inter beat Man City on penalties",
-      "summary": "Watch highlights as Enzo Maresca loses his first match in charge of Manchester City following a defeat on penalties to Inter Milan after a 1-1 friendly draw in Hong Kong.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gx0gq0e0zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T16:47:36.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter",
-        "Milan"
       ]
     }
   ],
