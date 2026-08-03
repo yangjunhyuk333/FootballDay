@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-03T14:48:22.747Z",
+  "generatedAt": "2026-08-03T19:43:06.296Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,95 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "0433eeea2e96b7",
-      "title": "Skinner leaves Man Utd Women",
-      "summary": "Marc Skinner has left his role as Manchester United Women head coach after five years in charge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge",
-      "publishedAt": "2026-08-03T14:48:22.448Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3d081b5a22bc38",
-      "title": "'Man Utd concerned about cost of WSL title chase' - Why Skinner left Man Utd",
-      "summary": "Just a month out from their opening Women's Super League fixture, Manchester United find themselves without a head coach after Marc Skinner departed on Monday morning.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569353/marc-skinner-leaves-man-utd-women-lack-of-investment-a-change-of-direction-and-inconsistent-playing-style-contributed-to-head-coach-exit",
-      "publishedAt": "2026-08-03T14:48:22.447Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "795ebb706ef1b2",
-      "title": "Spurs interested in Liverpool's Gakpo",
-      "summary": "Tottenham are interested in signing Cody Gakpo from Liverpool this summer.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569350/cody-gakpo-tottenham-interested-in-signing-liverpool-forward-as-roberto-de-zerbi-aims-to-improve-spurs-attack",
-      "publishedAt": "2026-08-03T14:48:22.447Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "60f7af19e88e2e",
-      "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
-      "summary": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays f...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
-      "publishedAt": "2026-08-03T14:48:22.446Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9f4dc6f75e2b80",
-      "title": "FA set to withdraw support for Infantino as UEFA considers legal action",
-      "summary": "The Football Association is set to withdraw support for FIFA president Gianni Infantino.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
-      "publishedAt": "2026-08-03T14:48:22.446Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "6bac9acd9f04f7",
-      "title": "'Made of muscles!' Why PSG want Japan goalkeeper Suzuki",
-      "summary": "Having been linked with a move to the Premier League, Zion Suzuki is set for a switch to European champions Paris Saint-German instead. It marks the completion of the 2...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561579/zion-suzuki-to-psg-why-parma-and-japan-goalkeeper-is-in-demand-long-throws-catching-crosses-and-much-more",
-      "publishedAt": "2026-08-03T14:48:22.446Z",
-      "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Psg"
-      ]
-    },
-    {
       "id": "16f5bf797d553b",
       "title": "Celtic learn CL opponents as Brighton discover European route",
       "summary": "Celtic will play Austrian champions LASK for a place in the league phase of the Champions League, while Brighton will face CFR Cluj or Tromso in the Conference League p...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569393/champions-league-europa-league-conference-league-play-off-draws-celtic-rangers-brighton-hearts-hibernian-motherwell-discover-opponents",
-      "publishedAt": "2026-08-03T14:48:22.445Z",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -200,11 +117,342 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal's opening bid for Bruno Guimaraes has been rejected by Newcastle.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder",
-      "publishedAt": "2026-08-03T14:48:22.445Z",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "1d58814ec9e0c6",
+      "title": "Can Rashford be reintergrated at Man Utd?",
+      "summary": "Marcus Rashford's future at Manchester United remains up in the air.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "60f7af19e88e2e",
+      "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
+      "summary": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays f...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9f4dc6f75e2b80",
+      "title": "FA set to withdraw support for Infantino as UEFA considers legal action",
+      "summary": "The Football Association is set to withdraw support for FIFA president Gianni Infantino.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "79844f07b185bd",
+      "title": "'Couldn't turn it down' - Chelsea confirm Henderson signing",
+      "summary": "Chelsea have confirmed the signing of England midfielder Jordan Henderson.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569179/jordan-henderson-transfer-news-chelsea-confirm-signing-of-midfielder-following-brentford-exit",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6bac9acd9f04f7",
+      "title": "'Made of muscles!' Why PSG want Japan goalkeeper Suzuki",
+      "summary": "Having been linked with a move to the Premier League, Zion Suzuki is set for a switch to European champions Paris Saint-German instead. It marks the completion of the 2...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13561579/zion-suzuki-to-psg-why-parma-and-japan-goalkeeper-is-in-demand-long-throws-catching-crosses-and-much-more",
+      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "category": "worldcup",
+      "region": "england france",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Psg"
+      ]
+    },
+    {
+      "id": "16c762df6ac714",
+      "title": "More European countries withdraw support for Infantino as pressure intensifies",
+      "summary": "FA no longer endorses Fifa president for re-election Wales and Serbia join Finland in withdrawing backing European countries began turning their backs on Gianni Infanti...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/wales-become-first-nation-to-drop-support-for-fifa-president-gianni-infantino",
+      "publishedAt": "2026-08-03T19:24:32.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "86d1742567d67e",
+      "title": "Atletico Madrid in contact with Mohamed Salah with contract in mind – report",
+      "summary": "Mohamed Salah has piqued the interest of Spanish giants Atletico Madrid, who are considering sending him a contract offer, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/atletico-madrid-contact-mohamed-salah-contract-ready",
+      "publishedAt": "2026-08-03T18:53:28.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "42a24a10dd46e5",
+      "title": "Former Tottenham scout questions transfer fee for forward who ‘could hardly get in’ Spurs’ team",
+      "summary": "Former Tottenham scout Bryan King has questioned the transfer fee paid this summer for a forward who “could hardly get in the Tottenham team” last season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-fee-questioned-kolo-muani-tottenham",
+      "publishedAt": "2026-08-03T18:04:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "8fdd6030f6d8ca",
+      "title": "Romano torches misreporting on Guimaraes as full Arsenal, Newcastle truths disclosed",
+      "summary": "Fabrizio Romano has gone on the attack and seemingly exposed a series of false claims about Bruno Guimaraes and his potential transfer from Newcastle to Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-torches-misreporting-bruno-guimaraes-full-arsenal-newcastle-truths",
+      "publishedAt": "2026-08-03T17:57:01.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "d5dad0bb36f114",
+      "title": "Real to resume talks with Arsenal target Vinicius Jr",
+      "summary": "Real Madrid and Vinicius Jr will resume contract talks this week as Arsenal wait in the wings.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T17:30:32.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "895c61ce87d961",
+      "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5m Henderson adds experience to Xabi Alonso’s squad Trevoh Chalobah’s long association with Chelsea is to end after Como...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson",
+      "publishedAt": "2026-08-03T17:30:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "7209fece55c78c",
+      "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+      "summary": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or, r...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return",
+      "publishedAt": "2026-08-03T16:48:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ae6970b15f45b5",
+      "title": "Huge Tottenham transfer advancing as Romano confirms deal practically done",
+      "summary": "One of the biggest Spurs transfers of the summer is expected to be determined one way or another in the coming days, with Romano confirming a club-to-club agreement is...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/cristian-romero-inter-milan-transfer-advancing-fabrizio-romano-tottenham-latest",
+      "publishedAt": "2026-08-03T16:42:11.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "7477a4ec611c96",
+      "title": "Marc Skinner may have been a Marmite manager but Manchester United’s budget was spread thin | Tom Garry",
+      "summary": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/marc-skinner-manchester-united-budget-wsl-womens-super-league",
+      "publishedAt": "2026-08-03T15:55:02.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "89450fb71a8dd0",
+      "title": "Trevoh Chalobah deal done as Fabrizio Romano reveals UCL motivation",
+      "summary": "The move from Chelsea to Como for Trevoh Chalobah has been confirmed by Fabrizio Romano, who states the defender is ready for Champions League football. The Blues have...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-defender-chalobah-deal-done",
+      "publishedAt": "2026-08-03T15:48:36.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "38d734a4d0fe29",
+      "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
+      "summary": "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno Guimar...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/premier-league-transfer-newcastle-reject-first-bid-arsenal-bruno-guimaraes",
+      "publishedAt": "2026-08-03T15:46:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e0e9574ae81f82",
+      "title": "Como agree £31m deal to sign Chalobah from Chelsea",
+      "summary": "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:39:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d15a039758db0b",
+      "title": "Ex-Man City striker Dzeko, 40, pens new Schalke deal",
+      "summary": "Bosnia and Herzegovina captain Edin Dzeko, 40, signs a one-year contract extension at newly promoted Bundesliga side Schalke.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwymplydl82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:37:14.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:29:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8ae69926072195",
+      "title": "England midfielder Henderson joins Chelsea",
+      "summary": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T15:17:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "98a0656af7f8fc",
+      "title": "Romano drops major Barcola to Liverpool update after compromise confirmed",
+      "summary": "Fabrizio Romano has confirmed a major development in the Bradley Barcola transfer saga, while a second reporter is insistent PSG will sell to Liverpool for much less th...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-major-bradley-barcola-liverpool-update-compromise-confirmed",
+      "publishedAt": "2026-08-03T15:06:39.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "3c4832c373a129",
+      "title": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
+      "summary": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. Ther...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid",
+      "publishedAt": "2026-08-03T15:00:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "28ad0b4cb74870",
+      "title": "Football Daily | Scrapped proposals, statement wars and the ongoing Infantino furore",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Here we go again. And, no, we are not talking about the start of the new Scottish Premiership season or the prelimin...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/football-daily-email-fifa-gianni-infantino-scrapped-proposals-statement-wars",
+      "publishedAt": "2026-08-03T14:20:20.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -357,240 +605,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "d1a90a2355d497",
-      "title": "Maresca tells Man City to raid Chelsea for £70m forward as bid prepped",
-      "summary": "A third Chelsea star has now been tipped to follow Enzo Maresca to City, with an offer reportedly in the works",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-transfer-news-pedro-neto-chelsea-enzo-maresca-bid-prepared",
-      "publishedAt": "2026-08-03T12:33:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2b1bdde989aec0",
-      "title": "Top 10 available managers: Deschamps and Eddie Howe join the list",
-      "summary": "Xavi fancies a Premier League job but his conditions appear…unrealistic. Some managers are only on here for now…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-10-available-football-managers-coaches",
-      "publishedAt": "2026-08-03T12:30:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "b7cdb2cb21ae65",
-      "title": "Curtis Jones responds after Andoni Iraola tells him to sign new Liverpool contract",
-      "summary": "Curtis Jones has made up his mind on whether he will sign a new contract with Liverpool this summer, according to the Italian media.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/curtis-jones-new-liverpool-contract-decision-andoni-iraola-szoboszlai",
-      "publishedAt": "2026-08-03T12:29:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6394b495b296c6",
-      "title": "Celtic drawn against LASK as other Scottish sides discover opponents",
-      "summary": "Celtic will play against Austrian champions LASK in the Champions League play-off round as four other Scottish sides discover potential Europa League and Conference Lea...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T12:25:22.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Europa League"
-      ]
-    },
-    {
-      "id": "595b0025cef5b6",
-      "title": "Tenth Chelsea signing in London for medical with official announcement in the coming hours",
-      "summary": "Chelsea are closing in on their tenth signing of the summer with Pep Chavarria in London for his medical, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tenth-chelsea-signing-in-london-for-medical-with-official-announcement-in-the-coming-hours",
-      "publishedAt": "2026-08-03T12:02:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "601101628e18d1",
-      "title": "Jermaine Jenas tells Lewis Hall whether to go to Man Utd or stay at Newcastle",
-      "summary": "Jermaine Jenas has given his verdict on whether Lewis Hall should join Manchester United or stay at Newcastle United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lewis-hall-newcastle-united-manchester-united-jermaine-jenas-verdict",
-      "publishedAt": "2026-08-03T11:55:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "13228db88fc454",
-      "title": "Man United and Tottenham now set to complete 15 transfers this week, it says here",
-      "summary": "Man United are going to get seven deals done this week, and Spurs will go one better. Plus the latest on Vini Jr’s move to Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-vinicius-jr-transfer-man-united-tottenham-15-deals-mediawatch",
-      "publishedAt": "2026-08-03T11:26:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal boss takes on Vini Jr efforts as Tottenham plan for Gakpo is revealed",
-      "summary": "Bruno Guimaraes to Arsenal now looks inevitable, while Chelsea have made a new offer for their top target and Tottenham are plotting an ambitious move.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-03T11:21:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8554cceb1a1d4b",
-      "title": "Bruno Guimaraes to Arsenal so close even Newcastle admit it as he ‘repeats desire to leave’",
-      "summary": "Newcastle reporter Luke Edwards is now claiming that Arsenal have ‘finally opened direct talks’ to sign Bruno Guimaraes this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-bruno-guimaraes-newcastle-repeats-desire-leave",
-      "publishedAt": "2026-08-03T11:10:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d8c21c6950e031",
-      "title": "Spurs make Osimhen approach - Monday's gossip",
-      "summary": "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n66edplno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T10:54:44.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "808abb6f2edfed",
-      "title": "What Vinicius Junior will tell Real Madrid this week as Arsenal receive boost over big obstacle",
-      "summary": "Vinicius Junior is still prioritising a contract renewal at Real Madrid but there is a boost for Arsenal, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/vinicius-junior-arsenal-real-madrid-future-biggest-obstacle",
-      "publishedAt": "2026-08-03T10:43:19.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "90b42a7fc58a00",
-      "title": "Michael Carrick ready to sanction Man Utd exit for teen sensation who rejected Arsenal deal",
-      "summary": "A striker who rejected the chance to stay at Arsenal and moved to Manchester United could be on his way out of Old Trafford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-chido-obi-transfer-latest",
-      "publishedAt": "2026-08-03T10:26:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8697749c780cb5",
-      "title": "The 15 best footballers out of contract in 2027…",
-      "summary": "Nobody wants to see valuable players a year away from free agency, especially not Ballon d’Or contenders.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-footballers-players-out-of-contract-in-summer-2027",
-      "publishedAt": "2026-08-03T10:26:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5e19b873ff3889",
-      "title": "Worn in the USA: Liverpool’s pre-season tour had highs but exposed glaring gaps in the squad | Andy Hunter",
-      "summary": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/03/liverpool-pre-season-usa-tour-exposed-squad-gaps",
-      "publishedAt": "2026-08-03T10:23:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "22058b9d4548ee",
-      "title": "PSG respond to first Liverpool offer for Bradley Barcola as ‘big factor’ emerges",
-      "summary": "French champions Paris Saint-Germain are set to reject a first offer for Bradley Barcola from Liverpool, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-bradley-barcola-psg-respond-first-offer",
-      "publishedAt": "2026-08-03T09:49:19.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "01090f75c2e266",
-      "title": "Aston Villa set-piece guru MacPhee joins Chelsea",
-      "summary": "Highly-rated set-piece coach Austin MacPhee joins Chelsea's pre-season tour in Hong Kong from Aston Villa.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T09:33:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0f039cc26090b7",
-      "title": "‘It’s my time’: Christos Tzolis fighting fit for Arsenal on return to England",
-      "summary": "The £34m signing from Club Brugge says he is a more complete player now after an indifferent time at Norwich For any Arsenal fan eager to know what Christos Tzolis migh...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/03/christos-tzolis-arsenal-premier-league-club-brugge",
-      "publishedAt": "2026-08-03T09:30:14.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Inter"
       ]
     }
   ],
