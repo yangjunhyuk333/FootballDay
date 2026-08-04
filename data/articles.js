@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-03T19:43:06.296Z",
+  "generatedAt": "2026-08-04T02:54:18.906Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,40 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "60f7af19e88e2e",
+      "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
+      "summary": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays f...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
+      "publishedAt": "2026-08-04T02:54:18.621Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9f4dc6f75e2b80",
+      "title": "UEFA threatens legal action against FIFA over Infantino World Cup plan",
+      "summary": "UEFA has threatened legal action against FIFA over Gianni Infantino's World Cup sell-off plan.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
+      "publishedAt": "2026-08-04T02:54:18.621Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
       "id": "16f5bf797d553b",
       "title": "Celtic learn CL opponents as Brighton discover European route",
       "summary": "Celtic will play Austrian champions LASK for a place in the league phase of the Champions League, while Brighton will face CFR Cluj or Tromso in the Conference League p...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569393/champions-league-europa-league-conference-league-play-off-draws-celtic-rangers-brighton-hearts-hibernian-motherwell-discover-opponents",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "publishedAt": "2026-08-04T02:54:18.620Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -117,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal's opening bid for Bruno Guimaraes has been rejected by Newcastle.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "publishedAt": "2026-08-04T02:54:18.620Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,77 +154,115 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "1d58814ec9e0c6",
-      "title": "Can Rashford be reintergrated at Man Utd?",
+      "title": "Rashford's future, Hall pursuit and Man Utd's midfield rebuild",
       "summary": "Marcus Rashford's future at Manchester United remains up in the air.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "60f7af19e88e2e",
-      "title": "Tzolis unfazed by Vini Jr rumours as fitness champion settles into Arsenal",
-      "summary": "At Arsenal, there is an excitement about whether Vinicius Jr could sign this summer. But on Saturday, they were given a decent reminder that Christos Tzolis now plays f...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13568811/christos-tzolis-interview-new-arsenal-signing-discusses-vinicius-jr-rumours-winning-the-pre-season-fitness-tests-and-leonidas-nickname",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "publishedAt": "2026-08-04T02:54:18.620Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Manchester"
       ]
     },
     {
-      "id": "9f4dc6f75e2b80",
-      "title": "FA set to withdraw support for Infantino as UEFA considers legal action",
-      "summary": "The Football Association is set to withdraw support for FIFA president Gianni Infantino.",
+      "id": "9849ba4644d75b",
+      "title": "Papers: Turkish side eyeing shock Rashford move",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569337/gianni-infantino-english-fa-set-to-withdraw-support-for-fifa-president-as-uefa-considers-legal-action",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
+      "url": "https://www.skysports.com/football/news/12040/13569563/marcus-rashford-transfer-news-fenerbahce-eye-shock-move-for-manchester-united-forward-paper-talk",
+      "publishedAt": "2026-08-04T02:54:18.619Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e8e504522caffa",
+      "title": "Fulham sign Garcia and Palacios from Real Madrid",
+      "summary": "Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T21:18:39.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T20:57:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a0db31385f33a6",
+      "title": "Liverpool stuff Iraola as FSG call off signing he requested",
+      "summary": "Liverpool will deny Andoni Iraola a signing he requested, with Sky Sports insisting FSG have told the Spaniard to ‘ride through the storm’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-stuff-andoni-iraola-fsg-pull-plug-defender-transfer",
+      "publishedAt": "2026-08-03T20:46:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "89389a343a4e11",
+      "title": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
+      "summary": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dqynxdezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T20:26:32.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f49121190db293",
+      "title": "LAFC co-managing owner Larry Berg voted as next MLS commissioner",
+      "summary": "Berg is a senior partner at private equity firm 26North Commissioner will take over on 1 January 2027 The Major League Soccer board of governors has voted to install Lo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/03/larry-berg-mls-commissioner-vote",
+      "publishedAt": "2026-08-03T20:23:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "c583c322df9f7a",
+      "title": "Monday Night Club: Fifa's climbdown, Vinicius to Arsenal and Newcastle's new era",
+      "summary": "Andros Townsend, Don Hutchison & Adam Crafton analyse football's biggest talking points.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p2gx1z?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T20:21:00.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
         "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "79844f07b185bd",
-      "title": "'Couldn't turn it down' - Chelsea confirm Henderson signing",
-      "summary": "Chelsea have confirmed the signing of England midfielder Jordan Henderson.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569179/jordan-henderson-transfer-news-chelsea-confirm-signing-of-midfielder-following-brentford-exit",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6bac9acd9f04f7",
-      "title": "'Made of muscles!' Why PSG want Japan goalkeeper Suzuki",
-      "summary": "Having been linked with a move to the Premier League, Zion Suzuki is set for a switch to European champions Paris Saint-German instead. It marks the completion of the 2...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13561579/zion-suzuki-to-psg-why-parma-and-japan-goalkeeper-is-in-demand-long-throws-catching-crosses-and-much-more",
-      "publishedAt": "2026-08-03T19:43:06.061Z",
-      "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Psg"
+        "Arsenal"
       ]
     },
     {
       "id": "16c762df6ac714",
-      "title": "More European countries withdraw support for Infantino as pressure intensifies",
+      "title": "More European countries’ FAs withdraw support for Infantino as pressure intensifies",
       "summary": "FA no longer endorses Fifa president for re-election Wales and Serbia join Finland in withdrawing backing European countries began turning their backs on Gianni Infanti...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/03/wales-become-first-nation-to-drop-support-for-fifa-president-gianni-infantino",
@@ -267,17 +333,17 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "895c61ce87d961",
       "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
-      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5m Henderson adds experience to Xabi Alonso’s squad Trevoh Chalobah’s long association with Chelsea is to end after Como...",
+      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5m Fulham sign Real Madrid’s Gonzalo García for £34m Trevoh Chalobah’s long association with Chelsea is to end after Como...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson",
       "publishedAt": "2026-08-03T17:30:01.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england spain",
       "tags": [
         "Football",
         "Premier League",
-        "World Cup",
-        "Transfer"
+        "Transfer",
+        "Chelsea"
       ]
     },
     {
@@ -379,19 +445,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "germany",
       "tags": [
         "Bundesliga"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T15:29:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -547,64 +600,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Inter"
-      ]
-    },
-    {
-      "id": "2f2d6f286c4f62",
-      "title": "Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030",
-      "summary": "Pochettino joined US national team in 2024 Coach led US to last 16 at 2026 World Cup US men’s national team head coach Mauricio Pochettino and the US Soccer Federation...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup",
-      "publishedAt": "2026-08-03T13:01:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8984cf8215120b",
-      "title": "Tottenham submit offer for winger as Euro giants reach decision on accepting transfer",
-      "summary": "Tottenham have made an offer to sign Benfica winger Andreas Schjelderup as their busy summer continues, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-submit-offer-schjelderup-benfica-reach-decision-accepting",
-      "publishedAt": "2026-08-03T12:56:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "2ee45a9533ce23",
-      "title": "‘They are terrified’: Como spark row with fans over controversial new stadium policy",
-      "summary": "Supporters must not miss more than three home games Serie A club’s chairman defends new rules Como, the surprise package of last season’s Serie A, who qualified for the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/03/they-are-terrified-como-spark-row-with-fans-over-controversial-new-stadium-policy",
-      "publishedAt": "2026-08-03T12:53:25.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "32806b0411a483",
-      "title": "Would Vinicius Junior to Arsenal be the biggest signing in Premier League history? Top ten ranked",
-      "summary": "Would Vinicius Junior to Arsenal be the biggest signing in Premier League history? We have ranked the current top ten and come to a conclusion.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-signing-premier-league-history-vinicius-arsenal-real-madrid",
-      "publishedAt": "2026-08-03T12:34:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
