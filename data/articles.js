@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-06T02:54:00.882Z",
+  "generatedAt": "2026-08-06T08:43:55.187Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,91 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "cfb77278dea1f2",
-      "title": "Did Arsenal show need for Bruno? What we learned from their loss to Real Betis",
-      "summary": "Did Arsenal show need for Bruno? What we learned from their loss to Real Betis",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-real-betis/live/555716",
-      "publishedAt": "2026-08-06T02:54:00.582Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "edb342d219264f",
-      "title": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
-      "summary": "Man City latest: Teenager Monga reveals why he joined City over Arsenal",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-06T02:54:00.582Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7404f92d29514b",
-      "title": "Bournemouth latest: Striker attracting interest after impressing in pre-season",
-      "summary": "Bournemouth latest: Striker attracting interest after impressing in pre-season",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-06T02:54:00.582Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "367986f211ccd0",
-      "title": "Infantino remains FIFA president following crisis meeting",
-      "summary": "Under-fire FIFA president Gianni Infantino has shaken off calls to resign - for now - with the backing of the governing body's leaders, though apologised for \"mistakes\"...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off",
-      "publishedAt": "2026-08-06T02:54:00.581Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "298b0f723b3082",
-      "title": "Everton latest: Norgaard completes move from Arsenal",
-      "summary": "Everton latest: Norgaard completes move from Arsenal",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-06T02:54:00.581Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "433a04645a7c0e",
-      "title": "Arsenal beaten by Real Betis in Dublin friendly",
-      "summary": "Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly in Dublin.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716",
-      "publishedAt": "2026-08-06T02:54:00.581Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "b147d0dc9e3ebb",
       "title": "Real Madrid improve Vinicius Jr offer amid Arsenal interest",
       "summary": "Real Madrid have improved their contract offer to Vinicius Junior amid interest from Arsenal.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570198/vinicius-junior-future-arsenal-target-set-to-stay-at-real-madrid-after-positive-contract-talks-over-new-deal",
-      "publishedAt": "2026-08-06T02:54:00.581Z",
+      "publishedAt": "2026-08-06T08:43:54.903Z",
       "category": "transfer",
       "region": "england spain italy",
       "tags": [
@@ -198,13 +119,470 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Thursday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570216/vinicius-junior-transfer-news-arsenal-feel-real-madrid-forward-increasingly-likely-to-stay-at-spanish-giants-paper-talk",
-      "publishedAt": "2026-08-06T02:54:00.581Z",
+      "publishedAt": "2026-08-06T08:43:54.903Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Transfer",
         "Arsenal",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "cfb77278dea1f2",
+      "title": "Did Arsenal show need for Bruno? What we learned from their loss to Real Betis",
+      "summary": "Did Arsenal show need for Bruno? What we learned from their loss to Real Betis",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-real-betis/live/555716",
+      "publishedAt": "2026-08-06T08:43:54.903Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "367986f211ccd0",
+      "title": "Infantino remains FIFA president following crisis meeting",
+      "summary": "Under-fire FIFA president Gianni Infantino has shaken off calls to resign - for now - with the backing of the governing body's leaders, though apologised for \"mistakes\"...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off",
+      "publishedAt": "2026-08-06T08:43:54.902Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "298b0f723b3082",
+      "title": "Everton latest: Norgaard completes move from Arsenal",
+      "summary": "Everton latest: Norgaard completes move from Arsenal",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-08-06T08:43:54.902Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "433a04645a7c0e",
+      "title": "Arsenal players 'fuming' after defeat to Real Betis in Dublin friendly",
+      "summary": "Mikel Arteta revealed his players were \"fuming\" after Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly i...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716",
+      "publishedAt": "2026-08-06T08:43:54.902Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6cf2945f91525e",
+      "title": "Muirhead comes out of retirement to chase another Winter Olympics gold",
+      "summary": "There have always been comebacks in sport, but some are more unexpected than others especially after a speedy and successful transition to another career.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/olympics/news/12040/13569665/eve-muirhead-winter-olympics-gold-medallist-to-come-out-of-retirement-as-she-aims-for-more-glory-in-2030",
+      "publishedAt": "2026-08-06T08:43:54.902Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "b6d527de3bb848",
+      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "summary": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "publishedAt": "2026-08-06T08:43:54.900Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "4dc550809e6c37",
+      "title": "Ten best wingers available this summer as Arsenal and Liverpool consider Barcola transfer",
+      "summary": "Arsenal and Liverpool target Bradley Barcola leads the way in this ranking of the top 10 best available wingers.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-wingers-available-this-summer-ranking-arsenal-liverpool-targets",
+      "publishedAt": "2026-08-06T08:33:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ea47ef7fb6a3b8",
+      "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
+      "summary": "Today’s rumours are prising open their war chest Aston Villa struggling to hold on to their World Cup stars has become something of a theme of this transfer window and...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool",
+      "publishedAt": "2026-08-06T08:26:43.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "112191c16ea7eb",
+      "title": "Barcelona place Man Utd star among top targets after Hansi Flick request",
+      "summary": "Barcelona boss Hansi Flick has requested the signing of a Manchester United star, with one move needed to occur before the top target can be signed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/hansi-flick-barcelona-requests-man-utd-star-martinez",
+      "publishedAt": "2026-08-06T08:19:37.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "6e6dadd77fce17",
+      "title": "Djed Spence reaches decision on joining Liverpool as Tottenham set price for sale",
+      "summary": "According to reports, England international Djed Spence wants to join Liverpool, while Tottenham Hotspur have set their asking price.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/djed-spence-reaches-decision-joining-liverpool-tottenham-set-price-sale",
+      "publishedAt": "2026-08-06T08:16:53.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2469b274137ed3",
+      "title": "Every Premier League manager’s contract and when it expires",
+      "summary": "We take a look at where every Premier League manager stands with their deal as so many big clubs make appointments.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/contracts-expiry-dates-premier-league-managers",
+      "publishedAt": "2026-08-06T08:15:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "330f45781e6093",
+      "title": "Premier League sack race: Incoming Newcastle boss already under pressure…",
+      "summary": "A new Premier League season is just around the corner which means a new Premier League Sack Race is just as close. The newest runner is already close to the ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
+      "publishedAt": "2026-08-06T08:02:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8e831a592719b1",
+      "title": "The best-paid managers in the Premier League: Glasner joint second!",
+      "summary": "Massive salaries are not just for the players and some of the top Premier League bosses earn multiple millions every year.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-best-paid-premier-league-managers-de-zerbi",
+      "publishedAt": "2026-08-06T08:01:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a22d5dc8158b81",
+      "title": "Mikel Arteta reveals ‘fuming’ Arsenal squad reaction to Real Betis loss; explains Christian Norgaard exit",
+      "summary": "Mikel Arteta has admitted that Arsenal’s players were “fuming” after they suffered a 3-1 loss to Real Betis in their latest friendly.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arteta-reveals-fuming-arsenal-squad-reaction-real-betis-loss-explains-norgaard-exit",
+      "publishedAt": "2026-08-06T07:48:38.000Z",
+      "category": "worldcup",
+      "region": "england spain",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7bf9aaeb4a3ae4",
+      "title": "Vinicius alternatives for Arsenal include Chelsea drugs cheat…",
+      "summary": "If not Vinicius Jnr for Arsenal, then who? Plus, why Liverpool are not weaker this season and Kobbie Mainoo is fine.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/vinincius-alternatives-arsenal-mailbox",
+      "publishedAt": "2026-08-06T07:45:53.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d0232b31af5c9a",
+      "title": "Carragher complains over Salah transfer as he’s dropped ‘a level too low’ after Liverpool",
+      "summary": "Liverpool legend Jamie Carragher has once again questioned fellow icon Mohamed Salah, stating his move to Trabzonspor is “a level too low.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carragher-complains-salah-level-too-low-trabzonspor",
+      "publishedAt": "2026-08-06T07:36:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man Utd, Arsenal deals off as Liverpool target England star",
+      "summary": "Manchester United and Arsenal are set to miss out on leading targets, while Liverpool have the opportunity to sign a Tottenham Hotspur star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-06T07:10:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2cf2ef423269f7",
+      "title": "Ranking the Big Eight (that’s a thing) by banter season potential",
+      "summary": "Is it Tottenham’s turn again? There’s definitely little potential for an Arsenal banter season. But Newcastle? Oh Newcastle.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-big-six-aston-villa-newcastl-likelihood-banter-season",
+      "publishedAt": "2026-08-06T07:09:59.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b6f2919c4054e1",
+      "title": "Arsenal: Romano reveals Vinicius Junior ‘agreement’ update after new Real Madrid offer",
+      "summary": "According to reports, Arsenal have missed out on Vinicius Junior, who has ‘reached an agreement’ to sign a new contract at Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-romano-reveals-vinicius-junior-agreement-update-new-real-madrid-offer",
+      "publishedAt": "2026-08-06T07:07:56.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "911bd258e0ab31",
+      "title": "Mourinho, Ferguson & search for new club - what next for Smalling?",
+      "summary": "Snubbing university, genetics testing for supplements, Sir Alex Ferguson and Jose Mourinho - Chris Smalling is not your ordinary footballer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935ng33l36o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T07:06:54.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "4519831233e709",
+      "title": "Alessia Russo: ‘When you join the club, you take on a part of Arsenal and the love’",
+      "summary": "The honorary Gooner’s game went up a level last season. Now, the forward wants to push on for more trophies, starting with the WSL Arms hooked over the bar at the front...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/06/alessia-russo-arsenal-england-wsl-football-interview",
+      "publishedAt": "2026-08-06T07:00:43.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "78866b0b5a8bdb",
+      "title": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body?",
+      "summary": "Gianni Infantino followed World Cup controversies with a widely scorned plan to let private investors in. Here’s how the game’s leaders can find a path forward How can...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/06/how-to-fix-fifa-gianni-infantino-world-cup",
+      "publishedAt": "2026-08-06T07:00:41.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b8d697b247ad41",
+      "title": "'Show me they want me' - will World Cup hero Torres stay at Barcelona?",
+      "summary": "Ferran Torres has come under fire from Barcelona supporters after leaving the door open to a potential move away from the club.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2r5v3ykjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:45:27.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "874a95cf916010",
+      "title": "Arsenal £68m pair in bargain transfer XI of the summer so far",
+      "summary": "Morgan Rogers, Elliot Anderson and Sandro Tonali have all found new clubs with massive £100m-adjacent transfer fees, but what about the bargain players?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-bargain-transfer-xi-summer",
+      "publishedAt": "2026-08-06T06:36:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "639bb7d6a3913f",
+      "title": "Salah given hero's welcome before Trabzonspor move",
+      "summary": "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:21:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "695abf672fbdee",
+      "title": "Bradley Barcola reaches decision on joining Liverpool or Arsenal after Vinicius Junior failure",
+      "summary": "Barcola has a clear preference on who he wishes to join out of Arsenal and Liverpool, with the former now expected to make a renewed push after seeing their attempts ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bradley-barcola-reaches-decision-joining-liverpool-or-arsenal-vinicius-junior-failure",
+      "publishedAt": "2026-08-06T06:17:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "27161275b989a7",
+      "title": "Players who turned World Cup heroics into big transfers",
+      "summary": "BBC Sport looks back at some of the players whose standout performances at the World Cup earned a big transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj4kqdy4w4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:16:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-08-06T06:15:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "90789267aae5ef",
+      "title": "Uganda international Owori murdered in street gang attack",
+      "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:04:28.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-08-06T06:03:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a40bac43bdb79d",
+      "title": "Who am I? Guess Premier League star No 17",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77g61zp83ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T06:01:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7d3b75e68be633",
+      "title": "A wanted man - but would Liverpool's Gakpo be a good fit at Spurs?",
+      "summary": "The data behind Tottenham's interest in Liverpool forward Cody Gakpo and how he could fit into Roberto de Zerbi’s side.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98vnel56q6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:36:11.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1e6516f5dd61b7",
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T23:28:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
       ]
     },
     {
@@ -220,385 +598,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "World Cup",
         "Fifa"
-      ]
-    },
-    {
-      "id": "2d77c1d40a3590",
-      "title": "Mykhailo Mudryk returns in Chelsea defeat as Real Betis see off Arsenal",
-      "summary": "Chelsea beaten 1-0 by Juventus in Hong Kong friendly Arsenal defeated 3-1 by Real Betis in Dublin Xabi Alonso hailed Mykhailo Mudryk’s “emotional” return from a doping...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/05/mykhailo-mudryk-chelsea-juventus-arsenal-real-betis-friendly-milan-tribute-franco-baresi",
-      "publishedAt": "2026-08-05T22:13:02.000Z",
-      "category": "issue",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea",
-        "Milan"
-      ]
-    },
-    {
-      "id": "70e1938410a75c",
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T21:37:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "083e52a13060f4",
-      "title": "Everton sign midfielder Norgaard from Arsenal",
-      "summary": "Everton sign Denmark midfielder Christian Norgaard from Arsenal on a two-year contract for a reported fee of £7m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T21:18:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a5964bd3240051",
-      "title": "Defender Walker 'at ease' with England retirement",
-      "summary": "Former England defender Kyle Walker says he is \"at ease\" with his decision to quit international football and hoped it could lead to an extended club career, similar to...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kn37gj82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T21:18:14.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c4f143c015c559",
-      "title": "Fabrizio Romano confirms Vinicius Junior decision on Arsenal or Real Madrid",
-      "summary": "Arsenal have discovered whether Vinicius Junior will be leaving Real Madrid to move to the Emirates, as per Fabrizio Romano",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/vinicius-junior-arsenal-transfer-news-fabrizio-romano-real-madrid-contract",
-      "publishedAt": "2026-08-05T20:36:35.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "fdd9c9df50416a",
-      "title": "NWSL sets plans for early start, summer break next season to account for 2027 World Cup",
-      "summary": "Opening day is 11 February, in line with LA Super Bowl World Cup, MLS shift offer opportunities and challenges League explores options after Victory+ streamer collapse...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/05/nwsl-2027-schedule-womens-world-cup",
-      "publishedAt": "2026-08-05T20:34:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e217c0058799fe",
-      "title": "Real Madrid agree £120m Diomande deal - Thursday's gossip",
-      "summary": "Real Madrid reach £120m agreement for Yan Diomande, Liverpool explore move for Ibrahim Mbaye and Aston Villa reach agreement to sign Matteo Ruggeri.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr59z307my1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T20:17:47.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "a6ee380f286071",
-      "title": "‘Fifa Super League’: Infantino discussed having governing body’s name on European breakaway",
-      "summary": "Document shows Fifa staff were involved in project Fifa was prepared to sideline member associations Gianni Infantino held talks about rebranding the ill-fated European...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/05/fifa-super-league-gianni-infantino-wanted-governing-body-name-european-breakaway",
-      "publishedAt": "2026-08-05T19:19:47.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3d20cff53a1e9e",
-      "title": "Real Madrid agree club-record £115m deal for Yan Diomande and want to keep Vinícius",
-      "summary": "Forward becomes most expensive African player Club are in positive talks with Vinícius Júnior Real Madrid have agreed a club-record fee of €135m (£115.7m) with RB Leipz...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
-      "publishedAt": "2026-08-05T19:12:01.000Z",
-      "category": "transfer",
-      "region": "england spain italy germany",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "13b7be17292d09",
-      "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
-      "summary": "Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup",
-      "publishedAt": "2026-08-05T19:00:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "2e3c0474a55627",
-      "title": "Arsenal to make fresh bid for leading target after Romano teases next two signings after Guimaraes",
-      "summary": "According to reports, Arsenal are ‘set’ to make a ‘fresh bid’ for Aston Villa star Ezri Konsa after Fabrizio Romano issued an update on their business.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-fresh-bid-leading-target-romano-teases-next-two-signings-guimaraes",
-      "publishedAt": "2026-08-05T18:59:28.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c4cdbcefa373e2",
-      "title": "Man Utd told to offer £60m to sign Juventus star as Ornstein reveals INEOS’ two transfer priorities",
-      "summary": "David Ornstein has revealed Manchester United’s “two main” transfer priorities, while they have been told to offer £60m to sign a Juventus star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-told-offer-60m-sign-juventus-star-ornstein-reveals-ineos-two-transfer-priorities",
-      "publishedAt": "2026-08-05T18:24:16.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "ca484c82d2db2e",
-      "title": "Real Madrid make Vinicius Jr improved contract offer",
-      "summary": "Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T17:59:01.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "36a1b7067104d1",
-      "title": "David Ornstein rates Arsenal’s chances of signing Vinicius Junior; reveals Real Madrid ‘improved offer’",
-      "summary": "David Ornstein has rated Arsenal’s chances of signing Vinicius Junior, while he has revealed details of Real Madrid’s new ‘improved offer’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/david-ornstein-rates-arsenal-chances-signing-vinicius-junior-real-madrid-improved-offer",
-      "publishedAt": "2026-08-05T17:39:38.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "7f4ac82b1283e6",
-      "title": "Liverpool raise offer for Barcola as L’Equipe reporter predicts deal will get done – ‘I’m inclined to say yes’",
-      "summary": "According to reports, Liverpool have raised their offer for Paris Saint-Germain star Bradley Barcola and a L’Equipe journalist has backed the Reds to sign him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-raise-offer-barcola-lequipe-reporter-deal-will-get-done",
-      "publishedAt": "2026-08-05T16:42:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f875b206478afc",
-      "title": "Chelsea lose friendly as Juventus score stunning winner",
-      "summary": "Watch highlights as Chelsea suffer a narrow defeat in a friendly match by Juventus in Hong Kong thanks to a wonderful goal by Edon Zhegrova.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62qvzn4zx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T16:16:08.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "db6a2340ca22ae",
-      "title": "Vinicius Junior ‘expected’ outcome after Real Madrid meeting revealed as Arsenal match demands",
-      "summary": "Arsenal have reportedly ‘matched’ Vinicius Junior’s ‘wage demands’, but he is ‘still expected’ to remain at Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/vinicius-junior-expected-outcome-real-madrid-meeting-arsenal-match-demands",
-      "publishedAt": "2026-08-05T16:09:14.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "45e203e54a6146",
-      "title": "Parkinson gets England-U20s call before World Cup",
-      "summary": "Midfielder Erica Meg Parkinson, 18, has been named in England's preparation squad for the Under-20 Women's World Cup in Poland next month.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd0xk2n23ymo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T16:03:10.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "da223190f29786",
-      "title": "Palace set to sign Tomiyasu and consider March deal",
-      "summary": "Crystal Palace are set to sign Takehiro Tomiyasu on a free transfer following a successful trial and are considering a move for winger Solly March.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c629njd9npxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T15:51:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "dd461c47fa30ba",
-      "title": "Arsenal strike Vinicius Junior terms agreement as Real Madrid contract talks break down",
-      "summary": "There are conflicting reports over the future of Vinicius Junior, with one source claiming Arsenal have advanced towards the transfer",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/vinicius-junior-arsenal-agreement-personal-terms-real-madrid-contract-talks-fail",
-      "publishedAt": "2026-08-05T15:50:39.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "51489715d3aab4",
-      "title": "Rejecting Arsenal & emulating Hazard - Monga makes debut in Man City win",
-      "summary": "Jeremy Monga's £10m move from Leicester to Manchester City may have gone under the radar this summer, but the teenager's own career is not expected to go in quite the s...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg69n123jwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T15:22:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3a8ae01a6052e6",
-      "title": "Man Utd willing to pay £60m to sign Lewis Hall after Newcastle decision on sale",
-      "summary": "According to reports, Manchester United would be ‘willing’ to pay £60m to sign Lewis Hall from Newcastle United this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-willing-pay-60m-sign-lewis-hall-newcastle-decision-sale",
-      "publishedAt": "2026-08-05T14:52:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b4581793f74b5b",
-      "title": "No WSL experience but who is new Man Utd boss Olid?",
-      "summary": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4k0ep23vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T14:44:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "eb94d216985061",
-      "title": "Jamie Carragher backs Big Six side to beat Arsenal to PL title but two rivals ‘won’t win the league’",
-      "summary": "Liverpool legend Jamie Carragher has explained why he thinks Manchester City will beat Arsenal in the race to win the Premier League this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jamie-carragher-backs-man-city-beat-arsenal-win-pl-title-liverpool-man-utd",
-      "publishedAt": "2026-08-05T14:15:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "744c58cdcce5cb",
-      "title": "‘Dream come true’: Eva Olid delighted after being named Manchester United’s new head coach",
-      "summary": "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester U...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/05/manchester-united-women-appoint-eva-olid-new-head-coach",
-      "publishedAt": "2026-08-05T14:10:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d549f4174d6fae",
-      "title": "Vinicius Junior arrival now a done deal in the Arsenal dressing room amid imminent decision",
-      "summary": "The Arsenal squad now reportedly consider the Vinicius Junior deal ‘done’ with the Real Madrid star in the ‘final stage’ of his saga.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/vinicius-junior-arsenal-done-deal-real-madrid-imminent-announcement",
-      "publishedAt": "2026-08-05T13:54:50.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "feb9b37851209e",
-      "title": "Newcastle tell Man Utd that £69m star can leave but Magpies could now be faced with loan offers",
-      "summary": "Newcastle have told Man Utd and other interested clubs that Nick Woltemade is available for sale this summer, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-man-utd-woltemade-tell-leave-loan-offers",
-      "publishedAt": "2026-08-05T13:25:48.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
