@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-07T00:05:50.269Z",
+  "generatedAt": "2026-08-07T07:22:17.586Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "ef05ecd61b3db0",
-      "title": "The Vinicius Junior dream is over - so what do Arsenal do now?",
-      "summary": "No Morgan Rogers, no Vinicius Junior - what do Arsenal do now in their bid to improve their forward line this summer?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570357/arsenal-transfer-news-what-do-gunners-do-now-after-vinicius-jr-commits-to-new-real-madrid-contract",
-      "publishedAt": "2026-08-07T00:05:50.036Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "ceabe7c52145c9",
       "title": "Vinicius Jr signs Real Madrid extension to end Arsenal interest",
       "summary": "Vinicius Junior has signed a new six-year Real Madrid contract to put an end to Arsenal's pursuit of the forward.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570470/vinicius-junior-arsenal-target-signs-real-madrid-contract-extension-to-end-uncertainty-over-future",
-      "publishedAt": "2026-08-07T00:05:50.036Z",
+      "publishedAt": "2026-08-07T07:22:17.453Z",
       "category": "transfer",
       "region": "england spain italy",
       "tags": [
@@ -132,7 +119,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570526/ezri-konsa-transfer-liverpool-set-to-rival-arsenal-for-aston-villa-and-england-defender-paper-talk",
-      "publishedAt": "2026-08-07T00:05:50.036Z",
+      "publishedAt": "2026-08-07T07:22:17.453Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -142,41 +129,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1fa408dff64d73",
-      "title": "Players union slams FIFA 'abuse of power' as UEFA doubles down on boycott",
-      "summary": "The world players' union FIFPRO has condemned Gianni Infantino's \"abuse of presidential power\" and called for change at the top of FIFA following his botched World Cup...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott",
-      "publishedAt": "2026-08-07T00:05:50.036Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "842703dd8d324c",
-      "title": "Barcelona join Real Madrid in race for Man City's Rodri",
-      "summary": "Barcelona are set to approach Man City for midfielder Rodri and are hopeful they can beat their LaLiga rivals to the signing of the Spain captain, Sky Sports News under...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570426/rodri-transfer-news-barcelona-target-man-city-and-spain-star-wanted-by-real-madrid",
-      "publishedAt": "2026-08-07T00:05:50.036Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": "9d5e1abb46197f",
       "title": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
       "summary": "Hearts endured a predictably bruising evening in Lisbon as their hopes of progressing to the Europa League were all but ended by a 6-1 thrashing at the hands of Benfica.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki",
-      "publishedAt": "2026-08-07T00:05:50.035Z",
+      "publishedAt": "2026-08-07T07:22:17.452Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -184,9 +142,182 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "557898086575af",
+      "title": "Why Liverpool are ready to put their faith in the 'real deal' Jacquet",
+      "summary": "Liverpool have big hopes for Jeremy Jacquet having invested £60m to bring the highly regarded young central defender to Anfield this summer. That faith looks well place...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570137/jeremy-jacquet-why-liverpool-are-ready-to-put-their-faith-in-60m-france-centre-back",
+      "publishedAt": "2026-08-07T07:22:17.452Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ef05ecd61b3db0",
+      "title": "The Vinicius Junior dream is over - so what do Arsenal do now?",
+      "summary": "No Morgan Rogers, no Vinicius Junior - what do Arsenal do now in their bid to improve their forward line this summer?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570357/arsenal-transfer-news-what-do-gunners-do-now-after-vinicius-jr-commits-to-new-real-madrid-contract",
+      "publishedAt": "2026-08-07T07:22:17.452Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "da87ebfde6f864",
+      "title": "Romano reveals ‘only’ way Lewis Hall can join Man Utd as INEOS give green light for loan deal",
+      "summary": "Fabrizio Romano claims there is ‘only’ one way for Manchester United to sign Lewis Hall, while INEOS are to allow a loan exit.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/romano-reveals-only-way-lewis-hall-can-join-man-utd-ineos-green-light-loan-deal",
+      "publishedAt": "2026-08-07T07:19:26.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dcb9ab68f727ca",
+      "title": "Behind Milburn’s magic: Wor Jackie was a pit village hero and ‘everybody’s friend’ in Newcastle",
+      "summary": "A new book details the footballer’s Ashington upbringing, his shyness and the work ethic that set him apart Of all the footballers who have worn the black and white, th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/jackie-milburn-pit-village-ashington-newcastle",
+      "publishedAt": "2026-08-07T07:00:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e76ec9afd5e25d",
+      "title": "Podcast: European reaction & big predictions before massive Scottish football weekend",
+      "summary": "Scottish Premiership preview with Charlotte Cohen, Scott Allan and Cammy Kerr",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p35yh7?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T07:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "1a5bdc9a2b9e45",
+      "title": "Caldentey embraces 'cool' pressure as Arsenal target Treble",
+      "summary": "Midfielder Mariona Caldentey explains why Arsenal, strengthened by seven new players, are talking up their chances of winning the Treble this season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T06:27:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f521aa77380f7e",
+      "title": "39 moves across five countries - football's ultimate journeyman",
+      "summary": "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T06:21:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c54d54c6a977c3",
+      "title": "Have Manchester United made the signing of the season?",
+      "summary": "We are deep in Premier League predictions territory here, with the latest predicting Chelsea or Spurs will completely implode. Why not both?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-signing-season-youri-tielemans-mailbox",
+      "publishedAt": "2026-08-07T06:13:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d53615abacd191",
+      "title": "Liverpool reach decision on signing Djed Spence after Tottenham star gives green light",
+      "summary": "Liverpool have reportedly reached a ‘firm’ decision on whether to sign Tottenham Hotspur star Djed Spence, who is keen to join.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-reach-decision-signing-djed-spence-tottenham",
+      "publishedAt": "2026-08-07T06:08:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6ce347ac70c0b6",
+      "title": "Are all three promoted sides doomed to Premier League relegation?",
+      "summary": "Staying up is tougher than ever but are all three promoted sides certain to go straight back down?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/promoted-sides-doomed-premier-league-relegation",
+      "publishedAt": "2026-08-07T06:03:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "043f0ceb3d938f",
+      "title": "Who am I? Guess Premier League star No 18",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dne1893elo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T05:39:30.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "090a458c5204c6",
+      "title": "Who will exit Chelsea? How Blues could cut 41-man squad",
+      "summary": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad. But who could be heading out?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T05:34:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "14fdca7037f5e7",
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T01:57:02.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
       "id": "aaec9a4253b204",
       "title": "Old habits haunt Rangers in early McInnes tenure",
-      "summary": "Derek McInnes says Rangers were \"guilty of beating ourselves\" as he bemoaned the loss of cheap goals in the Europa League qualifying first-leg defeat to Jagiellonia Bia...",
+      "summary": "Derek McInnes says Rangers were \"guilty of beating ourselves\" as his side conceded cheap goals in the Europa League first-leg defeat to Jagiellonia Bialystok.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0kmd62el06o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T22:30:52.000Z",
@@ -432,20 +563,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "14fdca7037f5e7",
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T16:11:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
       "id": "adac6a42a0d2f9",
       "title": "Doku's new deal, Gonzalez to stay - what's latest on Man City transfers?",
       "summary": "Winger Jeremy Doku is the latest Manchester City player to commit his future to the club after signing a new contract until 2031.",
@@ -486,132 +603,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "World Cup",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "cd99dc6d50d226",
-      "title": "£35m Tottenham star has now been ‘offered’ to Man Utd against De Zerbi’s wishes",
-      "summary": "Manchester United have been offered the chance to sign a Tottenham Hotspur and England international star, according to a journalist.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-tottenham-hotspur-djed-spence-transfer-latest",
-      "publishedAt": "2026-08-06T15:00:48.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6262237b035e33",
-      "title": "Real Madrid sign Diomande in deal worth up to £120m",
-      "summary": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m).",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T14:58:56.000Z",
-      "category": "transfer",
-      "region": "spain italy germany",
-      "tags": [
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "737b9931cd730b",
-      "title": "Football Daily | The Argentinian FA has a date for your diary, whether you want it or not",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! There are at least 6,001 days in the year. Days occur at a rate of approximately 16.5 days a day. This is confusing,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/06/football-daily-email-argentina-days",
-      "publishedAt": "2026-08-06T14:54:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "db71f1eefcd2e5",
-      "title": "Man Utd: Jacobs names three ‘most viable’ targets to be third midfield signing – ‘they can get’",
-      "summary": "Reporter Ben Jacobs has revealed Manchester United’s three “most viable” targets to be their third midfield summer signing.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-jacobs-names-three-most-viable-targets-third-midfield-signing",
-      "publishedAt": "2026-08-06T14:52:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4d6ddfe5517822",
-      "title": "UEFA say Infantino apology ‘changes nothing’ as they have no ‘faith’ in FIFA president",
-      "summary": "UEFA have told Gianni Infantino than his apology “changes nothing” and the FIFA president still does not have the “faith” of the European body.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/uefa-infantino-apology-changes-nothing-no-faith-fifa-president",
-      "publishedAt": "2026-08-06T14:51:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "deffbf423be1c9",
-      "title": "Uefa maintains World Cup boycott still stands despite Fifa’s backing for Infantino",
-      "summary": "European body says Fifa statement ‘changes nothing’ Fifpro condemns ‘profound abuse of presidential power’ Uefa has doubled down on its threat to boycott Fifa-run compe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/06/uefa-world-cup-boycott-still-stands-gianni-infantino",
-      "publishedAt": "2026-08-06T14:45:06.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "681cd55c7429ce",
-      "title": "Forlan agrees to become interim Uruguay head coach",
-      "summary": "Former Manchester United striker Diego Forlan agrees to become the new Uruguay coach on an interim basis.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrddd2y2no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T14:38:33.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "142dba1a377e67",
-      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-      "publishedAt": "2026-08-06T14:30:32.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a780970ea1bc1d",
-      "title": "Tottenham told unlikely route in which they could ‘push’ for title as ‘perfect’ striker identified",
-      "summary": "Tottenham have been told they’re an elite striker away from pushing for the Premier League title, as a former scout has told them one man would have been “perfect.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-told-push-title-perfect-striker-harry-kane-ivan-toney",
-      "publishedAt": "2026-08-06T14:19:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
