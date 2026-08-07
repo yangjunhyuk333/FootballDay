@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:13:12.747Z",
+  "generatedAt": "2026-08-07T19:02:54.329Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Assistant referee Sian Massey-Ellis has retired from officiating and will take up a new role with the Football Association.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570628/sian-massey-ellis",
-      "publishedAt": "2026-08-07T13:13:12.602Z",
+      "publishedAt": "2026-08-07T19:02:54.004Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,29 +112,29 @@
       ]
     },
     {
-      "id": "5ae5ae76fab9e4",
-      "title": "Kim header gives Bayern Munich the lead vs Aston Villa LIVE!",
-      "summary": "Kim header gives Bayern Munich the lead vs Aston Villa LIVE!",
+      "id": "fa3afe4635bdba",
+      "title": "Doyle: Thunder Call a big player in Ascot's Shergar Cup",
+      "summary": "Our ambassador Hollie Doyle, who was the leading rider at the 2023 Shergar Cup, runs the rule over Saturday's international contest at Ascot - live on Sky Sports Racing.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news",
-      "publishedAt": "2026-08-07T13:13:12.602Z",
+      "url": "https://www.skysports.com/racing/news/12040/13570698/hollie-doyle-expect-thunder-call-to-play-a-part-in-shergar-cup-at-ascot-live-on-sky-sports-racing-on-saturday",
+      "publishedAt": "2026-08-07T19:02:54.003Z",
       "category": "transfer",
-      "region": "germany",
+      "region": "italy",
       "tags": [
-        "Bayern"
+        "Inter"
       ]
     },
     {
-      "id": "9d5e1abb46197f",
-      "title": "Hearts humbled by Benfica as Hibs secure vital win; Motherwell held in Helsinki",
-      "summary": "Hearts endured a predictably bruising evening in Lisbon as their hopes of progressing to the Europa League were all but ended by a 6-1 thrashing at the hands of Benfica.",
+      "id": "e46f6f8694887e",
+      "title": "Newcastle stand firm on Hall after rejecting Man Utd approach",
+      "summary": "Newcastle United have told Manchester United that full-back Lewis Hall is not for sale this summer, after an initial enquiry was rejected.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570541/benfica-thrash-hearts-as-hibernian-beat-shkendija-motherwell-earn-valuable-draw-at-hjk-helsinki",
-      "publishedAt": "2026-08-07T13:13:12.602Z",
+      "url": "https://www.skysports.com/football/news/12040/13570700/lewis-hall-transfer-news-newcastle-tell-man-utd-left-back-is-not-for-sale-this-summer",
+      "publishedAt": "2026-08-07T19:02:54.003Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Europa League"
+        "Manchester"
       ]
     },
     {
@@ -143,12 +143,334 @@
       "summary": "Manchester City have knocked back an initial offer from Barcelona for Rodri that is considered far too low.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low",
-      "publishedAt": "2026-08-07T13:13:12.601Z",
+      "publishedAt": "2026-08-07T19:02:54.003Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Manchester",
         "Barcelona"
+      ]
+    },
+    {
+      "id": "b6d527de3bb848",
+      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "summary": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "publishedAt": "2026-08-07T19:02:54.002Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "087e62640c0a36",
+      "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
+      "summary": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
+      "publishedAt": "2026-08-07T19:02:54.002Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "d2e04739687e56",
+      "title": "Sky Sports insiders drop huge update on Bradley Barcola to Liverpool after deal in principle report",
+      "summary": "Sky Sports insiders Amar Mehta and Vinny O’Connor have given the latest on Bradley Barcola to Liverpool after a report claimed they’d agreed a deal in principle with Pa...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/sky-sports-huge-update-bradley-barcola-deal-principle",
+      "publishedAt": "2026-08-07T18:57:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2963a6377b8b35",
+      "title": "Middlesbrough v Wrexham: Carabao Cup first round – live",
+      "summary": "⚽ League Cup updates, 8pm BST kick-off at the Riverside ⚽ Follow on TikTok | Sign up for Football Daily | Mail Billy We’re 10 minutes from kick-off at the Riverside. Th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/aug/07/middlesbrough-v-wrexham-carabao-cup-first-round-live",
+      "publishedAt": "2026-08-07T18:50:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "4cc7bae0d0c7be",
+      "title": "Coventry sign Ghana's Yirenkyi for record fee",
+      "summary": "Premier League newcomers Coventry City have completed the club-record signing of Ghana midfielder Caleb Yirenkyi.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4kgprjzx2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T18:37:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "d2533536bd71ef",
+      "title": "Politicians, private jets and power - the life of a Fifa president",
+      "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T17:45:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "4cb8befaa1cf45",
+      "title": "'Critically important' summit called on future of Scottish football",
+      "summary": "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cglj813z9rro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T17:06:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "bac51a01da2209",
+      "title": "Man City make Rodri decision after ‘derisory’ offer from Barcelona",
+      "summary": "Manchester City have made a short-term call on midfield superstar Rodri after Barcelona made their opening offer for him – a “derisory” one.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-rodri-decision-derisory-barcelona-offer",
+      "publishedAt": "2026-08-07T16:58:07.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4762c3b283ec97",
+      "title": "The Guardian view on Gianni Infantino: in the interests of the game he professes to love, he should go | Editorial",
+      "summary": "The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds insult to injury “How did you go bankrup...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go",
+      "publishedAt": "2026-08-07T16:57:07.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0a2ca2ab47a417",
+      "title": "I love football, so I support lots of clubs | Letters",
+      "summary": "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J Friedlander I read Luke McLaughlin’s article...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs",
+      "publishedAt": "2026-08-07T16:56:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "89c7daa7e32013",
+      "title": "Newcastle chief explains how Guimaraes convinced them to sell him to Arsenal – ‘We didn’t want to’",
+      "summary": "Newcastle sporting director Ross Wilson has explained how Bruno Guimaraes got the club to sell him to Arsenal, though they “didn’t want to.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/newcastle-chief-reveals-guimaraes-plea-accept-arsenal-transfer",
+      "publishedAt": "2026-08-07T16:22:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b549c03db0cd07",
+      "title": "France set to take part in U20 Women's World Cup despite Uefa boycott threat",
+      "summary": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T15:35:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "18fc02af9a70b8",
+      "title": "Arsenal to send ‘very high offer’ for Vinicius Jr alternative from Euro giants",
+      "summary": "Arsenal are said to be plotting a ‘very high offer’ for a European giant superstar after learning Vinicius Junior won’t be joining from Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-very-high-offer-euro-giant-superstar-vinicius-jr-failure",
+      "publishedAt": "2026-08-07T15:15:15.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "bc2469c87c9f23",
+      "title": "Man Utd bigwigs Vivell and Wilcox divided over signing £50m midfielder",
+      "summary": "Manchester United director of recruitment Christopher Vivell and director of football Jason Wilcox are divided over signing a Frenchman.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-christopher-vivell-jason-wilcox-manu-kone",
+      "publishedAt": "2026-08-07T15:13:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a2dfef9fbe898a",
+      "title": "Barca cancel friendly in Morocco after Ceuta border crisis",
+      "summary": "Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0nyrdq1r1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T15:11:48.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T14:08:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e013723af88a97",
+      "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
+      "summary": "Mourinho reportedly unhappy over Barça hijack City ready to seal deal for Morocco star Bouaddi Manchester City have rejected an offer of £38.5m (€45m) from Barcelona fo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue",
+      "publishedAt": "2026-08-07T14:02:12.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "162a23b3f09773",
+      "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
+      "publishedAt": "2026-08-07T13:53:18.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Liverpool achieve Barcola breakthrough as Man Utd turn to Hall alternative",
+      "summary": "Liverpool have reportedly achieved a huge breakthrough for Bradley Barcola, while Manchester United are willing to activate a release clause.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-07T13:29:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a319ba9d7f58cc",
+      "title": "Ornstein reveals Man City price to sell Rodri to Barcelona; Romano claims successor ‘very close’",
+      "summary": "David Ornstein has revealed how much Manchester City want for Rodri after FC Barcelona reportedly had an opening offer rejected.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ornstein-reveals-man-city-price-sell-rodri-barcelona-romano-claims-replacement-very-close",
+      "publishedAt": "2026-08-07T13:27:15.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "8149322e2e0282",
+      "title": "Perimeter walls around pitches banned after Vigar death",
+      "summary": "The Football Association has banned solid perimeter walls around pitches after a safety review following the death of former Arsenal youth player Billy Vigar.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74gwz54jedo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T13:24:10.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "44a4dea128098f",
+      "title": "Why can't the Premier League attract the world's best players?",
+      "summary": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T13:22:20.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "40618159b4ffaa",
+      "title": "When is the EFL Cup second-round draw?",
+      "summary": "The second-round draw of the EFL Cup takes place on Monday, with 11 Premier League teams entering the competition.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T13:17:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -177,19 +499,6 @@
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T12:42:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -285,313 +594,6 @@
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "40fdca69b1a856",
-      "title": "Assistant referee Massey-Ellis retires to take FA role",
-      "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T11:26:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "4954a346c44578",
-      "title": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
-      "summary": "‘There is no way back for him,’ says NFF president Infantino still battling for support around the world The Norwegian FA will ask Gianni Infantino to resign with immed...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign",
-      "publishedAt": "2026-08-07T11:15:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "459a0e395616f2",
-      "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
-      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England footballer Ivan Toney has been charged with assau...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident",
-      "publishedAt": "2026-08-07T11:03:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a5e6c187a4f2d9",
-      "title": "Liverpool reach agreement in principle with PSG to sign Bradley Barcola with contract also sealed",
-      "summary": "According to reports, Liverpool have now reached an ‘agreement in principle’ with Paris Saint-Germain over signing Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-reach-agreement-psg-sign-bradley-barcola-contract-sealed",
-      "publishedAt": "2026-08-07T11:02:11.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "b549c03db0cd07",
-      "title": "Uefa boycott right thing for future of game - Bronze",
-      "summary": "England international Lucy Bronze says a Uefa boycott of Fifa competitions would be the \"right thing\" for the future of the game.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T10:43:06.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Fifa",
-        "Uefa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "73e62a328f375e",
-      "title": "Liverpool tipped to hijack Nottingham Forest to sign £34m star after deal was nearly done this week",
-      "summary": "Liverpool could reportedly make a move to hijack Nottingham Forest in the race to sign Sporting Lisbon star Ousmane Diomande.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-tipped-hijack-nottingham-forest-sign-34m-star",
-      "publishedAt": "2026-08-07T10:37:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "93836ccd9921fe",
-      "title": "Tipgate dominates agenda despite Nunez heading for ‘Liverpool reunion’ and deepening Arsenal woe",
-      "summary": "Vinicius Jr isn’t joining Arsenal, who are still obviously in crisis after losing one pre-season game, but there’s a new and even bigger story emerging.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-crisis-vinicius-junior-liverpool-reunion-transfers-tipgate-mediawatch",
-      "publishedAt": "2026-08-07T10:16:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ef1cc0a88c4e20",
-      "title": "Lewis-Skelly's push to start in midfield for Arsenal",
-      "summary": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T10:07:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "429436eb5118d7",
-      "title": "What are the key dates for the women's football season?",
-      "summary": "BBC Sport's Ask Me Anything team details the key dates are for the 2026-27 women's football season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxe311vkw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T10:03:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b45ef19bdb1a63",
-      "title": "Man Utd willing to activate clause to sign Lewis Hall alternative after Michael Carrick ‘approves’ deal",
-      "summary": "After finalising their sixth summer signing, Manchester United are now reportedly ‘willing to meet the price’ to sign left-back Jorge Salinas.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-willing-activate-clause-sign-hall-alternative-carrick-approves-deal",
-      "publishedAt": "2026-08-07T09:57:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2b74b8233282fa",
-      "title": "‘Possibility’ Liverpool midfielder will ‘go to Leeds United’ this summer – insider",
-      "summary": "A former Everton CEO believes that a Liverpool player could end up at Leeds United in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-harvey-elliott-leeds-united",
-      "publishedAt": "2026-08-07T09:40:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "15791a94577470",
-      "title": "Mexico and Argentina line up behind Infantino to deepen football’s civil war",
-      "summary": "Mexico breaks ranks with Concacaf to support Fifa chief Growing speculation country will switch to Conmebol The Mexican football federations have broken ranks with the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa",
-      "publishedAt": "2026-08-07T09:33:49.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "14463aa914a261",
-      "title": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
-      "summary": "Today’s rumours wonder what it’s got to do with Aberdeen Twenty-five years after Sol Campbell’s move from White Hart Lane to Highbury , are we finally getting a sequel?...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter",
-      "publishedAt": "2026-08-07T09:32:37.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "b6fde9d37f16ab",
-      "title": "Meet the man with a museum of footballs",
-      "summary": "Simon Francis has collected more than 80 Mitre footballs which he displays above his stairs.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cg5lvrz77zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T09:24:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "40e5f2b6064dd1",
-      "title": "Next Man City signing at final stage as Romano confirms Rodri, Barcelona terms ‘agreement’",
-      "summary": "Fabrizio Romano has revealed how much Barcelona are willing to pay to sign Rodri after the Manchester City star ‘agreed’ terms with the Spanish giants.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-transfer-final-stage-romano-reveals-barcelona-rodri-update",
-      "publishedAt": "2026-08-07T09:06:52.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "47eb6807838b2f",
-      "title": "Liverpool not pursuing Spence move - Friday's gossip",
-      "summary": "Liverpool have no intention of pursuing Djed Spence this summer, Juventus looking to secure Joshua Zirkzee on loan, Arsenal and Manchester United send scouts to watch K...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlxkxken3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T09:05:44.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "3df7091fdcaedf",
-      "title": "Arsenal turn to Barcelona star after Vinicius Junior, Bradley Barcola reject Gunners",
-      "summary": "According to reports, Arsenal are ‘exploring’ a move for FC Barcelona star Ferran Torres after missing out on Vinicius Junior and Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-turn-to-barcelona-star-vinicius-junior-barcola-reject-gunners",
-      "publishedAt": "2026-08-07T08:22:23.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "c09728361e7091",
-      "title": "Six examples that prove pre-season results mean absolutely nothing after Arsenal woe",
-      "summary": "With more attention than ever being paid to pre-season results, do they actually mean anything? You know the answer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/six-examples-pre-season-results-meaningless-arsenal-real-betis",
-      "publishedAt": "2026-08-07T07:59:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "566c8b0c129392",
-      "title": "Fabrizio Romano reveals Tottenham stance on selling Cristian Romero to Arsenal",
-      "summary": "Fabrizio Romano has reported whether Arsenal will succeed in their quest to bring Tottenham Hotspur defender Cristian Romero to the Emirates Stadium.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-tottenham-hotspur-cristian-romero-fabrizio-romano-transfer-update",
-      "publishedAt": "2026-08-07T07:49:47.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal eye Tottenham star as Man City make contact with Liverpool",
-      "summary": "Arsenal are trying to beat Atletico Madrid to sign Spurs star Cristian Romero, while Manchester City are plotting a raid on Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-07T07:22:01.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "da87ebfde6f864",
-      "title": "Romano reveals ‘only’ way Lewis Hall can join Man Utd as INEOS give green light for loan deal",
-      "summary": "Fabrizio Romano claims there is ‘only’ one way for Manchester United to sign Lewis Hall, while INEOS are to allow a loan exit.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-only-way-lewis-hall-can-join-man-utd-ineos-green-light-loan-deal",
-      "publishedAt": "2026-08-07T07:19:26.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "dcb9ab68f727ca",
-      "title": "Behind Milburn’s magic: Wor Jackie was a pit village hero and ‘everybody’s friend’ in Newcastle",
-      "summary": "A new book details the footballer’s Ashington upbringing, his shyness and the work ethic that set him apart Of all the footballers who have worn the black and white, th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/07/jackie-milburn-pit-village-ashington-newcastle",
-      "publishedAt": "2026-08-07T07:00:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
