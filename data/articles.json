@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T01:54:58.879Z",
+  "generatedAt": "2026-08-08T07:00:10.120Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,40 @@
       "pinned": true
     },
     {
+      "id": "087e62640c0a36",
+      "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
+      "summary": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
+      "publishedAt": "2026-08-08T07:00:09.767Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "5a0997b4622ea8",
+      "title": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
+      "summary": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
+      "publishedAt": "2026-08-08T07:00:09.766Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
+      ]
+    },
+    {
       "id": "737d332e4b7b95",
       "title": "Araujo set for surprise Liverpool loan move",
       "summary": "Liverpool have agreed a surprise deal for Barcelona defender Ronald Araujo to join on loan for the season.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back",
-      "publishedAt": "2026-08-08T01:54:58.665Z",
+      "publishedAt": "2026-08-08T07:00:09.765Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -118,7 +146,7 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk",
-      "publishedAt": "2026-08-08T01:54:58.665Z",
+      "publishedAt": "2026-08-08T07:00:09.765Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -128,31 +156,71 @@
       ]
     },
     {
-      "id": "5a0997b4622ea8",
-      "title": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
-      "summary": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
-      "publishedAt": "2026-08-08T01:54:58.665Z",
+      "id": "10e30c17fcb518",
+      "title": "Who am I? Guess Premier League star No 19",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crmr4k9pmppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T06:13:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "b8f66d34fe7777",
+      "title": "Romano hints at another Liverpool signing after revealing ‘surprise bomba’ arrival from Barcelona",
+      "summary": "Fabrizio Romano has hinted at what Liverpool plan to do in the transfer market after reaching an ‘agreement’ to sign Barcelona’s Ronald Araujo.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/romano-hints-another-liverpool-signing-revealing-surprise-bomba-arrival-barcelona",
+      "publishedAt": "2026-08-08T06:09:04.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "323402a7223868",
+      "title": "Man City agree deal to sign Marseille keeper Rulli",
+      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T06:00:37.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c5f9b7c906d73f",
+      "title": "Newcastle one of five Premier League clubs in ‘fear for them’ territory",
+      "summary": "Five Premier League clubs have fallen into ‘You Really Fear For Them’ territory ahead of the 2026/27 season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/feature-premier-league-clubs-we-fear-for-newcastle",
+      "publishedAt": "2026-08-08T05:42:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "189f296b128b51",
+      "title": "Life as a Wag in the transfer window",
+      "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T05:15:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "087e62640c0a36",
-      "title": "Liverpool Barcola deal difficult to complete after talks with PSG",
-      "summary": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
-      "publishedAt": "2026-08-08T01:54:58.665Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool",
-        "Psg"
+        "Transfer"
       ]
     },
     {
@@ -422,6 +490,22 @@
       ]
     },
     {
+      "id": "162a23b3f09773",
+      "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
+      "publishedAt": "2026-08-07T13:53:18.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
       "id": "ac0bee18dbc00a",
       "title": "Transfer rumour ranking: Liverpool achieve Barcola breakthrough as Man Utd turn to Hall alternative",
       "summary": "Liverpool have reportedly achieved a huge breakthrough for Bradley Barcola, while Manchester United are willing to activate a release clause.",
@@ -517,88 +601,6 @@
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "ce8ccaa230f4ad",
-      "title": "A secret invite and other 'pinch-me' moments before Leicester woke up",
-      "summary": "Leicester are gearing up for League One but 10 years ago they were defending Premier League champions. The dream moments haven't been forgotten.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy7j72nvzmzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T12:41:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "3ff527ba330511",
-      "title": "Man City reject Barcelona's £38.5m bid for Rodri",
-      "summary": "Manchester City are open to selling midfielder Rodri but would demand more than £60m for the Spain captain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T12:20:52.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "eb9e7dbe0f9fa0",
-      "title": "Tottenham told to sign Man Utd star instead of Nicolas Jackson and Savinho – ‘really need’",
-      "summary": "Tottenham Hotspur have been encouraged to focus on signing Manchester United star Marcus Rashford instead of Nicolas Jackson and Savinho.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-told-sign-man-utd-star-nicolas-jackson-savinho",
-      "publishedAt": "2026-08-07T12:13:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0360fbeb8dd214",
-      "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
-      "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T12:04:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "6eaad46ec85bac",
-      "title": "Emotional Guimaraes wanted Arsenal move, says Newcastle chief",
-      "summary": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T12:00:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6629b215ee80d1",
-      "title": "Man Utd have just received some bad news about signing €28m star",
-      "summary": "While Manchester United are considering making a bid for the Serie A ace, he has other plans in mind.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-jhon-lucumi-bologna-transfer-latest",
-      "publishedAt": "2026-08-07T11:57:49.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Serie A",
-        "Manchester"
       ]
     }
   ],
