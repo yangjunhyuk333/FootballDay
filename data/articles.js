@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-07T19:02:54.329Z",
+  "generatedAt": "2026-08-08T01:54:58.879Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,69 +99,46 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "b07059f2b74304",
-      "title": "Massey-Ellis retires from officiating to take up new role with FA",
-      "summary": "Assistant referee Sian Massey-Ellis has retired from officiating and will take up a new role with the Football Association.",
+      "id": "737d332e4b7b95",
+      "title": "Araujo set for surprise Liverpool loan move",
+      "summary": "Liverpool have agreed a surprise deal for Barcelona defender Ronald Araujo to join on loan for the season.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570628/sian-massey-ellis",
-      "publishedAt": "2026-08-07T19:02:54.004Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "fa3afe4635bdba",
-      "title": "Doyle: Thunder Call a big player in Ascot's Shergar Cup",
-      "summary": "Our ambassador Hollie Doyle, who was the leading rider at the 2023 Shergar Cup, runs the rule over Saturday's international contest at Ascot - live on Sky Sports Racing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13570698/hollie-doyle-expect-thunder-call-to-play-a-part-in-shergar-cup-at-ascot-live-on-sky-sports-racing-on-saturday",
-      "publishedAt": "2026-08-07T19:02:54.003Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e46f6f8694887e",
-      "title": "Newcastle stand firm on Hall after rejecting Man Utd approach",
-      "summary": "Newcastle United have told Manchester United that full-back Lewis Hall is not for sale this summer, after an initial enquiry was rejected.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570700/lewis-hall-transfer-news-newcastle-tell-man-utd-left-back-is-not-for-sale-this-summer",
-      "publishedAt": "2026-08-07T19:02:54.003Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ad64981048e1ba",
-      "title": "Man City reject Barcelona offer for Rodri",
-      "summary": "Manchester City have knocked back an initial offer from Barcelona for Rodri that is considered far too low.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low",
-      "publishedAt": "2026-08-07T19:02:54.003Z",
+      "url": "https://www.skysports.com/football/news/12040/13570871/ronald-araujo-transfer-news-liverpool-agree-loan-deal-for-barcelona-defender-to-add-depth-at-centre-back",
+      "publishedAt": "2026-08-08T01:54:58.665Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
-        "Manchester",
+        "Liverpool",
         "Barcelona"
       ]
     },
     {
-      "id": "b6d527de3bb848",
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "summary": "FREE STREAM: The Transfer Show on Sky Sports News",
+      "id": "c1a33309afd921",
+      "title": "Papers: Arsenal could hijack Liverpool's move for Barcola",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-08-07T19:02:54.002Z",
+      "url": "https://www.skysports.com/football/news/12040/13570879/bradley-barcola-transfer-news-arsenal-could-hijack-liverpools-move-for-psg-winger-paper-talk",
+      "publishedAt": "2026-08-08T01:54:58.665Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5a0997b4622ea8",
+      "title": "UEFA aware of allegation it paid off Infantino's 'mistress' while he worked for them",
+      "summary": "UEFA has confirmed it is aware of an allegation that European football's governing body paid off an alleged mistress of Gianni Infantino.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body",
+      "publishedAt": "2026-08-08T01:54:58.665Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
       ]
     },
     {
@@ -170,12 +147,96 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool have held preliminary talks with Paris Saint-Germain over the possibility of signing Bradley Barcola.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570766/bradley-barcola-transfer-news-liverpool-deal-for-psg-winger-difficult-to-complete-after-talks",
-      "publishedAt": "2026-08-07T19:02:54.002Z",
+      "publishedAt": "2026-08-08T01:54:58.665Z",
       "category": "transfer",
       "region": "england france",
       "tags": [
         "Liverpool",
         "Psg"
+      ]
+    },
+    {
+      "id": "7b5a831f0beb25",
+      "title": "Liverpool close to signing Barcelona's Araujo on loan",
+      "summary": "Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T22:54:13.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4c82add6850e75",
+      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T22:50:58.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T21:37:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "475aac3d657800",
+      "title": "Man City explore Fernandez move - Saturday's gossip",
+      "summary": "Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5x67wl67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T21:07:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "023740e61bcf9f",
+      "title": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
+      "summary": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which n...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis",
+      "publishedAt": "2026-08-07T19:00:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "bbe93a64c47a3b",
+      "title": "Jay-Z’s Roc Nation Sports making waves in European football transfer market",
+      "summary": "Vinícius Júnior and Yan Diomande are among more than 100 players at an agency owned by the hip-hop legend In the end there was a clear winner. And Jay-Z’s latest victor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/07/jay-z-roc-nation-sports-european-football-transfer-market-vinicius-junior-yan-diomande",
+      "publishedAt": "2026-08-07T19:00:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer"
       ]
     },
     {
@@ -189,20 +250,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "2963a6377b8b35",
-      "title": "Middlesbrough v Wrexham: Carabao Cup first round – live",
-      "summary": "⚽ League Cup updates, 8pm BST kick-off at the Riverside ⚽ Follow on TikTok | Sign up for Football Daily | Mail Billy We’re 10 minutes from kick-off at the Riverside. Th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/aug/07/middlesbrough-v-wrexham-carabao-cup-first-round-live",
-      "publishedAt": "2026-08-07T18:50:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
       ]
     },
     {
@@ -359,19 +406,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T14:08:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "e013723af88a97",
       "title": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
       "summary": "Mourinho reportedly unhappy over Barça hijack City ready to seal deal for Morocco star Bouaddi Manchester City have rejected an offer of £38.5m (€45m) from Barcelona fo...",
@@ -385,22 +419,6 @@ window.FOOTBALLDAY_DATA = {
         "World Cup",
         "Manchester",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "162a23b3f09773",
-      "title": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior",
-      "publishedAt": "2026-08-07T13:53:18.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
       ]
     },
     {
@@ -543,7 +561,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "0360fbeb8dd214",
-      "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+      "title": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
       "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
@@ -581,19 +599,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Serie A",
         "Manchester"
-      ]
-    },
-    {
-      "id": "b471fa2c5280db",
-      "title": "Aston Villa response to Arsenal offer for Ezri Konsa revealed as squad resigned to £60m star leaving",
-      "summary": "According to reports, Aston Villa had an angry response to Arsenal’s ‘opening offer’ for Ezri Konsa, but their squad are ‘resigned’ to the defender leaving.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-response-arsenal-offer-konsa-squad-resigned-60m-star-leaving",
-      "publishedAt": "2026-08-07T11:34:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
