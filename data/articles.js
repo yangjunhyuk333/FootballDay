@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-09T02:02:30.532Z",
+  "generatedAt": "2026-08-09T07:02:18.755Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg, a pre-season friendly which left boss Michael Carrick encouraged by the \"good signs\" from hi...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766",
-      "publishedAt": "2026-08-09T02:02:30.308Z",
+      "publishedAt": "2026-08-09T07:02:18.534Z",
       "category": "transfer",
       "region": "france",
       "tags": [
@@ -117,12 +117,38 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
-      "publishedAt": "2026-08-09T02:02:30.307Z",
+      "publishedAt": "2026-08-09T07:02:18.533Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "37ace89e360886",
+      "title": "Who am I? Guess Premier League star No 20",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8m5nlzmvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T05:36:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "b034309cfe8552",
+      "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+      "summary": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T05:18:56.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
       ]
     },
     {
@@ -579,34 +605,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Transfer"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-08T11:10:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "6f5402bfefaa48",
-      "title": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
-      "summary": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T11:09:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
