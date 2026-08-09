@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:42:38.156Z",
+  "generatedAt": "2026-08-09T02:02:30.532Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,12 @@
       "pinned": true
     },
     {
-      "id": "aacfd7b631da0a",
-      "title": "Joao Pedro nets double as Chelsea bounce back to beat Milan",
-      "summary": "Chelsea bounced back from back-to-back pre-season defeats with their best performance under Xabi Alonso so far as Joao Pedro's double helped them to a convincing 3-0 wi...",
+      "id": "5867fa18d72c9d",
+      "title": "'Good signs' for Man Utd as Mbeumo scores in encouraging draw with PSG",
+      "summary": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg, a pre-season friendly which left boss Michael Carrick encouraged by the \"good signs\" from hi...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570780/chelsea-3-0-ac-milan-joao-pedro-nets-double-as-much-improved-blues-bounce-back-to-beat-ruben-amorims-side",
-      "publishedAt": "2026-08-08T18:42:37.897Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Milan"
-      ]
-    },
-    {
-      "id": "d4b6c443ac169f",
-      "title": "PSG 1-1 Man Utd commentary",
-      "summary": "PSG 1-1 Man Utd commentary",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/live/555766",
-      "publishedAt": "2026-08-08T18:42:37.897Z",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766",
+      "publishedAt": "2026-08-09T02:02:30.308Z",
       "category": "transfer",
       "region": "france",
       "tags": [
@@ -126,12 +112,12 @@
       ]
     },
     {
-      "id": "893986df067991",
-      "title": "'I'm your warrior' - Guimaraes moves to Arsenal from Newcastle for £75m",
-      "summary": "Arsenal have signed midfielder Bruno Guimaraes from Newcastle in a £75m transfer.",
+      "id": "fa0fcd2c74df37",
+      "title": "Papers: Romero open to joining Arsenal but Spurs resist",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570096/bruno-guimaraes-arsenal-sign-midfielder-in-75m-transfer-as-newcastle-surpass-240m-in-player-sales-this-summer",
-      "publishedAt": "2026-08-08T18:42:37.897Z",
+      "url": "https://www.skysports.com/football/news/12040/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk",
+      "publishedAt": "2026-08-09T02:02:30.307Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -140,16 +126,131 @@
       ]
     },
     {
-      "id": "5867fa18d72c9d",
-      "title": "Mbeumo scores in encouraging Man Utd draw with PSG but Mount injured",
-      "summary": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg but Mason Mount's injury was a cause for concern.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766",
-      "publishedAt": "2026-08-08T18:42:37.896Z",
-      "category": "issue",
-      "region": "france",
+      "id": "d83f1a62062f82",
+      "title": "Fifa launches new attack on media over alleged ‘concerted effort’ to undermine Gianni Infantino",
+      "summary": "Fifa issues statement defending under-fire president ‘Insinuation should not be presented as fact’ Fifa has issued a new statement alleging there is a “concerted and on...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino",
+      "publishedAt": "2026-08-08T22:17:25.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "2400185859dac5",
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T22:06:44.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "d75dd1553384f5",
+      "title": "Barca make second bid for Rodri - Sunday's gossip",
+      "summary": "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T20:37:28.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "3c459c322cb9ce",
+      "title": "Romano reveals ENIC involvement as Tottenham reach decision on selling Cristian Romero to Arsenal",
+      "summary": "Fabrizio Romano has revealed whether Tottenham Hotspur are willing to sell Cristian Romero to Arsenal this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-hotspur-arsenal-cristian-romero-fabrizio-romano-reveals-final-decision",
+      "publishedAt": "2026-08-08T20:20:08.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6e0b37879dfaf8",
+      "title": "Tielemans cameo against PSG hints at Man Utd future",
+      "summary": "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T19:15:24.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Manchester",
         "Psg"
+      ]
+    },
+    {
+      "id": "36a3a01107d10a",
+      "title": "Mason Mount injury overshadows Manchester United’s draw with PSG",
+      "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with the European champions...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg",
+      "publishedAt": "2026-08-08T19:10:23.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester",
+        "Psg"
+      ]
+    },
+    {
+      "id": "6d57e1456dc004",
+      "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
+      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 se...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/08/premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs",
+      "publishedAt": "2026-08-08T19:00:05.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "9628731f376c8e",
+      "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+      "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield",
+      "publishedAt": "2026-08-08T19:00:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "d9b8d62e1dafc3",
+      "title": "Michael Carrick reacts to Mason Mount injury for Man Utd as post-match footage emerges",
+      "summary": "Manchester United manager Michael Carrick provides an update on the injury suffered by Mason Mount against Paris Saint-Germain.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-mason-mount-injury-update-michael-carrick",
+      "publishedAt": "2026-08-08T18:51:26.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -506,111 +607,6 @@
       "tags": [
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "0952362d03700b",
-      "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
-      "summary": "Four-year deal signed after Newcastle’s reluctant sale ‘I want to win trophies and I’m in the right place to do it’ Bruno Guimarães says he “needed a new challenge in m...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football",
-      "publishedAt": "2026-08-08T11:00:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f8f4f603beab14",
-      "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T11:00:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "338545abb9f8d5",
-      "title": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
-      "summary": "Andoni Iraola moves to improve defensive options Uruguay defender expected to complete his medical Liverpool have agreed to sign Ronald Araújo on a season-long loan fro...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer",
-      "publishedAt": "2026-08-08T10:44:10.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "eabd03809f3f29",
-      "title": "Liverpool: Romano confirms Araujo ‘buy option’ with ‘medical tomorrow’ as Barcola update emerges",
-      "summary": "Fabrizio Romano has revealed the details of the ‘buy option’ in Ronald Araujo’s loan move from FC Barcelona to Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-confirms-araujo-buy-option-medical-tomorrow-barcola-update",
-      "publishedAt": "2026-08-08T10:38:27.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "dd9e9ee471568d",
-      "title": "Arsenal told to hijack Man City to sign Chelsea star after Vinicius Junior blow – ‘very, very good player’",
-      "summary": "Arsenal have been told to join Manchester City in the race to sign Chelsea winger Pedro Neto after missing out on Vinicius Junior.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-told-hijack-man-city-sign-chelsea-star-vinicius-junior-blow",
-      "publishedAt": "2026-08-08T10:05:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "85bb751eacc5df",
-      "title": "Barcelona consider £85m Tottenham and Man City deal as Romano talks up transfer formality",
-      "summary": "Barcelona are stepping up their efforts to sign Manchester City star Rodri and are even considering a move for Tottenham Hotspur defender Cristian Romero.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/barcelona-sensational-85m-tottenham-man-city-deal-romano-transfer-formality",
-      "publishedAt": "2026-08-08T09:42:34.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "844531d4bbfd2a",
-      "title": "Fifa president Gianni Infantino denies claims Uefa paid off alleged ‘lover’",
-      "summary": "Infantino was Uefa general secretary from 2009 to 2016 ‘These allegations … are categorically untrue,’ says Fifa Uefa has confirmed a “departure payment” was made to a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/08/fifa-gianni-infantino-uefa-employee-departure-payment-allegations-denial",
-      "publishedAt": "2026-08-08T09:27:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Uefa"
       ]
     }
   ],
