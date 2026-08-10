@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-10T02:06:54.384Z",
+  "generatedAt": "2026-08-10T07:48:44.462Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,43 +99,242 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "4bada8e7c0f9a3",
-      "title": "Liverpool throw away another 2-0 lead as Iraola loses first Anfield game",
-      "summary": "Liverpool threw away another pre-season lead as Monaco came from behind to win 3-2 in Andoni Iraola's first game in charge at Anfield.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-monaco/report/556109",
-      "publishedAt": "2026-08-10T02:06:54.269Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "5d47e95672876c",
-      "title": "Arsenal concede 'poor goals' as Dortmund win Emirates Cup",
-      "summary": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup",
-      "publishedAt": "2026-08-10T02:06:54.269Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "2105a5f56c7749",
       "title": "Papers: Man Utd and Arsenal chase Club Brugge full-back Seys",
       "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13571517/manchester-united-and-arsenal-among-several-clubs-chasing-club-brugge-left-back-joaquin-seys",
-      "publishedAt": "2026-08-10T02:06:54.268Z",
+      "publishedAt": "2026-08-10T07:48:44.343Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "7ef3ebcaa2fdb2",
+      "title": "Ranking the Big Six midfields after Bruno Guimaraes Arsenal move",
+      "summary": "Bruno Guimaraes’ move to north London has made one of the Premier League’s best midfields even better, but how do the Big Six rank?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-premier-league-big-six-midfields-bruno-guimaraes-arsenal-move",
+      "publishedAt": "2026-08-10T07:48:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "697b3533e14474",
+      "title": "Man Utd in fierce battle with Liverpool for €50m midfield sensation",
+      "summary": "United and Liverpool are in a four-club race to bring the 22-year-old to the Premier League, according to a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-news-lamine-camara-midfield-target-liverpool-battle",
+      "publishedAt": "2026-08-10T07:45:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "119929e8258102",
+      "title": "The 20 most expensive forwards ever: Rogers and Diomande enter the list",
+      "summary": "Manchester City are prominent in a list of the 20 most expensive forwards in transfer history which is too rich for Anthony Gordon’s blood.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/20-most-expensive-forwards-ever-transfer-history",
+      "publishedAt": "2026-08-10T07:31:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1c4a34a8ddd452",
+      "title": "Scottish Football Podcast",
+      "summary": "Celtic hit Killie for five - is there cause for concern at Rangers after a loss to Hibs?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p3l864?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Arsenal leapfrog Man Utd in five-year net spend table topped by astonishing £862m Chelsea",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-08-10T06:50:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d26e7a23c7383a",
+      "title": "The 20 most expensive goalkeepers ever: Arsenal evolution summed up by three appearances",
+      "summary": "Arsenal are the only club to make as many as three of the 20 most expensive goalkeeper signings in football history.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/20-most-expensive-goalkeepers-ever-transfer-history",
+      "publishedAt": "2026-08-10T06:42:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0465918a287133",
+      "title": "Romano reveals Liverpool reaction after PSG respond to ‘indicated proposal’ for Bradley Barcola",
+      "summary": "Fabrizio Romano brings the latest on Liverpool’s quest to sign Bradley Barcola from Paris Saint-Germain in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bradley-barcola-liverpool-paris-saint-germain-fabrizio-romano-transfer-update",
+      "publishedAt": "2026-08-10T06:37:22.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "109c4ba27accb9",
+      "title": "Chelsea lead Spurs, Real Madrid as biggest spenders of the 2026 summer transfer window",
+      "summary": "Real, Barca, Juve and, obviously, Ipswich all feature in the ten biggest spenders for the summer of 2026 alongside many of the usual suspects…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
+      "publishedAt": "2026-08-10T06:30:50.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "ab0285de026ac3",
+      "title": "The 20 most expensive midfielders in transfer history explodes in 2026",
+      "summary": "Bruno Guimaraes is only the fourth most expensive central midfield transfer in the summer of 2026, but in the top 10 ever!",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/20-most-expensive-midfielders-ever-transfer-history",
+      "publishedAt": "2026-08-10T06:30:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "a8dbc92c48a189",
+      "title": "Rangers midfielder Diomande set for move to Turkey - gossip",
+      "summary": "Rangers reportedly agree a £4.5m transfer to Corum for Mohamed Diomande as the Ibrox club are also linked with Aston Villa right-back Kosta Nedeljkovic.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2klw97p97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T06:29:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "2aa7b9b06a88d4",
+      "title": "Premier League transfer net spend table for 26/27 season",
+      "summary": "We all know Chelsea and Tottenham are spending all the money but where do they stand on the net spend Premier League table?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-transfer-net-spend-table-for-26-27-season",
+      "publishedAt": "2026-08-10T06:18:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f55c7b5c3c3088",
+      "title": "Football transfer rumours: Endrick set for Villa loan? De Jong offered in Rodri deal?",
+      "summary": "Today’s fluff is counting the pennies A sense of excitement is what Aston Villa need at the moment after selling off key players. What better way to create it than sign...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/10/football-transfer-rumours-aston-villa-endrick-manchester-city-barcelona-rodri-frenkie-de-jong",
+      "publishedAt": "2026-08-10T06:15:36.000Z",
+      "category": "transfer",
+      "region": "england spain france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "be9d692e7bb44c",
+      "title": "Who am I? Guess Premier League star No 21",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T05:38:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "dab97a3a874070",
+      "title": "How Liverpool are shaping up under Iraola",
+      "summary": "Four pre-season games is a very small sample, but Andoni Iraola is starting to put his stamp on Liverpool. So how are the Reds shaping up under their new boss?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx27gkmed3wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T05:15:18.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Villa leading Man Utd in chase for Real star, Arsenal eye Vinicius alternative",
+      "summary": "A Liverpool surprise is top after Arsenal signed Bruno Guimaraes, while Crystal Palace and Everton could swap wingers…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-10T05:06:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b70d04e7c3def2",
+      "title": "The Argentine who wishes he could play for Wales",
+      "summary": "Proud of his Welsh roots, Chile-based Argentine defender Jeremias James hopes for a rule change to help his international ambitions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywqxvgzl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T03:47:50.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -284,7 +483,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "865f2b713b6399",
-      "title": "Bonding & building - what we learned about Alonso's Chelsea in pre-season",
+      "title": "Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season",
       "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
@@ -404,199 +603,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "5934a4f74005c5",
-      "title": "La Liga president Javier Tebas says ‘Infantino era is over’ at Fifa",
-      "summary": "Tebas says Swiss is ‘destroying essence of football’ Any reform at highest levels must be ‘genuine’ Javier Tebas says Gianni Infantino’s position as Fifa president is u...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa",
-      "publishedAt": "2026-08-09T17:00:02.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "19190adf77ed4d",
-      "title": "Coleman training with Killybegs - but no GAA return for now",
-      "summary": "Former Everton defender Seamus Coleman has been training with Killybegs but a return to his local Gaelic football club is unlikely to be on the cards for now.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T16:36:39.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "eae2599653b1df",
-      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
-      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
-      "publishedAt": "2026-08-09T16:33:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "369cbeb8338832",
-      "title": "Midfielder ‘keen’ to join Man Utd amid ongoing talks over agreement",
-      "summary": "An English midfielder is ready to leave his club and move to Manchester United in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-louis-page-leicester-city-2026-summer-deal",
-      "publishedAt": "2026-08-09T16:01:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "368f2d0a1957ab",
-      "title": "Hansi Flick sounds the alarm over Liverpool-bound Ronald Araujo amid Barcelona exit revelation",
-      "summary": "Hansi Flick says that Barcelona couldn’t “include” Ronald Araujo in the way the German manager wanted to as he nears a loan switch to Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/hansi-flick-sounds-alarm-liverpool-bound-ronald-araujo-barcelona-exit-revelation",
-      "publishedAt": "2026-08-09T15:37:32.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "7bce2e68c6b65a",
-      "title": "Everton's McNeil & Palace's Johnson poised for swap",
-      "summary": "Everton and Crystal Palace are in talks about a swap deal that would see Toffees' winger Dwight McNeil join the Eagles, and Wales international Brennan Johnson move in...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T15:03:03.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "42edfce36a3aef",
-      "title": "Arsenal choose Vinicius Junior alternative and he’ll cost well in excess of €100m",
-      "summary": "A report claims Arsenal have installed Juventus forward, Kenan Yildiz, as their new No 1 target on the left wing, and while a deal looks difficult to make, there is ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-choose-vinicius-junior-alternative-kenan-yildiz-transfer-updates",
-      "publishedAt": "2026-08-09T13:42:18.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "3197b5085b0204",
-      "title": "Man Utd now in talks over agreement for award-winning midfielder",
-      "summary": "Manchester United are in active talks to sign an English midfielder before the summer transfer window closes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-louis-page-leicester-city",
-      "publishedAt": "2026-08-09T13:14:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "80cf3797dffc24",
-      "title": "Man Utd active in making €100m midfielder their seventh summer signing",
-      "summary": "Manchester United are keen on a 2026 summer deal for an England international midfielder, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-crystal-palace-adam-wharton",
-      "publishedAt": "2026-08-09T12:38:23.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6641efb670af3f",
-      "title": "Man Utd working on deal to sign Leicester teenager Page",
-      "summary": "Manchester United are working on a deal to sign Leicester teenager Louis Page.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T12:13:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fc44e554a67fef",
-      "title": "Who will win the 2026 Ballon d’Or? Kane v Rodri and Yamal for the trophy",
-      "summary": "The Ballon d’Or was always going to be intrinsically linked with the World Cup so that’s why Rodri is now among the favourites.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-the-2026-ballon-dor-yamal-the-runaway-early-favourite",
-      "publishedAt": "2026-08-09T11:59:45.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool ‘bomba’ top as Everton and Palace consider winger swap",
-      "summary": "A Liverpool surprise is top after Arsenal signed Bruno Guimaraes, while Crystal Palace and Everton could swap wingers…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-09T11:06:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "df52cc5ab6217f",
-      "title": "Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
-      "summary": "The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone bo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic",
-      "publishedAt": "2026-08-09T10:53:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "cae5b98d95e483",
-      "title": "Chelsea have just received some good news about signing Martin Zubimendi from Arsenal",
-      "summary": "Chelsea manager Xabi Alonso wants to sign Martin Zubimendi from Arsenal, and the door may just have opened.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-martin-zubimendi-arsenal-2026-summer-transfer",
-      "publishedAt": "2026-08-09T10:44:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
       ]
     }
   ],
