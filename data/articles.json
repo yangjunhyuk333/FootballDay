@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T19:02:39.184Z",
+  "generatedAt": "2026-08-11T02:02:01.143Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,65 +99,12 @@
       "pinned": true
     },
     {
-      "id": "5d684269c1313e",
-      "title": "Could Miller receive world title shot? 'Big Baby' interests WBA champion",
-      "summary": "Jarrell Miller could receive a a WBA world heavyweight title fight against Murat Gassiev.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/boxing/news/12040/13571708/jarrell-miller-could-receive-world-heavyweight-title-fight-as-murat-gassiev-is-interested-in-fighting-the-american",
-      "publishedAt": "2026-08-10T19:02:38.858Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "124019400db0e0",
-      "title": "Has Arsenal's indifferent pre-season revealed a surprise weakness?",
-      "summary": "Arsenal have been conceding goals at an alarming rate in pre-season. Seven across three games. Has their greatest strength, one that contributed hugely to their Premier...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571668/arsenal-have-looked-defensively-weak-in-pre-season-can-they-cope-without-william-saliba-as-premier-league-campaign-nears",
-      "publishedAt": "2026-08-10T19:02:38.858Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "cda22421aa8f5f",
-      "title": "Chelsea get Luton as Spurs to host Charlton in Carabao Cup",
-      "summary": "Chelsea will host Jack Wilshere's Luton Town in the Carabao Cup second round, while Tottenham Hotspur host Charlton Athletic in a London derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571634/carabao-cup-second-round-chelsea-vs-luton-tottenham-vs-charlton-and-newcastle-vs-west-brom-as-11-premier-league-sides-enter-draw",
-      "publishedAt": "2026-08-10T19:02:38.857Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "12f799456ad973",
-      "title": "Man City in Bouaddi talks and Chelsea's Fernandez also an option",
-      "summary": "Man City are in ongoing talks with Lille for Morocco midfielder Ayyoub Bouaddi.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option",
-      "publishedAt": "2026-08-10T19:02:38.857Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": "6b2303d980bd7f",
       "title": "Scotland, Netherlands criticise Cricket World Cup format changes",
       "summary": "Scotland and the Netherlands have criticised the restructuring of next year's 50-over World Cup, saying the changes \"risk weakening the integrity and credibility of int...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13571677/cricket-world-cup-scotland-and-netherlands-criticise-format-changes-to-50-over-tournament-announced-by-icc",
-      "publishedAt": "2026-08-10T19:02:38.857Z",
+      "publishedAt": "2026-08-11T02:02:00.973Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -171,7 +118,7 @@
       "summary": "Man City latest: Rodri to Barcelona talks currently inactive",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-10T19:02:38.857Z",
+      "publishedAt": "2026-08-11T02:02:00.973Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -184,11 +131,53 @@
       "summary": "Sky News understands a consortium including the Amazon founder Jeff Bezos is closing in on a deal to buy a roughly one-third stake in Liverpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia",
-      "publishedAt": "2026-08-10T19:02:38.857Z",
+      "publishedAt": "2026-08-11T02:02:00.973Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "5d684269c1313e",
+      "title": "Could Miller receive world title shot? 'Big Baby' interests WBA champion",
+      "summary": "Jarrell Miller could receive a a WBA world heavyweight title fight against Murat Gassiev.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13571708/jarrell-miller-could-receive-world-heavyweight-title-fight-as-murat-gassiev-is-interested-in-fighting-the-american",
+      "publishedAt": "2026-08-11T02:02:00.973Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "124019400db0e0",
+      "title": "Has Arsenal's indifferent pre-season revealed a surprise weakness?",
+      "summary": "Arsenal have been conceding goals at an alarming rate in pre-season. Seven across three games. Has their greatest strength, one that contributed hugely to their Premier...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13571668/arsenal-have-looked-defensively-weak-in-pre-season-can-they-cope-without-william-saliba-as-premier-league-campaign-nears",
+      "publishedAt": "2026-08-11T02:02:00.973Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "26734763783114",
+      "title": "Papers: Aston Villa interested in Endrick loan from Real Madrid",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13571792/aston-villa-keen-on-loan-deal-for-real-madrid-wonderkid-endrick-paper-talk",
+      "publishedAt": "2026-08-11T02:02:00.972Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Transfer",
+        "Real Madrid",
+        "Inter"
       ]
     },
     {
@@ -197,12 +186,193 @@
       "summary": "Liverpool have confirmed the signing of defender Ronald Araujo from Barcelona.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy",
-      "publishedAt": "2026-08-10T19:02:38.856Z",
+      "publishedAt": "2026-08-11T02:02:00.972Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Liverpool",
         "Barcelona"
+      ]
+    },
+    {
+      "id": "163abc43437c75",
+      "title": "Sky Sports Golf Podcast: Young talent shines again as PGA Tour playoffs loom",
+      "summary": "The Sky Sports Golf Podcast delivers the latest news from the golfing world, expert analysis and big-name interviews.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/11933264/sky-sports-golf-podcast",
+      "publishedAt": "2026-08-11T02:02:00.972Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "cda22421aa8f5f",
+      "title": "Chelsea get Luton as Spurs to host Charlton in Carabao Cup",
+      "summary": "Chelsea will host Jack Wilshere's Luton Town in the Carabao Cup second round, while Tottenham Hotspur host Charlton Athletic in a London derby.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13571634/carabao-cup-second-round-chelsea-vs-luton-tottenham-vs-charlton-and-newcastle-vs-west-brom-as-11-premier-league-sides-enter-draw",
+      "publishedAt": "2026-08-11T02:02:00.972Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "12f799456ad973",
+      "title": "Man City in Bouaddi talks and Chelsea's Fernandez also an option",
+      "summary": "Man City are in ongoing talks with Lille for Morocco midfielder Ayyoub Bouaddi.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13571742/man-city-transfer-news-talks-ongoing-with-lilles-ayyoub-bouaddi-but-rodri-to-barcelona-talks-inactive-with-enzo-fernandez-also-an-option",
+      "publishedAt": "2026-08-11T02:02:00.972Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "63de815a036ac1",
+      "title": "Rockets relying on others to avoid Eliminator after loss to Brave",
+      "summary": "Trent Rockets are relying on a favour from Manchester Super Giants after a six-match winning run was ended by Southern Brave at Trent Bridge to deny them direct progres...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13571707/the-hundred-trent-rockets-relying-on-others-to-avoid-eliminator-after-loss-to-southern-brave",
+      "publishedAt": "2026-08-11T02:02:00.970Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1bf2d508fb23e2",
+      "title": "Premier League 2026-27 preview No 3: Bournemouth",
+      "summary": "New head coach Marco Rose has a lot to live up to after last season’s sixth-placed finish while fans have a first year in Europe to look forward to Guardian writers’ pr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/11/premier-league-2026-27-preview-bournemouth",
+      "publishedAt": "2026-08-10T23:01:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "9a2a13c739c434",
+      "title": "It's football, not PlayStation - Uefa refs' chief on VAR",
+      "summary": "Uefa referees' chief Roberto Rosetti says some video assistant referee reviews \"were not connected with football\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg90n3dvd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:00:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "0119f3df00b5c2",
+      "title": "Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds",
+      "summary": "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/10/carabao-cup-second-round-draw-chelsea-luton-nottingham-forest-leeds",
+      "publishedAt": "2026-08-10T21:55:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "07e751dc53a3c1",
+      "title": "Second source confirms Man Utd, Arsenal both want £30m left-back, with one club ahead",
+      "summary": "Arsenal appear to be ahead of Man Utd in the race to sign a £30m-rated left-back, with a reporter confirming a transfer into the Premier League is a concrete possibilit...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/second-source-confirms-man-utd-arsenal-both-want-30m-left-back-joaquin-seys",
+      "publishedAt": "2026-08-10T20:41:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "061114ee44522d",
+      "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
+      "summary": "One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:32:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7b72fc317b3764",
+      "title": "Man City close in on Bouaddi - Tuesday's gossip",
+      "summary": "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:30:44.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Serie A",
+        "Arsenal",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "308a508f3e5e91",
+      "title": "Football Daily",
+      "summary": "Debating the big Premier League talking points and a heart-warming fan tale.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p3sdmr?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:17:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8b0a6fc93aad1c",
+      "title": "Forest to host Leeds in EFL Cup - second-round draw in full",
+      "summary": "Nottingham Forest will face Leeds in the Carabao Cup in the only all-Premier League tie in the second round of the competition.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98vm4rz7m7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:01:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "536bf13892e57e",
+      "title": "Real reason Liverpool haven’t bid for Barcola emerges, as Arsenal hijack truths exposed",
+      "summary": "Why Liverpool are still to make an offer for Bradley Barcola has come to light, along with how the Reds really feel about Arsenal hijacking their move.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-reason-liverpool-havent-bid-barcola-emerges-arsenal-hijack-truths-exposed",
+      "publishedAt": "2026-08-10T19:07:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
       ]
     },
     {
@@ -429,171 +599,6 @@
       "tags": [
         "Football",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "69d49ada26d22d",
-      "title": "Harry Kane reacts after learning Sir Jim Ratcliffe wants Man Utd to sign him from Bayern Munich",
-      "summary": "The Bayern Munich striker has made up his mind amid interest from Manchester United and Tottenham Hotspur.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-bayern-munich-harry-kane-sir-jim-ratcliffe",
-      "publishedAt": "2026-08-10T13:46:13.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Manchester",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3f0fabfcff688c",
-      "title": "Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united",
-      "publishedAt": "2026-08-10T13:39:45.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "6fdd7ffaeb479a",
-      "title": "Infantino hangs on by a thread and the overhaul at Newcastle | Football Weekly – video",
-      "summary": "Max Rushden is joined by Robyn Cowen, Dan Bardell, Sam Dalling and Matt Hughes to look at how Fifa deals with its Infantino problem Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/aug/10/gianni-infantino-fifa-football-weekly-podcast-video",
-      "publishedAt": "2026-08-10T13:26:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "73892c2225542c",
-      "title": "Consortium including Bezos advances talks for Liverpool stake",
-      "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T13:16:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "5a009384fe01a0",
-      "title": "BBC Women's Football Weekly",
-      "summary": "Hear from Georgia Stanway, Ona Batlle, Steph Catley, Lotte Wubben-Moy and Renée Slegers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p3kw7h?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T13:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "7751828891cc7e",
-      "title": "Sliding doors - when Mourinho said yes, then no, to Man Utd",
-      "summary": "The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T12:59:39.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c0fe4cbe0bec39",
-      "title": "Bezos wants Liverpool to sign £171m megastar and become ‘No 1 club in world’",
-      "summary": "A consortium involving Jeff Bezos is reportedly nearing a deal to become part owners of Liverpool, and the Reds have been tipped for a mega transfer",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-jeff-bezos-takeover-transfer-news-michael-olise",
-      "publishedAt": "2026-08-10T12:46:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6923318936ea02",
-      "title": "What are the rules on transfer window player swaps?",
-      "summary": "Our Ask Me Anything team look at what the rules are for Premier League clubs exchanging players in swap deals.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwklkvq7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T12:37:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "f1935022eca30f",
-      "title": "Brazilian footballer falls down hole celebrating goal that was then disallowed",
-      "summary": "Coritiba’s Jacy Maranhão jumped into a tunnel Goal was ruled out by video assistant referee A Brazilian’s goal celebration went badly wrong when he jumped over advertis...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/10/brazilian-footballer-falls-down-hole-celebrating-goal-that-was-then-disallowed",
-      "publishedAt": "2026-08-10T12:30:43.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "3474c7069df049",
-      "title": "Liverpool and Newcastle eye ex-Chelsea star as Frank Lampard hopes to play trump card",
-      "summary": "Liverpool are reportedly in a race with Newcastle United and Coventry City for a player Frank Lampard knows very well.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-newcastle-ex-chelsea-frank-lampard-trump-card",
-      "publishedAt": "2026-08-10T12:29:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "59b52204d9428d",
-      "title": "Nigeria 'still have hope' for 2027 World Cup spot",
-      "summary": "Nigeria must go \"back to the drawing board\" after missing out on automatic qualification for the 2027 Women's World Cup, says keeper Chiamaka Nnadozie.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T12:28:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d07a237c890287",
-      "title": "Are football’s greenest signings the ones grown at home?",
-      "summary": "The most sustainable signing might sometimes be the teenager who has been training a few hundred metres from the first-team dressing room all along.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/footballs-greenest-signings-homegrown-pledgeball",
-      "publishedAt": "2026-08-10T12:04:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
