@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-11T19:07:00.242Z",
+  "generatedAt": "2026-08-12T02:18:24.258Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,52 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "08a443718e3fe5",
-      "title": "Trump warns of 'terrible mistake' if FIFA replaces Infantino",
-      "summary": "US President Donald Trump has warned FIFA would be making a \"terrible mistake\" if it got rid of Gianni Infantino as head of world football’s governing body.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571834/gianni-infantino-donald-trump-warns-of-terrible-mistake-if-fifa-replaces-under-pressure-president",
-      "publishedAt": "2026-08-11T19:06:59.667Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "08f0763df42f59",
-      "title": "How concerned should Liverpool be after another pre-season collapse?",
-      "summary": "How much does pre-season mean? It depends who you ask.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571608/should-liverpool-be-worried-pre-season-form-injuries-and-squad-depth-concerns-for-andoni-iraola-ahead-of-season-opener",
-      "publishedAt": "2026-08-11T19:06:59.667Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "368d9641090839",
-      "title": "England's World Cup place guaranteed but West Indies need to qualify",
-      "summary": "Panic over, England fans - your team will NOT have to qualify for the 2027 Cricket World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13571828/england-guaranteed-place-in-2027-cricket-world-cup-but-west-indies-will-have-to-enter-qualifying-tournament-again",
-      "publishedAt": "2026-08-11T19:06:59.667Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "8ef88e77727600",
       "title": "Inter Milan in talks over Spurs and England defender Spence",
       "summary": "Tottenham are in talks with Inter Milan over the sale of Djed Spence.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13572037/djed-spence-transfer-news-inter-milan-in-talks-to-sign-spurs-and-england-defender",
-      "publishedAt": "2026-08-11T19:06:59.666Z",
+      "publishedAt": "2026-08-12T02:18:23.873Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -158,7 +118,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Chelsea have made a new enquiry about signing Arsenal's Myles Lewis-Skelly.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd",
-      "publishedAt": "2026-08-11T19:06:59.666Z",
+      "publishedAt": "2026-08-12T02:18:23.873Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -172,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Will Arsenal retain the title? What's in store for Manchester City, Liverpool and Chelsea under their new managers? And which teams are going to be relegated?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13571927/sky-sports-supercomputer-predicts-2026-27-premier-league-table-as-arsenal-retain-title-and-liverpool-jump-back-above-man-utd-between-the-lines",
-      "publishedAt": "2026-08-11T19:06:59.666Z",
+      "publishedAt": "2026-08-12T02:18:23.873Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -183,16 +143,140 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "2aab864dfdc929",
+      "title": "Papers: Chelsea and Man Utd turn down Lewis-Skelly opportunity",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572089/myles-lewis-skelly-transfer-news-chelsea-and-man-utd-turn-down-intermediary-offer-to-sign-arsenal-teenager-paper-talk",
+      "publishedAt": "2026-08-12T02:18:23.873Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "08a443718e3fe5",
+      "title": "Trump warns of 'terrible mistake' if FIFA replaces Infantino",
+      "summary": "US President Donald Trump has warned FIFA would be making a \"terrible mistake\" if it got rid of Gianni Infantino as head of world football’s governing body.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13571834/gianni-infantino-donald-trump-warns-of-terrible-mistake-if-fifa-replaces-under-pressure-president",
+      "publishedAt": "2026-08-12T02:18:23.873Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "d24a36b7f9e4af",
+      "title": "Super Giants rout SunRisers to move to cusp of Hundred eliminator",
+      "summary": "Manchester Super Giants routed SunRisers Leeds to all but seal their place in The Hundred men's eliminator and leave their opponents at risk of being knocked out.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13572032/the-hundred-manchester-super-giants-rout-sunrisers-leeds-to-move-to-cusp-of-eliminator-in-mens-tournament",
+      "publishedAt": "2026-08-12T02:18:23.872Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
       "id": "960c08bd0216d5",
       "title": "SunRisers beat Super Giants to reach Hundred eliminator",
       "summary": "Reigning champions SunRisers Leeds snatched a spot in the women's Hundred eliminator by beating Manchester Super Giants by 41 runs in a winner-takes-all game at Old Tra...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13572031/the-hundred-sunrisers-leeds-beat-manchester-super-giants-in-decisive-game-to-set-up-eliminator-match-up-with-southern-brave",
-      "publishedAt": "2026-08-11T19:06:59.664Z",
+      "publishedAt": "2026-08-12T02:18:23.872Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "a384397572d926",
+      "title": "Premier League 2026-27 preview No 5: Brighton",
+      "summary": "Fabian Hürzeler has lost key players including Welbeck and Van Hecke with Brighton needing squad depth to cope with the demands of European football Guardian writers’ p...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/premier-league-2026-27-preview-no-5-brighton",
+      "publishedAt": "2026-08-11T23:01:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5b6911e73d9dff",
+      "title": "Doku 'not against' journalist who criticised him at World Cup",
+      "summary": "Jeremy Doku says he is \"not against\" the journalist who criticised his plan to leave the Belgium camp during the World Cup to attend the birth of his first child.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20e3q4l4pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T22:21:56.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "28cbf20734767f",
+      "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
+      "summary": "Coventry City interested in signing Chelsea winger Mykhaylo Mudryk on loan, Barcelona still chasing Manchester City midfielder Rodri and Manchester United make a move f...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5d127gv0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T22:20:24.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "eeff6b838eac3e",
+      "title": "Mount set to miss Man Utd's Dublin game with Leeds",
+      "summary": "Manchester United midfielder Mason Mount is expected to miss the club's penultimate pre-season encounter with Leeds at Croke Park.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y3v4ldlllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T20:37:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "99bf4de34668e7",
+      "title": "Emery positive about Aston Villa’s outlook despite summer exits as PSG await",
+      "summary": "Ebullient manager takes his side to Salzburg to cross swords with the European champions in the Super Cup One thing was almost instantly detectable as Unai Emery walked...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/11/emery-vows-to-keep-aston-villa-moving-forward-as-they-take-on-psg",
+      "publishedAt": "2026-08-11T20:14:18.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Football",
+        "Psg"
+      ]
+    },
+    {
+      "id": "5126893c3ab2e8",
+      "title": "Football Daily",
+      "summary": "Aaron Paul is joined by Andy Woodman, Luke Chambers and Lyle Taylor.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p3yxzk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T20:04:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -255,6 +339,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "2993e6b2f3e2d8",
+      "title": "Sheff Utd re-sign Man City's Phillips on loan",
+      "summary": "Sheffield United re-sign Manchester City midfielder Kalvin Phillips on a season-long loan deal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7j79j873o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T16:57:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
       "id": "830833630443d1",
       "title": "Myles Lewis-Skelly chooses between Man Utd, Chelsea, Arsenal with saga now over",
       "summary": "The one-day transfer saga involving Myles Lewis-Skelly has reached a speedy conclusion, with Man Utd, Chelsea and Arsenal now learning where he’ll play next season",
@@ -287,7 +384,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "2e86bd610f1efd",
-      "title": "What potential Bezos deal would mean for Liverpool",
+      "title": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
       "summary": "Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss",
@@ -503,107 +600,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a83a02ab9acad7",
-      "title": "Chelsea face Sociedad in Champions League qualifying",
-      "summary": "Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T11:35:40.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3ff555538315b0",
-      "title": "Chelsea face Real Sociedad in WCL third qualifying round with riches at stake",
-      "summary": "WSL team will be favourites against Spanish side Financial implications of missing out are significant Chelsea will face Real Sociedad in the Women’s Champions League’s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/11/chelsea-real-sociedad-womens-champions-league-wcl-third-qualifying-round",
-      "publishedAt": "2026-08-11T11:19:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2aa7b9b06a88d4",
-      "title": "Premier League transfer net spend table for 26/27 season",
-      "summary": "We all know Chelsea and Tottenham are spending all the money but where do they stand on the net spend Premier League table?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-transfer-net-spend-table-for-26-27-season",
-      "publishedAt": "2026-08-11T11:18:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "db5a84c306c163",
-      "title": "The map showing world's division over Infantino",
-      "summary": "BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T11:02:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Arsenal star wanted in Italy as City close in on £85m Rodri replacement",
-      "summary": "Roma could take one of Arsenal’s surplus stars off their hands, while Man City are finally close to closing a deal for a World Cup star…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-11T11:01:01.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "World Cup",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c38f75cc136df8",
-      "title": "Premier League 2026-27 preview No 4: Brentford",
-      "summary": "Keith Andrews and the high-scoring Igor Thiago face difficult second album after outperforming expectations Guardian writers’ predicted position: 8th (NB: this is not n...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/11/premier-league-2026-27-preview-brentford",
-      "publishedAt": "2026-08-11T11:00:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "aa777997f7ebe3",
-      "title": "Man Utd, Chelsea offered Arsenal star as Gunners to sell on one condition after Guimaraes arrival",
-      "summary": "According to reports, Manchester United and Chelsea have been given the opportunity to sign Arsenal star Myles Lewis-Skelly.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-chelsea-offered-arsenal-star-gunners-sell-one-condition-guimaraes-arrival",
-      "publishedAt": "2026-08-11T10:55:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
         "Manchester"
       ]
     }
