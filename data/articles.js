@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-12T19:06:05.723Z",
+  "generatedAt": "2026-08-13T02:20:45.678Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,64 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "87e3cf56f478a8",
-      "title": "Tielemans: I did not expect to leave Aston Villa for Man Utd this summer",
-      "summary": "'Not really, no' - the perhaps surprising answer from Manchester United’s summer signing Youri Tielemans when asked whether he expected to leave his former club Aston V...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572176/youri-tielemans-man-utd-midfield-on-joining-the-club-reuniting-with-marcus-rashford-and-jonny-evans-and-belgiums-world-cup-campaign",
-      "publishedAt": "2026-08-12T19:06:05.518Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ccfc50d674177d",
-      "title": "What next for Birmingham City? Why Davies is changing his approach",
-      "summary": "Birmingham City is a football club transformed. Over 20,000 season tickets have been sold for the forthcoming Championship season, with 14,000 more on the waiting list....",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566218/chris-davies-interview-birmingham-city-managers-tactical-change-could-take-this-ambitious-club-up-from-the-championship",
-      "publishedAt": "2026-08-12T19:06:05.518Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "522cfd094fe767",
-      "title": "Lakers to be sold in record-breaking £9bn deal",
-      "summary": "The Los Angeles Lakers are set to be sold for a record-breaking $12.5bn (£9.25bn) to Josh Kushner, the venture capitalist who was at the centre of FIFA's proposed new c...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nba/news/12040/13572287/los-angeles-lakers-sale-mark-walter-agrees-record-breaking-9bn-deal-to-sell-franchise-to-josh-kushner-and-bob-iger",
-      "publishedAt": "2026-08-12T19:06:05.518Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "1f3a10ebfd6b52",
-      "title": "Arsenal battling with Como in final pre-season friendly LIVE!",
-      "summary": "Arsenal battling with Como in final pre-season friendly LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-como/live/562442",
-      "publishedAt": "2026-08-12T19:06:05.517Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "144865c57427be",
       "title": "Everton breeze past lacklustre Newcastle in Murrayfield friendly",
       "summary": "Matthias Jaissle was given a hint of the task in hand as Newcastle boss as Premier League rivals Everton strolled to a comfortable 3-1 win in a pre-season friendly at M...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/newcastle-united-vs-everton/report/568648",
-      "publishedAt": "2026-08-12T19:06:05.517Z",
+      "publishedAt": "2026-08-13T02:20:45.390Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -164,19 +112,407 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "840b6d63b101b9",
-      "title": "European Super Cup: Paris Saint-Germain v Aston Villa – live",
-      "summary": "Live Super Cup updates from 8pm BST Email Scott | Premier League previews: Aston Villa It’s also a big night for the referee, who was royally stitched up by the Trump-I...",
+      "id": "920a6bd5f5ac81",
+      "title": "Chelsea stars for sale: The players who could leave - and what they'll cost",
+      "summary": "Chelsea are the Premier League's top spenders this summer with the bulk of their business done and attention is now turning to sales.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572382/chelsea-transfer-news-enzo-fernandez-nicolas-jackson-malo-gusto-and-more-in-spotlight-as-blues-look-to-player-sales",
+      "publishedAt": "2026-08-13T02:20:45.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b6c250b70275f4",
+      "title": "Guimaraes makes bow and Lewis-Skelly scores as Arsenal held by Como",
+      "summary": "Bruno Guimaraes made his first appearance and Myles Lewis-Skelly scored amid speculation about his future as Arsenal were held to a 1-1 draw by Como before winning 4-3...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-como/report/562442",
+      "publishedAt": "2026-08-13T02:20:45.389Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a6d1b8e3ec0398",
+      "title": "Arteta: There's more we want to do in the transfer market",
+      "summary": "Mikel Arteta says Arsenal are actively looking for more new signings in the transfer market but admits there is only a small pool of available players who can take them...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572410/mikel-arteta-says-arsenal-are-actively-looking-for-signings-in-the-transfer-market-after-bruno-guimaraes-makes-bow-in-friendly-against-como",
+      "publishedAt": "2026-08-13T02:20:45.389Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "22b33a700154db",
+      "title": "Chelsea set Man City deadline to bid for Fernandez",
+      "summary": "Chelsea have told Manchester City they have a deadline of 5pm this Friday to make an offer for Enzo Fernandez.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572395/enzo-fernandez-transfer-news-chelsea-set-man-city-deadline-to-bid-for-midfielder",
+      "publishedAt": "2026-08-13T02:20:45.389Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ff1778d63fe8a5",
+      "title": "Doue silences Madjo-mania as PSG beat Villa to win Super Cup",
+      "summary": "Desire Doue scored the winner as champions of Europe Paris Saint-Germain beat Aston Villa 2-1 to win the UEFA Super Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-aston-villa/report/556002",
+      "publishedAt": "2026-08-13T02:20:45.389Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "1f3a10ebfd6b52",
+      "title": "Arsenal 1-1 Como commentary",
+      "summary": "Arsenal 1-1 Como commentary",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-vs-como/live/562442",
+      "publishedAt": "2026-08-13T02:20:45.389Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "534c9892d84196",
+      "title": "Rashford absent in Leeds friendly win but still part of Man Utd plans",
+      "summary": "Joshua Zirkzee and Brenden Aaronson scored as Manchester United and old foes Leeds played out an entertaining 1-1 friendly draw at the spiritual home of Irish sport in...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-leeds-united/report/555721",
+      "publishedAt": "2026-08-13T02:20:45.388Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "94a0186ef741a7",
+      "title": "Papers: Arsenal hold further talks over Villa's Konsa",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk",
+      "publishedAt": "2026-08-13T02:20:45.387Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b651c669fcc60c",
+      "title": "Fearless Madjo, 17, ends eight-month wait with dream Villa debut",
+      "summary": "Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive gam...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T23:16:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "8e830155e884e0",
+      "title": "Premier League 2026-27 preview No 7: Coventry",
+      "summary": "After 25 years away, can Coventry make their return to the top division stick under Frank Lampard? Guardian writers’ predicted position: 18th (NB: this is not necessari...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/aug/12/european-super-cup-paris-saint-germain-v-aston-villa-live",
-      "publishedAt": "2026-08-12T18:57:55.000Z",
+      "url": "https://www.theguardian.com/football/2026/aug/13/premier-league-2026-2026-preview-7-coventry",
+      "publishedAt": "2026-08-12T23:01:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6713a8d8101eb0",
+      "title": "Kvaratskhelia and Madjo show that beautiful game can wash away Infantino’s stain | Nick Ames",
+      "summary": "Uefa presented some of its crown jewels through European champions PSG but the turmoil engulfing Fifa is still the main topic on the menu This was an opportune night to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/psg-aston-villa-uefa-super-cup-kvaratskhelia-fifa-gianni-infantino",
+      "publishedAt": "2026-08-12T22:56:03.000Z",
       "category": "worldcup",
+      "region": "france",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "b826e99fe1c035",
+      "title": "Doué seals Super Cup glory for PSG after Madjo makes history for Aston Villa",
+      "summary": "Uefa Super Cup: Paris Saint-Germain 2-1 Aston Villa Kvaratskhelia 20, Doué 62; Madjo 45 Luis Enrique says it doesn’t matter which sport he is playing – football, tennis...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/uefa-super-cup-aston-villa-psg-match-report",
+      "publishedAt": "2026-08-12T22:48:42.000Z",
+      "category": "ucl",
+      "region": "france",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "c84f29d5a6f8dc",
+      "title": "How 'hugely impressive' Villa teen Madjo took fight to PSG",
+      "summary": "Match of the Day's Nedum Onuoha and Stephen Warnock analyse 17-year-old Brian Madjo's \"hugely impressive\" goalscoring performance for Aston Villa in their 2-1 defeat by...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2k72pep488o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T22:35:31.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "bf4d035f9f05c3",
+      "title": "Atlético Madrid agree £34.1m deal for Tottenham’s Cristian Romero",
+      "summary": "Centre-back closes on move to La Liga side Hull break their transfer record to sign Nobel Mendy Tottenham have reached an agreement with Atlético Madrid over the sale o...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero",
+      "publishedAt": "2026-08-12T22:16:37.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0199463812a480",
+      "title": "Galatasaray submit Martinelli bid - Thursday's gossip",
+      "summary": "Arsenal have received a bid from Galatasaray for Gabriel Martinelli, Spain midfielder Martin Zubimendi could leave the Gunners for Chelsea and Newcastle push for Benfic...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy42p7r00zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T22:09:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f211a8153b138b",
+      "title": "Chelsea set Friday deadline over £120m Fernandez",
+      "summary": "Chelsea set a Friday deadline for offers of £120m for clubs interested in midfielder Enzo Fernandez.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwym2pkjxnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:49:06.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d197067531382e",
+      "title": "Fernandes the centre of attention - but what next for Man Utd captain?",
+      "summary": "Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:40:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c36b35b7de41b0",
+      "title": "Highlights: PSG beat Aston Villa in Super Cup",
+      "summary": "Paris Saint-Germain beat Aston Villa in the Uefa Super Cup with goals from Khvicha Kvaratskhelia and Desire Doue.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cre4pxn402ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:39:01.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "cbfed33aec115e",
+      "title": "Doue goal awarded on VAR after tight offside",
+      "summary": "Desire Doue's goal is awarded after initially being flagged offside to give PSG the lead in the second half of the Super Cup against Aston Villa.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gw5zrznq1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:29:07.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Psg"
+      ]
+    },
+    {
+      "id": "e7bebd27bdc049",
+      "title": "Teenager Madjo scores equaliser for Villa",
+      "summary": "17-year-old Brian Madjo equalisers for Aston Villa against PSG in the Uefa Super Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn5np12dzqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:25:37.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "65601f54e3b723",
+      "title": "Guimaraes makes Arsenal debut in draw with Como",
+      "summary": "Bruno Guimaraes put in an assured performance as he made his Arsenal debut in a 1-1 friendly draw with Como at Emirates stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kp6k3p1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:24:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ddb5b38f7bcc06",
+      "title": "Atletico agree £34.2m deal for Tottenham's Romero",
+      "summary": "Cristian Romero is set to join La Liga side Atletico Madrid as they agree a £34.2m fee with Tottenham for their captain.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8e2vx2l30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:18:21.000Z",
+      "category": "transfer",
       "region": "england spain",
+      "tags": [
+        "La Liga"
+      ]
+    },
+    {
+      "id": "4bf7215ff09dce",
+      "title": "Kvaratskhelia smashes PSG into lead in Super Cup",
+      "summary": "Khvicha Kvaratskhelia smashes PSG into lead in the Uefa Super Cup against Aston VIlla.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3r02v44vxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T21:01:28.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Uefa",
+        "Psg"
+      ]
+    },
+    {
+      "id": "0a8e72bf4c8827",
+      "title": "Manchester United enjoy trip to Dublin with penalty shootout win over Leeds",
+      "summary": "Manchester United 1-1 Leeds (5-4 on pens) First game between two ­English clubs at Croke Park With blazing sunshine fading over a hot Dublin day, this penultimate frien...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/manchester-united-leeds-friendly-match-report",
+      "publishedAt": "2026-08-12T21:01:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f97037e0fd002",
+      "title": "Anderson still pained by England defeat but ready to shine at Manchester City",
+      "summary": "Midfielder takes confidence from World Cup performances Anderson intent on making impact for City Elliot Anderson has admitted ­England’s World Cup semi-final defeat to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/elliot-anderson-england-argentina-world-cup-manchester-city-premier-league",
+      "publishedAt": "2026-08-12T21:00:39.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
         "Football",
         "Premier League",
-        "Europa League",
-        "World Cup"
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "8b6e2e0a60b1a8",
+      "title": "Fabrizio Romano reveals Arsenal ‘contact’ for new Atletico Madrid star",
+      "summary": "Julian Alvarez is not the only Atletico Madrid star Arsenal hope to sign this summer, with Fabrizio Romano detailing their latest approach",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-transfer-news-fabrizio-romano-marc-pubill-atletico-madrid",
+      "publishedAt": "2026-08-12T20:43:24.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7392de2e691c42",
+      "title": "Messi's most iconic moments as he ponders retirement",
+      "summary": "As Lionel Messi considers his footballing future following the death of his father, BBC Sport looks back at some of his most iconic moments.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74x9zd83vlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:32:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e9405dcf8cf437",
+      "title": "Xavi Hernández appointed head coach of the Netherlands on four-year contract",
+      "summary": "Former Barcelona coach given deal until 2030 World Cup Spaniard has been out of management since 2024 The former Barcelona head coach Xavi Hernández has been appointed...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/12/xavi-hernandez-appointed-head-coach-of-the-netherlands-on-four-year-contract",
+      "publishedAt": "2026-08-12T20:26:36.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "93bc09728056ac",
+      "title": "Xavi becomes first non-Dutch Netherlands coach since 1978",
+      "summary": "Former Barcelona manager Xavi is appointed as the new head coach of the Netherlands on a four-year deal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77g5dne45lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:15:18.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
       ]
     },
     {
@@ -258,336 +594,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "82e8c39684ba0b",
-      "title": "Liverpool’s new third kit is a nod to one of Anfield’s most iconic traditions",
-      "summary": "Liverpool are set to launch a maroon third kit to complete the initial kit line-up for the new 2025/26 Premier League season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpools-new-third-kit-is-a-nod-to-one-of-anfields-most-iconic-traditions",
-      "publishedAt": "2026-08-12T15:41:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b28c79a7df48bc",
-      "title": "Arsenal reignite interest in Aston Villa's Konsa",
-      "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T15:21:59.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6dd60799943183",
-      "title": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
-      "summary": "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/12/australia-football-talent-socceroos-lucas-herrington-nestory-irankunda-transfers-premier-league",
-      "publishedAt": "2026-08-12T15:00:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eac93ed5022ff4",
-      "title": "Football Daily | Newcastle’s ‘rock star’ plays the hits but will he find it hard to stay in Toon?",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/12/newcastle-matthias-jaissle-football-daily-newsletter",
-      "publishedAt": "2026-08-12T14:52:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Everton can’t entertain Liverpool enquiry, City eye Anfield raid",
-      "summary": "Everton might as well disband if they sell their best player to Liverpool, who might be receiving a call from Man City about a midfielder…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-12T14:45:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f3ebae2de90a07",
-      "title": "Palace bid for Monaco midfielder Camara rejected",
-      "summary": "Ligue 1 side Monaco reject Crystal Palace's verbal bid for midfielder Lamine Camara.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl27w90xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T14:20:21.000Z",
-      "category": "transfer",
-      "region": "france",
-      "tags": [
-        "Ligue 1"
-      ]
-    },
-    {
-      "id": "16c6174b8001c1",
-      "title": "Michael Owen feels shock club can ‘mount challenge’ on Arsenal for Prem title",
-      "summary": "Michael Owen has revealed which club he feels can “mount a challenge” for the Premier League title, with holders Arsenal remaining the favourites.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-owen-chelsea-mount-challenge-arsenal-premier-league-title",
-      "publishedAt": "2026-08-12T14:16:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "30d76def7d8059",
-      "title": "Lionel Messi has ‘quite a few doubts’ about football future after death of his father",
-      "summary": "Messi’s father, ⁠Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi has hinted that the end of his career may be near a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-      "publishedAt": "2026-08-12T14:16:12.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ae32521d7b5e75",
-      "title": "Liverpool reach decision on paying record fee for Bradley Barcola with deal not off",
-      "summary": "Liverpool chiefs reportedly do not intend to pay a club-record fee to sign Paris Saint-Germain star Bradley Barcola this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-reach-decision-paying-record-fee-bradley-barcola-deal-not-off",
-      "publishedAt": "2026-08-12T13:59:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "99c212c81d8e5a",
-      "title": "Messi unsure he will play 'much longer' after father's death",
-      "summary": "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T13:48:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c4cee8406f9669",
-      "title": "Sky Sports reveal agreed Euro giant sale triggering renewed attempt to land Liverpool star",
-      "summary": "The agreement of the sale of a European giant star will trigger the club to make a fresh attempt to sign a Liverpool man, according to Sky Sports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/agreed-inter-milan-sale-frattesi-triggers-attempt-curtis-jones",
-      "publishedAt": "2026-08-12T13:45:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b8c60fa0ce94b0",
-      "title": "Inter in advanced talks for Spurs full-back Spence",
-      "summary": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25.6m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T13:43:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "f99d02b457b957",
-      "title": "Everton's Sherif charged with 61 alleged bets on matches",
-      "summary": "The Football Association charges Everton's Martin Sherif with breaching betting rules after allegedly placing 61 bets on football matches.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgvzpzxedjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T13:36:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "0389603e1f06b4",
-      "title": "Arsenal boss Mikel Arteta makes U-turn on selling Chelsea target as update on Gunners trio emerges",
-      "summary": "Arsenal boss Mikel Arteta has reportedly made a U-turn on whether to sell Ethan Nwaneri, while there are also updates on Myles Lewis-Skelly and Gabriel Martinelli.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-boss-mikel-arteta-makes-u-turn-selling-chelsea-target-nwaneri",
-      "publishedAt": "2026-08-12T13:26:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c146d113bee081",
-      "title": "Arsenal told how to land Ezri Konsa as Cristian Romero deal will take ‘astronomical fee’",
-      "summary": "Arsenal have learned how they can convince Aston Villa to sell them Ezri Konsa, after being told Cristian Romero would cost an “astronomical fee.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-told-land-konsa-astronomical-fee-romero",
-      "publishedAt": "2026-08-12T13:01:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c438077219c1a6",
-      "title": "La Liga to inspect Celta Vigo's pitch after fungus outbreak",
-      "summary": "La Liga officials are set to inspect the pitch at Celta Vigo's Estadio de Balaidos over a suspected fungus outbreak.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7pqwwyp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T13:01:06.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga"
-      ]
-    },
-    {
-      "id": "64e89555aaeac6",
-      "title": "Man City exploring Liverpool signing as Romano confirms £120m price in connected deal",
-      "summary": "Man City are weighing up a more ‘affordable’ move for to sign a Liverpool midfielder if unable to sign £120m-rated Enzo Fernandez from Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-exploring-shock-liverpool-alexis-mac-allister-signing-fabrizio-romano-confirms-120m-price-enzo-fernandez",
-      "publishedAt": "2026-08-12T13:00:57.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2ff1531976db39",
-      "title": "Tottenham receive green light to sign ex-Arsenal star after Romano reveals truth on transfer",
-      "summary": "Tottenham Hotspur reportedly have a ‘green light’ to sign ex-Arsenal star Folarin Balogun, but Fabrizio Romano has revealed the truth on the deal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-receive-green-light-sign-ex-arsenal-star-romano-reveals-truth-transfer",
-      "publishedAt": "2026-08-12T12:30:48.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b55ffe728b76da",
-      "title": "Cult indoor event Tennent's Soccer Sixes returns",
-      "summary": "All 12 Scottish Premiership clubs will enter teams into a legends version of cult indoor tournament the Tennent's Soccer Sixes later this year.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg6p8pg55go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T12:00:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Soccer"
-      ]
-    },
-    {
-      "id": "fd201086c295e3",
-      "title": "£26m Newcastle target decides transfer preference after Matthias Jaissle approves signing",
-      "summary": "Benfica star Amar Dedic reportedly wants to join Newcastle United, while new head coach Matthias Jaissle has ‘approved’ his arrival.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/26m-newcastle-target-decides-transfer-preference-matthias-jaissle-approves-signing",
-      "publishedAt": "2026-08-12T11:48:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "295f525265b096",
-      "title": "Former Tottenham man tells Arsenal of ‘bigger coup’ from Spurs than Romero after shock links",
-      "summary": "A former Tottenham scout has told rivals Arsenal of a “bigger coup” from Spurs than Cristian Romero, who was recently linked with the Premier League champions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-bigger-coup-tottenham-romero-spence",
-      "publishedAt": "2026-08-12T11:45:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b083e0b000b87b",
-      "title": "McClean remains Derry City player - Connolly",
-      "summary": "Derry City interim manager Mark Connolly reiterates that James McClean remains employed by the club despite speculation over his future.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/cjwx8ppp6x3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T11:24:16.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "90dde8ae936491",
-      "title": "Bonkers football sparks confusion as Man Utd get clever in the transfer market",
-      "summary": "The biggest story in the whole wide world of football today involves a goose and a Love Island ‘reject’. We really wish we were making this up.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/goose-sparks-confusion-man-united-get-clever-transfer-mediawatch",
-      "publishedAt": "2026-08-12T11:17:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "21c9bc1a3fdb83",
-      "title": "Premier League 2026-27 preview No 6: Chelsea",
-      "summary": "After a period of underachievement and upheaval for the Blues, the arrival of Xabi Alonso could signal a change in fortunes Guardian writers’ predicted position: 3rd (N...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/12/premier-league-2026-27-preview-no-6-chelsea",
-      "publishedAt": "2026-08-12T11:00:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea"
       ]
     }
   ],
