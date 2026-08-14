@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-13T19:06:44.469Z",
+  "generatedAt": "2026-08-14T02:18:26.291Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,58 +99,184 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "26a3805bfca4ca",
-      "title": "Carrick: We want and need more signings at Man Utd",
-      "summary": "Manchester United head coach Michael Carrick says the club \"want\" and \"need\" to do more transfer business before the summer window closes on September 1.",
+      "id": "297b1c190de39e",
+      "title": "Rangers booed off after Europa League exit as McInnes' winless start goes on",
+      "summary": "Derek McInnes' winless start to life at Rangers hit its lowest point as they were embarrassed and dumped out of the Europa League to a chorus of boos by Jagiellonia Bia...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572595/man-utd-transfer-news-michael-carrick-says-he-wants-and-needs-more-signings-before-the-end-of-the-summer-window",
-      "publishedAt": "2026-08-13T19:06:44.093Z",
+      "url": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/report/571444",
+      "publishedAt": "2026-08-14T02:18:26.288Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "2f6682de8ab44b",
+      "title": "Papers: Arsenal hold talks over Osimhen with Galatasaray",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572744/arsenal-transfer-news-gunners-discuss-victor-osimhen-with-galatasaray-amid-gabriel-martinelli-and-ethan-nwaneri-talks-paper-talk",
+      "publishedAt": "2026-08-14T02:18:26.287Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Manchester"
+        "Arsenal"
       ]
     },
     {
-      "id": "cc980b24721576",
-      "title": "West Ham latest: Interim chief exec Virani targets Premier League return",
-      "summary": "West Ham latest: Interim chief exec Virani targets Premier League return",
+      "id": "619f047f41d04c",
+      "title": "Rangers 'are not ready' to compete in Europa League, says McInnes",
+      "summary": "Derek McInnes admitted Rangers are \"not ready\" to compete at Europa League level.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-      "publishedAt": "2026-08-13T19:06:44.092Z",
+      "url": "https://www.skysports.com/football/news/12040/13572768/rangers-derek-mcinnes-admits-rangers-not-ready-to-compete-in-europa-league-as-dismal-winless-run-continues",
+      "publishedAt": "2026-08-14T02:18:26.287Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Premier League",
+        "Europa League"
+      ]
+    },
+    {
+      "id": "1b7cea5ded95b3",
+      "title": "What's going wrong for Rangers and McInnes?",
+      "summary": "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T23:43:51.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "2ceb64bdc8cd23",
+      "title": "Premier League 2026-27 preview No 9: Everton",
+      "summary": "Modest but sensible-looking recruitment befits the club’s new air of stability but a continuation of their spring slump could test David Moyes’s appetite for the fight...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-9-everton",
+      "publishedAt": "2026-08-13T23:01:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "bb5bf2ab7185a2",
+      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
+      "summary": "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk46yrk2pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T22:49:29.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
         "Inter"
       ]
     },
     {
-      "id": "5d3477646b5040",
-      "title": "Could UK diaspora players represent India? | Bhatia closes in on Liverpool stake",
-      "summary": "Welcome to Dev's Digest, a regular Sky Sports column in which Asian Football Award winner Dev Trehan delivers exclusive news and reflects on some of the key development...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570292/devs-digest-will-british-indians-represent-india-national-team-amit-bhatia-closes-in-on-liverpool-stake-yan-dhandas-debut-revisited",
-      "publishedAt": "2026-08-13T19:06:44.092Z",
+      "id": "9436441489d936",
+      "title": "Man City's Reijnders set for £52m Saudi move",
+      "summary": "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T22:12:05.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "51b6276e28dbc3",
+      "title": "Man City reject fresh Rodri bid - Friday's gossip",
+      "summary": "Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T22:03:35.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Barcelona",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "ab233550bf6677",
+      "title": "Rangers crash out of Europa League as Derek McInnes’s winless start goes on",
+      "summary": "Rangers 1-1 Jagiellonia Bialystok (2-3 agg) Spirited Hearts hold Benfica but also out of competition Derek McInnes’s fledgling tenure as Rangers manager is in disarray...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/13/rangers-crash-out-of-europa-league-as-derek-mcinness-winless-start-goes-on",
+      "publishedAt": "2026-08-13T21:30:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Europa League"
+      ]
+    },
+    {
+      "id": "3e41ace075dc35",
+      "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
+      "summary": "England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydz50jnz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T21:09:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "4e515b917e8a71",
+      "title": "PSG agree deal in principle for Barcelona's Torres",
+      "summary": "Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T20:36:21.000Z",
+      "category": "transfer",
+      "region": "spain france",
+      "tags": [
+        "Barcelona",
+        "Psg"
+      ]
+    },
+    {
+      "id": "ba05ee5f6faeac",
+      "title": "Sky Sports man reveals how Man City can sign Enzo Fernandez after ‘major sale’ agreed",
+      "summary": "Manchester City have agreed a ‘major sale’ and the addition of that to other departures this summer could help them to land Chelsea star Enzo Fernandez.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-sky-sports-man-major-sale-reijnders-enzo-fernandez",
+      "publishedAt": "2026-08-13T19:41:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0071fad5475f67",
+      "title": "Championship spending hits record levels and likely to go higher as playoffs expand",
+      "summary": "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championsh...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/13/championship-spending-record-premier-league-playoffs",
+      "publishedAt": "2026-08-13T19:00:05.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e9127e2357047e",
-      "title": "PSV winger Driouech at Ibrox before expected Rangers move",
-      "summary": "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T18:41:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
+        "Premier League"
       ]
     },
     {
@@ -471,133 +597,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ebbc897d099208",
-      "title": "Man Utd told to replace ‘not good enough’ star and play academy product instead – ‘he can’t run’",
-      "summary": "An ex-Manchester United player has told his former club to replace England international Luke Shaw, who “can’t run, defend or attack”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-told-replace-not-good-enough-star",
-      "publishedAt": "2026-08-13T12:46:43.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4dc550809e6c37",
-      "title": "Ten best wingers available this summer includes Liverpool target Barcola and Milan duo",
-      "summary": "Arsenal and Liverpool transfer target Bradley Barcola leads the way in this ranking of the top 10 best available wingers.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-wingers-available-this-summer-ranking-arsenal-liverpool-targets",
-      "publishedAt": "2026-08-13T12:45:20.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool",
-        "Milan"
-      ]
-    },
-    {
-      "id": "18dcf34f63540c",
-      "title": "Why Liverpool are actually a ridiculous bargain for Bezos and co. at £4.4 billion",
-      "summary": "A consortium including Jeff Bezos looks set to buy a minority stake in Liverpool at a £4.4 billion valuation. Perversely, the data suggests a bargain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/why-liverpool-are-actually-a-ridiculous-bargain-for-bezos-and-co-at-4-4-billion",
-      "publishedAt": "2026-08-13T12:35:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7afe07be939d6e",
-      "title": "Enzo Fernandez agrees terms with Man City as Chelsea make contact with top two replacement targets",
-      "summary": "Enzo Fernandez and Manchester City have reportedly ‘agreed terms’ over a move to the Etihad, while Chelsea are moving to replace him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/enzo-fernandez-agrees-terms-man-city-chelsea-contact-two-replacement-targets",
-      "publishedAt": "2026-08-13T12:11:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fb534913c8688e",
-      "title": "‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow",
-      "summary": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/13/aston-villa-brian-madjo-makes-mark-psg",
-      "publishedAt": "2026-08-13T12:00:00.000Z",
-      "category": "ratings",
-      "region": "france",
-      "tags": [
-        "Football",
-        "Uefa",
-        "Psg"
-      ]
-    },
-    {
-      "id": "7c7f60bbadeca8",
-      "title": "Our EFL preview and a Super Cup review as PSG prevail: Football Weekly | Football Weekly podcast",
-      "summary": "Max Rushden is joined by George Elek, Ali Maxwell and Seb Hutchinson to run through all you need to know about the Championship, League One and League Two Continue read...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/aug/13/efl-preview-super-cup-review-psg-aston-villa-football-weekly-podcast-video",
-      "publishedAt": "2026-08-13T11:54:12.000Z",
-      "category": "league",
-      "region": "france",
-      "tags": [
-        "Football",
-        "Psg"
-      ]
-    },
-    {
-      "id": "054d4d9d5cc29f",
-      "title": "Critical former referees add to culture of fear, says retiring Taylor",
-      "summary": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T11:35:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "654c6466568205",
-      "title": "BBC Women's Football Weekly",
-      "summary": "Featuring Casparij, Miedema, Clinton, Shaw, Jeglertz and new signing Beth Mead!",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p48r33?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T11:29:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "0c6d79d2387416",
-      "title": "Arteta reveals why Man Utd interest in Myles Lewis-Skelly is good news for Arsenal",
-      "summary": "Mikel Arteta has reacted to speculation Arsenal could sell Lewis-Skelly in a shock deal involving Man Utd or Chelsea",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-news-myles-lewis-skelly-man-utd-mikel-arteta",
-      "publishedAt": "2026-08-13T11:26:42.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
         "Inter"
       ]
     }
