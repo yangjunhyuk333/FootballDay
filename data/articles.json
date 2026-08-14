@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:37:56.718Z",
+  "generatedAt": "2026-08-14T13:15:20.150Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,16 @@
       "pinned": true
     },
     {
-      "id": "297b1c190de39e",
-      "title": "Rangers booed off after Europa League exit as McInnes' winless start goes on",
-      "summary": "Derek McInnes' winless start to life at Rangers hit its lowest point as they were embarrassed and dumped out of the Europa League to a chorus of boos by Jagiellonia Bia...",
+      "id": "9eae3e46d60102",
+      "title": "Today on Sky Sports Racing: Efsixteen returns in hot Newbury race",
+      "summary": "We have an interesting day's racing on Friday with Flat action from Newbury and Yarmouth, live on Sky Sports Racing...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/report/571444",
-      "publishedAt": "2026-08-14T07:37:56.198Z",
+      "url": "https://www.skysports.com/racing/news/12040/13572338/today-on-sky-sports-racing-newbury-and-yarmouth-feature-live-on-friday-as-efsixteen-returns-in-hot-contest",
+      "publishedAt": "2026-08-14T13:15:19.965Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Europa League"
+        "Inter"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13572744/arsenal-transfer-news-gunners-discuss-victor-osimhen-with-galatasaray-amid-gabriel-martinelli-and-ethan-nwaneri-talks-paper-talk",
-      "publishedAt": "2026-08-14T07:37:56.197Z",
+      "publishedAt": "2026-08-14T13:15:19.965Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,29 +126,46 @@
       ]
     },
     {
-      "id": "619f047f41d04c",
-      "title": "McInnes in damning Rangers claim as opponents make 'WiFi password' jibe",
-      "summary": "Derek McInnes admitted Rangers are \"not ready\" to compete at Europa League level.",
+      "id": "07ce4c669d66c7",
+      "title": "Is Fernandez worth two Rodris? Transfer valuations explained",
+      "summary": "Speculation is swirling around two of the Premier League's leading midfielders. As Barcelona push to sign Rodri , Manchester City are being linked with a move for Enzo...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572768/rangers-derek-mcinnes-admits-rangers-not-ready-to-compete-in-europa-league-as-dismal-winless-run-continues",
-      "publishedAt": "2026-08-14T07:37:56.197Z",
+      "url": "https://www.skysports.com/football/news/12040/13572855/is-enzo-fernandez-worth-two-rodris-transfer-valuations-explained-as-chelsea-and-man-city-midfielders-linked-with-moves-between-the-lines",
+      "publishedAt": "2026-08-14T13:15:19.964Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england spain",
       "tags": [
-        "Europa League"
+        "Premier League",
+        "Transfer",
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
-      "id": "9eae3e46d60102",
-      "title": "Today on Sky Sports Racing: Efsixteen returns in hot Newbury race",
-      "summary": "We have an interesting day's racing on Friday with Flat action from Newbury and Yarmouth, live on Sky Sports Racing...",
+      "id": "fd2bb6ba3fb02a",
+      "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
+      "summary": "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitable Jarrod Bowen would not be there to join them as they returned to t...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13572338/today-on-sky-sports-racing-newbury-and-yarmouth-feature-live-on-friday-as-efsixteen-returns-in-hot-contest",
-      "publishedAt": "2026-08-14T07:37:56.196Z",
+      "url": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain",
+      "publishedAt": "2026-08-14T13:15:19.964Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Premier League"
+      ]
+    },
+    {
+      "id": "f540b9709a327e",
+      "title": "Spurs agree £30m deal with Inter for Spence",
+      "summary": "Inter Milan have agreed a £30m deal to sign England defender Djed Spence from Tottenham.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572315/djed-spence-transfer-news-tottenham-and-inter-milan-agree-30m-deal-for-england-defender",
+      "publishedAt": "2026-08-14T13:15:19.964Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter",
+        "Milan"
       ]
     },
     {
@@ -157,12 +174,420 @@
       "summary": "Sky Sports News takes you through a selection of the back page headlines from Friday morning's papers.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13572832/paper-talk-the-latest-on-transfers-liverpool-and-tuchels-england",
-      "publishedAt": "2026-08-14T07:37:56.195Z",
+      "publishedAt": "2026-08-14T13:15:19.964Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "c0bfcb9b448566",
+      "title": "Arsenal in talks with Leverkusen over Quansah",
+      "summary": "Arsenal are in talks with Bayer Leverkusen over a possible deal for England defender Jarell Quansah.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572821/jarell-quansah-arsenal-in-talks-with-bayer-leverkusen-over-signing-england-and-former-liverpool-defender",
+      "publishedAt": "2026-08-14T13:15:19.964Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "5b9e578c152c3b",
+      "title": "£60m Arsenal signing now considered 99% done with deal with Aston Villa at final stages",
+      "summary": "According to reports, Ezri Konsa’s proposed move from Aston Villa to Arsenal is now considered ‘99% done’ with an ‘agreement’ reached.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/60m-arsenal-signing-now-99-done-deal-aston-villa-final-stages",
+      "publishedAt": "2026-08-14T13:12:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9b10aaa0432003",
+      "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football – live",
+      "summary": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Stuart Arsenal are in talks with Bayer Leverkusen over Jarel...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/aug/14/championship-kicks-off-fifa-latest-and-community-shield-buildup-football-live",
+      "publishedAt": "2026-08-14T13:07:10.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Fifa",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f05ce89a5e8f88",
+      "title": "EFL says losses not sustainable after PFA legal action",
+      "summary": "The level of losses in football creates \"a systemic insolvency risk\" for the pyramid, says EFL chief executive Trevor Birch.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7yl78mjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T13:01:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T12:45:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e692a2a743172c",
+      "title": "Liverpool pause Barcola negotiations for two reasons after Romano confirms terms ‘agreement’",
+      "summary": "According to reports, Liverpool have decided to ‘pause negotiations’ with Paris Saint-Germain about a deal for Bradley Barcola.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-pause-barcola-negotiations-two-reasons-romano-agreement",
+      "publishedAt": "2026-08-14T12:41:57.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "69c0549f8b75ce",
+      "title": "A pivotal day for Chelsea, Man City and Fernandez - what's going on?",
+      "summary": "Chelsea's deadline to Manchester City for an Enzo Fernandez bid is 17:00 BST on Friday - will the deal happen?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vgyrl2573o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T12:40:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6f5a3a98af1c3e",
+      "title": "Fabrizio Romano reveals Liverpool decision on Rio Ngumoha sale as Barcola deal advances",
+      "summary": "Liverpool have decided whether to keep or sell dazzling 17-year-old talent Rio Ngumoha amid their pursuit of two more wingers, as per Fabrizio Romano",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfers-news-fabrizio-romano-rio-ngumoha-sale-bradley-barcola-talks",
+      "publishedAt": "2026-08-14T12:35:51.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "033e3a38acc9e7",
+      "title": "Man Utd step up efforts to sign Arsenal target Jarell Quansah as Liverpool clear path",
+      "summary": "According to reports, Manchester United and Arsenal are in ‘active talks’ about signing former Liverpool centre-back Jarell Quansah.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-step-up-efforts-sign-arsenal-target-jarell-quansah-liverpool",
+      "publishedAt": "2026-08-14T11:49:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cec732284f3602",
+      "title": "Aston Villa ‘agreement’ in place for World Cup star as second move crumbles",
+      "summary": "Aston Villa have ‘reached an agreement in principle’ on personal terms with a World Cup star, and are negotiating club terms, while a second deal has hit the rocks.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-wan-bissaka-ageement-reached-palhinha-move-off",
+      "publishedAt": "2026-08-14T11:38:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9a7df554188f9a",
+      "title": "Enzo Maresca says Manchester City will not meet Chelsea’s deadline for Fernández",
+      "summary": "Chelsea set 5pm Friday deadline for bids for midfielder Maresca: ‘I don’t think we’re going to do something today’ Enzo Maresca is expecting a busy end to the transfer...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/14/enzo-maresca-manchester-city-chelsea-fernandez-rodri-transfer",
+      "publishedAt": "2026-08-14T11:25:06.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "068bb0957330ad",
+      "title": "Jamie Carragher tells Arsenal to avoid ‘strange’ transfer after ‘offer’ to Man Utd – ‘I still can’t believe it’",
+      "summary": "Liverpool legend Jamie Carragher has reacted to reports suggesting Arsenal could offload Myles Lewis-Skelly this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jamie-carragher-tells-arsenal-avoid-strange-transfer-offer-man-utd",
+      "publishedAt": "2026-08-14T11:09:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fcb79575abf84c",
+      "title": "Arsenal told Quansah signing is ‘no-brainer’ as Morrison asks big question of Gunners pair",
+      "summary": "Clinton Morrison has told Arsenal that signing Jarell Quansah is a “no-brainer” as he feels they need depth, with questions asked of William Saliba and Gabriel Magalhaes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-centre-back-link-quansah-no-brainer-questions-saliba-gabriel",
+      "publishedAt": "2026-08-14T11:05:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2598d0b7942d9a",
+      "title": "Premier League 2026-27 preview No 10: Fulham",
+      "summary": "With Marco Silva leaving after five years, can the club take advantage of the links their new coach, Álvaro Arbeloa, has with Real Madrid? Guardian writers’ predicted p...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-10-fulham",
+      "publishedAt": "2026-08-14T11:00:26.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "bd52a0964d0457",
+      "title": "Arsenal express interest in signing Quansah",
+      "summary": "Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T10:35:26.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b36c1b47f2a322",
+      "title": "Man Utd interested in signing Bayern Munich star as his very clear stance on transfer revealed",
+      "summary": "According to reports, Manchester United are ‘interested’ in signing Bayern Munich star Kim-Min jae, who has a ‘very clear’ stance on leaving.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-interested-signing-bayern-munich-star-very-clear-stance-transfer-revealed",
+      "publishedAt": "2026-08-14T10:32:00.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "4c513a8f332bdd",
+      "title": "Liverpool ‘transfer bombshell’ gives them ‘major boost’ for Barcola signing",
+      "summary": "Liverpool have been rocked by the revelation that Bradley Barcola plays for Paris Saint-Germain, whose next signing is a ‘boost’ for the Reds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-bombshell-major-boost-barcola-signing",
+      "publishedAt": "2026-08-14T10:26:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "03063d5944a12e",
+      "title": "European Cup winner Rimmer dies aged 78",
+      "summary": "European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20eyww3vyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T10:13:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3fcbc9f950337f",
+      "title": "Liverpool's Lundgaard joins Eintracht Frankfurt",
+      "summary": "Liverpool midfielder Sofie Lundgaard completes a permanent transfer to Eintracht Frankfurt for an undisclosed fee.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlx1023wd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T10:00:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "43d7bd56ee85b3",
+      "title": "How will the three promoted teams fare in the Premier League?",
+      "summary": "Sunderland and Leeds defied the odds and stayed up last season. Will Coventry, Hull and Ipswich continue the trend? By WhoScored A quarter of a century after their last...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/aug/14/premier-league-promoted-teams-coventry-hull-ipswich",
+      "publishedAt": "2026-08-14T10:00:24.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "b393c1aee51d44",
+      "title": "Arsenal ‘in talks’ to sign ex-Liverpool star as Gunners must pay ‘considerably more’ than £30m",
+      "summary": "According to reports, Arsenal are now ‘in talks’ over the possibility of signing ex-Liverpool star Jarell Quansah as an alternative to Ezri Konsa.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-in-talks-sign-ex-liverpool-star-quansah",
+      "publishedAt": "2026-08-14T09:51:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cc02aa57a6b937",
+      "title": "How much do you know about the Football League? Find out with our quiz",
+      "summary": "Kick off the new season in the Championship, League One and League Two with our 16-question quiz By The Football Mine This is a quiz by Richard Foster, who presents the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/14/football-league-efl-new-season-quiz-championship-league-one-league-two",
+      "publishedAt": "2026-08-14T09:22:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f0cec2a53e67cc",
+      "title": "Arsenal reach ‘agreement’ for next signing as Ezri Konsa verdict on joining Gunners revealed",
+      "summary": "According to reports, Arsenal have an ‘agreement’ to sign a Liverpool teenager, while there is an update on their move for Ezri Konsa.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-reach-agreement-next-signing-ezri-konsa-verdict-joining-gunners-revealed",
+      "publishedAt": "2026-08-14T09:20:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6727a0de5a2b9a",
+      "title": "Chelsea stance softening on £75m star as Liverpool interest revealed",
+      "summary": "Liverpool have registered an interest in Chelsea star Malo Gusto, whose £75million price tag could be dropped if their pursuit becomes more serious, per insider Simon P...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-price-drop-75m-star-gusto-liverpool-interes",
+      "publishedAt": "2026-08-14T08:56:14.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ebf482249071d0",
+      "title": "Man Utd: Romano reveals three more signings INEOS could make this summer – ‘I still expect’",
+      "summary": "Transfer expert Fabrizio Romano has revealed three more signings that Manchester United could make in this summer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-romano-reveals-three-more-signings-ineos-could-make-this-summer",
+      "publishedAt": "2026-08-14T08:33:56.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a9dbbcaf53d652",
+      "title": "Man City must act like champions as WSL rivals grow stronger",
+      "summary": "Manchester City have bolstered their squad this summer - but will they have enough to defend their Women's Super League crown?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwkl58xgvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T08:33:42.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Osimhen ‘keen’ on Arsenal, new City offer before Chelsea deadline",
+      "summary": "Manchester United are looking to beat Liverpool to sign a Paris Saint-Germain star, while Newcastle United have turned to a Bruno Guimaraes replacement.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-14T08:03:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8e3dc9cb1643e6",
+      "title": "Tottenham offer £85m for Savinho as he skips Man City training; Jacobs predicts two signings",
+      "summary": "Tottenham Hotspur have now reportedly made an ‘offer’ worth £85m to sign Savinho, who is seemingly trying to force an exit from Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-offer-85m-savinho-skips-man-city-training-jacobs-predicts-two-signings",
+      "publishedAt": "2026-08-14T08:02:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3a7b6878cffe2e",
+      "title": "Football transfer rumours: Arsenal offered Osimhen in exchange deal? Newcastle to make Baleba bid?",
+      "summary": "Today’s fluff has sought shade As these glorious pages reported on Thursday, Galatasaray wanted Gabriel Martinelli . In the following 24 hours things changed a bit, cre...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/14/football-transfer-rumours-arsenal-osimhen-exchange-deal-newcastle-baleba-bid",
+      "publishedAt": "2026-08-14T07:48:24.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Manchester"
       ]
     },
     {
@@ -177,417 +602,6 @@
       "tags": [
         "Chelsea",
         "Manchester"
-      ]
-    },
-    {
-      "id": "b35c0e0598422c",
-      "title": "Who to pick, who to avoid - your team's FPL assets ranked",
-      "summary": "Our team of FPL experts rank the best and worst picks for 2026-27 from each of the 20 Premier League teams.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0qv21egpneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T07:14:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "633ca06d77be57",
-      "title": "Will you beat our mega football nicknames quiz?",
-      "summary": "Do you know your Red Devils from your Saints? How about your Magpies from your Robins?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4v4mm9r8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T07:00:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ad280f7d8a48bd",
-      "title": "Victor Osimhen reaches decision on joining Arsenal as Gunners ‘hold talks’ over signing",
-      "summary": "Galatasaray star Victor Osimhen is reportedly ‘very keen’ on joining Arsenal, who have ‘held talks’ over signing the striker this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/victor-osimhen-reaches-decision-joining-arsenal-gunners-hold-talks",
-      "publishedAt": "2026-08-14T06:47:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "886b6905734a6b",
-      "title": "Can Chelsea go from 10th to title again?",
-      "summary": "With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T06:34:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9f7b5815c08c18",
-      "title": "New Zealand break with OFC to withdraw Infantino support",
-      "summary": "New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T06:19:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "768a3e67259303",
-      "title": "Romano reveals Liverpool, Barcola ‘verbal agreement’ as Reds getting closer to £106m signing",
-      "summary": "Fabrizio Romano claims Liverpool and Bradley Barcola now have a “verbal agreement” with a “deal on” for the Paris Saint-Germain star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-liverpool-barcola-verbal-agreement-reds-getting-closer-106m-signing",
-      "publishedAt": "2026-08-14T06:12:40.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "af1ab9537e578c",
-      "title": "Reijnders joins most expensive XI who only lasted one season in the Premier League",
-      "summary": "With help from Chelsea, we’ve assembled the most expensive XI of players who’ve done a Reijnders: joining a Prem club from abroad and leaving England after one year.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/most-expensive-xi-only-lasted-one-season-premier-league",
-      "publishedAt": "2026-08-14T06:08:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "51920495059866",
-      "title": "Newcastle fans rage against ‘absurd’ rules that protect Premier League ‘cartel’",
-      "summary": "What chance do Newcastle and Aston Villa have when the Big Six is given so much protection? It’s the theme of the week.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-fans-rage-absurd-rules-cartel-mailbox",
-      "publishedAt": "2026-08-14T06:07:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "4521dc9db0fd48",
-      "title": "Who am I? Guess Premier League star No 25",
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36dx26l68lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T05:17:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "09fc42e143f405",
-      "title": "How Maresca's Man City are shaping up compared with Guardiola",
-      "summary": "Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so f...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70g7dx63geo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T05:16:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1b7cea5ded95b3",
-      "title": "What's going wrong for Rangers and McInnes?",
-      "summary": "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T23:43:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Europa League"
-      ]
-    },
-    {
-      "id": "2ceb64bdc8cd23",
-      "title": "Premier League 2026-27 preview No 9: Everton",
-      "summary": "Modest but sensible-looking recruitment befits the club’s new air of stability but a continuation of their spring slump could test David Moyes’s appetite for the fight...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-9-everton",
-      "publishedAt": "2026-08-13T23:01:11.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "bb5bf2ab7185a2",
-      "title": "Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs",
-      "summary": "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk46yrk2pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T22:49:29.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9436441489d936",
-      "title": "Man City's Reijnders set for £52m Saudi move",
-      "summary": "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T22:12:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "51b6276e28dbc3",
-      "title": "Man City reject fresh Rodri bid - Friday's gossip",
-      "summary": "Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2dk2618pxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T22:03:35.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Barcelona",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "ab233550bf6677",
-      "title": "Rangers crash out of Europa League as Derek McInnes’s winless start goes on",
-      "summary": "Rangers 1-1 Jagiellonia Bialystok (2-3 agg) Spirited Hearts hold Benfica but also out of competition Derek McInnes’s fledgling tenure as Rangers manager is in disarray...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/13/rangers-crash-out-of-europa-league-as-derek-mcinness-winless-start-goes-on",
-      "publishedAt": "2026-08-13T21:30:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Europa League"
-      ]
-    },
-    {
-      "id": "3e41ace075dc35",
-      "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
-      "summary": "England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydz50jnz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T21:09:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "4e515b917e8a71",
-      "title": "PSG agree deal in principle for Barcelona's Torres",
-      "summary": "Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62e14e0227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T20:36:21.000Z",
-      "category": "transfer",
-      "region": "spain france",
-      "tags": [
-        "Barcelona",
-        "Psg"
-      ]
-    },
-    {
-      "id": "ba05ee5f6faeac",
-      "title": "Sky Sports man reveals how Man City can sign Enzo Fernandez after ‘major sale’ agreed",
-      "summary": "Manchester City have agreed a ‘major sale’ and the addition of that to other departures this summer could help them to land Chelsea star Enzo Fernandez.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-sky-sports-man-major-sale-reijnders-enzo-fernandez",
-      "publishedAt": "2026-08-13T19:41:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0071fad5475f67",
-      "title": "Championship spending hits record levels and likely to go higher as playoffs expand",
-      "summary": "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championsh...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/13/championship-spending-record-premier-league-playoffs",
-      "publishedAt": "2026-08-13T19:00:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1c36b47d00ad80",
-      "title": "Carrick pushing to improve the squad this summer",
-      "summary": "Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4g3vg077vpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T17:56:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e217fb38a0df22",
-      "title": "Arsenal invite offers for Martinelli and Nwaneri",
-      "summary": "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T17:49:02.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3b79ab904d08ab",
-      "title": "International striker says yes to Tottenham but De Zerbi must make big sacrifice",
-      "summary": "A striker who played in the World Cup has said yes to a move to Tottenham, and the club must make a sacrifice if they are now to sign him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/folarin-balogun-says-yes-tottenham-de-zerbi-sacrifice",
-      "publishedAt": "2026-08-13T17:47:29.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e07d63f16732ba",
-      "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
-      "summary": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T16:21:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "32793bc05412ef",
-      "title": "Liverpool make ‘direct call’ about signing Adam Wharton after Man Utd enquiry",
-      "summary": "Liverpool have made a ‘direct call’ to Crystal Palace to discuss the signing of Adam Wharton, who Manchester United have enquired about, as per an insider X account.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-direct-call-adam-wharton-man-utd-enquiry",
-      "publishedAt": "2026-08-13T16:16:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ed283951277898",
-      "title": "Celta Vigo’s La Liga opener postponed due to fungal outbreak on pitch",
-      "summary": "Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has b...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/13/celta-vigo-la-liga-opener-osasuna-postponed-due-to-fungus-on-pitch",
-      "publishedAt": "2026-08-13T16:14:47.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "La Liga"
-      ]
-    },
-    {
-      "id": "84184822514f17",
-      "title": "Handling hate and seeking stability - Fofana's Chelsea journey",
-      "summary": "Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to \"amazing\" Chelsea fu...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62vddx10gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T16:02:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "070a1aedafa381",
-      "title": "Carrick rules out £100m signing for Manchester United as Rashford rejoins squad",
-      "summary": "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £1...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/13/manchester-united-marcus-rashford-michael-carrick-transfer-window",
-      "publishedAt": "2026-08-13T16:00:02.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "b28c79a7df48bc",
-      "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
-      "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T15:47:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T15:40:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
