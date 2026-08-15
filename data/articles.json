@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:26:23.758Z",
+  "generatedAt": "2026-08-15T06:44:41.259Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,26 @@
       "pinned": true
     },
     {
+      "id": "2bd0c5bf22bab0",
+      "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
+      "summary": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
+      "publishedAt": "2026-08-15T06:44:40.915Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
       "id": "b72943d5ceb1d0",
       "title": "Super Giants storm into Hundred men's final by beating SunRisers",
       "summary": "The Manchester Super Giants set up a meeting with Trent Rockets in The Hundred final after beating SunRisers Leeds by 20 runs in the men's eliminator at The Kia Oval.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13573109/the-hundred-manchester-super-giants-into-mens-final-with-eliminator-win-over-sunrisers-leeds-as-josh-tongue-and-paul-walter-star",
-      "publishedAt": "2026-08-15T01:26:23.594Z",
+      "publishedAt": "2026-08-15T06:44:40.914Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +131,7 @@
       "summary": "Tottenham captain Cristian Romero has confirmed he is leaving the club ahead of his move to Atletico Madrid being announced.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13572603/cristian-romero-spurs-captain-announces-exit-ahead-of-atletico-madrid-transfer-as-he-makes-statement-on-instagram",
-      "publishedAt": "2026-08-15T01:26:23.594Z",
+      "publishedAt": "2026-08-15T06:44:40.914Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -130,25 +144,11 @@
       "summary": "Sean McLoughlin's first goal in English football levels the game for Blackburn as they face Wolves at Molineux.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13573140/wolves-vs-blackburn-mcloughlins-first-goal-in-english-football-levels-it-up",
-      "publishedAt": "2026-08-15T01:26:23.594Z",
+      "publishedAt": "2026-08-15T06:44:40.914Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "2bd0c5bf22bab0",
-      "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
-      "summary": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
-      "publishedAt": "2026-08-15T01:26:23.594Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
       ]
     },
     {
@@ -157,7 +157,7 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13573177/arsenal-transfer-news-gunners-lead-race-for-brighton-midfielder-jack-hinshelwood-paper-talk",
-      "publishedAt": "2026-08-15T01:26:23.593Z",
+      "publishedAt": "2026-08-15T06:44:40.913Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -171,11 +171,39 @@
       "summary": "Mikel Arteta has revealed he will sign a new Arsenal contract and there is no need for fans to be worried about his future.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
-      "publishedAt": "2026-08-15T01:26:23.593Z",
+      "publishedAt": "2026-08-15T06:44:40.913Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "8cb7e4a53747ca",
+      "title": "The hidden cost of a £75m transfer – who moves Bruno Guimaraes’ sofa to London?",
+      "summary": "Arsenal paid Newcastle £75m to sign Bruno Guimaraes, but the cost doesn’t end there when moving a player and his family between cities.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/hidden-cost-75m-transfer-bruno-guimaraes-arsenal-newcastle",
+      "publishedAt": "2026-08-15T06:25:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3b9348a6231e0a",
+      "title": "Romano ‘absolutely all in’ on Barcola to Liverpool as he reveals current ‘expectation – ‘the deal is alive’",
+      "summary": "Transfer expert Fabrizio Romano is “absolutely all in” on Bradley Barcola to Liverpool, having revealed the current “expectation” with this deal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/romano-absolutely-all-in-barcola-liverpool-reveals-expectation-agreement",
+      "publishedAt": "2026-08-15T06:20:53.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool"
       ]
     },
     {
@@ -562,34 +590,6 @@
       "tags": [
         "Champions League",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "22e1cdaa4b1522",
-      "title": "Continental clash: where world football stands on Fifa and Infantino – explained",
-      "summary": "With Oceania praising Fifa on Friday, all six confederations have finally had their say on the fallout from the World Cup sell-off plan The Oceania Football Confederati...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/14/continental-clash-where-world-football-stands-on-fifa-and-infantino-explained",
-      "publishedAt": "2026-08-14T13:26:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5b9e578c152c3b",
-      "title": "£60m Arsenal signing now considered 99% done as deal with Aston Villa at final stages",
-      "summary": "According to reports, Ezri Konsa’s proposed move from Aston Villa to Arsenal is now considered ‘99% done’ with an ‘agreement’ reached.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/60m-arsenal-signing-now-99-done-deal-aston-villa-final-stages",
-      "publishedAt": "2026-08-14T13:12:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
