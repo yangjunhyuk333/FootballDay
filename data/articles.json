@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:59:29.662Z",
+  "generatedAt": "2026-08-15T01:26:23.758Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,74 +99,16 @@
       "pinned": true
     },
     {
-      "id": "2bd0c5bf22bab0",
-      "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
-      "summary": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
+      "id": "b72943d5ceb1d0",
+      "title": "Super Giants storm into Hundred men's final by beating SunRisers",
+      "summary": "The Manchester Super Giants set up a meeting with Trent Rockets in The Hundred final after beating SunRisers Leeds by 20 runs in the men's eliminator at The Kia Oval.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
-      "publishedAt": "2026-08-14T18:59:29.476Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13573109/the-hundred-manchester-super-giants-into-mens-final-with-eliminator-win-over-sunrisers-leeds-as-josh-tongue-and-paul-walter-star",
+      "publishedAt": "2026-08-15T01:26:23.594Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "325de786e61b69",
-      "title": "Man City miss Chelsea's deadline to bid for Fernandez",
-      "summary": "The 5pm Friday deadline set by Chelsea for Man City to make their bid for Enzo Fernandez has passed with no offer made for the midfielder.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572838/enzo-fernandez-transfer-news-man-city-miss-chelseas-deadline-to-bid-for-midfielder",
-      "publishedAt": "2026-08-14T18:59:29.476Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a9a6a18145e5af",
-      "title": "Maresca in no mood to be 'friendly' as Arteta makes bold claim",
-      "summary": "Enzo Maresca has revealed part of his intention in his first season as Manchester City boss is to \"close the gap to Arsenal\", after finishing seven points shy of the Pr...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572888/arsenal-vs-man-city-in-community-shield-enzo-maresca-vows-to-close-the-gap-on-champions-as-mikel-arteta-says-man-city-boss-is-as-good-as-pep-guardiola",
-      "publishedAt": "2026-08-14T18:59:29.476Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "07ce4c669d66c7",
-      "title": "Is Fernandez worth two Rodris? Transfer valuations explained",
-      "summary": "Speculation is swirling around two of the Premier League's leading midfielders. As Barcelona push to sign Rodri , Manchester City are being linked with a move for Enzo...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572855/is-enzo-fernandez-worth-two-rodris-transfer-valuations-explained-as-chelsea-and-man-city-midfielders-linked-with-moves-between-the-lines",
-      "publishedAt": "2026-08-14T18:59:29.476Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9304b4508df746",
-      "title": "FSG sell minority stake in Liverpool to Bezos-backed consortium",
-      "summary": "Liverpool's owners have agreed to sell around a third of the club to a consortium including Amazon founder Jeff Bezos.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13573040/liverpool-fsg-sell-minority-stake-to-amazon-founder-jeff-bezos-backed-consortium-led-by-amit-bhatia",
-      "publishedAt": "2026-08-14T18:59:29.476Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     },
     {
@@ -175,11 +117,150 @@
       "summary": "Tottenham captain Cristian Romero has confirmed he is leaving the club ahead of his move to Atletico Madrid being announced.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13572603/cristian-romero-spurs-captain-announces-exit-ahead-of-atletico-madrid-transfer-as-he-makes-statement-on-instagram",
-      "publishedAt": "2026-08-14T18:59:29.475Z",
+      "publishedAt": "2026-08-15T01:26:23.594Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Transfer"
+      ]
+    },
+    {
+      "id": "49e14928416a20",
+      "title": "'Rovers STUN Molineux!' | McLoughlin's first English football goal levels it up",
+      "summary": "Sean McLoughlin's first goal in English football levels the game for Blackburn as they face Wolves at Molineux.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13573140/wolves-vs-blackburn-mcloughlins-first-goal-in-english-football-levels-it-up",
+      "publishedAt": "2026-08-15T01:26:23.594Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "2bd0c5bf22bab0",
+      "title": "Liverpool takeover Q&A: What do we know about Bezos' consortium?",
+      "summary": "Liverpool's owners Fenway Sports Group have sold a stake in Liverpool Football Club to a consortium including Amazon founder Jeff Bezos.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake",
+      "publishedAt": "2026-08-15T01:26:23.594Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "102280ffff6acc",
+      "title": "Papers: Arsenal lead race for £50m-rated Hinshelwood",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13573177/arsenal-transfer-news-gunners-lead-race-for-brighton-midfielder-jack-hinshelwood-paper-talk",
+      "publishedAt": "2026-08-15T01:26:23.593Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2b16cda64ea5f1",
+      "title": "Arteta says he will sign new Arsenal contract in 'organic way'",
+      "summary": "Mikel Arteta has revealed he will sign a new Arsenal contract and there is no need for fans to be worried about his future.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572989/mikel-arteta-arsenal-manager-says-he-will-sign-new-contract-after-entering-the-last-year-of-his-current-deal",
+      "publishedAt": "2026-08-15T01:26:23.593Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9f1eb029f7e120",
+      "title": "Europa League exit leaves Rangers counting the financial cost",
+      "summary": "As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cvg94jqpzxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T21:47:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "c1dc3d69a50cb4",
+      "title": "‘Not going to be an issue’: Mikel Arteta relaxed about Arsenal contract situation",
+      "summary": "Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/14/mikel-arteta-arsenal-contract-manchester-city-community-shield-premier-league",
+      "publishedAt": "2026-08-14T21:30:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3108372726b121",
+      "title": "Arteta not worried about Arsenal contract talks",
+      "summary": "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T21:30:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a5595548b4c7ad",
+      "title": "Arsenal lead Hinshelwood race - Saturday's gossip",
+      "summary": "Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T21:14:10.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4c99fefb76e69c",
+      "title": "Football Daily",
+      "summary": "Arsenal take on Manchester City in the Community Shield on Sunday",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p4mymx?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T21:09:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9279e1725d2017",
+      "title": "Leverkusen block Quansah sale to Arsenal but superior deal now 99% done",
+      "summary": "Leverkusen are refusing to sell Quansah to Arsenal, though it matters not, with one report claiming a deal to sign a superior player is ’99 percent done’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bayer-leverkusen-block-jarell-quansah-sale-arsenal-ezri-konsa-aston-villa-transfer-latest",
+      "publishedAt": "2026-08-14T20:44:17.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Arsenal"
       ]
     },
     {
@@ -188,11 +269,37 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T18:12:04.000Z",
+      "publishedAt": "2026-08-14T19:52:41.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "419bf163b0adf9",
+      "title": "Burnley sign Chelsea's Satpayev on loan",
+      "summary": "Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1w1y95305no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T19:49:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "bc8c166a6b4535",
+      "title": "Major Liverpool signing ON despite Romano denials with official bid imminent",
+      "summary": "Despite Fabrizio Romano declaring a Liverpool move was ‘off’, it’s very much back on and an opening bid is imminent, according to one journalist closer to the situation.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-ibrahim-mbaye-psg-fabrizio-romano-denials-official-bid-imminent",
+      "publishedAt": "2026-08-14T18:59:02.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -483,116 +590,6 @@
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "f05ce89a5e8f88",
-      "title": "EFL says losses not sustainable after PFA legal action",
-      "summary": "The level of losses in football creates \"a systemic insolvency risk\" for the pyramid, says EFL chief executive Trevor Birch.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m7yl78mjmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T13:01:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "e692a2a743172c",
-      "title": "Liverpool pause Barcola negotiations for two reasons after Romano confirms terms ‘agreement’",
-      "summary": "According to reports, Liverpool have decided to ‘pause negotiations’ with Paris Saint-Germain about a deal for Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-pause-barcola-negotiations-two-reasons-romano-agreement",
-      "publishedAt": "2026-08-14T12:41:57.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6f5a3a98af1c3e",
-      "title": "Fabrizio Romano reveals Liverpool decision on Rio Ngumoha sale as Barcola deal advances",
-      "summary": "Liverpool have decided whether to keep or sell dazzling 17-year-old talent Rio Ngumoha amid their pursuit of two more wingers, as per Fabrizio Romano",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfers-news-fabrizio-romano-rio-ngumoha-sale-bradley-barcola-talks",
-      "publishedAt": "2026-08-14T12:35:51.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "033e3a38acc9e7",
-      "title": "Man Utd step up efforts to sign Arsenal target Jarell Quansah as Liverpool clear path",
-      "summary": "According to reports, Manchester United and Arsenal are in ‘active talks’ about signing former Liverpool centre-back Jarell Quansah.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-step-up-efforts-sign-arsenal-target-jarell-quansah-liverpool",
-      "publishedAt": "2026-08-14T11:49:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cec732284f3602",
-      "title": "Aston Villa ‘agreement’ in place for World Cup star as second move crumbles",
-      "summary": "Aston Villa have ‘reached an agreement in principle’ on personal terms with a World Cup star, and are negotiating club terms, while a second deal has hit the rocks.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-wan-bissaka-ageement-reached-palhinha-move-off",
-      "publishedAt": "2026-08-14T11:38:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "068bb0957330ad",
-      "title": "Jamie Carragher tells Arsenal to avoid ‘strange’ transfer after ‘offer’ to Man Utd – ‘I still can’t believe it’",
-      "summary": "Liverpool legend Jamie Carragher has reacted to reports suggesting Arsenal could offload Myles Lewis-Skelly this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jamie-carragher-tells-arsenal-avoid-strange-transfer-offer-man-utd",
-      "publishedAt": "2026-08-14T11:09:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fcb79575abf84c",
-      "title": "Arsenal told Quansah signing is ‘no-brainer’ as Morrison asks big question of Gunners pair",
-      "summary": "Clinton Morrison has told Arsenal that signing Jarell Quansah is a “no-brainer” as he feels they need depth, with questions asked of William Saliba and Gabriel Magalhaes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-centre-back-link-quansah-no-brainer-questions-saliba-gabriel",
-      "publishedAt": "2026-08-14T11:05:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2598d0b7942d9a",
-      "title": "Premier League 2026-27 preview No 10: Fulham",
-      "summary": "With Marco Silva leaving after five years, can the club take advantage of the links their new coach, Álvaro Arbeloa, has with Real Madrid? Guardian writers’ predicted p...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/14/premier-league-2026-27-preview-no-10-fulham",
-      "publishedAt": "2026-08-14T11:00:26.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Real Madrid"
       ]
     }
   ],
