@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-16T01:38:06.939Z",
+  "generatedAt": "2026-08-16T06:46:31.139Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,11 +104,66 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
-      "publishedAt": "2026-08-16T01:38:06.624Z",
+      "publishedAt": "2026-08-16T06:46:30.908Z",
       "category": "transfer",
       "region": "france",
       "tags": [
         "Transfer"
+      ]
+    },
+    {
+      "id": "44fbdf8433b1e6",
+      "title": "Title tilting, relegation fighting, global megastar controlling: A pre-season target for every Premier League club",
+      "summary": "It’s time to give every Premier League team a target for the season. A good range from ‘win the league’ to ‘avoid relegation’ to ‘control that pop star’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-target-every-club-arsenal-man-united-liverpool-chelsea",
+      "publishedAt": "2026-08-16T06:29:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2ad84116f8f119",
+      "title": "Who am I? Guess Premier League star No 27",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg93n35ypxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T05:48:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "122d520f96af5a",
+      "title": "How important is Community Shield to a team's season?",
+      "summary": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1e1v64q256o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T05:29:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a0481176687f70",
+      "title": "Strong favourites or tougher task - will Arsenal defend their title?",
+      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T05:20:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
       ]
     },
     {
@@ -553,63 +608,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "94c56f5b817641",
-      "title": "Palace sign Khalaili from Union Saint-Gilloise",
-      "summary": "Crystal Palace sign Israel international Ana Khalaili on a deal which runs until 2031.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyqrd749d5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T09:03:55.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "cc506adac6b7f8",
-      "title": "Paul Scholes advises Arsenal to avoid repeat of ‘hated’ Man Utd transfer – ‘it’s disappointing’",
-      "summary": "Paul Scholes thinks Arsenal should avoid selling Myles Lewis-Skelly in a repeat of a Manchester United transfer that he “hated”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/paul-scholes-advises-arsenal-avoid-repeat-hated-man-utd-transfer",
-      "publishedAt": "2026-08-15T08:40:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f284bab237877f",
-      "title": "Man City target reaches terms agreement for exit with Chelsea now open to sale",
-      "summary": "According to reports, Chelsea winger Pedro Neto has ‘reached an agreement’ to join Al-Hilal amid interest from Manchester City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-target-reaches-agreement-exit-chelsea-now-open-sale",
-      "publishedAt": "2026-08-15T08:02:49.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "896c1305122c94",
-      "title": "Tottenham reach agreement in principle with Liverpool star as Spurs take next step for transfer",
-      "summary": "According to reports, Liverpool winger Cody Gakpo and Tottenham Hotspur now have an ‘agreement in principle’ over a transfer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-reach-agreement-principle-liverpool-star-gakpo-spurs-next-step-transfer",
-      "publishedAt": "2026-08-15T07:32:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
         "Liverpool"
       ]
     }
