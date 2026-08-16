@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:35:00.481Z",
+  "generatedAt": "2026-08-16T01:38:06.939Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,44 +99,115 @@
       "pinned": true
     },
     {
-      "id": "c0c967755358b1",
-      "title": "Spence completes £30m Inter move from Spurs",
-      "summary": "Inter Milan have completed a £30m deal for England defender Djed Spence from Tottenham.",
+      "id": "93b0a79aeb794f",
+      "title": "Papers: Lille head coach confirms Man City's Bouaddi talks",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13573504/djed-spence-transfer-news-tottenham-defender-completes-30m-inter-milan-move",
-      "publishedAt": "2026-08-15T18:35:00.210Z",
+      "url": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
+      "publishedAt": "2026-08-16T01:38:06.624Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e49b4a487cd1eb",
+      "title": "Ex-Liverpool ace names the one man that can stop Arsenal winning Premier League title",
+      "summary": "Former England international Fara Williams believes that Manchester City’s Premier League title chances will likely receive a blow if the talismanic Rodri leaves the cl...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ex-liverpool-names-one-man-stop-arsenal-winning-premier-league",
+      "publishedAt": "2026-08-15T21:00:01.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Inter",
-        "Milan"
+        "Premier League",
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
-      "id": "36b240002ae20d",
-      "title": "PL pre-season fixtures and results - how is your side shaping up?",
-      "summary": "Premier League clubs are getting ready for the new campaign with pre-season under way.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13546612/premier-league-pre-season-friendlies-2026-27-fixtures-results-uk-kick-off-times-summer-tour-schedule-and-training-camps",
-      "publishedAt": "2026-08-15T18:35:00.210Z",
+      "id": "1ffadbcf0a5dc8",
+      "title": "Villa begin Suzuki talks - Sunday's gossip",
+      "summary": "Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cnvnndmz4reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T20:23:00.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Premier League"
+        "Arsenal",
+        "Juventus"
       ]
     },
     {
-      "id": "22c61e8f486a88",
-      "title": "Man Utd collapse to defeat against Amorim’s AC Milan",
-      "summary": "Manchester United collapsed to a 4-2 defeat as Ruben Amorim’s AC Milan came from behind to win in Poland.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-ac-milan/report/556661",
-      "publishedAt": "2026-08-15T18:35:00.210Z",
+      "id": "0d2e7aab705cf1",
+      "title": "West Ham break EFL record to sign Engels for £22m",
+      "summary": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T20:19:40.000Z",
       "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "e7d877765904c2",
+      "title": "Rashford returns as Amorim's Milan highlight issues for Carrick",
+      "summary": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T19:25:09.000Z",
+      "category": "league",
       "region": "england italy",
       "tags": [
         "Manchester",
         "Milan"
+      ]
+    },
+    {
+      "id": "b3c321ce205d5e",
+      "title": "Rangers need 'wee bit of help' and money is there to get it",
+      "summary": "Rangers need \"a wee bit of help\" and have money to spend to get it despite dropping out of the Europa League, says manager Derek McInnes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg44wvnjyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T19:20:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "ddde6961d499de",
+      "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+      "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018 The doubt for anyone when a long-str...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
+      "publishedAt": "2026-08-15T19:00:04.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-08-15T18:36:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -529,19 +600,6 @@
       ]
     },
     {
-      "id": "eae2599653b1df",
-      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
-      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
-      "publishedAt": "2026-08-15T07:47:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "896c1305122c94",
       "title": "Tottenham reach agreement in principle with Liverpool star as Spurs take next step for transfer",
       "summary": "According to reports, Liverpool winger Cody Gakpo and Tottenham Hotspur now have an ‘agreement in principle’ over a transfer.",
@@ -553,64 +611,6 @@
       "tags": [
         "Transfer",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "4e98775e626f69",
-      "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
-      "summary": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T07:16:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f9826105966048",
-      "title": "London City Lionesses’ Mapi León: ‘It is a club created for women. It is beautiful and exciting’",
-      "summary": "Spain defender on swapping Barcelona for Bromley, embracing the contrasting style of the WSL – and her newfound love for beans and crumpets ‘No, I can’t, I’m sorry, it’...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/15/london-city-lionesses-mapi-leon-it-is-a-club-created-for-women-it-is-beautiful-and-exciting",
-      "publishedAt": "2026-08-15T07:00:51.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ff22a0c25dcb4b",
-      "title": "La Liga 2026-27 preview: Madrid look to Mourinho in bid to dethrone Barcelona",
-      "summary": "Florentino Pérez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favourites A lot has changed s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/15/2026-2027-la-liga-preview-real-madrid-jose-mourinho-barcelona",
-      "publishedAt": "2026-08-15T07:00:50.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "La Liga",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "f9d182a2c17930",
-      "title": "Arsenal lead Man Utd in race to sign £51m priority target as Romano reveals two other deals off",
-      "summary": "Arsenal are reportedly ‘leading’ Manchester United in the race to sign Brighton star Jack Hinshelwood, who could cost around £51m.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-lead-man-utd-51m-priority-target-romano-reveals-two-other-deals-off",
-      "publishedAt": "2026-08-15T06:55:58.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
