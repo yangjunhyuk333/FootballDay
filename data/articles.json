@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:47:11.368Z",
+  "generatedAt": "2026-08-16T18:34:21.325Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,95 @@
       "pinned": true
     },
     {
-      "id": "1d3b91eec3956c",
-      "title": "Wrexham's Premier League bid: Crazy or credible?",
-      "summary": "“We've come a long way in five years\". A post from Ryan Reynolds back in May, reflecting on another touchstone of his Wrexham revolution: the club's best finish in thei...",
+      "id": "ff32e7a5461bb2",
+      "title": "Arsenal thump Man City to send statement with Community Shield win",
+      "summary": "Title-holders Arsenal delivered a statement performance in the Community Shield, thumping Man City 3-0 in Cardiff to send out a warning to all of their Premier League r...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572631/wrexhams-premier-league-bid-how-ready-are-the-hollywood-owned-club-from-wales-for-a-championship-promotion-race",
-      "publishedAt": "2026-08-16T12:47:11.077Z",
+      "url": "https://www.skysports.com/football/arsenal-vs-manchester-city/report/556659",
+      "publishedAt": "2026-08-16T18:34:21.212Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4971802e1e73b5",
+      "title": "Musiala 'okay' after fainting during Bayern friendly",
+      "summary": "Musiala 'okay' after fainting during Bayern friendly",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "publishedAt": "2026-08-16T18:34:21.212Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "dce0ef514306f8",
+      "title": "Ronaldo: This is probably my last year of football",
+      "summary": "Cristiano Ronaldo has suggested that he will retire from football at the end of this season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13573749/cristiano-ronaldo-legendary-portugal-forward-suggests-he-will-retire-at-the-end-of-the-season",
+      "publishedAt": "2026-08-16T18:34:21.212Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "d20da09c7d4b59",
+      "title": "Arsenal trying to get rid of Martinelli, with club talks ongoing after winger said no to last offer",
+      "summary": "Arsenal remain open to offers for Gabriel Martinelli, and have been sounded out by Napoli for the Brazilian after he rejected a previous offer, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-trying-get-rid-martinelli-napoli-talks",
+      "publishedAt": "2026-08-16T17:58:29.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7212ec8fb3c177",
+      "title": "Scotland appoint Pocognoli as successor to Clarke in fresh approach",
+      "summary": "Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia in Nations League in September The Scottish Football Association has appointed the Belgia...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/15/scotland-hope-to-name-sebastien-pocognoli-as-new-international-manager",
+      "publishedAt": "2026-08-16T17:46:42.000Z",
+      "category": "transfer",
+      "region": "italy france",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a34086db48f85b",
+      "title": "Arsenal offer tantalising glimpse of evolution ahead of a Premier League season defined by revolution",
+      "summary": "Arsenal thrashed Manchester City 3-0 in the Community Shield and look like they’ll have even more weapons in their, well, arsenal this year.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-offer-tantalising-glimpse-of-evolution-ahead-of-a-premier-league-season-defined-by-revolution",
+      "publishedAt": "2026-08-16T17:09:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "eae2599653b1df",
+      "title": "Every Premier League club’s pre-season 2026 results",
+      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
+      "publishedAt": "2026-08-16T17:05:47.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,44 +195,187 @@
       ]
     },
     {
-      "id": "4ef0ead49463c7",
-      "title": "Arsenal vs Man City LIVE! Your views ahead of Community Shield...",
-      "summary": "Arsenal vs Man City LIVE! Your views ahead of Community Shield...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13573678/arsenal-vs-man-city-live-community-shield-commentary-live-score-and-team-news",
-      "publishedAt": "2026-08-16T12:47:11.076Z",
+      "id": "1892a1167ead99",
+      "title": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
+      "summary": "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/16/cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer",
+      "publishedAt": "2026-08-16T16:46:36.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "13d4d1fcad9b97",
+      "title": "Arsenal can be the team to beat ‘by some distance’ after demolishing transitional Man City – Nevin",
+      "summary": "Arsenal already look comfortably better than Manchester City after the Community Shield, and Pat Nevin has told them how they can be the team to beat this season “by so...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pundit-team-beat-some-distance-demolishing-man-city",
+      "publishedAt": "2026-08-16T16:39:19.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c309f0aa6a5fc1",
+      "title": "'Probably my last year' - Ronaldo hints at retirement",
+      "summary": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T16:33:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "89cd31f7eb3b25",
+      "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
+      "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T16:18:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Arsenal"
       ]
     },
     {
-      "id": "93b0a79aeb794f",
-      "title": "Papers: Lille head coach confirms Man City's Bouaddi talks",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13573576/man-city-transfer-news-ayyoub-bouaddi-talks-confirmed-by-lille-head-coach-davide-ancelotti-who-hopes-deal-falls-through",
-      "publishedAt": "2026-08-16T12:47:11.076Z",
+      "id": "b317b048a2258c",
+      "title": "Fabrizio Romano reveals how Man City can still land Enzo Fernandez after Chelsea deadline passed",
+      "summary": "Transfer insider Fabrizio Romano has revealed how Manchester City could yet land Enzo Fernandez, with talks ongoing after the deadline Chelsea had set for his sale pass...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/enzo-fernandez-deal-still-completed-chelsea-deadline-man-city",
+      "publishedAt": "2026-08-16T16:06:38.000Z",
       "category": "transfer",
-      "region": "france",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "804f7c362907b9",
+      "title": "Calafiori’s fast start inspires Arsenal to big Community Shield win over Manchester City",
+      "summary": "For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Arsenal seizing the lead after 24.5 seconds ended with Mikel Arteta’s s...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report",
+      "publishedAt": "2026-08-16T16:06:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2b3973730c653d",
+      "title": "Liverpool sent £281m transfer message amid exciting Andoni Iraola prediction and Mo Salah claim",
+      "summary": "Former England international Fara Williams believes Andoni Iraola can be a success at Liverpool this season and that their big-money signings from last year can come go...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-sent-281m-transfer-message-andoni-iraola-prediction-mo-salah",
+      "publishedAt": "2026-08-16T15:32:13.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "100569b01f8b38",
+      "title": "West Ham in talks to sign Leeds star as Daniel Farke makes transfer decision",
+      "summary": "West Ham have opened talks with Leeds to sign Joel Piroe, per reports, with the Hammers set to miss out on two alternative striker targets.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/joel-piroe-transfer-news-west-ham-leeds-talks",
+      "publishedAt": "2026-08-16T15:07:30.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Transfer"
       ]
     },
     {
-      "id": "8d311b962d6321",
-      "title": "Arsenal v Manchester City: Community Shield – live",
-      "summary": "Updates from the 3pm BST kick-off in Cardiff Jonathan Wilson: Community Shield offers insight Recent studies have highlighted the myriad benefits of screen time, so why...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/aug/16/arsenal-v-manchester-city-community-shield-live",
-      "publishedAt": "2026-08-16T12:42:52.000Z",
-      "category": "league",
+      "id": "c584679c0095a4",
+      "title": "Real Madrid reignite interest in top Arsenal star after Mourinho green lights move",
+      "summary": "With Bruno Guimaraes arriving at The Emirates, there is growing concern within the star’s camp that he is no longer as central to Mikel Arteta’s plans as he had initial...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-reignite-interest-arsenal-star-zubimendi-mourinho-green-light",
+      "publishedAt": "2026-08-16T14:19:27.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "96b7130a602a87",
+      "title": "Mikel Arteta turns back on big Arsenal talent as Fabrizio Romano confirms sure-fire transfer",
+      "summary": "Mikel Arteta appears to no longer value Ethan Nwaneri to the same degree as he once did, with Fabrizio Romano claiming the teenager is certain to leave Arsenal in the c...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mikel-arteta-arsenal-fabrizio-romano-confirms-sure-fire-transfer",
+      "publishedAt": "2026-08-16T13:44:02.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T13:40:28.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
+        "Premier League"
+      ]
+    },
+    {
+      "id": "432d6062bb7773",
+      "title": "Jose Mourinho snubs Real Madrid midfielder to set up Man Utd transfer",
+      "summary": "Jose Mourinho has ‘doubts’ over a Real Madrid midfielder, while it’s reported Manchester United could be ‘making a move’ for him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jose-mourinho-snubs-real-madrid-midfielder-camavinga-man-utd-transfer",
+      "publishedAt": "2026-08-16T13:39:22.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "330f45781e6093",
+      "title": "Premier League sack race: New Fulham and Newcastle bosses already under pressure…",
+      "summary": "A new Premier League season is just around the corner which means a new Premier League Sack Race is just as close. The newest runner is already close to the ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
+      "publishedAt": "2026-08-16T12:22:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -349,20 +575,6 @@
       ]
     },
     {
-      "id": "a0481176687f70",
-      "title": "Strong favourites or tougher task - will Arsenal defend their title?",
-      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T05:20:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
       "id": "e49b4a487cd1eb",
       "title": "Ex-Liverpool ace names the one man that can stop Arsenal winning Premier League title",
       "summary": "Former England international Fara Williams believes that Manchester City’s Premier League title chances will likely receive a blow if the talismanic Rodri leaves the cl...",
@@ -390,218 +602,6 @@
       "tags": [
         "Arsenal",
         "Juventus"
-      ]
-    },
-    {
-      "id": "0d2e7aab705cf1",
-      "title": "West Ham break EFL record to sign Engels for £22m",
-      "summary": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T20:19:40.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e7d877765904c2",
-      "title": "Rashford returns as Amorim's Milan highlight issues for Carrick",
-      "summary": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T19:25:09.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Milan"
-      ]
-    },
-    {
-      "id": "b3c321ce205d5e",
-      "title": "Rangers need 'wee bit of help' and money is there to get it",
-      "summary": "Rangers need \"a wee bit of help\" and have money to spend to get it despite dropping out of the Europa League, says manager Derek McInnes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg44wvnjyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T19:20:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Europa League"
-      ]
-    },
-    {
-      "id": "eae2599653b1df",
-      "title": "Every Premier League club’s pre-season 2026 fixtures and results",
-      "summary": "With 2026/27 just around the corner, here is every Premier League club’s pre-season fixture schedule and results…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-2026-27-pre-season-schedule-fixtures-results",
-      "publishedAt": "2026-08-15T18:36:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f70aef0f391054",
-      "title": "England legend praises Man Utd for making the signing nobody is talking about",
-      "summary": "Lionesses legend Fara Williams believes Youri Tielemans is a “massive” recruit for Manchester United, and the return of Marcus Rashford could be like a new signing for...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-legend-praises-man-utd-making-signing-nobody-talking-about",
-      "publishedAt": "2026-08-15T18:21:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-15T18:21:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ee65a2a4bd4081",
-      "title": "Spurs guilty of two huge summer 2026 transfer undercharges with Arsenal outcast at 3)",
-      "summary": "The biggest underpays of the summer 2026 transfer window so far have been for Arsenal, Aston Villa, Manchester United and Spurs players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-transfer-underpays-summer-2026-arsenal-manchester-united",
-      "publishedAt": "2026-08-15T18:05:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "57ec0a5143adf5",
-      "title": "Inter sign England full-back Spence from Tottenham",
-      "summary": "England full-back Djed Spence signs a five-year deal at Inter Milan as he makes a move to Italy from Tottenham.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz64vg6znz1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T17:15:16.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "283559ac075150",
-      "title": "Arsenal transfer precedent opens door for Man Utd and Barcelona moves amid manager admission",
-      "summary": "The manager of a rumoured Manchester United and Arsenal target says he’s “proud” that his players are being linked to these top clubs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-precedent-opens-door-for-man-utd-and-barcelona-moves-amid-manager-admission",
-      "publishedAt": "2026-08-15T17:01:53.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "d7bf110f8a0fce",
-      "title": "Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint",
-      "summary": "Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T16:22:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3afd7b90c8a042",
-      "title": "Arsenal and Man Utd target sends mixed transfer messages as £60m deal ruled out",
-      "summary": "Arsenal-linked Victor Osimhen has sent some mixed messages over his Galatasaray future, as rumours continue to swirl about a Premier League switch.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-target-sends-mixed-transfer-messages-60m-deal-ruled-out",
-      "publishedAt": "2026-08-15T15:30:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "eecd705f7229eb",
-      "title": "Rice drops out of the most expensive XI in Premier League transfer history",
-      "summary": "The Premier League is able to field an entire XI bought for well over £1bn, with Chelsea dominating and no room for poor Declan Rice.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/the-most-expensive-xi-in-premier-league-transfer-history-chelsea",
-      "publishedAt": "2026-08-15T15:26:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d2079932b5dd65",
-      "title": "Guimaraes to Arsenal among the biggest Premier League overpays so far this summer",
-      "summary": "Spurs are responsible for three of the eight biggest Premier League overpays so far this summer, with Bruno Guimaraes to Arsenal in there too.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-premier-league-transfer-overpays-this-summer-spurs",
-      "publishedAt": "2026-08-15T15:23:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "109c4ba27accb9",
-      "title": "Chelsea lead Spurs, Real Madrid as biggest spenders of the 2026 summer transfer window",
-      "summary": "Real, Barca, Juve and, obviously, Ipswich all feature in the ten biggest spenders for the summer of 2026 alongside many of the usual suspects…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-08-15T14:54:50.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "4ab11fb23dcb78",
-      "title": "Arsenal legend claims only two teams can win Premier League title this season as he predicts top six",
-      "summary": "Arsenal legend Alan Smith has explained why he thinks Manchester City are the “only” Premier League title “challenger” for his former side this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-legend-claims-only-two-teams-win-premier-league-title-predicts-top-six",
-      "publishedAt": "2026-08-15T13:44:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
