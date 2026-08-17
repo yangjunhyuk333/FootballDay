@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-17T01:36:05.049Z",
+  "generatedAt": "2026-08-17T07:03:16.810Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Man City and Barcelona have agreed a £65.4m fee for Rodri.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13572836/rodri-transfer-news-man-city-accept-bid-from-barcelona-for-world-cup-winning-midfielder-and-former-ballon-dor-holder",
-      "publishedAt": "2026-08-17T01:36:04.633Z",
+      "publishedAt": "2026-08-17T07:03:16.261Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -117,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
-      "publishedAt": "2026-08-17T01:36:04.633Z",
+      "publishedAt": "2026-08-17T07:03:16.261Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,39 +126,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "58f3113d482eb1",
-      "title": "Super Giants claim men's Hundred title with thrilling last-gasp win over Rockets",
-      "summary": "Tim Seifert produced an imperious 72 off 38 balls to steer the Manchester Super Giants to The Hundred title after a five-wicket victory over the Trent Rockets in an inc...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13573676/the-hundred-tim-seifert-propels-manchester-super-giants-to-title-with-last-gasp-win-over-trent-rockets-in-lords-final",
-      "publishedAt": "2026-08-17T01:36:04.633Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ff32e7a5461bb2",
-      "title": "Arsenal thump Man City to send statement with Community Shield win",
-      "summary": "Title-holders Arsenal delivered a statement performance in the Community Shield, thumping Man City 3-0 in Cardiff to send out a warning to all of their Premier League r...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-manchester-city/report/556659",
-      "publishedAt": "2026-08-17T01:36:04.633Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
       "id": "d2facc4cce331c",
       "title": "GB denied 2028 Olympics spot as USA and Canada win flag football world titles",
       "summary": "The United States successfully defended the men's title at the flag football world championships on Sunday but lost the women's title to Canada, while Mexico's women an...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13573812/flag-football-los-angeles-2028-olympics-spots-decided-as-usa-and-canada-claim-mens-and-womens-world-titles",
-      "publishedAt": "2026-08-17T01:36:04.632Z",
+      "publishedAt": "2026-08-17T07:03:16.260Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -171,11 +144,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jeremy Jacquet was the star as Liverpool enjoyed a confidence-boosting 2-0 win over Como in their final pre-season friendly at Anfield.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13573738/liverpool-2-0-como-jeremy-jacquet-scores-on-debut-to-add-to-cody-gakpo-goal-as-reds-win-at-anfield",
-      "publishedAt": "2026-08-17T01:36:04.632Z",
+      "publishedAt": "2026-08-17T07:03:16.260Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "6bd72e0d9ff15d",
+      "title": "Lingfield, Windsor and Wolverhampton feature on Monday",
+      "summary": "Mithaaly faces Fairly Well and Nobelos in an interesting maiden contest at Windsor, live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13573655/today-on-sky-sports-racing-lingfield-windsor-and-wolverhampton-host-live-action",
+      "publishedAt": "2026-08-17T07:03:16.259Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -184,11 +170,134 @@ window.FOOTBALLDAY_DATA = {
       "summary": "EFL latest: Birmingham and Cardiff interested in midfielders",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "publishedAt": "2026-08-17T01:36:04.631Z",
+      "publishedAt": "2026-08-17T07:03:16.259Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "6d0789b5c49bc7",
+      "title": "Scotland boss set to make ex-Premier League star assistant - gossip",
+      "summary": "New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddjv462963o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:55:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "db5817885b7928",
+      "title": "‘Confident’ Liverpool make ‘fresh new bids’ for £172m duo in double transfer ‘bomb’",
+      "summary": "Liverpool have made ‘fresh new bids’ to sign Paris Saint-Germain duo Ibrahim Mbaye and Bradley Barcola, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-confident-fresh-new-bids-barcola-mbaye-psg",
+      "publishedAt": "2026-08-17T06:43:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "05bb3024914457",
+      "title": "Stats that show Premier League is getting more competitive",
+      "summary": "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gddjpjm49o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:41:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "109c4ba27accb9",
+      "title": "Chelsea lead Spurs, Real Madrid as biggest spenders of the 2026 summer transfer window",
+      "summary": "Six Premier League clubs are in the ten biggest spenders for the summer of 2026, with Chelsea back in their favourite spot at the top.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
+      "publishedAt": "2026-08-17T06:40:50.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "0d1132885d77a1",
+      "title": "Dublin Dons? The failed attempt to bring a Premier League club to Ireland",
+      "summary": "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05q03v8nrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:19:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "98d40fbe3fec80",
+      "title": "Arsenal great but is Gabriel a ‘little girl or a big hairy arse centre-half’?",
+      "summary": "Optimism abounds for an exciting 26/27 season ahead after an entertaining Community Shield in Cardiff, but there are questions for Gabriel and Enzo Maresca.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-great-but-is-gabriel-a-little-girl-or-a-big-hairy-arse-centre-half",
+      "publishedAt": "2026-08-17T06:14:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0906cc9244a8be",
+      "title": "Who am I? Guess Premier League star No 28",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20d7wz4e7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:10:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8224d6d3c386a2",
+      "title": "Five in Five: Football quiz No 1",
+      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq749qwl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T06:04:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "a89390ff2825cb",
+      "title": "Juventus step up Vicario talks - Monday's gossip",
+      "summary": "Juventus increase talks for Guglielmo Vicario and pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zu...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T05:54:05.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Real Madrid",
+        "Juventus"
       ]
     },
     {
@@ -203,21 +312,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Premier League"
-      ]
-    },
-    {
-      "id": "a89390ff2825cb",
-      "title": "Martinez Juventus move now off - Monday's gossip",
-      "summary": "Juventus pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zubimendi, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T21:24:43.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Real Madrid",
-        "Juventus"
       ]
     },
     {
@@ -381,7 +475,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "2a2c57ec9d6c7a",
-      "title": "Shop window or new chance - what next for Grealish?",
+      "title": "Shop window or new chance - Grealish faces next chapter",
       "summary": "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c07rr20g732o?at_medium=RSS&at_campaign=rss",
@@ -501,105 +595,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "89cd31f7eb3b25",
-      "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
-      "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T16:18:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b317b048a2258c",
-      "title": "Fabrizio Romano reveals how Man City can still land Enzo Fernandez after Chelsea deadline passed",
-      "summary": "Transfer insider Fabrizio Romano has revealed how Manchester City could yet land Enzo Fernandez, with talks ongoing after the deadline Chelsea had set for his sale pass...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/enzo-fernandez-deal-still-completed-chelsea-deadline-man-city",
-      "publishedAt": "2026-08-16T16:06:38.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2b3973730c653d",
-      "title": "Liverpool sent £281m transfer message amid exciting Andoni Iraola prediction and Mo Salah claim",
-      "summary": "Former England international Fara Williams believes Andoni Iraola can be a success at Liverpool this season and that their big-money signings from last year can come go...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-sent-281m-transfer-message-andoni-iraola-prediction-mo-salah",
-      "publishedAt": "2026-08-16T15:32:13.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "100569b01f8b38",
-      "title": "West Ham in talks to sign Leeds star as Daniel Farke makes transfer decision",
-      "summary": "West Ham have opened talks with Leeds to sign Joel Piroe, per reports, with the Hammers set to miss out on two alternative striker targets.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/joel-piroe-transfer-news-west-ham-leeds-talks",
-      "publishedAt": "2026-08-16T15:07:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "c584679c0095a4",
-      "title": "Real Madrid reignite interest in top Arsenal star after Mourinho green lights move",
-      "summary": "With Bruno Guimaraes arriving at The Emirates, there is growing concern within the star’s camp that he is no longer as central to Mikel Arteta’s plans as he had initial...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-reignite-interest-arsenal-star-zubimendi-mourinho-green-light",
-      "publishedAt": "2026-08-16T14:19:27.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "96b7130a602a87",
-      "title": "Mikel Arteta turns back on big Arsenal talent as Fabrizio Romano confirms sure-fire transfer",
-      "summary": "Mikel Arteta appears to no longer value Ethan Nwaneri to the same degree as he once did, with Fabrizio Romano claiming the teenager is certain to leave Arsenal in the c...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mikel-arteta-arsenal-fabrizio-romano-confirms-sure-fire-transfer",
-      "publishedAt": "2026-08-16T13:44:02.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T13:40:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
