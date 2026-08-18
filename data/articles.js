@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-17T18:45:01.123Z",
+  "generatedAt": "2026-08-18T01:25:47.718Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,51 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "dcafc5d50eb120",
-      "title": "Monday Night Club",
-      "summary": "Mark Chapman and guests debate the weekend's football.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T20:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ffa467d013d39d",
-      "title": "Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
-      "summary": "Morgan Rogers is convinced Chelsea can once again compete for the top trophies and says he and Cole Palmer know exactly how to play together.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory",
-      "publishedAt": "2026-08-17T18:45:00.749Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "edb342d219264f",
-      "title": "Man City latest: 'A dream' - Rodri arrives in Barcelona ahead of move",
-      "summary": "Man City latest: 'A dream' - Rodri arrives in Barcelona ahead of move",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-17T18:45:00.749Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
       "id": "5b7289e613effd",
       "title": "The NEW laws in the Premier League explained",
       "summary": "Sky Sports takes you through the new rules that the Premier League teams will have to abide by throughout the new season.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13573709/explained-the-new-laws-in-the-premier-league-this-season",
-      "publishedAt": "2026-08-17T18:45:00.749Z",
+      "publishedAt": "2026-08-18T01:25:47.237Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,30 +112,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "69a174850ed7b6",
-      "title": "Maresca's Man City problems are more than a missing midfield",
-      "summary": "Enzo Maresca spoke of his desire to \"close the gap\" between Manchester City and Arsenal before watching his side suffer a painful 3-0 defeat in the Community Shield on...",
+      "id": "245e4989399da3",
+      "title": "Boehly and Walter hold talks over selling Chelsea shares to majority owners",
+      "summary": "Todd Boehly and Mark Walter have held talks about selling their shares in Chelsea to Clearlake Capital.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season",
-      "publishedAt": "2026-08-17T18:45:00.749Z",
+      "url": "https://www.skysports.com/football/news/12040/13574134/chelsea-co-owners-todd-boehly-and-mark-walter-hold-talks-over-selling-shares-to-majority-owners-clearlake-capital",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b6d527de3bb848",
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "summary": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-08-17T18:45:00.748Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
+        "Chelsea"
       ]
     },
     {
@@ -183,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United captain Bruno Fernandes is not for sale at any price despite interest from Galatasaray.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
-      "publishedAt": "2026-08-17T18:45:00.748Z",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -192,12 +139,26 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "f740a6a3ceb033",
+      "title": "Papers: Potential power shift at Chelsea as club valued at £5bn",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13574191/chelsea-co-owners-todd-boehly-and-mark-walter-open-to-selling-stakes-to-majority-owners-clearlake-capital-paper-talk",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
       "id": "13692d6bb137ed",
       "title": "How are Man Utd shaping up ahead of the new season?",
       "summary": "Manchester United ended their pre-season with a 4-2 defeat to AC Milan, and the question is what kind of condition they are in as they go into the new season?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574077/manchester-uniteds-pre-season-analysed-joshua-zirkzee-resurgent-and-marcus-rashford-reunited-but-they-still-need-a-left-back",
-      "publishedAt": "2026-08-17T18:45:00.748Z",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -211,7 +172,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "It's been another summer of change at Chelsea - and on the eve of a new Premier League season, there is so much to analyse at the club, with Xabi Alonso's reign kicking...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574084/chelsea-podcast-xabi-alonso-enzo-fernandez-future-transfers-and-a-new-era-at-stamford-bridge-analysed",
-      "publishedAt": "2026-08-17T18:45:00.748Z",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -226,7 +187,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool's home matches against Manchester City and Arsenal, plus Manchester United's trip to rivals Leeds, are among the 21 Premier League games being shown live on S...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574076/premier-league-fixtures-on-sky-sports-liverpool-vs-man-city-and-arsenal-plus-leeds-vs-man-utd-live-in-october-and-november",
-      "publishedAt": "2026-08-17T18:45:00.748Z",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -234,6 +195,187 @@ window.FOOTBALLDAY_DATA = {
         "Arsenal",
         "Liverpool",
         "Manchester"
+      ]
+    },
+    {
+      "id": "ffa467d013d39d",
+      "title": "Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
+      "summary": "Morgan Rogers is convinced Chelsea can once again compete for the top trophies and says he and Cole Palmer know exactly how to play together.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "edb342d219264f",
+      "title": "Man City latest: Rodri in Barcelona for 'dream' move - Bouaddi in soon?",
+      "summary": "Man City latest: Rodri in Barcelona for 'dream' move - Bouaddi in soon?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-18T01:25:47.236Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "ed1481ae2a5174",
+      "title": "Premier League 2026-27 preview No 13: Leeds",
+      "summary": "After keeping Leeds up last season and reaching an FA Cup semi-final, Daniel Farke has good reason to expect further improvement at Elland Road Guardian writers’ predic...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-13-leeds",
+      "publishedAt": "2026-08-17T23:01:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "06a74e6d088ef2",
+      "title": "Guardiola-Walker fallout revealed in new documentary",
+      "summary": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T23:00:04.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e9a4f9cd4d628d",
+      "title": "Football Daily",
+      "summary": "Joe Hart, Chris Sutton and Adam Crafton join Mark to preview the Premier League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p51f17?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T22:15:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2476c8e94956ba",
+      "title": "Fernandez will cost Man City more than £120m - Tuesday's gossip",
+      "summary": "Manchester City will need to pay more than £120m for Enzo Fernandez, Chelsea winger Pedro Neto has no shortage of suitors, Bruno Fernandes is offered a huge salary incr...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz64z1dxn7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T21:42:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7af2b08cdac7e6",
+      "title": "Chelsea co-owners Boehly & Walter explore selling stakes",
+      "summary": "Chelsea chairman Todd Boehly and director Mark Walter explore selling their stakes in the club to majority owner Clearlake Capital.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj6341x2g18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T21:18:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6f4ad346fb6dab",
+      "title": "Top Fifa official sacked after Infantino plan criticism",
+      "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T20:46:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "bf3749e64e1c73",
+      "title": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan",
+      "summary": "Kevin Lamour said Fifa administration was ‘deceived’ Chief operating officer knew he could lose his job The Fifa chief operating officer, Kevin Lamour, has been sacked...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour",
+      "publishedAt": "2026-08-17T20:25:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "fcd2e0d4f3cff0",
+      "title": "Rodri lands in Barcelona to complete 'dream' move",
+      "summary": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T20:02:27.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "36736a76266bc0",
+      "title": "Rodri calls it ‘a dream to play for Barcelona’ as he flies in for medical",
+      "summary": "Spain midfielder in £65.4m move from Manchester City ‘I’m happy that everything has been resolved’ Rodri has said it is “a dream” to play for Barcelona after landing in...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
+      "publishedAt": "2026-08-17T19:39:23.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f88ba14f5e1134",
+      "title": "Liverpool agree five-year contract with next signing as £155m double deal advances",
+      "summary": "The Reds have agreed personal terms with a key target and have also launched a new bid for a second star, according to reports",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-ibrahim-mbaye-contract-agreed-bradley-barcola-bid",
+      "publishedAt": "2026-08-17T19:18:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d11b655aa9e73b",
+      "title": "Todd Boehly and Mark Walter consider selling Chelsea shares to Clearlake Capital",
+      "summary": "Chelsea chair Boehly and Walter each own about 13% Sale would give Clearlake effective control of club at 86% The Chelsea chair, Todd Boehly, and director Mark Walter a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/17/chelsea-todd-boehly-mark-walter-consider-selling-shares-clearlake-capital",
+      "publishedAt": "2026-08-17T18:56:28.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Chelsea"
       ]
     },
     {
@@ -465,145 +607,6 @@ window.FOOTBALLDAY_DATA = {
         "Premier League",
         "Champions League",
         "World Cup"
-      ]
-    },
-    {
-      "id": "93b24863c474f3",
-      "title": "Man Utd will reject any bid for Fernandes",
-      "summary": "Manchester United have no intention of selling captain Bruno Fernandes despite Turkish club Galatasaray being prepared to lodge a bid for the 31-year-old later this week.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:55:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8cc80a63134375",
-      "title": "Man City move for £85m Bouaddi and still want Fernandez",
-      "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:50:22.000Z",
-      "category": "league",
-      "region": "england france",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Arsenal leapfrog Man Utd in five-year net spend table topped by astonishing £852m Chelsea",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-08-17T13:50:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Ex-Chelsea star wanted by Newcastle, Villa; England star off to Al-Hilal?",
-      "summary": "Could Christopher Nkunku be on his way back to the Premier League? Elsewhere, an England international could be joining Ivan Toney in Saudi Arabia.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-17T13:45:01.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "b031bf00658bc7",
-      "title": "From Chelsea bomb squad to new chapter at Como for Chalobah",
-      "summary": "After ending his near 20-year association with Chelsea by joining Como 1907 this summer, Trevoh Chalobah credits his time at Stamford Bridge with building his resilience.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c141dl0l0p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:30:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "b25babb5f02909",
-      "title": "£2.14bn and counting - why Premier League spending could set new record",
-      "summary": "Premier League clubs have spent £2.14bn this summer, with huge sums moving between top-flight rivals. BBC Sport examines the possibility of a new spending record.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T13:07:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1903082b268847",
-      "title": "Man Utd ready to sell duo to bring in dream signing as Carragher slams summer transfer",
-      "summary": "Man Utd are ready to cash in on academy graduate Harry Amass in order to fund a move for Newcastle star Lewis Hall, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-sell-amass-collyer-dream-signing-hall-newcastle-carragher-slams-tielemans",
-      "publishedAt": "2026-08-17T12:52:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "7b066f858f4101",
-      "title": "Big Six squad depth test: First and second-choice XIs underline ridiculous Arsenal dominance",
-      "summary": "Arsenal could field two unique XIs and probably finish as Premier League champions and runners-up; no wonder Mikel Arteta wants a rule change.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/big-six-squad-depth-first-second-choice-arsenal-arteta",
-      "publishedAt": "2026-08-17T12:52:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "65dbab625d30da",
-      "title": "Arsenal hammer Manchester City and the EFL kicks off | Football Weekly video",
-      "summary": "Max Rushden is joined by Will Unwin, Sanny Rudravajhala and Ben Fisher as Arsenal coast past Manchester City to win the Community Shield. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/aug/17/arsenal-hammer-manchester-city-and-the-efl-kicks-off-football-weekly-video",
-      "publishedAt": "2026-08-17T12:46:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1e15c6d1f65f94",
-      "title": "Scottish FA withdraws support for Fifa president Infantino",
-      "summary": "The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell h...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T12:43:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
       ]
     }
   ],
