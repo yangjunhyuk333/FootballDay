@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-19T01:27:25.602Z",
+  "generatedAt": "2026-08-19T06:51:00.116Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Bayern Munich winger Jamal Musiala has revealed he is suffering from “treatable absence seizures” after he collapsed on the pitch for the second time in four days.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574499/jamal-musiala-bayern-munich-forward-shares-health-update-after-collapsing-during-a-match-again",
-      "publishedAt": "2026-08-19T01:27:25.420Z",
+      "publishedAt": "2026-08-19T06:50:59.649Z",
       "category": "transfer",
       "region": "germany",
       "tags": [
@@ -117,37 +117,11 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Kevin Blake has three picks for day one of the York Ebor Festival, an afternoon headlined by the Juddmonte International Stakes.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13574345/kevin-blakes-ebor-festival-tips-sky-sports-racing-expert-looks-ahead-to-yorks-opening-day-with-three-selections",
-      "publishedAt": "2026-08-19T01:27:25.420Z",
+      "publishedAt": "2026-08-19T06:50:59.649Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "d38784108f0e1b",
-      "title": "O'Neill: Celtic should aspire to win the Champions League",
-      "summary": "Martin O'Neill believes Celtic should \"aspire\" to win the Champions League ahead of their play-off round qualifier against Austrian champions LASK.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574472/champions-league-martin-oneill-says-celtic-should-aim-to-win-the-competition-as-arne-engels-exit-disappointment-discussed",
-      "publishedAt": "2026-08-19T01:27:25.420Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "fb7f70edc361fb",
-      "title": "Papers: Barca midfielder rejects chance to join Man Utd",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
-      "publishedAt": "2026-08-19T01:27:25.419Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     },
     {
@@ -156,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city",
-      "publishedAt": "2026-08-19T01:27:25.419Z",
+      "publishedAt": "2026-08-19T06:50:59.648Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -170,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sitting down with Harry Maguire for one of his first interviews of the season, I found a player who was reflective but also excited about the future and what's to come.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574426/harry-maguire-man-utd-defender-on-winning-trophies-new-signings-michael-carrick-and-the-future-with-ayden-heaven-and-leny-yoro",
-      "publishedAt": "2026-08-19T01:27:25.419Z",
+      "publishedAt": "2026-08-19T06:50:59.648Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -183,7 +157,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports Racing ambassador Hollie Doyle runs the rule on day one of York's Ebor Festival on Wednesday, featuring the eagerly awaited clash between Ombudsman and Const...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13574440/hollie-doyle-constitution-river-can-come-of-age-in-juddmonte-showdown",
-      "publishedAt": "2026-08-19T01:27:25.419Z",
+      "publishedAt": "2026-08-19T06:50:59.648Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -196,7 +170,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Premier League chief executive Richard Masters says a verdict on the alleged charges against Manchester City \"has taken longer than expected\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574259/manchester-city-charges-premier-league-chief-executive-richard-masters-says-verdict-has-taken-longer-than-expected",
-      "publishedAt": "2026-08-19T01:27:25.419Z",
+      "publishedAt": "2026-08-19T06:50:59.648Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -210,12 +184,150 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Mikel Arteta is excited to keep building Arsenal after their Premier League win, vowing to make them \"the best club in the world\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world",
-      "publishedAt": "2026-08-19T01:27:25.418Z",
+      "publishedAt": "2026-08-19T06:50:59.647Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "fb7f70edc361fb",
+      "title": "Papers: Barca midfielder rejects chance to join Man Utd",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk",
+      "publishedAt": "2026-08-19T06:50:59.647Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e31709b12d20c9",
+      "title": "Barcola ‘hijack’ claim made despite ‘second bid’ from Liverpool as ‘tactic’ could backfire",
+      "summary": "One prominent journalist has warned Liverpool that they could face a hijack from other clubs for Bradley Barcola unless they get a move on.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-barcola-hijack-second-bid-tactic-backfire",
+      "publishedAt": "2026-08-19T06:40:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2c6b8a35fe9d2c",
+      "title": "Liverpool off their perch again as fans predict woe for ‘half-baked’ Reds",
+      "summary": "Liverpool fans are not feeling confident; they see only trouble ahead and Arsenal champions as predictions roll in.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-perch-fans-predict-half-baked-reds-mailbox",
+      "publishedAt": "2026-08-19T06:35:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "33b9d7ebfb8203",
+      "title": "How Carrick's Man Utd are shaping up for Premier League season",
+      "summary": "As Manchester United prepare to start the new Premier League season at Hull on Saturday, BBC Sport examines how Michael Carrick's team will set up tactically.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg5l9p58dv6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T06:29:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1d2c0067d66b9f",
+      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
+      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
+      "publishedAt": "2026-08-19T06:09:04.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "899dca39b4acc7",
+      "title": "Man Utd stagnation in defence highlighted as Arsenal provide evolution blueprint",
+      "summary": "Manchester United have spent less on their defence in the last four years than any of their Big Six rivals – but Arsenal prove you don’t have to spend Chelsea ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-defence-since-2022-brentford-big-six-arsenal-city-chelsea-liverpool-arsenal-spurs",
+      "publishedAt": "2026-08-19T06:07:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5c4ee1c9b05e00",
+      "title": "Who am I? Guess Premier League star No 30",
+      "summary": "Work out the identity of today's player in as few attempts as possible.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9342kw7zkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:51:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5ee9d1655b845a",
+      "title": "Five in Five: Football quiz No 3",
+      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74gde30nryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:37:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "3ff3a046513a75",
+      "title": "How will your club fare? Phil McNulty's Premier League predictions",
+      "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:21:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "54b9bb96132cfd",
+      "title": "Nestory Irankunda says Pauline Hanson’s Socceroos monocultural claim made ‘us boys angry’",
+      "summary": "Forward says One Nation leader’s comments made him ‘emotional’ Players upset ‘because there’s so many young blokes that look up to us’ Pauline Hanson’s claims that the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/19/nestory-irankunda-pauline-hanson-socceroos-monocultural-claim",
+      "publishedAt": "2026-08-19T04:03:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup"
       ]
     },
     {
@@ -489,113 +601,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Fifa",
         "Uefa"
-      ]
-    },
-    {
-      "id": "6c974ed2da7ff9",
-      "title": "Football Daily",
-      "summary": "Richard Masters speaks to Dan Roan ahead of the new season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p5540m?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T17:03:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ae3834f065c6ee",
-      "title": "Chelsea’s boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham",
-      "summary": "Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Perhaps, in hindsight, it was always going to end this way....",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership",
-      "publishedAt": "2026-08-18T16:53:13.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "90e9fe48b82cb2",
-      "title": "Aston Villa back in talks for World Cup duo after rejected offer and club chief callout",
-      "summary": "Aston Villa are back in talks with two players who featured at the World Cup, after a bid was rejected for one and the chief of the other’s club told ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-talks-wan-bissaka-palhinha",
-      "publishedAt": "2026-08-18T16:20:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "dc6f2beb70eb0a",
-      "title": "Celtic out to erase Kairat pain as O'Neill eyes Champions League return",
-      "summary": "Twelve months ago, Celtic's humiliating Champions League exit to Kairat Almaty set the tone for a campaign of chaos. Martin O'Neill is determined to erase that pain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T16:19:51.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "483d9658da6404",
-      "title": "Premier League chief Masters says Fifa self-destructed over World Cup plan",
-      "summary": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-d...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T16:18:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5e234064d71796",
-      "title": "Man Utd a ‘disgrace’ for not backing Michael Carrick with elite signings – Sky Sports pundit",
-      "summary": "United have been blasted for failing to give Carrick several top-class stars after he guided the club back into the Champions League last term",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-news-ineos-disgrace-michael-carrick-transfers-failure-sky-sports",
-      "publishedAt": "2026-08-18T15:40:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "498cdec01dd9d1",
-      "title": "New Celtic signings unlikely before LASK tie - O'Neill",
-      "summary": "Celtic manager Martin O'Neill does not anticipate any new arrivals before Wednesday's Champions League play-off first leg at home to LASK and insists he would be happy...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8kekejx8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T15:34:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "4f4d8e3207b0bc",
-      "title": "Retaining top talent a challenge - Everton chief Kinnear",
-      "summary": "Retaining top talent is a challenge for established Premier League clubs even when they are performing well, says Everton chief executive officer Angus Kinnear.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3d373jg15zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T15:29:58.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
