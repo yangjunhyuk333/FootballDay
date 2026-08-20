@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:40:16.736Z",
+  "generatedAt": "2026-08-20T01:26:25.295Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,70 +99,43 @@
       "pinned": true
     },
     {
-      "id": "7bc983c786f565",
-      "title": "Transfer Centre LIVE! Fernandez, Konsa and Baleba latest",
-      "summary": "Transfer Centre LIVE! Fernandez, Konsa and Baleba latest",
+      "id": "4791143986d82f",
+      "title": "Papers: Man City set to bid for Fernandez despite missing Chelsea deadline",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-08-19T18:40:16.397Z",
+      "url": "https://www.skysports.com/football/news/12040/13574860/man-city-transfer-news-enzo-fernandez-bid-incoming-despite-missing-chelsea-deadline-paper-talk",
+      "publishedAt": "2026-08-20T01:26:24.798Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Transfer",
+        "Chelsea"
       ]
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Inter Milan in advanced talks over Jones",
-      "summary": "Liverpool latest: Inter Milan in advanced talks over Jones",
+      "id": "049f2571cae19f",
+      "title": "Duran, Duran! Celtic earn thumping CL win after new star's double",
+      "summary": "Celtic took a huge step towards a return to the Champions League with stunning goals from Benjamin Nygren and Camilo Duran.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-19T18:40:16.397Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Why Konsa is the perfect Arteta player",
-      "summary": "Arsenal latest: Why Konsa is the perfect Arteta player",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-19T18:40:16.397Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/celtic-vs-linz-ask/report/577265",
+      "publishedAt": "2026-08-20T01:26:24.798Z",
+      "category": "ucl",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Champions League"
       ]
     },
     {
-      "id": "857908e247ffe6",
-      "title": "Merson's Premier League season preview: Who wins the title and who stays up?",
-      "summary": "In his latest column, Paul Merson predicts the 2026/27 Premier League season at both ends of the table.",
+      "id": "991408d224d1ac",
+      "title": "Chelsea latest: Four players training away from first team as squad numbers revealed",
+      "summary": "Chelsea latest: Four players training away from first team as squad numbers revealed",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
-      "publishedAt": "2026-08-19T18:40:16.397Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-20T01:26:24.798Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "b6d527de3bb848",
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "summary": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-08-19T18:40:16.396Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
+        "Chelsea"
       ]
     },
     {
@@ -171,7 +144,7 @@
       "summary": "Two of the most powerful men in English football have joined forces to hit out at FIFA and the U-turn which allowed USA striker Folarin Balogun to play on at the World...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup",
-      "publishedAt": "2026-08-19T18:40:16.396Z",
+      "publishedAt": "2026-08-20T01:26:24.797Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -181,12 +154,25 @@
       ]
     },
     {
+      "id": "d3489fba18ad14",
+      "title": "Jaissle: Club aligned on Newcastle squad needing adjustments",
+      "summary": "Newcastle head coach Matthias Jaissle says the club are aligned on the need for \"adjustments\" to the squad in the final few weeks of the summer transfer window.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13574826/matthias-jaissle-newcastle-head-coach-says-squad-needs-adjustments-in-transfer-window-and-previews-liverpool-game",
+      "publishedAt": "2026-08-20T01:26:24.797Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "662653341b1b0f",
       "title": "Item surprises big two for Juddmonte International glory",
       "summary": "Item delivered for Andrew Balding and the sponsors to land a 10-1 surprise in the Juddmonte International at York – with the big two of Constitution River and Ombudsman...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13574761/item-surprises-big-two-for-juddmonte-international-glory",
-      "publishedAt": "2026-08-19T18:40:16.396Z",
+      "publishedAt": "2026-08-20T01:26:24.797Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -199,7 +185,7 @@
       "summary": "Tottenham are in talks with Manchester City over a potential double deal for Savinho and Omar Marmoush.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13574823/tottenham-transfer-news-spurs-target-man-city-duo-savinho-and-marmoush-as-search-for-three-new-forwards-gathers-pace",
-      "publishedAt": "2026-08-19T18:40:16.396Z",
+      "publishedAt": "2026-08-20T01:26:24.797Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -207,29 +193,292 @@
       ]
     },
     {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Delap and Tosin lose squad numbers amid uncertain futures",
-      "summary": "Chelsea latest: Delap and Tosin lose squad numbers amid uncertain futures",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-19T18:40:16.396Z",
-      "category": "worldcup",
+      "id": "17c93de99ef5d4",
+      "title": "Celtic find value in 'special' Duran - but does ambition reach further still?",
+      "summary": "Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T23:34:09.000Z",
+      "category": "ucl",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Champions League"
       ]
     },
     {
-      "id": "16bffc6bf36040",
-      "title": "Arsenal agree £51m deal to sign Aston Villa's Konsa",
-      "summary": "Arsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
-      "publishedAt": "2026-08-19T18:40:16.396Z",
+      "id": "f1ae5c3d68d721",
+      "title": "Algorithms amplified World Cup racism, says report",
+      "summary": "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7en0lxkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T23:02:14.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1e2ef45a4df067",
+      "title": "Premier League 2026-27 preview No 17: Newcastle",
+      "summary": "After the departure of the manager and some of their best players, fans on Tyneside are braced for a transitional season at best Guardian writers’ predicted position: 1...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle",
+      "publishedAt": "2026-08-19T23:01:35.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8ab1d25b522e2a",
+      "title": "How 'outstanding' Duran helped Celtic beat LASK",
+      "summary": "Champions League analysts Pat Nevin and James McFadden look at the \"outstanding\" impact new signing Camilo Duran had for Celtic in their Champions League play-off first...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62qyr16k6ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T22:27:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "54d728b1909967",
+      "title": "‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League",
+      "summary": "A stunning double from the summer signing Camilo Durán helped Celtic open up a commanding lead against Lask in their Champions League playoff. Benjamin Nygren also prod...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/19/celtic-lask-champions-league-playoff-match-report",
+      "publishedAt": "2026-08-19T22:24:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "4ab69650f39d9f",
+      "title": "Hapoel Be'er Sheva earn comeback win over Sabah",
+      "summary": "Hapoel Be'er Sheva fight back from a goal down to beat Sabah in the first leg of their Champions League play-off.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy74z3zzvm1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:42:50.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "2fa5c2de365bff",
+      "title": "Man City join Man Utd in Kone race - Thursday's gossip",
+      "summary": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0n4qlxyq7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:30:46.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "48057189c66fbd",
+      "title": "Bodo/Glimt in strong position following first-leg win at NEC",
+      "summary": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Ne...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62v4v90yd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:29:50.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "3a07163bdc91dd",
+      "title": "Duran stars as Celtic ease to comfortable win over LASK",
+      "summary": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0m73y34nglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:28:08.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "9ee8e99b66ab17",
+      "title": "Celje fight back to earn draw against Slovan Bratislava",
+      "summary": "Slovenia's Celje fight back from a goal down to earn a 1-1 draw away against Slovakian side Slovan Bratislava in the first leg of the Champions League play-offs.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crl7673348xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:22:24.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "2498ea2196eb69",
+      "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
+      "summary": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Pre...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
+      "publishedAt": "2026-08-19T21:08:21.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "a6435f42ca6cf1",
+      "title": "Levski Sofia and AEK Athens play out goalless first leg",
+      "summary": "Levski Sofia play out a goalless draw with AEK Athens in their Champions League play-off first leg at the Stadion Vasil Levski.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c79g0y57qnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:07:16.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "7b4ef711e900af",
+      "title": "Viking fight back to claim thrilling first-leg draw at Dinamo Zagreb",
+      "summary": "Norway's Viking FK complete a comeback from two behind to hold Dinamo Zagreb of Croatia to a 2-2 draw in the first leg of their Champions League play-off.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwymzewv14no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:06:40.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "ed86660b654d89",
+      "title": "Fenerbahce & Lyon play out entertaining first-leg draw",
+      "summary": "Fenerbahce and Lyon play out an entertaining 1-1 draw in their Uefa Champions League play-off first leg.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyqzk5yk41o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:05:51.000Z",
+      "category": "ucl",
+      "region": "france",
+      "tags": [
+        "Champions League",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "0ecbfce504c363",
+      "title": "Celtic take the lead through Nygren's 'magnificent' strike",
+      "summary": "Celtic take the lead in their Champions League play-off first leg against LASK, as Benjamin Nygren finds the top corner in spectacular fashion from outside of the box.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp8xg9j7gnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:00:45.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "5f736555aa6c84",
+      "title": "Duran's incredible double edges Celtic closer to Champions League",
+      "summary": "Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crmrydv4ww0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T21:00:41.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "f6ee619a3019ee",
+      "title": "Rashford wants to play football 'without name mentioned every day'",
+      "summary": "Marcus Rashford says he would like to play football without his \"name being mentioned every day\" after Gary Neville tried to start a conversation about the Manchester U...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T20:56:50.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f10d2e958ce41c",
+      "title": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
+      "summary": "France World Cup midfielder could cost £50m Tottenham discussing £150m double deal for forward pair Manchester City have identified Roma’s Manu Koné as a potential targ...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal",
+      "publishedAt": "2026-08-19T20:56:13.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "97672daa510c71",
+      "title": "Curtis Jones set to leave Liverpool as Inter submit £30m offer for midfielder",
+      "summary": "Homegrown star has been longstanding target for Italians Jones in the final year of his contract at Anfield Inter have submitted an offer of €30m rising to €35m (£30m)...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league",
+      "publishedAt": "2026-08-19T19:22:01.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "6a6631ae9f50c5",
+      "title": "Fifth Fifa vice-president turns against Infantino, saying he has ‘lost confidence’ in him",
+      "summary": "Hungary’s Sandor Csanyi highly critical of Fifa president He cites dismissal of COO Kevin Lamour as ‘final straw’ Gianni Infantino has lost the support of another one o...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/19/fifth-fifa-vice-president-turns-against-infantino-saying-he-has-lost-confidence-in-him",
+      "publishedAt": "2026-08-19T19:04:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "66941366e3eb8d",
+      "title": "Romano confirms Man City in talks to sell midfielder to Newcastle with Reijnders exit done",
+      "summary": "Fabrizio Romano has revealed Newcastle are in talks to sign a Manchester City midfielder after the Citizens sold Tijjani Reijnders to Al-Qadsiah.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-talks-sell-gonzalez-newcastle-reijnders-exit",
+      "publishedAt": "2026-08-19T18:41:20.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -301,22 +550,6 @@
       ]
     },
     {
-      "id": "2498ea2196eb69",
-      "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
-      "summary": "USA striker missed no matches after sending-off ‘Far too often now decisions are viewed as corrupt’ Howard Webb was “really troubled” by the decision of Fifa’s discipli...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
-      "publishedAt": "2026-08-19T16:05:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
       "id": "3cebe2e5ca1047",
       "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
       "summary": "Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City.",
@@ -327,6 +560,20 @@
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "2a5ca95c9552db",
+      "title": "Delap loses number nine shirt & trains away from first team",
+      "summary": "Chelsea have split their players into two training groups at Cobham, involving several players who could move before the transfer window closes, including Liam Delap, N...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4nel5gddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T15:58:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
       ]
     },
     {
@@ -341,264 +588,6 @@
       "tags": [
         "Arsenal",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "99daefae57e7f1",
-      "title": "Two collapses in four days - what's happening to Musiala?",
-      "summary": "Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crmry3r1ew7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T15:34:38.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "5b7a4749849856",
-      "title": "Tottenham in ‘close contact’ for third centre-back this summer with £43m starting price",
-      "summary": "Tottenham are in ‘close contact’ with the representatives of a Bundesliga centre-back who’s open to a move and has a £43million starting price. Spurs have already signe...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-close-contact-centre-back-tapsoba-43m",
-      "publishedAt": "2026-08-19T15:33:25.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "97672daa510c71",
-      "title": "Inter hold talks with Liverpool over deal for £30m-rated Curtis Jones",
-      "summary": "Midfielder has been a target for Italians since January Jones in the final year of his contract at Anfield Inter are in talks with Liverpool over a deal for Curtis Jone...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/inter-liverpool-30m-curtis-jones-transfer-window-premier-league",
-      "publishedAt": "2026-08-19T15:32:15.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "7d1c93d9073315",
-      "title": "Arsenal confident they’ll complete double raid on Man Utd after Ezri Konsa signing",
-      "summary": "Arsenal have wrapped up the signing of Ezri Konsa from Aston Villa and multiple top sources state their next two arrivals could come via Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-confident-complete-double-raid-man-utd-after-ezri-konsa-signing",
-      "publishedAt": "2026-08-19T15:22:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4775dff68fb3ee",
-      "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
-      "summary": "Defender to provide cover for injured Saliba and Timber Villa braced for fresh bid from Al-Hilal for Ollie Watkins Arsenal have agreed a £51m deal to sign Ezri Konsa fr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
-      "publishedAt": "2026-08-19T15:16:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1ebf91834857ee",
-      "title": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who beg...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily",
-      "publishedAt": "2026-08-19T14:51:57.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "479a8c9c316412",
-      "title": "Fabrizio Romano confirms second Liverpool transfer of the day is ‘agreed’",
-      "summary": "Liverpool have agreed their second transfer of the day, with Fabrizio Romano shedding light on the finer details of the move.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-confirms-second-liverpool-transfer-agreed",
-      "publishedAt": "2026-08-19T14:50:34.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1287011a85a75c",
-      "title": "Fabrizio Romano reveals deal is ‘on’ for Barcola ASAP as decision made on £171m double swoop",
-      "summary": "Fabrizio Romano has revealed Liverpool are pushing to to sign Bradley Barcola as soon as possible, but a move for Ibrahim Mbaye looks unlikely at this stage.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/deal-on-barcola-asap-decision-mbaye-fabrizio-romano",
-      "publishedAt": "2026-08-19T14:46:52.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6de4e1128ad9a1",
-      "title": "Man Utd's decision to make Baleba their 'third midfielder'",
-      "summary": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:35:36.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bb9950e8891e2f",
-      "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
-      "summary": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez",
-      "publishedAt": "2026-08-19T14:23:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e4d768cecdf949",
-      "title": "Inter close in on £30m deal for Liverpool's Jones",
-      "summary": "Italian champions Inter Milan are closing in on a deal worth 35m euros (£30m) for Liverpool midfielder Curtis Jones.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:23:20.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "be2383b32f3c6b",
-      "title": "Ezri Konsa fired England warning as Arsenal move from Aston Villa agreed",
-      "summary": "Arsenal have an agreement in place to sign Ezri Konsa, after Aston Villa were told to warn him a move could affect his standing within the England set-up.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/konsa-warned-england-agreement-arsenal-aston-villa",
-      "publishedAt": "2026-08-19T14:11:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1a3e4a12001356",
-      "title": "Next three Tottenham signings confirmed as ENIC look for ideal end to the window",
-      "summary": "Tottenham already know the three transfers they want to complete before the end of the summer window, according to Sky Sports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-next-three-signings-confirmed-ideal-transfer-window-savinho-gakpo-marmoush",
-      "publishedAt": "2026-08-19T14:08:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "5bc48f2cd92a15",
-      "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
-      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T13:55:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b83638314bb2c0",
-      "title": "Man Utd set to mock our predictions if they sign Baleba to complete their midfield",
-      "summary": "Manchester United seemed seemed set for an underwhelming window but the prospect of signing Carlos Baleba could drastically change the outlook at Old Trafford…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carlos-baleba-to-man-utd-carrick-midfield-premier-league-predictions",
-      "publishedAt": "2026-08-19T13:43:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ea00c3635931c1",
-      "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-      "summary": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
-      "publishedAt": "2026-08-19T13:42:13.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool deal agreed as Arsenal hurtle towards next signing",
-      "summary": "Liverpool have finally agreed a deal to sell Curtis Jones, while Arsenal are now hurtling towards the signing of a new centre-back.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-19T13:38:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "65d7eac1a5e86e",
-      "title": "Romano finally gives ‘here we go’ to next Liverpool transfer with ‘medical being planned’",
-      "summary": "Liverpool and Inter Milan have now agreed a €35m package for Curtis Jones with a medical being planned, according to Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-here-we-go-jones-transfer-medical-planned",
-      "publishedAt": "2026-08-19T13:37:45.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter",
-        "Milan"
       ]
     }
   ],
