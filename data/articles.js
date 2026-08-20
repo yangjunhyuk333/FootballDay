@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-20T06:52:42.924Z",
+  "generatedAt": "2026-08-20T12:56:32.876Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,53 +99,151 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "049f2571cae19f",
-      "title": "Duran, Duran! Celtic earn thumping CL win after new star's double",
-      "summary": "Celtic took a huge step towards a return to the Champions League with stunning goals from Benjamin Nygren and Camilo Duran.",
+      "id": "9849a39e8ac387",
+      "title": "Aston Villa latest: More players sold?! Transfer plans analysed...",
+      "summary": "Aston Villa latest: More players sold?! Transfer plans analysed...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-linz-ask/report/577265",
-      "publishedAt": "2026-08-20T06:52:42.644Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Four players training away from first team as squad numbers revealed",
-      "summary": "Chelsea latest: Four players training away from first team as squad numbers revealed",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-20T06:52:42.644Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "4791143986d82f",
-      "title": "Papers: Man City set to bid for Fernandez despite missing Chelsea deadline",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574860/man-city-transfer-news-enzo-fernandez-bid-incoming-despite-missing-chelsea-deadline-paper-talk",
-      "publishedAt": "2026-08-20T06:52:42.643Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-20T12:56:32.872Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Chelsea"
+        "Transfer"
       ]
     },
     {
-      "id": "e9a765e9afc1b8",
-      "title": "Masters, Webb criticise FIFA over Balogun red card controversy",
-      "summary": "Two of the most powerful men in English football have joined forces to hit out at FIFA and the U-turn which allowed USA striker Folarin Balogun to play on at the World...",
+      "id": "b6d527de3bb848",
+      "title": "FREE STREAM: Good Morning Transfers on Sky Sports News",
+      "summary": "FREE STREAM: Good Morning Transfers on Sky Sports News",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup",
-      "publishedAt": "2026-08-20T06:52:42.642Z",
-      "category": "worldcup",
+      "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
+      "publishedAt": "2026-08-20T12:56:32.872Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f7167f8bfe2ec6",
+      "title": "Inter Milan agree £30m deal for Liverpool's Jones",
+      "summary": "Inter Milan have agreed a £30m (€35m) deal with Liverpool for Curtis Jones.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13574174/curtis-jones-transfer-news-inter-milan-agree-30m-deal-to-sign-liverpool-midfielder",
+      "publishedAt": "2026-08-20T12:56:32.872Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Arteta to speak pre-Coventry LIVE!",
+      "summary": "Arsenal latest: Arteta to speak pre-Coventry LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-20T12:56:32.872Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "10105e7b24e6b4",
+      "title": "Premier League reset: Record manager upheaval leaves 2026/27 wide open",
+      "summary": "There's a sense of unpredictability surrounding the new Premier League campaign.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure",
+      "publishedAt": "2026-08-20T12:56:32.871Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ccbb0cd1a138b1",
+      "title": "How does Arteta deliver step five of his Arsenal plan?",
+      "summary": "When Mikel Arteta arrived at Arsenal, he presented a five-step plan to go from crisis club to glory. Welcome to step five: create a dynasty.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13574067/arsenal-will-mikel-artetas-side-make-more-history-and-record-back-to-back-premier-league-titles",
+      "publishedAt": "2026-08-20T12:56:32.871Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9747dc23b2e1e4",
+      "title": "Aston Villa in talks to sign AC Milan midfielder after Fabrizio Romano claim on top target",
+      "summary": "Aston Villa are in talks to sign a midfielder from a European giant after Fabrizio Romano made a claim about one of the club’s top targets in the position.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-talks-youssouf-fofana-ac-milan-joao-palhinha-claim",
+      "publishedAt": "2026-08-20T12:27:15.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "a49c8c86f8a28e",
+      "title": "England legend pinpoints which Arsenal star will be like a new signing amid Premier League title prediction",
+      "summary": "Former England international Fara Williams believes the “pressure” is somewhat off for Arsenal after finally getting that Premier League title monkey off their back.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-legend-pinpoints-arsenal-star-new-signing-premier-league-title-prediction",
+      "publishedAt": "2026-08-20T12:03:35.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e28f4ce6f3cc7c",
+      "title": "Double-elimination, reseeding and 20 teams: MLS plans overhaul of playoffs",
+      "summary": "Format would resemble that of Australian rules football League will ditch conferences for five-division setup Major League Soccer is planning a significant overhaul of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/mls-playoff-format-overhaul",
+      "publishedAt": "2026-08-20T12:00:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "43148bba7a46fc",
+      "title": "Man City and Man Utd get definitive answer on Adam Wharton transfer amid Champions League dream",
+      "summary": "Manchester City have reportedly enquired about Crystal Palace star Adam Wharton as they try to fill the void left by new Barcelona recruit Rodri.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-man-utd-answer-adam-wharton-transfer-champions-league-dream",
+      "publishedAt": "2026-08-20T11:17:16.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Transfer",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "02d50720162332",
+      "title": "‘He must resign’: Fans’ petition calls for Infantino to quit as Fifa president",
+      "summary": "Fans say Infantino has ‘lost the right to lead’ Statement also calls for Fifa to be reformed Fans’ groups worldwide have launched a petition calling for the resignation...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
+      "publishedAt": "2026-08-20T11:13:15.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
@@ -154,92 +252,56 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d3489fba18ad14",
-      "title": "Jaissle: Club aligned on Newcastle squad needing adjustments",
-      "summary": "Newcastle head coach Matthias Jaissle says the club are aligned on the need for \"adjustments\" to the squad in the final few weeks of the summer transfer window.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574826/matthias-jaissle-newcastle-head-coach-says-squad-needs-adjustments-in-transfer-window-and-previews-liverpool-game",
-      "publishedAt": "2026-08-20T06:52:42.642Z",
-      "category": "transfer",
+      "id": "0024b52c4ca9aa",
+      "title": "Who replaces Salah as Africa's Premier League king?",
+      "summary": "Following Mohamed Salah's Liverpool exit after nine seasons, who could take the Egyptian King's crown as Africa's biggest Premier League star?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20dgvp9445o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T11:03:10.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
-      "id": "662653341b1b0f",
-      "title": "Item surprises big two for Juddmonte International glory",
-      "summary": "Item delivered for Andrew Balding and the sponsors to land a 10-1 surprise in the Juddmonte International at York – with the big two of Constitution River and Ombudsman...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13574761/item-surprises-big-two-for-juddmonte-international-glory",
-      "publishedAt": "2026-08-20T06:52:42.642Z",
-      "category": "transfer",
+      "id": "4807a19cef6d2b",
+      "title": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
+      "summary": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlight And so, calcio’s “ third apocalypse ” has passed. A lot of Ita...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli",
+      "publishedAt": "2026-08-20T11:00:51.000Z",
+      "category": "worldcup",
       "region": "italy",
       "tags": [
+        "Football",
+        "Serie A",
+        "World Cup",
         "Inter"
       ]
     },
     {
-      "id": "e9eaaa83fc00ff",
-      "title": "Spurs in talks over Man City pair Savinho and Marmoush",
-      "summary": "Tottenham are in talks with Manchester City over a potential double deal for Savinho and Omar Marmoush.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13574823/tottenham-transfer-news-spurs-target-man-city-duo-savinho-and-marmoush-as-search-for-three-new-forwards-gathers-pace",
-      "publishedAt": "2026-08-20T06:52:42.642Z",
-      "category": "transfer",
+      "id": "dfde3543e4ba3c",
+      "title": "Premier League 2026-27 preview No 18: Nottingham Forest",
+      "summary": "After a chaotic season under four different coaches, Forest fans will be hoping Oliver Glasner can bring some stability Guardian writers’ predicted position: 11th (NB:...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
+      "publishedAt": "2026-08-20T11:00:50.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Football",
+        "Premier League"
       ]
     },
     {
-      "id": "b19810a7238ece",
-      "title": "St Mirren agree loan deal for Ramsay - gossip",
-      "summary": "St Mirren agree deal for Liverpool right-back as Scotland forward set for big money move.",
+      "id": "6876b44088797b",
+      "title": "Football Daily",
+      "summary": "Mark Chapman, Dion Dublin, Steve Ogrizovic, Rob Gurney & more on a remarkable story.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nzne3v4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T06:49:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "9afba1401c011c",
-      "title": "Top 10 biggest transfer window spends ever as Tottenham threaten",
-      "summary": "The top 10 transfer window spends ever is led by Liverpool but Chelsea have a ridiculous total of five entries in that top 10.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/biggest-transfer-window-spends-ever",
-      "publishedAt": "2026-08-20T06:45:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "cd10b554de2d77",
-      "title": "This transfer window has been function over flair…bring on the striker scramble",
-      "summary": "The transfer market this summer has been off its t*ts to this point but it’s all been about function over firepower. Until now…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-midfielders-strikers-attacking-targets-big-six",
-      "publishedAt": "2026-08-20T06:41:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "c7c9fadf040d06",
-      "title": "Five in Five: Football quiz No 4",
-      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T06:19:41.000Z",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p5cnlh?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T11:00:00.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -247,198 +309,102 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0064a043889f45",
-      "title": "How to watch Arsenal vs Coventry as Sky makes changes to Premier League streaming",
-      "summary": "Arsenal v Coventry kicks off the Premier League season on Friday night and we can tell you where, how and how much to watch.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-to-watch-arsenal-vs-coventry-as-sky-makes-changes-to-premier-league-streaming",
-      "publishedAt": "2026-08-20T06:01:54.000Z",
-      "category": "transfer",
+      "id": "3f6c05338da94d",
+      "title": "Frank Lampard wants Coventry to play without fear in Premier League",
+      "summary": "Promoted club have targeted players 6ft and above ‘Physicality is a big part of what you need to compete’ Frank Lampard has urged his Coventry players to impose themsel...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+      "publishedAt": "2026-08-20T10:44:59.000Z",
+      "category": "ratings",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-20T06:00:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "a15db1efa1f066",
-      "title": "Who am I? Guess Premier League star No 31",
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj36grvmrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T05:57:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Arsenal leapfrog Man Utd in five-year net spend table topped by astonishing £852m Chelsea",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-08-20T05:50:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
+        "Football",
         "Premier League",
         "Arsenal",
         "Chelsea"
       ]
     },
     {
-      "id": "37e7da281aaf0d",
-      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
-      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "id": "5bc48f2cd92a15",
+      "title": "Konsa set for Arsenal medical before £50m-plus move",
+      "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T05:24:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "68d7157d19e8c5",
-      "title": "Aguero and Shearer star in best opening-round debuts",
-      "summary": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T05:22:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "2aa7b9b06a88d4",
-      "title": "Premier League transfer net spend table for 26/27 season: Man City 15th!",
-      "summary": "We all know Chelsea and Tottenham are spending all the money but where do they stand on the net spend Premier League table?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-transfer-net-spend-table-for-26-27-season",
-      "publishedAt": "2026-08-20T05:05:57.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T10:25:40.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
+        "Arsenal"
       ]
     },
     {
-      "id": "1e1c62fa420666",
-      "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
-      "summary": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move",
-      "publishedAt": "2026-08-19T23:58:35.000Z",
+      "id": "d404be56555ff5",
+      "title": "Arsenal in contact for Juventus forward swap as Italian giants want two Gunners stars",
+      "summary": "Arsenal have returned to the table for a Juventus forward, with a swap deal on the cards as the Italian giants are interested in a pair of Gunners.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-contact-huge-juventus-swap-deal-kenan-yildiz-gabriel-jesus-martinelli",
+      "publishedAt": "2026-08-20T10:21:25.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Football",
-        "Soccer",
-        "Premier League",
-        "World Cup"
+        "Arsenal",
+        "Inter",
+        "Juventus"
       ]
     },
     {
-      "id": "17c93de99ef5d4",
-      "title": "Celtic find value in 'special' Duran - but does ambition reach further still?",
-      "summary": "Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T23:34:09.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "f1ae5c3d68d721",
-      "title": "Algorithms amplified World Cup racism, says report",
-      "summary": "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7en0lxkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T23:02:14.000Z",
+      "id": "3bf32efa33d127",
+      "title": "The easiest way to watch Manchester United vs Hull City as TNT switches channel",
+      "summary": "Hull City v Manchester United will be live on TNT Sports 1, TNT Sports Ultimate and HBO Max. How can you sign up?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/the-easiest-way-to-watch-manchester-united-vs-hull-city-as-tnt-switches-channel",
+      "publishedAt": "2026-08-20T09:50:53.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "World Cup"
+        "Manchester"
       ]
     },
     {
-      "id": "1e2ef45a4df067",
-      "title": "Premier League 2026-27 preview No 17: Newcastle",
-      "summary": "After the departure of the manager and some of their best players, fans on Tyneside are braced for a transitional season at best Guardian writers’ predicted position: 1...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle",
-      "publishedAt": "2026-08-19T23:01:35.000Z",
-      "category": "league",
+      "id": "2e827c2c1a7064",
+      "title": "Liverpool to complete transfer today after bid ‘formally accepted’ and clause inserted",
+      "summary": "Liverpool will finalise the sale of Curtis Jones to Inter Milan today after details on the final fee and a key clause were ironed out, while a report has revealed ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-finalise-curtis-jones-inter-milan-transfer-today-bid-formally-accepted-clause-inserted",
+      "publishedAt": "2026-08-20T09:20:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "cdf8edc1bfa4eb",
+      "title": "Spurs in talks to sign Man City's Savinho and Marmoush",
+      "summary": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T09:01:26.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e6631e6ff36881",
+      "title": "Pick your club's best XI for this season",
+      "summary": "As Premier League teams prepare to kick off the new season, we want you to pick your club's best XI.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrk8xgr0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T09:01:21.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "8ab1d25b522e2a",
-      "title": "How 'outstanding' Duran helped Celtic beat LASK",
-      "summary": "Champions League analysts Pat Nevin and James McFadden look at the \"outstanding\" impact new signing Camilo Duran had for Celtic in their Champions League play-off first...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62qyr16k6ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T22:27:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "54d728b1909967",
-      "title": "‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League",
-      "summary": "A stunning double from the summer signing Camilo Durán helped Celtic open up a commanding lead against Lask in their Champions League playoff. Benjamin Nygren also prod...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/celtic-lask-champions-league-playoff-match-report",
-      "publishedAt": "2026-08-19T22:24:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "4ab69650f39d9f",
-      "title": "Hapoel Be'er Sheva earn comeback win over Sabah",
-      "summary": "Hapoel Be'er Sheva fight back from a goal down to beat Sabah in the first leg of their Champions League play-off.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy74z3zzvm1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:42:50.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
       ]
     },
     {
@@ -447,7 +413,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn0n4qlxyq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:30:46.000Z",
+      "publishedAt": "2026-08-20T08:59:24.000Z",
       "category": "league",
       "region": "england italy",
       "tags": [
@@ -456,138 +422,184 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "48057189c66fbd",
-      "title": "Bodo/Glimt in strong position following first-leg win at NEC",
-      "summary": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Ne...",
+      "id": "87b6a3dc73607f",
+      "title": "Barcelona face striker dilemma - could they cope without one?",
+      "summary": "Barcelona are heading into the new La Liga season without an established striker, with Hansi Flick yet to replace Robert Lewandowski and Ferran Torres.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62v4v90yd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:29:50.000Z",
-      "category": "ucl",
-      "region": "england",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyvlr6mz15no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T08:44:57.000Z",
+      "category": "league",
+      "region": "spain",
       "tags": [
-        "Champions League"
+        "La Liga",
+        "Barcelona"
       ]
     },
     {
-      "id": "3a07163bdc91dd",
-      "title": "Duran stars as Celtic ease to comfortable win over LASK",
-      "summary": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0m73y34nglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:28:08.000Z",
-      "category": "ucl",
-      "region": "england",
+      "id": "addcbcd77a14c7",
+      "title": "Romano confirms development with biggest Man Utd transfer of the summer happening ‘today’",
+      "summary": "Fabrizio Romano has revealed there’ll be big developments over Carlos Baleba’s transfer to Man Utd ‘today’, while he’s also dropped a hint on how many more signings INE...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-confirms-development-biggest-man-utd-summer-signing-carlos-baleba-today",
+      "publishedAt": "2026-08-20T08:29:17.000Z",
+      "category": "transfer",
+      "region": "italy",
       "tags": [
-        "Champions League"
+        "Transfer"
       ]
     },
     {
-      "id": "9ee8e99b66ab17",
-      "title": "Celje fight back to earn draw against Slovan Bratislava",
-      "summary": "Slovenia's Celje fight back from a goal down to earn a 1-1 draw away against Slovakian side Slovan Bratislava in the first leg of the Champions League play-offs.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crl7673348xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:22:24.000Z",
-      "category": "ucl",
+      "id": "0237b22bfe4ac8",
+      "title": "Arsenal forward turns down exit to Euro giants after teammate’s rejection opened door",
+      "summary": "Mikel Arteta is happy to lose two Arsenal forwards this summer, but there’s some pushback, with both rejecting exits amid links with the same club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-forward-jesus-turns-down-euro-giants-napoli-martinelli-rejected",
+      "publishedAt": "2026-08-20T08:13:36.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Champions League"
+        "Arsenal"
       ]
     },
     {
-      "id": "2498ea2196eb69",
-      "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
-      "summary": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Pre...",
+      "id": "347189edc42406",
+      "title": "Man Utd given three keys to success: 1) Sell Bruno Fernandes",
+      "summary": "Manchester United have woken up in the transfer market but the fans want more. Should it start with selling Bruno Fernandes?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-three-keys-success-sell-bruno-fernandes-mailbox",
+      "publishedAt": "2026-08-20T08:02:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Spurs ‘accelerating’ £140m deal as Baleba agreement nears",
+      "summary": "Tottenham Hotspur are making a decisive move to sign two forwards with another to follow, while Man Utd are talking to Brighton again today over Carlos Baleba.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-20T08:01:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e7e4d04839a472",
+      "title": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+      "summary": "Early Kick Off show on before Hull v Manchester United Match previews available free-to-air for the first time TNT Sports will make the first 30 minutes of their live P...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
-      "publishedAt": "2026-08-19T21:08:21.000Z",
-      "category": "worldcup",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a6435f42ca6cf1",
-      "title": "Levski Sofia and AEK Athens play out goalless first leg",
-      "summary": "Levski Sofia play out a goalless draw with AEK Athens in their Champions League play-off first leg at the Stadion Vasil Levski.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c79g0y57qnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:07:16.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "7b4ef711e900af",
-      "title": "Viking fight back to claim thrilling first-leg draw at Dinamo Zagreb",
-      "summary": "Norway's Viking FK complete a comeback from two behind to hold Dinamo Zagreb of Croatia to a 2-2 draw in the first leg of their Champions League play-off.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwymzewv14no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:06:40.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "ed86660b654d89",
-      "title": "Fenerbahce & Lyon play out entertaining first-leg draw",
-      "summary": "Fenerbahce and Lyon play out an entertaining 1-1 draw in their Uefa Champions League play-off first leg.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyqzk5yk41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:05:51.000Z",
-      "category": "ucl",
-      "region": "france",
-      "tags": [
-        "Champions League",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "0ecbfce504c363",
-      "title": "Celtic take the lead through Nygren's 'magnificent' strike",
-      "summary": "Celtic take the lead in their Champions League play-off first leg against LASK, as Benjamin Nygren finds the top corner in spectacular fashion from outside of the box.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp8xg9j7gnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:00:45.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "5f736555aa6c84",
-      "title": "Duran's incredible double edges Celtic closer to Champions League",
-      "summary": "Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crmrydv4ww0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:00:41.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "f6ee619a3019ee",
-      "title": "Rashford wants to play football 'without name mentioned every day'",
-      "summary": "Marcus Rashford says he would like to play football without his \"name being mentioned every day\" after Gary Neville tried to start a conversation about the Manchester U...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T20:56:50.000Z",
+      "url": "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "publishedAt": "2026-08-20T08:00:46.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
+        "Premier League",
         "Manchester"
+      ]
+    },
+    {
+      "id": "adeee230f9a9c4",
+      "title": "Premier League season preview: Hull City to Spurs | Football Weekly video",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts. Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly-video",
+      "publishedAt": "2026-08-20T07:59:09.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e4d768cecdf949",
+      "title": "Inter agree £30m deal for Liverpool's Jones",
+      "summary": "Curtis Jones is set to join Inter Milan after the Italian side agreed a deal worth 35m euros (£30m) with Liverpool.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T07:57:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "adc69de83b7fce",
+      "title": "Liverpool accelerate move for £78m Curtis Jones replacement to unleash midfield pairing",
+      "summary": "Jones’ move will leave new Anfield chief Andoni Iraola a little light on central midfield options ahead of the new campaign, but it looks like the Reds have a plan ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/adam-wharton-move-accelerated-curtis-jones-replacement",
+      "publishedAt": "2026-08-20T07:55:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b744c149cd5019",
+      "title": "Arsenal v Coventry: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Arsenal and Coventry City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/arsenal-v-coventry-prediction-preview",
+      "publishedAt": "2026-08-20T07:50:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9d8e7157816bf9",
+      "title": "Damaged pitch forces PSG to switch season opener",
+      "summary": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severely damaged\" the Parc des Princes pitch.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T07:48:29.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Ligue 1",
+        "Psg"
+      ]
+    },
+    {
+      "id": "e31e9cc17881e9",
+      "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "summary": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sa...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
+      "publishedAt": "2026-08-20T07:35:41.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e618b3e50f2278",
+      "title": "When is the Champions League draw and who is in each pot?",
+      "summary": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T07:27:59.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
       ]
     }
   ],
