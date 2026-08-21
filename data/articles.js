@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-21T01:37:12.450Z",
+  "generatedAt": "2026-08-21T06:53:36.051Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "e83665e76b6fb9",
+      "title": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
+      "summary": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13575143/premier-league-predictions-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf",
+      "publishedAt": "2026-08-21T06:53:35.741Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "906965ddb0bea1",
       "title": "Papers: Two PL clubs interested in Arsenal's Jesus",
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
-      "publishedAt": "2026-08-21T01:37:12.206Z",
+      "publishedAt": "2026-08-21T06:53:35.741Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -119,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season",
-      "publishedAt": "2026-08-21T01:37:12.206Z",
+      "publishedAt": "2026-08-21T06:53:35.741Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -127,30 +140,111 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "7690b999f361c0",
-      "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
-      "summary": "Mikel Arteta says he is \"100 per cent\" confident Myles Lewis-Skelly will be an Arsenal player at the end of the transfer window.",
+      "id": "84591db18ed671",
+      "title": "Football is back (with no hydration breaks!) - How to watch the new season",
+      "summary": "No hydration breaks or half-time shows... football as we know and love it is back - with 1,500 games on Sky Sports! Here is everything you need to know ahead of the new...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer",
-      "publishedAt": "2026-08-21T01:37:12.206Z",
+      "url": "https://www.skysports.com/football/news/12040/13572180/how-to-watch-or-stream-football-live-this-season-premier-league-efl-scottish-premiership-and-wsl-on-sky-sports-and-now",
+      "publishedAt": "2026-08-21T06:53:35.739Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e3de2d98cd229a",
+      "title": "Sutton's opening weekend predictions v Courteeners frontman Liam Fray",
+      "summary": "BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T06:46:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "320a88b418c538",
+      "title": "Liverpool transfer approved as the Reds accelerate move to sign Prem star after Jones deal",
+      "summary": "Liverpool are reportedly ready to step up their pursuit of Crystal Palace star Adam Wharton after agreeing to sell Curtis Jones.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-accelerate-wharton-crystal-palace-transfer-jones-transfer",
+      "publishedAt": "2026-08-21T06:43:39.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "dde5b26dc67535",
+      "title": "Spurs agree £75m deal to sign Man City's Savinho",
+      "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T06:30:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "405a318856b272",
+      "title": "Big Weekend: Newcastle v Liverpool, Spurs, Fernandez, Maresca, Mourinho’s Real Madrid",
+      "summary": "With so many unknowns and almost half the Premier League under new management, it’s hard to know where to look on this opening weekend…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/big-weekend-preview-premier-league-newcastle-liverpool-spurs-man-city-chelsea-championship-la-liga",
+      "publishedAt": "2026-08-21T06:30:20.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "87366ff23033c3",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gxxyyn8yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T06:29:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f736d90eff752d",
+      "title": "Arsenal agree deal to sign Julian Alvarez with his situation at Atletico Madrid now untenable",
+      "summary": "Atletico Madrid have reportedly ‘agreed’ to sell Julian Alvarez to Arsenal as the striker’s position at the club has now become ‘untenable’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-agree-transfer-julian-alvarez-atletico-madrid-untenable",
+      "publishedAt": "2026-08-21T06:20:38.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
         "Arsenal"
       ]
     },
     {
-      "id": "e83665e76b6fb9",
-      "title": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
-      "summary": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13575143/premier-league-predictions-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf",
-      "publishedAt": "2026-08-21T01:37:12.205Z",
+      "id": "2669f207a2f93a",
+      "title": "Break-up of Villa's Europa heroes leaves cracks for Emery to fill",
+      "summary": "Aston Villa have already sold three key players this summer, a figure that could potentially double by the end of the transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T05:28:59.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Transfer"
       ]
     },
     {
@@ -251,22 +345,9 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d2794698a7a4ee",
-      "title": "Parrott makes move to Real Betis from AZ Alkmaar",
-      "summary": "Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdew1782493o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T20:15:59.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
       "id": "ed26f638795a04",
-      "title": "Joao Pedro set to extend Chelsea deal to 2034",
-      "summary": "Chelsea are set to renew striker Joao Pedro's contract until 2034 before the start of the Premier League season.",
+      "title": "Joao Pedro set to extend Chelsea deal to 2032",
+      "summary": "Chelsea are set to renew striker Joao Pedro's contract until 2032 before the start of the Premier League season.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T19:06:34.000Z",
@@ -512,89 +593,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "spain",
       "tags": [
         "Barcelona"
-      ]
-    },
-    {
-      "id": "34f77d4f1c8d3d",
-      "title": "Robot building and Essien: Yirenkyi’s circuitous path to Premier League",
-      "summary": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the ed...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
-      "publishedAt": "2026-08-20T14:29:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "bee06cd8c93e82",
-      "title": "Brentford v Tottenham: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Brentford and Tottenham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/brentford-v-tottenham-prediction-preview",
-      "publishedAt": "2026-08-20T14:25:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "b17520b1e9aed3",
-      "title": "Chelsea triple exit on amid London rival talks, with attacker training alone",
-      "summary": "A triple Chelsea exit could be on as a London rival has opened talks for a Blues man, while a team-mate has been banished from the squad.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-tripe-exit-axel-disasi-liam-delap-nicolas-jackson",
-      "publishedAt": "2026-08-20T14:20:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "652e49e993b341",
-      "title": "How to follow the Premier League opening weekend on the BBC",
-      "summary": "Our Ask Me Anything team explains how to follow the opening matches of the Premier League season on the BBC this weekend.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T14:07:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "b0dfe356acfe4c",
-      "title": "Arteta reaches decision on Myles Lewis-Skelly’s Arsenal future amid Man Utd, Chelsea links",
-      "summary": "Mikel Arteta has made it clear that Arsenal star Myles Lewis-Skelly is going nowhere despite links with Manchester United and Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mikel-arteta-reaches-decision-myles-lewis-skellys-arsenal-future-man-utd-chelsea-links",
-      "publishedAt": "2026-08-20T14:06:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "64f6c991f0bfc4",
-      "title": "Ten Premier League debuts we’re giddy about this weekend",
-      "summary": "The Premier League’s opening weekend is finally upon us and it’ll give us our first glimpse of some shiny new signings.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-debuts-most-excited-this-weekend",
-      "publishedAt": "2026-08-20T13:48:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
