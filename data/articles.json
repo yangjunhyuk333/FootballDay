@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:45:21.850Z",
+  "generatedAt": "2026-08-21T01:37:12.450Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,27 @@
       "pinned": true
     },
     {
+      "id": "906965ddb0bea1",
+      "title": "Papers: Two PL clubs interested in Arsenal's Jesus",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13575203/arsenal-transfer-news-gabriel-jesus-of-interest-to-everton-and-ipswich-as-gunners-consider-eli-junior-kroupi-move-paper-talk",
+      "publishedAt": "2026-08-21T01:37:12.206Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
       "id": "7010b6887b0b62",
       "title": "One to watch? Hot take?! Sky Sports writers give their PL predictions!",
       "summary": "Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season",
-      "publishedAt": "2026-08-20T18:45:21.585Z",
+      "publishedAt": "2026-08-21T01:37:12.206Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,11 +132,191 @@
       "summary": "Mikel Arteta says he is \"100 per cent\" confident Myles Lewis-Skelly will be an Arsenal player at the end of the transfer window.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer",
-      "publishedAt": "2026-08-20T18:45:21.585Z",
+      "publishedAt": "2026-08-21T01:37:12.206Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e83665e76b6fb9",
+      "title": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
+      "summary": "PL predictions: Champions again, ole, ole? Arsenal to make fast start on FNF",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13575143/premier-league-predictions-jones-knows-best-bets-champions-again-ole-ole-arsenal-to-make-fast-start-on-fnf",
+      "publishedAt": "2026-08-21T01:37:12.205Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "28d534f707e145",
+      "title": "Premier League 2026-27 preview No 19: Sunderland",
+      "summary": "Sunderland fans hope Régis Le Bris and his talented squad can continue to surprise the pundits and Opta Guardian writers’ predicted position: 14th (NB: this is not nece...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-2026-27-preview-no-19-sunderland",
+      "publishedAt": "2026-08-20T23:01:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e9fdc1bf76d70a",
+      "title": "Premier League: 10 things to look out for as the new season kicks off",
+      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirat...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off",
+      "publishedAt": "2026-08-20T23:01:18.000Z",
+      "category": "transfer",
+      "region": "england italy france germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T21:45:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "662e902af4cd20",
+      "title": "Euro Leagues: Serie A season preview & Ronaldinho's Back!",
+      "summary": "John Bennett is joined by Julien Laurens & James Horncastle.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p5lkpz?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T21:45:00.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "084c8b11c57d9e",
+      "title": "Hull owner hits out at pundits over 'laughable' criticism",
+      "summary": "Hull City owner Acun Ilicali criticises pundits Joe Cole and Carlton Cole after they mock his side's chances of Premier League survival on a podcast.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39eg04p08eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T21:22:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6e7540eee865a7",
+      "title": "Arsenal exploring Yildiz move - Friday's gossip",
+      "summary": "Arsenal explore move for Kenan Yildiz, Atletico Madrid trying to finalise Nicolas Jackson signing and Manchester City in talks over Allan Elias, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:47:42.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2a039baca9bbed",
+      "title": "Liverpool highly likely to sign Yankuba Minteh despite rejected bid – top source",
+      "summary": "Liverpool may have had their opening bid for Minteh rejected, but a trusted journalist expects the transfer to reach completion",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfers-news-yankuba-minteh-boost-journalist-bid-rejected",
+      "publishedAt": "2026-08-20T20:37:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d2794698a7a4ee",
+      "title": "Parrott makes move to Real Betis from AZ Alkmaar",
+      "summary": "Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdew1782493o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T20:15:59.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ed26f638795a04",
+      "title": "Joao Pedro set to extend Chelsea deal to 2034",
+      "summary": "Chelsea are set to renew striker Joao Pedro's contract until 2034 before the start of the Premier League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T19:06:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "e4a860d134d79d",
+      "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
+      "summary": "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North Amer...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/gianni-infantino-eyes-junior-tournament-dominican-republic-route-out-of-fifa-crisis",
+      "publishedAt": "2026-08-20T19:03:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "93a7018fe3e574",
+      "title": "Late Larne double seals first-leg win over 10-man Red Imps",
+      "summary": "Watch highlights as Irish Premiership champions Larne defeat 10-man Lincoln Red Imps 2-0 in the first leg of their Uefa Conference League play-off.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y3ny87r84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T19:03:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "637ccfc54ca989",
+      "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
+      "summary": "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the key Mikel Arteta wants to get his mess...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity",
+      "publishedAt": "2026-08-20T19:00:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
         "Arsenal"
       ]
     },
@@ -209,22 +404,6 @@
       ]
     },
     {
-      "id": "444699a5d173af",
-      "title": "Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter",
-      "publishedAt": "2026-08-20T17:04:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
       "id": "f4b9a10bd8c9ed",
       "title": "Michael Carrick rejects ‘ridiculous’ talk of easy start to Manchester United season",
       "summary": "United face promoted sides Hull and Ipswich ‘It’s not favourable. It’s an easy thing to throw out there’ Michael Carrick has dismissed suggestions that Manchester Unite...",
@@ -239,22 +418,6 @@
       ]
     },
     {
-      "id": "9858bd1eeeb062",
-      "title": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
-      "summary": "Minteh targeted as replacement for Mohamed Salah Winger sidelined after recovering from leg surgery Liverpool have had a £50m bid for Yankuba Minteh rejected by Brighto...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
-      "publishedAt": "2026-08-20T16:59:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
       "id": "10203c37b82bbb",
       "title": "Fabrizio Romano reveals sole reason why Alejandro Balde would leave Barcelona for Man Utd",
       "summary": "Barcelona star Alejandro Balde reportedly has no desire to leave the Catalan outfit, but one reason would force him to accept a departure from the club.",
@@ -265,19 +428,6 @@
       "region": "spain italy",
       "tags": [
         "Barcelona"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T15:50:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -308,19 +458,6 @@
       "tags": [
         "Arsenal",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "d2a126d6911e76",
-      "title": "What happens during a football medical?",
-      "summary": "BBC Sport's Ask Me Anything team explain what is involved in a medical exam when a football player joins a new club.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj4w287qnn4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T15:32:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     },
     {
@@ -458,147 +595,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "ff1714f793c98c",
-      "title": "Liverpool announce winger transfer and Romano confirms another deal agreed",
-      "summary": "Liverpool have officially confirmed a winger has left the club, while Romano has confirmed an agreement is in place for another Reds star to depart.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-announce-winger-transfer-fabrizio-romano-confirms-another-deal-agreed",
-      "publishedAt": "2026-08-20T13:41:55.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7a5567a020bc05",
-      "title": "BBC Women's Football Weekly",
-      "summary": "Fridolina Rolfo, Lea Schuller, Julia Zigiotti, Dominique Janssen, Hanna Lundkvist join Jo",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p5h7wh?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T13:10:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "cd347cc0b24a3f",
-      "title": "Brighton CEO has ‘nothing to say’ on Baleba as Man Utd transfer ignored",
-      "summary": "Brighton CEO Paul Barber has “nothing to say” on Carlos Baleba as it appears Manchester United are close to signing the Seagulls midfielder.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/brighton-ceo-nothing-say-carlos-baleba-man-united-transfer-ignored",
-      "publishedAt": "2026-08-20T13:08:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d953da42e43dff",
-      "title": "The Premier League's new plan to end corner chaos",
-      "summary": "Holding, pushing, shoving, jostling and grappling. It became something of an epidemic in the Premier League last season - here's what's being done to fix it.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T12:53:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "7189ac43c1b9cf",
-      "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
-      "summary": "Sunday’s match against Rennes switched at short notice Parc des Princes surface poses risk to ‘safety of players’ Paris Saint-Germain’s Ligue 1 opener against Rennes ha...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
-      "publishedAt": "2026-08-20T12:41:01.000Z",
-      "category": "issue",
-      "region": "france",
-      "tags": [
-        "Football",
-        "Ligue 1",
-        "Psg"
-      ]
-    },
-    {
-      "id": "9747dc23b2e1e4",
-      "title": "Aston Villa in talks to sign AC Milan midfielder after Fabrizio Romano claim on top target",
-      "summary": "Aston Villa are in talks to sign a midfielder from a European giant after Fabrizio Romano made a claim about one of the club’s top targets in the position.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-talks-youssouf-fofana-ac-milan-joao-palhinha-claim",
-      "publishedAt": "2026-08-20T12:27:15.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "a49c8c86f8a28e",
-      "title": "England legend pinpoints which Arsenal star will be like a new signing amid Premier League title prediction",
-      "summary": "Former England international Fara Williams believes the “pressure” is somewhat off for Arsenal after finally getting that Premier League title monkey off their back.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-legend-pinpoints-arsenal-star-new-signing-premier-league-title-prediction",
-      "publishedAt": "2026-08-20T12:03:35.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e28f4ce6f3cc7c",
-      "title": "Double-elimination, reseeding and 20 teams: MLS plans potential overhaul of playoffs",
-      "summary": "Format would resemble that of Australian rules football League will ditch conferences for five-division setup Major League Soccer is planning a significant overhaul of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/20/mls-playoff-format-overhaul",
-      "publishedAt": "2026-08-20T12:00:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer"
-      ]
-    },
-    {
-      "id": "43148bba7a46fc",
-      "title": "Man City and Man Utd get definitive answer on Adam Wharton transfer amid Champions League dream",
-      "summary": "Manchester City have reportedly enquired about Crystal Palace star Adam Wharton as they try to fill the void left by new Barcelona recruit Rodri.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-man-utd-answer-adam-wharton-transfer-champions-league-dream",
-      "publishedAt": "2026-08-20T11:17:16.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Transfer",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "0024b52c4ca9aa",
-      "title": "Who replaces Salah as Africa's Premier League king?",
-      "summary": "Following Mohamed Salah's Liverpool exit after nine seasons, who could take the Egyptian King's crown as Africa's biggest Premier League star?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20dgvp9445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T11:03:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
       ]
     }
   ],
