@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:26:03.860Z",
+  "generatedAt": "2026-08-22T06:46:41.794Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,15 +99,16 @@
       "pinned": true
     },
     {
-      "id": "2ac1e899c14220",
-      "title": "Key moments and your views as Arsenal thrash Coventry!",
-      "summary": "Key moments and your views as Arsenal thrash Coventry!",
+      "id": "13ddfaa7c09afd",
+      "title": "'Dominant' - Arsenal kick off title defence with thumping Coventry win",
+      "summary": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
-      "publishedAt": "2026-08-22T01:26:03.466Z",
+      "url": "https://www.skysports.com/football/arsenal-vs-coventry-city/report/559444",
+      "publishedAt": "2026-08-22T06:46:41.354Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League",
         "Arsenal"
       ]
     },
@@ -117,7 +118,7 @@
       "summary": "Highlights from the Premier League match between Arsenal and Coventry.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13575642/arsenal-3-0-coventry-premier-league-highlights",
-      "publishedAt": "2026-08-22T01:26:03.465Z",
+      "publishedAt": "2026-08-22T06:46:41.354Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -131,7 +132,7 @@
       "summary": "Manchester United have agreed a £70m deal for Brighton midfielder Carlos Baleba.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
-      "publishedAt": "2026-08-22T01:26:03.465Z",
+      "publishedAt": "2026-08-22T06:46:41.354Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -144,7 +145,7 @@
       "summary": "Jamie Carragher believes Liverpool boast a stronger starting eleven than Manchester United heading into the 2026/27 Premier League season, but says the Reds still need...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13575664/jamie-carragher-believes-liverpools-starting-eleven-is-better-than-man-utds-going-into-the-2026-27-pl-season",
-      "publishedAt": "2026-08-22T01:26:03.465Z",
+      "publishedAt": "2026-08-22T06:46:41.354Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -160,7 +161,7 @@
       "summary": "The Friday Night Football panel discuss whether Arsenal are still shy of a world-class attacker that would see them get over the line to win their first UEFA Champions...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13575653/arsenal-vs-coventry-gary-neville-believes-arsenal-still-lack-a-world-class-attacker",
-      "publishedAt": "2026-08-22T01:26:03.465Z",
+      "publishedAt": "2026-08-22T06:46:41.354Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -176,11 +177,25 @@
       "summary": "Brighton have rejected a £60m bid from Liverpool for winger Yankuba Minteh.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13575558/yankuba-minteh-transfer-news-brighton-reject-liverpool-bid-of-60m-for-winger",
-      "publishedAt": "2026-08-22T01:26:03.465Z",
+      "publishedAt": "2026-08-22T06:46:41.354Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "03111588523ec4",
+      "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
+      "publishedAt": "2026-08-22T06:46:41.353Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
@@ -189,7 +204,7 @@
       "summary": "Defending Premier League champions Arsenal would become Champions League winners if they land Julian Alvarez in the final days of the transfer window, says Gary Neville.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker",
-      "publishedAt": "2026-08-22T01:26:03.464Z",
+      "publishedAt": "2026-08-22T06:46:41.353Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -200,31 +215,72 @@
       ]
     },
     {
-      "id": "13ddfaa7c09afd",
-      "title": "Arsenal kick off title defence with thumping win over Coventry",
-      "summary": "Arsenal made a flying start to their Premier League title defence with a 3-0 thumping of newly-promoted Coventry City in the season opener at the Emirates Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-coventry-city/report/559444",
-      "publishedAt": "2026-08-22T01:26:03.464Z",
+      "id": "7d36f1411faba2",
+      "title": "PSG star grows tired of Liverpool transfer saga and reaches fresh decision on future",
+      "summary": "Both Ibrahim Mbaye and Bradley Barcola feel ‘feel that their respective transfer saga has dragged on for long now’ as Liverpool continue talks with PSG.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-psg-mbaye-growing-tired-transfer-sage-fresh-decision-barcola",
+      "publishedAt": "2026-08-22T06:39:38.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "846ff43ee2df39",
+      "title": "Ezri Konsa tops most expensive centre-backs ever aged 28 or over",
+      "summary": "Konsa’s cross-Premier League move from Aston Villa to Arsenal has set a transfer record. A niche record, but a record all the same.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/most-expensive-centre-backs-ever-aged-28-over",
+      "publishedAt": "2026-08-22T06:36:32.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
+        "Transfer",
         "Arsenal"
       ]
     },
     {
-      "id": "03111588523ec4",
-      "title": "Papers: Atletico Madrid ready to sell Alvarez to Arsenal",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13575656/arsenal-transfer-news-atletico-madrid-finally-shift-julian-alvarez-position-and-now-willing-to-sell-striker-to-the-gunners-paper-talk",
-      "publishedAt": "2026-08-22T01:26:03.463Z",
+      "id": "7952dced49ba61",
+      "title": "'I'm not ashamed' - Ellison on mental health and playing at 47",
+      "summary": "Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k78nk1n34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T06:19:35.000Z",
       "category": "transfer",
-      "region": "england spain",
+      "region": "england",
       "tags": [
-        "Transfer",
-        "Arsenal"
+        "Premier League"
+      ]
+    },
+    {
+      "id": "63b425853c5314",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2llxl79y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T06:00:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "dc601770713358",
+      "title": "Man City v Bournemouth: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Man City and Bournemouth.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/man-city-v-bournemouth-prediction-preview",
+      "publishedAt": "2026-08-22T05:50:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -556,60 +612,6 @@
       "region": "england spain",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "ee538ebe7ed7a4",
-      "title": "Newcastle v Liverpool: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Newcastle United and Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/newcastle-v-liverpool-prediction-preview",
-      "publishedAt": "2026-08-21T18:26:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a7fe233bf0a97a",
-      "title": "Brighton v Aston Villa: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Brighton and Aston Villa.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/brighton-v-aston-villa-prediction-preview",
-      "publishedAt": "2026-08-21T17:47:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "616ddf3330fc15",
-      "title": "Mohamed Salah: Inside his move to Trabzonspor",
-      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfe...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx2reg4knn5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T17:44:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T17:34:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
