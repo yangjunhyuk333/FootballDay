@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-23T01:39:48.469Z",
+  "generatedAt": "2026-08-23T06:47:59.901Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,52 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5b14520809d834",
-      "title": "Bolt set to play Sunday league football for Manchester side",
-      "summary": "Usain Bolt is registered to play for a Sunday league team in Manchester, with the Olympic champion set to make another foray into football.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/athletics/news/12040/13576016/usain-bolt-from-sprint-stardom-to-sunday-league-athletics-icon-set-for-wythenshawe-vets-bow",
-      "publishedAt": "2026-08-23T01:39:48.175Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c8f740bc793281",
-      "title": "Everton outclass wasteful Palace in Premier League opener",
-      "summary": "Everton made a winning start to the new Premier League campaign by beating Crystal Palace 2-0 thanks to classy goals from Kiernan Dewsbury-Hall and Thierno Barry.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446",
-      "publishedAt": "2026-08-23T01:39:48.175Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "019a17b2b6b60e",
-      "title": "Leicester booed off after nightmare defeat to Burton",
-      "summary": "Burton Albion stunned Leicester City at the King Power Stadium, as the former Premier League champions were booed off after being beaten 2-1 by Gary Bowyer's side.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617",
-      "publishedAt": "2026-08-23T01:39:48.175Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "e68ba7f825b6a0",
       "title": "Woeful Spurs easily beaten at Brentford despite big-spending summer",
       "summary": "A woeful Tottenham started their new Premier League season dismally with a 3-0 loss at Brentford despite a big summer of spending.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-tottenham-hotspur/report/559445",
-      "publishedAt": "2026-08-23T01:39:48.175Z",
+      "publishedAt": "2026-08-23T06:47:59.530Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -157,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
-      "publishedAt": "2026-08-23T01:39:48.174Z",
+      "publishedAt": "2026-08-23T06:47:59.529Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -171,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Highlights from the Premier League match between Brentford and Tottenham Hotspur.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13576076/brentford-3-0-tottenham-hotspur-premier-league-highlights",
-      "publishedAt": "2026-08-23T01:39:48.174Z",
+      "publishedAt": "2026-08-23T06:47:59.529Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -179,8 +139,88 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "5b14520809d834",
+      "title": "Bolt set to play Sunday league football for Manchester side",
+      "summary": "Usain Bolt is registered to play for a Sunday league team in Manchester, with the Olympic champion set to make another foray into football.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/athletics/news/12040/13576016/usain-bolt-from-sprint-stardom-to-sunday-league-athletics-icon-set-for-wythenshawe-vets-bow",
+      "publishedAt": "2026-08-23T06:47:59.529Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c8f740bc793281",
+      "title": "Everton outclass wasteful Palace in Premier League opener",
+      "summary": "Everton made a winning start to the new Premier League campaign by beating Crystal Palace 2-0 thanks to classy goals from Kiernan Dewsbury-Hall and Thierno Barry.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446",
+      "publishedAt": "2026-08-23T06:47:59.529Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "019a17b2b6b60e",
+      "title": "Leicester booed off after nightmare defeat to Burton",
+      "summary": "Burton Albion stunned Leicester City at the King Power Stadium, as the former Premier League champions were booed off after being beaten 2-1 by Gary Bowyer's side.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617",
+      "publishedAt": "2026-08-23T06:47:59.529Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "aa48b1799b4d38",
+      "title": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
+      "summary": "Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T06:31:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "59d7e7296d633c",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gddy77ev3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T05:59:40.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "84746a318c298d",
+      "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
+      "summary": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribut...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T05:17:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
       "id": "6c32a7791148e7",
-      "title": "José Mourinho marks Real Madrid return with late drama and touch of humility | Sid Lowe",
+      "title": "José Mourinho marks Real Madrid return with late drama and touch of humility",
       "summary": "The old master is back at Madrid as he begins with celebrations, frustrations and finally relief at Espanyol José Mourinho says he is calmer now so when the rest of the...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga",
@@ -537,46 +577,6 @@ window.FOOTBALLDAY_DATA = {
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/videos/cr5956led9lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T14:40:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b2ed263e072b7f",
-      "title": "Villa close to signing Germany midfielder Goretzka",
-      "summary": "Aston Villa are close to signing free agent Leon Goretzka, who left Bayern Munich in the summer after eight years.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvnvjer47mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T14:39:46.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "32150869e65b08",
-      "title": "Infantino asked to stay away from youth tournament",
-      "summary": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T14:29:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "74d00406f3284b",
-      "title": "'We showed we can compete' - Jakirovic",
-      "summary": "Hull City head coach Sergej Jakirovic praises his side for their approach and sticking to the tactical plan to gain a 2-0 win against Manchester United on the opening w...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgmkm9xgv1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T14:17:59.000Z",
       "category": "league",
       "region": "england",
       "tags": [
