@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-23T12:48:04.491Z",
+  "generatedAt": "2026-08-23T18:34:40.999Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,203 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Off The Ball with more petty and ill-informed football views",
-      "summary": "The most petty and ill-informed football show on radio.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T13:00:00.000Z",
-      "category": "league",
+      "id": "f526aa0b35e328",
+      "title": "Nightmare start! Aston Villa concede four first-half goals in thumping by Brighton",
+      "summary": "Aston Villa produced one of the worst opening 45 minutes in Premier League history on their way to a heavy 4-0 defeat at Brighton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/report/559450",
+      "publishedAt": "2026-08-23T18:34:40.519Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Premier League"
       ]
     },
     {
-      "id": "de1e0a82f7377f",
-      "title": "Where's it all gone? Haaland reveals new shaven haircut",
-      "summary": "Erling Haaland revealed a fresh haircut before Manchester City's Premier League curtain raiser against Bournemouth on Sunday afternoon, live on Sky Sports.",
+      "id": "624194792c4ac4",
+      "title": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
+      "summary": "Unai Emery gave a coy and cryptic response to questions about Ollie Watkins' absence from Aston Villa's squad for their Premier League defeat at Brighton.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576220/erling-haaland-haircut-manchester-city-forward-reveals-fresh-shaven-style-ahead-of-new-premier-league-season",
-      "publishedAt": "2026-08-23T12:48:04.320Z",
+      "url": "https://www.skysports.com/football/news/12040/13576353/ollie-watkins-transfer-news-aston-villa-boss-unai-emery-gives-cryptic-answer-when-asked-about-striker-amid-al-hilal-interest",
+      "publishedAt": "2026-08-23T18:34:40.518Z",
       "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1e8ce30c696610",
+      "title": "Szoboszlai snatches 99th-min Liverpool leveller to deny Newcastle win",
+      "summary": "Dominik Szoboszlai's last-gasp penalty earned Andoni Iraola a debut Liverpool point to deny Newcastle victory on Matthias Jaissle's managerial debut in a pulsating 2-2...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-liverpool/report/559452",
+      "publishedAt": "2026-08-23T18:34:40.518Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "51aa621b3a2f7b",
+      "title": "Brighton blow Villa away in first-half masterclass at The Amex",
+      "summary": "Highlights from the Premier League match between Brighton and Aston Villa.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13576325/brighton-4-0-aston-villa-premier-league-highlights",
+      "publishedAt": "2026-08-23T18:34:40.518Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "13c7549a412146",
+      "title": "Late Liverpool pen sees Szoboszlai silence Newcastle in draw",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Liverpool.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights",
+      "publishedAt": "2026-08-23T18:34:40.517Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4971802e1e73b5",
+      "title": "FIFA president Infantino defiant after joint Nordic no-confidence statement",
+      "summary": "FIFA president Infantino defiant after joint Nordic no-confidence statement",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "publishedAt": "2026-08-23T18:34:40.517Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "315ed7d5eee437",
+      "title": "'When you score at the end it tastes better' - Iraola",
+      "summary": "Liverpool head coach Andoni Iraola reacts to his sides 2-2 draw against Newcastle United on the opening weekend of the 2026-27 Premier League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T18:28:28.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d96dc62c649e75",
+      "title": "Alexander Isak the biggest bottler of all bottlers as Newcastle find new way to f**k it vs Liverpool",
+      "summary": "Alexander Isak bottled the ultimate villain moment as Newcastle found a brand-new way to throw away victory against Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-alexander-isak-bottler-newcastle-liverpool-draw",
+      "publishedAt": "2026-08-23T17:52:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "36f93a626f25d2",
+      "title": "Liverpool’s Szoboszlai spot on with late, late leveller to salvage point at Newcastle",
+      "summary": "Before kick-off a banner was raised in the Gallowgate End inscribed with a quotation from the late Kevin Keegan. “I want people to dream about their football,” it read....",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report",
+      "publishedAt": "2026-08-23T17:43:20.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f9c4cd76290e01",
+      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
+      "summary": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T17:37:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3d51e83a35a814",
+      "title": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
+      "summary": "How Newcastle United and Liverpool's players rated in their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T17:36:18.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "43f76819c1b070",
+      "title": "Man Utd transfer tactic pays off after Michael Carrick sends message to INEOS",
+      "summary": "Manchester United’s enquiry about Barcelona star Alejandro Balde may pay off before the summer transfer window slams shut following an update from Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-tactic-michael-carrick-message-ineos",
+      "publishedAt": "2026-08-23T17:23:51.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f74ebb7a64cc87",
+      "title": "Manchester Utd midfielder Devaney joins Hibs on loan",
+      "summary": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce343p742v9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T17:19:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dcf875f88477c4",
+      "title": "Dundee derby reaction, Scotland & Serie A",
+      "summary": "The Dundee derby, the Scotland manager, Scots playing in Italy, and Edinburgh Fringe.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p5ys18?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T16:27:00.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "2620cc0d9f81dd",
+      "title": "'Up front next week?' Maresca's Guehi gamble pays off",
+      "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it pai...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T16:26:44.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Premier League",
@@ -126,30 +303,255 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5dc3fd1a308700",
-      "title": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
-      "publishedAt": "2026-08-23T12:48:04.320Z",
+      "id": "1889635f5c362e",
+      "title": "Arsenal learn why Barcelona failed in Julian Alvarez move as £60m makeweight revealed",
+      "summary": "Atletico Madrid president Enrique Cerezo has explained why Barcelona fell short in their pursuit of Julian Alvarez, as Arsenal concoct a plan involving Gabriel Martinel...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-learn-why-barcelona-failed-julian-alvarez-move-60m-makeweight-revealed",
+      "publishedAt": "2026-08-23T16:08:54.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "1f946b32fec053",
+      "title": "Tottenham deal done for Omar Marmoush as Man City accept less than they paid in 2025",
+      "summary": "Tottenham have agreed a deal to sign Omar Marmoush from Manchester City, with insider Fabrizio Romano revealing the conditions of the transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-135m-deal-done-omar-marmoush-savinho",
+      "publishedAt": "2026-08-23T16:02:03.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e9470698809602",
+      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:53:38.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "81646cf5962505",
+      "title": "Man City 'completely deserved to win' - Maresca",
+      "summary": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 sea...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:52:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4ba898f4a19b14",
+      "title": "Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?",
+      "summary": "Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86n6d07825o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:35:33.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "71f5b148de22b4",
+      "title": "Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth",
+      "summary": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "publishedAt": "2026-08-23T15:14:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9cf7bfe27592bb",
+      "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
+      "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
+      "publishedAt": "2026-08-23T15:07:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4a7b92cbd9ac03",
+      "title": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+      "summary": "How Man City and Bournemouth players rated following their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:05:14.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "cc71731944f072",
+      "title": "Arsenal set for stunning £54m profit as Ornstein confirms ‘talks’ to sign 62-goal Gunners star",
+      "summary": "Arsenal could be set to recoup £60million from the sale of Gabriel Martinelli, with reliable journalist David Ornstein confirming that Al Hilal have opened formal talks...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gabriel-martinelli-transfer-news-al-hilal-talks-arsenal-deal",
+      "publishedAt": "2026-08-23T14:55:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
         "Arsenal"
       ]
     },
     {
-      "id": "4b346aad071be6",
-      "title": "Man City agree record-breaking deal with Lille to sign Bouaddi",
-      "summary": "Manchester City have agreed a deal with Lille for Morocco international midfielder Ayyoub Bouaddi worth up to £86m (€100m).",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576242/ayyoub-bouaddi-transfer-manchester-city-reach-agreement-with-lille-to-sign-18-year-old-morocco-midfielder",
-      "publishedAt": "2026-08-23T12:48:04.319Z",
+      "id": "e5d41d835d5f87",
+      "title": "Andoni Iraola makes Liverpool transfer vow as FSG contemplate £70m bid",
+      "summary": "Andoni Iraola admits that Liverpool may wait up until the very end of the transfer window before signing a player, as FSG consider upping their offer for Brighton and H...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/andoni-iraola-makes-liverpool-transfer-vow-fsg-contemplate-70m-bid",
+      "publishedAt": "2026-08-23T14:42:28.000Z",
       "category": "transfer",
-      "region": "england italy france",
+      "region": "england",
       "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f6c5b96ef0f540",
+      "title": "Aston Villa in contact to sign World Cup centre-back as Emery role in landing star midfielder revealed",
+      "summary": "Aston Villa are in contact to sign a replacement for Ezri Konsa, while the role Unai Emery played in landing a star midfielder has been revealed by an insider.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-contact-world-cup-centre-back-joel-ordonez-stunning-leon-goretzka-transfer-unai-emery",
+      "publishedAt": "2026-08-23T14:35:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "3cad1c64cc900d",
+      "title": "Kane first Englishman to win Germany's player of the year award",
+      "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T14:16:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "191040cd43427e",
+      "title": "European football: Bayern Munich’s Harry Kane named player of the year in Germany",
+      "summary": "Striker becomes first Englishman to win the award Teammate Michael Olise finishes second Bayern Munich striker Harry Kane was voted the 2026 player of the year in Germa...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
+      "publishedAt": "2026-08-23T14:12:28.000Z",
+      "category": "worldcup",
+      "region": "spain italy france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Champions League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "05183772e4ff56",
+      "title": "Fulham v Chelsea: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Fulham and Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/fulham-v-chelsea-prediction-preview",
+      "publishedAt": "2026-08-23T13:46:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "4e5bf3ee7d7f7a",
+      "title": "Man City agree record-breaking £86m deal for sublime Ligue 1 midfielder",
+      "summary": "City have been chasing the Morocco international for a number of weeks, and have now taken that interest a step further by agreeing a big-money deal for the teenage tal...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-agree-record-breaking-86m-oiund-deal-ayyoub-bouaddi",
+      "publishedAt": "2026-08-23T13:41:02.000Z",
+      "category": "transfer",
+      "region": "italy france",
+      "tags": [
+        "Ligue 1",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7359bbc179ff2f",
+      "title": "Liverpool at £5.5bn, Chelsea’s £5bn figure and record Leicester sale – how football clubs are valued",
+      "summary": "From Liverpool’s reported £5.5bn valuation to Leicester City’s supposed £200m asking price, we have to ask: how does one figure out what a football club is worth?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-5-billion-chelsea-leicester-record-sale-football-club-value",
+      "publishedAt": "2026-08-23T13:40:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man City agree big midfield deal as Barcelona leave out Man Utd target",
+      "summary": "Manchester City have agreed a big midfield signing of their own in response to Manchester United’s move for Carlos Baleba, while the Red Devils may also be interested i...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-23T13:35:01.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
         "Manchester",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c86a85f935b854",
+      "title": "West Brom surge back to floor Flemming-less Burnley amid transfer speculation",
+      "summary": "West Brom’s head coach, James Morrison, insisted his side must “stay humble” after Isaac Price inspired them to a 3-1 comeback win against promotion favourites Burnley...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/23/west-brom-burnley-championship-match-report",
+      "publishedAt": "2026-08-23T13:24:14.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Transfer",
         "Inter"
       ]
     },
@@ -190,402 +592,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "58bd09480e75c6",
-      "title": "Manchester City v Bournemouth: Premier League – live",
-      "summary": "⚽ Premier League updates from the 2pm BST kick-off ⚽ Live scores | Sign up for Football Daily | Mail Emillia Enzo Maresca has brushed off the loss of Rodri to Barcelona...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live",
-      "publishedAt": "2026-08-23T12:24:29.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "63016b77a2195c",
-      "title": "Barcelona make brutal Alejandro Balde decision as Hansi Flick uncertainty offers Man Utd hope",
-      "summary": "Barcelona appear to be planning for a future without Alejandro Balde at a time when Manchester United are desperately looking for a new left-back.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/barcelona-make-brutal-alejandro-balde-decision-hansi-flick-uncertainty-man-utd-hope",
-      "publishedAt": "2026-08-23T12:19:44.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "13980f13c03ea9",
-      "title": "Rooney says Man Utd must become feared - but what went wrong at Hull?",
-      "summary": "Manchester United made an awful start to their Premier League campaign at newly-promoted Hull. What went wrong?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxg1g8nkro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T11:43:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1afccde2ef3b72",
-      "title": "Mourinho urges 'bullied' Vinicius Jr to control emotions when being provoked",
-      "summary": "Jose Mourinho says Real Madrid's Brazil winger Vinicius Jr \"needs to have great emotional control\" when being bullied in games.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1414my6165o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T11:40:14.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1ab8891bffd41f",
-      "title": "David Seaman names surprise team that could stop Arsenal going back to back",
-      "summary": "In a summer of change for many of the bigger clubs in the Premier League, Seaman has picked out one he thinks could mount a surprise challenge to the Gunners’ ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/david-seaman-names-liverpool-surprise-contenders-arsenal-premier-league-title",
-      "publishedAt": "2026-08-23T11:37:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "85ea0396667474",
-      "title": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
-      "summary": "Striker wants move and said final year of deal was invalid 29-year-old took his case to tribunal and Fifa but lost Jean-Philippe Mateta is in dispute with Crystal Palac...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
-      "publishedAt": "2026-08-23T10:49:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "9fa9070449b8cc",
-      "title": "Julian Alvarez to Arsenal ignites as major first-team star offered in swap proposal",
-      "summary": "Mikel Arteta remains on the hunt for a new No.9 before the window shuts, with Alvarez still his top target, despite Atletico’s reluctance to sell this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/julian-alvarez-swoop-ignites-arsenal-aletico-madrid-swap-proposal",
-      "publishedAt": "2026-08-23T10:33:58.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3827ff72f04daf",
-      "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
-      "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T10:05:27.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "6d43f9e6b17857",
-      "title": "Man Utd ‘prepare’ new Lewis Hall move amid world-record Newcastle demands",
-      "summary": "Newcastle United left-back Lewis Hall remains a priority target for Manchester United, but INEOS must pay a world-record fee to bring him to Old Trafford",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lewis-hall-transfer-news-world-record-united-bid-newcastle",
-      "publishedAt": "2026-08-23T10:04:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "919137930ef964",
-      "title": "Celtic pursue Serie A midfielder Gineitis - gossip",
-      "summary": "Celtic continue their pursuit of midfield options as Rangers prepare for a big name departure...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxjg5r0kyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T08:08:17.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Serie A"
-      ]
-    },
-    {
-      "id": "83e432d7211131",
-      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
-      "summary": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T07:43:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "34462e11a6911d",
-      "title": "Owen Hargreaves names Man Utd transfer must sign after complete Hull debacle",
-      "summary": "Michael Carrick’s men suffered a shocking start to the new Premier League campaign as they crashed to defeat at Hull, and Hargreaves wants a new signing through the doo...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/owen-hargreaves-wants-man-utd-signing-before-window-shuts-after-hull-debacle",
-      "publishedAt": "2026-08-23T07:41:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "aa48b1799b4d38",
-      "title": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
-      "summary": "Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T06:31:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "59d7e7296d633c",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gddy77ev3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T05:59:40.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "84746a318c298d",
-      "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
-      "summary": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribut...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T05:17:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6c32a7791148e7",
-      "title": "José Mourinho marks Real Madrid return with late drama and touch of humility",
-      "summary": "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 win at Espanyol José Mourinho says he is calmer now so when the rest o...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga",
-      "publishedAt": "2026-08-22T23:21:58.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "305312feb3d80f",
-      "title": "How Arsenal 'punished' newly promoted Coventry",
-      "summary": "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss Arsenal's quality against Coventry City, praising the hosts but stressing that Frank Lampard's si...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c70g0xnewwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:13:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "486becbc1ac57d",
-      "title": "How the 'new boys' of Ipswich got their season off to a dream start",
-      "summary": "Match of the Day's Wayne Rooney is full of praise for Ipswich Town on their return to the Premier League as they earn a late victory over Sunderland.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cz7d7le4vrgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:06:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f121f6175f80c1",
-      "title": "'They just didn't look fit at all' - Shearer on Man Utd",
-      "summary": "Match of the Day pundits Alan Shearer and Wayne Rooney analyse Manchester United's performance in their 2-0 loss on the opening day of the Premier League to newly promo...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyqylwkl2no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:01:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c6aec83a4cd2f7",
-      "title": "Man City will 'try to find the new Rodri' - Maresca",
-      "summary": "Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T21:30:32.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "La Liga",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "83f7c0d8ea0da0",
-      "title": "Juventus reach decision on selling Kenan Yildiz to Arsenal for €100m",
-      "summary": "Romano has confirmed that Arsenal ‘love’ the Turkish international, with Juventus now deciding his future",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfers-news-kenan-yildiz-fabrizio-romano-juventus-reach-decision-sale",
-      "publishedAt": "2026-08-22T21:08:16.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "a67024322f9b84",
-      "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
-      "summary": "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T20:39:00.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7eed190b632f13",
-      "title": "De Zerbi learns cash alone cannot fix Spurs' losing mentality",
-      "summary": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T20:16:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "35d7fb33192e00",
-      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
-      "summary": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:07:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "78ac58519844c4",
-      "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
-      "summary": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:06:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "af8c8f28c640e8",
-      "title": "Brentford beat lacklustre Spurs in comfortable opening day win",
-      "summary": "Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:02:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d02e590177ac8c",
-      "title": "Late drama as Ipswich stun Sunderland",
-      "summary": "Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:01:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "28d35843d7efa4",
-      "title": "Leeds score late winner to silence Forest fans",
-      "summary": "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:01:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d0e61f10c88fed",
-      "title": "Wasteful Palace punished by Everton in Sage's first game",
-      "summary": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thier...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:00:58.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
