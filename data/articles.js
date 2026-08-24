@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-24T01:37:48.681Z",
+  "generatedAt": "2026-08-24T07:05:53.188Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,51 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "4971802e1e73b5",
-      "title": "FIFA president Infantino defiant after joint Nordic no-confidence statement",
-      "summary": "FIFA president Infantino defiant after joint Nordic no-confidence statement",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "publishedAt": "2026-08-24T01:37:48.406Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "1e8ce30c696610",
-      "title": "Szoboszlai snatches 99th-min Liverpool leveller to deny Newcastle win",
-      "summary": "Dominik Szoboszlai's last-gasp penalty earned Andoni Iraola a debut Liverpool point to deny Newcastle victory on Matthias Jaissle's managerial bow in a pulsating 2-2 dr...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-liverpool/report/559452",
-      "publishedAt": "2026-08-24T01:37:48.406Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e7681080e7c711",
-      "title": "Papers: Palace prepare audacious £50m bid for West Ham captain Bowen",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk",
-      "publishedAt": "2026-08-24T01:37:48.405Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
       "id": "6a846a55b9383d",
       "title": "Liverpool latest: Iraola says Isak expected hostile return at Newcastle",
       "summary": "Liverpool latest: Iraola says Isak expected hostile return at Newcastle",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-24T01:37:48.405Z",
+      "publishedAt": "2026-08-24T07:05:52.936Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -156,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Liverpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13576408/newcastle-2-2-liverpool-premier-league-highlights",
-      "publishedAt": "2026-08-24T01:37:48.405Z",
+      "publishedAt": "2026-08-24T07:05:52.936Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -170,11 +131,161 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Gary Neville called on Florian Wirtz and Alexander Isak to improve after a year of \"being kind to\" Liverpool's £200m+ duo, but said he had faith the pair would come goo...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13576437/liverpools-alexander-isak-and-florian-wirtz-biggest-disappointments-says-gary-neville-after-pair-underwhelm-in-draw-at-newcastle",
-      "publishedAt": "2026-08-24T01:37:48.405Z",
+      "publishedAt": "2026-08-24T07:05:52.936Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "03b81e8ca85249",
+      "title": "Nev on title race: Liverpool, Man City nowhere near levels required",
+      "summary": "Liverpool and Manchester City are well below the level required to win the Premier League title this season, says Sky Sports pundit Gary Neville.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville",
+      "publishedAt": "2026-08-24T07:05:52.935Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e7681080e7c711",
+      "title": "Papers: Palace prepare audacious £50m bid for West Ham captain Bowen",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576453/crystal-palace-transfer-news-eagles-prepare-audacious-50m-bid-to-lure-jarrod-bowen-back-to-premier-league-paper-talk",
+      "publishedAt": "2026-08-24T07:05:52.935Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "9f40cef7e5fb53",
+      "title": "Podcast: A derby win, a new Championship leader and who is winning the transfer window?",
+      "summary": "Dundee Derby drama, transfer talk and a changing Championship picture.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p5z6zj?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "55a96c09f2fde7",
+      "title": "Arbeloa v Alonso: Benitez on his former players turned managers",
+      "summary": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckge725zy1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T06:59:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "35e497cb07d75e",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T06:55:06.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fcce0badb3f222",
+      "title": "Romano reveals Man Utd transfer boost as Newcastle make final decision selling Hall to the Red Devils",
+      "summary": "Man Utd have been handed a transfer boost with Barcelona now “open” to selling left-back Alejandro Balde, according to Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-romano-balde-barcelona-newcastle-final-decision-hall",
+      "publishedAt": "2026-08-24T06:54:44.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "57a0bc27614393",
+      "title": "Why are Australians thriving in WSL but not Premier League?",
+      "summary": "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the W...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3yy9ed9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T06:51:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8ab3b077b83177",
+      "title": "Every Premier League stadium ranked by environmental sustainability",
+      "summary": "Spurs have found a Premier League table they can top, but there is work to do for Leeds, Nottingham Forest and across the promoted clubs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-stadium-ranked-environmental-sustainability-leeds-spurs",
+      "publishedAt": "2026-08-24T06:48:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "12ab67599c3658",
+      "title": "Romano gives huge Barcola to Liverpool update amid Arsenal hijack claims",
+      "summary": "Fabrizio Romano has provided his latest update on Bradley Barcola and his potential move to Liverpool amid Arsenal hijack claims.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-bradley-barcola-romano-update-arsenal-hijack",
+      "publishedAt": "2026-08-24T06:28:35.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ac0a8773627152",
+      "title": "Quiz: Do you know these footballers from their haircuts?",
+      "summary": "Erling Haaland shaved off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyeye08929o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:50:50.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7e4385507a0ed2",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:35:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -192,15 +303,14 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "2b81ae519cf5ca",
-      "title": "Infantino must remember he is European - Ceferin",
-      "summary": "Uefa president Aleksander Ceferin says his Fifa counterpart Gianni Infantino's attempt to sell off a stake in the World Cup was \"worse than the Super League\".",
+      "title": "Uefa chief Ceferin rules out Fifa presidency bid",
+      "summary": "Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T23:20:31.000Z",
-      "category": "worldcup",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup",
         "Fifa",
         "Uefa"
       ]
@@ -280,7 +390,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "fc58f236169081",
-      "title": "Monday's gossip: Man City ready to meet Chelsea's Fernandez demand",
+      "title": "Man City ready to meet Chelsea's Fernandez demand - Monday's gossip",
       "summary": "Manchester City are ready to make Enzo Fernandez move, Liverpool consider a third bid for Yankuba Minteh, and a Barcelona full-back pushes to join Manchester United.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/czxqx29jy02o?at_medium=RSS&at_campaign=rss",
@@ -324,7 +434,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "f0a55f3207b0fb",
       "title": "Relief for Iraola but Liverpool have work to do",
-      "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
+      "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T19:27:12.000Z",
@@ -483,117 +593,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "43f76819c1b070",
-      "title": "Man Utd transfer tactic pays off after Michael Carrick sends message to INEOS",
-      "summary": "Manchester United’s enquiry about Barcelona star Alejandro Balde may pay off before the summer transfer window slams shut following an update from Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-tactic-michael-carrick-message-ineos",
-      "publishedAt": "2026-08-23T17:23:51.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "f74ebb7a64cc87",
-      "title": "Manchester Utd midfielder Devaney joins Hibs on loan",
-      "summary": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce343p742v9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T17:19:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6c470727abb806",
-      "title": "Maresca concedes Manchester City ‘a work in progress’ after hair-raising escape",
-      "summary": "Gvardiol’s stoppage-time strike gives City points ‘I’m looking for solutions. When you win games it helps’ Enzo Maresca said Manchester City remain a “work in progress”...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth",
-      "publishedAt": "2026-08-23T16:32:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1889635f5c362e",
-      "title": "Arsenal learn why Barcelona failed in Julian Alvarez move as £60m makeweight revealed",
-      "summary": "Atletico Madrid president Enrique Cerezo has explained why Barcelona fell short in their pursuit of Julian Alvarez, as Arsenal concoct a plan involving Gabriel Martinel...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-learn-why-barcelona-failed-julian-alvarez-move-60m-makeweight-revealed",
-      "publishedAt": "2026-08-23T16:08:54.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "1f946b32fec053",
-      "title": "Tottenham deal done for Omar Marmoush as Man City accept less than they paid in 2025",
-      "summary": "Tottenham have agreed a deal to sign Omar Marmoush from Manchester City, with insider Fabrizio Romano revealing the conditions of the transfer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-135m-deal-done-omar-marmoush-savinho",
-      "publishedAt": "2026-08-23T16:02:03.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e9470698809602",
-      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
-      "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T15:53:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "81646cf5962505",
-      "title": "Man City 'completely deserved to win' - Maresca",
-      "summary": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 sea...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T15:52:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4ba898f4a19b14",
-      "title": "Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?",
-      "summary": "Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86n6d07825o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T15:35:33.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
