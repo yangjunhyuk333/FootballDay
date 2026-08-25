@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-25T01:27:28.348Z",
+  "generatedAt": "2026-08-25T06:54:53.417Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,54 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "f081a39719c44b",
-      "title": "Man City interested in Gakpo",
-      "summary": "Manchester City are interested in signing Tottenham target Cody Gakpo from Liverpool.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576800/cody-gakpo-transfer-news-man-city-interested-in-signing-tottenham-target-from-liverpool-but-reds-dont-want-to-sell",
-      "publishedAt": "2026-08-25T01:27:28.232Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "a75d02dc998b94",
-      "title": "Fulham 2-3 Chelsea highlights",
-      "summary": "Fulham 2-3 Chelsea highlights",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fulham-vs-chelsea/live/559453",
-      "publishedAt": "2026-08-25T01:27:28.232Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d2750b6ce5cdfe",
-      "title": "Papers: Arsenal ready to make £130m Alvarez push as Martinelli nears Saudi move",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576722/xxxx-paper-talk",
-      "publishedAt": "2026-08-25T01:27:28.231Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
       "id": "f95255f7e296b9",
       "title": "Newcastle latest: Willock's showing against Liverpool could resurrect Toon career",
       "summary": "Newcastle latest: Willock's showing against Liverpool could resurrect Toon career",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-25T01:27:28.231Z",
+      "publishedAt": "2026-08-25T06:54:53.149Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -159,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jamie Carragher says he doesn't see where Florian Wirtz fits into the Liverpool team - and the £116.5m German could be part of the worst transfer window in Premier Leag...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13576764/liverpool-florian-wirtz-part-of-potentially-a-worst-ever-transfer-window-says-jamie-carragher-as-reds-midfield-problems-exposed",
-      "publishedAt": "2026-08-25T01:27:28.231Z",
+      "publishedAt": "2026-08-25T06:54:53.149Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -174,11 +132,26 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Cole Palmer looked like Cole Palmer again but Chelsea's progress this season will be hampered by sticking with Robert Sanchez in goal, argued Jamie Carragher.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13576819/cole-palmers-back-an-electric-chelsea-attack-but-goalkeeper-problem-remains-after-opening-premier-league-win-at-fulham",
-      "publishedAt": "2026-08-25T01:27:28.231Z",
+      "publishedAt": "2026-08-25T06:54:53.149Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "f081a39719c44b",
+      "title": "Man City interested in Gakpo",
+      "summary": "Manchester City are interested in signing Tottenham target Cody Gakpo from Liverpool.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576800/cody-gakpo-transfer-news-man-city-interested-in-signing-tottenham-target-from-liverpool-but-reds-dont-want-to-sell",
+      "publishedAt": "2026-08-25T06:54:53.149Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -187,7 +160,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Cole Palmer was back to his best to get Xabi Alonso's Chelsea career off to a winning start in a chaotic 3-2 victory at Fulham on Monday Night Football.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453",
-      "publishedAt": "2026-08-25T01:27:28.230Z",
+      "publishedAt": "2026-08-25T06:54:53.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -201,7 +174,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jamie Carragher and Gary Neville made their 2026/27 Premier League season predictions on Monday Night Football.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13576703/premier-league-season-predictions-jamie-carragher-and-gary-neville-pick-the-title-winner-and-players-to-watch-in-2026-27",
-      "publishedAt": "2026-08-25T01:27:28.230Z",
+      "publishedAt": "2026-08-25T06:54:53.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -215,7 +188,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "FREE TO WATCH: Highlights from Fulham’s match against Chelsea in the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13576822/fulham-2-3-chelsea-premier-league-highlights",
-      "publishedAt": "2026-08-25T01:27:28.230Z",
+      "publishedAt": "2026-08-25T06:54:53.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -229,7 +202,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Fulham latest: 'This is how I want us to play,' says Arbeloa after Chelsea loss",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-25T01:27:28.230Z",
+      "publishedAt": "2026-08-25T06:54:53.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -242,11 +215,80 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Chelsea latest: VOTE! How do Blues solve goalkeeper 'problem'?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-25T01:27:28.230Z",
+      "publishedAt": "2026-08-25T06:54:53.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "d2750b6ce5cdfe",
+      "title": "Papers: Arsenal ready to make £130m Alvarez push as Martinelli nears Saudi move",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576722/xxxx-paper-talk",
+      "publishedAt": "2026-08-25T06:54:53.148Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e190521722b7f6",
+      "title": "Arsenal make final decision on selling Lewis-Skelly to Man Utd with Red Devils ‘very interested’",
+      "summary": "Arsenal have made their final decision on whether to sell Myles Lewis-Skelly to Man Utd before the transfer deadline, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-make-final-decision-selling-lewis-skelly-man-utd",
+      "publishedAt": "2026-08-25T06:46:35.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "de5090e95e50b6",
+      "title": "'Change is necessary' - players unite against Fifa",
+      "summary": "A number of current and former footballers unite against Fifa president Gianni Infantino, stating that \"change is necessary\" at the global governing body.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T06:31:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "5a9fbf6f77f10a",
+      "title": "Liverpool ‘deciding today’ whether to give up on Minteh as they learn how much for a ‘done deal’",
+      "summary": "Ben Jacobs has revealed that Liverpool are “deciding today” on whether to carry on their pursuit of Brighton winger Yankuba Minteh.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-decidiing-today-minteh-bid-done-deal-brighton-fee",
+      "publishedAt": "2026-08-25T06:26:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1b483891e01700",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7llw7yzggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T05:24:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -264,7 +306,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "46430cc74676cb",
-      "title": "Three reasons Chelsea could challenge for title - and one they may not",
+      "title": "Three reasons Chelsea could challenge for title - and one issue that could haunt them",
       "summary": "While Chelsea's front three produced a sparkling display in their win over Fulham, goalkeeper Robert Sanchez remains a major concern.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss",
@@ -549,49 +591,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "2f5af265926c3a",
-      "title": "‘Enough is enough’: players pile pressure on under-fire Gianni Infantino to resign",
-      "summary": "President accused by ‘Fifa Legends’ of being power hungry Samuel Eto’o claims chief has not ‘done anything wrong’ A group of influential current and former footballers...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/24/gianni-infantino-fifa-players-resign-football-politics",
-      "publishedAt": "2026-08-24T18:19:01.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9605b2b62d248a",
-      "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
-      "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T16:43:58.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "adfe6ec0edbb3e",
-      "title": "Man City contact Liverpool star over stunning £70m transfer",
-      "summary": "City have approached an Anfield star over a shock move to the Etihad, and they could make contact with the Reds next, as per a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfer-news-cody-gakpo-man-city-contact-tottenham-hijack",
-      "publishedAt": "2026-08-24T16:25:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
       ]
     }
   ],
