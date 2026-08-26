@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-26T12:59:56.164Z",
+  "generatedAt": "2026-08-26T19:52:01.080Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "8156e2739ff97c",
-      "title": "Sage provides updates on Mateta and Sarr - can Palace keep them?",
-      "summary": "Crystal Palace manager Pierre Sage provides a transfer update on Jean-Philippe Mateta and Ismaila Sarr and says he expects both of them to stay at the club.",
+      "id": "443ec704ac471e",
+      "title": "Chelsea considering late move for Villa's Martinez",
+      "summary": "Chelsea are considering a late move for Aston Villa goalkeeper Emi Martinez.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13577368/crystal-palace-transfer-latest-sage-provides-update-on-jean-philippe-mateta-and-ismaila-sarr",
-      "publishedAt": "2026-08-26T12:59:55.828Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "955623871cb686",
-      "title": "Palace latest: Disasi joins on loan from Chelsea",
-      "summary": "Palace latest: Disasi joins on loan from Chelsea",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-26T12:59:55.828Z",
+      "url": "https://www.skysports.com/football/news/12040/13577385/emiliano-martinez-transfer-news-chelsea-considering-late-move-for-aston-villa-and-argentina-goalkeeper",
+      "publishedAt": "2026-08-26T19:52:00.675Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,30 +112,483 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "cb064f7429ecff",
-      "title": "Man City considering bid for Chelsea's Fernandez",
-      "summary": "Manchester City are considering making a bid for Enzo Fernandez before the deadline.",
+      "id": "b917de9c659d84",
+      "title": "Villa agree Watkins sale, Jackson lined up as replacement",
+      "summary": "Aston Villa have agreed a deal to sell Ollie Watkins to Al Hilal, and are set to replace him with Chelsea forward Nicolas Jackson.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13570597/enzo-fernandez-transfer-news-man-city-considering-bid-for-chelsea-midfielder",
-      "publishedAt": "2026-08-26T12:59:55.828Z",
+      "url": "https://www.skysports.com/football/news/12040/13577081/nicolas-jackson-transfer-aston-villa-agree-deal-worth-up-to-65m-to-sign-chelsea-striker",
+      "publishedAt": "2026-08-26T19:52:00.674Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1d77c9b392359d",
+      "title": "'Zero per cent chance' - Atleti shut down Barca's Alvarez plea amid Arsenal interest",
+      "summary": "The noise around Atletico Madrid forward Julian Alvarez refuses to go away - so where are things after a chaotic few days surrounding the in-demand Argentine?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13577412/julian-alvarez-atletico-madrid-say-theres-zero-per-cent-chance-of-him-joining-barcelona-despite-clubs-plea-as-arsenal-wait-in-wings",
+      "publishedAt": "2026-08-26T19:52:00.674Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "aa5c3cede64ea5",
+      "title": "Sunderland explore late move for Grealish",
+      "summary": "Sunderland are exploring a potential late deal for Manchester City winger Jack Grealish.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13577448/jack-grealish-transfer-sunderland-explore-move-for-manchester-city-winger-with-former-loan-side-everton-still-interested",
+      "publishedAt": "2026-08-26T19:52:00.674Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "b99f50c93cbed3",
-      "title": "Man City sign Bouaddi in record-breaking deal",
-      "summary": "Manchester City have completed the signing of midfielder Ayyoub Bouaddi in a record-breaking £86m move from Lille.",
+      "id": "ac1a482fd20a8c",
+      "title": "Liverpool make approach for Palace forward Sarr",
+      "summary": "Liverpool have approached Crystal Palace over potentially signing winger Ismaila Sarr.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13576515/ayyoub-bouaddi-transfer-manchester-city-complete-record-breaking-86m-deal-to-sign-18-year-old-morocco-midfielder",
-      "publishedAt": "2026-08-26T12:59:55.828Z",
+      "url": "https://www.skysports.com/football/news/12040/13577363/ismaila-sarr-transfer-news-liverpool-make-approach-for-senegal-forward-after-stalled-talks-for-yankuba-minteh",
+      "publishedAt": "2026-08-26T19:52:00.674Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ca30d11d029931",
+      "title": "Sunderland weigh up Jack Grealish loan with Marseille’s Igor Paixão also a target",
+      "summary": "Manchester City winger reportedly open to move Forest in talks over right-back Javi Rueda from Celta Vigo Sunderland are exploring a potential loan move for Jack Greali...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/26/forest-in-talks-with-celta-vigo-over-javi-rueda-as-axel-disasi-joins-palace-on-loan",
+      "publishedAt": "2026-08-26T19:22:14.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7fe3e1a2d40705",
+      "title": "Julian Alvarez makes Arsenal transfer realisation as dream Atletico Madrid exit slips away",
+      "summary": "Julian Alvarez ‘finally accepts’ that a dream move to Barcelona is off the table, as Arsenal try to pick up the pieces.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/julian-alvarez-makes-arsenal-transfer-realisation-dream-atletico-madrid-exit-slips-away",
+      "publishedAt": "2026-08-26T19:21:56.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "013120bc3393ce",
+      "title": "Newcastle sign Gonzalez from Man City for £52m",
+      "summary": "Newcastle United sign Manchester City midfielder Nico Gonzalez for a fee which could rise to £52m.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T18:35:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c059d392f01709",
+      "title": "Rangers finalize deal for Portland Timbers striker Kevin Kelsy",
+      "summary": "$13m fee is an outgoing record for Portland Kelsy not expected to feature this weekend Rangers have acquired forward Kevin Kelsy from Major League Soccer’s Portland Tim...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/26/kevin-kelsy-rangers-portland-timbers-transfer",
+      "publishedAt": "2026-08-26T18:00:40.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "79371b0cdf81f6",
+      "title": "Insider reveals winger Liverpool are pursuing is now ‘priority’ for Saudi Arabian side",
+      "summary": "Saudi Arabian side Al-Ittihad have opened talks for a winger Liverpool are pursuing, who’s a ‘priority’ target for the club amid a big exit.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/talks-open-al-ittihad-ismaila-sarr-liverpool-target",
+      "publishedAt": "2026-08-26T17:11:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c6f2634a0062b2",
+      "title": "Aston Villa desperate to avoid another transfer hijack as Chelsea star Nicolas Jackson agrees personal terms with two clubs",
+      "summary": "Aston Villa have reportedly agreed personal terms with Chelsea striker Nicolas Jackson, but they are not the only ones.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-desperate-avoid-another-transfer-hijack-chelsea-nicolas-jackson-agrees-personal-terms-two-clubs",
+      "publishedAt": "2026-08-26T17:08:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "e8203734602105",
+      "title": "Euro Leagues",
+      "summary": "Is Alvarez set for Arsenal? & Schalke boss Muslić chats about Dzeko & Karius' redemption.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p6f6bs?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T17:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T16:54:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8a5f47e0ee09b4",
+      "title": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row",
+      "summary": "Barcelona have again restated their desire to sign Julian Alvarez, prompting another angry response from Atletico Madrid.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T16:23:04.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Transfer",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "92331c1455c6aa",
+      "title": "Who is in the Europa League draw and who is in each pot?",
+      "summary": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/articles/cew91j189v2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T16:11:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Liverpool snubbed over Sarr, Grealish offer made",
+      "summary": "Liverpool’s bid for Ismaila Sarr has been rejected, while Sunderland are eyeing a huge move for Jack Grealish…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-26T16:03:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6124ee53f77ce3",
+      "title": "Chelsea can’t miss Emi Martinez open goal for fear of being fingered",
+      "summary": "Chelsea might be wondering if the chance to upgrade with Emiliano Martinez is too good to be true but the possible catch should not deter them…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/emiliano-emi-martinez-chelsea-villa-transfer-deal-opinion",
+      "publishedAt": "2026-08-26T15:47:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "90204b55a35913",
+      "title": "Another season, another failure - where did it all go wrong for Celtic?",
+      "summary": "Celtic have now faltered in Champions League qualifying on six occasions in eight years. What are the ramifications this time?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4exv1xgwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T15:43:49.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "54904314657d54",
+      "title": "Liverpool turn attention to Sarr after Brighton reject Minteh bids",
+      "summary": "Liverpool are exploring a move for Crystal Palace's Ismaila Sarr after Brighton reject their two bids for Yankuba Minteh.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7d5m4d928o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T15:42:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ea6d44d3c27f9c",
+      "title": "Atletico slam campaign of lies around Julian Alvarez transfer as Arsenal given hope",
+      "summary": "Atletico Madrid reportedly feel “victimised” by the ongoing Julian Alvarez transfer saga, which is seemingly turning increasingly bitter.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/atletico-slam-campaign-lies-julian-alvarez-transfer-arsenal-given-hope",
+      "publishedAt": "2026-08-26T15:23:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f2463ce8cf4caa",
+      "title": "Chelsea in talks with Martínez’s camp as Aston Villa close on striker Jackson",
+      "summary": "Blues consider making offer for Argentina goalkeeper Aston Villa agree £65m deal for striker Nicolas Jackson Manchester City expected to make bid for Fernández Chelsea...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper",
+      "publishedAt": "2026-08-26T15:18:10.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2aa7b9b06a88d4",
+      "title": "Premier League transfer net spend table for 26/27 season: Chelsea, Spurs, Arsenal, Ipswich (!)",
+      "summary": "We all know Chelsea and Tottenham are spending all the money but where do they stand on the net spend Premier League table?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-transfer-net-spend-table-for-26-27-season",
+      "publishedAt": "2026-08-26T15:00:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "527f888032b458",
+      "title": "Every Premier League transfer confirmed in the summer of 2026",
+      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+      "publishedAt": "2026-08-26T14:35:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "12764857aef06a",
+      "title": "Ollie Watkins antics ‘disgusting’ as pundit reacts amid agreement to sell Aston Villa striker",
+      "summary": "Paul Merson has called Ollie Watkins ‘disgusting’ for refusing to play for Aston Villa as he awaited a transfer to Al-Hilal, which has reportedly been agreed now.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ollie-watkins-disgusting-11m-contract-agreement-signed",
+      "publishedAt": "2026-08-26T14:32:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "45164c80a5a0ae",
+      "title": "Liverpool learn result of £50m Ismaila Sarr bid as Crystal Palace react",
+      "summary": "Palace have responded after Liverpool submitted a £50million bid for Ismaila Sarr, according to Fabrizio Romano",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-ismaila-sarr-bid-crystal-palace-respond-fabrizio-romano",
+      "publishedAt": "2026-08-26T14:32:14.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1ae5ae6d15d019",
+      "title": "Arsenal behind only £845m Chelsea in five-year net spend table",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-08-26T14:25:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7dc8da6f0d3a8d",
+      "title": "Uefa set to drop Fifa tournament boycott threat",
+      "summary": "Uefa is set to drop its threat of boycotting Fifa competitions, having received assurances there will be no repeat of Gianni Infantino's plan to sell off stakes in the...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ye3j5n8vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T14:17:36.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "86250bda4c8304",
+      "title": "Football Daily | Celtic raise the bar for calamitous capitulations in Europe",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! When Celtic opened the scoring against Lask courtesy of a low Callum McGregor shot after 21 minutes on Tuesday night...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/26/celtic-lask-champions-league-calamity-football-daily-newsletter",
+      "publishedAt": "2026-08-26T14:11:14.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "f7e30db5e8560a",
+      "title": "Ayyoub Bouaddi: maths student, chess fan and Manchester City’s new Rodri",
+      "summary": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve “He’s like a computer,” the former Lill...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri",
+      "publishedAt": "2026-08-26T14:00:15.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Ligue 1",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "9812f213805b89",
+      "title": "Kobbie Mainoo’s Man Utd future predicted by Bryan Robson after new midfield signings",
+      "summary": "Kobbie Mainoo still has a future at Manchester United despite not starting in their Premier League opener against Hull City, in addition to their new three midfield sig...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kobbie-mainoos-man-utd-future-predicted-bryan-robson-new-midfield-signings",
+      "publishedAt": "2026-08-26T13:50:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fa7dac5445af17",
+      "title": "Will a Premier League club break record for transfer sales in one window?",
+      "summary": "Aston Villa, Manchester City and Newcastle are closing in on Monaco's record for transfer income generated in a single window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T13:45:56.000Z",
       "category": "transfer",
       "region": "england france",
       "tags": [
+        "Premier League",
+        "Transfer",
         "Manchester"
+      ]
+    },
+    {
+      "id": "4e5d64c600c9f6",
+      "title": "Chelsea in contact over move for Villa goalkeeper Martinez",
+      "summary": "Chelsea consider a move for Aston Villa goalkeeper Emiliano Martinez after making contact with the Argentina international's representatives.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm27yzrkeydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T13:36:15.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "505e5c077c0c98",
+      "title": "Emiliano Martinez reaches decision on joining Chelsea from Aston Villa amid no European football",
+      "summary": "Emiliano Martinez is willing to join Chelsea after being offered to the Blues despite their lack of European football, and reports have detailed how much Villa can expe...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/emiliano-martinez-reaches-decision-joining-chelsea-from-aston-villa-european-football",
+      "publishedAt": "2026-08-26T13:30:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3791a75133c7d4",
+      "title": "Ismaila Sarr next? Liverpool pair among transfer Plan Bs that worked perfectly",
+      "summary": "Mo Salah was not the first-choice signing at Liverpool – maybe Ismaila Sarr might enjoy similar success despite being a Plan B…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-transfer-plan-b-alternatives-that-worked-liverpool-salah",
+      "publishedAt": "2026-08-26T13:15:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ab9f38189f27dc",
+      "title": "Why can't Real Madrid play at Anfield in the Champions League league phase?",
+      "summary": "Our Ask Me Anything team explains why Liverpool are not allowed to host Real Madrid in the Champions League's league phase",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg7k8jpxgjzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T13:09:55.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Liverpool",
+        "Real Madrid"
       ]
     },
     {
@@ -163,434 +603,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "d15737babe7215",
-      "title": "Whitwell confirms Man Utd plan for Lewis Hall amid Alejandro Balde rejection",
-      "summary": "Hall remains a dream left-back addition for United, while Alejandro Balde wants to stay at Barcelona",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-news-lewis-hall-plan-alejandro-balde-rejection",
-      "publishedAt": "2026-08-26T12:28:19.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "594748cdcedd09",
-      "title": "Romano drops Liverpool transfer bombshell as Reds make £50m offer for Premier League star",
-      "summary": "Fabrizio Romano has revealed that Liverpool have sent a ‘proposal’ worth £50m to Crystal Palace to sign Ismaila Sarr this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-transfer-sarr-crystal-palace-minteh",
-      "publishedAt": "2026-08-26T12:28:12.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "680a18669c22fb",
-      "title": "Wrexham close in on Ekomie and Kabore deals",
-      "summary": "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T12:25:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2a00fd95169350",
-      "title": "Man Utd legend hints at £100m transfer mistake as Ole Gunnar Solskjaer advice ignored",
-      "summary": "Manchester United legend Bryan Robson is curious to see whether or not Michael Carrick’s men can handle a jam-packed season in England and the Champions League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-legend-hints-100m-transfer-mistake-ole-gunnar-solskjaer-advice-ignored",
-      "publishedAt": "2026-08-26T12:20:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8aa25c0cbeda4f",
-      "title": "Alexander Isak warned he’s ‘running out of excuses’ at Liverpool in ‘worrying’ signs",
-      "summary": "After playing at the World Cup over the summer, there were hopes that Isak would hit the ground running under Andoni Iraola, but he struggled badly at his old club ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alexander-isak-warned-running-out-liverpool-excuses-michael-owen",
-      "publishedAt": "2026-08-26T12:07:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "668749930bc8eb",
-      "title": "Liverpool make second approach for Real Madrid star after Minteh was deemed infeasible",
-      "summary": "Liverpool have made another approach to sign Real Madrid forward Endrick as they continue to eye attackers, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-second-approach-real-madrid-endrick-minteh-infeasible",
-      "publishedAt": "2026-08-26T12:04:27.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "03c93c1b2c73d1",
-      "title": "Man Utd in talks for surprising striker transfer Carrick has approved",
-      "summary": "Man Utd are in talks with a Dutch giant for the ‘surprising’ loan transfer of a striker, according to a report coming out of the Netherlands.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-talks-surprising-striker-chido-obi-feyenoord-transfer-approved-michael-carrick",
-      "publishedAt": "2026-08-26T11:46:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "527f888032b458",
-      "title": "Every Premier League transfer confirmed in the summer of 2026",
-      "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-26T11:35:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "efa17f96a6ff56",
-      "title": "Chelsea respond to Carragher ‘impossible’ claim by moving for Premier League star",
-      "summary": "Chelsea are reportedly looking into signing Aston Villa goalkeeper Emiliano Martinez in the final days of the transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-respond-to-carragher-impossible-claim-by-moving-for-premier-league-star",
-      "publishedAt": "2026-08-26T11:23:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2224ffe60b9937",
-      "title": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
-      "summary": "Uefa has received guarantees after ill-fated Infantino plan European sides likely to go to under-20 Women’s World Cup Uefa is poised to drop its threatened boycott of F...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino",
-      "publishedAt": "2026-08-26T11:16:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "ab0285de026ac3",
-      "title": "The 20 most expensive midfielders in transfer history explodes in 2026",
-      "summary": "Bruno Guimaraes is only the fourth most expensive central midfield transfer in the summer of 2026, but in the top 10 ever!",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/20-most-expensive-midfielders-ever-transfer-history",
-      "publishedAt": "2026-08-26T11:06:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e4ea53b631488e",
-      "title": "Romano provides update on Man City ‘hijack’ for Gakpo as one condition gives Tottenham ‘no chance’",
-      "summary": "Fabrizio Romano has revealed that Tottenham are still leading the race to sign Cody Gakpo from Liverpool as Man City attempt a hijack.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-gakpo-man-city-hijack-no-chance",
-      "publishedAt": "2026-08-26T10:44:37.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "109c4ba27accb9",
-      "title": "Spurs break £300m mark in 10 biggest spenders of 2026 summer transfer window",
-      "summary": "Seven Premier League clubs are in the ten biggest spenders for the summer of 2026, with Chelsea back in their favourite spot at the top.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-08-26T10:39:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7955e8f87e6cdf",
-      "title": "Man City complete £86m Bouaddi signing from Lille",
-      "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T10:30:52.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool ‘cold’ on £60m target as Alvarez decision looms",
-      "summary": "Rafael Leao might finally be heading to the Premier League, while Liverpool have met PSG to gauge their intent to do a deal for Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-26T10:25:01.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some massive money has been spent this summer, with Premier League clubs involved in the top eight deals….",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-08-26T10:22:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "431066efd1b2aa",
-      "title": "Manchester City confirm Bouaddi signing as Marmoush and González head out",
-      "summary": "Spurs to take Marmoush on loan with obligation to buy City agree £52m Nico González sale to Newcastle Manchester City have confirmed the signing of Ayyoub Bouaddi from...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
-      "publishedAt": "2026-08-26T10:15:43.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "47c8a6047e951e",
-      "title": "Man Utd to launch bid for Real Madrid star as fourth midfield deal eyed",
-      "summary": "United are ‘preparing’ an ‘offer’ for a Madrid midfielder as part of an exciting double deal, according to a Spanish journalist",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-news-eduardo-camavinga-bid-real-madrid-fourth-midfield-deal",
-      "publishedAt": "2026-08-26T10:03:13.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9882062e1fe0c5",
-      "title": "Liverpool agree midfielder transfer and Romano confirms personal terms almost sealed",
-      "summary": "Liverpool have agreed to sell another of their midfielders, and a decision has been reached on whether to sign a new player in the engine room.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-agree-midfielder-transfer-fabrizio-romano-confirms-personal-terms-almost-sealed",
-      "publishedAt": "2026-08-26T09:58:07.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6c1be106d57b26",
-      "title": "Man City to make offer for £120m-rated Fernandez",
-      "summary": "Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T09:55:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "67fd64478468e3",
-      "title": "Romano gives huge Balde to Man Utd update after next signing confirmation claim",
-      "summary": "Man Utd are still speaking to Jorge Mendes as they look to bring Barcelona star Alejandro Balde to Old Trafford, says Fabrizio Romano.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-romano-balde-barcelona-transfer-update",
-      "publishedAt": "2026-08-26T09:38:42.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "e618b3e50f2278",
-      "title": "When is the Champions League draw and who is in each pot?",
-      "summary": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T09:21:47.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "fd84b55ef5bbaf",
-      "title": "Villa make offer for Mateta - Wednesday's gossip",
-      "summary": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8e0l7prg6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T09:07:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "08801d153eaf87",
-      "title": "Ornstein reveals next Tottenham signing has been ‘granted permission’ to undergo ‘medical’",
-      "summary": "Omar Marmoush has been ‘granted permission’ by Manchester City to undergo his medical at Tottenham, according to David Ornstein.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ornstein-reveals-next-tottenham-signing-has-been-granted-permission-to-undergo-medical",
-      "publishedAt": "2026-08-26T09:00:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "af731b76e57a49",
-      "title": "Deal ‘agreed’ with Arsenal to smash transfer record – Fabrizio Romano",
-      "summary": "Arsenal will smash their own transfer record with regards to sales within the next 48 hours after Fabrizio Romano confirmed a deal has been verbally agreed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gabriel-martinelli-deal-agreed-arsenal-smash-transfer-record-fabrizio-romano",
-      "publishedAt": "2026-08-26T08:59:23.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0fd0d6d1b8f8d4",
-      "title": "Romano drops huge Enzo Fernandez to Man City update with ‘green light’ given",
-      "summary": "Fabrizio Romano insists personal terms are “not a problem” as Man City look to sign Chelsea midfielder Enzo Fernandez with a bid on the way.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-enzo-fernandez-romano-update-man-city-green-light",
-      "publishedAt": "2026-08-26T08:27:29.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "b014b34767724f",
-      "title": "Bradley Barcola transfer to Liverpool done with medical next as Romano gives update",
-      "summary": "Liverpool are on the verge of completing the signing of Bradley Barcola, according to reports, but Fabrizio Romano has a different update.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-barcola-deal-done-medical-next-romano-update",
-      "publishedAt": "2026-08-26T08:27:13.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c2993c2a7ffb2a",
-      "title": "‘Tiresome’ Man Utd are back to Bruno Fernandes being a problem…",
-      "summary": "We’re one game into the season and the newly-crowned PFA Player of the Year is holding Manchester United back, while Florian Wirtz cops it too…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mailbox-man-utd-bruno-fernandes-pfa-poty-liverpool-wirtz",
-      "publishedAt": "2026-08-26T08:24:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "19c2fe8f002714",
-      "title": "Tottenham agree loan for Man City's Marmoush",
-      "summary": "Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T08:18:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8d3a2bb8254620",
-      "title": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
-      "summary": "Today’s fluff is splashing out regardless Liam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The Eng...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa",
-      "publishedAt": "2026-08-26T08:13:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "013120bc3393ce",
-      "title": "Newcastle agree £52m deal for Man City's Gonzalez",
-      "summary": "Newcastle United agree a deal worth up to £52m for Manchester City midfielder Nico Gonzalez.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T07:59:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
