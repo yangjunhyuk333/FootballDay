@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-26T01:38:12.738Z",
+  "generatedAt": "2026-08-26T06:55:51.345Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,56 +99,30 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "6a8e614eff8c32",
-      "title": "Fernandes crowned PFA Players' Player of the Year as Shaw wins women's award",
-      "summary": "Manchester United captain Bruno Fernandes has been crowned the men's PFA Players' Player of the Year for the 2025/26 season, as Manchester City's Bunny Shaw won the wom...",
+      "id": "0153b74607c1c7",
+      "title": "Coventry survive Plymouth scare to progress in Carabao Cup",
+      "summary": "Premier League new boys Coventry survived an EFL Cup second-round scare at League One Plymouth before easing through 4-2 at Home Park.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577089/bruno-fernandes-man-utd-captain-wins-2025-26-pfa-players-player-of-the-year-as-bunny-shaw-wins-womens-award",
-      "publishedAt": "2026-08-26T01:38:12.270Z",
+      "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439",
+      "publishedAt": "2026-08-26T06:55:51.104Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "673567e964e1b5",
+      "title": "Hull require penalties to overcome stubborn Stoke",
+      "summary": "Premier League new boys Hull followed up their 2-0 win over Manchester United on Saturday by knocking Stoke out of the Carabao Cup on penalties after a 1-1 draw at the...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/stoke-city-vs-hull-city/report/577438",
+      "publishedAt": "2026-08-26T06:55:51.104Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "220e33245e3e42",
-      "title": "Liverpool hold fresh Barcola talks with PSG",
-      "summary": "Liverpool are holding further talks with Paris Saint-Germain on Tuesday for Bradley Barcola.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13567087/bradley-barcola-transfer-news-liverpool-hold-fresh-talks-with-psg-over-france-international-ahead-of-transfer-deadline",
-      "publishedAt": "2026-08-26T01:38:12.270Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "f559aaa8ecb329",
-      "title": "Forest agree club-record deal for Chelsea's Delap",
-      "summary": "Nottingham Forest have agreed a club-record £50m deal to sign Liam Delap from Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577090/liam-delap-transfer-nottingham-forest-agree-club-record-deal-to-sign-chelsea-striker",
-      "publishedAt": "2026-08-26T01:38:12.270Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9849a39e8ac387",
-      "title": "Aston Villa latest: 'Talks begin with Chelsea over £65m Jackson deal'",
-      "summary": "Aston Villa latest: 'Talks begin with Chelsea over £65m Jackson deal'",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-26T01:38:12.270Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     },
     {
@@ -157,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Celtic suffered a stunning Champions League play-off collapse as LASK overturned a 3-0 first-leg deficit to win 5-4 after extra-time and sent the Scottish champions cra...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/linz-ask-vs-celtic/report/577269",
-      "publishedAt": "2026-08-26T01:38:12.269Z",
+      "publishedAt": "2026-08-26T06:55:51.104Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -171,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and try to rebuild his connection with the fans or get his head around a...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker",
-      "publishedAt": "2026-08-26T01:38:12.269Z",
+      "publishedAt": "2026-08-26T06:55:51.104Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -180,12 +154,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "6a8e614eff8c32",
+      "title": "Fernandes crowned PFA Players' Player of the Year as Shaw wins women's award",
+      "summary": "Manchester United captain Bruno Fernandes has been crowned the men's PFA Players' Player of the Year for the 2025/26 season, as Manchester City's Bunny Shaw won the wom...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13577089/bruno-fernandes-man-utd-captain-wins-2025-26-pfa-players-player-of-the-year-as-bunny-shaw-wins-womens-award",
+      "publishedAt": "2026-08-26T06:55:51.104Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
       "id": "e6d7e819637bd7",
       "title": "Papers: Man City set for late Fernandez move as Chelsea replacement emerges",
       "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13577214/enzo-fernandez-transfer-news-manchester-city-to-make-late-move-for-chelsea-midfielder-paper-talk",
-      "publishedAt": "2026-08-26T01:38:12.268Z",
+      "publishedAt": "2026-08-26T06:55:51.103Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -194,30 +181,82 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0153b74607c1c7",
-      "title": "Coventry survive Plymouth scare to progress in Carabao Cup",
-      "summary": "Premier League new boys Coventry survived an EFL Cup second-round scare at League One Plymouth before easing through 4-2 at Home Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439",
-      "publishedAt": "2026-08-26T01:38:12.268Z",
+      "id": "f16ddbb2ed58da",
+      "title": "Liverpool turn to ‘different options’ as Minteh deal goes ‘cold’ in Romano update; £80m demanded",
+      "summary": "Liverpool are now exploring “different options” as they decided against making a third bid for Yankuba Minteh, according to Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-minteh-deal-cold",
+      "publishedAt": "2026-08-26T06:34:41.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Premier League"
+        "Liverpool"
       ]
     },
     {
-      "id": "673567e964e1b5",
-      "title": "Hull require penalties to overcome stubborn Stoke",
-      "summary": "Premier League new boys Hull followed up their 2-0 win over Manchester United on Saturday by knocking Stoke out of the Carabao Cup on penalties after a 1-1 draw at the...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/stoke-city-vs-hull-city/report/577438",
-      "publishedAt": "2026-08-26T01:38:12.268Z",
+      "id": "66176ddf37ba58",
+      "title": "Liverpool's midfield is fragile - will they act in the window?",
+      "summary": "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T06:04:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Manchester"
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3efd7498136da0",
+      "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+      "summary": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:41:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d7ebfe1bb7f31f",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgxxx4r7zxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:17:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "2fe69adb7350a5",
+      "title": "Taekwondo, stats and £1m record - the rise of Arsenal striker Smith",
+      "summary": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8jdl0n0r7mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:16:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "48ca131abaac68",
+      "title": "O'Neill takes responsibility after Celtic's latest European capitulation",
+      "summary": "Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T23:35:46.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
       ]
     },
     {
@@ -550,49 +589,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Fifa"
-      ]
-    },
-    {
-      "id": "6302b95a195ebe",
-      "title": "What does your Premier League club still need in the transfer window?",
-      "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:17:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "ac0bee18dbc00a",
-      "title": "Transfer rumour ranking: Liverpool meet PSG to get clarity over Barcola deal",
-      "summary": "Rafael Leao might finally be heading to the Premier League, while Liverpool have met PSG to gauge their intent to do a deal for Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
-      "publishedAt": "2026-08-25T16:15:01.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "bd13e553b4b559",
-      "title": "Man Utd's midfield spending is done - now for a left-back?",
-      "summary": "After spending £155m on three midfielders, now Manchester United must decide whether to try to buy a left-back",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clykngy3gldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T16:03:24.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
