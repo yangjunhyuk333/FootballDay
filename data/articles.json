@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T08:28:02.344Z",
+  "generatedAt": "2026-08-27T22:02:14.693Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,41 +99,41 @@
       "pinned": true
     },
     {
-      "id": "d6a5742aa312b2",
-      "title": "Liverpool to host Spurs in Carabao Cup third round",
-      "summary": "Liverpool will host Tottenham in the third round of the Carabao Cup, while Manchester United face Brighton as one of a potential six all-Premier League ties.",
+      "id": "bf2bd7b74c21ec",
+      "title": "'Fire burning within' for Smith following 'tough' Ashes winter",
+      "summary": "England wicketkeeper Jamie Smith welcomed his return to form with the bat as he top-scored with 61 on day one of the second Test against Pakistan at Lord's.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577302/carabao-cup-third-round-draw-liverpool-host-tottenham-with-as-many-as-six-all-premier-league-ties",
-      "publishedAt": "2026-08-27T08:28:02.269Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13577908/jamie-smith-england-wicketkeeper-reflects-on-tough-ashes-as-he-welcomes-return-to-form-versus-pakistan-at-lords",
+      "publishedAt": "2026-08-27T22:02:14.451Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Premier League",
-        "Liverpool",
-        "Manchester"
+        "Inter"
       ]
     },
     {
-      "id": "82988e193facba",
-      "title": "Chelsea thrash Real Sociedad to move to brink of WCL league phase",
-      "summary": "Melvine Malard scored twice on her competitive Chelsea debut as they hit back to beat Real Sociedad 5-2 in the first leg of the Champions League third qualifying round.",
+      "id": "ba32d026afaa60",
+      "title": "Arsenal to face Real Madrid as City and Villa get PSG in CL league phase",
+      "summary": "Last season's European finalists Arsenal will play Real Madrid and Bayern Munich in this year's Champions League league phase.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-real-sociedad-women/report/577445",
-      "publishedAt": "2026-08-27T08:28:02.269Z",
+      "url": "https://www.skysports.com/football/news/12040/13577826/champions-league-draw-arsenal-to-face-real-madrid-and-bayern-munich-in-league-phase-as-man-city-and-aston-villa-get-psg",
+      "publishedAt": "2026-08-27T22:02:14.451Z",
       "category": "ucl",
-      "region": "england",
+      "region": "england spain france germany",
       "tags": [
         "Champions League",
-        "Chelsea"
+        "Arsenal",
+        "Real Madrid",
+        "Psg"
       ]
     },
     {
-      "id": "b917de9c659d84",
-      "title": "Aston Villa agree Watkins sale with Jackson lined up as replacement",
-      "summary": "Aston Villa have agreed a deal to sell Ollie Watkins to Al Hilal and are set to replace him with Chelsea forward Nicolas Jackson.",
+      "id": "92bd0152442634",
+      "title": "Chelsea agree deal for Villa's Martinez",
+      "summary": "Chelsea have agreed a deal worth £7.5m with Aston Villa to sign Emi Martinez.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577081/nicolas-jackson-transfer-aston-villa-agree-deal-worth-up-to-65m-to-sign-chelsea-striker",
-      "publishedAt": "2026-08-27T08:28:02.269Z",
+      "url": "https://www.skysports.com/football/news/12040/13577794/emiliano-martinez-transfer-news-chelsea-agree-7-5m-deal-to-sign-aston-villas-world-cup-winning-goalkeeper",
+      "publishedAt": "2026-08-27T22:02:14.451Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -141,71 +141,85 @@
       ]
     },
     {
-      "id": "7ee5047d249146",
-      "title": "Liverpool agree £120m deal in principle for Barcola",
-      "summary": "Liverpool have an agreement in principle with Paris Saint-Germain to sign Bradley Barcola for a package worth £120m.",
+      "id": "16942cb4e24a2f",
+      "title": "Papers: Man City confident of signing Chelsea midfielder Fernandez",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577569/bradley-barcola-transfer-news-liverpool-reach-120m-deal-in-principle-for-psg-forward",
-      "publishedAt": "2026-08-27T08:28:02.268Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "39cb267121df13",
-      "title": "Liverpool to face Spurs in Carabao Cup third round draw LIVE!",
-      "summary": "Liverpool to face Spurs in Carabao Cup third round draw LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/preston-north-end-vs-everton/live/577434",
-      "publishedAt": "2026-08-27T08:28:02.268Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b2d6e9210ff51f",
-      "title": "Papers: No approaches yet for Liverpool pair Elliott and Chiesa",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13577609/bradley-barcola-transfer-news-liverpool-set-for-more-talks-with-psg-over-signing-winger-before-transfer-deadline",
-      "publishedAt": "2026-08-27T08:28:02.268Z",
+      "url": "https://www.skysports.com/football/news/12040/13577977/enzo-fernandez-transfer-news-manchester-city-confident-of-signing-chelsea-midfielder-paper-talk",
+      "publishedAt": "2026-08-27T22:02:14.450Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Liverpool"
+        "Chelsea"
       ]
     },
     {
-      "id": "9218be08fc6628",
-      "title": "Aston Villa strike full agreement for Jackson and step up Leao hijack in £103m double deal",
-      "summary": "According to reports, Aston Villa have a ‘full agreement’ to sign Chelsea striker Nicolas Jackson, while they are also pursuing AC Milan’s Rafael Leao.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-strike-full-agreement-jackson-step-up-leao-hijack-103m-double-deal",
-      "publishedAt": "2026-08-27T08:12:46.000Z",
+      "id": "3715a3915de70f",
+      "title": "Welbeck off the mark for Chelsea in win over Wilshere's Luton",
+      "summary": "Danny Welbeck scored on his Chelsea debut as Xabi Alonso's first competitive game at Stamford Bridge as Blues manager ended in a 2-0 win over League One Luton in the Ca...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-luton-town/report/577427",
+      "publishedAt": "2026-08-27T22:02:14.450Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Chelsea",
-        "Milan"
+        "Chelsea"
       ]
     },
     {
-      "id": "94b825c0976395",
-      "title": "Liverpool close in on signing PSG forward Barcola",
-      "summary": "Liverpool are closing in on the signing of Bradley Barcola from Paris St-Germain for a fee that is expected to be in excess of £100m.",
+      "id": "b27729dc1bf4dd",
+      "title": "Arsenal continue Alvarez pursuit - Friday's gossip",
+      "summary": "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T08:10:13.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq89xedp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T21:33:44.000Z",
       "category": "transfer",
-      "region": "england france",
+      "region": "england",
       "tags": [
-        "Liverpool",
-        "Psg"
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "26193e9823c602",
+      "title": "Struggling Inter Miami are finalizing hire of Kily González as new head coach",
+      "summary": "MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami are finalizing the hire of former Argentina international Cristia...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/inter-miami-kily-gonzalez-lionel-messi-guillermo-hoyos",
+      "publishedAt": "2026-08-27T21:04:11.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "cec5fbd41eb98d",
+      "title": "Muniz and García on target in Fulham’s Carabao Cup cruise past Wimbledon",
+      "summary": "Fulham’s second London derby this week, a first competitive win for Álvaro Arbeloa. If AFC Wimbledon represent a different echelon to Chelsea, Monday’s visitors, Thursd...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/fulham-wimbledon-carabao-cup-second-round-match-report",
+      "publishedAt": "2026-08-27T21:01:15.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c86759aef30c53",
+      "title": "Ipswich sign Argentina World Cup winner Palacios",
+      "summary": "Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77048xg87jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T20:54:31.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -214,7 +228,7 @@
       "summary": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/articles/cew91j189v2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T07:53:09.000Z",
+      "publishedAt": "2026-08-27T20:48:03.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -222,199 +236,291 @@
       ]
     },
     {
-      "id": "76aa3292f9da4d",
-      "title": "David Ornstein confirms Liverpool ‘agreement’ to sign Bradley Barcola as package terms revealed",
-      "summary": "Respected reporter David Ornstein has revealed that Liverpool have now struck an ‘agreement’ with Paris Saint-Germain to sign Bradley Barcola.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/david-ornstein-confirms-liverpool-agreement-sign-bradley-barcola-terms-revealed",
-      "publishedAt": "2026-08-27T07:50:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "06025ca4f750d5",
-      "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
-      "summary": "Today’s fluff knows how to live Ollie Watkins is on his way out and Nicolas Jackson is about to arrive but not all is straightforward in the world of Aston Villa’s tran...",
+      "id": "8ffcc704e4200e",
+      "title": "Danny Welbeck leads Chelsea past Luton as Fernández misses Carabao Cup tie",
+      "summary": "One Argentinian is about to arrive and another looks destined for the exit. Chelsea have dealt with their most glaring weakness, Xabi Alonso’s desire for a new goalkeep...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez",
-      "publishedAt": "2026-08-27T07:43:15.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ea1533681fb9a6",
-      "title": "Chelsea in talks to sign Atalanta defender Ahanor",
-      "summary": "Chelsea are in talks to sign 18-year-old Atalanta and Italy defender Honest Ahanor for £34.3m.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T07:28:01.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "23ebae81576cec",
-      "title": "Bruno is Man Utd’s Batman. And their fans should cheer the f*** up…",
-      "summary": "The Mailbox’s message to Manchester United fans: Always look on the bright side of life… and cherish Bruno Fernandes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mailbox-bruno-fernandes-man-utds-batman-arsenal-chelsea-delap",
-      "publishedAt": "2026-08-27T07:25:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "81ea3d60c22a5a",
-      "title": "Romano reveals Chelsea ‘agreement done’ for £34m star as Martinez ‘gives green light’",
-      "summary": "Fabrizio Romano has revealed that Chelsea are closing in on another signing, while they have a “green light” to land Emiliano Martinez.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-chelsea-agreement-done-34m-star-martinez-gives-green-light",
-      "publishedAt": "2026-08-27T07:07:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "54d3a0e501ec84",
-      "title": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
-      "summary": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021 Five years is a long time in football. Manchester Unit...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale",
-      "publishedAt": "2026-08-27T07:00:07.000Z",
+      "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-luton-carabao-cup-second-round-match-report",
+      "publishedAt": "2026-08-27T20:40:13.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
+        "Chelsea",
         "Manchester"
       ]
     },
     {
-      "id": "20c7757c172072",
-      "title": "The big transfer stories to follow in the final week of the summer window",
-      "summary": "Bradley Barcola, Julián Alvarez, Enzo Fernández and Cody Gakpo could be on the move in the next few days By WhoScored Every transfer window has at least one saga that d...",
+      "id": "0f3426e7971c4c",
+      "title": "Rangers crash out of Conference League in shootout loss to Czech side Jablonec",
+      "summary": "Jablonec 1-0 Rangers (1-1 on agg; 4-3 on penalties) Motherwell suffer 7-2 aggregate defeat to Freiburg Rangers were left reeling as they crashed out of the Uefa Confere...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/who-scored-blog/2026/aug/27/transfer-window-barcola-alvarez-fernandez-gakpo-liverpool-arsenal-manchester-city-spurs",
-      "publishedAt": "2026-08-27T07:00:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "34aabdf5747d0d",
-      "title": "Next Man Utd manager: slim pickings if Carrick can’t spark Red Devils",
-      "summary": "Manchester United’s opening-day defeat to Hull was dispiriting enough to already be considering the alternatives to Michael Carrick. Of which there are few…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
-      "publishedAt": "2026-08-27T06:53:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3b4f9c7e2cc588",
-      "title": "The 80 Prem players left out on opening day feat. Chelsea bomb squad and Arsenal exiles",
-      "summary": "The Premier League’s opening weekend left some players with questions over the futures after no making the bench…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-players-left-out-opening-day-2026-27",
-      "publishedAt": "2026-08-27T06:48:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "adc4f2d458c95e",
-      "title": "Liverpool: Romano makes Barcola ‘imminent’ claim as another report insists deal is done",
-      "summary": "A new report has claimed that Bradley Barcola to Liverpool is now ‘done’, while Fabrizio Romano has provided another update.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-barcola-imminent-claim-deal-done-psg-agreement",
-      "publishedAt": "2026-08-27T06:33:09.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2aa7b9b06a88d4",
-      "title": "Premier League transfer net spend table for 26/27 season: Chelsea, Spurs, Arsenal, Ipswich (!)",
-      "summary": "We all know Chelsea and Tottenham are spending all the money but where do they stand on the net spend Premier League table?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-transfer-net-spend-table-for-26-27-season",
-      "publishedAt": "2026-08-27T06:00:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2a0828642d3c38",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd777qnlxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T05:59:44.000Z",
+      "url": "https://www.theguardian.com/football/2026/aug/27/europa-conference-league-rangers-jablonec-brighton",
+      "publishedAt": "2026-08-27T20:38:42.000Z",
       "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "b971c4b8c46a56",
+      "title": "Man City to drop £200m on double signing with Enzo Fernandez agreement struck",
+      "summary": "Manchester City are preparing an £80m bid for a Premier League winger, while there’s a huge hint Enzo Fernandez is reuniting with Enzo Maresca too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-200m-double-signing-huge-clue-enzo-fernandez-deal-done",
+      "publishedAt": "2026-08-27T20:14:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2d68919227f3f0",
+      "title": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+      "summary": "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove him Anyone who interpreted Uefa’s decision to with...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "publishedAt": "2026-08-27T19:00:36.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T18:32:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7ec83578ab52d9",
+      "title": "Chelsea agree £7.5m fee for Villa's Martinez",
+      "summary": "Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T18:28:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "fc86daf93baf07",
+      "title": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
+      "summary": "Wantaway Enzo Fernández left out of Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkee...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez",
+      "publishedAt": "2026-08-27T18:19:59.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "71a7a655701a51",
+      "title": "Romano gives ‘here we go’ to second Chelsea signing of the day after big Fernandez news",
+      "summary": "Fabrizio Romano has given his second ‘here we go’ confirmation of the day to a Chelsea signing with Emiliano Martinez set to join.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-romano-here-we-go-martinez-aston-villa",
+      "publishedAt": "2026-08-27T18:17:52.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "4bffe270aa2cc9",
+      "title": "Liverpool come to Sarr conclusion as potential Minteh U-turn hint is revealed",
+      "summary": "Liverpool are reportedly continuing their pursuit of Ismaila Sarr despite their opening proposal being knocked back by Crystal Palace.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-sarr-conclusion-minteh-u-turn-hurzeler-brighton",
+      "publishedAt": "2026-08-27T17:58:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bd30feaf7fac64",
+      "title": "Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG",
+      "summary": "Manchester United will host Bayern Munich Aston Villa welcome PSG; Liverpool go to Inter Arsenal face mouthwatering assignments against Real Madrid and Bayern Munich as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/champions-league-draw-arsenal-face-real-madrid-as-manchester-city-get-psg",
+      "publishedAt": "2026-08-27T17:44:25.000Z",
+      "category": "transfer",
+      "region": "england spain italy france germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e72f24692c89ea",
+      "title": "UCL draw: Arsenal, Man Utd, Liverpool, Man City and Aston Villa find out opponents",
+      "summary": "Last year’s finalists Arsenal will face Real Madrid and Bayern Munich in the league phase of the Champions League.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/champions-league-draw-arsenal-man-utd-liverpool-man-city-aston-villa",
+      "publishedAt": "2026-08-27T17:38:52.000Z",
+      "category": "ucl",
+      "region": "england spain germany",
+      "tags": [
+        "Champions League",
+        "Arsenal",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f9dbbedd95e46f",
+      "title": "Man City and Aston Villa to face champions PSG",
+      "summary": "European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T17:32:55.000Z",
+      "category": "ucl",
+      "region": "england france",
+      "tags": [
+        "Premier League",
+        "Champions League",
+        "Manchester",
+        "Psg"
+      ]
+    },
+    {
+      "id": "3de32f577d29fc",
+      "title": "Is NBC’s Premier League coverage in the US too English? | Leander Schaerlaeckens",
+      "summary": "One wonders when, if ever, a US broadcast can win the same plaudits presenting the English league with a more American voice There they were again, signaling with their...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/nbcs-premier-league-coverage-in-the-us-is-excellent-but-is-it-too-english",
+      "publishedAt": "2026-08-27T16:36:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "07129f1e550d42",
+      "title": "Ornstein reveals Arsenal have ‘agreed deal’ for next exit as star takes ‘next step",
+      "summary": "Premier League champions Arsenal have agreed to terminate Reiss Nelson’s contract by mutual consent, according to David Ornstein.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-ornstein-agreed-deal-nelson-terminated-contract",
+      "publishedAt": "2026-08-27T16:33:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ac0bee18dbc00a",
+      "title": "Transfer rumour ranking: Man City’s £80m part-ex deal, Arsenal encouraged over Alvarez",
+      "summary": "Julian Alvarez could be left with no other option than Arsenal, while Liverpool made progress with one winger but failed a bid for another…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfer-window-summer-2026-rumours-ranked",
+      "publishedAt": "2026-08-27T16:13:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d01b537985ca61",
+      "title": "Sutton's predictions v Royal Blood drummer Ben Thatcher",
+      "summary": "BBC Sport football expert Chris Sutton takes on Royal Blood drummer Ben Thatcher, plus the BBC readers and AI with his predictions for this weekend's Premier League fix...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c204dj7vng2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T16:04:56.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ba2b9e3d72d003",
+      "title": "Rafael Leao makes decision between Aston Villa and Galatasaray amid Romano update",
+      "summary": "Rafael Leao has reportedly made his choice between Aston Villa and Galatasaray as the two teams battle it out to sign the AC Milan winger.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-rafael-leao-galatasaray-decision-romano-update",
+      "publishedAt": "2026-08-27T16:03:30.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "87799edf616fff",
+      "title": "Nigeria's football leadership resigns amid governance concerns",
+      "summary": "The president, general secretary and executive committee of the Nigeria Football Federation all resign, leaving a leadership vacuum.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpvezz222l7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T16:02:36.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
       ]
     },
     {
-      "id": "109c4ba27accb9",
-      "title": "Spurs break £300m mark in 10 biggest spenders of 2026 summer transfer window",
-      "summary": "Seven Premier League clubs are in the ten biggest spenders for the summer of 2026, with Chelsea back in their favourite spot at the top.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/summer-2026-transfer-window-biggest-spenders-clubs",
-      "publishedAt": "2026-08-27T05:39:50.000Z",
+      "id": "f5be632d06cbaf",
+      "title": "Forward Cho becomes Hull's 12th summer signing",
+      "summary": "Hull City sign French forward Mohamed-Ali Cho from Ligue 1 side Nice on a five-year contract.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2q77e1931o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T15:56:30.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "france",
       "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
+        "Ligue 1"
       ]
     },
     {
-      "id": "4597130ebd8966",
-      "title": "Uefa to push to remove Infantino after dropping boycott",
-      "summary": "Uefa dropped their plans to boycott Fifa tournaments on Wednesday, but will still move forward with efforts to remove Gianni Infantino.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4emmmn9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T05:36:38.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "id": "c4a1c8bf54b840",
+      "title": "‘I can’t wait’: Liam Delap seals £45m Nottingham Forest move from Chelsea",
+      "summary": "Chelsea agree to sign 18-year-old Ahanor for £40m Aston Villa land Goretzka after Bayern exit Nottingham Forest have completed the signing of the Chelsea striker Liam D...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/27/liam-delap-signs-nottingham-forest-chelsea-transfer-latest",
+      "publishedAt": "2026-08-27T15:52:27.000Z",
+      "category": "transfer",
+      "region": "england germany",
       "tags": [
-        "Fifa",
-        "Uefa"
+        "Football",
+        "Transfer",
+        "Chelsea",
+        "Bayern"
       ]
     },
     {
@@ -423,7 +529,7 @@
       "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
       "source": "Football365",
       "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-08-27T05:35:02.000Z",
+      "publishedAt": "2026-08-27T15:45:02.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -432,165 +538,71 @@
       ]
     },
     {
-      "id": "1ae5ae6d15d019",
-      "title": "Arsenal behind only £845m Chelsea in five-year net spend table",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-08-27T05:25:09.000Z",
+      "id": "c45eb7269d90ec",
+      "title": "Villa sign Goretzka - what went wrong at Bayern and what will he bring?",
+      "summary": "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T15:39:49.000Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3f8748f3437adf",
-      "title": "Is Saka getting back to his best at Arsenal?",
-      "summary": "Bukayo Saka has struggled to produce his best on a consistent basis in recent months, but could be getting back to top form this season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz0z7jyepgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T05:20:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f3272b66d7d1a6",
-      "title": "Women’s Super League 2026-27 preview No 6: Chelsea",
-      "summary": "There has been plenty of change over the summer at Stamford Bridge after last season left sour taste Guardian writers’ predicted position: 3rd (NB: this is not necessar...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/womens-super-league-2026-27-preview-no-6-chelsea",
-      "publishedAt": "2026-08-26T23:01:25.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "4642da4916729e",
-      "title": "'Mini-Rodri' Gonzalez shown he will be loved at Newcastle",
-      "summary": "Nico Gonzalez is given a rapturous welcome before Newcastle's Carabao Cup win against West Brom following the £52m midfielder's arrival from Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz3ky2kqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T22:52:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "94ede8c3ca7e24",
-      "title": "Slovan Bratislava through in Champions League after extra-time brilliance",
-      "summary": "A brilliant flick over the keeper from Cristian Martinez in extra time is enough to get Slovan Bratislava past Celje and in to the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yd97rqq0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T22:37:30.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "e618b3e50f2278",
-      "title": "How to follow Thursday's Champions League draw - and who is in each pot?",
-      "summary": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T22:05:08.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "336aa2b8d0994c",
-      "title": "AEK Athens cruise past Levski Sofia with dominant 4-0 win",
-      "summary": "AEK Athens are through to the Champions League with a comfortable 4-0 win against Levski Sofia.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c23xk90x3zko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T21:50:40.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "0c4ef32a721640",
-      "title": "Man Utd consider making contact for transfer of German under-21 defender",
-      "summary": "Manchester United are ‘considering making official contact’ with Stuttgart for the signing of their German under-21 defender, who the Red Devils have scouted.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-contact-finn-jeltsch",
-      "publishedAt": "2026-08-26T21:45:21.000Z",
-      "category": "transfer",
-      "region": "england",
+      "region": "germany",
       "tags": [
         "Transfer",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "063dc5bb2fdf6c",
+      "title": "Fiorentina in talks with Man United over Zirkzee loan",
+      "summary": "Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz9lllx3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T15:34:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "3c7879b6c2d3a1",
-      "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-      "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head...",
+      "id": "9ad1a4dbdb5d77",
+      "title": "Man Utd legend names perfect Baleba follow-up signing but admits FFP concerns",
+      "summary": "Robson wants to see his old club prioritise a move for a top Premier League star before deadline day, who is believed to be valued in and around £60million.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-bryan-robson-wants-lewis-hall-signing",
+      "publishedAt": "2026-08-27T15:33:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "d8c52980e61d3c",
+      "title": "Romano gives ‘here we go’ to next Chelsea transfer as Blues close in on two deals",
+      "summary": "Chelsea are closing in on the signings of Honest Ahanor and Emiliano Martinez, according to updates from Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-romano-here-we-go-ahanor-transfer-martinez-aston-villa",
+      "publishedAt": "2026-08-27T15:33:48.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "83c299e82e9401",
+      "title": "Spurs paying price for World Cup and pre-season trip to Australia",
+      "summary": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
-      "publishedAt": "2026-08-26T21:39:14.000Z",
-      "category": "league",
-      "region": "spain",
+      "url": "https://www.theguardian.com/football/2026/aug/27/spurs-squad-pre-season-charlton-carabao-cup-newcastle",
+      "publishedAt": "2026-08-27T15:27:04.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Football",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "eeb9099b548b3c",
-      "title": "Viking reach Champions League for first time with victory over Dinamo Zagreb",
-      "summary": "Viking shock Dinamo Zagreb with a 3-1 win to book their place in the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdx0rd2z8pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T21:34:39.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "cf6b4786eb7faf",
-      "title": "Liverpool to face Tottenham in EFL Cup third round",
-      "summary": "Liverpool face Tottenham in the third round of the EFL Cup, Manchester United play Brighton and Manchester City draw Norwich.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62mr6pv65zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T21:33:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e48e942115f5a4",
-      "title": "Fenerbahce back in the Champions League after 18 years",
-      "summary": "Goals from Vedat Muriqi and Archie Brown prove to be enough for Fenerbahce to get past Lyon and in to the league stage of the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgywl4k0e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T21:26:36.000Z",
-      "category": "ucl",
-      "region": "france",
-      "tags": [
-        "Champions League"
+        "World Cup"
       ]
     }
   ],
