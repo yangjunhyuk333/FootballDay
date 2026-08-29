@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-28T21:59:04.983Z",
+  "generatedAt": "2026-08-29T06:29:14.171Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "8a6a66db04ab7f",
-      "title": "Villa confirm club-record Jackson signing as deal agreed for Mbaye",
-      "summary": "Aston Villa have confirmed the club-record signing of Nicolas Jackson from Chelsea while also reaching a verbal agreement to sign Paris Saint-Germain winger Ibrahim Mba...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578279/nicolas-jackson-transfer-news-aston-villa-confirm-club-record-65m-signing-as-deal-agreed-to-sign-ibrahim-mbaye-from-psg",
-      "publishedAt": "2026-08-28T21:59:04.779Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": "f9f09007f941e8",
       "title": "Papers: Arsenal hold talks with Real Madrid for Endrick",
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578352/arsenal-transfer-news-gunners-hold-talks-for-real-madrid-and-brazil-forward-endrick-paper-talk",
-      "publishedAt": "2026-08-28T21:59:04.778Z",
+      "publishedAt": "2026-08-29T06:29:13.880Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -127,40 +114,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "763c75925d6cc3",
-      "title": "Europa League and Conference League draws: British teams learn opponents",
-      "summary": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
+      "id": "d1b6a8b47caad3",
+      "title": "Redknapp: Cherki is a genius",
+      "summary": "Jamie Redknapp hailed Rayan Cherki as a genius after he scored twice to inspire Manchester City to a 4-1 win over Crystal Palace at Selhurst Park.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578045/europa-league-and-conference-league-draws-celtic-bournemouth-sunderland-crystal-palace-brighton-hearts-learn-opponents",
-      "publishedAt": "2026-08-28T21:59:04.778Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Serie A",
-        "Europa League",
-        "Milan"
-      ]
-    },
-    {
-      "id": "7ba2d55c88da0d",
-      "title": "'Bomba!' De Zerbi delighted as Spurs transfers create 'great squad'",
-      "summary": "\"Savio is 'bomba'. All players we brought, I think are 'bomba'!\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578157/tottenham-roberto-de-zerbi-delighted-with-spurs-transfer-business-after-dramatic-premier-league-survival-last-season",
-      "publishedAt": "2026-08-28T21:59:04.778Z",
+      "url": "https://www.skysports.com/football/news/12040/13578411/rayan-cherki-is-a-genius-who-just-painted-a-masterpiece-for-man-city-at-crystal-palace-says-jamie-redknapp",
+      "publishedAt": "2026-08-29T06:29:13.879Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Manchester"
       ]
     },
     {
-      "id": "9bb2e9b6f7f8cc",
-      "title": "Cherki magic inspires vintage Man City victory at Palace",
-      "summary": "Rayan Cherki did his best Lionel Messi impression, producing moments of pure magic as Enzo Maresca's Manchester City stayed perfect in the Premier League with a 4-1 win...",
+      "id": "f906310eed520c",
+      "title": "City thrash Palace to give Maresca two wins from two",
+      "summary": "Highlights from Crystal Palace against Manchester City in the Premier League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/crystal-palace-vs-manchester-city/report/559458",
-      "publishedAt": "2026-08-28T21:59:04.778Z",
+      "url": "https://www.skysports.com/watch/video/13578387/crystal-palace-1-4-manchester-city-premier-league-highlights",
+      "publishedAt": "2026-08-29T06:29:13.877Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -169,16 +141,128 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f3106a00905f7e",
-      "title": "Atletico set deadline for Alvarez decision on staying or move to Arsenal",
-      "summary": "Atletico Madrid have given Julian Alvarez until Sunday to make a decision; open up to the idea of a move to Arsenal or stay at the club.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578318/julian-alvarez-transfer-news-atletico-madrid-set-deadline-for-striker-to-decide-whether-he-stays-or-joins-arsenal",
-      "publishedAt": "2026-08-28T21:59:04.778Z",
+      "id": "21e6cb93df0e1e",
+      "title": "Empty seats, wasted miles – the Swiss scheme the Premier League should steal",
+      "summary": "There are few things English football supporters need less than another lecture about how they should travel to matches. Take the train, clubs tell them. Leave the car...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-should-steal-swiss-carpooling-trains-fans",
+      "publishedAt": "2026-08-29T06:08:20.000Z",
       "category": "transfer",
-      "region": "england spain",
+      "region": "england",
       "tags": [
-        "Arsenal"
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "91e85728744f77",
+      "title": "Six Premier League teams one bad game away from a crisis already",
+      "summary": "Football media loves a crisis and there is more than one contender already this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-teams-one-bad-game-away-crisis",
+      "publishedAt": "2026-08-29T06:05:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a32e604957dc9d",
+      "title": "The 50-year-old amateur footballer who became a viral inspiration",
+      "summary": "Craig Kirby thought about quitting football following the death of his son - at 50, he didn't expect to go viral documenting his final season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jpyd1rno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T05:30:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "bc0d300f8fdf3f",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T05:18:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "2e4664ee5b4c2f",
+      "title": "Let's be brave about being in Premier League - Coventry's Lampard",
+      "summary": "Frank Lampard and Tom Grennan discuss why Coventry will be playing brave football in the Premier League this season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3r02929wllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T05:13:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "574c78d9f159d2",
+      "title": "European football: PSG scramble another draw while Bayern make flying start",
+      "summary": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
+      "publishedAt": "2026-08-28T23:15:23.000Z",
+      "category": "league",
+      "region": "france germany",
+      "tags": [
+        "Football",
+        "Ligue 1",
+        "Psg",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "5704b698bcdc7c",
+      "title": "A magician and a maverick - this could be Cherki's moment for Man City",
+      "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T22:56:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8d98004d270b88",
+      "title": "Fabrizio Romano reveals Endrick ‘decision’ on joining Arsenal from Real Madrid",
+      "summary": "Fabrizio Romano has reported whether Arsenal would be able to sign Endrick from Real Madrid in the final days of the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-arsenal-endrick-2026-summer-transfer-latest",
+      "publishedAt": "2026-08-28T21:59:46.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "335547cda4cd9f",
+      "title": "Palace lost hope at 3-1 - Sage",
+      "summary": "Crystal Palace boss Pierre Sage reacts to their 4-1 defeat by Manchester City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c770408jzeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T21:59:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -195,6 +279,20 @@ window.FOOTBALLDAY_DATA = {
         "Premier League",
         "Transfer",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "95f3edbe9e13a8",
+      "title": "Haaland and Cherki fire impressive Man City to victory at Palace",
+      "summary": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T21:30:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -456,7 +554,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "8a4142072b1527",
-      "title": "Man Utd sign Swedish winger Jusu Bah for £400k",
+      "title": "Man Utd sign Swedish winger Jusu Bah for £400K",
       "summary": "Manchester United have confirmed the signing of Sweden winger Monica Jusu Bah from BK Hacken for just under £400,000.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
@@ -498,20 +596,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "bd19a65dbcf911",
-      "title": "Brighton appoint Arturo Ruiz as head coach following exit of Dario Vidosic",
-      "summary": "Ruiz led Real Sociedad to Champions League qualifying Vidosic frontrunner to take over NWSL side Angel City Brighton have confirmed the appointment of Arturo Ruiz from...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/27/dario-vidosic-to-step-down-as-brighton-manager-just-before-new-wsl-season",
-      "publishedAt": "2026-08-28T16:00:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League"
-      ]
-    },
-    {
       "id": "ae9d9789573999",
       "title": "Ornstein reveals Aston Villa ‘agreement in principle’ to sign PSG star after Liverpool step side",
       "summary": "Respected reporter David Ornstein has revealed that Aston Villa have struck an ‘agreement’ to sign PSG star Ibrahim Mbaye.",
@@ -523,93 +607,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Liverpool",
         "Psg"
-      ]
-    },
-    {
-      "id": "5402017659f8be",
-      "title": "Rangers count consequences of 'devoid of quality' European failure",
-      "summary": "A bruising loss in the Czech Republic gives Rangers pause on various fronts as European football eludes Derek McInnes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24j564e76jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T15:18:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5a30adc8d14146",
-      "title": "O'Neill hopeful on transfers despite Champions League play-off exit",
-      "summary": "Celtic manager Martin O'Neill hopes missing out on the Champions League will not mean missing out on prospective targets.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c790zjlw2v0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T15:16:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "6e31d838a03fa3",
-      "title": "Endrick reaches decision on joining Arsenal from Real Madrid as approach made",
-      "summary": "Arsenal have expressed interest in signing the Brazilian sensation, and he has decided whether to join, as per Fabrizio Romano",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-news-endrick-reaches-decision-transfer-real-madrid-approach",
-      "publishedAt": "2026-08-28T15:12:22.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "37a61d77347fa7",
-      "title": "French star’s ‘desire’ is to join Man Utd before summer transfer window closes",
-      "summary": "A Ligue 1 left-back is willing to move to Manchester United before the summer transfer window closes next week.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-brest-bradley-locko",
-      "publishedAt": "2026-08-28T15:10:18.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Ligue 1",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bf67fb7d3a9999",
-      "title": "Division, drama and power - what next for Infantino and Uefa?",
-      "summary": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T15:00:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "432f18244bb6d7",
-      "title": "De Zerbi wants one more signing for Tottenham before transfer deadline",
-      "summary": "Spurs head coach pushing for ‘one specific position’ Tottenham could offload players at end of hectic window Roberto De Zerbi is keen to add one more signing to his Tot...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/28/tottenham-roberto-de-zerbi-premier-league-transfer-deadline-window",
-      "publishedAt": "2026-08-28T14:52:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool",
-        "Manchester"
       ]
     }
   ],
