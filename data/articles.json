@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:40:44.008Z",
+  "generatedAt": "2026-08-30T11:35:45.727Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,38 +99,38 @@
       "pinned": true
     },
     {
-      "id": "f9880d8ca57b05",
-      "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
-      "summary": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
+      "id": "25004564a32c67",
+      "title": "Chelsea vs Brighton team news LIVE!",
+      "summary": "Chelsea vs Brighton team news LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-30T04:40:43.689Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "ea76e0de940a2e",
-      "title": "Europa League and Conference League fixtures confirmed",
-      "summary": "Sunderland, Crystal Palace, Bournemouth, Brighton, Celtic and Hearts have learned the details of their Europa League and Conference League fixtures this season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
-      "publishedAt": "2026-08-30T04:40:43.689Z",
+      "url": "https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/live/559456",
+      "publishedAt": "2026-08-30T11:35:45.449Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Europa League"
+        "Chelsea"
       ]
     },
     {
-      "id": "9849a39e8ac387",
-      "title": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
-      "summary": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
+      "id": "f63f8d92e5bf3a",
+      "title": "Chelsea sign Martinez in £7.5m deal from Villa",
+      "summary": "Chelsea have signed Emi Martinez from Aston Villa on a three-year deal.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-30T04:40:43.689Z",
+      "url": "https://www.skysports.com/football/news/12040/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
+      "publishedAt": "2026-08-30T11:35:45.448Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "28eb03805385db",
+      "title": "Today on Sky Sports Racing: British raiders on show at Deauville",
+      "summary": "There is plenty of British interest on a quality card at Deauville this Sunday, all live on Sky Sports Racing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13578151/today-on-sky-sports-racing-british-raiders-into-the-sky-and-mitbaahy-on-show-at-deauville",
+      "publishedAt": "2026-08-30T11:35:45.448Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -143,12 +143,219 @@
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
-      "publishedAt": "2026-08-30T04:40:43.687Z",
+      "publishedAt": "2026-08-30T11:35:45.448Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "adf289f02a05ce",
+      "title": "Hamburg in advanced talks for Arsenal's Vieira",
+      "summary": "Hamburg are in advanced talks to buy Arsenal midfielder Fabio Vieira in a 10m euro (£8.6m) deal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ymvz83dy1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T11:27:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3f7d52c9462ba5",
+      "title": "Newcastle ‘exploring’ late move to sign Cameroonian striker and ‘close to agreement’ for another forward",
+      "summary": "Newcastle United are aiming to sign two forwards from the Bundesliga before the summer transfer window closes on Tuesday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/newcastle-united-christian-kofane-matias-fernandez-pardo",
+      "publishedAt": "2026-08-30T11:22:24.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Bundesliga",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "6932b30ee2adc2",
+      "title": "Transfer latest as Chelsea sign Martínez, Premier League buildup and more – matchday live",
+      "summary": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
+      "publishedAt": "2026-08-30T11:17:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6ae1be14604a65",
+      "title": "Tottenham respond to Cody Gakpo snub by raiding Everton – ‘Agreement in principle reached’",
+      "summary": "Tottenham Hotspur have a deal in place to sign an Everton winger after Cody Gakpo decided to join Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-sign-iliman-ndiaye-everton",
+      "publishedAt": "2026-08-30T10:11:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "676ad3b5677790",
+      "title": "Xabi Alonso reaches decision on selling Jamie Gittens as Chelsea make brutal Robert Sanchez transfer call",
+      "summary": "Chelsea manager Xabi Alonso has decided on the futures of Jamie Gittens and Robert Sanchez, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jamie-gittens-robert-sanchez-chelsea-xabi-alonso-final-decision",
+      "publishedAt": "2026-08-30T09:38:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "45d073ae573345",
+      "title": "All done deals in August 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T09:29:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7d74708d20c3be",
+      "title": "Teenage Cardiff midfielder Donczew joins Arsenal",
+      "summary": "Cardiff City teenager Axel Donczew has joined Arsenal as part of the Premier League champions' first-year scholarship intake.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy6z3j04mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T09:21:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0994274e2f2807",
+      "title": "Tottenham switch focus to Milan playmaker after Cody Gakpo picks Man City",
+      "summary": "Spurs have been left reeling by the news that Cody Gakpo has changed his mind about moving to north London and is instead on his way to Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-switch-focus-christian-pulisic-after-gakpo-picks-man-city",
+      "publishedAt": "2026-08-30T09:15:56.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "87b4a66e299db5",
+      "title": "Martinez is eighth Chelsea-Villa deal in four years",
+      "summary": "After Emiliano Martinez's move, BBC Sport looks at why Aston Villa and Chelsea have become one of the Premier League’s busiest transfer partnerships since 2022.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T08:51:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "219313f2b2e837",
+      "title": "Barcola - the 'grasshopper' who has overcome setbacks",
+      "summary": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T07:38:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "241327fbdefd60",
+      "title": "Aston Villa respond to Man Utd enquiry for Ian Maatsen",
+      "summary": "Aston Villa have made up their mind on whether or not to sell Ian Maatsen to Manchester United before Tuesday’s transfer deadline.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-ian-maatsen-manchester-united-decision-reached",
+      "publishedAt": "2026-08-30T07:30:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0818c2669ed55b",
+      "title": "Antonio helps young Ghanaians chase Premier League dreams",
+      "summary": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T07:01:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e22a0dc02a930d",
+      "title": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
+      "summary": "Striker talks life in the UAE, problems with the Azzurri and ‘special feeling’ of playing for Manchester City Whenever the name Mario Balotelli is brought up, particula...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity",
+      "publishedAt": "2026-08-30T07:00:50.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "55372601d9e52d",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd0q82zpxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T06:22:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "1c06a1121afbbf",
+      "title": "Newly promoted Elversberg stun Leverkusen in five-goal thriller",
+      "summary": "Bundesliga newcomers Elversberg hold on to secure a famous 3-2 win over Bayer Leverkusen at home. Elversverg has a population of just 13,000 people and is the smallest...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zyqdnxlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T23:07:02.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
       ]
     },
     {
@@ -246,19 +453,6 @@
       "region": "england italy",
       "tags": [
         "Juventus"
-      ]
-    },
-    {
-      "id": "45d073ae573345",
-      "title": "All done deals in August 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T20:41:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -395,199 +589,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "06ba63cff1a0f2",
-      "title": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
-      "summary": "‘I don’t think we can afford to lose any players,’ says Moyes Forest’s Armstrong bid said to be £40m; Palace agree £22m fee The sale of the 19-year-old Harrison Armstro...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
-      "publishedAt": "2026-08-29T18:14:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "eb6c94972eafd0",
-      "title": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
-      "summary": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T18:03:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Five-year net spend table has Man City in distant sixth",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-08-29T17:25:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "28d53a117914c9",
-      "title": "Fabrizio Romano confirms £21m star leaving Tottenham as Juventus ‘offered’ deal",
-      "summary": "Juve have been given the chance to sign a Spurs star who has been replaced amid De Zerbi’s squad overhaul, as per Fabrizio Romano",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-transfer-news-pape-sarr-exit-fabrizio-romano-juventus",
-      "publishedAt": "2026-08-29T17:23:04.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Juventus"
-      ]
-    },
-    {
-      "id": "1c7ada90412434",
-      "title": "Lampard struggling after embarrassing Coventry oversight on long-awaited return",
-      "summary": "Coventry have failed to heed the lessons issued by Sunderland and Nottingham Forest, with Frank Lampard losing an early six-pointer to Hull.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/coventry-hull-match-reaction-lampard-relegation",
-      "publishedAt": "2026-08-29T16:27:57.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "091222a1cb57ab",
-      "title": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
-      "summary": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship trans...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
-      "publishedAt": "2026-08-29T16:15:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "2a349553d4cc63",
-      "title": "The tiny town aiming to defy odds in Bundesliga debut",
-      "summary": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T16:14:34.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "529f081e248636",
-      "title": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
-      "summary": "Perhaps last Saturday’s triumph was not a one-off. Hull backed up a shock victory against Manchester United by maintaining their 100% start to the Premier League and co...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/coventry-hull-premier-league-match-report",
-      "publishedAt": "2026-08-29T16:11:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2c5d290eb50395",
-      "title": "Liverpool’s Andoni Iraola angered by substitution delay before Forest penalty",
-      "summary": "Fourth official appeared to struggle with electronic boards ‘I wanted to make those substitutions about three minutes before’ Andoni Iraola bemoaned a poor first-half d...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-manager-andoni-iraola-substitution-delay-before-forest-penalty-football-premier-league",
-      "publishedAt": "2026-08-29T15:55:24.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "424fbd35799e35",
-      "title": "'That trust isn't there' - how does Iraola get best out of Isak?",
-      "summary": "Alexander Isak scored his first goal of the season in the 2-2 draw against Nottingham Forest - but how do Liverpool get the best out of him?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjq65nvw38o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T15:49:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a2bd768cb3a2ea",
-      "title": "Iraola angry as official's board delays subs before goal",
-      "summary": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T15:27:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b88c97ddfb65a7",
-      "title": "Winger desperate to join Liverpool as FSG continue talks over transfer",
-      "summary": "A Senegal international winger is pushing for a move to Liverpool before the summer transfer window closes next week.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ismaila-sarr-liverpool-crystal-palace-transfer-latest",
-      "publishedAt": "2026-08-29T15:22:34.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "b51aea9d0f89b2",
-      "title": "Arsenal complete signing of Man Utd forward with 24 international caps",
-      "summary": "The left winger has departed United to join Arsenal on a two-year contract, Mikel Arteta’s side have confirmed",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfers-news-signing-james-scanlon-man-utd-exit-confirmed",
-      "publishedAt": "2026-08-29T15:03:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9045807c700c1b",
-      "title": "Iraola echoes Roberto Martinez as Liverpool prepare to ask ‘who the f***’ they appointed",
-      "summary": "The impact of Andoni Iraola is clear in this Liverpool attack, but not yet in what remains an absolute defensive shambles.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/iraola-echoes-everton-martinez-liverpool-comedic-goals",
-      "publishedAt": "2026-08-29T14:44:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     }
   ],
