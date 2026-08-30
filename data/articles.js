@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-08-29T20:42:57.310Z",
+  "generatedAt": "2026-08-30T04:40:44.008Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,58 +99,29 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "7d3d52f3e6e487",
-      "title": "Man City open talks to sign Liverpool's Gakpo",
-      "summary": "Manchester City have opened talks with Liverpool to sign Cody Gakpo.",
+      "id": "f9880d8ca57b05",
+      "title": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
+      "summary": "Forest latest: £22m Munoz deal agreed with Hutchinson set for AC Milan loan",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
-      "publishedAt": "2026-08-29T20:42:57.095Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-08-30T04:40:43.689Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6c46c51aa20613",
-      "title": "Another defeat for Spurs as Elanga and Wissa goals seal Magpies win",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Newcastle United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13578834/tottenham-hotspur-0-2-newcastle-premier-league-highlights",
-      "publishedAt": "2026-08-29T20:42:57.095Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "3a50992dfc3b43",
-      "title": "Spurs beaten again as Elanga and Wissa strike for Newcastle",
-      "summary": "Tottenham have lost their first two Premier League matches and failed to score in both as rejuvenated duo Anthony Elanga and Yoane Wissa struck to earn Newcastle a 2-0...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463",
-      "publishedAt": "2026-08-29T20:42:57.095Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
+        "Milan"
       ]
     },
     {
       "id": "ea76e0de940a2e",
-      "title": "Europa League and Conference League fixtures",
-      "summary": "Sunderland will travel to AC Milan in the Europa League and Bournemouth will host the Serie A giants as Brighton and Hearts discovered their Conference League opponents.",
+      "title": "Europa League and Conference League fixtures confirmed",
+      "summary": "Sunderland, Crystal Palace, Bournemouth, Brighton, Celtic and Hearts have learned the details of their Europa League and Conference League fixtures this season.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578346/europa-league-and-conference-league-fixtures-for-celtic-bournemouth-sunderland-crystal-palace-brighton-and-hearts-confirmed",
-      "publishedAt": "2026-08-29T20:42:57.094Z",
+      "publishedAt": "2026-08-30T04:40:43.689Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Serie A",
-        "Europa League",
-        "Milan"
+        "Europa League"
       ]
     },
     {
@@ -159,11 +130,122 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Aston Villa latest: Maatsen to be offered new deal after Man Utd interest",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-29T20:42:57.094Z",
+      "publishedAt": "2026-08-30T04:40:43.689Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "1a225f7c9abdb6",
+      "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13578898/liverpool-transfer-news-reds-continue-talks-with-crystal-palace-to-sign-ismaila-sarr-paper-talk",
+      "publishedAt": "2026-08-30T04:40:43.687Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a966c351f320fd",
+      "title": "Women’s Super League 2026-27 preview No 9: Liverpool",
+      "summary": "Liverpool will hope Germany striker Vivien Endemann and Japanese youngster Mao Itamura can help get them off to a better start than they had last season Guardian writer...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/30/womens-super-league-2026-27-preview-no-9-liverpool",
+      "publishedAt": "2026-08-29T23:01:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5b628306d9d96d",
+      "title": "Why Liverpool aren't getting the best out of Isak",
+      "summary": "BBC Sport pundit Joe Hart believes Alexander Isak dropping deep to receive the ball instead of staying forward is a sign the striker is low in confidence.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zwrwg5d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T22:34:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "660544867509f3",
+      "title": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
+      "summary": "Team from town of 13,000 shock 2024 champions Juventus 2-0 Parma; Sevilla 1-3 Atlético Madrid The Bundesliga newcomers Elversberg began their first top-flight campaign...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
+      "publishedAt": "2026-08-29T21:46:43.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "e3807ec9f5089d",
+      "title": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
+      "summary": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism",
+      "publishedAt": "2026-08-29T21:30:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b77d16981ae81f",
+      "title": "Napoli interested in Woltemade loan - Sunday's gossip",
+      "summary": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Mati...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x1wwgn8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T21:19:11.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Arsenal",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b3c9b9b01826e8",
+      "title": "£300m spent, bottom of the table... but Spurs boss De Zerbi 'not angry'",
+      "summary": "Having spent more than £300m in the summer, Tottenham find themselves bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi remains optimis...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyqn158n5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T21:15:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "68900ce1d026cb",
+      "title": "De Zerbi confirms Tottenham trio signed for £95.5m ‘want to leave’",
+      "summary": "Clubs such as Juventus and Galatasaray could benefit after De Zerbi revealed three Spurs players have asked to leave",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-defeat-newcastle-roberto-de-zerbi-transfer-exits-richarlison",
+      "publishedAt": "2026-08-29T21:08:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Juventus"
       ]
     },
     {
@@ -181,7 +263,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "2aa7b9b06a88d4",
-      "title": "Premier League transfer net spend table for 26/27 season: Spurs, Ipswich, Arsenal, Chelsea…",
+      "title": "Premier League transfer net spend table for 26/27 season: Spurs top despite being rubbish",
       "summary": "We all know Chelsea and Tottenham are spending all the money but where do they stand on the net spend Premier League table?",
       "source": "Football365",
       "url": "https://www.football365.com/news/premier-league-transfer-net-spend-table-for-26-27-season",
@@ -191,7 +273,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Transfer",
-        "Arsenal",
         "Chelsea"
       ]
     },
@@ -211,15 +292,16 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "95b02b899e494a",
       "title": "Man City open talks with Liverpool over Gakpo",
-      "summary": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
+      "summary": "The Netherlands forward has also attracted interest from Tottenham, but sources indicate Manchester City is his preferred destination if he leaves Anfield.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T20:17:18.000Z",
-      "category": "transfer",
-      "region": "england",
+      "category": "league",
+      "region": "england italy",
       "tags": [
         "Liverpool",
-        "Manchester"
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -303,21 +385,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "2fc0071489dd97",
-      "title": "Elanga and Wissa strike as Newcastle extend Spurs’ miserable start to season",
-      "summary": "If ever you wanted to understand the distinction between “winning the transfer market” and winning an actual football match, then this was the game for you. Tottenham’s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/tottenham-newcastle-premier-league-match-report",
-      "publishedAt": "2026-08-29T18:32:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
       "id": "bb5478d46cebd1",
       "title": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
       "summary": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
@@ -331,18 +398,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "660544867509f3",
-      "title": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
-      "summary": "Team from town of 13,000 shock 2024 champions Nkunku returns as RB Leipzig beat Mönchengladbach Bundesliga newcomers Elversberg began their first top-flight campaign in...",
+      "id": "06ba63cff1a0f2",
+      "title": "Transfer roundup: Moyes wants to keep Armstrong while Forest agree Muñoz deal",
+      "summary": "‘I don’t think we can afford to lose any players,’ says Moyes Forest’s Armstrong bid said to be £40m; Palace agree £22m fee The sale of the 19-year-old Harrison Armstro...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
-      "publishedAt": "2026-08-29T18:07:04.000Z",
-      "category": "league",
-      "region": "spain italy germany",
+      "url": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
+      "publishedAt": "2026-08-29T18:14:18.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Football",
-        "Bundesliga",
-        "Juventus"
+        "Transfer"
       ]
     },
     {
@@ -359,6 +425,20 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "1ae5ae6d15d019",
+      "title": "Five-year net spend table has Man City in distant sixth",
+      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Chelsea are back where they belong.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
+      "publishedAt": "2026-08-29T17:25:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
       "id": "28d53a117914c9",
       "title": "Fabrizio Romano confirms £21m star leaving Tottenham as Juventus ‘offered’ deal",
       "summary": "Juve have been given the chance to sign a Spurs star who has been replaced amid De Zerbi’s squad overhaul, as per Fabrizio Romano",
@@ -369,19 +449,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Juventus"
-      ]
-    },
-    {
-      "id": "eba73b03960b05",
-      "title": "Jakirovic urges Hull to 'stay humble' after back-to-back wins",
-      "summary": "Hull City manager Sergej Jakirovic reminds his side to \"stay humble\" after beating Coventry City for their second win in two Premier League games on their return to the...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3eq3vl7k8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T16:54:39.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -426,22 +493,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "5f36c295633ebd",
-      "title": "James Tarkowski pounces at the death as Everton deny Bournemouth win",
-      "summary": "Through wind and rain, the end of summer and a new era at the Vitality. In the Europa League, Milan will visit Dorset and trips to San Sebastián, Galicia, Norway and Cz...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/bournemouth-everton-premier-league-match-report",
-      "publishedAt": "2026-08-29T16:12:19.000Z",
-      "category": "issue",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Europa League",
-        "Milan"
-      ]
-    },
-    {
       "id": "529f081e248636",
       "title": "Hull maintain flying start as Liam Millar’s winner ruins Coventry’s day",
       "summary": "Perhaps last Saturday’s triumph was not a one-off. Hull backed up a shock victory against Manchester United by maintaining their 100% start to the Premier League and co...",
@@ -454,6 +505,21 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Premier League",
         "Manchester"
+      ]
+    },
+    {
+      "id": "2c5d290eb50395",
+      "title": "Liverpool’s Andoni Iraola angered by substitution delay before Forest penalty",
+      "summary": "Fourth official appeared to struggle with electronic boards ‘I wanted to make those substitutions about three minutes before’ Andoni Iraola bemoaned a poor first-half d...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-manager-andoni-iraola-substitution-delay-before-forest-penalty-football-premier-league",
+      "publishedAt": "2026-08-29T15:55:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
@@ -522,77 +588,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "a78d249952a366",
-      "title": "José Mourinho claims Kylian Mbappé should win Ballon d’Or ahead of PSG and Spain stars",
-      "summary": "Real Madrid manager backs his striker to land award ‘The best player in the world is not at PSG or Spain’ José Mourinho has said Kylian Mbappé deserves to win this year...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/jose-mourinho-real-madrid-kylian-mbappe-ballon-dor",
-      "publishedAt": "2026-08-29T14:31:10.000Z",
-      "category": "worldcup",
-      "region": "spain france",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Champions League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "44a656893df03d",
-      "title": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
-      "summary": "Liverpool head coach Andoni Iraola says his side need to \"learn lessons\" after they twice come from behind to draw 2-2 with Nottingham Forest at Anfield.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T14:23:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "46440a378633ea",
-      "title": "'Proud' but 'disappointed' - Glasner's mixed emotions after Liverpool draw",
-      "summary": "Nottingham Forest manager Oliver Glasner says he was \"proud\" of his side's performance at Anfield as they draw 2-2 with Liverpool in the Premier League, and believes th...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8xkj45r2jno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T14:15:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e95685a07c2ef1",
-      "title": "Iraola’s Liverpool start slowly again but Muñoz strike denies Nottingham Forest",
-      "summary": "A malfunctioning electronic board will not have been on anyone’s bingo list of Liverpool complaints for the first Anfield game of Andoni Iraola’s tenure, but others sou...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
-      "publishedAt": "2026-08-29T13:53:41.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "67a5abd7b6360e",
-      "title": "Arsenal now serious option for Newcastle target after Alvarez snub – Arteta is a big fan",
-      "summary": "According to reports, Arsenal have now become a ‘serious option’ for Newcastle United target Matias Fernandez-Pardo.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-now-serious-option-newcastle-target-alvarez-snub-arteta-big-fan",
-      "publishedAt": "2026-08-29T13:40:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
