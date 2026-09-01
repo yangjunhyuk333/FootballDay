@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:39:56.035Z",
+  "generatedAt": "2026-09-01T04:24:43.979Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,16 @@
       "pinned": true
     },
     {
-      "id": "b5246e813d033a",
-      "title": "Man City agree £65m Ndiaye deal as Spurs turn attention to Mudryk",
-      "summary": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
+      "id": "0c49915f0a6215",
+      "title": "Tottenham latest: Defiant Richarlison vows to control own future amid Everton interest",
+      "summary": "Tottenham latest: Defiant Richarlison vows to control own future amid Everton interest",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
-      "publishedAt": "2026-08-31T22:39:55.691Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-01T04:24:43.637Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Manchester"
+        "Inter"
       ]
     },
     {
@@ -117,7 +117,7 @@
       "summary": "The top stories and transfer rumours from Tuesday's Deadline Day back pages...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk",
-      "publishedAt": "2026-08-31T22:39:55.691Z",
+      "publishedAt": "2026-09-01T04:24:43.636Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +130,7 @@
       "summary": "Aston Villa 0-1 Arsenal commentary and highlights",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/live/559454",
-      "publishedAt": "2026-08-31T22:39:55.691Z",
+      "publishedAt": "2026-09-01T04:24:43.636Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -143,7 +143,7 @@
       "summary": "Liverpool have rejected an £80m offer from Manchester City for winger Cody Gakpo, with City turning their attention to Everton's Iliman Ndiaye .",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger",
-      "publishedAt": "2026-08-31T22:39:55.691Z",
+      "publishedAt": "2026-09-01T04:24:43.636Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -157,37 +157,11 @@
       "summary": "FREE STREAM: The Transfer Show on Sky Sports News",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-08-31T22:39:55.691Z",
+      "publishedAt": "2026-09-01T04:24:43.636Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "0c49915f0a6215",
-      "title": "Tottenham latest: Defiant Richarlison vows to control own future amid Everton interest",
-      "summary": "Tottenham latest: Defiant Richarlison vows to control own future amid Everton interest",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-31T22:39:55.691Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "1034a391c16bd8",
-      "title": "Saka earns hard-fought win for Arsenal at Villa",
-      "summary": "Bukayo Saka's goal just before the hour mark was enough for champions Arsenal to maintain their perfect start with a 1-0 win over Aston Villa at Villa Park.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454",
-      "publishedAt": "2026-08-31T22:39:55.690Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     },
     {
@@ -196,11 +170,37 @@
       "summary": "Chelsea latest: Spurs close in on double move for Tosin and Mudryk",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-31T22:39:55.690Z",
+      "publishedAt": "2026-09-01T04:24:43.635Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "b5246e813d033a",
+      "title": "Man City agree £65m Ndiaye deal as Spurs turn attention to Mudryk",
+      "summary": "Manchester City have agreed a £65m deal with Everton for winger Iliman Ndiaye as an alternative to Cody Gakpo.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579541/iliman-ndiaye-transfer-news-man-city-agree-65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk",
+      "publishedAt": "2026-09-01T04:24:43.635Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1034a391c16bd8",
+      "title": "Saka earns hard-fought win for Arsenal at Villa",
+      "summary": "Bukayo Saka's goal just before the hour mark was enough for champions Arsenal to maintain their perfect start with a 1-0 win over Aston Villa at Villa Park.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454",
+      "publishedAt": "2026-09-01T04:24:43.634Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
       ]
     },
     {
@@ -209,7 +209,7 @@
       "summary": "FREE TO WATCH: Highlights from Aston Villa’s match against Arsenal in the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13579605/aston-villa-0-0-arsenal-premier-league-highlights",
-      "publishedAt": "2026-08-31T22:39:55.689Z",
+      "publishedAt": "2026-09-01T04:24:43.633Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -218,9 +218,81 @@
       ]
     },
     {
+      "id": "23f10cda2128ff",
+      "title": "Arteta joins elite 250 club - but where does he rank?",
+      "summary": "At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters sang about how their team will win the league again with Mikel Arteta in charge.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T23:15:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ac1493c7018593",
+      "title": "Women’s Super League 2026-27 preview No 11: Manchester City",
+      "summary": "Beth Mead and Niamh Charles are notable additions to the champions’ squad that looks just as strong as last season Guardian writers’ predicted position: 1st (NB: this i...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/womens-super-league-preview-manchester-city",
+      "publishedAt": "2026-08-31T23:01:38.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bcda19ddf273c2",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T23:00:03.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "fb2cf2eb59e9fa",
+      "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun",
+      "publishedAt": "2026-08-31T22:47:37.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Manchester",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "5862c2002ed72b",
+      "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+      "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+      "publishedAt": "2026-08-31T22:36:50.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
       "id": "235036e45b21ff",
-      "title": "Lamine Yamal and Raphina score twice as Barcelona hit five",
-      "summary": "Lamine Yamal and Raphina score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
+      "title": "Lamine Yamal and Raphinha score twice as Barcelona hit five",
+      "summary": "Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-31T22:31:49.000Z",
@@ -288,11 +360,11 @@
     {
       "id": "bbc2165c403210",
       "title": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
-      "summary": "The smile on Declan Rice’s face a few minutes from time said it all. The Arsenal midfielder had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the...",
+      "summary": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the bo...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
       "publishedAt": "2026-08-31T21:08:55.000Z",
-      "category": "ratings",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football",
@@ -508,7 +580,7 @@
     {
       "id": "4436f625b06b1a",
       "title": "Lionel Messi’s international retirement serves as a reminder: Watch him while you still can",
-      "summary": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end It was among the defining moments of the 2026 World C...",
+      "summary": "The Argentine’s career with Argentina was singular, and his exit is a reminder that all good things come to an end IIt was among the defining moments of the 2026 World...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can",
       "publishedAt": "2026-08-31T18:51:49.000Z",
@@ -518,75 +590,6 @@
         "Football",
         "World Cup",
         "Inter"
-      ]
-    },
-    {
-      "id": "5bcdedd3ea977f",
-      "title": "Kushner states regret over World Cup sell-off plan",
-      "summary": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had k...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T18:38:55.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "bdf7c87744a115",
-      "title": "How retiring Messi's Argentina glory years almost never happened",
-      "summary": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T18:24:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b615d65eee5cf4",
-      "title": "Man City close in on £185m double deal as Ornstein reveals ‘agreement reached’",
-      "summary": "Fabrizio Romano has reported that there is a ‘deal on’ for Enzo Fernandez to join Manchester City, while they have an ‘agreement’ for Iliman Ndiaye.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-fernandez-man-city-deal-on-chelsea-finalised-transfer",
-      "publishedAt": "2026-08-31T18:18:00.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "98ffc13b442224",
-      "title": "Elliott expected to join Valencia on loan",
-      "summary": "Liverpool midfielder Harvey Elliott is expected to join Valencia on loan for the rest of the season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T17:58:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7df1b47aa845a7",
-      "title": "Chelsea respond to Liverpool enquiry about signing Estevao Willian",
-      "summary": "Chelsea have decided whether or not they will sell Estevao Willian to Liverpool before the summer transfer window closes on Tuesday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-liverpool-estevao-willian-decision-reached",
-      "publishedAt": "2026-08-31T17:47:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
       ]
     }
   ],
