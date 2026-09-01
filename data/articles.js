@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-01T11:23:08.938Z",
+  "generatedAt": "2026-09-01T16:20:35.806Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,71 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
-      "summary": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
+      "id": "aac1caa89a322a",
+      "title": "Man City agree £125m deal to sign Chelsea's Fernandez",
+      "summary": "Manchester City have agreed a deal with Chelsea to sign Enzo Fernandez for £125m.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-01T11:23:08.652Z",
+      "url": "https://www.skysports.com/football/news/12040/13579667/enzo-fernandez-transfer-news-manchester-city-agree-125m-deal-to-sign-chelsea-midfielder-on-deadline-day",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "557400b276bd80",
+      "title": "Every Deadline Day deal....",
+      "summary": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "3d0f805242b3f2",
+      "title": "Fofana tug-of-war! Sunderland and Palace agree deals but where will he end up?",
+      "summary": "Crystal Palace and Sunderland have both agreed deals to sign Malick Fofana, leaving the winger at the centre of a transfer tug-of-war with his next destination still to...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579894/malick-fofana-transfer-news-lyon-winger-at-centre-of-premier-league-tug-of-war-as-crystal-palace-and-sunderland-agree-deals",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "49315fd7238df5",
+      "title": "Kone? Camara? Chelsea working hard to bring in Fernandez replacement",
+      "summary": "Chelsea are working hard to line up a replacement for Enzo Fernandez before the transfer deadline.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Chelsea"
+      ]
+    },
+    {
+      "id": "278d44a17ce80a",
+      "title": "Jesus joins Barcelona in 'dream' move from Arsenal",
+      "summary": "Gabriel Jesus said he has fulfilled a \"dream\" after completing his move to Barcelona from Arsenal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-8-6m-deal-on-deadline-day",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
       ]
     },
     {
@@ -117,7 +172,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "FREE TO WATCH: Highlights from Aston Villa’s match against Arsenal in the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13579605/aston-villa-0-0-arsenal-premier-league-highlights",
-      "publishedAt": "2026-09-01T11:23:08.651Z",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -131,7 +186,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Bukayo Saka's goal just before the hour mark was enough for champions Arsenal to maintain their perfect start with a 1-0 win over Aston Villa at Villa Park.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454",
-      "publishedAt": "2026-09-01T11:23:08.651Z",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -140,11 +195,11 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "9a5d3c6bf7f04b",
-      "title": "PSG forward Mbaye joins Villa in £47m deal",
-      "summary": "Aston Villa have confirmed the signing of Ibrahim Mbaye from Paris Saint-Germain.",
+      "title": "Villa sign PSG forward Mbaye and Saints defender Harwood-Bellis",
+      "summary": "Aston Villa have confirmed the signings of both Paris Saint-Germain forward Ibrahim Mbaye and Southampton centre-back Taylor Harwood-Bellis.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
-      "publishedAt": "2026-09-01T11:23:08.651Z",
+      "publishedAt": "2026-09-01T16:20:35.423Z",
       "category": "transfer",
       "region": "france",
       "tags": [
@@ -152,65 +207,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "54dc09461bd689",
-      "title": "How good is Fernandez-Pardo? Explosive winger can thrill like Doku",
-      "summary": "There is one special quality that will have convinced Newcastle United that Matias Fernandez-Pardo can thrive in the Premier League. \"He is very explosive, very fast,\"...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13569269/matias-fernandez-pardo-to-newcastle-signing-from-lille-is-very-fast-with-unbelievable-power-like-jeremy-doku",
-      "publishedAt": "2026-09-01T11:23:08.651Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "557400b276bd80",
-      "title": "Every Deadline Day deal....",
-      "summary": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
-      "publishedAt": "2026-09-01T11:23:08.650Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "49315fd7238df5",
-      "title": "Chelsea close to agreeing deal for Roma's Kone",
-      "summary": "Chelsea are close to an agreement with Roma to sign France midfielder Manu Kone, but Roma boss Gian Piero Gasperini is trying to keep hold of the player according to Sk...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way",
-      "publishedAt": "2026-09-01T11:23:08.650Z",
+      "id": "be8c35f90fd0b6",
+      "title": "Juventus sign Sarr on loan and agree Woltemade loan",
+      "summary": "Juventus announce the signing of midfielder Pape Matar Sarr from Tottenham on an initial loan while also agree a loan deal for Newcastle forward Nick Woltemade.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T16:18:48.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ac84a0422a3fc7",
-      "title": "Every done deal on transfer deadline day",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T11:15:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
+        "Juventus"
       ]
     },
     {
       "id": "c345b44ceb9124",
-      "title": "Football transfer deadline day: Manchester City move for Fernández, Villa sign Mbaye, and more – live",
-      "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A...",
+      "title": "Football transfer deadline day: Manchester City agree £125m Fernández deal, Newcastle seal £51m signing, and more – live",
+      "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Luke and follow us on TikTok and Bluesky A...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "publishedAt": "2026-09-01T11:08:45.000Z",
+      "publishedAt": "2026-09-01T16:08:34.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -221,30 +236,31 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "7e52567b6ba409",
-      "title": "‘I was scared to tell my old teammates’: Victoria Pelova on making leap from Arsenal to Spurs",
-      "summary": "While move across north London has been amicable, Netherlands midfielder is relishing clash with former club There is not the same intensity to club rivalries between w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/i-was-scared-to-tell-my-old-teammates-victoria-pelova-on-making-leap-from-arsenal-to-spurs",
-      "publishedAt": "2026-09-01T11:00:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "8a15488b47a6c1",
-      "title": "Zirkzee replacement breaks silence on Man Utd transfer as INEOS make striker decision",
-      "summary": "Rumoured Man Utd deadline day signing Igor Matanovic has reacted to potentially replacing Joshua Zirkzee at Old Trafford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-zirkzee-replacement-matanovic-transfer-deadline-day",
-      "publishedAt": "2026-09-01T10:56:27.000Z",
+      "id": "95969a55ec8df4",
+      "title": "Man City agree £125m fee for Chelsea's Fernandez",
+      "summary": "Manchester City agree to pay a British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T15:55:10.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Transfer",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dc67f04a3de10f",
+      "title": "Arsenal told Osimhen will ‘bring something different’ than Alvarez as Arteta urged to ‘keep’ youngster – Petit",
+      "summary": "Emmanuel Petit has told former club Arsenal that Victor Osimhen would “bring something different” to Julian Alvarez, and has urged the side to “keep” a young star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-victor-osimhen-something-different-julian-alvarez-myles-lewis-skelly-loss",
+      "publishedAt": "2026-09-01T15:54:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
       ]
     },
     {
@@ -253,7 +269,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "We have every Premier League transfer that has been or will be completed this summer. There’s more than you think already.",
       "source": "Football365",
       "url": "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
-      "publishedAt": "2026-09-01T10:38:02.000Z",
+      "publishedAt": "2026-09-01T15:46:02.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -262,42 +278,282 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a276912e54e362",
-      "title": "The top 20 biggest transfers of the summer 2026 window…",
-      "summary": "Some massive money has been spent this summer, with Premier League clubs involved in the top eight deals….",
+      "id": "8b933e7ad78cf9",
+      "title": "Romano gives Enzo Fernandez to Man City ‘here we go’ as Chelsea ‘approve’ joint-record deal",
+      "summary": "Manchester City have struck an ‘agreement’ to sign Enzo Fernandez after Chelsea decided to ‘approve’ the deal, which is worth around £125m.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/summer-transfer-window-2026-most-expensive-players-biggest-deals",
-      "publishedAt": "2026-09-01T10:34:36.000Z",
+      "url": "https://www.football365.com/news/enzo-fernandez-man-city-enters-final-negotiation-as-romano-here-we-go",
+      "publishedAt": "2026-09-01T15:42:55.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Premier League",
-        "Transfer"
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
-      "id": "e599dc934ffde1",
-      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "summary": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Con...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "publishedAt": "2026-09-01T10:18:32.000Z",
+      "id": "f9eadab7643805",
+      "title": "Man Utd locked in talks for Leicester midfielder Page",
+      "summary": "Manchester United remain in talks to sign highly-rated Leicester youngster Louis Page in a deal that could be worth over £10m.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T15:36:52.000Z",
       "category": "transfer",
-      "region": "italy germany",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "448b9001da3c28",
+      "title": "Fulham agree to sign midfielders Angel and Larsson",
+      "summary": "Fulham agree to sign midfielders Manuel Angel and Hugo Larsson from Real Madrid and Eintracht Frankfurt respectively.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T15:14:54.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d4fce3dbbf8516",
+      "title": "Man Utd close in on deadline day signing as fee revealed after it progresses faster than expected",
+      "summary": "According to reports, Manchester United are now ‘close’ to signing Leicester City starlet Louis Page, who is also linked with Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-close-in-deadline-day-signing-progresses-faster-expected",
+      "publishedAt": "2026-09-01T15:09:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1f6476b200946e",
+      "title": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+      "summary": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022 Anyone who was presen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "publishedAt": "2026-09-01T15:05:49.000Z",
+      "category": "worldcup",
+      "region": "italy",
       "tags": [
         "Football",
-        "Serie A",
-        "Bundesliga",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "428dd044f62f2b",
+      "title": "Romano reveals Barcelona decision on late Julian Alvarez move after Arsenal transfer",
+      "summary": "Barca have successfully signed an Arsenal attacker, and attention has now turned to whether Alvarez will join",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/julian-alvarez-transfer-news-barcelona-decision-fabrizio-romano-arsenal",
+      "publishedAt": "2026-09-01T14:38:27.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "c6c1b4bfcbe3fc",
+      "title": "Football Daily | Tottenham and the rapid disappearance of their club hype man",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before we get going, a reminder to join our team of writers for all the latest transfer deadline day updates before...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/01/football-daily-email-tottenham-oh-tottenham",
+      "publishedAt": "2026-09-01T14:33:00.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ac84a0422a3fc7",
+      "title": "Every done deal on transfer deadline day",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T14:16:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Transfer"
       ]
     },
     {
-      "id": "7dabad78d91dd1",
+      "id": "2358a91d7fd313",
+      "title": "Chelsea sent £100m warning as finance expert reveals why Enzo Fernandez has to be sold",
+      "summary": "Chelsea have been accused of “bluffing” over the potential sale of Enzo Fernandez amid ongoing links with Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-sent-100m-warning-finance-expert-enzo-fernandez-has-sold",
+      "publishedAt": "2026-09-01T14:03:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4a263931465ea3",
+      "title": "Liverpool fend off Arsenal AND Real Madrid to seal deadline day signing",
+      "summary": "Liverpool have successfully fended off rival interest from Arsenal and Real Madrid, and the expectation is they’ll complete a deadline day signing worth £30m.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-fend-off-arsenal-real-madrid-seal-deadline-day-signing",
+      "publishedAt": "2026-09-01T13:50:44.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c29fe9e0668054",
+      "title": "Chelsea plot stunning late move for Arsenal star as Camara could wait for Liverpool",
+      "summary": "Chelsea have added Arsenal star Martin Zubimendi to their deadline day targets with Lamine Camara potentially waiting for Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-stunning-late-bid-arsenal-zubimendi-gibbs-white-bergvall-camara-liverpool",
+      "publishedAt": "2026-09-01T13:24:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "158bf977dbf718",
+      "title": "Barcelona complete signing of Arsenal striker Jesus",
+      "summary": "Barcelona have completed the signing of Gabriel Jesus on a permanent deal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T13:08:49.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "85b6fe87785831",
+      "title": "Why is Scotland's transfer window closing on Thursday?",
+      "summary": "BBC Scotland answers the question about Scotland's delayed closure of the summer transfer window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zy363lqyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:58:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "0b62d782f24ee6",
+      "title": "Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , John Brewin and Jonathan Wilson as Arsenal beat Aston Villa 1-0 and Bradley Barcola joins Liverpool Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/01/saka-strike-maintains-arsenals-perfect-start-plus-deadline-day-football-weekly-video",
+      "publishedAt": "2026-09-01T12:50:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ea1533681fb9a6",
+      "title": "Ahanor announced by two clubs in one day after Chelsea workaround",
+      "summary": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:47:43.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "eb130be6167f57",
+      "title": "Man Utd want last-minute midfield signing with Gary Neville in ‘shock’ at transfer business",
+      "summary": "Man Utd are weighing up a late move for Leicester City midfielder Louis Page ahead of the transfer deadline, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-last-minute-midfield-signing-page-leicester-neville-shock-transfer",
+      "publishedAt": "2026-09-01T12:47:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "1edc1589403f55",
+      "title": "Everton agree to re-sign Grealish on loan from Man City",
+      "summary": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:27:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c80c02d90282e6",
+      "title": "The big WSL and WSL2 season preview: Women’s Football Weekly – podcast",
+      "summary": "Faye Carruthers and Suzanne Wrack are back, and this week they’re joined by Emma Sanders and Sophie Downey to run you through the latest news from the WSL, plus deliver...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/audio/2026/sep/01/the-big-wsl-wsl2-season-preview-womens-football-weekly-podcast",
+      "publishedAt": "2026-09-01T12:16:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "5eb08bdd38e768",
+      "title": "Liverpool look to hijack late Everton deal for Bundesliga star as one of three deadline day signings",
+      "summary": "Liverpool have joined the race to make a late signing with Everton and their Merseyside rivals keen on Stuttgart attacker Jamie Leweling.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-look-to-hijack-late-everton-deal-for-bundesliga-star-as-one-of-three-deadline-day-signings",
+      "publishedAt": "2026-09-01T12:14:01.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Bundesliga",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7b06c698a59ecf",
       "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
       "summary": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "publishedAt": "2026-09-01T10:18:06.000Z",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "publishedAt": "2026-09-01T12:12:32.000Z",
       "category": "transfer",
       "region": "england spain italy france germany",
       "tags": [
@@ -308,80 +564,28 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "de7acb43725f94",
-      "title": "Chelsea learn fate of £38m offer for Liverpool target as Fabrizio Romano makes Enzo Fernandez claim",
-      "summary": "Chelsea are upping the ante when it comes to trying to sign Monaco star and reported Liverpool target Lamine Camara, as they eye a potential replacement for Enzo Fernan...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-38m-offer-liverpool-target-cheaper-enzo-fernandez-alternative-emerges",
-      "publishedAt": "2026-09-01T10:16:40.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c01ad8ae479509",
-      "title": "Sunderland hijack ‘agreed’ Arsenal deal for deadline day signing in incredible twist",
-      "summary": "Sunderland have hijacked Malick Fofana’s move to Arsenal with the Lyon winger given permission to undergo a medical, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-sunderland-hijack-fofana-lyon",
-      "publishedAt": "2026-09-01T10:09:39.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9c16a12d66ed1a",
-      "title": "David Squires on … the art of the transfer deal",
-      "summary": "Our cartoonist looks through the ages to chart the evolution of the football transfer into its modern construct Buy a cartoon | Some of David’s favourite works And his...",
+      "id": "2813c6fe693292",
+      "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "summary": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Con...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/01/david-squires-on-the-art-of-the-transfer-deal",
-      "publishedAt": "2026-09-01T10:00:03.000Z",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "publishedAt": "2026-09-01T12:12:16.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy germany",
       "tags": [
         "Football",
+        "Serie A",
+        "Bundesliga",
         "Transfer"
       ]
     },
     {
-      "id": "73dbff2af5d7df",
-      "title": "Arsenal agree terms to sign De Almeida from PSG",
-      "summary": "Arsenal agree terms to sign versatile France defender Elisa de Almeida from Paris St-Germain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T09:59:20.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal",
-        "Psg"
-      ]
-    },
-    {
-      "id": "03c788a5195275",
-      "title": "Hull sign Ansah and close on Norton-Cuffy",
-      "summary": "Hull City sign forward Ilyas Ansah on a five-year deal from Bundesliga side Union Berlin.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T09:57:22.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "8d054f67003979",
-      "title": "Tottenham transfer now off as eight Everton deals expected before transfer deadline",
-      "summary": "Tottenham striker Richarlison won’t be re-signing for Everton on deadline day but eight deals could go through at Goodison Park.",
+      "id": "d2ceace3537798",
+      "title": "Aston Villa complete £77m double swoop as Konsa replacement signed",
+      "summary": "Villa have announced the arrivals of two new stars on transfer deadline day, with a further £77m spent",
       "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-transfer-now-off-as-eight-everton-deals-expected-before-transfer-deadline",
-      "publishedAt": "2026-09-01T09:54:05.000Z",
+      "url": "https://www.football365.com/news/aston-villa-transfers-news-ibrahim-mbaye-signing-taylor-harwood-bellis-joins",
+      "publishedAt": "2026-09-01T12:09:54.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -389,207 +593,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "16ddc690129416",
-      "title": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
-      "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
-      "publishedAt": "2026-09-01T09:42:25.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "id": "7f8d047645e157",
+      "title": "Beckham and Mourinho pay tribute to Messi",
+      "summary": "Former England captain Sir David Beckham says Lionel Messi has inspired \"millions of children worldwide,\" following the Argentine retiring from international football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0nw1n9y8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:01:17.000Z",
+      "category": "league",
+      "region": "italy",
       "tags": [
         "Football",
-        "Transfer",
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "7b205ef4517f5a",
-      "title": "Chelsea agree deal with Enzo Fernandez replacement as £120m Man City move edges closer",
-      "summary": "Chelsea have agreed personal terms with a midfielder and a £52m deal is now ‘advanced’, with this move likely freeing Enzo Fernandez up to join Manchester City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-agree-deal-enzo-fernandez-replacement-manu-kone-120m-man-city-move",
-      "publishedAt": "2026-09-01T09:28:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e7260f255fe936",
-      "title": "Arsenal ‘reach agreement’ for next deadline day signing after Ndiaye ‘hijack’ fails",
-      "summary": "Arsenal have now reached an agreement with Malick Fofana as they look to get a deal over the line for the Lyon winger, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-reach-agreement-deadline-day-fofana-lyon-ndiaye-hijack-fails",
-      "publishedAt": "2026-09-01T09:28:33.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "98ffae33cd7fc0",
-      "title": "The summer signings already making an impact - Sangare, Rogers, Enciso",
-      "summary": "BBC Sport takes a look at the summer signings getting off to a flying start in the new Premier League season, featuring Mamadou Sangare, Morgan Rogers, Julio Enciso, Go...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2q1yn6620o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T09:22:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "8de501fec20e97",
-      "title": "Liverpool set for deadline day ‘madness’ as £80m ‘overpay’ backed over ‘panic buy’",
-      "summary": "Liverpool have been backed to go back in for Yankuba Minteh before the transfer deadline as they look to secure a deal with Brighton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-deadline-day-madness-minteh-overpay-brighton-sarr-panic-buy",
-      "publishedAt": "2026-09-01T08:44:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0d5817b39ee92b",
-      "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "summary": "Today’s rumours are squeezing out every last drop Deadline day live – follow all the news and moves The final day of the men’s transfer window is here , but there is st...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham",
-      "publishedAt": "2026-09-01T08:23:59.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7573f6310f8d4b",
-      "title": "Julian Alvarez makes final decision on joining Arsenal after Atletico Madrid ‘here we go’",
-      "summary": "Julian Alvarez has informed Arsenal of his stance on joining the Gunners from Atletico Madrid on deadline day, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-julian-alvarez-final-decision-arsenal-transfer-romano-here-we-go",
-      "publishedAt": "2026-09-01T08:19:40.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c66c2db16dc55a",
-      "title": "Mudryk, Tosin, Alvarez, MGW among 10 Premier League transfers that could go through on deadline day",
-      "summary": "Transfer deadline day is here again and it does feel like this could be quite a busy one with several big deals still to either go through or collapse.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfer-deadline-day-10-deals-mudryk-enzo-fernandez-alvarez",
-      "publishedAt": "2026-09-01T08:19:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "976cd947ab22a6",
-      "title": "All you need to know about Transfer Deadline Day",
-      "summary": "Our Ask Me Anything team tell you all you need to know as the summer transfer deadline approaches.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c209g6e3yx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T08:08:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "274015b2011d91",
-      "title": "Tottenham seal £25m Sunderland deal and £7m Chelsea signing – medicals booked",
-      "summary": "Tottenham have sealed two defender moves, one with Sunderland worth £25m and the other with Chelsea to the tune of £7m plus add-ons.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-seal-25m-sunderland-kevin-danso-deal-7m-chelsea-tosin-adarabioyo-signing-medicals-booked",
-      "publishedAt": "2026-09-01T08:06:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "be8c35f90fd0b6",
-      "title": "Juventus agree to sign Woltemade on loan from Newcastle",
-      "summary": "Juventus agree a season-long loan deal for Newcastle United forward Nick Woltemade.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj80lw5q2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T08:03:16.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Juventus"
-      ]
-    },
-    {
-      "id": "9ca005a1e55784",
-      "title": "Man Utd back in for Hall on deadline day with four deals alive as Carrick loses trust in star",
-      "summary": "Man Utd are still ‘in’ for Lewis Hall in the final hours of the transfer window but Newcastle’s £75m asking price remains too steep.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-hall-deadline-day-four-deals-alive-carrick-loses-trust-shaw",
-      "publishedAt": "2026-09-01T08:01:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "1edc1589403f55",
-      "title": "Everton agree deal to re-sign Grealish on loan from Man City",
-      "summary": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T07:35:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bbb5db53b4ffe5",
-      "title": "Dortmund agree loan move for Arsenal's Nwaneri",
-      "summary": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T07:34:09.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "aaa412bf9cd605",
-      "title": "Is Scottish football failing after Celtic and Rangers embarrassments in Europe? Not at all…",
-      "summary": "A Scottish team might never make an impact in European competition again, but when the domestic scene is thriving does that really matter?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/scottish-football-failing-celtic-rangers-european-embarrassments",
-      "publishedAt": "2026-09-01T07:33:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
+        "Inter"
       ]
     }
   ],
