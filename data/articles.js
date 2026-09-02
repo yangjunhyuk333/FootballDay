@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-02T16:17:30.993Z",
+  "generatedAt": "2026-09-02T20:48:54.674Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,43 +99,219 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "96c984efb3e568",
-      "title": "Balogun walks away from Everton deal",
-      "summary": "Everton's move for Monaco striker Folarin Balogun has fallen through following a change of heart from the player after the deal scuppered Chelsea's chances of signing L...",
+      "id": "8bc5293ca63099",
+      "title": "Walsh winner helps send Chelsea through in Women’s Champions League",
+      "summary": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara",
-      "publishedAt": "2026-09-02T16:17:30.261Z",
+      "url": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
+      "publishedAt": "2026-09-02T20:48:54.331Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ba04bcc3c67e24",
+      "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
+      "summary": "The biggest controversy of the summer transfer window happened on Deadline Day, involving three clubs and two players.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
+      "publishedAt": "2026-09-02T20:48:54.331Z",
       "category": "transfer",
       "region": "england france",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "de9dd810138e58",
+      "title": "BBC Women's Football Weekly",
+      "summary": "Gareth Taylor, Khiara Keating, Sam Kerr and Sara Agrež join Em Sanders!",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7mkv4?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T20:23:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "7823990597a409",
+      "title": "Walsh caps Champions League progress for Chelsea despite Real Sociedad grind",
+      "summary": "Real Sociedad 0-1 Chelsea (agg 2-6) Keira Walsh scores at corner to settle tie Chelsea ensured there will be three Women’s Super League teams in the league phase of the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/walsh-caps-champions-league-progress-for-chelsea-despite-real-sociedad-grind",
+      "publishedAt": "2026-09-02T19:54:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Europa League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "324eacc56ba9dc",
+      "title": "Man Utd sign Bernal from Washington Spirit",
+      "summary": "Manchester United have completed the signing of Mexico international Rebeca Bernal from Washington Spirit.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T19:47:24.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8df034c78ea990",
+      "title": "‘A commodity’: Ismaïla Sarr’s agent wants respect for African players in transfer deals",
+      "summary": "Diomansy Kamara says players must ‘be heard’ Monaco defend halting Lamine Camara’s Chelsea move Ismaïla Sarr’s agent has claimed some African players are treated like “...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/a-commodity-ismaila-sarrs-agent-wants-respect-for-african-players-in-transfer-deals",
+      "publishedAt": "2026-09-02T19:29:01.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e0c757de2ad536",
+      "title": "Ipswich Town v Liverpool: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Ipswich Town and Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/ipswich-v-liverpool-prediction-preview",
+      "publishedAt": "2026-09-02T19:24:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b22617b30e3228",
+      "title": "Premier League money has lost all meaning amid chaotic spectacle of excess | Barney Ronay",
+      "summary": "The transfer window has broken all rational rules and limits, leaving us to marvel and, ultimately, pick up the bill There was a research study a few years back into a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez",
+      "publishedAt": "2026-09-02T19:00:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1eed304881ea57",
+      "title": "Chelsea pulled off ‘signing of century’ this summer as Crouch makes bold Blues vs Arsenal prediction",
+      "summary": "Manchester United legend Nicky Butt claims Chelsea may have pulled off the “signing of the century” with new arrival Emiliano Martinez.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-pulled-off-signing-century-crouch-bold-blues-arsenal-prediction",
+      "publishedAt": "2026-09-02T18:54:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "99be101ca3ec68",
+      "title": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
+      "summary": "Northern Ireland manager Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jyw0zdn8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T18:32:09.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "6e28deae63e100",
+      "title": "Chelsea reach decision on signing Georginio Wijnaldum after Lamine Camara reacts to transfer collapse",
+      "summary": "According to reports, Chelsea have decided whether to sign former Liverpool star Georginio Wijnaldum after missing out on Lamine Camara.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-reach-decision-signing-wijnaldum-camara-reacts-transfer-collapse",
+      "publishedAt": "2026-09-02T18:21:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "917b9505dbdc84",
+      "title": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo",
+      "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T17:25:41.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Chelsea"
       ]
     },
     {
-      "id": "afe8b55f1fc1b4",
-      "title": "Best (and worst) buyers and sellers of the transfer window revealed",
-      "summary": "Premier League spending totalled £3.4bn in a record-breaking summer transfer window - but how well did your club actually buy and sell?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579892/chelsea-liverpool-aston-villa-best-and-worst-buyers-and-sellers-of-the-summer-transfer-window-between-the-lines",
-      "publishedAt": "2026-09-02T16:17:30.260Z",
+      "id": "93a147d8820ca6",
+      "title": "Richarlison could still leave Tottenham as Trabzonspor weigh up bid for striker",
+      "summary": "Turkish transfer window closes on Friday night Brazilian refused a return to Everton on Tuesday Richarlison is the subject of firm interest from Trabzonspor and could m...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/02/richarlison-could-still-leave-tottenham-as-trabzonspor-weigh-up-bid-for-striker",
+      "publishedAt": "2026-09-02T17:11:00.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Premier League",
-        "Transfer"
+        "Football",
+        "Transfer",
+        "Inter",
+        "Juventus"
       ]
     },
     {
-      "id": "b3695a8e517bd7",
-      "title": "How does every Premier League club's summer window rank?",
-      "summary": "After a summer that brought record spending and Deadline Day drama, Sky Sports' reporters rank every Premier League club's window...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580212/premier-league-transfer-window-sky-sports-reporters-rank-your-clubs-summer-after-dramatic-deadline-day",
-      "publishedAt": "2026-09-02T16:17:30.259Z",
+      "id": "052bb343879b34",
+      "title": "Late Liverpool striker signing confirmed, as reason for no announcement emerges",
+      "summary": "Liverpool wrapped up a striker signing in the final days of the summer transfer window, though why the club haven’t officially confirmed the move can now be revealed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/late-liverpool-striker-signing-confirmed-reason-no-announcement-emerges",
+      "publishedAt": "2026-09-02T17:01:13.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "eb58a6278d974a",
+      "title": "Man Utd takeover: New potential bidder named as Glazers consider sale with direction clear",
+      "summary": "Some members of the Glazer family are reportedly looking for a way out of Manchester United, and a new potential bidder has been named.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-takeover-new-potential-bidder-named-glazers-consider-sale",
+      "publishedAt": "2026-09-02T16:39:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -225,19 +401,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "917b9505dbdc84",
-      "title": "Celtic sign keeper Johnstone & striker Mheuka on loan",
-      "summary": "Former England goalkeeper Sam Johnstone joins Celtic on a season-long loan from Wolves as striker Shumaira Mheuka arrives from Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T14:25:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     },
     {
@@ -443,156 +606,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "ac84a0422a3fc7",
-      "title": "Every done deal on transfer deadline day",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T12:17:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "172c87b46d21be",
-      "title": "Newcastle react after learning Man Utd are planning 2027 deal for Lewis Hall",
-      "summary": "Newcastle United have made up their mind on selling Lewis Hall to Manchester United in 2027, according to a reliable source.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lewis-hall-manchester-united-newcastle-united",
-      "publishedAt": "2026-09-02T12:10:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "96f2effbba7d1b",
-      "title": "The 20 most expensive transfers of the summer",
-      "summary": "From Enzo Fernandez to Maxence Lacroix, BBC Sport lists the 20 biggest transfers of the summer window.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T11:59:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "a1cf62691e4a95",
-      "title": "Arsenal: Romano confirms first 2027 signing will be done ‘this week’ after ‘deal agreed’",
-      "summary": "Transfer expert Fabrizio Romano has confirmed that Arsenal are set to complete their first signing of 2027, with teenager Andria Bartishvili joining.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-confirms-first-2027-signing-done-this-week-deal-agreed",
-      "publishedAt": "2026-09-02T11:55:50.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "8c6a385cb4b3f1",
-      "title": "Enzo Fernandez already causing trouble at Man City as ‘first request denied’ after £125m deadline day move",
-      "summary": "Enzo Fernandez’s Manchester City career is already off to a dodgy start, while at least one musician is compared to ‘rubber genitalia’. Standard Mediawatch fare.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/enzo-fernandez-man-city-request-denied-transfer-deadline-day-move-mediawatch",
-      "publishedAt": "2026-09-02T11:24:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7c555172d089ff",
-      "title": "James Garner reacts after Everton reject £65m Chelsea bid",
-      "summary": "A reliable source has revealed how James Garner feels after Chelsea had a major bid for him rejected by Everton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/everton-chelsea-james-garner",
-      "publishedAt": "2026-09-02T11:21:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "119929e8258102",
-      "title": "The 20 most expensive forwards ever: Barcola only scrapes into the top ten",
-      "summary": "Manchester City are prominent in a list of the 20 most expensive forwards in transfer history which is too rich for Anthony Gordon’s blood.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/20-most-expensive-forwards-ever-transfer-history",
-      "publishedAt": "2026-09-02T11:21:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6f25fb2b918f84",
-      "title": "Romano reveals how close Chelsea came to Kone deal as ‘mystery player’ is unmasked",
-      "summary": "Fabrizio Romano has revealed how close Chelsea came to signing Roma midfielder Manu Kone on a chaotic deadline day for the Blues.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-romano-kone-deal-mystery-player-garner-everton",
-      "publishedAt": "2026-09-02T11:20:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ab0285de026ac3",
-      "title": "The 20 most expensive midfielders in transfer history explodes in 2026",
-      "summary": "Enzo Fernandez is the first and the fourth most expensive central midfielder ever. It just doesn’t seem right.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/20-most-expensive-midfielders-ever-transfer-history",
-      "publishedAt": "2026-09-02T11:02:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "40dbf04006dbf5",
-      "title": "Neville tells Arteta to drop Arsenal star for Chelsea clash after ‘mauling’ vs Aston Villa",
-      "summary": "Gary Neville reckons Arsenal head coach Mikel Arteta should drop Christos Tzolis for their next Premier League match against Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-neville-arteta-drop-tzolis-chelsea-mauling-aston-villa",
-      "publishedAt": "2026-09-02T10:56:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2d186d5ca3e961",
-      "title": "Liverpool target joins Arsenal, Newcastle stars among five who could still move…",
-      "summary": "The transfer deadline has passed in Europe’s big leagues but Newcastle, Arsenal and Villa stars are among those still eyeing a big move…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-players-could-still-move-transfer-windows-open-deadlines",
-      "publishedAt": "2026-09-02T10:48:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
       ]
     }
   ],
