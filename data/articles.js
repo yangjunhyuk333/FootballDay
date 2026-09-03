@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-02T20:48:54.674Z",
+  "generatedAt": "2026-09-03T03:47:36.408Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "b6db287e9f3b4d",
+      "title": "Papers: Wantaway Spurs striker Richarlison agrees Trabzonspor terms",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13580536/richarlison-transfer-news-tottenham-striker-agrees-terms-with-trabzonspor-paper-talk",
+      "publishedAt": "2026-09-03T03:47:36.213Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "8bc5293ca63099",
       "title": "Walsh winner helps send Chelsea through in Women’s Champions League",
       "summary": "Chelsea booked their spot in the Women's Champions League league phase after a 1-0 win over Real Sociedad in the second leg of their third qualifying round tie.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/real-sociedad-women-vs-chelsea-women/report/577459",
-      "publishedAt": "2026-09-02T20:48:54.331Z",
+      "publishedAt": "2026-09-03T03:47:36.212Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -113,17 +126,59 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ba04bcc3c67e24",
-      "title": "Why Balogun's move collapsed to leave Everton, Chelsea and Monaco upset",
-      "summary": "The biggest controversy of the summer transfer window happened on Deadline Day, involving three clubs and two players.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580477/why-folarin-baloguns-everton-move-collapsed-on-deadline-day-leaving-toffees-chelsea-and-monaco-frustrated",
-      "publishedAt": "2026-09-02T20:48:54.331Z",
+      "id": "bdca8cf7410f7b",
+      "title": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
+      "summary": "Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not t...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T22:07:52.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "917b9505dbdc84",
+      "title": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
+      "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T22:07:25.000Z",
       "category": "transfer",
-      "region": "england france",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2b2f475148f469",
+      "title": "Chelsea make contact with Wijnaldum - Thursday's gossip",
+      "summary": "Chelsea make contact with former Liverpool midfielder Georginio Wijnaldum, Arsenal eye Bournemouth striker Eli Junior Kroupi, Everton play down prospect of signing free...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj647945e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T21:36:32.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Transfer",
-        "Chelsea"
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2e8639c745fee9",
+      "title": "Wrexham boss pleased to see transfer window close",
+      "summary": "Phil Parkinson admits he is pleased the summer transfer window has closed and says Wrexham's 3-0 win at Millwall highlights the progress his side have made.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8e3783peglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T21:33:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -256,19 +311,6 @@ window.FOOTBALLDAY_DATA = {
         "Transfer",
         "Chelsea",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "917b9505dbdc84",
-      "title": "Celtic loan keeper Johnstone & teenage Chelsea duo Mheuka & Emenalo",
-      "summary": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T17:25:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     },
     {
@@ -564,48 +606,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "a407aee8e13045",
-      "title": "How Everton's deadline day debacle leaves owners facing fan mutiny",
-      "summary": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T12:33:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "c3fed7ecdb208d",
-      "title": "Why Arteta chose to block Arsenal transfer for Fofana with Gunners ‘prepared to risk a breach’",
-      "summary": "Mikel Arteta reportedly decided to block a deal to sign Malick Fofana from Lyon on deadline day as the winger moved to Sunderland instead.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-chose-block-fofana-lyon-risk-breach",
-      "publishedAt": "2026-09-02T12:26:39.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9f745d6d102eb0",
-      "title": "Nicky Butt tells Man Utd to ‘sneakily’ sign Arsenal-linked striker as a ‘gettable’ signing",
-      "summary": "Manchester United legend Nicky Butt has explained why he thinks his former club need to sign Victor Osimhen, who has also been linked with Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/nicky-butt-tells-man-utd-sneakily-sign-arsenal-linked-striker-gettable-signing",
-      "publishedAt": "2026-09-02T12:22:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
