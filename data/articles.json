@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T03:50:48.902Z",
+  "generatedAt": "2026-09-06T10:36:40.430Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,196 @@
       "pinned": true
     },
     {
+      "id": "e167adc5fed1d0",
+      "title": "Charlton: The former powerhouse that challenged Arsenal is back in the WSL",
+      "summary": "In the 90s and 00s, Charlton were a powerhouse in women's football. Regularly competing with Arsenal and in multiple cup finals, it has taken them 19 years to return to...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576629/charlton-women-how-former-powerhouse-that-challenged-arsenal-and-won-the-fa-cup-is-back-in-the-wsl",
+      "publishedAt": "2026-09-06T10:36:40.147Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7b284459ed4c0e",
+      "title": "WSL LIVE on Sky! Brighton vs Arsenal headlines early kick-offs",
+      "summary": "WSL LIVE on Sky! Brighton vs Arsenal headlines early kick-offs",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/live/575757",
+      "publishedAt": "2026-09-06T10:36:40.146Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "fa3255ec8d06a8",
       "title": "Villa take first point but rue missed chances in Hull stalemate",
       "summary": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
-      "publishedAt": "2026-09-06T03:50:48.239Z",
+      "publishedAt": "2026-09-06T10:36:40.146Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "b72311d927bfe3",
+      "title": "Scorecard: England vs Ireland, third women's ODI",
+      "summary": "Latest score from the third and final one-day international between England and Ireland in Worcester. Watch on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-women-v-ireland-women/scorecard/2bcda366-f5e0-50a1-9e3e-d68c0f6994ca",
+      "publishedAt": "2026-09-06T10:36:40.145Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "4ea5ab8a6bc262",
+      "title": "Chelsea want early signing of top midfield target after being given unequivocal response",
+      "summary": "According to reports, Chelsea are ‘ready’ to strike a deal with AFC Bournemouth for midfielder Alex Scott now ahead of a move next summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-want-early-signing-top-midfield-target-unequivocal-response",
+      "publishedAt": "2026-09-06T10:21:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1dafec52057b96",
+      "title": "Premier League buildup to Arsenal v Chelsea, plus Everton v Manchester United and WSL – matchday live",
+      "summary": "Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for Rus...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-host-chelsea-and-manchester-united-travel-to-everton-matchday-live",
+      "publishedAt": "2026-09-06T10:16:29.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "15c329e8b9bc4f",
+      "title": "Brighton v Arsenal: Women’s Super League – live",
+      "summary": "Minute-by-minute updates from 12pm (BST) kick-off WSL transfer talking points | Email Rob Brighton Nnadozie, Rule, Hayes, Minami, Vanegas, Walti, Symonds, Seike, Kirby,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
+      "publishedAt": "2026-09-06T10:16:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "d73b7a48a8715f",
+      "title": "Alan Shearer makes Enzo Maresca sack and Man City FFP claims – ‘I haven’t got a clue how’",
+      "summary": "Alan Shearer thinks Manchester City head coach Enzo Maresca could face the sack if they don’t win the Premier League this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alan-shearer-enzo-maresca-sack-man-city-ffp-claims",
+      "publishedAt": "2026-09-06T09:52:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "df1cf5cb539e5f",
+      "title": "Michael Carrick backs Man Utd star to have ‘another big season’, makes winning major trophies claim",
+      "summary": "Manchester United head coach Michael Carrick has backed his side to challenge for major trophies this season, while he has offered his thoughts on Kobbie Mainoo.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-backs-man-utd-star-big-season-winning-major-trophies-claim",
+      "publishedAt": "2026-09-06T09:11:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "103a260e552df3",
+      "title": "Arsenal choose two top transfer targets for January after Arteta eyed Tottenham pair this summer",
+      "summary": "According to reports, Arsenal have already identified two top targets for the January transfer window after they looked to raid Tottenham Hotspur in the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-choose-two-top-transfer-targets-january-arteta-eyed-tottenham-pair",
+      "publishedAt": "2026-09-06T08:29:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1e8c4e18f5f34a",
+      "title": "Liverpool: Pundit predicts new role for Gakpo as Iraola masterplan for Barcola mooted",
+      "summary": "A former Liverpool star has predicted a ‘new role’ for Cody Gakpo following the summer arrival of Bradley Barcola from Paris Saint-Germain.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-pundit-predicts-new-role-gakpo-iraola-masterplan-barcola",
+      "publishedAt": "2026-09-06T07:53:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "661aa4c5d35c7a",
+      "title": "Bruno Fernandes reaches decision on signing new Man Utd contract as accelerate claim emerges",
+      "summary": "Bruno Fernandes has interest from elsewhere, but he reportedly wants to remain at Manchester United and sign a new contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-fernandes-reaches-decision-signing-new-man-utd-contract",
+      "publishedAt": "2026-09-06T07:13:49.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2c43e17d6dc935",
+      "title": "‘That will cost them’ – Paul Merson sends Arsenal warning after £60m transfer decision",
+      "summary": "Paul Merson has revealed what “will cost” Arsenal in the Champions League this season after the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/paul-merson-sends-arsenal-warning-60m-transfer-decision",
+      "publishedAt": "2026-09-06T06:44:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "968ae83b27c342",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrgl3zerpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T06:02:35.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -126,7 +306,7 @@
     },
     {
       "id": "120a524b2939ea",
-      "title": "How Man Utd plan to compete at top with richer rivals",
+      "title": "How Man Utd plan to compete at top with big-spending rivals",
       "summary": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spend...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
@@ -411,182 +591,6 @@
       "tags": [
         "World Cup",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "7afbb428733f1b",
-      "title": "Iliman Ndiaye reacts to Man City debut and sends message to Everton fans – ‘I am not going to stop’",
-      "summary": "Iliman Ndiaye is delighted to have joined Manchester City from Coventry City and reflects on his exit from Everton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/iliman-ndiaye-reacts-to-man-city-debut-and-sends-message-to-everton-fans-i-am-not-going-to-stop",
-      "publishedAt": "2026-09-05T17:00:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "22bc06f38beaee",
-      "title": "Fernandez brings foundation rather than fireworks after fake De Bruyne fuel",
-      "summary": "Enzo Fernandez had a quiet debut for Manchester City, offering foundation rather than fireworks so soon after a fake Kevin De Bruyne dig.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/enzo-fernandez-foundation-fireworks-manchester-city-de-bruyne-quotes",
-      "publishedAt": "2026-09-05T16:56:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8f79646f1b5683",
-      "title": "Man Utd confident of beating Arsenal to modern-day number eight",
-      "summary": "Manchester United believe that they will beat Arsenal to the signing of an English gem in the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/louis-page-arsenal-manchester-united-leicester-city-transfer-latest",
-      "publishedAt": "2026-09-05T16:22:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3967092b7bcbe2",
-      "title": "Haaland edges Manchester City past Coventry as Fernández sparkles on debut",
-      "summary": "Enzo Fernández started for Manchester City after Nico O’Reilly’s back injury during the warm-up and sparkled, showing why the club paid a British-record-equalling £125m...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report",
-      "publishedAt": "2026-09-05T16:02:51.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "30fd12a4104731",
-      "title": "Ornstein questions Man Utd transfer business and makes ‘flow of cash’ claim",
-      "summary": "David Ornstein has discussed United’s summer transfer business, explaining why he was left surprised",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-news-david-ornstein-transfers-finances-reveal-left-back-wanted",
-      "publishedAt": "2026-09-05T15:41:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "b790ddcc805fad",
-      "title": "New season, same flaw - Chelsea title hopes already under scrutiny",
-      "summary": "With 11 minutes remaining, Chelsea appeared to be cruising to victory in their WSL opener against Aston Villa. So how did they throw it away?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crr4704xvgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:27:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d4276895c857b7",
-      "title": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-      "summary": "Chelsea' Katie McCabe describes their result against Aston Villa as 'frustrating' but also that there's 'no need to panic' as its still early days for the 2026-27 WSL s...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:12:58.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "bd232a26048a3e",
-      "title": "£50m Man Utd star is now a big problem for Sir Jim Ratcliffe",
-      "summary": "Manchester United wanted to get rid of the star in the summer transfer window, but he is still at Old Trafford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manuel-ugarte-manchester-united-transfer-injury-latest",
-      "publishedAt": "2026-09-05T15:08:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "24b65977cdf0ea",
-      "title": "Newcastle and Bournemouth show Howe there are different ways to move on",
-      "summary": "There are worse ways to start a Premier League weekend than with Newcastle and Bournemouth sides entering completely new eras.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-bournemouth-howe-different-ways-move-on-rose-jaissle",
-      "publishedAt": "2026-09-05T14:25:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "177212466bf774",
-      "title": "Chelsea drop points against Aston Villa for the first time in WSL",
-      "summary": "Aston Villa scored a late equaliser against the run of play to disrupt Chelsea's start to the Women's Super League campaign.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T14:03:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5e2890e2cee8db",
-      "title": "Modric plans to play for Croatia past 41st birthday",
-      "summary": "Luke Modric, 41, is not ready to retire from international football and hopes to play for Croatia in upcoming Nations League games, including against England.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0xegkegyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T13:45:21.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f4490a619a3caa",
-      "title": "Own goal and inspired debut from keeper Akane Okuma earn Villa point at Chelsea",
-      "summary": "A Veerle Buurman own goal punished a profligate Chelsea at Stamford Bridge, securing a point for Aston Villa in a frustrating start to the hosts’ push to win back the W...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report",
-      "publishedAt": "2026-09-05T13:45:01.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "77b66a7bb50f90",
-      "title": "Top journalist rates Man Utd chances of signing Lewis Hall as INEOS line up four defender deals",
-      "summary": "Newcastle left-back Lewis Hall could be one of four defender signings in the next two transfer windows at Man Utd, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-journalist-chances-signing-lewis-hall-four-defenders",
-      "publishedAt": "2026-09-05T13:22:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     }
   ],
