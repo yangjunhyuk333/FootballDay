@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T15:13:08.101Z",
+  "generatedAt": "2026-09-06T20:12:47.045Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "63ce84de8b3ef0",
-      "title": "WSL round-up: New signings Baum and Hanson secure wins for Arsenal and Spurs",
-      "summary": "Sky Sports' round-up of Sunday's action across the Women's Super League as new signings for Arsenal and Tottenham shine to secure wins for both clubs.",
+      "id": "35de35f3eaf2ab",
+      "title": "No blockbuster signing but Arsenal's attack still finding another level",
+      "summary": "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an inside-right position and threaded a pass towards Kai Havertz, whose fl...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13581388/womens-super-league-round-up-lisa-baum-shines-on-arsenal-debut-to-beat-brighton-and-tottenham-dominate-west-ham",
-      "publishedAt": "2026-09-06T15:13:07.692Z",
+      "url": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,95 +112,55 @@
       ]
     },
     {
-      "id": "481fddf7db82d6",
-      "title": "Off the crossbar! Bruno comes close early on for Man Utd",
-      "summary": "Bruno Fernandes hits the crossbar early in Manchester United's Premier League clash with Everton",
+      "id": "17f1ecad8ac63d",
+      "title": "Arsenal come from behind to beat Chelsea in thrilling derby",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Arsenal and Chelsea.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582311/post-b-fernandes-8-everton-0-0-manchester-utd",
-      "publishedAt": "2026-09-06T15:13:07.692Z",
+      "url": "https://www.skysports.com/watch/video/13582508/arsenal-2-1-chelsea-premier-league-highlights",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
-        "Manchester"
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
-      "id": "3bdce0ef734278",
-      "title": "More heroics from the bench! Sesko heads in for Man Utd late on",
-      "summary": "Benjamin Sesko's header puts Manchester United back in front late on in their Premier League clash with Everton.",
+      "id": "10454d1bd3d16e",
+      "title": "'All over the place' - Neville questions Chelsea defence after defeat",
+      "summary": "Gary Neville criticised Chelsea's \"all over the place\" back three in their Super Sunday defeat to Arsenal - but believes Xabi Alonso's side are capable of finshing seco...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582376/goal-b-sesko-88-everton-1-2-manchester-utd",
-      "publishedAt": "2026-09-06T15:13:07.691Z",
+      "url": "https://www.skysports.com/football/news/12040/13582543/arsenal-2-1-chelsea-gary-neville-questions-chelseas-all-over-the-place-back-three-after-defeat-but-is-confident-they-can-finish-top-three",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
-        "Manchester"
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
-      "id": "c5c2e71704fb44",
-      "title": "What a way to open your Everton account! George scores STUNNER late on",
-      "summary": "Tyrique George scored a late stunner in Everton's Premier League clash with Manchester United.",
+      "id": "1911d40094a836",
+      "title": "Nev fearful Man Utd's habit of conceding goals isn't going away",
+      "summary": "Gary Neville is fearful that Manchester United's habit of conceding goals isn't going away after they shipped two goals for the third game running at Everton.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582370/goal-t-george-83-everton-1-1-manchester-utd",
-      "publishedAt": "2026-09-06T15:13:07.691Z",
+      "url": "https://www.skysports.com/football/news/12040/13582539/everton-2-2-man-utd-gary-neville-fearful-that-manchester-uniteds-liability-of-conceding-goals-isnt-going-away",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
         "Manchester"
       ]
     },
     {
-      "id": "77fbe9ab46f6df",
-      "title": "Infantino to stand for re-election as FIFA president",
-      "summary": "Gianni Infantino will stand for re-election as FIFA president next March.",
+      "id": "0d60b3bde1ce93",
+      "title": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
+      "summary": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582278/gianni-infantino-fifa-president-confirms-he-will-stand-for-re-election-in-march",
-      "publishedAt": "2026-09-06T15:13:07.691Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5eb3901ea3b10d",
-      "title": "What a start to second half! Mbeumo breaks deadlock right after HT",
-      "summary": "Bryan Mbeumo broke the deadlock right after half-time in Manchester United's Premier League clash with Everton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582349/goal-b-mbeumo-46-everton-0-1-manchester-utd",
-      "publishedAt": "2026-09-06T15:13:07.691Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1173ad408122da",
-      "title": "Big chance for Everton! Barry heads over before HT",
-      "summary": "Thierno Barry headed over for Everton in their Premier League clash with Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582337/header-t-barry-43-everton-0-0-manchester-utd",
-      "publishedAt": "2026-09-06T15:13:07.691Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a5d192cf46dde8",
-      "title": "WSL LIVE on Sky! Defending champs City lead after Arsenal, Spurs win",
-      "summary": "WSL LIVE on Sky! Defending champs City lead after Arsenal, Spurs win",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-women-vs-birmingham-city-women/live/575760",
-      "publishedAt": "2026-09-06T15:13:07.691Z",
+      "url": "https://www.skysports.com/football/news/12040/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -208,12 +168,256 @@
       ]
     },
     {
-      "id": "6a02dbcd607ebf",
-      "title": "Konsa starts for Arsenal, Caicedo out for Chelsea LIVE on Sky!",
-      "summary": "Konsa starts for Arsenal, Caicedo out for Chelsea LIVE on Sky!",
+      "id": "039167e64118ef",
+      "title": "Arsenal edge out Chelsea in pulsating London derby",
+      "summary": "Arsenal came from behind to beat Chelsea 2-1 in the first real major Premier League heavyweight clash of the new campaign - in an early contender for game of the season.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/live/559464",
-      "publishedAt": "2026-09-06T15:13:07.690Z",
+      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/report/559464",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "aef3ea79a05137",
+      "title": "Jesus debuts and Gordon assists as five-star Barcelona thrash Valencia",
+      "summary": "Jesus debuts and Gordon assists as five-star Barcelona thrash Valencia",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "publishedAt": "2026-09-06T20:12:46.869Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4aa38eb574a449",
+      "title": "Two right-backs in midfield - are Chelsea short despite £349m spent?",
+      "summary": "Chelsea ended Sunday's 2-1 defeat by champions Arsenal with two right-backs alongside each other in midfield - how did they get here?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T19:31:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "659d0f30f6eae2",
+      "title": "Watch: Bundesliga highlights",
+      "summary": "Watch highlights from matchday two of the Bundesliga.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4t?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T19:13:56.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "5a82550c746c2e",
+      "title": "After transfer worries, Everton have an unlikely new hero",
+      "summary": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T19:09:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "22464904c0cefb",
+      "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+      "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Ma...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T18:58:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a91f8b5f6b57f2",
+      "title": "Champions Arsenal come from behind to beat Chelsea",
+      "summary": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T18:58:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "71343232199e9b",
+      "title": "Liverpool beat newly-promoted Charlton 4-0",
+      "summary": "Grace Fisk scores twice as Liverpool beat newly promoted Charlton in the Women's Super League at The Valley.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckgvx2y657go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T18:53:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f1612d500e8856",
+      "title": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
+      "summary": "Manager praises team’s resilience after late equaliser ‘Everyone has to find a way of making it work’ David Moyes praised Everton’s resilient response to a troubled wee...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
+      "publishedAt": "2026-09-06T18:49:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a18171ebfc3e4c",
+      "title": "Shaw double leads Man City to victory over Birmingham",
+      "summary": "Manchester City's defence of their Women's Super League title gets off to the perfect start with victory over newly promoted Birmingham City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T18:47:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a367412e66f85a",
+      "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+      "summary": "Fermín, Raphinha and Pedri also score in 5-0 La Liga win Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolis...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
+      "publishedAt": "2026-09-06T18:41:21.000Z",
+      "category": "league",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "82a747ace3f898",
+      "title": "Gary Neville questions £133m Chelsea transfer deals after Arsenal loss as Xabi Alonso addresses midfield concerns",
+      "summary": "Gary Neville has questioned Chelsea’s decision to sell Enzo Fernandez, while raising concerns about new signing Emi Martinez in the wake of their defeat to Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gary-neville-133m-chelsea-transfer-deals-arsenal-loss-xabi-alonso",
+      "publishedAt": "2026-09-06T18:39:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c7a7c8413af80a",
+      "title": "Chelsea defeat by Arsenal hurts - Alonso",
+      "summary": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat by rivals Arsenal in a thrilling London derby at the Emirates Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T18:35:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ff17517d0e6d90",
+      "title": "Women’s Super League: Shaw doubles up to give Manchester City winning start",
+      "summary": "Striker scores twice to sink Birmingham Arsenal, Palace, Spurs and Liverpool win Some things just feel inevitable. Some strikers just feel inevitable. Despite a new sea...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/womens-super-league-wsl-roundup-khadija-shaw-manchester-city-birmingham",
+      "publishedAt": "2026-09-06T18:35:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bbd43075df7700",
+      "title": "Martindale interim boss as Livingston dismiss Whelan after nine games",
+      "summary": "Livingston sack Glenn Whelan after just nine games, with David Martindale returning to the head coach position on a temporary basis.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gvkd530dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T18:26:51.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "ebdbed2074f888",
+      "title": "Manchester United’s front four show flashes but need more time to become fantastic | Will Unwin",
+      "summary": "Mbeumo’s goal was a moment of individual inspiration but Michael Carrick will want more from Fernandes, Cunha and Rashford Tunnel vision allowed Bryan Mbeumo seconds of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/manchester-uniteds-front-four-show-flashes-but-need-more-time-to-become-fantastic",
+      "publishedAt": "2026-09-06T18:00:11.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "986041a07b2989",
+      "title": "Ødegaard fires winner as Arsenal complete comeback win over Chelsea",
+      "summary": "The first heavyweight encounter of the Premier League season was previewed in some quarters as the immovable object versus the irresistible force. Arsenal do not give a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report",
+      "publishedAt": "2026-09-06T17:53:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2e58506412a206",
+      "title": "Gary Neville backtracks with Arsenal view on Morgan Rogers as Chelsea man breaks Prem record v Gunners",
+      "summary": "Gary Neville conceded that perhaps Arsenal should have signed Morgan Rogers in the summer as the Chelsea man scored against the Gunners with his first touch of the fixt...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gary-neville-backtracks-arsenal-signing-chelsea-star-morgan-rogers",
+      "publishedAt": "2026-09-06T17:33:15.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -222,42 +426,123 @@
       ]
     },
     {
-      "id": "b72311d927bfe3",
-      "title": "Scorecard: England vs Ireland, third women's ODI",
-      "summary": "Latest score from the third and final one-day international between England and Ireland in Worcester. Watch on Sky Sports Cricket.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-women-v-ireland-women/scorecard/2bcda366-f5e0-50a1-9e3e-d68c0f6994ca",
-      "publishedAt": "2026-09-06T15:13:07.690Z",
+      "id": "47e2c356dd3bea",
+      "title": "Mikel Arteta has his captain back as Odegaard shows levels between Arsenal and Chelsea",
+      "summary": "Arsenal are playing with more freedom and much of that is down to the form of Sunday’s match-winner against Chelsea, Martin Odegaard.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-arteta-odegaard-levels-between-arsenal-chelsea",
+      "publishedAt": "2026-09-06T17:33:15.000Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
-      "id": "bcf192cba9ac30",
-      "title": "'Saka NEEDS to level up' - Nev, Wright, Carra & Sturridge debate Arsenal's attack",
-      "summary": "Ian Wright, Jamie Carragher, Gary Neville and Daniel Sturridge debate how Arsenal's attack shapes up and whether Bukayo Saka needs to step up to another level for the G...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582290/carragher-wright-neville-and-sturridge-debate-whether-saka-needs-to-step-up-more-for-arsenal",
-      "publishedAt": "2026-09-06T15:13:07.690Z",
-      "category": "transfer",
+      "id": "f9cc265e8cdbe0",
+      "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+      "summary": "How Arsenal and Chelsea's players rated following their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T17:31:56.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "99939b1a444759",
+      "title": "Man Utd cannot ignore more dropped points despite positives",
+      "summary": "Manchester United boss Michael Carrick remains optimistic despite his side dropping another two points at Everton.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17jr44d7kro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T17:18:32.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "54d05207476d88",
+      "title": "Baum scores on debut as Arsenal edge Brighton",
+      "summary": "Lisa Baum scores on her Arsenal debut as the Gunners beat Brighton 1-0 in the Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czxz0j29eg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T16:42:05.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Arsenal"
       ]
     },
     {
-      "id": "adf686257dc6e7",
-      "title": "'That's OUTRAGEOUS!' - Maitland-Niles' audacious strike levels for Everton on debut",
-      "summary": "Ainsley Maitland-Niles score a last-minute stunner to snatch a point for Everton in their Premier League clash with Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13582384/goal-a-maitland-niles-906-everton-2-2-manchester-utd",
-      "publishedAt": "2026-09-06T15:13:07.690Z",
+      "id": "21aeae0588ac78",
+      "title": "Man Utd cling onto Ole Gunnar Solskjaer silver lining despite hitting 50-year-low at Everton",
+      "summary": "Manchester United conceded a 96th-minute equaliser as Michael Carrick’s side were held to a thrilling 2-2 draw with Everton on Sunday. After Bruno Fernandes and Thierno...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-ole-gunnar-solskjaer-silver-lining-hitting-50-year-low-everton",
+      "publishedAt": "2026-09-06T16:19:06.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "531fece18681f5",
+      "title": "Man Utd result won't calm Everton fans - Moyes",
+      "summary": "Everton manager David Moyes says Everton's 2-2 draw against Manchester United won't calm the unrest from Toffees fans over the state of their squad.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckg72549wg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T16:17:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a026a430ede942",
+      "title": "Carrick 'disappointed' that Man Utd could not see game out",
+      "summary": "Manchester United boss Michael Carrick says his side made decisions that made the game more difficult as Everton rescued a point with a stoppage-time equaliser at Hill...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5ye5178e62o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T16:02:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3e7075f6a4369f",
+      "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
+      "summary": "Vardy a free agent after departing Cremonese Plans to play on despite burgeoning media career Jamie Vardy has returned to English football after signing for Burnley in...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
+      "publishedAt": "2026-09-06T15:16:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "17c3c62dc6e538",
+      "title": "Which sub had biggest impact? Everton v Man Utd player ratings",
+      "summary": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T15:11:29.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
@@ -273,38 +558,6 @@
       "tags": [
         "Premier League",
         "Inter"
-      ]
-    },
-    {
-      "id": "947f9a961bd537",
-      "title": "Everton 2-2 Manchester United: Premier League – live",
-      "summary": "Minute-by-minute updates from the action at Hill Dickinson Stadium Transfer failures leave Everton scrambling | Mail Tim “Selected scuttlebut,” says Ian Copestake, prom...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "publishedAt": "2026-09-06T14:59:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bc26524b01408f",
-      "title": "Arsenal v Chelsea: Premier League – live",
-      "summary": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-      "publishedAt": "2026-09-06T14:58:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Arsenal"
       ]
     },
     {
@@ -349,254 +602,6 @@
       "tags": [
         "Premier League",
         "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "da4e38c6d8fd5b",
-      "title": "Arsenal still have £237.5m attacking trio in sight for future windows, insider confirms",
-      "summary": "Arsenal maintain interest in £237.5million worth of attacking talent in future windows, while Real Madrid could have a say in one of those pursuits.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-237-5m-attacking-trio-eli-junior-kroupi-kenan-yildiz-nico-paz-sight",
-      "publishedAt": "2026-09-06T13:46:05.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "01320b5b136312",
-      "title": "Gary Neville insists Man Utd will have ‘real problem’ on two conditions after ‘absolutely essential’ deals",
-      "summary": "Manchester United legend Gary Neville has explained why he thinks his former club will have a “real problem” on two conditions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-neville-man-utd-real-problem-two-conditions-absolutely-essential-deals",
-      "publishedAt": "2026-09-06T13:24:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "15c329e8b9bc4f",
-      "title": "Brighton 0-1 Arsenal: Women’s Super League – as it happened",
-      "summary": "Lisa Baum’s superb solo goal earned Arsenal a narrow win but Arturo Ruiz will take hope from his first game in charge of Brighton 1 min: Arsenal pass the ball around se...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/06/brighton-v-arsenal-womens-super-league-live",
-      "publishedAt": "2026-09-06T13:21:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3b074323aef392",
-      "title": "Fifa president Infantino will stand for re-election",
-      "summary": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T13:01:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "725f3a33e022d0",
-      "title": "Frank Lampard reveals ‘difference’ between Arsenal, Man City after Coventry City losses",
-      "summary": "Coventry City boss Frank Lampard has shed light on what is currently separating Arsenal and Manchester City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/frank-lampard-reveals-difference-between-arsenal-man-city-coventry-city",
-      "publishedAt": "2026-09-06T12:52:30.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "79da731366920e",
-      "title": "Paul Ince hits out at two Man Utd summer transfers as INEOS mistake raised – ‘I don’t understand’",
-      "summary": "Ex-Manchester United midfielder Paul Ince has hit out at his former club for signing the £120m pair Carlos Baleba and Andrey Santos this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/paul-ince-hits-out-two-man-utd-summer-transfers",
-      "publishedAt": "2026-09-06T12:19:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d86abeb4b19172",
-      "title": "Ex-Chelsea flop rejected Man Utd summer transfer for one reason with INEOS ‘ready to push the limits’",
-      "summary": "According to reports, Manchester United and another Premier League club were ‘turned down’ by ex-Chelsea flop Christopher Nkunku in the summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ex-chelsea-flop-rejected-man-utd-summer-transfer-one-reason-ineos-push-limits",
-      "publishedAt": "2026-09-06T11:41:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1b16de230c25ad",
-      "title": "Liverpool signing Minteh in January depends on two conditions as Reds force Chelsea to make new plan",
-      "summary": "According to reports, Liverpool signing Yankuba Minteh in January depends on two conditions, while the Reds have ‘forced Chelsea into a new plan’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-signing-minteh-january-two-conditions-reds-force-chelsea-new-plan",
-      "publishedAt": "2026-09-06T10:59:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4ea5ab8a6bc262",
-      "title": "Chelsea want early signing of top midfield target after being given unequivocal response",
-      "summary": "According to reports, Chelsea are ‘ready’ to strike a deal with AFC Bournemouth for midfielder Alex Scott now ahead of a move next summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-want-early-signing-top-midfield-target-unequivocal-response",
-      "publishedAt": "2026-09-06T10:21:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d73b7a48a8715f",
-      "title": "Alan Shearer makes Enzo Maresca sack and Man City FFP claims – ‘I haven’t got a clue how’",
-      "summary": "Alan Shearer thinks Manchester City head coach Enzo Maresca could face the sack if they don’t win the Premier League this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alan-shearer-enzo-maresca-sack-man-city-ffp-claims",
-      "publishedAt": "2026-09-06T09:52:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "df1cf5cb539e5f",
-      "title": "Michael Carrick backs Man Utd star to have ‘another big season’, makes winning major trophies claim",
-      "summary": "Manchester United head coach Michael Carrick has backed his side to challenge for major trophies this season, while he has offered his thoughts on Kobbie Mainoo.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-backs-man-utd-star-big-season-winning-major-trophies-claim",
-      "publishedAt": "2026-09-06T09:11:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "103a260e552df3",
-      "title": "Arsenal choose two top transfer targets for January after Arteta eyed Tottenham pair this summer",
-      "summary": "According to reports, Arsenal have already identified two top targets for the January transfer window after they looked to raid Tottenham Hotspur in the summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-choose-two-top-transfer-targets-january-arteta-eyed-tottenham-pair",
-      "publishedAt": "2026-09-06T08:29:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1e8c4e18f5f34a",
-      "title": "Liverpool: Pundit predicts new role for Gakpo as Iraola masterplan for Barcola mooted",
-      "summary": "A former Liverpool star has predicted a ‘new role’ for Cody Gakpo following the summer arrival of Bradley Barcola from Paris Saint-Germain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-pundit-predicts-new-role-gakpo-iraola-masterplan-barcola",
-      "publishedAt": "2026-09-06T07:53:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "661aa4c5d35c7a",
-      "title": "Bruno Fernandes reaches decision on signing new Man Utd contract as accelerate claim emerges",
-      "summary": "Bruno Fernandes has interest from elsewhere, but he reportedly wants to remain at Manchester United and sign a new contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-fernandes-reaches-decision-signing-new-man-utd-contract",
-      "publishedAt": "2026-09-06T07:13:49.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2c43e17d6dc935",
-      "title": "‘That will cost them’ – Paul Merson sends Arsenal warning after £60m transfer decision",
-      "summary": "Paul Merson has revealed what “will cost” Arsenal in the Champions League this season after the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/paul-merson-sends-arsenal-warning-60m-transfer-decision",
-      "publishedAt": "2026-09-06T06:44:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "968ae83b27c342",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmrgl3zerpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T06:02:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "38e9f4b045c1b2",
-      "title": "Wrexham boss Parkinson says Swansea captain should have seen red",
-      "summary": "The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq5pl3y41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T22:18:56.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "120a524b2939ea",
-      "title": "How Man Utd plan to compete at top with big-spending rivals",
-      "summary": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spend...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T21:57:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     }
