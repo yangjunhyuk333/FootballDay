@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-05T20:08:04.182Z",
+  "generatedAt": "2026-09-06T03:50:48.902Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "1fc8b191feeb24",
+      "id": "fa3255ec8d06a8",
       "title": "Villa take first point but rue missed chances in Hull stalemate",
       "summary": "Aston Villa picked up their first Premier League point of the season, but were left to rue missed chances in their 0-0 draw against Hull City.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13571937/hull-0-0-aston-villa-tigers-remain-unbeaten-as-unai-emerys-200th-game-in-charge-fails-to-bring-much-needed-goal",
-      "publishedAt": "2026-09-05T20:08:03.847Z",
+      "url": "https://www.skysports.com/football/hull-city-vs-aston-villa/report/559469",
+      "publishedAt": "2026-09-06T03:50:48.239Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,9 +112,75 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "38e9f4b045c1b2",
+      "title": "Wrexham boss Parkinson says Swansea captain should have seen red",
+      "summary": "The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3eq5pl3y41o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T22:18:56.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "120a524b2939ea",
+      "title": "How Man Utd plan to compete at top with richer rivals",
+      "summary": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spend...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:57:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1d3111227977f6",
+      "title": "Michael Carrick wowed by two Everton midfielders – Man Utd sold one of them",
+      "summary": "Manchester United manager Michael Carrick has been singing the praises of two Everton midfielders ahead of the Premier League game on Sunday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/james-garner-hayden-hackney-michael-carrick-everton-manchester-united",
+      "publishedAt": "2026-09-05T20:58:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fea6991587a118",
+      "title": "Seven points from three games - are Hull on track to avoid relegation?",
+      "summary": "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T20:56:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7b81b7cd9cc1f9",
+      "title": "Liverpool may make January move for Sarr - Sunday's gossip",
+      "summary": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T20:24:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
       "id": "e00f96780c50c9",
-      "title": "European football: Martinez seals thrilling comeback for unbeaten Inter",
-      "summary": "Serie A champions recover to beat Napoli in stoppage time Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied...",
+      "title": "European football: Martínez seals thrilling comeback for unbeaten Inter",
+      "summary": "Champions Inter and Roma pull off stunning comebacks Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli",
       "publishedAt": "2026-09-05T19:50:21.000Z",
@@ -252,7 +318,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "43b4751dd736b1",
-      "title": "High-flying Hull maintain unbeaten start by holding off Aston Villa in stalemate",
+      "title": "High-flying Hull stay unbeaten by holding off Aston Villa in stalemate",
       "summary": "It’s never dull in Hull, as the saying goes in these parts, and after just three games the Premier League is proving to be quite some ride for Hull City supporters. Hav...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report",
@@ -511,19 +577,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3ef488c982a376",
-      "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
-      "summary": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T13:32:05.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "77b66a7bb50f90",
       "title": "Top journalist rates Man Utd chances of signing Lewis Hall as INEOS line up four defender deals",
       "summary": "Newcastle left-back Lewis Hall could be one of four defender signings in the next two transfer windows at Man Utd, according to reports.",
@@ -534,60 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "3746d86dd2f89e",
-      "title": "Hughes steps down as Liverpool sporting director",
-      "summary": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T12:52:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a5e0444a2b3f53",
-      "title": "‘Klopp vibes’ about Liverpool after best performance for a year",
-      "summary": "The Mailbox watched Liverpool control Ipswich in a way not seen since they beat the champions at the start of last season…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mailbox-liverpool-klopp-iraola-ipswich-isak",
-      "publishedAt": "2026-09-05T12:26:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e2ae9445064278",
-      "title": "Inside story revealed by Jacobs as Liverpool finally confirm Richard Hughes exit",
-      "summary": "Ben Jacobs has revealed the truth around Richard Hughes’ departure from Liverpool as the Reds officially announced his exit on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-jacobs-inside-story-richard-hughes-exit-al-hilal",
-      "publishedAt": "2026-09-05T12:14:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6d729439dcbe78",
-      "title": "Arsenal plot game-changing Chelsea raid worth £100m – report",
-      "summary": "The Gunners hold interest in a Chelsea forward heading towards the January window, as per a report, and he has been described as a ‘game-changer’",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-news-pedro-neto-interest-chelsea-january-raid-100-million",
-      "publishedAt": "2026-09-05T11:29:45.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Inter"
       ]
     }
   ],
