@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-06T20:12:47.045Z",
+  "generatedAt": "2026-09-07T03:49:49.033Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an inside-right position and threaded a pass towards Kai Havertz, whose fl...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
+      "publishedAt": "2026-09-07T03:49:48.687Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "FREE TO WATCH: Highlights from the Premier League match between Arsenal and Chelsea.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582508/arsenal-2-1-chelsea-premier-league-highlights",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
+      "publishedAt": "2026-09-07T03:49:48.687Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -127,53 +127,167 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "10454d1bd3d16e",
-      "title": "'All over the place' - Neville questions Chelsea defence after defeat",
-      "summary": "Gary Neville criticised Chelsea's \"all over the place\" back three in their Super Sunday defeat to Arsenal - but believes Xabi Alonso's side are capable of finshing seco...",
+      "id": "f70256c65f0733",
+      "title": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582543/arsenal-2-1-chelsea-gary-neville-questions-chelseas-all-over-the-place-back-three-after-defeat-but-is-confident-they-can-finish-top-three",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
+      "url": "https://www.skysports.com/football/news/12040/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
+      "publishedAt": "2026-09-07T03:49:48.686Z",
       "category": "transfer",
-      "region": "england",
+      "region": "germany",
       "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
+        "Transfer"
       ]
     },
     {
-      "id": "1911d40094a836",
-      "title": "Nev fearful Man Utd's habit of conceding goals isn't going away",
-      "summary": "Gary Neville is fearful that Manchester United's habit of conceding goals isn't going away after they shipped two goals for the third game running at Everton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582539/everton-2-2-man-utd-gary-neville-fearful-that-manchester-uniteds-liability-of-conceding-goals-isnt-going-away",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
-      "category": "transfer",
+      "id": "ee8c8a5ad9fba2",
+      "title": "Young praises Rashford and Shaw chemistry",
+      "summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickins...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T23:07:31.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "0d60b3bde1ce93",
-      "title": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
-      "summary": "Carrick's Man Utd missing spark as Konsa shines for Arsenal",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
-      "category": "transfer",
+      "id": "ff8a994842ff42",
+      "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
+      "summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T22:50:22.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Chelsea"
       ]
     },
     {
-      "id": "039167e64118ef",
-      "title": "Arsenal edge out Chelsea in pulsating London derby",
-      "summary": "Arsenal came from behind to beat Chelsea 2-1 in the first real major Premier League heavyweight clash of the new campaign - in an early contender for game of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-chelsea/report/559464",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
+      "id": "6bcacc5df8567a",
+      "title": "Odegaard 'desire' in Chelsea win impresses Rooney",
+      "summary": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T22:32:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ce7c8ca835cac3",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T22:06:40.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1b4e43df6ee05d",
+      "title": "When Man City call you don't say no - Ndiaye",
+      "summary": "New £60m Manchester City signing Iliman Ndiaye says playing in the Champions League is where he belongs.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx5vxpl37zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T21:30:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a367412e66f85a",
+      "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+      "summary": "Gatti’s stoppage-time header rescues Juve against Milan Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolish...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
+      "publishedAt": "2026-09-06T21:25:17.000Z",
+      "category": "league",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f0f8f86c51054f",
+      "title": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
+      "summary": "Hughes joins Saudi exodus after two years at Anfield Martinelli, Summerville and Watkins are at Al-Hilal Richard Hughes has been appointed as the sporting director ⁠of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
+      "publishedAt": "2026-09-06T21:15:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fcb14d607c5cf9",
+      "title": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
+      "summary": "The home side’s response to Chelsea’s early goal was to play breathless attacking football We’re back, baby. So, so back. Well, OK, not exactly back. But back down the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026",
+      "publishedAt": "2026-09-06T21:08:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "5bac20bf1936c1",
+      "title": "Football Daily",
+      "summary": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the Premier League weekend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m00319lp?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T21:07:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6ff2c2c58b4789",
+      "title": "Chelsea plot early move for Scott - Monday's gossip",
+      "summary": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Chr...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T20:54:40.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "912157d093609b",
+      "title": "16 Conclusions from Arsenal 2-1 Chelsea: Havertz, Odegaard, Rogers, keepers, dummies, Gary Neville Noises",
+      "summary": "Arsenal landed the first major blow in the first major heavyweight clash of this Premier League season, but Chelsea proved they are proper.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-chelsea-havertz-odegaard-martinez-rogers-16-conclusions",
+      "publishedAt": "2026-09-06T20:42:29.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -183,16 +297,34 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "aef3ea79a05137",
-      "title": "Jesus debuts and Gordon assists as five-star Barcelona thrash Valencia",
-      "summary": "Jesus debuts and Gordon assists as five-star Barcelona thrash Valencia",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-09-06T20:12:46.869Z",
-      "category": "transfer",
-      "region": "spain",
+      "id": "c32aaaa172e275",
+      "title": "No new striker, no worries - Havertz and Odegaard torment Chelsea",
+      "summary": "Nine points from three games, one goal conceded and big players stepping up - are Arsenal still ahead of the rest in the race for the Premier League title?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T20:25:24.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Barcelona"
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0a4a7347920082",
+      "title": "‘Exceptional performance’: Arteta hails fightback win and says best yet to come",
+      "summary": "Manager delighted by reaction to Chelsea’s opener Alonso says his side must be ‘tighter’ Mikel Arteta warned that Arsenal are capable of hitting even greater heights af...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/06/exceptional-arteta-arsenal-fightback-win-chelsea",
+      "publishedAt": "2026-09-06T19:52:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
@@ -207,19 +339,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "659d0f30f6eae2",
-      "title": "Watch: Bundesliga highlights",
-      "summary": "Watch highlights from matchday two of the Bundesliga.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4t?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T19:13:56.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
       ]
     },
     {
@@ -307,22 +426,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a367412e66f85a",
-      "title": "European football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
-      "summary": "Fermín, Raphinha and Pedri also score in 5-0 La Liga win Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolis...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
-      "publishedAt": "2026-09-06T18:41:21.000Z",
-      "category": "league",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
       "id": "82a747ace3f898",
       "title": "Gary Neville questions £133m Chelsea transfer deals after Arsenal loss as Xabi Alonso addresses midfield concerns",
       "summary": "Gary Neville has questioned Chelsea’s decision to sell Enzo Fernandez, while raising concerns about new signing Emi Martinez in the wake of their defeat to Arsenal.",
@@ -393,22 +496,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Manchester",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "986041a07b2989",
-      "title": "Ødegaard fires winner as Arsenal complete comeback win over Chelsea",
-      "summary": "The first heavyweight encounter of the Premier League season was previewed in some quarters as the immovable object versus the irresistible force. Arsenal do not give a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report",
-      "publishedAt": "2026-09-06T17:53:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
       ]
     },
     {
@@ -516,92 +603,6 @@ window.FOOTBALLDAY_DATA = {
       "category": "league",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3e7075f6a4369f",
-      "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
-      "summary": "Vardy a free agent after departing Cremonese Plans to play on despite burgeoning media career Jamie Vardy has returned to English football after signing for Burnley in...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
-      "publishedAt": "2026-09-06T15:16:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "17c3c62dc6e538",
-      "title": "Which sub had biggest impact? Everton v Man Utd player ratings",
-      "summary": "How Everton and Manchester United's players rated at Hill Dickinson Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T15:11:29.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b70cb406f2290e",
-      "title": "Alejandro Garnacho is already ‘completely disinterested’ at Aston Villa – pundit",
-      "summary": "Former Aston Villa man described Alejandro Garnacho as “completely disinterested” during the club’s Premier League match against Hull City on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alejandro-garnacho-completely-disinterested-aston-villa",
-      "publishedAt": "2026-09-06T15:04:57.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "38cabdf07e25c5",
-      "title": "Embattled Fifa president Infantino declares intention to stand for re-election",
-      "summary": "Infantino is under pressure to resign after sell-off plan Uefa has led calls for president to quit The Fifa president, Gianni Infantino, has reiterated his desire to st...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "publishedAt": "2026-09-06T14:03:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "73fbb2691f04cd",
-      "title": "Man Utd forced to go back to the drawing board as £75m INEOS target makes Premier League contract call",
-      "summary": "Newcastle United have made it clear they want to keep Lewis Hall, as reports suggest the Manchester United target is set to sign a new contract extension.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-back-drawing-board-75m-ineos-target-premier-league-contract-call",
-      "publishedAt": "2026-09-06T13:57:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bdd2bb8d6add8c",
-      "title": "Chelsea target tipped to ‘go to Man Utd’ as Obi Mikel makes PL title prediction – ‘the team to beat’",
-      "summary": "Chelsea legend John Obi Mikel has backed Adam Wharton to join Manchester United, while he has made a Premier League title prediction.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-target-tipped-go-to-man-utd-obi-mikel-pl-title-prediction",
-      "publishedAt": "2026-09-06T13:50:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea",
         "Manchester"
       ]
     }
