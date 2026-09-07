@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-07T12:02:02.703Z",
+  "generatedAt": "2026-09-07T21:20:22.528Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "d3567ee548ef67",
-      "title": "Rangers' Shankland blow, Celtic lose Yang & managers already under pressure",
-      "summary": "Injury blows, international losses and pressure mounting on THREE managers.",
+      "id": "dfcd0200a92183",
+      "title": "Red Roses name experienced squad for home leg of WXV Global Series",
+      "summary": "Red Roses head coach John Mitchell has named an experienced 36-player squad for the home leg of the WXV Global Series, with 25 World Cup winners included.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582658/scottish-premiership-rangers-lawrence-shankland-blow-celtic-lose-hyun-jun-yang-is-pressure-on-at-hibs-aberdeen-kilmarnock",
-      "publishedAt": "2026-09-07T12:02:02.442Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "d3a182ca8545f5",
-      "title": "England appoint Pietersen as specialist mentor for white-ball teams",
-      "summary": "Kevin Pietersen is to join the England men's white-ball teams as a specialist mentor in the build-up to next year's Cricket World Cup in Africa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13582723/kevin-pietersen-england-appoint-former-captain-as-specialist-mentor-for-white-ball-teams",
-      "publishedAt": "2026-09-07T12:02:02.442Z",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13582740/red-roses-name-25-world-cup-winners-in-36-player-squad-for-home-leg-of-wxv-global-series",
+      "publishedAt": "2026-09-07T21:20:22.214Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -125,418 +112,183 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d6f401897fc207",
-      "title": "Premier League winners and losers: Arsenal, Arbeloa, Araujo, Ipswich, Vuskovic, De Zerbi",
-      "summary": "De Zerbi seems to be slowly losing his mind at Spurs, joining Arbeloa in a race to the bottom. But Arsenal, Hull and Ronald Araujo are decent.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-winners-losers-arsenal-arbeloa-araujo",
-      "publishedAt": "2026-09-07T12:00:55.000Z",
+      "id": "b20be5ca055404",
+      "title": "Isak reflects on quick goalscoring start to the season",
+      "summary": "Liverpool striker Alexander Isak reflects on his start to the season where he has scored three goals in three games.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13582859/liverpool-alexander-isak-reflects-on-his-start-to-the-season",
+      "publishedAt": "2026-09-07T21:20:22.214Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2c631c77c6ff74",
-      "title": "Michael Carrick ‘spots’ major Manchester United problem as transfer decisions made",
-      "summary": "Michael Carrick has spotted a problem at Manchester United, while there’s also news of transfer decisions being made at Old Trafford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-spots-man-united-problem-mediawatch",
-      "publishedAt": "2026-09-07T11:30:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "400b19adcba916",
-      "title": "Karius keeps Kane at bay as Schalke nullify Bayern on Neuer’s return | Andy Brassell",
-      "summary": "The often-derided Loris Karius upstaged Manuel Neuer as Schalke held Bayern to a rare goalless draw in a tale of two goalkeepers in Gelsenkirchen If one goalkeeper was...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/loris-karius-manuel-neuer-harry-kane-schalke-bayern-munich-bundesliga",
-      "publishedAt": "2026-09-07T11:29:40.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "f1f0252ebbdd86",
-      "title": "Man Utd reach decision on signing free agent David Alaba after Real Madrid exit",
-      "summary": "Manchester United have reportedly ruled out a move for former Real Madrid star David Alaba, though one factor could change their stance.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-reach-decision-signing-free-agent-david-alaba-real-madrid-exit",
-      "publishedAt": "2026-09-07T11:28:49.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "d91a67aacf1204",
-      "title": "WSL talking points: Palace result in doubt after substitution nightmare, Arsenal signings shine",
-      "summary": "Promoted side’s thrilling win may be overturned after they used four substitutions windows while Georgia Stanway show the way for Gunners Kirsty Howat’s 60-second cameo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-arsenal-signings-shine",
-      "publishedAt": "2026-09-07T11:20:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ef0b8c88a56531",
-      "title": "Jadon Sancho in talks with two Premier League clubs as ex-Man Utd star eyes next move",
-      "summary": "Jadon Sancho is in talks with at least two Premier League clubs as he looks to take on a new challenge following his departure from Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jadon-sancho-transfer-premier-league-talks-borussia-dortmund",
-      "publishedAt": "2026-09-07T11:19:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8d32839a348944",
-      "title": "‘Relief’ of Premier League title has given Arsenal confidence, says David Raya",
-      "summary": "Keeper says Gunners ‘can beat anybody in this league’ Arteta’s side have started title defence with three wins David Raya says Arsenal are playing with greater confiden...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/david-raya-arsenal-confidence-premier-league-relief",
-      "publishedAt": "2026-09-07T11:00:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "31496258c3f695",
-      "title": "Arsenal discuss January swap deal to sign England striker as advanced talks with Arteta underway",
-      "summary": "According to reports, Viktor Gyokeres could leave Arsenal as part of a January swap deal, while Mikel Arteta is set to sign a new contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-gyokeres-january-swap-deal-advanced-talks-arteta",
-      "publishedAt": "2026-09-07T10:47:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "570763cb9064c0",
-      "title": "‘Their legs aren’t connected to their hips’ – Gary Neville slams Chelsea trio after Arsenal woes",
-      "summary": "Chelsea have now conceded seven goals in their three league outings to date, and Neville is convinced they will need to make major improvements to Alonso’s defence goin...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-neville-destroys-chelsea-defensive-trio-new-signings-needed",
-      "publishedAt": "2026-09-07T10:35:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6ea4effda09ece",
-      "title": "Belgian FA still wants Balogun ban answers",
-      "summary": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T10:32:29.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a315b066467762",
-      "title": "Porto v Man City: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between Porto and Man City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/porto-v-man-city-prediction-preview",
-      "publishedAt": "2026-09-07T10:22:09.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "55b5e79ccd6a9d",
-      "title": "Chelsea: Carragher claims supposed ‘signing of century’ is past-it as Wright hits out at transfer mistake",
-      "summary": "Jamie Carragher has questioned Chelsea new signing Emiliano Martinez, while Ian Wright has hit out at a Blues transfer mistake.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-carragher-claims-signing-century-past-it-wright-transfer-mistake",
-      "publishedAt": "2026-09-07T10:02:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8a686cc69f4225",
-      "title": "Why is Sunderland vs Arsenal at 8pm on Saturday?",
-      "summary": "BBC Sport's Ask Me Anything team explains why Saturday's Premier League fixture between Sunderland and Arsenal is kicking off at 8pm",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly4ll5qlvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T09:54:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9f4c913db0d5a8",
-      "title": "Ferdinand disagrees with Carrick ‘decision’ on Man Utd star as Neville reveals ‘liability’",
-      "summary": "Manchester United legend Rio Ferdinand has revealed why he disagrees with Michael Carrick’s “decision” on defender Ayden Heaven.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ferdinand-disagrees-carrick-decision-man-utd-star-neville-reveals-liability",
-      "publishedAt": "2026-09-07T09:36:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1be33c264cf26f",
-      "title": "Rooney, Carrick heap praise on Man Utd duo as transfer decision to help Rashford revealed",
-      "summary": "Wayne Rooney and Michael Carrick have both been complimentary of a Manchester United duo, after a transfer call was made which has helped out Marcus Rashford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/wayne-rooney-michael-carrick-praise-luke-shaw-marcus-rashford-united",
-      "publishedAt": "2026-09-07T09:12:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2e124e365c0c16",
-      "title": "Chelsea slammed over selling ‘world-class’ star to Arsenal – ‘It’s just not good enough’",
-      "summary": "The Germany forward helped the Gunners maintain their perfect start to the new season by scoring the equaliser at Emirates Stadium, before the home side went on to beat...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-slammed-selling-world-class-kai-havertz-arsenal",
-      "publishedAt": "2026-09-07T09:11:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "26efe5e0465ec1",
-      "title": "Liverpool boost as Lamine Camara decides ‘dream’ move with Chelsea, Monaco ‘relationship broken’",
-      "summary": "According to reports, Liverpool appear more likely than Chelsea to sign AS Monaco midfielder Lamine Camara next year.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-boost-lamine-camara-decides-dream-move-chelsea-monaco-broken",
-      "publishedAt": "2026-09-07T09:08:26.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Chelsea",
         "Liverpool"
       ]
     },
     {
-      "id": "d42ecb6bc95b88",
-      "title": "CBS’s Champions League studio panel are back and ready to irritate each other",
-      "summary": "Kate Scott, Thierry Henry, Jamie Carragher and Micah Richards discuss their oft-viral approach to covering soccer for a US audience It takes something special for a spo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/cbss-champions-league-studio-panel-are-back-and-ready-to-irritate-each-other",
-      "publishedAt": "2026-09-07T09:00:30.000Z",
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "summary": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-07T21:20:22.213Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "77fe7d4fac179a",
+      "title": "Leicester have sunk to new low under Martin but can he turn it around?",
+      "summary": "A decade ago in September 2016, Leicester City were getting ready to play in the Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
+      "publishedAt": "2026-09-07T21:20:22.213Z",
       "category": "ucl",
       "region": "england",
       "tags": [
-        "Football",
-        "Soccer",
         "Champions League"
       ]
     },
     {
-      "id": "6bd0d2fb39adf4",
-      "title": "Reason Man Utd pulled plug on signing Lewis Hall revealed as Newcastle agreement surfaces",
-      "summary": "According to reports, Manchester United “pulled the plug” on signing Newcastle United star Lewis Hall in the summer due to one “big concern”.",
+      "id": "714c43b289552e",
+      "title": "Souness brands Arsenal hero a ‘cheat’ playing ‘old man football’ – ‘He’s not a midfield player’",
+      "summary": "Graeme Souness really isn’t having the “old man” in the Arsenal midfield. “I see him run with the ball 30 yards and pass it square.”",
       "source": "Football365",
-      "url": "https://www.football365.com/news/reason-man-utd-pulled-plug-signing-lewis-hall-revealed-newcastle-agreement-surfaces",
-      "publishedAt": "2026-09-07T08:39:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "73940cd318f0d5",
-      "title": "Chelsea and Man City are moral vacuum; they are algorithms instead of clubs",
-      "summary": "Chelsea and Manchester City represent the worst of football in 2026, which is turning into the worst of years, writes John Nicholson.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-man-city-moral-vacuum-taunting-us-john-nicholson-opinion",
-      "publishedAt": "2026-09-07T08:29:22.000Z",
-      "category": "transfer",
+      "url": "https://www.football365.com/news/arsenal-hero-cheat-old-man-football-not-midfield-player",
+      "publishedAt": "2026-09-07T20:43:59.000Z",
+      "category": "issue",
       "region": "england",
       "tags": [
         "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ccdd5ae8c37c37",
-      "title": "Rooney insists Arsenal star got ‘extremely lucky’ vs Chelsea as Carragher reveals ‘huge worry’",
-      "summary": "Wayne Rooney thinks Arsenal star Gabriel Magalhaes was “extremely lucky” not to get sent off in Sunday’s win against Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rooney-insists-arsenal-star-extremely-lucky-chelsea-carragher-reveals-huge-worry",
-      "publishedAt": "2026-09-07T08:11:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9a6d2fb0cc91e7",
-      "title": "How £725 game-show winnings kick-started Champions League coach's career",
-      "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T08:04:12.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "85489f9337de29",
-      "title": "Neville slams Man Utd star for making ‘massive mistake’ vs Everton and reveals ‘fear’ for Carrick",
-      "summary": "Gary Neville has hit out at Patrick Dorgu for his role in Manchester United’s 2-2 draw against Everton on Sunday afternoon.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/neville-slams-man-utd-star-massive-mistake-everton-reveals-fear-carrick",
-      "publishedAt": "2026-09-07T07:44:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1d2c0067d66b9f",
-      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
-      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
-      "publishedAt": "2026-09-07T07:40:04.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "cae234260655a5",
-      "title": "Who will win PFA Player of the Year award for 2026/27?",
-      "summary": "Will Bruno Fernandes retain his PFA Player of the Year award? He has competition from Manchester City, Chelsea and Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-pfa-player-of-the-year-award-for-2026-27",
-      "publishedAt": "2026-09-07T07:18:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Arbeloa clear favourite as Fulham achieve Fear For Them status",
-      "summary": "A new Premier League season means a new Premier League Sack Race is too. Alvaro Arbeloa currently ‘leads’ the way from a large pack of contenders.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-09-07T07:15:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "8dacab0b5f2451",
-      "title": "Jamie Carragher claims £64m Arsenal star is ‘never’ going to start after Chelsea win",
-      "summary": "Jamie Carragher has explained why he thinks Arsenal striker Viktor Gyokeres is “never” going to start ahead of Kai Havertz.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jamie-carragher-claims-64m-arsenal-star-inever-going-start-chelsea-win",
-      "publishedAt": "2026-09-07T07:14:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a51af581ad2df1",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "summary": "Fulham need a win, Tottenham show some spirit and Jack Grealish offers Everton much-needed energy With 25 minutes to go against Manchester United, the Everton supporter...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action",
-      "publishedAt": "2026-09-07T07:00:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c3ae849b556714",
-      "title": "Arsenal do not have a single ‘wow’ world-class player; only Haaland in PL",
-      "summary": "How did Premier League clubs spend so much money without buying a single world-class player? Arsenal will win title without one again.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-wow-world-class-star-mailbox",
-      "publishedAt": "2026-09-07T06:44:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
         "Arsenal"
       ]
     },
     {
-      "id": "17ec33180b80f4",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "id": "38eb930ca538fe",
+      "title": "Emery ready to ignite Aston Villa’s season at Club Brugge after familiar slow start",
+      "summary": "Manager remains calm despite his side taking one point and scoring no goals in opening three Premier League games Unai Emery is not panicking. He may kick every ball on...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/emery-ready-to-ignite-aston-villas-season-at-club-brugge-after-familiar-slow-start",
+      "publishedAt": "2026-09-07T20:35:03.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "18a0278594d343",
+      "title": "Champions League returns - who are favourites and players to watch?",
+      "summary": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c046pxeeqe6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T05:05:20.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T20:30:53.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "a10e367fa02162",
+      "title": "Arsenal star feels ‘disrespected’ by Arteta after being ‘deliberately benched’ to force failed transfer",
+      "summary": "Piers Morgan says he has it “on good authority” that the Arsenal star is “p****d off” with Mikel Arteta and Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-star-disresepcted-arteta-deliberately-benched-failed-transfer",
+      "publishedAt": "2026-09-07T20:07:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7c0de230ae83e1",
+      "title": "Berta gifted chance to right Arsenal transfer wrongs as Bayern chief opens door to Olise",
+      "summary": "Andrea Berta’s been getting it in the neck for failing to make a marquee forward signing. Michael Olise marquee enough?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-berta-chance-right-arsenal-transfer-wrongs-bayern-chief-opens-door-olise",
+      "publishedAt": "2026-09-07T19:19:04.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "42d83f6d8fc032",
+      "title": "Liverpool v Atletico Madrid: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Champions League clash between Liverpool and Atletico Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/liverpool-v-atletico-madrid-prediction-preview",
+      "publishedAt": "2026-09-07T18:04:28.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "eb645db084d749",
+      "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
+      "summary": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrests The concourses are silent when, deep in the Emirates Stadi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
+      "publishedAt": "2026-09-07T18:00:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c12dc7b60ad5ca",
+      "title": "Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
+      "summary": "As he prepares for the upcoming international window, the US head coach spoke about Folarin Balogun, the LA Olympics and dual national players It’s been two months sinc...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach",
+      "publishedAt": "2026-09-07T17:44:09.000Z",
+      "category": "transfer",
+      "region": "england italy france",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Psg"
+      ]
+    },
+    {
+      "id": "77ffbbcac33c38",
+      "title": "Scholes dreams up real reason for Rice, Rogers bust-up in Arsenal vs Chelsea",
+      "summary": "What was the real reason for the Morgan Rogers, Declan Rice bust-up in Arsenal’s victory over Chelsea? Paul Scholes has a theory.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/scholes-real-reason-rice-rogers-bust-up-arsenal-chelsea",
+      "publishedAt": "2026-09-07T17:26:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c38692bd4cdb4a",
+      "title": "Edu leaves Nottingham Forest after turbulent spell",
+      "summary": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T16:45:43.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -544,56 +296,316 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ee8c8a5ad9fba2",
-      "title": "Young praises Rashford and Shaw chemistry",
-      "summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickins...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T23:07:31.000Z",
-      "category": "league",
+      "id": "c1b00c9d7909a8",
+      "title": "Shearer picks two teams to challenge Arsenal for Premier League after Chelsea win",
+      "summary": "After Arsenal’s 2-1 victory over Chelsea on Sunday, Alan Shearer believes just two teams have what it takes to stop the Gunners retaining the Premier League title.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/shearer-two-teams-chellenge-arsenal-premier-league-chelsea-win",
+      "publishedAt": "2026-09-07T16:40:22.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ff8a994842ff42",
-      "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
-      "summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T22:50:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6bcacc5df8567a",
-      "title": "Odegaard 'desire' in Chelsea win impresses Rooney",
-      "summary": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T22:32:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
+        "Premier League",
         "Arsenal",
         "Chelsea"
       ]
     },
     {
-      "id": "ce7c8ca835cac3",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T22:06:40.000Z",
-      "category": "ratings",
+      "id": "87d7f8bf8e7439",
+      "title": "Joey Barton to remain in custody until trial after bail application turned down",
+      "summary": "Former footballer accused of attack outside golf club His trial has been pushed back to March next year The former footballer Joey Barton will remain in custody until h...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/joey-barton-to-remain-in-custody-until-trial-after-bail-application-turned-down",
+      "publishedAt": "2026-09-07T16:36:25.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "62ad626a4f571a",
+      "title": "Chelsea explored move for Fulham midfielder Berge",
+      "summary": "Chelsea showed late interest in Fulham's Sander Berge as they attempted to strengthen their midfield options before Enzo Fernandez's departure.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T16:03:52.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0c36ccc3338387",
+      "title": "Can Kane buck history and win Ballon d'Or?",
+      "summary": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T16:03:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f5297a8f3d2e71",
+      "title": "Arsenal scout £39m PSG starter in baffling transfer move",
+      "summary": "The Gunners are looking to add a top-class PSG star to Mikel Arteta’s squad in 2027, a report has surprisingly claimed",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-news-transfer-targets-willian-pacho-scouted-psg-baffling-move",
+      "publishedAt": "2026-09-07T15:58:23.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "346518f27a7c98",
+      "title": "Chelsea can win the Premier League for one reason ignored by Neville and co.",
+      "summary": "Chelsea losing to Arsenal and failing to replace Enzo Fernandez doesn’t mean they can’t win the Premier League. Neville and co. are ignoring the key reason why they can.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-alonso-neville-chelsea-win-premier-league-seven-words",
+      "publishedAt": "2026-09-07T15:58:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "496b5df85f339c",
+      "title": "Who will be new Liverpool sporting director - and what issues do they face?",
+      "summary": "The possible candidates to succeed Richard Hughes - plus the numerous tasks facing Liverpool's next sporting director.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T15:52:04.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3cd93819b7d831",
+      "title": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
+      "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitors There have been seasons when Chelsea have turned up at...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage",
+      "publishedAt": "2026-09-07T15:41:54.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ab60d01805c06b",
+      "title": "Ex-Aston Villa man tells Liverpool they ‘missed’ Zion Suzuki transfer – ‘Brilliant goalkeeper’",
+      "summary": "Stephen Warnock has told former club Liverpool they “missed” the signing of Zion Suzuki, who headed to another of his former club’s, Aston Villa, in the summer, where t...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/stephen-warnock-tells-liverpool-missed-zion-suzuki-transfer-aston-villa",
+      "publishedAt": "2026-09-07T15:31:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3677de050a825a",
+      "title": "Peter Schmeichel raves over Arsenal star who has ‘quality’ no other team possesses",
+      "summary": "Schmeichel was hugely impressed with what he saw from the reigning Premier League champions against Chelsea, with one player in particular standing out.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/peter-schmeichel-raves-martin-odegaard-quality-no-other-team-possesses",
+      "publishedAt": "2026-09-07T15:25:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "16a55a012d94fc",
+      "title": "Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+      "summary": "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s complicated By Get French Football News When a manager says that “no...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg",
+      "publishedAt": "2026-09-07T14:59:41.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Ligue 1",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ac4983ae786f14",
+      "title": "Football Daily | Big day for Ødegaard with balaclavas, Basques and a boot to the head",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Perusing assorted Social Media Disgrace for some Monday inspiration, Football Daily was struck by the amount of scor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/football-daily-newsletter-martin-odegaard-arsenal",
+      "publishedAt": "2026-09-07T14:46:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ab617e394cf4c9",
+      "title": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
+      "summary": "It’s still very early but Mikel Arteta’s side are playing with an authority and freshness that eluded them at times last season Sign up for our free newsletter here Thr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better",
+      "publishedAt": "2026-09-07T14:34:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f7953d77f73ce9",
+      "title": "BBC Women's Football Weekly",
+      "summary": "Should the league be supporting home grown talent more?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8dwmw?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T14:11:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5bd7f7812be9cf",
+      "title": "Ranking the 16 Liverpool signings made under Richard Hughes",
+      "summary": "Liverpool’s sporting director has departed for Saudi Arabia but how did he fare at Anfield? ‘Mixed bag’ might be the phrase.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-liverpool-signings-made-under-richard-hughes",
+      "publishedAt": "2026-09-07T14:07:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0779dcac07b54e",
+      "title": "Chelsea ditch plans to sign free agent ex-PSG star despite glaring midfield issue",
+      "summary": "The Blues failed to snap up a replacement for Man City-bound Enzo Fernandez on deadline day, despite having deals in place, and have since been looking at the free agen...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-ditch-plans-sign-free-agent-midfielder-renato-sanches",
+      "publishedAt": "2026-09-07T13:53:50.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Chelsea",
+        "Psg"
+      ]
+    },
+    {
+      "id": "42cf413f225ffd",
+      "title": "Real Madrid target Declan Rice reacts to receiving huge exit offer as Arsenal work to seal triple deal",
+      "summary": "Declan Rice has reportedly responded to a ‘huge bid’ from the Saudi Pro League, while Arsenal are ‘growing confidence’ about sealing three deals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-target-declan-rice-reacts-receiving-huge-exit-offer-arsenal-triple-deal",
+      "publishedAt": "2026-09-07T13:49:44.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f09263dd2caaa9",
+      "title": "Man Utd set surprise plan for left-back transfer as one reason for INEOS verdict revealed",
+      "summary": "According to reports, Manchester United have an ‘unexpected plan’ for their next left-back signing, with a January deal not expected.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-set-surprise-plan-left-back-transfer-one-reason-ineos-verdict-revealed",
+      "publishedAt": "2026-09-07T12:53:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "90640a265c3847",
+      "title": "This could be year I win Ballon d'Or, says Mbappe",
+      "summary": "Real Madrid forward Kylian Mbappe says this could be a good year for him to win the Ballon d'Or for the first time.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydplykdxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T12:42:03.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "281c2c3faad453",
+      "title": "Arsenal beat Chelsea to maintain perfect start and late drama at Everton - Football Weekly",
+      "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Liew and Jordan Jarrett-Bryan as Arsenal maintain their perfect start with a win over Chelsea Rate, review, share o...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/audio/2026/sep/07/arsenal-beat-chelsea-to-maintain-100-start-and-late-drama-at-everton-football-weekly",
+      "publishedAt": "2026-09-07T12:39:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "5437a6e779caa7",
+      "title": "Chelsea star reacts to Xabi Alonso handing him a new role – ‘opposite of what he wants to do’",
+      "summary": "It has been claimed that Chelsea winger Estevao is unhappy at manager Xabi Alonso ‘forcing’ him to play at right wing-back this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-star-reacts-xabi-alonso-new-role",
+      "publishedAt": "2026-09-07T12:19:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "075546a386560e",
+      "title": "‘No one wants’ Man Utd attacker playing as Carrick forced to move star ‘out of position’ instead – pundit",
+      "summary": "Tim Sherwood has suggested “no one wants” a Manchester United forward to be playing, as he feels Michael Carrick doesn’t trust him, and he made a claim about the club’s...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/no-one-wants-united-forward-benjamin-sesko-michael-carrick-big-questions",
+      "publishedAt": "2026-09-07T12:13:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     }
   ],
