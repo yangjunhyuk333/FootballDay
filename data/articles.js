@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-07T21:20:22.528Z",
+  "generatedAt": "2026-09-08T03:53:46.336Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Red Roses head coach John Mitchell has named an experienced 36-player squad for the home leg of the WXV Global Series, with 25 World Cup winners included.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/news/12040/13582740/red-roses-name-25-world-cup-winners-in-36-player-squad-for-home-leg-of-wxv-global-series",
-      "publishedAt": "2026-09-07T21:20:22.214Z",
+      "publishedAt": "2026-09-08T03:53:45.996Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -117,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool striker Alexander Isak reflects on his start to the season where he has scored three goals in three games.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13582859/liverpool-alexander-isak-reflects-on-his-start-to-the-season",
-      "publishedAt": "2026-09-07T21:20:22.214Z",
+      "publishedAt": "2026-09-08T03:53:45.996Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool latest: Isak feeling 'good' and says Reds must keep pushing",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-07T21:20:22.213Z",
+      "publishedAt": "2026-09-08T03:53:45.995Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -143,11 +143,55 @@ window.FOOTBALLDAY_DATA = {
       "summary": "A decade ago in September 2016, Leicester City were getting ready to play in the Champions League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13582797/leicester-city-sink-to-new-low-in-league-one-but-can-russell-martin-turn-it-around",
-      "publishedAt": "2026-09-07T21:20:22.213Z",
+      "publishedAt": "2026-09-08T03:53:45.995Z",
       "category": "ucl",
       "region": "england",
       "tags": [
         "Champions League"
+      ]
+    },
+    {
+      "id": "88af2dea5eeabf",
+      "title": "Papers: Man Utd monitoring Dortmund star Nmecha",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13582860/transfer-news-borussia-dortmund-midfielder-felix-nmecha-on-man-utds-radar-paper-talk",
+      "publishedAt": "2026-09-08T03:53:45.992Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "868f4f015ee4c7",
+      "title": "Chiesa might leave Liverpool - Tuesday's gossip",
+      "summary": "Federico Chiesa's future at Liverpool is in doubt, Jadon Sancho might return to the Premier League, Real Madrid's Endrick is attracting interest from Italy, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy87d2lj9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T22:05:37.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d8583381d1edc2",
+      "title": "Maresca eyes rest for busy dad Haaland as Manchester City prepare for Porto",
+      "summary": "Norwegian forward has played every minute of season Parenting duties have changed player’s ‘priorities’ Enzo Maresca believes Erling Haaland has become “complete” as hi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/07/enzo-maresca-erling-haaland-manchester-city-porto-champions-league",
+      "publishedAt": "2026-09-07T21:55:30.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -455,22 +499,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ac4983ae786f14",
-      "title": "Football Daily | Big day for Ødegaard with balaclavas, Basques and a boot to the head",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Perusing assorted Social Media Disgrace for some Monday inspiration, Football Daily was struck by the amount of scor...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/07/football-daily-newsletter-martin-odegaard-arsenal",
-      "publishedAt": "2026-09-07T14:46:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "ab617e394cf4c9",
       "title": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
       "summary": "It’s still very early but Mikel Arteta’s side are playing with an authority and freshness that eluded them at times last season Sign up for our free newsletter here Thr...",
@@ -580,32 +608,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Arsenal",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "5437a6e779caa7",
-      "title": "Chelsea star reacts to Xabi Alonso handing him a new role – ‘opposite of what he wants to do’",
-      "summary": "It has been claimed that Chelsea winger Estevao is unhappy at manager Xabi Alonso ‘forcing’ him to play at right wing-back this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-star-reacts-xabi-alonso-new-role",
-      "publishedAt": "2026-09-07T12:19:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "075546a386560e",
-      "title": "‘No one wants’ Man Utd attacker playing as Carrick forced to move star ‘out of position’ instead – pundit",
-      "summary": "Tim Sherwood has suggested “no one wants” a Manchester United forward to be playing, as he feels Michael Carrick doesn’t trust him, and he made a claim about the club’s...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/no-one-wants-united-forward-benjamin-sesko-michael-carrick-big-questions",
-      "publishedAt": "2026-09-07T12:13:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
