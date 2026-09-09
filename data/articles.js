@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-09T11:00:44.701Z",
+  "generatedAt": "2026-09-09T16:16:05.039Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,57 +99,17 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "be73bc86575be9",
-      "title": "Can Carrick afford to rotate before Manchester derby?",
-      "summary": "\"It puts a bit of pressure on United. They've got City next week and European games starting in midweek.\"",
+      "id": "9afb4d2f443f03",
+      "title": "The 'clear and obvious error' that VAR missed",
+      "summary": "Watch the tackle that the Key Match Incident Panel (KMI) admitted was a missed VAR intervention during Arsenal's 1-0 win at Aston Villa.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return",
-      "publishedAt": "2026-09-09T11:00:44.165Z",
+      "url": "https://www.skysports.com/watch/video/13583510/ian-maatsen-on-bruno-guimaraes-the-tackle-that-var-missed",
+      "publishedAt": "2026-09-09T16:16:04.815Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "aff2c7a0b567d0",
-      "title": "Willock grabs late goal as Newcastle edge Millwall",
-      "summary": "Joe Willock's late goal sent a relieved Newcastle into the fourth round of the Carabao Cup as the Premier League side scraped to a 1-0 victory at Sky Bet Championship o...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/millwall-vs-newcastle-united/report/577582",
-      "publishedAt": "2026-09-09T11:00:44.165Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "98481a308ba206",
-      "title": "Haaland scores twice in win over Porto but Man City struggle to impress",
-      "summary": "Erling Haaland's double earned Manchester City a 2-0 win at FC Porto - but it was another game where Enzo Maresca's side won but struggled to convince.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fc-porto-vs-manchester-city/report/577600",
-      "publishedAt": "2026-09-09T11:00:44.165Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "aef3ea79a05137",
-      "title": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
-      "summary": "Mbappe and Valverde on target as Real Madrid beat Inter Milan",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-09-09T11:00:44.164Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Real Madrid",
-        "Inter",
-        "Milan"
+        "Arsenal",
+        "Inter"
       ]
     },
     {
@@ -158,7 +118,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jamie Carragher believes Erling Haaland will be the \"best goalscorer of all time\" after his double earned Manchester City a 2-0 win at Porto in the Champions League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time",
-      "publishedAt": "2026-09-09T11:00:44.163Z",
+      "publishedAt": "2026-09-09T16:16:04.815Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -167,16 +127,281 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "aead30d12d9517",
-      "title": "Papers: Blow for Man Utd as top target agrees new contract",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "id": "778b2c156f4952",
+      "title": "Merson: Arsenal didn't make X-factor signing to win Champions League",
+      "summary": "Arsenal's record last year was amazing in the Champions League and they're going to be there or thereabouts again – but I don't think they bought that X factor signing...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583358/transfer-news-manchester-united-suffer-hammer-blow-after-top-target-lewis-hall-agrees-five-year-newcastle-deal-paper-talk",
-      "publishedAt": "2026-09-09T11:00:44.163Z",
+      "url": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
+      "publishedAt": "2026-09-09T16:16:04.813Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "bc340747e9cf7e",
+      "title": "'This Is Anfield' sign fetches £115k at auction",
+      "summary": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve5vw953o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T16:00:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "03140890876b00",
+      "title": "The ridiculous statistics of Barcelona and Spain superstar Lamine Yamal",
+      "summary": "Here are the quite preposterous records, achievements and statistics of Barcelona and Spain’s 19-year-old sensation, Lamine Yamal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ridiculous-statistics-lamine-yamal-barcelona-spain-champions-league-la-liga",
+      "publishedAt": "2026-09-09T15:19:46.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "79719f20adfbcf",
+      "title": "Ryan Giggs thinks Man Utd have unearthed the next Wayne Rooney – ‘a generational talent’",
+      "summary": "Ryan Giggs has compared a Manchester United youngster to Red Devils legend Wayne Rooney.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-ryan-giggs-wayne-rooney-manchester-united",
+      "publishedAt": "2026-09-09T15:10:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8085b7d2766beb",
+      "title": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
+      "summary": "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as fans and BBC Sport pundit Pat Nevin share opinions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T15:07:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b606a91133fa0b",
+      "title": "Scholes tips four Man Utd starters to be replaced next season and predicts Premier League finish",
+      "summary": "Paul Scholes has rated Man Utd’s title chances under Carrick this season and has predicted wholesale changes to one area of the team.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/scholes-four-man-utd-replaced-next-season-premier-league-finish",
+      "publishedAt": "2026-09-09T15:03:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "03a4c3dc3bb026",
+      "title": "Rosario ‘grabbed my bottom’ during Manchester City’s win at Porto, claims Haaland",
+      "summary": "Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during M...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/erling-haaland-pablo-rosario-manchester-city-porto-champions-league",
+      "publishedAt": "2026-09-09T14:42:55.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "33a46b0b933cd8",
+      "title": "The Rwandan eyeing Champions League history against Man Utd",
+      "summary": "Rwanda forward Joy-Lance Mickels has helped Azerbaijan's Sabah reach the Champions League proper on their competition debut, and is now looking to down the team he supp...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T14:41:38.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "1865c2b1fc3550",
+      "title": "Football Daily | Troy Parrott enjoys a big week after taking the scenic route to success",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! There are, you suspect, quite a few folk with links to the London postcode of N17 who would be thoroughly grateful i...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter",
+      "publishedAt": "2026-09-09T14:11:20.000Z",
+      "category": "transfer",
+      "region": "england spain italy france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "52b3c3a005eab9",
+      "title": "Haaland makes decision on leaving Man City in 2027 as he chooses between Barcelona, Real Madrid",
+      "summary": "Erling Haaland wants to leave Man City at the end of the season and prefers to leave for Barcelona over Real Madrid, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-erling-haaland-decision-transfer-barcelona-real-madrid",
+      "publishedAt": "2026-09-09T14:06:22.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "6bedcaf3626dbe",
+      "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+      "summary": "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe",
+      "publishedAt": "2026-09-09T13:04:35.000Z",
+      "category": "worldcup",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "World Cup",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "89aa700a67c9dd",
+      "title": "Chelsea give Alonso ‘green light’ to spend £103m on new midfielder from Barcelona",
+      "summary": "Chelsea have reportedly given Xabi Alonso the ‘green light’ to invest €120m (£103m) on a replacement for Enzo Fernandez from Barcelona.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-alonso-green-light-fermin-lopez-barcelona-transfer",
+      "publishedAt": "2026-09-09T12:49:09.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "1be60b0adc9cb9",
+      "title": "Stam tells Carrick to recall Man Utd star after failed transfer; insists they should’ve signed Liverpool man",
+      "summary": "Man Utd legend Jaap Stam insists that Michael Carrick should give Joshua Zirkzee a chance in his team this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-stam-carrick-zirkzee-sign-barcola-liverpool",
+      "publishedAt": "2026-09-09T12:25:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c158bd07c146bd",
+      "title": "Haaland at the double as Champions League returns | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Archie Rhind-Tutt to discuss the return of the Champions League Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/09/haaland-at-the-double-as-champions-league-returns-football-weekly-video-podcast",
+      "publishedAt": "2026-09-09T12:09:07.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "36714841aa46a8",
+      "title": "Man Utd in for red-hot Champions League striker as double deal eyed",
+      "summary": "United have sent an official on a scouting mission, setting up a potential double move, a report has revealed",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-news-nicolo-tresoldi-striker-target-double-deal-joaquin-seys",
+      "publishedAt": "2026-09-09T12:08:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "3871d242335eb0",
+      "title": "Who are the record Champions League goalscorers?",
+      "summary": "Our Ask Me Anything team looks at which players have scored the most goals in the Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk0yyepkxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T12:02:30.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "f0d5b32f7ef0e6",
+      "title": "Liverpool fans face major change to TNT Sports Champions League coverage",
+      "summary": "Liverpool face Atletico Madrid in the opening Champions League fixture but changes to TV packages mean fans face a hefty bill to watch the match.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-fans-face-champions-league-price-hike-as-tnt-makes-major-change",
+      "publishedAt": "2026-09-09T11:42:26.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "048f552c66c5ae",
+      "title": "Scholes slams Arsenal star who ‘gets away with murder’ after Chelsea victory",
+      "summary": "Paul Scholes agrees that Arsenal centre-back Gabriel Magalhaes “gets away with murder” after watching the Gunners beat Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-scholes-gabriel-magalhaes-murder-chelsea",
+      "publishedAt": "2026-09-09T11:27:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3e1441c0d539cb",
+      "title": "Arsenal Champions League hopes dealt a crushing blow, but Gunners ‘escape’ UEFA punishment",
+      "summary": "Arsenal are up against it in the Champions League after a damning verdict from the supercomputer amid their travel chaos.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-champions-league-blow-uefa-punishment-escape-mediawatch",
+      "publishedAt": "2026-09-09T11:05:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Uefa",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "694c36d0690495",
+      "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
+      "summary": "Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T10:58:38.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -372,233 +597,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "860b481557868e",
-      "title": "Where Estevao fits into Chelsea's all-star attack",
-      "summary": "A look at where Estevao Willian could feature for Chelsea this season after the reminder of his quality in his cameo against Arsenal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2mlk4p4x5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T07:00:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3aad111d90aa97",
-      "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "summary": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League Dani Olmo nods towards his right arm. “Look: gooseb...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league",
-      "publishedAt": "2026-09-09T07:00:02.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Champions League",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "3648cdaa73e173",
-      "title": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
-      "summary": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/footballs-most-damaging-red-cards-a-brief-history-of-collapses-and-turnarounds",
-      "publishedAt": "2026-09-09T07:00:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "449eb5e9360bfd",
-      "title": "Scottish Football Podcast",
-      "summary": "Rangers need a striker, Celtic keep rolling, and St Mirren dream big.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p8nyfk?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "157d782be58d4d",
-      "title": "‘What a player’ – Arsenal chiefs bowled over by summer signing as new £34m man astonishes in training",
-      "summary": "Arsenal chiefs were waxing lyrical about new signing Christos Tzolis to Club Brugge representatives at the Champions League draw.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-tzolis-shocks-coaches-chiefs-training-signing",
-      "publishedAt": "2026-09-09T06:42:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "39150704ab57a4",
-      "title": "Where do PSG rank among Europe's greatest football dynasties?",
-      "summary": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy9z0xz8ql1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T05:30:53.000Z",
-      "category": "ucl",
-      "region": "france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Psg"
-      ]
-    },
-    {
-      "id": "8a2da6db7e3c62",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zy1z6y4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T05:19:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ace42126df94b7",
-      "title": "Cristian Volpato’s Socceroos fate uncertain after second sample confirms positive cocaine test",
-      "summary": "Football Australia has power to suspend him from national team Striker has maintained his innocence over failed drugs test Cristian Volpato’s immediate availability for...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb",
-      "publishedAt": "2026-09-09T04:08:35.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ec89c68c30d9c0",
-      "title": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
-      "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T23:14:36.000Z",
-      "category": "league",
-      "region": "spain italy",
-      "tags": [
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac1ac0ceaaf6d0",
-      "title": "Bouaddi impresses on first start - have Man City found 'a gem'?",
-      "summary": "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-ye...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zq59gr21o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T22:09:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "544ddbcc647b8f",
-      "title": "Jose Mourinho experiment only asks more midfield questions of Trent",
-      "summary": "Trent Alexander-Arnold faces a decisive season when it comes to his Real Madrid future. His midfield debut v Inter only prompted questions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/trent-alexander-arnold-midfield-real-madrid-inter-mourinho-verdict",
-      "publishedAt": "2026-09-08T21:37:52.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9ae8ca5515ab42",
-      "title": "Man City push their luck again with Coventry Redux display at the Dragao",
-      "summary": "Manchester City look just about as unconvincing as a side with four wins from four games can look after another fate-tempting effort at Porto.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-push-luck-again-coventry-redux-porto-champions-league",
-      "publishedAt": "2026-09-08T21:34:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "36da74fb94ad95",
-      "title": "The ridiculous stats of Erling Haaland as he reaches 300 career goals at 26",
-      "summary": "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/erling-haaland-ridiculous-stats-half-decent-start-premier-league-life",
-      "publishedAt": "2026-09-08T21:30:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4be245be0d9c63",
-      "title": "Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
-      "summary": "Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occa...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
-      "publishedAt": "2026-09-08T21:18:12.000Z",
-      "category": "ucl",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "55c5415171f4dc",
-      "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
-      "summary": "Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty perform...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
-      "publishedAt": "2026-09-08T21:08:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "85296ed1dd9d0e",
-      "title": "Liverpool monitoring Thiaw - Wednesday's gossip",
-      "summary": "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0jrdvxnvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T20:45:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
       ]
     }
   ],
