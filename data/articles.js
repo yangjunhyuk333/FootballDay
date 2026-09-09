@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-09T16:16:05.039Z",
+  "generatedAt": "2026-09-09T20:43:56.790Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,45 +99,225 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "9afb4d2f443f03",
-      "title": "The 'clear and obvious error' that VAR missed",
-      "summary": "Watch the tackle that the Key Match Incident Panel (KMI) admitted was a missed VAR intervention during Arsenal's 1-0 win at Aston Villa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583510/ian-maatsen-on-bruno-guimaraes-the-tackle-that-var-missed",
-      "publishedAt": "2026-09-09T16:16:04.815Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "01a7041ac7b633",
-      "title": "Carra: Haaland will be greatest goalscorer of all time",
-      "summary": "Jamie Carragher believes Erling Haaland will be the \"best goalscorer of all time\" after his double earned Manchester City a 2-0 win at Porto in the Champions League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time",
-      "publishedAt": "2026-09-09T16:16:04.815Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
       "id": "778b2c156f4952",
       "title": "Merson: Arsenal didn't make X-factor signing to win Champions League",
       "summary": "Arsenal's record last year was amazing in the Champions League and they're going to be there or thereabouts again – but I don't think they bought that X factor signing...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13583541/arsenal-didnt-make-x-factor-signing-like-vinicius-junior-or-julian-alvarez-to-win-champions-league-says-paul-merson",
-      "publishedAt": "2026-09-09T16:16:04.813Z",
+      "publishedAt": "2026-09-09T20:43:56.499Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Champions League",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "66d9be29370bd6",
+      "title": "Ipswich latest: Why transfer business boosted PL survival prospects",
+      "summary": "Ipswich latest: Why transfer business boosted PL survival prospects",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-09-09T20:43:56.499Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "298b0f723b3082",
+      "title": "Everton latest: Short in key positions? The cost of the transfer window assessed",
+      "summary": "Everton latest: Short in key positions? The cost of the transfer window assessed",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-09-09T20:43:56.498Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f2f6219a7b5bc8",
+      "title": "INCREDIBLE! Four goals in 12 minutes put Chelsea in control vs Leeds LIVE!",
+      "summary": "INCREDIBLE! Four goals in 12 minutes put Chelsea in control vs Leeds LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586",
+      "publishedAt": "2026-09-09T20:43:56.498Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "5ac000904b2347",
+      "title": "Mac Allister blasts Liverpool in front against Atletico LIVE!",
+      "summary": "Mac Allister blasts Liverpool in front against Atletico LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/live/577604",
+      "publishedAt": "2026-09-09T20:43:56.498Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "58dc745637348f",
+      "title": "Odegaard makes breakthrough for Arsenal against Napoli LIVE!",
+      "summary": "Odegaard makes breakthrough for Arsenal against Napoli LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/napoli-vs-arsenal/live/577605",
+      "publishedAt": "2026-09-09T20:43:56.498Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1be024e4d3555b",
+      "title": "Napoli v Arsenal: Champions League – live",
+      "summary": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for con...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "publishedAt": "2026-09-09T20:37:42.000Z",
+      "category": "ucl",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4b35cdedd2cc5e",
+      "title": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+      "summary": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+      "publishedAt": "2026-09-09T20:36:48.000Z",
+      "category": "ucl",
+      "region": "england spain france",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9f485cf76dab9d",
+      "title": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+      "summary": "Brazilian scores twice in 5-1 victory at the Camp Nou Demirovic scores hat-trick as Stuttgart beat Viking Raphinha let his goals do the talking after being omitted from...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain",
+      "publishedAt": "2026-09-09T20:06:05.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f372da2ea77ded",
+      "title": "Scottish clubs face tougher Europa League route",
+      "summary": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c99dm80e2r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T19:30:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Europa League",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "3e5c5bd35f4643",
+      "title": "Anthony Gordon will be key man as Barcelona set for Champions League glory",
+      "summary": "We’ve continually got Anthony Gordon wrong. He could very easily be a key player in a Champions League-winning team this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-anthony-gordon-near-perfect-cog-flick-imperfect-barcelona-machine",
+      "publishedAt": "2026-09-09T18:57:50.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Champions League",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f0f305368c7a8d",
+      "title": "Paul Scholes says £85m midfielder who rejected Man Utd will fail miserably",
+      "summary": "Paul Scholes gives his brutal verdict on a midfielder who turned down Manchester United for Tottenham Hotspur in the summer transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mateus-fernandes-manchester-united-paul-scholes-verdict-tottenham-hotspur",
+      "publishedAt": "2026-09-09T17:43:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0764ce2c2dea03",
+      "title": "Michael Carrick has just forced Tim Sherwood to eat humble pie over £74m Man Utd star",
+      "summary": "Manchester United manager Michael Carrick’s comments on the Old Trafford star are telling.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/benjamin-sesko-manchester-united-michael-carrick",
+      "publishedAt": "2026-09-09T17:17:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "da560be64aace8",
+      "title": "Infantino installs loyalist to oversee Caribbean as he splits Fifa management",
+      "summary": "Critics view Fernandes job as move to shore up position Fifa says change is designed to make sport ‘truly global’ Gianni Infantino has separated Fifa’s management of th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes",
+      "publishedAt": "2026-09-09T17:17:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "555b4974da1588",
+      "title": "Mac Allister has no right to expect new Liverpool contract after ‘100%’ season",
+      "summary": "It’s not a primary school sports day. There’s no reward for participation. Be better at football and then you can complain about not getting a new contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-mac-allister-no-right-new-liverpool-contract-100-season",
+      "publishedAt": "2026-09-09T16:35:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "804c343363d377",
+      "title": "Crazy stats of Liverpool legend Mohamed Salah include countless Premier League records",
+      "summary": "Liverpool legend Mohamed Salah has broken record after record. Here are his best stats from an outstanding career.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mohamed-salah-ridiculous-statistics-liverpool-premier-league-champions-league",
+      "publishedAt": "2026-09-09T16:30:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
@@ -203,6 +383,21 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "9b3fdcfc3a1d8f",
+      "title": "Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
+      "summary": "United play Sabah, then Manchester City on Sunday ‘To win the Champions League was the ultimate’ Michael Carrick is excited to lead Manchester United on their return to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford",
+      "publishedAt": "2026-09-09T14:56:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
       ]
     },
     {
@@ -402,201 +597,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "d76b433907e5d6",
-      "title": "Zubimendi to push for January exit at Arsenal on one condition after Arteta talks",
-      "summary": "Arsenal midfielder Martin Zubimendi has reportedly decided that he will push to leave the Emirates Stadium in January on one condition.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-zubimendi-push-january-exit-one-condition-arteta-talks",
-      "publishedAt": "2026-09-09T10:47:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "8601f58e6a21da",
-      "title": "Joe Cole shuns Arsenal and predicts ‘Hollywood’ Champions League final",
-      "summary": "The former Chelsea and England star has predicted how he thinks the Champions League will go this season, with Arsenal set to miss out – again",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-news-snubbed-champions-league-winners-joe-cole-prediction-real-madrid",
-      "publishedAt": "2026-09-09T10:22:31.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9f0fcd819a14ef",
-      "title": "Liverpool identify £70m Newcastle star to replace Van Dijk in major defensive overhaul",
-      "summary": "Liverpool are looking to replace Virgil van Dijk with Newcastle United centre-back Malick Thiaw in 2027, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-identify-thiaw-newcastle-replace-van-dijk",
-      "publishedAt": "2026-09-09T10:00:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f89b83faac151e",
-      "title": "Does making an early move in the Premier League Sack Race actually work?",
-      "summary": "It feels like the Premier League Sack Race could burst into action at any moment, with live early contenders for the tin-tack everywhere you look.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/does-making-an-early-move-in-the-premier-league-sack-race-actually-work",
-      "publishedAt": "2026-09-09T09:37:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "fc44e554a67fef",
-      "title": "Who will win the 2026 Ballon d’Or? Kane v Yamal v Mbappe for the trophy",
-      "summary": "The Ballon d’Or looks likely to go to Harry Kane despite Spain winning the World Cup and Real Madrid’s Kylian Mbappe campaign.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-the-2026-ballon-dor-yamal-the-runaway-early-favourite",
-      "publishedAt": "2026-09-09T08:59:45.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "7d740362fcabd3",
-      "title": "Revitalised Ødegaard’s forward thinking gives Arsenal new lines of attack",
-      "summary": "Midfielder has been pivotal to the champions’ rampant start, becoming a potent threat with his runs into the box As Christos Tzolis cut in from the left flank and drove...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/09/martin-odegaard-forward-thinking-arsenal-new-lines-of-attack",
-      "publishedAt": "2026-09-09T08:59:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8fa0b2d0e02694",
-      "title": "Five players stopping Man Utd winning title named as insider reveals INEOS reaction to Carrick start",
-      "summary": "Man Utd have been told that they need to replace five players to have a chance of winning the Premier League title in the future.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-five-players-stop-winning-title-insider-board-reaction-carrick-start",
-      "publishedAt": "2026-09-09T08:51:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "61fa1e93203b2c",
-      "title": "Modern football is ‘bloodless and sanitised facsimile of a facsimile’",
-      "summary": "Is modern football basically sh*te? There’s certainly a case to be made. We have no real interest in the actual Champions League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/modern-football-bloodless-sanitised-fascimile-mailbox",
-      "publishedAt": "2026-09-09T08:42:36.000Z",
-      "category": "ucl",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2063a2d4e5c09f",
-      "title": "Arteta reaches decision on selling Arsenal ‘horse’ in January as Jacobs gives transfer update",
-      "summary": "Arsenal head coach Mikel Arteta has already reached a decision on Viktor Gyokeres being sold in January, according to Ben Jacobs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-reaches-decision-selling-gyokeres-january",
-      "publishedAt": "2026-09-09T08:22:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Arbeloa clear favourite as Fulham achieve Fear For Them status",
-      "summary": "A new Premier League season means a new Premier League Sack Race is too. Alvaro Arbeloa currently ‘leads’ the way from a large pack of contenders.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-09-09T08:05:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "49f4ab9ba89f1c",
-      "title": "Liverpool enter race for €65m France midfielder as Ornstein tips new Chelsea battle",
-      "summary": "Liverpool and Chelsea could battle for two highly rated stars in the January transfer window, David Ornstein has suggested",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-news-manu-kone-new-transfer-target-january-david-ornstein-chelsea",
-      "publishedAt": "2026-09-09T08:04:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7be423f0980c9e",
-      "title": "Romano drops huge Mac Allister transfer update after Liverpool contract refusal",
-      "summary": "Fabrizio Romano thinks Alexis Mac Allister could decide to leave Liverpool before his contract expires after his latest “sad” comments.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-mac-allister-transfer-update-contract-refusal",
-      "publishedAt": "2026-09-09T07:46:27.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d0a36f39fc37cc",
-      "title": "Best Premier League transfers of the season XI: Chelsea and Hull duos, surprise Tottenham inclusion…",
-      "summary": "Which new players have made the biggest impact in the Premier League this season and what would it look like if we put them all in one team?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-premier-league-signings-2026-27-season",
-      "publishedAt": "2026-09-09T07:31:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "205824fc779b41",
-      "title": "Ranking £454.32m worth of summer signings by how excited we are for their debuts",
-      "summary": "Twenty-seven summer signings have yet to debut for their Premier League clubs so far this season; some have us more excited than others.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ranking-summer-signings-how-excited-debut-aston-villa-man-utd",
-      "publishedAt": "2026-09-09T07:16:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
