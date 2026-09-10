@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:07:10.593Z",
+  "generatedAt": "2026-09-10T20:39:04.050Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,42 +99,171 @@
       "pinned": true
     },
     {
-      "id": "6e832bd656e799",
-      "title": "How to watch Sky Sports' Big Weekend",
-      "summary": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
+      "id": "c44a43460170dc",
+      "title": "De Zerbi 'was the key' - Fernandes on his Spurs switch and trophy ambitions",
+      "summary": "Spurs may have failed to win any of their first three Premier League games this season, but summer signing Matheus Fernandes is convinced he has joined a squad set to s...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
-      "publishedAt": "2026-09-10T16:07:10.249Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Palmer says attackers enjoying life under Alonso",
-      "summary": "Chelsea latest: Palmer says attackers enjoying life under Alonso",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-10T16:07:10.248Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c98bcb2e7ec356",
-      "title": "Premier League fixtures: Bumper festive period announced",
-      "summary": "The Premier League's festive fixtures have been announced for this season - with 29 matches available to watch live on Sky Sports between Boxing Day and January 7.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
-      "publishedAt": "2026-09-10T16:07:10.247Z",
+      "url": "https://www.skysports.com/football/news/12040/13584072/matheus-fernandes-interview-spurs-midfielder-on-the-passion-of-head-coach-roberto-de-zerbi-and-trophy-ambitions",
+      "publishedAt": "2026-09-10T20:39:03.641Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "7f171825c70f9c",
+      "title": "Manchester United v Sabah: Champions League – live",
+      "summary": "⚽️ Champions League updates from the 8pm BST kick-off ⚽️ Live scoreboard | Read Football Daily | And mail Daniel It’s also worth noting that Patrick Dorgu starts at lef...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "publishedAt": "2026-09-10T20:24:56.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d3bc2e0cae5b33",
+      "title": "Chelsea and Real Madrid keen on Arsenal's Zubimendi - Friday's gossip",
+      "summary": "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd68352z4vjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T20:13:27.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "665302983c805f",
+      "title": "Chelsea: Todd Boehly ‘close to agreement’ to sell stake with key duo set to leave club – ‘advanced talks’",
+      "summary": "According to reports, Chelsea co-owner Todd Boehly is ‘close to an agreement’ to sell his stakes in the Premier League giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-todd-boehly-close-agreement-sell-stake",
+      "publishedAt": "2026-09-10T20:05:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "383411888acb03",
+      "title": "Arsenal now finalising agreement with Mikel Arteta as three more deals to follow",
+      "summary": "According to reports, Arsenal are ‘finalising an agreement’ with Mikel Arteta over a new contract with three more deals ‘to follow’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-now-finalising-agreement-mikel-arteta-three-more-deals-follow",
+      "publishedAt": "2026-09-10T19:09:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2349c29c66b070",
+      "title": "Sutton's predictions v Dorking Wanderers manager Marc White",
+      "summary": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T18:47:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "736e3a89685e4b",
+      "title": "Michael Carrick tests INEOS transfer verdict with Man Utd first time ever decision vs Sabah",
+      "summary": "Michael Carrick has tinkered with his Manchester United side for their Champions League opener, with a summer transfer call already put to the test.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carrick-tests-ineos-transfer-decision-first-time-ever-man-utd-call",
+      "publishedAt": "2026-09-10T18:34:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bc1e1a4a866f71",
+      "title": "Man Utd sent message over Harry Kane replacing Benjamin Sesko as Bayern star decides future",
+      "summary": "Manchester United have been told that they still need to sign Bayern Munich star Harry Kane to replace Benjamin Sesko.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-sent-message-signing-harry-kane-replace-benjamin-sesko",
+      "publishedAt": "2026-09-10T17:34:41.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "c983f91619119e",
+      "title": "Ben Jacobs reveals main reason for Lewis Hall contract decision as Man Utd given hope – ‘always likely’",
+      "summary": "The reason for Lewis Hall signing a new contract at Newcastle United has surfaced, while Manchester United have hope of landing him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jacobs-reveals-main-reason-hall-contract-decision-man-utd-newcastle",
+      "publishedAt": "2026-09-10T17:15:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5bc7c34dce0e66",
+      "title": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+      "summary": "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Dia...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa",
+      "publishedAt": "2026-09-10T17:03:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "4cb9ae804a82b0",
+      "title": "Richarlison U-turn revealed after attempt to force exit as Tottenham respond to Vasco offer",
+      "summary": "According to reports, Richarlison has made a U-turn on trying to cancel his Tottenham Hotspur contract amid interest from Vasco da Gama.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/richarlison-u-turn-revealed-force-exit-tottenham-respond-vasco-offer",
+      "publishedAt": "2026-09-10T16:15:26.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "d5fbd814cf4a6f",
+      "title": "Washington Spirit sign Luvanga - but is it a record deal?",
+      "summary": "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and poss...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xkrjkw1y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T16:10:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -167,7 +296,7 @@
     {
       "id": "1c8639dad156b1",
       "title": "Gordon a better fit for Barca than Rashford - Deco",
-      "summary": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this su...",
+      "summary": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyl7njnk46o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T15:30:53.000Z",
@@ -464,129 +593,6 @@
       "region": "england",
       "tags": [
         "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "652e49e993b341",
-      "title": "How to follow the Premier League on the BBC this weekend",
-      "summary": "Our Ask Me Anything team explains how to follow matches from week three of the Premier League season on the BBC this weekend.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T10:58:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a9d3b21748dc17",
-      "title": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team",
-      "summary": "It began with getting her dad into walking football after his diagnosis – now Gemma Darvill is taking a national team on tour to Canada When Gemma Darvill’s dad, Les, w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
-      "publishedAt": "2026-09-10T10:53:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "cc729c4c5b3a2b",
-      "title": "Why are there Champions League games on Thursday?",
-      "summary": "Our Ask Me Anything team look at why some Champions League games are taking place on Thursday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7847dy555zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T10:21:26.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "e9c5af30508d31",
-      "title": "Alexander-Arnold warned brutal Mourinho snub is coming at Real Madrid",
-      "summary": "Alexander-Arnold played in midfield against Inter, but a former England star has predicted Mourinho could turn his back on the deep-lying playmaker",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-news-trent-alexander-arnold-warned-jose-mourinho-snub-coming-midfield",
-      "publishedAt": "2026-09-10T10:11:04.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ceaaa8156cda1d",
-      "title": "De Bruyne makes massive Arsenal claim after Champions League defeat",
-      "summary": "Kevin De Bruyne made a huge Arsenal claim after his Napoli side lost to the Gunners in the Champions League on Wednesday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/de-bruyne-massive-arsenal-claim-champions-league-defeat",
-      "publishedAt": "2026-09-10T10:09:40.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9a6d2fb0cc91e7",
-      "title": "From winning £725 on a game show to facing Man Utd in Europe",
-      "summary": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T09:40:39.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "a66251c853b8d8",
-      "title": "Richarlison takes bold step to force exit after Tottenham demotion as terms agreed",
-      "summary": "Richarlison has reportedly asked FIFA to step in to grant him a Tottenham exit after the striker was excluded from their Premier League squad for this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/richarlison-bold-step-force-exit-tottenham-demotion-terms-agreed",
-      "publishedAt": "2026-09-10T09:39:19.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "b7a109ab0973e4",
-      "title": "Chelsea ‘conversations’ to sign Colombian gem emerge as Liverpool ‘final decision’ reached",
-      "summary": "Chelsea failed to beat Liverpool to the signing of a 17-year-old attacking midfielder.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-chelsea-samuel-martinez",
-      "publishedAt": "2026-09-10T09:36:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "372cd6ef89ea6a",
-      "title": "Lineker explains why Arsenal won’t win the Champions League over ‘tasty’ rivals",
-      "summary": "Gary Lineker has explained why he thinks Arsenal will fall short of winning the Champions League this season and why a “tasty” rival have a better chance.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lineker-explains-why-arsenal-wont-win-the-champions-league-over-tasty-rivals",
-      "publishedAt": "2026-09-10T08:22:40.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
         "Arsenal"
       ]
     }
