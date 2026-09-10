@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-10T10:57:40.135Z",
+  "generatedAt": "2026-09-10T16:07:10.593Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "db4899b47c606b",
-      "title": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
-      "summary": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bri...",
+      "id": "6e832bd656e799",
+      "title": "How to watch Sky Sports' Big Weekend",
+      "summary": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586",
-      "publishedAt": "2026-09-10T10:57:39.698Z",
+      "url": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
+      "publishedAt": "2026-09-10T16:07:10.249Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "991408d224d1ac",
+      "title": "Chelsea latest: Palmer says attackers enjoying life under Alonso",
+      "summary": "Chelsea latest: Palmer says attackers enjoying life under Alonso",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-10T16:07:10.248Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,65 +125,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3c3cc24457ccd3",
-      "title": "Odegaard gives dominant Arsenal win over Napoli",
-      "summary": "Martin Odegaard's superb strike gave Arsenal a deserved 1-0 victory over Napoli in their Champions League opener.",
+      "id": "c98bcb2e7ec356",
+      "title": "Premier League fixtures: Bumper festive period announced",
+      "summary": "The Premier League's festive fixtures have been announced for this season - with 29 matches available to watch live on Sky Sports between Boxing Day and January 7.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605",
-      "publishedAt": "2026-09-10T10:57:39.698Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1c7143d64683c7",
-      "title": "NINE-goal thriller! Phenomenal turnaround sees Chelsea advance past Leeds!",
-      "summary": "Highlights from the Carabao Cup match between Chelsea and Leeds.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13583792/chelsea-6-3-leeds-carabao-cup-highlights",
-      "publishedAt": "2026-09-10T10:57:39.698Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6d202dab50d795",
-      "title": "Seahawks beat Patriots in NFL opener but suffer Darnold blow",
-      "summary": "Backup quarterback Drew Lock led two late scoring drives as the Seattle Seahawks intercepted Drake Maye three times in the fourth quarter to overcome an early injury to...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13583822/seattle-seahawks-beat-new-england-patriots-after-drake-mayes-three-interceptions-and-sam-darnold-injury-in-nfl-season-opener",
-      "publishedAt": "2026-09-10T10:57:39.698Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "3d2bda85600a2a",
-      "title": "Mac Allister wins it for Liverpool against Atletico on Barcola's eventful full debut",
-      "summary": "Alexis Mac Allister's superb strike saw Liverpool come from behind to beat Atletico Madrid 2-1 at Anfield as Bradley Barcola went off with \"cramp\" on an eventful home d...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-atletico-madrid/report/577604",
-      "publishedAt": "2026-09-10T10:57:39.698Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a75ee1caea2d38",
-      "title": "Poch: I hope to return to Premier League in future",
-      "summary": "Mauricio Pochettino has always been good company - warm, engaging and likeable. Having had a few weeks to reset away from the spotlight, there were enthusiastic hugs al...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583564/mauricio-pochettino-ex-tottenham-and-chelsea-boss-hopes-to-return-to-premier-league-in-future",
-      "publishedAt": "2026-09-10T10:57:39.697Z",
+      "url": "https://www.skysports.com/football/news/12040/13583921/premier-league-christmas-fixtures-boxing-day-and-festive-schedule-announced-as-29-matches-shown-live-on-sky-sports",
+      "publishedAt": "2026-09-10T16:07:10.247Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -178,12 +138,234 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "aea5787a37134f",
-      "title": "Arteta explains new role for transformed Odegaard",
-      "summary": "Martin Odegaard is a player transformed at the start of this season - and Arsenal boss Mikel Arteta puts his captain's impressive form down to fitness and new positioni...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli",
-      "publishedAt": "2026-09-10T10:57:39.697Z",
+      "id": "21dd8df679e88b",
+      "title": "Steven Gerrard reacts to Arsenal missing out on ‘perfect’ signing as pundit claims he was ‘never’ joining",
+      "summary": "Liverpool legend Steven Gerrard has cheekily admitted that he is “glad” that Arsenal failed to sign Julian Alvarez in the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/steven-gerrard-reacts-arsenal-missing-out-perfect-signing",
+      "publishedAt": "2026-09-10T15:46:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "18f321a6ab990f",
+      "title": "Why have the Premier League announced Christmas fixtures early?",
+      "summary": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy4wg703go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T15:30:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1c8639dad156b1",
+      "title": "Gordon a better fit for Barca than Rashford - Deco",
+      "summary": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this su...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyl7njnk46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T15:30:53.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "c1f957ea0685b0",
+      "title": "Man Utd star could have perfect chance vs Sabah as Carrick dealt injury blow with attacker",
+      "summary": "Michael Carrick may have the ‘perfect opportunity’ to test a new attack vs Sabah, while there is bad news on Manchester United star Amad Diallo.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-star-perfect-chance-sabah-carrick-injury-blow-attacker",
+      "publishedAt": "2026-09-10T15:17:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "83de90479bcafb",
+      "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+      "summary": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
+      "publishedAt": "2026-09-10T14:54:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "309981bf10dc85",
+      "title": "Twenty most valuable footballers in the world: Haaland above Mbappe, tied with Yamal",
+      "summary": "Eleven Premier League players rank among the top 20 most valuable players in the world, including three of Arsenal’s Premier League winners.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/yamal-mbappe-most-valuable-footballers-in-the-world",
+      "publishedAt": "2026-09-10T14:41:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c3cf6e46f0543e",
+      "title": "Seven Premier League games scheduled for Boxing Day",
+      "summary": "The Premier League will stage seven matches on Boxing Day this year - a significant increase on last year.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94y2vx8gno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T14:40:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "63a13c6860aa01",
+      "title": "Bruno Fernandes stance on staying at Man Utd mooted – ‘from what I have heard’",
+      "summary": "The future of Portugal international attacking midfielder Bruno Fernandes at Manchester United is far from certain.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-fernandes-manchester-united-future",
+      "publishedAt": "2026-09-10T14:35:46.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c7a5bbe5c28dc8",
+      "title": "Sunderland v Arsenal: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Sunderland and Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/sunderland-v-arsenal-prediction-preview",
+      "publishedAt": "2026-09-10T14:31:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2ed926a9f29488",
+      "title": "Carragher reveals Liverpool ‘worrying’ factor as Iraola’s ‘dysfunctional’ side letting one player down",
+      "summary": "Jamie Carragher has revealed his concern about Liverpool, while another pundit thinks Alexis Mac Allister is being let down.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carragher-reveals-liverpool-worrying-iraola-dysfunctional-side-letting-player-down",
+      "publishedAt": "2026-09-10T14:26:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bbfb81a2f12394",
+      "title": "Premier League clubs in Europe: Villa, Palace win Europa trophies; Arsenal heartache",
+      "summary": "Here is a record of all 20 Premier League clubs’ records in the three major European competitions (Champions League, Europa & Conference).",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-clubs-in-europe-champions-league-europa-league",
+      "publishedAt": "2026-09-10T14:16:31.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "051309403a589a",
+      "title": "Arsenal close to finalising new contract for Arteta",
+      "summary": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T14:16:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0c4d4550589c6c",
+      "title": "Deco lifts lid on why Barcelona signed Anthony Gordon over Marcus Rashford",
+      "summary": "Barcelona sporting director Deco has revealed why the club decided to sign Anthony Gordon over Marcus Rashford this summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/deco-lifts-lid-on-why-barcelona-signed-anthony-gordon-over-marcus-rashford",
+      "publishedAt": "2026-09-10T14:06:15.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "75239b17d1d221",
+      "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+      "summary": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T13:55:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ea730fcfe5dd97",
+      "title": "Ronald Araujo reaches decision on Liverpool future as Reds hold £47m option",
+      "summary": "Ronald Araujo has made up his mind on whether to stay at Liverpool next season or go back to Barcelona.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronald-araujo-liverpool-barcelona-final-decision-reached",
+      "publishedAt": "2026-09-10T13:29:28.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "cdaa0340f8869f",
+      "title": "Football Daily | Mauricio Pochettino, Tottenham’s game of thrones and retrospective action",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham",
+      "publishedAt": "2026-09-10T13:27:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "24a0d0271f5883",
+      "title": "Mikel Arteta: Ex-PGMOL chief hits out at refs over ‘constant failure’ to sanction ‘worst offender’",
+      "summary": "Former referee Keith Hackett has urged Pro Ref to step in and sanction Mikel Arteta for his touchline antics after branding the Arsenal boss the “worst offender”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mikel-arteta-hits-out-refs-constant-failure-sanction-worst-offender",
+      "publishedAt": "2026-09-10T13:11:30.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -191,13 +373,121 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6e832bd656e799",
-      "title": "How to watch Sky Sport's Big Weekend",
-      "summary": "Football, F1, cricket, golf, tennis and NFL all on one weekend - and all on Sky Sports. Here's everything you need to know so you don't miss a minute of the action.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583497/how-to-watch-premier-league-wsl-spanish-grand-prix-us-open-finals-solheim-cup-and-nfl-with-sky-sports-and-now",
-      "publishedAt": "2026-09-10T10:57:39.694Z",
+      "id": "d2783d28192e83",
+      "title": "France wants to transform Fifa after withdrawing Infantino support",
+      "summary": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infan...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T13:04:31.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "973bcb532375c7",
+      "title": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
+      "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind c...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
+      "publishedAt": "2026-09-10T13:00:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Europa League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "653a0f1c118ec0",
+      "title": "Unwanted Cody Gakpo becomes Liverpool undroppable and Prem’s third-best player",
+      "summary": "Motivation takes many forms, but Cody Gakpo proves that few methods are as fast-acting or hard-hitting as the Tottenham Hotspur Effect.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-best-players-liverpool-cody-gakpo-spurs-rankings",
+      "publishedAt": "2026-09-10T12:47:29.000Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3328ee9be1746d",
+      "title": "The Premier League doesn’t buy superstars, it makes them – who’s next?",
+      "summary": "Where were all the superstar signings in the Premier League this summer? In their absence, some hidden gems may have been unearthed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-superstar-made-not-bought-premier-league",
+      "publishedAt": "2026-09-10T12:46:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5318d9275108c6",
+      "title": "Tottenham v Everton: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Tottenham and Everton.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/tottenham-v-everton-prediction-preview-2026-2027",
+      "publishedAt": "2026-09-10T12:03:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "38f6d59f4ee451",
+      "title": "Carrick has decision to make over ‘total zero’ with ‘shameful numbers’ for Man Utd’s Champions League return",
+      "summary": "Michael Carrick has a big Man Utd selection decision to make, but an easy one according to one arguably biased media outlet.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carrick-decision-total-zero-shameful-numbers-man-utd-championa-league-return",
+      "publishedAt": "2026-09-10T11:51:06.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "cb5edace99dd6b",
+      "title": "Arsenal gripped by ‘new fear’ with trophy hopes in ‘peril’ as Spurs chase elusive Premier League title",
+      "summary": "Fear and peril are the watchwords after Arsenal’s catastrophic season suffered another blow last night. You fear for them, you really do.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-fear-unlocked-spurs-eye-premier-league-title-mediawatch",
+      "publishedAt": "2026-09-10T11:13:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "652e49e993b341",
+      "title": "How to follow the Premier League on the BBC this weekend",
+      "summary": "Our Ask Me Anything team explains how to follow matches from week three of the Premier League season on the BBC this weekend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T10:58:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a9d3b21748dc17",
+      "title": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team",
+      "summary": "It began with getting her dad into walking football after his diagnosis – now Gemma Darvill is taking a national team on tour to Canada When Gemma Darvill’s dad, Les, w...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team",
+      "publishedAt": "2026-09-10T10:53:38.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football"
@@ -298,296 +588,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Champions League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "3a672847285f04",
-      "title": "Joe Cole says two Arsenal players have forced Martin Odegaard to be dangerous again",
-      "summary": "Joe Cole has a theory about why Arsenal attacking midfielder Martin Odegaard is playing well this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/martin-odegaard-arsenal-napoli-joe-cole-verdict",
-      "publishedAt": "2026-09-10T08:14:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "363f90af9b1fa4",
-      "title": "Spurs should be awarded 2016-17 title - Pochettino",
-      "summary": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T08:08:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "eda5aa523585af",
-      "title": "Spurs win Premier League, Arsenal and Liverpool win Doubles as Poch fantasy taken to only logical conclusion",
-      "summary": "Mauricio Pochettino claims the Premier League title of 2016/17 should go to Spurs. In that case, we have 20 more trophies to reallocate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spurs-win-premier-league-arsenal-liverpool-doubles-pochettino-chelsea",
-      "publishedAt": "2026-09-10T07:53:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4e00c928272e3d",
-      "title": "Carragher refuses to forgive Mac Allister for Liverpool press conference",
-      "summary": "Alexis Mac Allister will need to do more than score the winner for Liverpool against Atletico Madrid for Jamie Carragher to forgive his pre-match press conference.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carragher-refuses-forgive-mac-allister-liverpool-press-conference",
-      "publishedAt": "2026-09-10T07:45:54.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6612bc0e93e708",
-      "title": "Barca's Rodri apologises over Valencia 'weak' comments",
-      "summary": "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyrx8gd71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T07:27:34.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "La Liga",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "cd6bdfe8d84d72",
-      "title": "Pochettino votes to strip Chelsea of 2016/17 title and hand it to Tottenham",
-      "summary": "“They were punished, they admitted it? So that’s it. The title should be for the team that was second.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-strip-chelsea-2016-17-title-hand-it-tottenham",
-      "publishedAt": "2026-09-10T07:21:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d7d55b14f380ab",
-      "title": "Liverpool win but ‘mini-cracks showing’ as Isak rinsed for 90 minutes",
-      "summary": "Liverpool beat Atletico Madrid but there are still grounds for concern, while the debate about football nostalgia continues.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-win-mini-cracks-showing-isak-mailbox",
-      "publishedAt": "2026-09-10T07:08:28.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "074f220d94c9dd",
-      "title": "Gossip: Johnstone to keep Celtic place for Old Firm cup tie?",
-      "summary": "Celtic boss has a decision to make on which goalkeeper starts against Rangers on Sunday and why did VAR not intervene for disallowed goal at McDiarmid Park?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c23x7k8r3pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T06:59:28.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "a09d761df78e5d",
-      "title": "Steven Gerrard tells Alexis Mac Allister why Liverpool have not given him a new contract",
-      "summary": "Alexis Mac Allister scored for Liverpool against Atletico Madrid at Anfield in the Champions League on Wednesday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alexis-mac-allister-steven-gerrard-liverpool-new-contract",
-      "publishedAt": "2026-09-10T06:49:44.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ce665875eddf35",
-      "title": "Arsenal, Liverpool and Man City among greenest Champions League clubs",
-      "summary": "This isn’t a ranking of which Champions League club emits the least carbon but it is a ranking of measurable green intent.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-liverpool-man-city-greenest-champions-league-clubs",
-      "publishedAt": "2026-09-10T06:32:33.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "55fd7f03c8e16e",
-      "title": "Keown names Arsenal star who ‘missed an opportunity’ vs Napoli and it’s not Gyokeres",
-      "summary": "Martin Keown heaped praise on Martin Odegaard for another standout display for Arsenal in their 1-0 on Wednesday, but picked out one of his teammates who “missed an opp...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/keown-arsenal-missed-opportunity-napoli-not-gyokeres",
-      "publishedAt": "2026-09-10T06:16:02.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5f9b78c423de24",
-      "title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-      "summary": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questio...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
-      "publishedAt": "2026-09-10T06:00:19.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7d90f4e06eef00",
-      "title": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
-      "summary": "Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino",
-      "publishedAt": "2026-09-10T06:00:18.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ac4731bc2e751e",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdr7jm864pmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T05:42:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "04f208de057c3e",
-      "title": "Arteta ‘raging’ at Arsenal trio during Napoli win – ‘We missed so many great chances’",
-      "summary": "Mikel Arteta wasn’t at all happy with an “ambling” Arsenal trio in their 1-0 win over Napoli on Wednesday but insists he was delighted with the overall performance.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arteta-raging-arsenal-trio-napoli-missed-so-many-great-chances",
-      "publishedAt": "2026-09-10T05:27:03.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "54b38476ba4e61",
-      "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "summary": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T23:25:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "031d6955c4d9c6",
-      "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-      "summary": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl6zyr1gw5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T23:12:27.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2184eb367691f8",
-      "title": "Odegaard is an 'artist for this whole side' - Onuoha",
-      "summary": "Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects f...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3eqzqkp3k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:40:37.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "849069df442b52",
-      "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-      "summary": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:35:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "86deb0f2a14cd1",
-      "title": "Newcastle still open to Hall sale - Thursday's gossip",
-      "summary": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy303wwpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:32:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8aec2a3df3b210",
-      "title": "How Mac Allister 'let his feet do the talking' - Warnock",
-      "summary": "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champion...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/videos/c1mvpvk5jryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:21:42.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Liverpool"
       ]
     }
   ],
