@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:10:59.200Z",
+  "generatedAt": "2026-09-11T20:44:15.688Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,44 +99,131 @@
       "pinned": true
     },
     {
-      "id": "4b26048446f6b2",
-      "title": "Man City's midfield options prove Rodri is replaceable after all",
-      "summary": "By Enzo Maresca's own admission, Manchester City \"complicated\" their 2-0 win over Porto in the Champions League on Tuesday. The patchiness of their performance led Alan...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584237/man-utd-vs-man-city-ayyoub-bouaddi-elliot-anderson-and-enzo-fernandez-are-the-perfect-answer-to-rodris-summer-exit",
-      "publishedAt": "2026-09-11T16:10:59.108Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5e6a58e14e9f8e",
-      "title": "Man Utd's £1bn rebuild faces toughest test",
-      "summary": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Cha...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines",
-      "publishedAt": "2026-09-11T16:10:59.108Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
       "id": "e51fbe5a51efd9",
       "title": "Kings of Manchester: Who will reign when United and City clash?",
       "summary": "Manchester City have been \"the Kings of Manchester\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13584470/man-utd-vs-man-city-kings-of-manchester-hotly-debated-ahead-of-old-trafford-derby-showdown",
-      "publishedAt": "2026-09-11T16:10:59.107Z",
+      "publishedAt": "2026-09-11T20:44:15.487Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "705ef28daca77d",
+      "title": "Kartal still Fenerbahce boss despite resigning",
+      "summary": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T19:51:32.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "bf1519a8313e6a",
+      "title": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
+      "summary": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League represen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning",
+      "publishedAt": "2026-09-11T19:00:13.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1b22c4fe44db5f",
+      "title": "Kobbie Mainoo moves from outsider to main man after summer of hurt",
+      "summary": "England reached World Cup semis yet midfielder did not play a minute. But he is key to Manchester United in derby It was a sight the England press pack became increasin...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby",
+      "publishedAt": "2026-09-11T19:00:12.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6661d1435f4c5e",
+      "title": "Moroccan official told to stop making 2030 final promise",
+      "summary": "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish feder...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gv7n50lnwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T18:58:10.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a33110cecf17e3",
+      "title": "Arsenal staff ‘anger’ amid fears that US consultants will cut jobs just months after PL win",
+      "summary": "Staff at Arsenal are fearful that US consultants are set to advise the Premier League champions to make job cuts, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-staff-anger-fears-us-consultants-cut-jobs",
+      "publishedAt": "2026-09-11T17:24:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "d13e81c60a36fd",
+      "title": "Premier League team news: predicted lineups for the weekend action",
+      "summary": "Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host Arsenal Saturday 3pm Venue Villa Park Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "publishedAt": "2026-09-11T17:16:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0ff638bb5bb316",
+      "title": "Two-time UCL winner reaches decision on Arsenal transfer with one condition",
+      "summary": "Arsenal want to bring Paris Saint-Germain defender William Pacho to the Emirates Stadium in the near future, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/two-time-ucl-winner-reaches-decision-on-arsenal-transfer-with-one-condition",
+      "publishedAt": "2026-09-11T16:41:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "58e894dd1ff6ad",
+      "title": "Athletic Club forward Williams retires from Ghana duty",
+      "summary": "Inaki Williams says the time has come to bring his journey with the Black Stars to an end four years after making his international debut.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v41ype378o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T16:18:27.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -155,18 +242,45 @@
       ]
     },
     {
-      "id": "f2fde696728c80",
-      "title": "Manchester United ban 685 season-ticket holders over touting; Watford sign Antonio: football news – live",
-      "summary": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail John Matthias Jaissle revealed that summer signing Matias...",
+      "id": "4ca23c3260ceb1",
+      "title": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
+      "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up Transf...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-      "publishedAt": "2026-09-11T15:49:33.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me",
+      "publishedAt": "2026-09-11T16:00:09.000Z",
       "category": "transfer",
-      "region": "england france",
+      "region": "england italy france",
       "tags": [
         "Football",
-        "Premier League",
+        "Transfer",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bc7a39ed67febe",
+      "title": "US Open tennis finals, the Manchester derby and Solheim Cup – follow with us",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/sep/11/us-open-tennis-finals-the-manchester-derby-and-solheim-cup-follow-with-us",
+      "publishedAt": "2026-09-11T15:59:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "bc0abbb2162509",
+      "title": "Football Daily",
+      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m00318bk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T15:59:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -473,7 +587,7 @@
     },
     {
       "id": "66144f71548929",
-      "title": "Man Utd ban 685 fan accounts after touting probe",
+      "title": "Man Utd ban 685 fan accounts after ticket touting probe",
       "summary": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
@@ -482,117 +596,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "220d4c7fe50bb2",
-      "title": "Who am I? Guess Bundesliga star No 3",
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z0d4z750o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T11:31:33.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "9e1025a5b8eb82",
-      "title": "Olid’s United on back foot due to late business and unforgiving WSL start",
-      "summary": "Head coach has harsh spotlight on her as she prepares for Chelsea on Sunday, but she deserves time and investment It was tough watching Manchester United’s players labo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/eva-olid-manchester-united-wsl",
-      "publishedAt": "2026-09-11T11:18:25.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d0065d1986c7fb",
-      "title": "What is the Premier League's KMI Panel and how does it work?",
-      "summary": "The Premier League introduced its Key Match Incident (KMI) Panel four years ago",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz92l0gkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T11:16:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9dafbd2a6af108",
-      "title": "Alan Shearer names team that will stop Arsenal winning the Champions League – ‘they are due one’",
-      "summary": "Newcastle United legend Alan Shearer has revealed who he thinks will beat Arsenal in this season’s Champions League final.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alan-shearer-names-team-will-stop-arsenal-winning-champions-league",
-      "publishedAt": "2026-09-11T11:11:06.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c2fe4cd8601635",
-      "title": "Maresca backs Anderson over ‘kings of Manchester’ dig before derby clash",
-      "summary": "Maresca: ‘City dominant when Anderson grew up’ O’Reilly due to return but Doku not fit after injury Enzo Maresca has backed Elliot Anderson’s assessment that Manchester...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/maresca-backs-elliot-anderson-kings-of-manchester-derby",
-      "publishedAt": "2026-09-11T11:02:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d1ae1f70f55167",
-      "title": "Gary Neville has ‘question marks over’ Man Utd midfielder now – ‘What is he?’",
-      "summary": "Gary Neville has shared his doubts about a Manchester United midfielder that Michael Carrick has been raving about.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kobbie-mainoo-manchester-united-gary-neville-verdict",
-      "publishedAt": "2026-09-11T11:01:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "421c340e7db8ee",
-      "title": "Arteta definitely ‘fires back’ at bitter Jesus with ‘gratitude’ in unhinged Arsenal attack",
-      "summary": "Mikel Arteta has torn former striker Gabriel Jesus a new one as ‘bitter Arsenal transfer exit escalates’ with ‘gratitude’ and ‘understanding’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arteta-fires-back-bitter-jesus-gratitude-arsenal-attack",
-      "publishedAt": "2026-09-11T10:57:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c38be339c2e5c6",
-      "title": "Coventry City v Brighton: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Coventry City and Brighton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/coventry-city-v-brighton-prediction-preview",
-      "publishedAt": "2026-09-11T10:56:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
