@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:39:04.050Z",
+  "generatedAt": "2026-09-11T03:53:58.830Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,31 +99,311 @@
       "pinned": true
     },
     {
-      "id": "c44a43460170dc",
-      "title": "De Zerbi 'was the key' - Fernandes on his Spurs switch and trophy ambitions",
-      "summary": "Spurs may have failed to win any of their first three Premier League games this season, but summer signing Matheus Fernandes is convinced he has joined a squad set to s...",
+      "id": "b26476f36c6191",
+      "title": "PL Predictions: Hull's run can't continue at Chelsea, can it? Oh, it can",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584072/matheus-fernandes-interview-spurs-midfielder-on-the-passion-of-head-coach-roberto-de-zerbi-and-trophy-ambitions",
-      "publishedAt": "2026-09-10T20:39:03.641Z",
+      "url": "https://www.skysports.com/football/news/12040/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can",
+      "publishedAt": "2026-09-11T03:53:58.421Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Premier League",
+        "Chelsea"
       ]
     },
     {
-      "id": "7f171825c70f9c",
-      "title": "Manchester United v Sabah: Champions League – live",
-      "summary": "⚽️ Champions League updates from the 8pm BST kick-off ⚽️ Live scoreboard | Read Football Daily | And mail Daniel It’s also worth noting that Patrick Dorgu starts at lef...",
+      "id": "df903f2eca1802",
+      "title": "Papers: Zubimendi may push to leave Arsenal",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584130/arsenal-transfer-news-martin-zubimendi-may-push-to-leave-premier-league-champions-paper-talk",
+      "publishedAt": "2026-09-11T03:53:58.420Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "aef3ea79a05137",
+      "title": "Euro latest: Kane scores as Bayern thrash Bodo",
+      "summary": "Euro latest: Kane scores as Bayern thrash Bodo",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "publishedAt": "2026-09-11T03:53:58.420Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "2bc805042bed7e",
+      "title": "Man Utd put four past Sabah on Champions League return",
+      "summary": "Manchester United made a winning return to the Champions League as they beat Sabah FC in style with a 4-0 victory at Old Trafford.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-sabah/report/577612",
+      "publishedAt": "2026-09-11T03:53:58.420Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b0fd28434c736b",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading r...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-      "publishedAt": "2026-09-10T20:24:56.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
+      "publishedAt": "2026-09-10T23:01:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0b62e39b221d04",
+      "title": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+      "summary": "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a st...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
+      "publishedAt": "2026-09-10T22:56:27.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
         "Football",
         "Champions League",
         "Manchester"
+      ]
+    },
+    {
+      "id": "3e315397f773eb",
+      "title": "Two goals in two games - Sesko gives Man Utd a different threat",
+      "summary": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T22:41:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "34042e9ad81d91",
+      "title": "Is Dorgu the answer at left -back for Man Utd?",
+      "summary": "Champions League analyst Stephen Warnock and European football journalist Julien Laurens look at the performance of Patrick Dorgu during Manchester United's 4-0 win ove...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrkkwdj97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T22:24:15.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c9d5fe7bd2a541",
+      "title": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
+      "summary": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thras...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
+      "publishedAt": "2026-09-10T21:57:25.000Z",
+      "category": "ucl",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "33000fed6d9bfe",
+      "title": "Michael Carrick reserves special praise for ‘fantastic’ Man Utd star after Sabah win – ‘he is a real joy’",
+      "summary": "Manchester United boss Michael Carrick has reserved praise for one of his players after they beat Sabah FK 4-0 on Thursday night.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-reserves-special-praise-fantastic-man-utd-star",
+      "publishedAt": "2026-09-10T21:55:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "21274b4861044a",
+      "title": "Olise scores twice as Bayern thrash Bodo/Glimt",
+      "summary": "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1mvzgmdje5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T21:50:13.000Z",
+      "category": "ucl",
+      "region": "germany",
+      "tags": [
+        "Champions League",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9dcec27cdc51a5",
+      "title": "Champions League new boys Como dominate Leipzig",
+      "summary": "Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T21:45:10.000Z",
+      "category": "ucl",
+      "region": "germany",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "c2feb927dbdf9d",
+      "title": "Fenerbahce boss stuns club by quitting after Roma draw",
+      "summary": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8r6vyjpye2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T21:42:26.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane running away with the title",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-09-10T21:22:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9c23d26bab065e",
+      "title": "Sesko soars as Manchester United surge past Sabah on Champions League return",
+      "summary": "It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even e...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
+      "publishedAt": "2026-09-10T21:05:24.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "76a744d9ec396f",
+      "title": "Brown scores fine equaliser as Fenerbahce draw with Roma",
+      "summary": "Englishman Archie Brown scores as Fenerbahce begin their return to Champions League football by holding Roma to a draw.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1dlnedp7yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T21:05:17.000Z",
+      "category": "ucl",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "20a9e811e44d8d",
+      "title": "Man United neutralise City’s derby advantage with facile return to Champions League action",
+      "summary": "Manchester United did what they had to do on their return to Champions League action, easing past Sabah without over-exerting themselves.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-united-neutralise-city-derby-advantage-champions-league-return",
+      "publishedAt": "2026-09-10T21:04:54.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dc57fa6c3d0339",
+      "title": "Man Utd put four past Sabah on Champions League return",
+      "summary": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T21:01:24.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a8631958819d12",
+      "title": "PSV & Shakhtar Donetsk open Champions League campaign with draw",
+      "summary": "PSV Eindhoven and Shakhtar Donetsk played out a 1-1 draw to open their Champions League campaign at Philips Stadion.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2z0j25mmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T21:00:29.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "c585666161bb75",
+      "title": "Fernandes finishes off brilliant move to double Man Utd lead",
+      "summary": "Manchester United captain Bruno Fernandes rounds off a brilliant team move to double his side's lead over Sabah at Old Trafford.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c70d1rg9e0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T20:59:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c0cd97951435ef",
+      "title": "Clearlake Capital close on buying out Chelsea co-owners Todd Boehly and Mark Walter",
+      "summary": "Deal would value club at around £5bn Walter is seeking to raise funds to pay off insurers Chelsea’s majority owners, Clearlake Capital, are closing in on an agreement t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/10/clearlake-capital-closing-buying-out-chelsea-co-owners-todd-boehly-mark-walter-5bn",
+      "publishedAt": "2026-09-10T20:49:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "25343211b2d80e",
+      "title": "Liverpool star tempted to leave next year for two reasons as concern for FSG mooted",
+      "summary": "According to reports, Liverpool star Virgil van Dijk is ‘tempted to quit’ the Premier League giants next year as he nears the end of his contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-star-tempted-leave-next-year-two-reasons-concern-fsg",
+      "publishedAt": "2026-09-10T20:44:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
@@ -317,283 +597,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "83de90479bcafb",
-      "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "summary": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer",
-      "publishedAt": "2026-09-10T14:54:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer"
-      ]
-    },
-    {
-      "id": "309981bf10dc85",
-      "title": "Twenty most valuable footballers in the world: Haaland above Mbappe, tied with Yamal",
-      "summary": "Eleven Premier League players rank among the top 20 most valuable players in the world, including three of Arsenal’s Premier League winners.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/yamal-mbappe-most-valuable-footballers-in-the-world",
-      "publishedAt": "2026-09-10T14:41:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c3cf6e46f0543e",
-      "title": "Seven Premier League games scheduled for Boxing Day",
-      "summary": "The Premier League will stage seven matches on Boxing Day this year - a significant increase on last year.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94y2vx8gno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T14:40:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "63a13c6860aa01",
-      "title": "Bruno Fernandes stance on staying at Man Utd mooted – ‘from what I have heard’",
-      "summary": "The future of Portugal international attacking midfielder Bruno Fernandes at Manchester United is far from certain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-fernandes-manchester-united-future",
-      "publishedAt": "2026-09-10T14:35:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c7a5bbe5c28dc8",
-      "title": "Sunderland v Arsenal: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Sunderland and Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/sunderland-v-arsenal-prediction-preview",
-      "publishedAt": "2026-09-10T14:31:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2ed926a9f29488",
-      "title": "Carragher reveals Liverpool ‘worrying’ factor as Iraola’s ‘dysfunctional’ side letting one player down",
-      "summary": "Jamie Carragher has revealed his concern about Liverpool, while another pundit thinks Alexis Mac Allister is being let down.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carragher-reveals-liverpool-worrying-iraola-dysfunctional-side-letting-player-down",
-      "publishedAt": "2026-09-10T14:26:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "bbfb81a2f12394",
-      "title": "Premier League clubs in Europe: Villa, Palace win Europa trophies; Arsenal heartache",
-      "summary": "Here is a record of all 20 Premier League clubs’ records in the three major European competitions (Champions League, Europa & Conference).",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-clubs-in-europe-champions-league-europa-league",
-      "publishedAt": "2026-09-10T14:16:31.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "051309403a589a",
-      "title": "Arsenal close to finalising new contract for Arteta",
-      "summary": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T14:16:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0c4d4550589c6c",
-      "title": "Deco lifts lid on why Barcelona signed Anthony Gordon over Marcus Rashford",
-      "summary": "Barcelona sporting director Deco has revealed why the club decided to sign Anthony Gordon over Marcus Rashford this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/deco-lifts-lid-on-why-barcelona-signed-anthony-gordon-over-marcus-rashford",
-      "publishedAt": "2026-09-10T14:06:15.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "75239b17d1d221",
-      "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
-      "summary": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T13:55:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ea730fcfe5dd97",
-      "title": "Ronald Araujo reaches decision on Liverpool future as Reds hold £47m option",
-      "summary": "Ronald Araujo has made up his mind on whether to stay at Liverpool next season or go back to Barcelona.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ronald-araujo-liverpool-barcelona-final-decision-reached",
-      "publishedAt": "2026-09-10T13:29:28.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "cdaa0340f8869f",
-      "title": "Football Daily | Mauricio Pochettino, Tottenham’s game of thrones and retrospective action",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham",
-      "publishedAt": "2026-09-10T13:27:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "24a0d0271f5883",
-      "title": "Mikel Arteta: Ex-PGMOL chief hits out at refs over ‘constant failure’ to sanction ‘worst offender’",
-      "summary": "Former referee Keith Hackett has urged Pro Ref to step in and sanction Mikel Arteta for his touchline antics after branding the Arsenal boss the “worst offender”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mikel-arteta-hits-out-refs-constant-failure-sanction-worst-offender",
-      "publishedAt": "2026-09-10T13:11:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d2783d28192e83",
-      "title": "France wants to transform Fifa after withdrawing Infantino support",
-      "summary": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infan...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T13:04:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "973bcb532375c7",
-      "title": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
-      "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind c...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/10/kai-havertz-arsenal-max-rushden-comment",
-      "publishedAt": "2026-09-10T13:00:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Europa League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "653a0f1c118ec0",
-      "title": "Unwanted Cody Gakpo becomes Liverpool undroppable and Prem’s third-best player",
-      "summary": "Motivation takes many forms, but Cody Gakpo proves that few methods are as fast-acting or hard-hitting as the Tottenham Hotspur Effect.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-best-players-liverpool-cody-gakpo-spurs-rankings",
-      "publishedAt": "2026-09-10T12:47:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3328ee9be1746d",
-      "title": "The Premier League doesn’t buy superstars, it makes them – who’s next?",
-      "summary": "Where were all the superstar signings in the Premier League this summer? In their absence, some hidden gems may have been unearthed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-superstar-made-not-bought-premier-league",
-      "publishedAt": "2026-09-10T12:46:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5318d9275108c6",
-      "title": "Tottenham v Everton: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Tottenham and Everton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/tottenham-v-everton-prediction-preview-2026-2027",
-      "publishedAt": "2026-09-10T12:03:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "38f6d59f4ee451",
-      "title": "Carrick has decision to make over ‘total zero’ with ‘shameful numbers’ for Man Utd’s Champions League return",
-      "summary": "Michael Carrick has a big Man Utd selection decision to make, but an easy one according to one arguably biased media outlet.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carrick-decision-total-zero-shameful-numbers-man-utd-championa-league-return",
-      "publishedAt": "2026-09-10T11:51:06.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "cb5edace99dd6b",
-      "title": "Arsenal gripped by ‘new fear’ with trophy hopes in ‘peril’ as Spurs chase elusive Premier League title",
-      "summary": "Fear and peril are the watchwords after Arsenal’s catastrophic season suffered another blow last night. You fear for them, you really do.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-fear-unlocked-spurs-eye-premier-league-title-mediawatch",
-      "publishedAt": "2026-09-10T11:13:51.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
