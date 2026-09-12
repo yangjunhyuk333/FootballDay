@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T20:44:15.688Z",
+  "generatedAt": "2026-09-12T03:56:20.133Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,73 @@
       "pinned": true
     },
     {
-      "id": "e51fbe5a51efd9",
-      "title": "Kings of Manchester: Who will reign when United and City clash?",
-      "summary": "Manchester City have been \"the Kings of Manchester\".",
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Arteta striving to 'build the best club in the world'",
+      "summary": "Arsenal latest: Arteta striving to 'build the best club in the world'",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584470/man-utd-vs-man-city-kings-of-manchester-hotly-debated-ahead-of-old-trafford-derby-showdown",
-      "publishedAt": "2026-09-11T20:44:15.487Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-12T03:56:19.810Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3f22368f63f686",
+      "title": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk",
+      "publishedAt": "2026-09-12T03:56:19.808Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "68587965e91330",
+      "title": "Richarlison could still leave Spurs - Saturday's gossip",
+      "summary": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T22:18:17.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a2408eb0f8d9ee",
+      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+      "summary": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Mancheste...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T21:30:23.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d917eac2280617",
+      "title": "Premier League news: Iraola values Wirtz’s work ethic; Moyes backs ‘senior citizen’ Grealish",
+      "summary": "Liverpool manager insists midfielder should be judged by his influence rather than numbers Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-news-iraola-values-wirtzs-work-ethic-moyes-backs-senior-citizen-grealish",
+      "publishedAt": "2026-09-11T21:30:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
@@ -432,22 +489,6 @@
       ]
     },
     {
-      "id": "22c2da10856a4f",
-      "title": "Champions League opening data shows English dominance and too few shocks",
-      "summary": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real Madrid The 2026-27 Champions League is...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks",
-      "publishedAt": "2026-09-11T13:29:16.000Z",
-      "category": "ucl",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
       "id": "8a7f397d34f9e7",
       "title": "Arsenal top scorers against Big Six: Havertz rises above Cazorla",
       "summary": "Kai Havertz has risen to third in the current Arsenal squad for Premier League goals scored against fellow Big Six teams.",
@@ -556,46 +597,6 @@
       "tags": [
         "Champions League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "223441485d4c50",
-      "title": "£60m left-back wants to join Man Utd after Lewis Hall signs new Newcastle contract",
-      "summary": "Manchester United believe that a France international is keen on a move to Old Trafford, as Lewis Hall decides to sign a new deal with Newcastle United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/adrien-truffert-manchester-united-bournemouth",
-      "publishedAt": "2026-09-11T12:31:14.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d274c2efa2784d",
-      "title": "Hull winger Thomas unhurt after car crash",
-      "summary": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T11:33:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "66144f71548929",
-      "title": "Man Utd ban 685 fan accounts after ticket touting probe",
-      "summary": "Manchester United bans 685 fan accounts after a ticket touting investigation and insists innocent fans have not been punished.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4zydzk2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T11:33:17.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
