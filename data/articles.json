@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T10:23:04.974Z",
+  "generatedAt": "2026-09-12T15:17:59.658Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,80 @@
       "pinned": true
     },
     {
-      "id": "83fd9264d706b6",
-      "title": "How to watch Tottenham v Everton",
-      "summary": "Tottenham host Everton in the Premier League on September 12, live on Sky Sports .",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583635/tottenham-vs-everton-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
-      "publishedAt": "2026-09-12T10:23:04.685Z",
+      "id": "0a42e9a31aeabd",
+      "title": "Liverpool v Fulham, Chelsea v Hull City, and more: football clockwatch – live",
+      "summary": "⚽️ News and updates from all of Saturday’s football action ⚽️ Live scores | Tables | Top scorers | And email Barry Championship: Standing on the opposition goalline, Bi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/12/liverpool-fulham-chelsea-hull-and-more-football-clockwatch-live-scores-updates",
+      "publishedAt": "2026-09-12T15:13:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ca9a262cb1f8ff",
+      "title": "Why Man Utd won’t ‘get beyond the quarter-finals’ of UCL as INEOS hoped for a stronger start",
+      "summary": "Man Utd will reportedly struggle to go beyond the Champions League quarter-finals as they look to continue lowering their wage budget.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-champions-league-quarter-finals-ineos-hoped-stronger-start-carrick",
+      "publishedAt": "2026-09-12T14:50:19.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "775cf256d50fa1",
+      "title": "Gary Neville says £62.5m Man Utd star ‘has got balls’ – ‘He keeps going’",
+      "summary": "Gary Neville has raved about a Manchester United forward who he thinks is perfect for the Red Devils.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-matheus-cunha-gary-neville-verdict",
+      "publishedAt": "2026-09-12T14:33:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c539582a28acf9",
+      "title": "Real Madrid reaches decision on signing Arsenal star in January after Rodri mistake",
+      "summary": "Real Madrid have reached a decision on pursuing a move for Arsenal midfielder Martin Zubimendi in January, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-reaches-decision-on-signing-arsenal-star-in-january-after-rodri-mistake",
+      "publishedAt": "2026-09-12T13:22:12.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d9890e17ac305f",
+      "title": "Man Utd boss Carrick told to drop Rashford for the Manchester Derby: ‘I feel this is a little bit unfair’",
+      "summary": "Darren Bent would drop Marcus Rashford from the Man Utd starting XI for the Manchester Derby against Man City if he was Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-boss-carrick-told-to-drop-rashford-for-the-manchester-derby-i-feel-this-is-a-little-bit-unfair",
+      "publishedAt": "2026-09-12T12:33:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6ac3dd438ab555",
+      "title": "Man Utd v Man City: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Man Utd and Man City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/man-utd-v-man-city-prediction-preview",
+      "publishedAt": "2026-09-12T11:29:05.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,16 +180,47 @@
       ]
     },
     {
-      "id": "3f22368f63f686",
-      "title": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk",
-      "publishedAt": "2026-09-12T10:23:04.684Z",
+      "id": "4d84d8b9f75720",
+      "title": "Liverpool will sign ‘best in the world’ as Celtic plot January transfer after ‘surprise’ Reds move",
+      "summary": "Liverpool have “got loads of money” and will replace Richard Hughes with “the best people in the world”, says one football finance expert.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-sign-best-in-world-celtic-plot-chambers-transfer",
+      "publishedAt": "2026-09-12T11:20:38.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Football",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1091c21a05acfd",
+      "title": "Febrile Manchester derby awaits amid growing rift between United fans and club",
+      "summary": "City heading to a fortress but home supporters will protest before kick-off over club’s drive against ticket touts Manchester United’s nine victories from 10 Premier Le...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club",
+      "publishedAt": "2026-09-12T11:00:35.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f06b4468e8d4da",
+      "title": "Stuttgart make decision on selling €35m-rated defender to Man Utd in January",
+      "summary": "Stuttgart have made a decision about selling Finn Jeltsch in January with Man Utd among the clubs interested in a deal, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/stuttgart-make-decision-on-selling-e35m-rated-defender-to-man-utd-in-january",
+      "publishedAt": "2026-09-12T10:23:41.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -149,22 +248,6 @@
       "category": "transfer",
       "region": "england france",
       "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ea181aba16b845",
-      "title": "Spurs and Villa hunt first league wins, Arsenal face Sunderland test – matchday live",
-      "summary": "⚽️ Buildup, news and discussion before Saturday’s games ⚽️ This weekend’s fixtures | Tables | Mail us your thoughts Saturday 5.30pm Sky Sports Premier League Venue Tott...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/12/matchday-live-tottenham-aston-villa-sunderland-arsenal-liverpool-chelsea-fulham",
-      "publishedAt": "2026-09-12T10:02:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
         "Chelsea"
       ]
     },
@@ -255,21 +338,6 @@
       ]
     },
     {
-      "id": "900e52717b4e5e",
-      "title": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
-      "summary": "Premier League’s link-up with the Together in Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the World...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
-      "publishedAt": "2026-09-12T07:00:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
       "id": "cfcfdacd8be8f8",
       "title": "All change for Maresca: the data behind Manchester City’s rapid player turnover",
       "summary": "Squad was a model of stability under Guardiola but many of the group the new coach oversees are recent recruits Manchester City have experienced a level of player turno...",
@@ -283,6 +351,21 @@
         "Premier League",
         "Liverpool",
         "Manchester"
+      ]
+    },
+    {
+      "id": "900e52717b4e5e",
+      "title": "Football lends voice to message worth relaying: men should talk about their pain | Barney Ronay",
+      "summary": "Premier League’s link-up with the Together Against Suicide campaign is dispersing simple, blunt and essential messaging If you watched US television adverts during the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/football-men-must-talk-about-pain-together-in-suicide-campaign-premier-league",
+      "publishedAt": "2026-09-12T07:00:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup"
       ]
     },
     {
@@ -338,6 +421,20 @@
       ]
     },
     {
+      "id": "32361205611ef0",
+      "title": "Football Daily",
+      "summary": "Kelly Somers speaks to Manchester City defender Rúben Dias.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p94lt5?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T00:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
       "id": "68587965e91330",
       "title": "Richarlison could still leave Spurs - Saturday's gossip",
       "summary": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
@@ -379,19 +476,6 @@
         "Football",
         "Premier League",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "705ef28daca77d",
-      "title": "Kartal still Fenerbahce boss despite resigning",
-      "summary": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T19:51:32.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Champions League"
       ]
     },
     {
@@ -524,86 +608,6 @@
         "Football",
         "Transfer",
         "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bc0abbb2162509",
-      "title": "Football Daily",
-      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m00318bk?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T15:59:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ac8a7ad095c3ba",
-      "title": "Liverpool unveil memorials for former manager Beard",
-      "summary": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T15:32:08.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "271ef8777061a0",
-      "title": "Arsenal make double-your-money ‘offer’ to get marquee January deal over the line",
-      "summary": "Arsenal have made an offer to double Raphinha’s salary if he chooses to sign from Barcelona in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-double-money-offer-raphinha-barcelona-january",
-      "publishedAt": "2026-09-11T15:17:27.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "ac84a0422a3fc7",
-      "title": "All done deals in September 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T15:05:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "508b89897f0f38",
-      "title": "Ex-West Ham striker Antonio joins Watford",
-      "summary": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T15:04:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e6cd0b23994c8a",
-      "title": "Newcastle: Alan Shearer reveals ‘issue’ with Lewis Hall new contract after Man Utd interest",
-      "summary": "Alan Shearer has explained why he thinks Newcastle United still have an “issue” with Lewis Hall despite the Manchester United target signing a new contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-shearer-reveals-issue-lewis-hall-man-utd",
-      "publishedAt": "2026-09-11T14:46:50.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
         "Inter"
       ]
     }
