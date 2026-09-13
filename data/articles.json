@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T04:05:32.211Z",
+  "generatedAt": "2026-09-13T11:25:26.169Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,52 +99,12 @@
       "pinned": true
     },
     {
-      "id": "7853a93d20fb79",
-      "title": "Winless Spurs remain goalless after another bore draw against Everton",
-      "summary": "Tottenham’s winless and goalless start to the Premier League season continued with a 0-0 draw at home to unbeaten Everton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/report/559483",
-      "publishedAt": "2026-09-13T04:05:31.916Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Barcola and other wingers will play off left and right",
-      "summary": "Liverpool latest: Barcola and other wingers will play off left and right",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-13T04:05:31.916Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d9bc276c51d111",
-      "title": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
-      "summary": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585204/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
-      "publishedAt": "2026-09-13T04:05:31.916Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
       "id": "9c7f1b72411de5",
       "title": "Guimaraes haunts Sunderland as Arsenal continue winning start",
       "summary": "Bruno Guimaraes scored a stunning goal two minutes after David Raya had saved a penalty as Arsenal beat Sunderland 2-0 to move above Manchester City at the top of the P...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482",
-      "publishedAt": "2026-09-13T04:05:31.915Z",
+      "publishedAt": "2026-09-13T11:25:25.959Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -154,12 +114,25 @@
       ]
     },
     {
+      "id": "c4f2db8f7adf65",
+      "title": "Olid: London City defeat surprised me - but my methods will take time",
+      "summary": "Eva Olid has learned more about her new Manchester United side in the past week than in the whole of the previous month since she took over from Marc Skinner.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13584474/eva-olid-exclusive-manchester-united-women-head-coach-surprised-by-manner-of-london-city-defeat",
+      "publishedAt": "2026-09-13T11:25:25.959Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
       "id": "d102a0e1daf7f5",
       "title": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk",
-      "publishedAt": "2026-09-13T04:05:31.915Z",
+      "publishedAt": "2026-09-13T11:25:25.959Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -167,29 +140,30 @@
       ]
     },
     {
-      "id": "36465ff5664c45",
-      "title": "'Extraordinary!' | Nmecha scores outrageous overhead kick for Dortmund",
-      "summary": "Felix Nmecha scored a stunning bicycle kick for Borussia Dortmund in their Bundesliga clash against Paderborn.",
+      "id": "a6799e7e20f24d",
+      "title": "WSL: Man Utd host Chelsea in first of six matches LIVE!",
+      "summary": "WSL: Man Utd host Chelsea in first of six matches LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585130/felix-nmaecha-scores-outrageous-overhead-kick-for-bourussia-dortmund",
-      "publishedAt": "2026-09-13T04:05:31.915Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "c9cbe15f968916",
-      "title": "Iraola bemoans Liverpool's lack of cutting edge and explains Barcola plan",
-      "summary": "Liverpool manager Andoni Iraola bemoaned lack of creativity and cutting edge after his side were held to a 0-0 draw by Fulham at Anfield.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585141/liverpool-boss-andoni-iraola-bemoans-lack-of-creativity-and-cutting-edge-against-fulham-and-explains-bradley-barcola-plan",
-      "publishedAt": "2026-09-13T04:05:31.915Z",
+      "url": "https://www.skysports.com/football/manchester-united-women-vs-chelsea-women/live/575768",
+      "publishedAt": "2026-09-13T11:25:25.958Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "18c011b70a10b1",
+      "title": "How to watch Man Utd v Man City",
+      "summary": "Manchester United host rivals Manchester City in a huge Premier League Manchester derby on September 13, live on Sky Sports .",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
+      "publishedAt": "2026-09-13T11:25:25.958Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -198,11 +172,187 @@
       "summary": "A furious Mikel Arteta described Sunderland's penalty in Arsenal's 2-0 win at the Stadium of Light as \"unacceptable\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen",
-      "publishedAt": "2026-09-13T04:05:31.914Z",
+      "publishedAt": "2026-09-13T11:25:25.958Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "1fc72e34c34332",
+      "title": "Record crowd in US for Springboks vs All Blacks is World Cup 'appetiser'",
+      "summary": "The captains of South Africa and New Zealand hoped Saturday's final Greatest Rivalry rugby Test, in front of almost 70,000 fans at NFL side Baltimore Ravens' stadium, w...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13585288/south-africa-vs-new-zealand-record-crowd-in-baltimore-provides-appetiser-for-2031-rugby-world-cup-on-us-soil",
+      "publishedAt": "2026-09-13T11:25:25.958Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "bb449167625675",
+      "title": "Bayern Munich ready to sign Liverpool star on one condition as concerns at Anfield revealed",
+      "summary": "Bayern Munich are reportedly ‘ready to pounce’ to sign Liverpool star Florian Wirtz next summer on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bayern-munich-ready-sign-liverpool-star-one-condition-concerns-anfield-revealed",
+      "publishedAt": "2026-09-13T11:15:20.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "8b453ed24edee1",
+      "title": "Manchester United v Chelsea: Women’s Super League – live",
+      "summary": "⚽️ WSL updates from 12pm BST at Leigh Sports Village ⚽️ Live scoreboard | Send your thoughts to Emillia via email The teams are out. Kick-off is just a few moments away...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
+      "publishedAt": "2026-09-13T11:15:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "aa548d043d9835",
+      "title": "Premier League buildup to the Manchester derby, Old Firm showdown and WSL – live",
+      "summary": "⚽️ News, discussion and reflection before Sunday’s games ⚽️ This weekend’s fixtures | Mail us your thoughts Dave Estherby has messaged in about Tottenham and their (lac...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/13/premier-league-buildup-to-the-manchester-derby-old-firm-showdown-and-wsl-live",
+      "publishedAt": "2026-09-13T11:08:05.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8ff6b444f1ad48",
+      "title": "Dion Dublin makes bold Manchester derby prediction with Man Utd, Man City ‘very evenly matched’",
+      "summary": "Pundit Dion Dublin has made a bold Manchester derby prediction, with Manchester United backed to beat Manchester City in a thriller.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/dion-dublin-bold-manchester-derby-prediction-man-utd-backed-beat-man-city",
+      "publishedAt": "2026-09-13T10:43:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6f299183647b53",
+      "title": "Liverpool, Tottenham prove Premier League decline as two Man Utd ‘vital cogs’ key to rebuild",
+      "summary": "Liverpool and Tottenham Hotspur proved with their draws against Fulham and Everton that the quality of the Premier League has declined.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mailbox-liverpool-tottenham-prove-premier-league-decline-two-man-utd-vital-cogs",
+      "publishedAt": "2026-09-13T09:43:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d0505225bb8f5a",
+      "title": "Leeds v Newcastle: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Leeds and Newcastle.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/leeds-v-newcastle-prediction-preview",
+      "publishedAt": "2026-09-13T09:30:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "72e700371c1899",
+      "title": "Aston Villa star labelled an ‘absolute disgrace’ after Unai Emery made ‘big call’ vs Nottm Forest",
+      "summary": "Former Chelsea star Jason Cundy has hit out at Aston Villa striker Nicolas Jackson, who is an “absolute disgrace”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-star-labelled-absolute-disgrace-emery-big-call-nottm-forest",
+      "publishedAt": "2026-09-13T09:24:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b4ac1b079ddf58",
+      "title": "Man Utd slammed for not signing £51m star as ‘proven’ Sesko upgrade after ‘head-scratching’ deal",
+      "summary": "Former Manchester United assistant manager Rene Meulensteen thinks INEOS made two transfer mistakes in the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-slammed-not-signing-51m-star-proven-sesko-upgrade-head-scratching-deal",
+      "publishedAt": "2026-09-13T08:56:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0c2c2e5d67a1da",
+      "title": "Neville reveals Chelsea ‘weakness’ exposed by Hull City as Alonso hits out at his ‘soft’ side",
+      "summary": "Phil Neville thinks Hull City exposed a major “weakness” with Chelsea during Saturday’s 2-2 draw at Stamford Bridge.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/neville-reveals-chelsea-weakness-exposed-hull-city",
+      "publishedAt": "2026-09-13T08:11:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "69de969a71608c",
+      "title": "Bruno Guimaraes hails Arsenal star as ‘best in the world’ after Sunderland win – ‘he is unbelievable’",
+      "summary": "Arsenal summer signing Bruno Guimaraes has lauded goalkeeper David Raya after Saturday’s 2-0 win against Sunderland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-guimaraes-hails-arsenal-star-best-world-sunderland-win-unbelievable",
+      "publishedAt": "2026-09-13T07:12:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0c7fe0e922ea00",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg59eymd40eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T05:57:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c837ef319db5b2",
+      "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
+      "summary": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T05:44:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -228,6 +378,20 @@
       "category": "league",
       "region": "england",
       "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6a1b4cfdcbc755",
+      "title": "Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’",
+      "summary": "Arsenal manager angry: ‘This can never be a penalty’ ‘It’s a judo roll from the opponent. Ezri does nothing’ Mikel Arteta’s delight at Arsenal’s latest win was tempered...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable",
+      "publishedAt": "2026-09-12T22:47:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
         "Arsenal"
       ]
     },
@@ -397,20 +561,6 @@
       ]
     },
     {
-      "id": "4a6089007c75d2",
-      "title": "Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save",
-      "summary": "As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemish...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report",
-      "publishedAt": "2026-09-12T21:14:24.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
       "id": "f598f15a226ce5",
       "title": "Who is the top scorer of 2026? Harry Kane running away with the title",
       "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
@@ -435,150 +585,6 @@
       "tags": [
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "4b241f5483e504",
-      "title": "Toothless Spurs blank again as new era turns into a false dawn",
-      "summary": "Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T20:38:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "020c5bce37e2a9",
-      "title": "Jason Cundy says record-breaking Liverpool star will flop – ‘I am not convinced’",
-      "summary": "TalkSPORT pundits Jason Cundy and Jamie O’Hara give their verdict on a very expensive Liverpool star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/florian-wirtz-liverpool-jason-cundy-and-jamie-ohara-verdict",
-      "publishedAt": "2026-09-12T19:31:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "39b9d759a2db57",
-      "title": "More dropped points at Anfield - is it too early for Liverpool to worry?",
-      "summary": "Liverpool have failed to win either of their first two Premier League games at Anfield. But is it too early to worry?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62j0lr1rzmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T19:30:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ae2beb573826b5",
-      "title": "Jamie O’Hara tears into five Tottenham players after Everton draw – ‘Cement in his feet’",
-      "summary": "TalkSPORT pundit Jamie O’Hara gives his verdict on Tottenham Hotspur after their failure to win against Everton in the Premier League on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-hotspur-everton-jamie-ohara-verdict",
-      "publishedAt": "2026-09-12T19:01:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "760de86f58c5cc",
-      "title": "The first ever 0-0 at the Tottenham Hotspur Stadium gives Jamie Redknapp his Curb moment",
-      "summary": "Spurs’ lack of potency means the first-ever Premier League goalless draw at the Tottenham Hotspur Stadium will quickly be followed by plenty more…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-0-0-everton-goal-drought-de-zerbi-redknapp",
-      "publishedAt": "2026-09-12T18:52:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "15b1549bfbedf2",
-      "title": "Pickford joins Premier League clean sheet 100 club",
-      "summary": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T18:36:17.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "10c34854e38347",
-      "title": "Solanke struggles, but Branthwaite solid - Spurs v Everton player ratings",
-      "summary": "How Spurs and Everton's players rated following their Premier League match, which ended in a goalless draw.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8043gn8ng3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T18:32:15.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d51d9dde675ca0",
-      "title": "New system, same problems - Alonso not happy with 'soft' Chelsea",
-      "summary": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T18:22:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5591bdb2f1725f",
-      "title": "Andoni Iraola makes promise to Liverpool midfielder Jamie Carragher believes is ‘never going to play’",
-      "summary": "Andoni Iraola says that a Liverpool midfielder who has yet to play this season will get his chance.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/andoni-iraola-wataru-endo-liverpool-fulham-verdict",
-      "publishedAt": "2026-09-12T18:08:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "91a3d05b4e784b",
-      "title": "Emery left searching for answers after another Villa loss",
-      "summary": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T18:06:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "33b7c80c1f7b9f",
-      "title": "Paul Merson names Chelsea’s biggest ‘worry’ as Xabi Alonso explains Jorrel Hato substitution",
-      "summary": "Paul Merson has given his verdict on Chelsea after watching them fail to win against Hull City at Stamford Bridge.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-hull-city-paul-merson-verdict-jorrel-hato-xabi-alonso",
-      "publishedAt": "2026-09-12T17:23:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
