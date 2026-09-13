@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:21:59.734Z",
+  "generatedAt": "2026-09-13T04:05:32.211Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@
       "pinned": true
     },
     {
-      "id": "9cf5e59d5d941e",
-      "title": "Glasner haunts Emery again as Forest win at Aston Villa",
-      "summary": "Nottingham Forest beat Aston Villa 2-1 at Villa Park to leave Unai Emery's side still searching for their first Premier League victory of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/559474",
-      "publishedAt": "2026-09-12T20:21:59.451Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "7853a93d20fb79",
       "title": "Winless Spurs remain goalless after another bore draw against Everton",
       "summary": "Tottenham’s winless and goalless start to the Premier League season continued with a 0-0 draw at home to unbeaten Everton.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/report/559483",
-      "publishedAt": "2026-09-12T20:21:59.450Z",
+      "publishedAt": "2026-09-13T04:05:31.916Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,12 +112,25 @@
       ]
     },
     {
-      "id": "07f8d540c08bfd",
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Barcola and other wingers will play off left and right",
+      "summary": "Liverpool latest: Barcola and other wingers will play off left and right",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-13T04:05:31.916Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d9bc276c51d111",
       "title": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
       "summary": "'Tired' Liverpool, Chelsea's leaky defence and Villa's attacking concerns",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583460/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
-      "publishedAt": "2026-09-12T20:21:59.450Z",
+      "url": "https://www.skysports.com/football/news/12040/13585204/liverpool-fail-fulham-test-as-chelseas-defensive-problems-continue-to-hamper-their-title-challenge-credentials-premier-league-hits-and-misses",
+      "publishedAt": "2026-09-13T04:05:31.916Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -139,12 +139,40 @@
       ]
     },
     {
+      "id": "9c7f1b72411de5",
+      "title": "Guimaraes haunts Sunderland as Arsenal continue winning start",
+      "summary": "Bruno Guimaraes scored a stunning goal two minutes after David Raya had saved a penalty as Arsenal beat Sunderland 2-0 to move above Manchester City at the top of the P...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482",
+      "publishedAt": "2026-09-13T04:05:31.915Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d102a0e1daf7f5",
+      "title": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk",
+      "publishedAt": "2026-09-13T04:05:31.915Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "36465ff5664c45",
       "title": "'Extraordinary!' | Nmecha scores outrageous overhead kick for Dortmund",
       "summary": "Felix Nmecha scored a stunning bicycle kick for Borussia Dortmund in their Bundesliga clash against Paderborn.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13585130/felix-nmaecha-scores-outrageous-overhead-kick-for-bourussia-dortmund",
-      "publishedAt": "2026-09-12T20:21:59.449Z",
+      "publishedAt": "2026-09-13T04:05:31.915Z",
       "category": "transfer",
       "region": "germany",
       "tags": [
@@ -157,7 +185,7 @@
       "summary": "Liverpool manager Andoni Iraola bemoaned lack of creativity and cutting edge after his side were held to a 0-0 draw by Fulham at Anfield.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585141/liverpool-boss-andoni-iraola-bemoans-lack-of-creativity-and-cutting-edge-against-fulham-and-explains-bradley-barcola-plan",
-      "publishedAt": "2026-09-12T20:21:59.449Z",
+      "publishedAt": "2026-09-13T04:05:31.915Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -165,32 +193,261 @@
       ]
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Barcola and other wingers will play off left and right",
-      "summary": "Liverpool latest: Barcola and other wingers will play off left and right",
+      "id": "618f9fe4c6221d",
+      "title": "Furious Arteta rages over 'unacceptable' Sunderland penalty call",
+      "summary": "A furious Mikel Arteta described Sunderland's penalty in Arsenal's 2-0 win at the Stadium of Light as \"unacceptable\".",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-12T20:21:59.449Z",
+      "url": "https://www.skysports.com/football/news/12040/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen",
+      "publishedAt": "2026-09-13T04:05:31.914Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "52320fbee391e6",
+      "title": "Chelsea's defence looks 'weak & disjointed' - analysis",
+      "summary": "Match of the Day pundit Ashley Williams says Chelsea's \"struggling\" defence looked \"weak and disjointed\" in their 2-2 draw against Hull at Stamford Bridge.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckgw13ng43xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T23:07:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c4c1762a2a3147",
+      "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+      "summary": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T22:57:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "da603b9ccbf3a7",
+      "title": "Romano suggests whether Balde to Man Utd from Barcelona in January is possible",
+      "summary": "Fabrizio Romano has suggested whether Manchester United could get the chance to sign the Barcelona star in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alejandro-balde-manchester-united-barcelona-fabrizio-romano-transfer-update-2",
+      "publishedAt": "2026-09-12T22:19:35.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4fe56e48dc143c",
+      "title": "Raya and Arsenal exorcise Sunderland demons to show strength of champions",
+      "summary": "Arsenal’s last Saturday night in Sunderland reinforced the view they might never win the title. This one illustrated why they might p*ss it this time…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/sunderland-0-2-arsenal-raya-bruno-guimaraes-arteta",
+      "publishedAt": "2026-09-12T22:14:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4dac5d4bcacaca",
+      "title": "Mikel Arteta and Regis Le Bris wowed by Arsenal star vs Sunderland – ‘one of the best’",
+      "summary": "Arsenal manager Mikel Arteta and Sunderland boss Regis Le Bris were blown away by the Spanish star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/david-raya-arsenal-sunderland-mikel-arteta-regis-le-bris-verdict",
+      "publishedAt": "2026-09-12T21:58:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0a93cb0b1a0ab3",
+      "title": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+      "summary": "Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:53:50.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1da5f9e74c69c8",
+      "title": "Arteta 'very worried & very sad' over penalty incident",
+      "summary": "Mikel Arteta is pleased with Arsenal's performance against Sunderland, but is \"very worried and very sad\" about the penalty awarded to their opponents during the match...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cd94ke0z07qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:45:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9ce2f605c350dc",
+      "title": "Man Utd chiefs wowed by how Michael Carrick has ‘completely changed’ midfielder – Fabrizio Romano",
+      "summary": "Fabrizio Romano has said that Manchester United chiefs are very happy with the way that manager Michael Carrick has transformed a player.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-kobbie-mainoo-michael-carrick-fabrizio-romano",
+      "publishedAt": "2026-09-12T21:35:58.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a9d598cb29abf3",
+      "title": "Arsenal monitoring Como's Paz - Sunday's gossip",
+      "summary": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:35:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
         "Liverpool"
       ]
     },
     {
-      "id": "9f8c157ddbfef7",
-      "title": "Sunderland v Arsenal: Premier League – live",
-      "summary": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Live scores | Tables | Top scorers | And email Billy Sunderland parade new striker Juan Angulo, signed from Indep...",
+      "id": "3efe2f3672d59c",
+      "title": "Tottenham's wait for league goal continues after Everton draw",
+      "summary": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:32:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "f37af0677bac2a",
+      "title": "Fulham take first point of the season at lacklustre Liverpool",
+      "summary": "Fulham claim their first Premier League point of the season after a difficult start under Alvaro Arbeloa, as Liverpool fail to score for the first time this season just...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c780zx2wl9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:31:46.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "854e5f9313aac8",
+      "title": "Brentford hold Bournemouth as Rose's wait for a win continues",
+      "summary": "Marco Rose's wait for a first Premier League victory as Bournemouth head coach continues as they are held to a 2-2 draw by Brentford at Vitality Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1l6ennjpnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:30:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "43883d4f2da8a2",
+      "title": "Hull remain unbeaten in league after impressive Chelsea draw",
+      "summary": "In-form striker Joao Pedro scores a second-half equaliser as Chelsea rescues a point at home to promoted Hull City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz533qlw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:30:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "20ea236d664ccd",
+      "title": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "summary": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Do...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/12/sunderland-v-arsenal-premier-league-live",
-      "publishedAt": "2026-09-12T20:14:07.000Z",
-      "category": "transfer",
+      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
+      "publishedAt": "2026-09-12T21:17:49.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Real Madrid",
+        "Milan"
+      ]
+    },
+    {
+      "id": "4a6089007c75d2",
+      "title": "Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save",
+      "summary": "As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemish...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report",
+      "publishedAt": "2026-09-12T21:14:24.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
-        "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane running away with the title",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-09-12T21:00:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "a68ffff6df3836",
+      "title": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings",
+      "summary": "How Sunderland and Arsenal players rated following their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjzpvxy0vko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T20:56:48.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4b241f5483e504",
+      "title": "Toothless Spurs blank again as new era turns into a false dawn",
+      "summary": "Toothless Spurs' draw a blank again and are now in danger of seeing a brave new era turn into a false dawn, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgydkv0yxdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T20:38:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -243,20 +500,6 @@
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "2f628109d1748b",
-      "title": "Tottenham waiting for first league goal of season after draw against Everton",
-      "summary": "Is it too early for a Tottenham crisis? To which the answer is surely that it is never too early for a Tottenham crisis. After four Premier League games, they have yet...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/tottenham-everton-premier-league-match-report",
-      "publishedAt": "2026-09-12T18:47:01.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
         "Premier League"
       ]
     },
@@ -334,259 +577,6 @@
       "publishedAt": "2026-09-12T17:23:28.000Z",
       "category": "transfer",
       "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "20ea236d664ccd",
-      "title": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "summary": "In-form Borussia Dortmund beat Paderborn 3-0 Milan come from behind in 2-2 draw with Lazio Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmun...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
-      "publishedAt": "2026-09-12T17:15:01.000Z",
-      "category": "league",
-      "region": "italy germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Milan"
-      ]
-    },
-    {
-      "id": "50cf89998a1495",
-      "title": "Hangover no excuse as Liverpool problems pile up for Iraola",
-      "summary": "Liverpool looked insipid and lethargic against Fulham, but Andoni Iraola’s problems are more complex than a simple hangover…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-0-0-fulham-andoni-iraola-problems-wirtz-gravenberch",
-      "publishedAt": "2026-09-12T17:01:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6209d2240c83b3",
-      "title": "Andoni Iraola reacts to Bradley Barcola display for Liverpool vs Fulham",
-      "summary": "France international winger Bradley Barcola started for Liverpool against Fulham at Anfield in the Premier League on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/andoni-iraola-reacts-to-bradley-barcola-display-for-liverpool-vs-fulham",
-      "publishedAt": "2026-09-12T16:56:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "53fbb7b863efce",
-      "title": "We got what we deserved - Alonso on draw with Hull",
-      "summary": "Chelsea manager Xabi Alonso admits his side \"got what they deserved\" as they drew 2-2 against Hull City at Stamford Bridge.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8xk1rnrr7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T16:48:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "cc7dbb6c1b1160",
-      "title": "Schade double denies Bournemouth first league win as Brentford rescue draw",
-      "summary": "No need for distress flares just yet at Bournemouth. Trust the process, though with new frontiers of European football beckoning, 2,000 fans travelling to San Sebastián...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/bournemouth-brentford-premier-league-match-report",
-      "publishedAt": "2026-09-12T16:26:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e0b6d432a44253",
-      "title": "Hull stun Chelsea with Mohamed Belloumi double before João Pedro rescues a point",
-      "summary": "The chants from the away end about winning the league were sung in jest, but Hull continue to show they are here to stay. Sergej Jakirovic’s dogged, intelligent side ar...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/chelsea-hull-premier-league-match-report",
-      "publishedAt": "2026-09-12T16:10:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "fd52d5a78ceea9",
-      "title": "Frustrated Liverpool lack any spark as Fulham claim deserved first point",
-      "summary": "Álvaro Arbeloa was often the obstacle to Andoni Iraola’s international ambitions back in the days when both were vying for a right-back role with Spain. On his return t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/liverpool-fulham-premier-league-match-report",
-      "publishedAt": "2026-09-12T16:06:00.000Z",
-      "category": "ucl",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "98838e21f7e944",
-      "title": "Liverpool believe they’ve hit the jackpot with £60m transfer deal – ‘one of the very best’",
-      "summary": "Liverpool believe that a youngster will develop into one of the best players on the planet.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-jeremy-jacquet-verdict",
-      "publishedAt": "2026-09-12T16:00:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ca9a262cb1f8ff",
-      "title": "Why Man Utd won’t ‘get beyond the quarter-finals’ of UCL as INEOS hoped for a stronger start",
-      "summary": "Man Utd will reportedly struggle to go beyond the Champions League quarter-finals as they look to continue lowering their wage budget.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-champions-league-quarter-finals-ineos-hoped-stronger-start-carrick",
-      "publishedAt": "2026-09-12T14:50:19.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "775cf256d50fa1",
-      "title": "Gary Neville says £62.5m Man Utd star ‘has got balls’ – ‘He keeps going’",
-      "summary": "Gary Neville has raved about a Manchester United forward who he thinks is perfect for the Red Devils.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-matheus-cunha-gary-neville-verdict",
-      "publishedAt": "2026-09-12T14:33:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c539582a28acf9",
-      "title": "Real Madrid reaches decision on signing Arsenal star in January after Rodri mistake",
-      "summary": "Real Madrid have reached a decision on pursuing a move for Arsenal midfielder Martin Zubimendi in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-reaches-decision-on-signing-arsenal-star-in-january-after-rodri-mistake",
-      "publishedAt": "2026-09-12T13:22:12.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "d9890e17ac305f",
-      "title": "Man Utd boss Carrick told to drop Rashford for the Manchester Derby: ‘I feel this is a little bit unfair’",
-      "summary": "Darren Bent would drop Marcus Rashford from the Man Utd starting XI for the Manchester Derby against Man City if he was Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-boss-carrick-told-to-drop-rashford-for-the-manchester-derby-i-feel-this-is-a-little-bit-unfair",
-      "publishedAt": "2026-09-12T12:33:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6ac3dd438ab555",
-      "title": "Man Utd v Man City: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Man Utd and Man City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/man-utd-v-man-city-prediction-preview",
-      "publishedAt": "2026-09-12T11:29:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "4d84d8b9f75720",
-      "title": "Liverpool will sign ‘best in the world’ as Celtic plot January transfer after ‘surprise’ Reds move",
-      "summary": "Liverpool have “got loads of money” and will replace Richard Hughes with “the best people in the world”, says one football finance expert.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-sign-best-in-world-celtic-plot-chambers-transfer",
-      "publishedAt": "2026-09-12T11:20:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1091c21a05acfd",
-      "title": "Febrile Manchester derby awaits amid growing rift between United fans and club",
-      "summary": "City heading to a fortress but home supporters will protest before kick-off over club’s drive against ticket touts Manchester United’s nine victories from 10 Premier Le...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club",
-      "publishedAt": "2026-09-12T11:00:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f06b4468e8d4da",
-      "title": "Stuttgart make decision on selling €35m-rated defender to Man Utd in January",
-      "summary": "Stuttgart have made a decision about selling Finn Jeltsch in January with Man Utd among the clubs interested in a deal, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/stuttgart-make-decision-on-selling-e35m-rated-defender-to-man-utd-in-january",
-      "publishedAt": "2026-09-12T10:23:41.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "d84eb0e07b3d42",
-      "title": "Xhaka breaks silence on failed Chelsea transfer after Sunderland ‘not for sale’ message",
-      "summary": "Granit Xhaka insists it was “a big privilege” to have interest from a club like Chelsea but wants to take “the next step” with Sunderland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-xhaka-breaks-silence-transfer-sunderland-not-for-sale-message",
-      "publishedAt": "2026-09-12T10:08:30.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "e61a1b493faf31",
-      "title": "'I've turned the page' - Camara on Chelsea deal collapse",
-      "summary": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m move to Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T10:07:36.000Z",
-      "category": "transfer",
-      "region": "england france",
       "tags": [
         "Chelsea"
       ]
