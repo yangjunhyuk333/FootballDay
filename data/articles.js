@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-13T11:25:26.169Z",
+  "generatedAt": "2026-09-13T15:54:43.488Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,53 +99,39 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "9c7f1b72411de5",
-      "title": "Guimaraes haunts Sunderland as Arsenal continue winning start",
-      "summary": "Bruno Guimaraes scored a stunning goal two minutes after David Raya had saved a penalty as Arsenal beat Sunderland 2-0 to move above Manchester City at the top of the P...",
+      "id": "5bca5e91ed777a",
+      "title": "Off The Ball with Tam & Stuart",
+      "summary": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T16:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c6dfe6b3bd9d21",
+      "title": "WSL: Villa vs Man City to come as Arsenal and Liverpool draw",
+      "summary": "WSL: Villa vs Man City to come as Arsenal and Liverpool draw",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-arsenal/report/559482",
-      "publishedAt": "2026-09-13T11:25:25.959Z",
+      "url": "https://www.skysports.com/football/aston-villa-women-vs-manchester-city-women/live/575764",
+      "publishedAt": "2026-09-13T15:54:43.103Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
         "Arsenal",
-        "Manchester"
+        "Liverpool"
       ]
     },
     {
-      "id": "c4f2db8f7adf65",
-      "title": "Olid: London City defeat surprised me - but my methods will take time",
-      "summary": "Eva Olid has learned more about her new Manchester United side in the past week than in the whole of the previous month since she took over from Marc Skinner.",
+      "id": "e51d30848b4fba",
+      "title": "Chelsea thrash Man Utd in WSL as Olid’s tough start continues",
+      "summary": "Sky Sports' round-up of Sunday's action across the Women's Super League as Chelsea recorded their first win of the season after thrashing Man Utd 5-0 at the Leigh Sport...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584474/eva-olid-exclusive-manchester-united-women-head-coach-surprised-by-manner-of-london-city-defeat",
-      "publishedAt": "2026-09-13T11:25:25.959Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d102a0e1daf7f5",
-      "title": "Papers: Richarlison takes aim at Spurs after failed Vasco da Gama move",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585182/tottenham-transfer-news-spurs-forward-richarlison-takes-aim-at-spurs-following-collapse-of-proposed-vasco-da-gama-transfer-paper-talk",
-      "publishedAt": "2026-09-13T11:25:25.959Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "a6799e7e20f24d",
-      "title": "WSL: Man Utd host Chelsea in first of six matches LIVE!",
-      "summary": "WSL: Man Utd host Chelsea in first of six matches LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-women-vs-chelsea-women/live/575768",
-      "publishedAt": "2026-09-13T11:25:25.958Z",
+      "url": "https://www.skysports.com/football/news/12040/13584291/womens-super-league-round-up-chelsea-thrash-man-utd-to-leave-eva-olid-still-looking-for-first-win",
+      "publishedAt": "2026-09-13T15:54:43.102Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -153,12 +139,191 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "18c011b70a10b1",
-      "title": "How to watch Man Utd v Man City",
-      "summary": "Manchester United host rivals Manchester City in a huge Premier League Manchester derby on September 13, live on Sky Sports .",
+      "id": "0cfa309b3574c3",
+      "title": "Brighton hit FIVE to leave Coventry without point or goal",
+      "summary": "Coventry remain pointless on their Premier League return as they were dismantled 5-0 by brilliant Brighton at the CBS Arena.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13583655/man-utd-vs-man-city-how-to-watch-premier-league-contest-tv-channel-live-stream-now-tv-and-score-prediction",
-      "publishedAt": "2026-09-13T11:25:25.958Z",
+      "url": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/report/559477",
+      "publishedAt": "2026-09-13T15:54:43.101Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "783e368ae6711d",
+      "title": "Manchester United v Manchester City: Premier League – live",
+      "summary": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk showstopper helps Brighton rout Coventry ⚽️ Today’s scores | Drop Rob an email Brighton’s fourth goal was a screamer...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+      "publishedAt": "2026-09-13T15:48:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4cae1988ecda66",
+      "title": "Coventry suffer Premier League’s ultimate indignity: they are measurably worse than Spurs",
+      "summary": "Being officially twice as bad as Spurs is so appalling a fate it should genuinely be impossible to achieve. Coventry have managed it.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/coventry-suffer-premier-league-ultimate-indignity-worse-than-spurs",
+      "publishedAt": "2026-09-13T15:23:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "0c23b9d9639b74",
+      "title": "Valencia sack Corberan and chief executive",
+      "summary": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a winless start to the season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T15:21:18.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5ebcc7848aa38f",
+      "title": "Lewis Dunk’s showstopper helps five-star Brighton to rout 10-man Coventry",
+      "summary": "The bare statistic is bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season without scoring in any of the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
+      "publishedAt": "2026-09-13T15:10:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "b5bb4ead17df79",
+      "title": "Liverpool legend urges Iraola to drop Wirtz to help Reds teammate with Szoboszlai ‘rationale’",
+      "summary": "Former Liverpool defender Steve Nicol has told Reds boss Andoni Iraola why he should drop Florian Wirtz to get his attack firing this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-iraols-wirtz-szoboszlai-rationale",
+      "publishedAt": "2026-09-13T14:46:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5ff477719cb58d",
+      "title": "Man Utd ‘100% should have signed’ Chelsea star in summer as ‘perfect’ addition for Michael Carrick",
+      "summary": "Manchester United have been told that they “100% should have signed” Chelsea newbie Danny Welbeck from Brighton in the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-signed-chelsea-star-perfect-transfer-carrick",
+      "publishedAt": "2026-09-13T14:02:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "86f3c5a927068a",
+      "title": "Redknapp rips into Tottenham over ‘diabolical’ problem under De Zerbi – ‘Out of all the things’",
+      "summary": "Jamie Redknapp has torn into Tottenham and manager Roberto De Zerbi over their “diabolical” start to the Premier League season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/redknapp-rips-tottenham-diabolical-problem-de-zerbi",
+      "publishedAt": "2026-09-13T13:46:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ae27b8c3e8c35c",
+      "title": "Chelsea thrash Manchester United in WSL as Lauren James revels in free role",
+      "summary": "A swaggering Chelsea cast off any suggestion that they had lost the ability to kill off games, putting five goals past a worryingly lacklustre and lackadaisical Manches...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-chelsea-wsl-match-report-womens-super-league",
+      "publishedAt": "2026-09-13T13:41:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7f458b3b215d3c",
+      "title": "Liverpool could break transfer record for potential next big-money signing with release clause",
+      "summary": "According to reports, Liverpool ‘could smash their transfer record’ to sign AFC Bournemouth standout Rayan next year.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-break-transfer-record-next-big-money-signing-release-clause",
+      "publishedAt": "2026-09-13T13:40:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "18dbe51b1a76dc",
+      "title": "Arsenal tipped to break PL record held by Chelsea after John Terry claimed it would ‘never be beaten’",
+      "summary": "Arsenal have been tipped to break Chelsea’s Premier League record for the fewest goals conceded in a single season this term.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-tipped-break-pl-record-held-chelsea-john-terry-claim",
+      "publishedAt": "2026-09-13T13:11:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c9ff7aad44bbec",
+      "title": "Could Alisson’s Liverpool admission see Andoni Iraola sacked in January again?",
+      "summary": "Any Liverpool fan watching their dire 0-0 draw with Fulham on Saturday will have had the same concerns that goalkeeper Alisson voiced after the game.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-alisson-andoni-irola-sacked-january",
+      "publishedAt": "2026-09-13T12:55:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "763aff25d46654",
+      "title": "Man Utd may suffer hijack for new Jude Bellingham as team in pole position revealed",
+      "summary": "Manchester United could reportedly be hijacked in the race to sign Leicester City youngster Louis Page amid interest from Borussia Dortmund.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-suffer-hijack-new-jude-bellingham-team-pole-position-revealed",
+      "publishedAt": "2026-09-13T12:37:15.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e01826274ce98f",
+      "title": "Maresca says Man Utd do one thing more than any other Premier League side",
+      "summary": "Enzo Maresca says Manchester United are a “very dangerous” prospect for Manchester City on Sunday for one particular reason.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/maresca-man-utd-one-thing-more-any-other-premier-league-side",
+      "publishedAt": "2026-09-13T12:09:29.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -167,29 +332,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "618f9fe4c6221d",
-      "title": "Furious Arteta rages over 'unacceptable' Sunderland penalty call",
-      "summary": "A furious Mikel Arteta described Sunderland's penalty in Arsenal's 2-0 win at the Stadium of Light as \"unacceptable\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen",
-      "publishedAt": "2026-09-13T11:25:25.958Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "82689f9dc57104",
+      "title": "Man Utd: INEOS stance on Carrick revealed after Carragher makes ‘interim manager’ claim",
+      "summary": "Manchester United are reportedly ‘willing’ to give Michael Carrick time after a ‘frustrating’ start to the 2026/27 campaign.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-ineos-stance-carrick-revealed-carragher-interim-manager-claim",
+      "publishedAt": "2026-09-13T11:49:40.000Z",
+      "category": "ratings",
+      "region": "england italy",
       "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1fc72e34c34332",
-      "title": "Record crowd in US for Springboks vs All Blacks is World Cup 'appetiser'",
-      "summary": "The captains of South Africa and New Zealand hoped Saturday's final Greatest Rivalry rugby Test, in front of almost 70,000 fans at NFL side Baltimore Ravens' stadium, w...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13585288/south-africa-vs-new-zealand-record-crowd-in-baltimore-provides-appetiser-for-2031-rugby-world-cup-on-us-soil",
-      "publishedAt": "2026-09-13T11:25:25.958Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -204,36 +357,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Liverpool",
         "Bayern"
-      ]
-    },
-    {
-      "id": "8b453ed24edee1",
-      "title": "Manchester United v Chelsea: Women’s Super League – live",
-      "summary": "⚽️ WSL updates from 12pm BST at Leigh Sports Village ⚽️ Live scoreboard | Send your thoughts to Emillia via email The teams are out. Kick-off is just a few moments away...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
-      "publishedAt": "2026-09-13T11:15:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "aa548d043d9835",
-      "title": "Premier League buildup to the Manchester derby, Old Firm showdown and WSL – live",
-      "summary": "⚽️ News, discussion and reflection before Sunday’s games ⚽️ This weekend’s fixtures | Mail us your thoughts Dave Estherby has messaged in about Tottenham and their (lac...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/13/premier-league-buildup-to-the-manchester-derby-old-firm-showdown-and-wsl-live",
-      "publishedAt": "2026-09-13T11:08:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
       ]
     },
     {
@@ -340,19 +463,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "c837ef319db5b2",
-      "title": "Fixed v fluid - the opposing approaches of Maresca and Carrick",
-      "summary": "Enzo Maresca and Michael Carrick will go head to head in Sunday's Manchester derby, with their teams set up very differently.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn45w80wn5xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T05:44:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -474,117 +584,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "a9d598cb29abf3",
-      "title": "Arsenal monitoring Como's Paz - Sunday's gossip",
-      "summary": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:35:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3efe2f3672d59c",
-      "title": "Tottenham's wait for league goal continues after Everton draw",
-      "summary": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:32:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f37af0677bac2a",
-      "title": "Fulham take first point of the season at lacklustre Liverpool",
-      "summary": "Fulham claim their first Premier League point of the season after a difficult start under Alvaro Arbeloa, as Liverpool fail to score for the first time this season just...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c780zx2wl9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:31:46.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "854e5f9313aac8",
-      "title": "Brentford hold Bournemouth as Rose's wait for a win continues",
-      "summary": "Marco Rose's wait for a first Premier League victory as Bournemouth head coach continues as they are held to a 2-2 draw by Brentford at Vitality Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1l6ennjpnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:30:25.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "43883d4f2da8a2",
-      "title": "Hull remain unbeaten in league after impressive Chelsea draw",
-      "summary": "In-form striker Joao Pedro scores a second-half equaliser as Chelsea rescues a point at home to promoted Hull City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz533qlw8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:30:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "20ea236d664ccd",
-      "title": "European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "summary": "Milan come from behind in 2-2 draw with Lazio Kylian Mbappé strikes twice as Real Madrid cruise Felix Nmecha scored twice and Fábio Silva grabbed another as Borussia Do...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga",
-      "publishedAt": "2026-09-12T21:17:49.000Z",
-      "category": "league",
-      "region": "spain italy germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Real Madrid",
-        "Milan"
-      ]
-    },
-    {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Harry Kane running away with the title",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-09-12T21:00:59.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "a68ffff6df3836",
-      "title": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings",
-      "summary": "How Sunderland and Arsenal players rated following their Premier League match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjzpvxy0vko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T20:56:48.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
