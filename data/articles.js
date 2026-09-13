@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-13T15:54:43.488Z",
+  "generatedAt": "2026-09-13T20:32:35.994Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,71 +99,339 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Off The Ball with Tam & Stuart",
-      "summary": "The most petty and ill-informed football show on radio.",
+      "id": "54329352b940d8",
+      "title": "'A HUGE error!' - Okuma gifts Man City the opener against Villa!",
+      "summary": "Take a look as Akane Okuma's error gifted Manchester City the opener against Aston Villa.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585549/aston-villa-vs-manchester-city-akane-okuma-gifts-manchester-city-the-opener-against-aston-villa",
+      "publishedAt": "2026-09-13T20:32:35.750Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c427ecfa03c9b7",
+      "title": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
+      "summary": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red c...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
+      "publishedAt": "2026-09-13T20:32:35.749Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fef5ea8aee7e65",
+      "title": "Haaland scores controversial derby winner for Man City after Foden red",
+      "summary": "Erling Haaland's contentious winner earned 10-man Manchester City a derby win over rivals United at Old Trafford - after Phil Foden's controversial first-half red card.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/report/559481",
+      "publishedAt": "2026-09-13T20:32:35.748Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "eb8484af079ab2",
+      "title": "Deja vu for Pro Ref? Neville slams 'shocker' VAR decision to give Haaland goal",
+      "summary": "Gary Neville slams VAR's decision to give Erling Haaland's goal in the Manchester derby.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585582/gary-neville-slams-var-decision-to-give-erling-haalands-goal-in-manchester-derby",
+      "publishedAt": "2026-09-13T20:32:35.748Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "edf15534a2202e",
+      "title": "Refereeing body admits judgement error over Haaland derby winner",
+      "summary": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T16:00:00.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T20:29:58.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Football"
+        "Premier League",
+        "Manchester"
       ]
     },
     {
-      "id": "c6dfe6b3bd9d21",
-      "title": "WSL: Villa vs Man City to come as Arsenal and Liverpool draw",
-      "summary": "WSL: Villa vs Man City to come as Arsenal and Liverpool draw",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/aston-villa-women-vs-manchester-city-women/live/575764",
-      "publishedAt": "2026-09-13T15:54:43.103Z",
-      "category": "transfer",
+      "id": "cb2d17d241efea",
+      "title": "Bayern monitoring Wirtz - Monday's gossip",
+      "summary": "Florian Wirtz is being monitored by Bayern Munich, Bournemouth's Brazil forward Rayan could be a Liverpool target next summer and Borussia Dortmund rule out move for Ja...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4v345pdq0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T20:23:02.000Z",
+      "category": "league",
+      "region": "england germany",
+      "tags": [
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "37a2761124317a",
+      "title": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
+      "summary": "Gunners held at Emirates despite 30 attempts on goal City win 4-1 at Aston Villa to extend perfect start Arsenal were left to rue 30 missed chances after dropping point...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
+      "publishedAt": "2026-09-13T19:58:52.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
+        "Football",
         "Arsenal",
-        "Liverpool"
+        "Manchester"
       ]
     },
     {
-      "id": "e51d30848b4fba",
-      "title": "Chelsea thrash Man Utd in WSL as Olid’s tough start continues",
-      "summary": "Sky Sports' round-up of Sunday's action across the Women's Super League as Chelsea recorded their first win of the season after thrashing Man Utd 5-0 at the Leigh Sport...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584291/womens-super-league-round-up-chelsea-thrash-man-utd-to-leave-eva-olid-still-looking-for-first-win",
-      "publishedAt": "2026-09-13T15:54:43.102Z",
-      "category": "transfer",
+      "id": "031e5053a0d2c2",
+      "title": "Joint-worst start since 1992 and fan protests - Man Utd's day to forget",
+      "summary": "Manchester United fans protested inside and outside Old Trafford before Sunday's derby, then saw their team lose to 10-man Manchester City",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c624d3g15e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:54:56.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Manchester"
       ]
     },
     {
-      "id": "0cfa309b3574c3",
-      "title": "Brighton hit FIVE to leave Coventry without point or goal",
-      "summary": "Coventry remain pointless on their Premier League return as they were dismantled 5-0 by brilliant Brighton at the CBS Arena.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/coventry-city-vs-brighton-and-hove-albion/report/559477",
-      "publishedAt": "2026-09-13T15:54:43.101Z",
-      "category": "transfer",
+      "id": "f847db87ca9b24",
+      "title": "Twenty-five years in the waiting - Coventry's nightmare top-flight return",
+      "summary": "Coventry City's dream return to the Premier League is beginning to unravel after a fourth consecutive defeat - but can Frank Lampard turn it around?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:32:55.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Premier League"
       ]
     },
     {
-      "id": "783e368ae6711d",
-      "title": "Manchester United v Manchester City: Premier League – live",
-      "summary": "⚽️ Manchester derby updates from 4.30pm BST ⚽️ Dunk showstopper helps Brighton rout Coventry ⚽️ Today’s scores | Drop Rob an email Brighton’s fourth goal was a screamer...",
+      "id": "0cb55d0488f19d",
+      "title": "Manchester derby officials ‘clowns’ but bonkers decision is ‘divine karma’ for Bruno",
+      "summary": "The Manchester derby officials get a kicking but there’s not a great deal of sympathy for Bruno Fernandes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-derby-officials-clowns-decision-divine-karma-bruno-fernandes",
+      "publishedAt": "2026-09-13T19:20:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2b2eaa556be81b",
+      "title": "Bundesliga",
+      "summary": "Watch highlights from matchday three in the Bundesliga.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4y?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:14:17.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "f745919ab15924",
+      "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
+      "summary": "Erling Haaland's goal helps Manchester City win a highly controversial Manchester derby at rivals Manchester United despite playing with 10 men for more than 70 minutes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:06:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9a55305154b4eb",
+      "title": "Dunk scores screamer as Brighton thrash 10-man Coventry",
+      "summary": "Coventry's poor start to the Premier League season continues after they're thrashed 5-0 at home to Brighton, having played most of the second half with ten men after ha...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cly7408jg0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:00:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "34aabdf5747d0d",
+      "title": "Next Man Utd manager: Eddie Howe waiting if Carrick can’t spark Red Devils",
+      "summary": "Manchester United have picked up only four points from their first four games of the Premier League season. Who could replace Michael Carrick?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
+      "publishedAt": "2026-09-13T18:53:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1d2c0067d66b9f",
+      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
+      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
+      "publishedAt": "2026-09-13T18:40:04.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "962751bd40f6da",
+      "title": "Michael Carrick staggered by Erling Haaland’s Man City winner and Gary Neville lost over Man Utd call",
+      "summary": "Michael Carrick says the explanation for Manchester City’s winning goal against Manchester United “was staggering” in the wake of his side’s 1-0 defeat.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-staggered-erling-haalands-man-city-winner-gary-neville-lost-man-utd-call",
+      "publishedAt": "2026-09-13T18:29:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6767eac453a9c3",
+      "title": "Fernandes and Foden should have been sent off - Maresca",
+      "summary": "Enzo Maresca believes both Phil Foden and Bruno Fernandes should have been sent off in Manchester City's derby victory against Manchester United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj061413lmqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T18:26:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f3e324bd6e3e20",
+      "title": "Carrick 'baffled' by decision to award controversial Man City goal",
+      "summary": "Manchester United manager Michael Carrick was unhappy with the match officials for the decision to award Erling Haaland's controversial goal in the Manchester derby.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ceq81nz02ddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T18:13:04.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane running away with the title",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-09-13T18:00:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "95802fa77ffe6c",
+      "title": "Manchester City recover from Foden red card as Haaland wins derby at United",
+      "summary": "“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández, who after a star role in a memorable victory has instant cult hero statu...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "publishedAt": "2026-09-13T15:48:21.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
+      "publishedAt": "2026-09-13T17:32:15.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
         "Manchester"
+      ]
+    },
+    {
+      "id": "eb5e3b263e6006",
+      "title": "Foden sees red as Mainoo impresses - Manchester derby ratings",
+      "summary": "How Manchester United and Manchester City players rated in the derby clash at Old Trafford.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T17:27:07.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1831a8a4524ae8",
+      "title": "European football: Lamine Yamal keeps Barcelona perfect, Leipzig rout Hamburg",
+      "summary": "Teenager hits two in 4-2 victory at Levante Lepizig smash five past struggling Hamburg Barcelona continued their perfect start to the ⁠season with a hard-fought 4-2 La...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
+      "publishedAt": "2026-09-13T17:21:35.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "6b4582e76a829d",
+      "title": "Phil Foden branded stupid after Man Utd red card as Roy Keane slams Bruno Fernandes",
+      "summary": "Phil Foden’s red card during Manchester City’s clash with rivals Manchester United has been met with a mixed reaction from pundits.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/phil-foden-branded-stupid-man-utd-red-card-roy-keane-slams-bruno-fernandes",
+      "publishedAt": "2026-09-13T17:21:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cbc9ceb060fb27",
+      "title": "Two games, two defeats - are Olid's Man Utd in trouble?",
+      "summary": "Two games into the season under new manager Eva Olid, Manchester United look a shadow of the side from last season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgykg48nxdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T16:19:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b89586753d95b7",
+      "title": "Liverpool’s €35m target admits he can stagnate as Jamie Carragher warns of two-year problem",
+      "summary": "Liverpool are reportedly in a race with Aston Villa and Juventus for Fiorentina midfielder Cher Ndour.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpools-35m-target-stagnate-jamie-carragher-warns-two-year-problem",
+      "publishedAt": "2026-09-13T15:56:26.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Juventus"
       ]
     },
     {
@@ -195,7 +463,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "5ebcc7848aa38f",
       "title": "Lewis Dunk’s showstopper helps five-star Brighton to rout 10-man Coventry",
-      "summary": "The bare statistic is bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season without scoring in any of the...",
+      "summary": "The bare facts are bleak: Coventry City are only the second team in Premier League history to lose their first four games of the season ­without scoring a goal. “And ye...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
       "publishedAt": "2026-09-13T15:10:47.000Z",
@@ -248,12 +516,12 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "ae27b8c3e8c35c",
-      "title": "Chelsea thrash Manchester United in WSL as Lauren James revels in free role",
+      "title": "Lauren James revels in free role as Chelsea show ‘respect’ by scoring five past Manchester United",
       "summary": "A swaggering Chelsea cast off any suggestion that they had lost the ability to kill off games, putting five goals past a worryingly lacklustre and lackadaisical Manches...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-chelsea-wsl-match-report-womens-super-league",
       "publishedAt": "2026-09-13T13:41:27.000Z",
-      "category": "transfer",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football",
@@ -315,275 +583,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Manchester",
         "Inter"
-      ]
-    },
-    {
-      "id": "e01826274ce98f",
-      "title": "Maresca says Man Utd do one thing more than any other Premier League side",
-      "summary": "Enzo Maresca says Manchester United are a “very dangerous” prospect for Manchester City on Sunday for one particular reason.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/maresca-man-utd-one-thing-more-any-other-premier-league-side",
-      "publishedAt": "2026-09-13T12:09:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "82689f9dc57104",
-      "title": "Man Utd: INEOS stance on Carrick revealed after Carragher makes ‘interim manager’ claim",
-      "summary": "Manchester United are reportedly ‘willing’ to give Michael Carrick time after a ‘frustrating’ start to the 2026/27 campaign.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-ineos-stance-carrick-revealed-carragher-interim-manager-claim",
-      "publishedAt": "2026-09-13T11:49:40.000Z",
-      "category": "ratings",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bb449167625675",
-      "title": "Bayern Munich ready to sign Liverpool star on one condition as concerns at Anfield revealed",
-      "summary": "Bayern Munich are reportedly ‘ready to pounce’ to sign Liverpool star Florian Wirtz next summer on one condition.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bayern-munich-ready-sign-liverpool-star-one-condition-concerns-anfield-revealed",
-      "publishedAt": "2026-09-13T11:15:20.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "8ff6b444f1ad48",
-      "title": "Dion Dublin makes bold Manchester derby prediction with Man Utd, Man City ‘very evenly matched’",
-      "summary": "Pundit Dion Dublin has made a bold Manchester derby prediction, with Manchester United backed to beat Manchester City in a thriller.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/dion-dublin-bold-manchester-derby-prediction-man-utd-backed-beat-man-city",
-      "publishedAt": "2026-09-13T10:43:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6f299183647b53",
-      "title": "Liverpool, Tottenham prove Premier League decline as two Man Utd ‘vital cogs’ key to rebuild",
-      "summary": "Liverpool and Tottenham Hotspur proved with their draws against Fulham and Everton that the quality of the Premier League has declined.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mailbox-liverpool-tottenham-prove-premier-league-decline-two-man-utd-vital-cogs",
-      "publishedAt": "2026-09-13T09:43:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d0505225bb8f5a",
-      "title": "Leeds v Newcastle: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Leeds and Newcastle.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/leeds-v-newcastle-prediction-preview",
-      "publishedAt": "2026-09-13T09:30:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "72e700371c1899",
-      "title": "Aston Villa star labelled an ‘absolute disgrace’ after Unai Emery made ‘big call’ vs Nottm Forest",
-      "summary": "Former Chelsea star Jason Cundy has hit out at Aston Villa striker Nicolas Jackson, who is an “absolute disgrace”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-star-labelled-absolute-disgrace-emery-big-call-nottm-forest",
-      "publishedAt": "2026-09-13T09:24:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "b4ac1b079ddf58",
-      "title": "Man Utd slammed for not signing £51m star as ‘proven’ Sesko upgrade after ‘head-scratching’ deal",
-      "summary": "Former Manchester United assistant manager Rene Meulensteen thinks INEOS made two transfer mistakes in the summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-slammed-not-signing-51m-star-proven-sesko-upgrade-head-scratching-deal",
-      "publishedAt": "2026-09-13T08:56:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0c2c2e5d67a1da",
-      "title": "Neville reveals Chelsea ‘weakness’ exposed by Hull City as Alonso hits out at his ‘soft’ side",
-      "summary": "Phil Neville thinks Hull City exposed a major “weakness” with Chelsea during Saturday’s 2-2 draw at Stamford Bridge.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/neville-reveals-chelsea-weakness-exposed-hull-city",
-      "publishedAt": "2026-09-13T08:11:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "69de969a71608c",
-      "title": "Bruno Guimaraes hails Arsenal star as ‘best in the world’ after Sunderland win – ‘he is unbelievable’",
-      "summary": "Arsenal summer signing Bruno Guimaraes has lauded goalkeeper David Raya after Saturday’s 2-0 win against Sunderland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-guimaraes-hails-arsenal-star-best-world-sunderland-win-unbelievable",
-      "publishedAt": "2026-09-13T07:12:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0c7fe0e922ea00",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg59eymd40eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T05:57:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "52320fbee391e6",
-      "title": "Chelsea's defence looks 'weak & disjointed' - analysis",
-      "summary": "Match of the Day pundit Ashley Williams says Chelsea's \"struggling\" defence looked \"weak and disjointed\" in their 2-2 draw against Hull at Stamford Bridge.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgw13ng43xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T23:07:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c4c1762a2a3147",
-      "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-      "summary": "Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T22:57:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6a1b4cfdcbc755",
-      "title": "Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’",
-      "summary": "Arsenal manager angry: ‘This can never be a penalty’ ‘It’s a judo roll from the opponent. Ezri does nothing’ Mikel Arteta’s delight at Arsenal’s latest win was tempered...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable",
-      "publishedAt": "2026-09-12T22:47:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "da603b9ccbf3a7",
-      "title": "Romano suggests whether Balde to Man Utd from Barcelona in January is possible",
-      "summary": "Fabrizio Romano has suggested whether Manchester United could get the chance to sign the Barcelona star in the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alejandro-balde-manchester-united-barcelona-fabrizio-romano-transfer-update-2",
-      "publishedAt": "2026-09-12T22:19:35.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "4fe56e48dc143c",
-      "title": "Raya and Arsenal exorcise Sunderland demons to show strength of champions",
-      "summary": "Arsenal’s last Saturday night in Sunderland reinforced the view they might never win the title. This one illustrated why they might p*ss it this time…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/sunderland-0-2-arsenal-raya-bruno-guimaraes-arteta",
-      "publishedAt": "2026-09-12T22:14:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "4dac5d4bcacaca",
-      "title": "Mikel Arteta and Regis Le Bris wowed by Arsenal star vs Sunderland – ‘one of the best’",
-      "summary": "Arsenal manager Mikel Arteta and Sunderland boss Regis Le Bris were blown away by the Spanish star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/david-raya-arsenal-sunderland-mikel-arteta-regis-le-bris-verdict",
-      "publishedAt": "2026-09-12T21:58:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0a93cb0b1a0ab3",
-      "title": "Arsenal hold off energetic Sunderland to continue perfect title defence",
-      "summary": "Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:53:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1da5f9e74c69c8",
-      "title": "Arteta 'very worried & very sad' over penalty incident",
-      "summary": "Mikel Arteta is pleased with Arsenal's performance against Sunderland, but is \"very worried and very sad\" about the penalty awarded to their opponents during the match...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cd94ke0z07qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:45:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9ce2f605c350dc",
-      "title": "Man Utd chiefs wowed by how Michael Carrick has ‘completely changed’ midfielder – Fabrizio Romano",
-      "summary": "Fabrizio Romano has said that Manchester United chiefs are very happy with the way that manager Michael Carrick has transformed a player.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-kobbie-mainoo-michael-carrick-fabrizio-romano",
-      "publishedAt": "2026-09-12T21:35:58.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
