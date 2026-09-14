@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:32:35.994Z",
+  "generatedAt": "2026-09-14T04:13:38.177Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "54329352b940d8",
-      "title": "'A HUGE error!' - Okuma gifts Man City the opener against Villa!",
-      "summary": "Take a look as Akane Okuma's error gifted Manchester City the opener against Aston Villa.",
+      "id": "8a45e367f068e0",
+      "title": "Awarding Man City's winner at Man Utd an error, admits refereeing body",
+      "summary": "Refereeing body Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585549/aston-villa-vs-manchester-city-akane-okuma-gifts-manchester-city-the-opener-against-aston-villa",
-      "publishedAt": "2026-09-13T20:32:35.750Z",
+      "url": "https://www.skysports.com/football/news/12040/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref",
+      "publishedAt": "2026-09-14T04:13:38.172Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,12 +112,69 @@
       ]
     },
     {
-      "id": "c427ecfa03c9b7",
-      "title": "Keane disagrees with Foden red card as pundits criticise Fernandes' role",
-      "summary": "Roy Keane believes Phil Foden should not have been sent off in the Manchester derby and criticised Man Utd captain Bruno Fernandes' role in the Man City forward's red c...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13585509/phil-foden-sent-off-in-manchester-derby-bruno-fernandes-role-criticised-by-roy-keane-and-micah-richards",
-      "publishedAt": "2026-09-13T20:32:35.749Z",
+      "id": "f688df858f880b",
+      "title": "Getting goal decision so wrong is 'baffling' - Rooney",
+      "summary": "Match of the Day pundits Wayne Rooney and Danny Murphy finds it \"baffling\" that Erling Haaland's winning goal in the Manchester derby was not ruled out by VAR, but thin...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9w4755n70wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T22:59:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1831a8a4524ae8",
+      "title": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
+      "summary": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless run Harry Kane scored his first Bundesliga goal of the season to help Bayern Mun...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
+      "publishedAt": "2026-09-13T22:47:47.000Z",
+      "category": "issue",
+      "region": "spain italy france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Barcelona",
+        "Psg"
+      ]
+    },
+    {
+      "id": "c5816db032a499",
+      "title": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
+      "summary": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T22:20:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "de57d9b66e5d47",
+      "title": "Liverpool in race with Real Madrid for £43m star but Bayern Munich sit in special situation",
+      "summary": "Liverpool are reportedly tracking PSV Eindhoven star Paul Wanner but face competition from former side Bayern Munich.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-race-real-madrid-43m-star-bayern-munich-special-situation",
+      "publishedAt": "2026-09-13T21:02:42.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Liverpool",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "25cf0c715c4d6e",
+      "title": "16 Conclusions from Man Utd 0-1 Man City: Red cards, kicked arses, offsides, Fernanderson, Haaland",
+      "summary": "Two controversial VAR decisions in the Manchester derby fell one each the way of City and United, yet both ultimately hurt United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-derby-two-var-decisions-wrong-united-pay-price-city-16-conclusions",
+      "publishedAt": "2026-09-13T20:38:30.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,29 +182,18 @@
       ]
     },
     {
-      "id": "fef5ea8aee7e65",
-      "title": "Haaland scores controversial derby winner for Man City after Foden red",
-      "summary": "Erling Haaland's contentious winner earned 10-man Manchester City a derby win over rivals United at Old Trafford - after Phil Foden's controversial first-half red card.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-manchester-city/report/559481",
-      "publishedAt": "2026-09-13T20:32:35.748Z",
+      "id": "3903baf31509c2",
+      "title": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
+      "summary": "Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager has helped to create A gentleman is never rude unintentionally, only by d...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
+      "publishedAt": "2026-09-13T20:35:23.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "eb8484af079ab2",
-      "title": "Deja vu for Pro Ref? Neville slams 'shocker' VAR decision to give Haaland goal",
-      "summary": "Gary Neville slams VAR's decision to give Erling Haaland's goal in the Manchester derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585582/gary-neville-slams-var-decision-to-give-erling-haalands-goal-in-manchester-derby",
-      "publishedAt": "2026-09-13T20:32:35.748Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
+        "Football",
+        "Premier League",
+        "Arsenal"
       ]
     },
     {
@@ -176,6 +222,36 @@
       "tags": [
         "Liverpool",
         "Bayern"
+      ]
+    },
+    {
+      "id": "a54e03c45b14c6",
+      "title": "Football Daily",
+      "summary": "Rick Edwards, Luke Edwards and Charlie Austin discuss the latest Premier League weekend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9gjr9?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T20:23:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "30a1fb4781cd38",
+      "title": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "summary": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red card Enzo Maresca does not pay the bills at Manchester City...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby",
+      "publishedAt": "2026-09-13T20:21:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
@@ -220,6 +296,20 @@
       ]
     },
     {
+      "id": "36da74fb94ad95",
+      "title": "The ridiculous stats of Erling Haaland as he reaches 300 career goals at 26",
+      "summary": "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-ridiculous-stats-half-decent-start-premier-league-life",
+      "publishedAt": "2026-09-13T19:30:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup"
+      ]
+    },
+    {
       "id": "0cb55d0488f19d",
       "title": "Manchester derby officials ‘clowns’ but bonkers decision is ‘divine karma’ for Bruno",
       "summary": "The Manchester derby officials get a kicking but there’s not a great deal of sympathy for Bruno Fernandes.",
@@ -230,19 +320,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "2b2eaa556be81b",
-      "title": "Bundesliga",
-      "summary": "Watch highlights from matchday three in the Bundesliga.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058t4y?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T19:14:17.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
       ]
     },
     {
@@ -352,20 +429,6 @@
       ]
     },
     {
-      "id": "95802fa77ffe6c",
-      "title": "Manchester City recover from Foden red card as Haaland wins derby at United",
-      "summary": "“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández, who after a star role in a memorable victory has instant cult hero statu...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
-      "publishedAt": "2026-09-13T17:32:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
       "id": "eb5e3b263e6006",
       "title": "Foden sees red as Mainoo impresses - Manchester derby ratings",
       "summary": "How Manchester United and Manchester City players rated in the derby clash at Old Trafford.",
@@ -376,22 +439,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "1831a8a4524ae8",
-      "title": "European football: Lamine Yamal keeps Barcelona perfect, Leipzig rout Hamburg",
-      "summary": "Teenager hits two in 4-2 victory at Levante Lepizig smash five past struggling Hamburg Barcelona continued their perfect start to the ⁠season with a hard-fought 4-2 La...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
-      "publishedAt": "2026-09-13T17:21:35.000Z",
-      "category": "league",
-      "region": "spain italy germany",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Barcelona",
-        "Bayern"
       ]
     },
     {
@@ -541,48 +588,6 @@
       "tags": [
         "Transfer",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "18dbe51b1a76dc",
-      "title": "Arsenal tipped to break PL record held by Chelsea after John Terry claimed it would ‘never be beaten’",
-      "summary": "Arsenal have been tipped to break Chelsea’s Premier League record for the fewest goals conceded in a single season this term.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-tipped-break-pl-record-held-chelsea-john-terry-claim",
-      "publishedAt": "2026-09-13T13:11:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c9ff7aad44bbec",
-      "title": "Could Alisson’s Liverpool admission see Andoni Iraola sacked in January again?",
-      "summary": "Any Liverpool fan watching their dire 0-0 draw with Fulham on Saturday will have had the same concerns that goalkeeper Alisson voiced after the game.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-alisson-andoni-irola-sacked-january",
-      "publishedAt": "2026-09-13T12:55:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "763aff25d46654",
-      "title": "Man Utd may suffer hijack for new Jude Bellingham as team in pole position revealed",
-      "summary": "Manchester United could reportedly be hijacked in the race to sign Leicester City youngster Louis Page amid interest from Borussia Dortmund.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-suffer-hijack-new-jude-bellingham-team-pole-position-revealed",
-      "publishedAt": "2026-09-13T12:37:15.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Manchester",
-        "Inter"
       ]
     }
   ],
