@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:37:46.332Z",
+  "generatedAt": "2026-09-15T21:02:59.136Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,64 +99,12 @@
       "pinned": true
     },
     {
-      "id": "bcf0e01c563bde",
-      "title": "FULL VAR AUDIO released of Haaland's controversial Manchester derby winner",
-      "summary": "Speaking on Match Officials Mic'd Up, Pro Ref chief Howard Webb says that there will be a review into how the VAR process decided to allow Erling Haaland's goal for Man...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586149/match-officials-micd-up-where-did-var-go-wrong-with-erling-haaland-goal",
-      "publishedAt": "2026-09-15T16:37:45.926Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cfeb7bb686eac7",
-      "title": "Explained: Why 15-year-old prodigy JJ Gabriel wants to leave Man Utd",
-      "summary": "Dan Khan updates Sky Sports on 15-year-old prodigy JJ Gabriel's decision to leave Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586221/15-year-old-prodigy-jj-gabriel-has-asked-to-leave-manchester-united",
-      "publishedAt": "2026-09-15T16:37:45.926Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8d761248444b61",
-      "title": "Gabriel asks to leave Man Utd",
-      "summary": "Manchester United’s 15-year-old prodigy JJ Gabriel has requested to leave the club in a hugely surprising move that has left those at United shocked.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586188/jj-gabriel-transfer-news-highly-rated-manchester-united-teenage-prospect-asks-to-leave-old-trafford",
-      "publishedAt": "2026-09-15T16:37:45.926Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a06c8cc2576767",
-      "title": "Webb: VAR had 'tunnel vision' on Haaland which led to Enzo error",
-      "summary": "Pro Ref chief Howard Webb says VAR missed Enzo Fernandez being offside for Erling Haaland's winning goal in the Manchester derby due to \"tunnel vision\".",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586101/pro-ref-chief-howard-webb-admits-var-had-tunnel-vision-on-erling-haaland-leading-to-enzo-fernandez-error",
-      "publishedAt": "2026-09-15T16:37:45.925Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "5d4c97effb37ca",
       "title": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
       "summary": "Pro Ref chief Howard Webb has backed the decision to send off Phil Foden in the Manchester derby but revealed VAR could not intervene to caution Bruno Fernandes for the...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13586192/pro-ref-chief-howard-webb-agrees-with-phil-foden-red-card-in-manchester-derby-but-admits-bruno-fernandes-should-have-been-booked",
-      "publishedAt": "2026-09-15T16:37:45.925Z",
+      "publishedAt": "2026-09-15T21:02:58.921Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -170,11 +118,24 @@
       "summary": "England footballer Raheem Sterling has admitted dangerously driving a Lamborghini on the motorway.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13586078/raheem-sterling-admits-driving-lamborghini-dangerously-ahead-of-motorway-crash",
-      "publishedAt": "2026-09-15T16:37:45.925Z",
+      "publishedAt": "2026-09-15T21:02:58.921Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "d755a5b8e222c4",
+      "title": "Scorecard: England vs Sri Lanka, first T20, Southampton",
+      "summary": "Latest score from the first T20 international between England and Sri Lanka at the Utilita Bowl in Southampton. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/f388f59d-e868-5eaf-b2ec-807169ed78b4",
+      "publishedAt": "2026-09-15T21:02:58.921Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -183,7 +144,7 @@
       "summary": "England head coach Brian McDermott has confirmed George Williams will be his captain at next month's Rugby League World Cup.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13586102/george-williams-england-coach-brian-mcdermott-confirms-warrington-wolves-star-as-captain-for-rugby-league-world-cup",
-      "publishedAt": "2026-09-15T16:37:45.925Z",
+      "publishedAt": "2026-09-15T21:02:58.921Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -196,11 +157,192 @@
       "summary": "Pro Ref chief refereeing officer Howard Webb explains to Match Officials Mic'd Up why Manchester United captain Bruno Fernandes escaped any punishment despite his invol...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13586152/match-officials-micd-up-why-did-bruno-fernandes-escape-punishment-over-phil-foden-red-card",
-      "publishedAt": "2026-09-15T16:37:45.925Z",
+      "publishedAt": "2026-09-15T21:02:58.921Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "bcf0e01c563bde",
+      "title": "FULL VAR audio released of Haaland's controversial Manchester derby winner",
+      "summary": "Speaking on Match Officials Mic'd Up, Pro Ref chief Howard Webb says that there will be a review into how the VAR process decided to allow Erling Haaland's goal for Man...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13586149/match-officials-micd-up-where-did-var-go-wrong-with-erling-haaland-goal",
+      "publishedAt": "2026-09-15T21:02:58.921Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6a813e7b023cba",
+      "title": "Szoboszlai stunner seals it for Liverpool against Spurs LIVE!",
+      "summary": "Szoboszlai stunner seals it for Liverpool against Spurs LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/live/577579",
+      "publishedAt": "2026-09-15T21:02:58.920Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a06c8cc2576767",
+      "title": "Webb: VAR had 'tunnel vision' on Haaland which led to Enzo error",
+      "summary": "Pro Ref chief Howard Webb says VAR missed Enzo Fernandez being offside for Erling Haaland's winning goal in the Manchester derby due to \"tunnel vision\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13586101/pro-ref-chief-howard-webb-admits-var-had-tunnel-vision-on-erling-haaland-leading-to-enzo-fernandez-error",
+      "publishedAt": "2026-09-15T21:02:58.920Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "993f962a4bf757",
+      "title": "Ipswich Town v Arsenal: Carabao Cup third round – live",
+      "summary": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Allan Castle w...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
+      "publishedAt": "2026-09-15T20:54:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "01aeb0a76f1d66",
+      "title": "Liverpool 3-1 Tottenham Hotspur: Carabao Cup third round – live",
+      "summary": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email 1 min: There h...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
+      "publishedAt": "2026-09-15T20:54:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e867e7f79879bc",
+      "title": "Arsenal’s Max Dowman is proof JJ Gabriel’s Man Utd pathway is not the problem",
+      "summary": "Max Dowman’s Arsenal masterclass provides a timely lesson for JJ Gabriel after the Manchester United wonderkid reportedly asked to leave.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-arsenal-dowman-proof-jj-gabriel-man-utd-pathway-not-the-problem",
+      "publishedAt": "2026-09-15T20:23:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6355581271a847",
+      "title": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
+      "summary": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for Kane at Bayern Munich, and Manchester United are interested in Jarrad...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T20:19:31.000Z",
+      "category": "league",
+      "region": "england spain italy germany",
+      "tags": [
+        "Manchester",
+        "Barcelona",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac84a0422a3fc7",
+      "title": "All done deals in September 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T19:55:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "c7ca7ca3e27f17",
+      "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "summary": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T19:25:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "23b6a075d59b9b",
+      "title": "Fabrizio Romano rates chances of JJ Gabriel U-turn on leaving Man Utd – ‘very open situation’",
+      "summary": "Fabrizio Romano has rated Manchester United’s chances of getting JJ Gabriel to change his mind on leaving the Premier League giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/romano-rates-chances-jj-gabriel-u-turn-leaving-man-utd",
+      "publishedAt": "2026-09-15T18:55:24.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "12097f892d5407",
+      "title": "Liverpool: Iraola tipped to make ‘big call’ to fix ‘not functioning’ problem on one condition",
+      "summary": "Liverpool boss Andoni Iraola has been tipped to make a “big call” in an attempt to fix his side’s midfield, which is currently “not functioning”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-iraola-tipped-big-call-fix-not-functioning-problem-one-condition",
+      "publishedAt": "2026-09-15T18:29:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ab928bfd7515de",
+      "title": "Man City vs Norwich City: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Carabao Cup clash between Manchester City and Norwich City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/man-city-vs-norwich-city-prediction-preview",
+      "publishedAt": "2026-09-15T18:13:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b20c1c6cb016f7",
+      "title": "Clear frontrunner to sign Man Utd starlet JJ Gabriel revealed as Euro giants could hijack Chelsea",
+      "summary": "Chelsea are reportedly the ‘clear frontrunner’ to sign Manchester United youngster JJ Gabriel, but there is also interest from Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/clear-frontrunner-sign-man-utd-starlet-jj-gabriel-revealed-euro-giants-hijack-chelsea",
+      "publishedAt": "2026-09-15T17:14:14.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Real Madrid",
+        "Inter"
       ]
     },
     {
@@ -229,19 +371,6 @@
         "Liverpool",
         "Bayern",
         "Inter"
-      ]
-    },
-    {
-      "id": "d2150209d45320",
-      "title": "VAR missed Fernandez offside in Manchester derby - Webb",
-      "summary": "Referees' chief Howard Webb admits that the video assistant referee failed to assess the offside offence by Enzo Fernandez for the winning goal in Sunday's Manchester d...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T16:00:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -382,15 +511,17 @@
     },
     {
       "id": "dbe08edcf32d67",
-      "title": "Raheem Sterling pleads guilty to dangerous driving and possession of nitrous oxide",
-      "summary": "Ex-England footballer also admits to failing to provide a specimen as he appears at Basingstoke magistrates court The former England footballer Raheem Sterling has admi...",
+      "title": "Raheem Sterling could face prison for reckless driving while using nitrous oxide",
+      "summary": "Ex-England footballer pleads guilty and admits to failing to provide a specimen as he appears in court Raheem Sterling pleaded guilty to dangerous driving and could be...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide",
       "publishedAt": "2026-09-15T13:39:34.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Football"
+        "Football",
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
@@ -460,132 +591,6 @@
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "b005a9cbc6489a",
-      "title": "Liverpool will trigger £47m Araujo purchase option on one condition as Iraola reacts",
-      "summary": "Liverpool are reportedly ready to trigger the purchase option in Ronald Araujo’s loan deal from Barcelona if he continues his good form.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-araujo-decision-purchase-option-barcelona-iraola-reacts",
-      "publishedAt": "2026-09-15T12:05:21.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "2f3a83e1a29b4b",
-      "title": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
-      "summary": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year The 2026 Under-20 Women’s World C...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
-      "publishedAt": "2026-09-15T12:00:42.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "44dc6bec47889e",
-      "title": "Nottingham Forest react after learning Tottenham plan January raid for Morgan Gibbs-White",
-      "summary": "Tottenham Hotspur remain keen on a 2027 deal for Nottingham Forest and England international attacking midfielder Morgan Gibbs-White.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-hotspur-nottingham-forest-morgan-gibbs-white-january-transfer",
-      "publishedAt": "2026-09-15T11:39:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "52a89ab8d394ae",
-      "title": "James Milner tells Michael Carrick how Carlos Baleba is going to transform Man Utd midfield",
-      "summary": "Former Liverpool and Manchester City star James Milner has raved about Manchester United midfielder Carlos Baleba.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carlos-baleba-manchester-united-james-milner-verdict",
-      "publishedAt": "2026-09-15T11:37:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f4d68e8979ad55",
-      "title": "USMNT roster prediction: a big chance for Cavan Sullivan and other young prospects",
-      "summary": "The United States’ next World Cup cycle gets underway with this week’s squad selection – here’s who we think will make the cut Pablo: Matt Turner (New England Revolutio...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
-      "publishedAt": "2026-09-15T11:30:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "61152034ed7ef6",
-      "title": "Haaland, Man City ‘understanding’ in 2027 revealed as Barcelona, Real Madrid prepare bids",
-      "summary": "Erling Haaland and Man City reportedly have an ‘understanding’ over a potential transfer in 2027 as Barcelona and Real Madrid prepare moves.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-erling-haaland-understanding-barcelona-real-madrid",
-      "publishedAt": "2026-09-15T11:00:26.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "654b8bbfc1fcca",
-      "title": "Man Utd v Brighton: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Carabao Cup clash between Manchester United and Brighton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/man-utd-v-brighton-prediction-preview",
-      "publishedAt": "2026-09-15T10:45:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b1025ce11e6a9c",
-      "title": "David Squires on … a big weekend for controversial calls in the Premier League",
-      "summary": "Our cartoonist on the English top-flight leading the way for debatable decisions and performative sadness Buy a cartoon | Some of David’s favourite works And his latest...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/15/david-squires-on-a-big-weekend-for-controversial-calls-in-the-premier-league",
-      "publishedAt": "2026-09-15T10:31:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "914486d6792638",
-      "title": "Cardiff to host 2029 women's Champions League final",
-      "summary": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T10:25:32.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Uefa"
       ]
     }
   ],
