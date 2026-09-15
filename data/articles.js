@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-14T21:40:02.914Z",
+  "generatedAt": "2026-09-15T04:13:05.568Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,10 +104,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal latest: Gunners to contact Pro Ref over Sunderland penalty",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-14T21:40:02.911Z",
+      "publishedAt": "2026-09-15T04:13:05.321Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3b15f255c75a16",
+      "title": "'He's the don!' - Carra believes Arteta has become the PL's new Ferguson",
+      "summary": "Jamie Carragher explains why he believes Mikel Arteta has become the Sir Alex Ferguson of the modern Premier League, pointing to the Arsenal boss' criticism of official...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13585921/mikel-arteta-jamie-carragher-compares-arsenal-boss-influence-to-sir-alex-ferguson-on-mnf",
+      "publishedAt": "2026-09-15T04:13:05.320Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Arsenal"
       ]
     },
@@ -117,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Leeds United maintained their unbeaten start to the Premier League campaign with a breathless 4-1 victory over Newcastle.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-newcastle-united/report/559479",
-      "publishedAt": "2026-09-14T21:40:02.910Z",
+      "publishedAt": "2026-09-15T04:13:05.319Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585971/blundering-var-duo-set-to-be-blocked-from-officiating-on-manchester-united-games-paper-talk",
-      "publishedAt": "2026-09-14T21:40:02.910Z",
+      "publishedAt": "2026-09-15T04:13:05.319Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -143,7 +157,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The inaugural Madring grand prix was ok, the new venue offering some interesting aspects such as the long and banked turn 12 and testing high-speed sections between con...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/f1/news/12040/13585846/martin-brundles-verdict-on-madrings-f1-debut-the-areas-to-change-for-2027-and-virtual-safety-car-rules",
-      "publishedAt": "2026-09-14T21:40:02.910Z",
+      "publishedAt": "2026-09-15T04:13:05.319Z",
       "category": "issue",
       "region": "italy",
       "tags": [
@@ -156,7 +170,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jamie Carragher says Arsenal boss Mikel Arteta is \"becoming the Sir Alex Ferguson of the Premier League\" after strongly criticising the penalty awarded against his side...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13585895/jamie-carragher-arsenal-boss-mikel-arteta-becoming-like-sir-alex-ferguson-after-ref-criticism-of-sunderland-penalty",
-      "publishedAt": "2026-09-14T21:40:02.910Z",
+      "publishedAt": "2026-09-15T04:13:05.319Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -165,17 +179,85 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3b15f255c75a16",
-      "title": "'He's the don!' - Carra believes Arteta has become the PL's new Ferguson",
-      "summary": "Jamie Carragher explains why he believes Mikel Arteta has become the Sir Alex Ferguson of the modern Premier League, pointing to the Arsenal boss' criticism of official...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13585921/mikel-arteta-jamie-carragher-compares-arsenal-boss-influence-to-sir-alex-ferguson-on-mnf",
-      "publishedAt": "2026-09-14T21:40:02.910Z",
+      "id": "84ef959182ea89",
+      "title": "Madueke a target for Euro loans - Tuesday's gossip",
+      "summary": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T22:44:24.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Liverpool",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "7cdb67f782531a",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T22:18:48.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "de6c76c3ccb8a4",
+      "title": "Paul Scholes says ‘jury’s still out’ on Man Utd first-team regular",
+      "summary": "Paul Scholes has raised his doubts about a Manchester United star, just days after former Old Trafford coach Rene Meulensteen named who should replace him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-senne-lammens-paul-scholes-verdict",
+      "publishedAt": "2026-09-14T22:14:22.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "54416e88aaa12e",
+      "title": "European football: Inter roar back to beat Udinese and join Roma at the top",
+      "summary": "Inter and Roma lead Serie A, Como move up to third Real Betis beat struggling Villarreal in La Liga Inter fought back ⁠from two goals down ​to beat Udinese 5-3 on Monda...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/14/european-football-inter-and-roma-maintain-perfect-starts-while-como-climb",
+      "publishedAt": "2026-09-14T22:08:01.000Z",
+      "category": "issue",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Serie A",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3e4a9e1a60a19e",
+      "title": "Farke 'very happy' with dominant Leeds performance",
+      "summary": "Leeds United manager Daniel Farke is \"very happy\" after a dominant performance from his side in their 4-1 Premier League win over Newcastle at Elland Road.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqdr7n4nxgv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T22:07:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7ab482ef5c81b6",
+      "title": "Carragher drools over ‘sensational’ Leeds star in Newcastle win – ‘No greater sight’",
+      "summary": "“There is not a greater sight in football than seeing a centre-forward rise above everybody in the air and head the ball in the net.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carragher-drools-over-sensational-leeds-star-in-newcastle-win-no-greater-sight",
+      "publishedAt": "2026-09-14T22:03:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -208,7 +290,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "3a4c0783fa1290",
       "title": "De Zerbi backs ‘sensitive guy’ Solanke to find form before tricky Anfield trip",
-      "summary": "Tottenham visit Liverpool in the Carabao Cup third round Spurs are winless in 17 visits and yet to score a league goal Roberto De Zerbi has no doubt Dominic Solanke wil...",
+      "summary": "Tottenham visit Liverpool in Carabao Cup third round Richarlison will play no part despite being eligible Roberto De Zerbi has no doubt Dominic Solanke will rediscover...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/14/roberto-de-zerbi-dominic-solanke-tottenham-liverpool-anfield-carabao-cup",
       "publishedAt": "2026-09-14T21:30:17.000Z",
@@ -218,21 +300,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Premier League",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "89c099aed379e0",
-      "title": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
-      "summary": "Leeds United’s magnificent start to the Premier League season continued with a statement victory over an appalling Newcastle United to move the Whites up to third in th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
-      "publishedAt": "2026-09-14T21:07:08.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League"
       ]
     },
     {
@@ -259,20 +326,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "84ef959182ea89",
-      "title": "Madueke a target for Euro loans - Tuesday's gossip",
-      "summary": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T20:31:39.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Liverpool",
-        "Juventus"
       ]
     },
     {
@@ -545,64 +598,6 @@ window.FOOTBALLDAY_DATA = {
         "Liverpool",
         "Manchester",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "5e1485bd59def6",
-      "title": "Football Daily | Another dog’s breakfast over VAR for the new and rebranded Pro Ref",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Keys. Phone. Wallet. What day it is. The names of people to whom we’ve just been introduced. Where we parked the car...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/14/football-daily-var-dogs-breakfast",
-      "publishedAt": "2026-09-14T14:38:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5e7546e38eab11",
-      "title": "Neville makes Premier League title claim after ‘transformed’ Man City beat Man Utd – ‘the big thing’",
-      "summary": "Gary Neville thinks Manchester City could have a “real run” at beating Arsenal to the Premier League title this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/neville-premier-league-title-claim-transformed-man-city-beat-man-utd",
-      "publishedAt": "2026-09-14T14:12:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b2b4752075d7b5",
-      "title": "Chelsea ‘offer’ £120m as they eye £188m double January swoop with ‘direct’ talks planned",
-      "summary": "Chelsea are reportedly looking to bring Barcelona midfielder Fermin Lopez and Inter Milan defender Alessandro Bastoni to the club in January.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-offer-fermin-barcelona-bastoni-inter-january-transfer-direct-talks-alonso",
-      "publishedAt": "2026-09-14T14:02:56.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Chelsea",
-        "Barcelona",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "da43cccd9f8a78",
-      "title": "Arsenal will make referee complaint over ‘unacceptable’ decision in Sunderland victory",
-      "summary": "Arsenal will make a complaint to Pro Ref over their decision to award a penalty to Sunderland in the Gunners’ 2-0 win in the Premier League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-referee-complaint-unacceptable-decision-sunderland",
-      "publishedAt": "2026-09-14T13:36:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
