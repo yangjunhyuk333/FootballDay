@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:02:59.136Z",
+  "generatedAt": "2026-09-16T04:09:13.402Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,95 +99,42 @@
       "pinned": true
     },
     {
-      "id": "5d4c97effb37ca",
-      "title": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
-      "summary": "Pro Ref chief Howard Webb has backed the decision to send off Phil Foden in the Manchester derby but revealed VAR could not intervene to caution Bruno Fernandes for the...",
+      "id": "7b350258a1b17e",
+      "title": "Szoboszlai scores 30-yard SCREAMER as Liverpool beat Spurs to progress",
+      "summary": "Highlights of the Carabao Cup match between Liverpool and Tottenham.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586192/pro-ref-chief-howard-webb-agrees-with-phil-foden-red-card-in-manchester-derby-but-admits-bruno-fernandes-should-have-been-booked",
-      "publishedAt": "2026-09-15T21:02:58.921Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "1f0b8474c8a75a",
-      "title": "Sterling admits driving Lamborghini dangerously ahead of motorway crash",
-      "summary": "England footballer Raheem Sterling has admitted dangerously driving a Lamborghini on the motorway.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13586078/raheem-sterling-admits-driving-lamborghini-dangerously-ahead-of-motorway-crash",
-      "publishedAt": "2026-09-15T21:02:58.921Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "d755a5b8e222c4",
-      "title": "Scorecard: England vs Sri Lanka, first T20, Southampton",
-      "summary": "Latest score from the first T20 international between England and Sri Lanka at the Utilita Bowl in Southampton. Watch live on Sky Sports Cricket.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/f388f59d-e868-5eaf-b2ec-807169ed78b4",
-      "publishedAt": "2026-09-15T21:02:58.921Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "321bc9cc767e0f",
-      "title": "England confirm Williams as captain for Rugby League World Cup",
-      "summary": "England head coach Brian McDermott has confirmed George Williams will be his captain at next month's Rugby League World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13586102/george-williams-england-coach-brian-mcdermott-confirms-warrington-wolves-star-as-captain-for-rugby-league-world-cup",
-      "publishedAt": "2026-09-15T21:02:58.921Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8fea5e19ef411d",
-      "title": "Webb explains why Fernandes escaped punishment over Foden red",
-      "summary": "Pro Ref chief refereeing officer Howard Webb explains to Match Officials Mic'd Up why Manchester United captain Bruno Fernandes escaped any punishment despite his invol...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586152/match-officials-micd-up-why-did-bruno-fernandes-escape-punishment-over-phil-foden-red-card",
-      "publishedAt": "2026-09-15T21:02:58.921Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bcf0e01c563bde",
-      "title": "FULL VAR audio released of Haaland's controversial Manchester derby winner",
-      "summary": "Speaking on Match Officials Mic'd Up, Pro Ref chief Howard Webb says that there will be a review into how the VAR process decided to allow Erling Haaland's goal for Man...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586149/match-officials-micd-up-where-did-var-go-wrong-with-erling-haaland-goal",
-      "publishedAt": "2026-09-15T21:02:58.921Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6a813e7b023cba",
-      "title": "Szoboszlai stunner seals it for Liverpool against Spurs LIVE!",
-      "summary": "Szoboszlai stunner seals it for Liverpool against Spurs LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/live/577579",
-      "publishedAt": "2026-09-15T21:02:58.920Z",
+      "url": "https://www.skysports.com/watch/video/13586401/liverpool-3-1-spurs-carabao-cup-highlights",
+      "publishedAt": "2026-09-16T04:09:12.870Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "4a87922d8c9bdd",
+      "title": "Spurs do score but Szoboszlai stunner seals cup tie for Liverpool",
+      "summary": "Dominik Szoboszlai’s stunning strike sealed a 3-1 win for Liverpool over Tottenham in the third round of the Carabao Cup at Anfield.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/report/577579",
+      "publishedAt": "2026-09-16T04:09:12.870Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cce6bc2458c5d1",
+      "title": "Dowman shines as Arsenal ease past Ipswich",
+      "summary": "Highlights from the Carabao Cup round three clash between Ipswich and Arsenal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13586378/ipswich-town-2-4-arsenal-carabao-cup-highlights",
+      "publishedAt": "2026-09-16T04:09:12.870Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
       ]
     },
     {
@@ -196,7 +143,7 @@
       "summary": "Pro Ref chief Howard Webb says VAR missed Enzo Fernandez being offside for Erling Haaland's winning goal in the Manchester derby due to \"tunnel vision\".",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13586101/pro-ref-chief-howard-webb-admits-var-had-tunnel-vision-on-erling-haaland-leading-to-enzo-fernandez-error",
-      "publishedAt": "2026-09-15T21:02:58.920Z",
+      "publishedAt": "2026-09-16T04:09:12.870Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -204,33 +151,124 @@
       ]
     },
     {
-      "id": "993f962a4bf757",
-      "title": "Ipswich Town v Arsenal: Carabao Cup third round – live",
-      "summary": "⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road ⚽️ Liverpool v Tottenham – follow it live ⚽️ Live scoreboard | Send your thoughts to Taha via email Allan Castle w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "publishedAt": "2026-09-15T20:54:58.000Z",
+      "id": "63bace3be8e3cb",
+      "title": "Papers: Man Utd fearful of Man City swoop for Gabriel",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13586393/manchester-united-fear-teenage-sensation-jj-gabriel-may-sign-for-manchester-city-after-asking-to-leave-paper-talk",
+      "publishedAt": "2026-09-16T04:09:12.870Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "5d4c97effb37ca",
+      "title": "Webb: Foden red justified but Fernandes escaped yellow for 'petulant' kick",
+      "summary": "Pro Ref chief Howard Webb has backed the decision to send off Phil Foden in the Manchester derby but revealed VAR could not intervene to caution Bruno Fernandes for the...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13586192/pro-ref-chief-howard-webb-agrees-with-phil-foden-red-card-in-manchester-derby-but-admits-bruno-fernandes-should-have-been-booked",
+      "publishedAt": "2026-09-16T04:09:12.870Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "af6a6f3012628d",
+      "title": "Messi in Argentina squad for farewell friendly",
+      "summary": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T22:50:04.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8d4ebda0fc691a",
+      "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+      "summary": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T22:26:50.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Football",
-        "Arsenal",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "34a55f11a29317",
+      "title": "Liverpool: Andoni Iraola reveals main positive from win against Tottenham after ‘suffering’",
+      "summary": "Andoni Iraola has revealed that he “liked” his side’s “energy” against Tottenham Hotspur after winning 3-1 at Anfield on Tuesday night.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-iraola-reveals-main-positive-win-tottenham",
+      "publishedAt": "2026-09-15T21:50:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Liverpool"
       ]
     },
     {
-      "id": "01aeb0a76f1d66",
-      "title": "Liverpool 3-1 Tottenham Hotspur: Carabao Cup third round – live",
-      "summary": "⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield ⚽️ Ipswich v Arsenal – follow it live ⚽️ Live scoreboard | Send your thoughts to Scott via email 1 min: There h...",
+      "id": "8f5aff79eb018a",
+      "title": "Iraola’s imperfect Liverpool take shape after Alisson raises concern but De Zerbi, Spurs still miles off",
+      "summary": "Andoni Iraola’s Liverpool are starting to take shape with a concern debunked, while Spurs and Roberto De Zerbi still look hopeless.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-iraola-imperfect-liverpool-take-shape-alisson-concern-de-zerbi-spurs-poor",
+      "publishedAt": "2026-09-15T21:25:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e7234201c88cf5",
+      "title": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
+      "summary": "The bad news for everyone else is that Arsenal’s next generation is already here. Two mesmerising goals and an assist in a man-of-the-match display from Max Dowman unde...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "publishedAt": "2026-09-15T20:54:31.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
+      "publishedAt": "2026-09-15T21:14:31.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Arsenal",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "8d35cae0254ab4",
+      "title": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
+      "summary": "Tottenham scored and Roberto De Zerbi eulogised the quality at his disposal, yet try telling Spurs’ suffering away support there was consolation to be found at Anfield....",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
+      "publishedAt": "2026-09-15T21:12:54.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "264b0b3bda9569",
+      "title": "NI squad only picked on merit - O'Neill",
+      "summary": "Northern Ireland manager Michael O'Neill says he would never take Fifa eligibility rules into consideration when selecting his squad.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked7wng4557o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T21:01:37.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
       ]
     },
     {
@@ -414,21 +452,6 @@
       ]
     },
     {
-      "id": "13dc215d461e01",
-      "title": "Football Daily | Have laudable Leeds left the chaos behind them?",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! It’s been quite the stomach-churning white-knuckle ride for Leeds United over the past decade. Their fans have been...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/15/football-daily-email-leeds-not-disunited",
-      "publishedAt": "2026-09-15T15:08:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
       "id": "d50ceb920f6003",
       "title": "Brighton bow only to Arsenal in terms of clear identity and ambition",
       "summary": "In a very curious Premier League with lots of instability, we have Arsenal. And we have Brighton.",
@@ -564,33 +587,6 @@
         "Arsenal",
         "Chelsea",
         "Manchester"
-      ]
-    },
-    {
-      "id": "096a2233171046",
-      "title": "'We can't change the rules' - O'Neill on NI/ROI eligibility",
-      "summary": "Northern Ireland manager Michael O'Neill speaks to BBC Sport NI's Stephen Watson about speculation regarding Arsenal youngster Ceadach O'Neill's international future as...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwm2rjzgxex4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T12:43:49.000Z",
-      "category": "worldcup",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "686f8eaa1e1cf9",
-      "title": "Bellamy 'committed' to Wales after Burnley talks",
-      "summary": "Craig Bellamy says he was \"comfortable\" turning down the chance to return to club football and reiterated his desire to continue with Wales.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yw2pnqd40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T12:24:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
