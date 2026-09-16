@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-16T16:30:37.610Z",
+  "generatedAt": "2026-09-16T21:05:07.774Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,30 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "aef3ea79a05137",
-      "title": "Real Madrid score injury-time winner to move level on points with leaders Barcelona",
-      "summary": "Real Madrid score injury-time winner to move level on points with leaders Barcelona",
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
+      "summary": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-09-16T16:30:37.384Z",
-      "category": "issue",
-      "region": "spain",
-      "tags": [
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "db796bfa63ce81",
-      "title": "'Absolutely blanked him!' | Broad fails to get attention of Brook!",
-      "summary": "Watch Stuart Broad's unfortunate failed attempt to get an interview of former team-mate Harry Brook.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13586312/stuart-broad-fails-to-get-attention-of-former-teammate-harry-brook-during-england-vs-sri-lanka-first-t20",
-      "publishedAt": "2026-09-16T16:30:37.384Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-16T21:05:07.464Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Arsenal"
       ]
     },
     {
@@ -131,11 +117,25 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool latest: Watch Szoboszlai's best goals and vote which is the best...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-16T16:30:37.383Z",
+      "publishedAt": "2026-09-16T21:05:07.464Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "edb342d219264f",
+      "title": "Man City latest: Director of football Viana on summer transfer window and Maresca",
+      "summary": "Man City latest: Director of football Viana on summer transfer window and Maresca",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-16T21:05:07.464Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer"
       ]
     },
     {
@@ -144,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The Premier League's teenage sensations are making headlines after Max Dowman's starring display for Arsenal and JJ Gabriel's revelation that he wants to leave Manchest...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588569/max-dowman-shines-again-for-arsenal-and-jj-gabriel-wants-man-utd-exit-so-which-clubs-have-most-valuable-teens-between-the-lines",
-      "publishedAt": "2026-09-16T16:30:37.383Z",
+      "publishedAt": "2026-09-16T21:05:07.464Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -155,12 +155,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "46a6c6e4971f8e",
-      "title": "Eating grass, meditation and more – What Tuchel said in viral documentary",
-      "summary": "Thomas Tuchel wishes he'd eaten grass from the Azteca pitch after England's World Cup win over Mexico this summer.",
+      "id": "d83ffe638b253c",
+      "title": "'It's my scar, not yours' - Tuchel defends World Cup semi-final subs",
+      "summary": "Thomas Tuchel has passionately defended his controversial defensive substitutions during England's World Cup semi-final defeat to Argentina.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588472/thomas-tuchel-england-boss-on-world-cup-reflections-wishing-hed-eaten-azteca-grass-and-an-exciting-future",
-      "publishedAt": "2026-09-16T16:30:37.383Z",
+      "url": "https://www.skysports.com/football/news/12040/13588663/thomas-tuchel-england-head-coach-defends-controversial-world-cup-semi-final-substitutions-with-argentina-adding-its-my-scar-not-yours",
+      "publishedAt": "2026-09-16T21:05:07.463Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -168,16 +168,117 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
-      "summary": "Arsenal latest: Merino sees similarities to Lamine Yamal with Dowman",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-16T16:30:37.382Z",
+      "id": "2046dea52441cf",
+      "title": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
+      "summary": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts Manchester United host Brighton, and t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
+      "publishedAt": "2026-09-16T20:50:03.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Europa League",
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "3ebfd880a9ac62",
+      "title": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
+      "summary": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee ca...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
+      "publishedAt": "2026-09-16T20:49:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b47b95aea0af83",
+      "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+      "summary": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attracting interest from multiple Premier League clubs,...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T19:53:12.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e80868d15e992b",
+      "title": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
+      "summary": "Sullivan has six goals and eight assists post-World Cup US play four games in upcoming window Philadelphia Union midfielder Cavan Sullivan is set to earn his first inte...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt",
+      "publishedAt": "2026-09-16T19:25:09.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1d703469442323",
+      "title": "USA exit U-20 World Cup on penalties as tournament’s timing draws criticism",
+      "summary": "Brazil advance to quarter-finals in Poland Americans have not won tournament since 2012 US youth teams have struggled in recent showings The United States were eliminat...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup",
+      "publishedAt": "2026-09-16T17:14:43.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d6db136badedc0",
+      "title": "Carrick and Sesko embarrassed by ‘frustrated’ Rooney after Cunha, Mbuemo slams",
+      "summary": "Wayne Rooney’s big summer transfer regret for Man Utd should embarrass Michal Carrick more than Benjamin Sesko.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-man-utd-carrick-sesko-embarrassed-rooney-cunha-mbeumo-slams",
+      "publishedAt": "2026-09-16T17:01:30.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Transfer"
+      ]
+    },
+    {
+      "id": "bec0e54f3c3dad",
+      "title": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+      "summary": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T16:40:48.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f6625919e7b405",
+      "title": "What are the Premier League rules for academy players?",
+      "summary": "BBC Sport's Ask Me Anything team looks at what rules players and clubs must follow when teenagers play in the Premier League",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yev4y101eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T16:26:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -459,7 +560,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "64c5f1a913050f",
-      "title": "Maresca says Manchester City still waiting for apology after incorrect 2023 derby goal",
+      "title": "Maresca says Manchester City still waiting for apology after disputed 2023 derby goal",
       "summary": "United won game after controversial Fernandes equaliser City to blood youngsters for Carabao Cup game against Norwich Enzo Maresca has said Manchester United cannot com...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
@@ -496,99 +597,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "38c0310528f5de",
-      "title": "Maresca criticises focus on controversial winner",
-      "summary": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester Unit...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T11:07:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3ac32860a22564",
-      "title": "Harwood-Bellis has chance to make his mark at Villa",
-      "summary": "Left out of Aston Villa's Champions League squad and yet to feature since his arrival, Taylor Harwood-Bellis has the chance to shine in the EFL Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wyzg91zm4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T11:00:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "f5f0b2b325a900",
-      "title": "Watching Cavan Sullivan, excitement is tempered by memories of hypetrains past",
-      "summary": "The 16-year-old Union star isn’t the first wunderkind to be feted by the American soccersphere The trouble with trying not to hype up Cavan Sullivan is that he keeps on...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-mls-philadelphia-union",
-      "publishedAt": "2026-09-16T11:00:17.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer"
-      ]
-    },
-    {
-      "id": "51442fe8cb81c9",
-      "title": "'Mini Valverde' wanted by Chelsea - Garner is now Everton's main man",
-      "summary": "BBC Sport examines how James Garner has become Everton's most important player.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwyz819xw4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T10:56:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "bec0e54f3c3dad",
-      "title": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
-      "summary": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T10:55:00.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "b3985842fb9500",
-      "title": "Manchester Derby VAR fallout continues as Tuchel reveals one World Cup ‘regret’ and it’s not that one",
-      "summary": "You’d think it would be easy to guess Thomas Tuchel’s one regret from the World Cup. But it absolutely isn’t. It’s not that. Or that.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tuchel-world-cup-regret-england-argentina-mexico-manchester-derby-var-mediawatch",
-      "publishedAt": "2026-09-16T10:53:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6d6aac9c40fe67",
-      "title": "Arsenal duo warned best 16/yo ever Max Dowman is coming for their spots – ‘No doubt about it’",
-      "summary": "An Arsenal pair have been told that if Max Dowman gets a run in their positions, there is “no doubt” that he is going to “deliver,” after a brace in ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-duo-martin-odegaard-eberechi-eze-maz-dowman-coming",
-      "publishedAt": "2026-09-16T10:50:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
