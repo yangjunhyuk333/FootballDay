@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:19:01.972Z",
+  "generatedAt": "2026-09-17T16:36:07.838Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,43 +99,16 @@
       "pinned": true
     },
     {
-      "id": "88b0b357301514",
-      "title": "Co-owners Boehly and Walter agree to sell Chelsea stakes",
-      "summary": "Chelsea chairman Todd Boehly and director Mark Walter have agreed to sell their 25 per cent stake in the club to majority shareholders Clearlake Capital in a deal which...",
+      "id": "fb2919062dd28a",
+      "title": "Carrick, INEOS, defence... what is behind Man Utd's latest problems?",
+      "summary": "Manchester United's collapse against Brighton has intensified the scrutiny on Michael Carrick - but the problems at Old Trafford run deeper than the head coach.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13584180/chelsea-todd-boehly-and-fellow-co-owner-mark-walter-to-sell-stakes-in-premier-league-club",
-      "publishedAt": "2026-09-17T11:19:01.583Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ba2794f0f76cd5",
-      "title": "New season, same Man Utd story - Carrick is now firmly feeling the pressure",
-      "summary": "This wasn't just a defeat. This wasn't just a collapse. This wasn't just a cup exit. Another Manchester United managerial project is heading in that one, same direction...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588791/man-utd-2-3-brighton-michael-carricks-old-trafford-tenure-is-only-heading-in-one-direction-as-red-devils-face-familiar-story",
-      "publishedAt": "2026-09-17T11:19:01.583Z",
+      "url": "https://www.skysports.com/football/news/12040/13588890/manchester-united-whats-to-blame-for-increasing-scrutiny-on-michael-carrick-after-carabao-cup-exit",
+      "publishedAt": "2026-09-17T16:36:07.731Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Havertz granted rest time during international break",
-      "summary": "Arsenal latest: Havertz granted rest time during international break",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-17T11:19:01.582Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
       ]
     },
     {
@@ -144,11 +117,24 @@
       "summary": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
-      "publishedAt": "2026-09-17T11:19:01.582Z",
+      "publishedAt": "2026-09-17T16:36:07.731Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "42ae33e6b21b01",
+      "title": "Alonso: Chelsea didn't need a reset - they just needed an update",
+      "summary": "Xabi Alonso says Chelsea were in need of \"an update\" rather than a full reset when he was appointed manager this summer.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589015/xabi-alonso-chelsea-manager-says-blues-needed-an-update-rather-than-a-reset-when-he-took-over-at-stamford-bridge",
+      "publishedAt": "2026-09-17T16:36:07.730Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
       ]
     },
     {
@@ -157,7 +143,7 @@
       "summary": "45 players! Klopp picks TWO separate Germany squads for international break",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "publishedAt": "2026-09-17T11:19:01.581Z",
+      "publishedAt": "2026-09-17T16:36:07.730Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -170,7 +156,7 @@
       "summary": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit",
-      "publishedAt": "2026-09-17T11:19:01.581Z",
+      "publishedAt": "2026-09-17T16:36:07.730Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -179,9 +165,359 @@
       ]
     },
     {
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Havertz granted rest time during international break",
+      "summary": "Arsenal latest: Havertz granted rest time during international break",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-17T16:36:07.730Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2086cd3512ef4e",
+      "title": "Will Palmer, Foden and Trent be recalled to England squad?",
+      "summary": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
+      "publishedAt": "2026-09-17T16:36:07.729Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d3679e19139521",
+      "title": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
+      "summary": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
+      "publishedAt": "2026-09-17T16:36:07.729Z",
+      "category": "transfer",
+      "region": "england spain italy germany",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "a71ba21f8867cf",
+      "title": "Aston Villa respond to claims Alejandro Garnacho is already done as Unai Emery verdict revealed",
+      "summary": "Aston Villa have reportedly responded to suggestions that Chelsea loanee Alejandro Garnacho may already be finished at Villa Park.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-respond-claims-garnacho-already-done-emery-verdict-revealed",
+      "publishedAt": "2026-09-17T16:15:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6c98424441ea49",
+      "title": "Hull City’s rise from Championship strugglers to Premier League fliers",
+      "summary": "Hull were nearly relegated to League One last year. Now they are fourth in the Premier League By WhoScored Sixteen months ago Hull City avoided relegation to League One...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
+      "publishedAt": "2026-09-17T16:06:17.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3f035cc4fcae49",
+      "title": "Euro Leagues",
+      "summary": "Is JJ Gabriel set for Real Madrid? And former Gunners Aubameyang & Jesus keep scoring!",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pb3ytn?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T16:00:00.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "249144fc7c1122",
+      "title": "Man Utd: Potential JJ Gabriel exit date revealed as ‘clear’ favourite to sign him named",
+      "summary": "According to reports, JJ Gabriel could leave Manchester United as soon as next month, while there is a “clear” favourite to sign him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-jj-gabriel-exit-date-revealed-clear-favourite-sign-him-revealed",
+      "publishedAt": "2026-09-17T15:33:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "29b3f8faf0be24",
+      "title": "Why will September international break last three weeks?",
+      "summary": "BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in September 2026",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5jl744pwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T15:30:03.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "076c079294f418",
+      "title": "Sutton's predictions v legendary guitarist Johnny Marr",
+      "summary": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Pr...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T15:10:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "74f59830ad6b34",
+      "title": "Man Utd ‘doing due diligence’ on Carrick replacements as Jacobs names five potential successors",
+      "summary": "Reporter Ben Jacobs has suggested that Michael Carrick may not have full backing at Manchester United, who have five options for their next manager.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-carrick-sack-update-five-contenders-next-manager",
+      "publishedAt": "2026-09-17T15:05:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "018bc653425b8d",
+      "title": "FA chair demands Infantino release World Cup sell-off documents",
+      "summary": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T14:26:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "077b21c7ba1b33",
+      "title": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united",
+      "publishedAt": "2026-09-17T14:21:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Uefa",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7080da029aa61f",
+      "title": "Harry Kane requests release clause with Bayern Munich in agreement on new contract",
+      "summary": "Tottenham Hotspur legend Harry Kane reportedly wants a release clause to be included in his new Bayern Munich contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-harry-kane-requests-release-clause-bayern-munich-agreement-new-contract",
+      "publishedAt": "2026-09-17T14:14:02.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "b7ce49c2337e2f",
+      "title": "Alessandro Costacurta: ‘San Siro is an icon – it’s incredibly beautiful but it’s not functional’",
+      "summary": "Milan’s grand old home turns 100 this weekend, and while it will soon be torn down one of the greatest players to grace it reflects on the noise and power of a unique s...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/alessandro-costacurta-san-siro-100-years-beautiful-not-functional-milan-inter",
+      "publishedAt": "2026-09-17T14:12:34.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "052d2a466c0c36",
+      "title": "Amorim told to ‘stop talking’ as Milan boss throws shade at Man Utd stars in familiar complaint",
+      "summary": "Ruben Amorim is once again complaining about players not fitting into his system took a couple of jabs at some Man Utd stars in the process.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/amorim-told-to-stop-talking-throws-shade-man-utd-stars-familiar-complaint",
+      "publishedAt": "2026-09-17T13:43:02.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "9a83e218a9f201",
+      "title": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
+      "summary": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon J...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
+      "publishedAt": "2026-09-17T13:27:45.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8c8b5012ed0171",
+      "title": "Manchester United crisis klaxon alert and Sunderland soar | Football Weekly Extra – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Dan Bardell and Sam Dalling to discuss the Carabao Cup, Sunderland’s triumphant return to Europe and look ahead to the week...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/17/manchester-united-crisis-klaxon-alert-and-sunderland-soar-football-weekly-extra-video",
+      "publishedAt": "2026-09-17T13:18:44.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4911516624e6f5",
+      "title": "Arsenal reach decision on selling Martin Zubimendi to Real Madrid in January",
+      "summary": "A report in England has responded to claims from Spain that Arsenal are selling Martin Zubimendi to Real Madrid in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-reach-decision-selling-martin-zubimendi-real-madrid-january",
+      "publishedAt": "2026-09-17T13:16:07.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "eb5b5dd4fe22cd",
+      "title": "‘Get on the bus’ – Keane rips into Foden for taunting Man Utd fans in car park",
+      "summary": "Roy Keane has reacted furiously to Phil Foden taunting Manchester United fans outside Old Trafford following his red card in the Manchester derby.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/keane-rips-foden-taunting-man-utd-fans-car-park",
+      "publishedAt": "2026-09-17T13:10:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "019da77485cbef",
+      "title": "Liverpool now trying to convince record-breaking Brazilian right-winger to join after contact",
+      "summary": "Liverpool are in contact with the agents of a Brazilian gem and want him to ditch talks with his club and move to Anfield.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-liverpool-estevao-willian-contact-final-decision-reached",
+      "publishedAt": "2026-09-17T12:49:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f2b1436b1eb098",
+      "title": "Man Utd ‘weak, flim-flam, charity shop’ summer leaves Carrick ‘irrelevant’",
+      "summary": "The Manchester United fall-out continues with many fans suggesting that Michael Carrick is actually not the problem.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-weak-flim-flam-charity-shop-summer-mailbox",
+      "publishedAt": "2026-09-17T12:18:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8da22fb905c50a",
+      "title": "Man Utd should have one Premier League manager in mind to replace Michael Carrick",
+      "summary": "A manager with a clear football vision, Premier League pedigree and a proven track record of revitalising broken, mismanaged clubs. It all points to one man.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-man-utd-one-manager-replace-michal-carrick",
+      "publishedAt": "2026-09-17T12:06:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "652e49e993b341",
+      "title": "How to follow the Premier League on the BBC this weekend",
+      "summary": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T11:47:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "504210c6e0213f",
+      "title": "Jurgen Klopp sends Florian Wirtz message to Liverpool as Bayern Munich reach decision on signing him",
+      "summary": "Jurgen Klopp has given his verdict on Liverpool and Germany international attacking midfielder Florian Wirtz, amid interest from Bayern Munich.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/florian-wirtz-liverpool-jurgen-klopp-bayern-munich",
+      "publishedAt": "2026-09-17T11:30:51.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Liverpool",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fc707c427a56b0",
+      "title": "Jamie Carragher picks side in Man Utd vs JJ Gabriel ‘next superstar’ war",
+      "summary": "Former Liverpool star Jamie Carragher gives his verdict on the situation involving Manchester United and JJ Gabriel.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-jj-gabriel-jamie-carragher",
+      "publishedAt": "2026-09-17T11:29:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
       "id": "40e4522563a99c",
       "title": "Bournemouth guru in Liverpool sights as FSG consider eight Richard Hughes replacements",
-      "summary": "Hughes’ eventual move to Saudi Pro League outfit Al-Hilal was not something Liverpool ended up being caught off guard by, with FSG aware for some time that he intended...",
+      "summary": "Hughes’ eventual move to Saudi Pro League outfit Al-Hilal was not something Liverpool ended up being caught off guard by.",
       "source": "Football365",
       "url": "https://www.football365.com/news/bournemouth-guru-liverpool-sights-fsg-consider-eight-richard-hughes-replacements",
       "publishedAt": "2026-09-17T11:13:49.000Z",
@@ -202,6 +538,22 @@
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "5690bc182d47bc",
+      "title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
+      "summary": "Barcelona and Bayern among other admirers United hope they convince 15-year-old to stay Real Madrid are leading the race to sign the Manchester United teenager JJ Gabri...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
+      "publishedAt": "2026-09-17T11:02:18.000Z",
+      "category": "transfer",
+      "region": "england spain italy germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Barcelona"
       ]
     },
     {
@@ -242,344 +594,6 @@
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "fb78e8a0d2be8d",
-      "title": "Fabrizio Romano names club ‘most likely’ to sign JJ Gabriel from Man Utd",
-      "summary": "Fabrizio Romano has named which club are the favourites to sign Manchester United wonderkid, JJ Gabriel.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-names-club-most-likely-sign-jj-gabriel-man-utd",
-      "publishedAt": "2026-09-17T10:04:14.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fd17631b3e893c",
-      "title": "Boehly was the face of the Chelsea demise, but sole owner Eghbali equally to blame",
-      "summary": "Are Chelsea better off with one incompetent leader or two? There will be few tears for Boehly’s exit, but Eghbali remains as a man who’s made some terrible decisions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-boehly-face-chelsea-demise-eghbal-equally-blame",
-      "publishedAt": "2026-09-17T09:53:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0ffefdc594c4ea",
-      "title": "Roy Keane tells Man Utd ‘take your medicine’ over JJ Gabriel",
-      "summary": "Manchester United legend Roy Keane has given his verdict on the prospect of the Red Devils losing JJ Gabriel.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/roy-keane-jj-gabriel-manchester-united-verdict",
-      "publishedAt": "2026-09-17T09:36:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "65742ddf5c3ca1",
-      "title": "Fabrizio Romano reveals Rodrygo decision on joining Arsenal from Real Madrid in January – ‘I can guarantee’",
-      "summary": "Fabrizio Romano reports whether Rodrygo has any interest in a move to Arsenal from Real Madrid in the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rodrygo-real-madrid-arsenal-fabrizio-romano-january-transfer",
-      "publishedAt": "2026-09-17T09:34:50.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2b1bdde989aec0",
-      "title": "Top 10 available managers: Conte, Howe, Nagelsmann on strong list",
-      "summary": "At least three of these managers might see the mess at Manchester United as an opportunity to get back to work…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-10-available-football-managers-coaches",
-      "publishedAt": "2026-09-17T09:20:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "59201fa2644125",
-      "title": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
-      "summary": "Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect start to the La Liga season, with the defending champions top of the...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T09:08:49.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "bec0e54f3c3dad",
-      "title": "Mbappe says he 'stands with Ceuta' after T-shirt row",
-      "summary": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T08:50:09.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "95bf0fe55b5f9e",
-      "title": "Fabrizio Romano reveals Man Utd ‘conversation’ with JJ Gabriel imminent as Sir Jim Ratcliffe gets involved",
-      "summary": "Fabrizio Romano reveals whether Manchester United co-owner Sir Jim Ratcliffe wants to keep JJ Gabriel.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-jj-gabriel-manchester-united-real-madrid-update",
-      "publishedAt": "2026-09-17T08:35:47.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Michael Carrick jumps to second favourite after Carabao calamity",
-      "summary": "Michael Carrick is heading for top spot in one table at least. Alas, it’s the Premier League Sack Race table. Which is a bad table.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-09-17T08:35:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "ee5090a1f73a6a",
-      "title": "Ten players who f***ed their Carabao chance, including Arsenal polar bear and Man Utd flops",
-      "summary": "Viktor Gyokeres has no place in this Arsenal team, while a £100million-plus pair looked anything but for Manchester United…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/six-players-messed-carabao-chance-arsenal",
-      "publishedAt": "2026-09-17T08:30:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b719e525f8c2e2",
-      "title": "Premier League Mood Rankings: Man Utd fall 11 places as Yorkshire celebrates",
-      "summary": "Somehow, even though it’s impossible to imagine a worse team than them, Spurs aren’t bottom of the actual league table. They are in this one.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spurs-bottom-table-hull-top-leeds-high-premier-league-mood-rankings",
-      "publishedAt": "2026-09-17T08:15:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "09e3b3b7b353ca",
-      "title": "Brentford v Chelsea: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Brentford and Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/brentford-v-chelsea-prediction-preview",
-      "publishedAt": "2026-09-17T08:14:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "e437c8a036f25a",
-      "title": "Chelsea's Lavia out to 'change narrative' after injuries",
-      "summary": "Chelsea midfielder Romeo Lavia says he is finally reaping the rewards of his hard work and is determined to \"change the narrative\" around him.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvlr92eyldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T07:53:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "b0d6ea2d2c3287",
-      "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-      "summary": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T07:52:32.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "34aabdf5747d0d",
-      "title": "Next Man Utd manager: Antonio Conte odds slashed but Howe still favourite",
-      "summary": "Manchester United have picked up only four points from their first four games of the Premier League season. Who could replace Michael Carrick?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
-      "publishedAt": "2026-09-17T07:35:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c933bb46d254d3",
-      "title": "Man Utd reach decision on sacking Michael Carrick as manager after Brighton humiliation",
-      "summary": "Manchester United have made up their mind on sacking Michael Carrick after the defeat to Brighton and Hove Albion.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-sack-manchester-united-decision-reached-brighton-defeat",
-      "publishedAt": "2026-09-17T07:12:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5c70e8ab2bb33a",
-      "title": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
-      "summary": "Club legend Steve Fletcher reflects on the wild rise over two decades to playing Real Sociedad in the Europa League It is 13 years since Bournemouth, a couple of months...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey",
-      "publishedAt": "2026-09-17T07:00:43.000Z",
-      "category": "issue",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Europa League",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "26e670c7104602",
-      "title": "Raheem Sterling’s bleak tale a reminder of absurd path young footballers face | Jonathan Liew",
-      "summary": "Winger was one of the first big-money academy transfers, part of a child labour market that has barely been questioned “What’s your name?” “Raheem.” Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/raheem-sterling-bleak-tale-reminder-absurd-path-young-footballers-face",
-      "publishedAt": "2026-09-17T07:00:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "0c1c37a96d660a",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yl2jgz23jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T06:22:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "2b29b6b8f0e920",
-      "title": "Snubbed Chelsea star is best player in Premier League right now",
-      "summary": "Joao Pedro is a man on a mission after being snubbed by Brazil – the Chelsea striker is top of 1855 players in Europe’s big leagues…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/joao-pedro-best-player-premier-league-europe-top-five-leagues-so-far",
-      "publishedAt": "2026-09-17T06:11:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "ab9a32e642d06d",
-      "title": "Bournemouth join the European club after 18 other Premier League debuts",
-      "summary": "Bournemouth leave Brentford as the only current Premier League club that haven’t played in a continental competition. How did the other debuts go?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bournemouth-european-club-debuts",
-      "publishedAt": "2026-09-17T06:09:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Raphinha is hunting down Harry Kane",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-09-17T06:00:59.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "dfb42bb71e87c4",
-      "title": "Gary Neville reacts to JJ Gabriel Man Utd controversy as Michael Carrick reveals ‘conversations’",
-      "summary": "Gary Neville and Michael Carrick shared their opinion on JJ Gabriel’s desire to leave Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jj-gabriel-manchester-united-gary-neville",
-      "publishedAt": "2026-09-17T05:53:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fdfb7f56517e9a",
-      "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
-      "summary": "Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T05:23:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1c248eb67c62f3",
-      "title": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
-      "summary": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T23:31:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
