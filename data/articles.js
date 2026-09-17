@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-17T16:36:07.838Z",
+  "generatedAt": "2026-09-17T21:07:40.478Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,29 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "fb2919062dd28a",
-      "title": "Carrick, INEOS, defence... what is behind Man Utd's latest problems?",
-      "summary": "Manchester United's collapse against Brighton has intensified the scrutiny on Michael Carrick - but the problems at Old Trafford run deeper than the head coach.",
+      "id": "8f12b6e34f91f9",
+      "title": "Scorecard: England vs Sri Lanka, second T20, Cardiff",
+      "summary": "Latest score from the second T20 international between England and Sri Lanka at Sophia Gardens in Cardiff. Watch live on Sky Sports Cricket.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588890/manchester-united-whats-to-blame-for-increasing-scrutiny-on-michael-carrick-after-carabao-cup-exit",
-      "publishedAt": "2026-09-17T16:36:07.731Z",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/89baaf58-e8b0-59a7-a9ff-37105b47a42e",
+      "publishedAt": "2026-09-17T21:07:40.157Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2bd8bdffe103d8",
-      "title": "'Man City are not champions' - Why Greenwood's claim should scare rivals",
-      "summary": "Manchester City have set their stall out scarily early. Captain Alex Greenwood did so in pre-season. \"A true champion is someone who goes and wins again. A winner might...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13579874/man-city-vs-liverpool-why-graduating-from-wsl-winner-to-champion-is-so-important-to-alex-greenwood",
-      "publishedAt": "2026-09-17T16:36:07.731Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
+        "Inter"
       ]
     },
     {
@@ -130,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Xabi Alonso says Chelsea were in need of \"an update\" rather than a full reset when he was appointed manager this summer.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589015/xabi-alonso-chelsea-manager-says-blues-needed-an-update-rather-than-a-reset-when-he-took-over-at-stamford-bridge",
-      "publishedAt": "2026-09-17T16:36:07.730Z",
+      "publishedAt": "2026-09-17T21:07:40.157Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -138,44 +125,29 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "4971802e1e73b5",
-      "title": "45 players! Klopp picks TWO separate Germany squads for international break",
-      "summary": "45 players! Klopp picks TWO separate Germany squads for international break",
+      "id": "6445da5c58669d",
+      "title": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
+      "summary": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "publishedAt": "2026-09-17T16:36:07.730Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "43fb824df93344",
-      "title": "Tuchel must win back trust ahead of pivotal England camp",
-      "summary": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit",
-      "publishedAt": "2026-09-17T16:36:07.730Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Havertz granted rest time during international break",
-      "summary": "Arsenal latest: Havertz granted rest time during international break",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-17T16:36:07.730Z",
+      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
+      "publishedAt": "2026-09-17T21:07:40.156Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Arsenal",
-        "Inter"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fa413f62c0199c",
+      "title": "Europa League: Palace cruise to victory, Bournemouth win, Celtic lose LIVE!",
+      "summary": "Europa League: Palace cruise to victory, Bournemouth win, Celtic lose LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
+      "publishedAt": "2026-09-17T21:07:40.156Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
       ]
     },
     {
@@ -184,7 +156,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
-      "publishedAt": "2026-09-17T16:36:07.729Z",
+      "publishedAt": "2026-09-17T21:07:40.156Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -193,12 +165,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "560210a625b249",
+      "title": "Samba show! Chris celebrates as son Floyd scores twice for Man City!",
+      "summary": "Floyd Samba, son of former Premier League defender Chris, scores Man City double on his debut against Norwich in Carabao Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589100/floyd-samba-scores-man-city-opener-on-his-debut-against-norwich",
+      "publishedAt": "2026-09-17T21:07:40.156Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
       "id": "d3679e19139521",
       "title": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
       "summary": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
-      "publishedAt": "2026-09-17T16:36:07.729Z",
+      "publishedAt": "2026-09-17T21:07:40.156Z",
       "category": "transfer",
       "region": "england spain italy germany",
       "tags": [
@@ -206,6 +191,219 @@ window.FOOTBALLDAY_DATA = {
         "Manchester",
         "Barcelona",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "ab9cdef212c639",
+      "title": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
+      "summary": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott TNT’s Connie McLaughlin asks Celtic boss Martin O’Neill to “t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
+      "publishedAt": "2026-09-17T20:49:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Europa League"
+      ]
+    },
+    {
+      "id": "f8c18d49a7ed02",
+      "title": "Junior Kroupi on Arsenal radar - Friday's gossip",
+      "summary": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T20:41:05.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "f89d3006eee523",
+      "title": "Palmer set for England call-up with two uncapped stars as Tuchel considers five exciting talents",
+      "summary": "According to reports, Chelsea star Cole Palmer is ‘set’ to be part of England’s squad for this international break with two uncapped players.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/palmer-set-england-call-up-two-uncapped-stars-tuchel-considers-five-exciting-talents",
+      "publishedAt": "2026-09-17T20:37:34.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "755cee44bfc6b3",
+      "title": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
+      "summary": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while as it featured a superb goal in each half that ensured Manchester City adva...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
+      "publishedAt": "2026-09-17T20:33:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "253174d6db0aa1",
+      "title": "Chicago Stars make a splash as Vlatko Andonovski joins as chief soccer officer",
+      "summary": "Former USWNT head coach will start role immediately Andonovski has won two NWSL championships Former Kansas City Current sporting director Vlatko Andonovski is already...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/vlatko-andonovski-chicago-stars-kc-current-hire",
+      "publishedAt": "2026-09-17T20:29:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "927e5f4a431ca5",
+      "title": "Liverpool join race to sign Man Utd target with real possibility of Lamine Camara transfer happening",
+      "summary": "According to reports, Liverpool are in the race to sign Crystal Palace star Tyrick Mitchell, while there is an update on Lamine Camara.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-join-race-sign-man-utd-target-real-possibility-lamine-camara-transfer",
+      "publishedAt": "2026-09-17T20:07:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1a11a174f9ab71",
+      "title": "Arsenal complete new signing as major arrival in January window could be next",
+      "summary": "Arsenal have confirmed the signing of another youngster, while they could make a ‘major January signing’ with a new forward on their radar.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-complete-new-signing-major-arrival-january-window",
+      "publishedAt": "2026-09-17T19:25:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2dae9a15f03c40",
+      "title": "Tottenham v Aston Villa: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Tottenham and Aston Villa.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/tottenham-v-aston-villa-prediction-preview",
+      "publishedAt": "2026-09-17T19:02:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5aa7ac9756624b",
+      "title": "Tuchel considers England recall for Cole Palmer in Nations League squad",
+      "summary": "Chelsea forward back in form after World Cup snub Alex Scott and Morgan Gibbs-White also in contention Thomas Tuchel is considering an England recall for Cole Palmer an...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchel-england-cole-palmer-nations-league-alex-scott-morgan-gibbs-white",
+      "publishedAt": "2026-09-17T18:05:49.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "fa368929f18043",
+      "title": "Outcome of JJ Gabriel saga ‘clear’ as Man Utd to lose ‘£100m’ star with Euro giants ‘well positioned’",
+      "summary": "There is a ‘clear’ outcome to the JJ Gabriel saga after he requested to leave Premier League giants Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/outcome-jj-gabriel-saga-clear-man-utd-lose-100m-star-euro-giants-well-positioned",
+      "publishedAt": "2026-09-17T18:05:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e2267c08744b3e",
+      "title": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "summary": "Letter sent before Fifa council meeting on 15 October Infantino under pressure before presidential election The Football Association’s chair, Debbie Hewitt, has written...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan",
+      "publishedAt": "2026-09-17T18:00:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "2bb139a93f029f",
+      "title": "Man Utd tipped to sack Michael Carrick next month on one condition – ‘for sure’",
+      "summary": "Manchester United have been tipped to part ways with current head coach Michael Carrick next month on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-tipped-to-sack-michael-carrick-next-month-on-one-condition-for-sure",
+      "publishedAt": "2026-09-17T17:34:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3e89e72b7f715b",
+      "title": "Two years and one World Cup down, Mauricio Pochettino is still assessing",
+      "summary": "The US manager’s first squad of the 2030 World Cup cycle leans heavily on youth, injecting intrigue into the four-game window. Sign up for our free newsletter here In t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids",
+      "publishedAt": "2026-09-17T17:15:54.000Z",
+      "category": "transfer",
+      "region": "france",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Psg"
+      ]
+    },
+    {
+      "id": "dd3fa68a15c360",
+      "title": "The big questions for Tuchel's first England squad since World Cup",
+      "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T16:47:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "34337551fc2237",
+      "title": "Midfielder’s Liverpool career over with FSG to sell him in January – ‘Iraola clearly doesn’t fancy him’",
+      "summary": "According to reports, Liverpool star Wataru Endo ‘appears likely’ to leave the Premier League giants in the upcoming winter transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/midfielder-liverpool-career-over-fsg-sell-january-iraola-doesnt-fancy-him",
+      "publishedAt": "2026-09-17T16:43:29.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Liverpool",
+        "Inter"
       ]
     },
     {
@@ -403,197 +601,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Manchester"
-      ]
-    },
-    {
-      "id": "4911516624e6f5",
-      "title": "Arsenal reach decision on selling Martin Zubimendi to Real Madrid in January",
-      "summary": "A report in England has responded to claims from Spain that Arsenal are selling Martin Zubimendi to Real Madrid in January.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-reach-decision-selling-martin-zubimendi-real-madrid-january",
-      "publishedAt": "2026-09-17T13:16:07.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "eb5b5dd4fe22cd",
-      "title": "‘Get on the bus’ – Keane rips into Foden for taunting Man Utd fans in car park",
-      "summary": "Roy Keane has reacted furiously to Phil Foden taunting Manchester United fans outside Old Trafford following his red card in the Manchester derby.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/keane-rips-foden-taunting-man-utd-fans-car-park",
-      "publishedAt": "2026-09-17T13:10:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "019da77485cbef",
-      "title": "Liverpool now trying to convince record-breaking Brazilian right-winger to join after contact",
-      "summary": "Liverpool are in contact with the agents of a Brazilian gem and want him to ditch talks with his club and move to Anfield.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-liverpool-estevao-willian-contact-final-decision-reached",
-      "publishedAt": "2026-09-17T12:49:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f2b1436b1eb098",
-      "title": "Man Utd ‘weak, flim-flam, charity shop’ summer leaves Carrick ‘irrelevant’",
-      "summary": "The Manchester United fall-out continues with many fans suggesting that Michael Carrick is actually not the problem.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-weak-flim-flam-charity-shop-summer-mailbox",
-      "publishedAt": "2026-09-17T12:18:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8da22fb905c50a",
-      "title": "Man Utd should have one Premier League manager in mind to replace Michael Carrick",
-      "summary": "A manager with a clear football vision, Premier League pedigree and a proven track record of revitalising broken, mismanaged clubs. It all points to one man.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-man-utd-one-manager-replace-michal-carrick",
-      "publishedAt": "2026-09-17T12:06:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "652e49e993b341",
-      "title": "How to follow the Premier League on the BBC this weekend",
-      "summary": "Our Ask Me Anything team explains how to follow matches from week five of the Premier League season on the BBC this weekend.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T11:47:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "504210c6e0213f",
-      "title": "Jurgen Klopp sends Florian Wirtz message to Liverpool as Bayern Munich reach decision on signing him",
-      "summary": "Jurgen Klopp has given his verdict on Liverpool and Germany international attacking midfielder Florian Wirtz, amid interest from Bayern Munich.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/florian-wirtz-liverpool-jurgen-klopp-bayern-munich",
-      "publishedAt": "2026-09-17T11:30:51.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Liverpool",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "fc707c427a56b0",
-      "title": "Jamie Carragher picks side in Man Utd vs JJ Gabriel ‘next superstar’ war",
-      "summary": "Former Liverpool star Jamie Carragher gives his verdict on the situation involving Manchester United and JJ Gabriel.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-jj-gabriel-jamie-carragher",
-      "publishedAt": "2026-09-17T11:29:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "40e4522563a99c",
-      "title": "Bournemouth guru in Liverpool sights as FSG consider eight Richard Hughes replacements",
-      "summary": "Hughes’ eventual move to Saudi Pro League outfit Al-Hilal was not something Liverpool ended up being caught off guard by.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bournemouth-guru-liverpool-sights-fsg-consider-eight-richard-hughes-replacements",
-      "publishedAt": "2026-09-17T11:13:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b4e8dd1887b94f",
-      "title": "Michael Carrick ‘points the blame’ for crisis club Man Utd ‘Chuckle Brothers’ impersonation",
-      "summary": "Michael Carrick has identified the person to blame for Manchester United’s latest catastrophe. You’ll never guess who it is.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-united-carrick-points-blame-carabao-cup-chuckle-brothers-mediawatch",
-      "publishedAt": "2026-09-17T11:12:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5690bc182d47bc",
-      "title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
-      "summary": "Barcelona and Bayern among other admirers United hope they convince 15-year-old to stay Real Madrid are leading the race to sign the Manchester United teenager JJ Gabri...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
-      "publishedAt": "2026-09-17T11:02:18.000Z",
-      "category": "transfer",
-      "region": "england spain italy germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "3aac3e61a22f32",
-      "title": "Ten players who took their Carabao chance, including Baby Rodri, Liverpool and Man Utd teens",
-      "summary": "Trey Nyoni offered enough proof that he can be a starting solution soon for Liverpool, while Shea Lacey had his big night ruined…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/six-players-took-carabao-chance-liverpool-teenage-starter",
-      "publishedAt": "2026-09-17T10:55:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3b55d357bcb449",
-      "title": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "summary": "Comments follow far-right election win in Saxony-Anhalt ‘I’d like to reclaim the flag for myself and for us,’ he says Jürgen Klopp has said Germany’s football team can...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd",
-      "publishedAt": "2026-09-17T10:42:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "154f64f08a84bd",
-      "title": "Todd Boehly’s 24 Chelsea mistakes ranked from All-Stars to Tuchel",
-      "summary": "Todd Boehly rode in as Chelsea’s white knight in May 2022 and has now left after four turbulent years at Stamford Bridge. Here are his numerous, wide-ranging mistakes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/feature-todd-boehly-chelsea-mistaes-ranked-all-stars-tuchel",
-      "publishedAt": "2026-09-17T10:33:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
