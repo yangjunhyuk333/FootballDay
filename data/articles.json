@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:07:49.990Z",
+  "generatedAt": "2026-09-18T20:40:07.329Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,55 +99,100 @@
       "pinned": true
     },
     {
-      "id": "244e5e96f8eef1",
-      "title": "Carrick dismisses 'ridiculous' speculation on future",
-      "summary": "Michael Carrick insists Manchester United's recent struggles are \"not a catastrophe or a disaster\" and dismissed talk of pressure on his position as \"ridiculous\".",
+      "id": "aa6fc501917bfe",
+      "title": "Anthony heads Brentford in front against Chelsea",
+      "summary": "Jaidon Anthony heads Brentford in front against Chelsea.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future",
-      "publishedAt": "2026-09-18T16:07:49.987Z",
+      "url": "https://www.skysports.com/watch/video/13589497/jaidon-anthony-heads-brentford-in-front-against-chelsea",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0549bdfc7f5798",
+      "title": "Man City complete impressive comeback win to maintain perfect start",
+      "summary": "Highlights of Manchester City against Liverpool in the WSL.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589490/manchester-city-4-2-liverpool-wsl-highlights",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "a9a56a4feea5d6",
-      "title": "Will Carrick navigate choppy waters to steer Man Utd ship back on course?",
-      "summary": "Manchester United's Carabao Cup second-round loss at Grimsby last season was a result that many will remember.",
+      "id": "6b464d19cee53a",
+      "title": "Hemp double ensures Man City maintain winning start to WSL title defence",
+      "summary": "Lauren Hemp bookended a 4-2 victory for Manchester City against Liverpool as the WSL champions maintained a winning start to their title defence.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats",
-      "publishedAt": "2026-09-18T16:07:49.987Z",
+      "url": "https://www.skysports.com/football/manchester-city-women-vs-liverpool-women/report/575769",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "4bbec2774a724c",
-      "title": "Tuchel: 99.9 per cent of fans I meet don't ask me about Argentina subs",
-      "summary": "Thomas Tuchel says \"99.9 per cent\" of England fans do not talk about substitutions or tactical decisions when reflecting on their World Cup experience.",
+      "id": "66feae3aeb4fff",
+      "title": "'What a disaster' - Frisk own goal and Hemp strike seal comeback win",
+      "summary": "Grace Fisk scored a late own goal and Lauren Hemp struck in the 95th minute as Manchester City completed the comeback win against Liverpool in the WSL.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589252/thomas-tuchel-england-fans-dont-ask-me-about-my-substitutions-against-argentina-in-the-world-cup-semi-final",
-      "publishedAt": "2026-09-18T16:07:49.987Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c90cad21720521",
-      "title": "Fiercest rivalry in football? Millwall and West Ham face off after 14-year wait",
-      "summary": "One of football's fiercest rivalries is back.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588943/millwall-vs-west-ham-london-rivalry-returns-after-14-year-wait-with-big-championship-showdown-at-the-den",
-      "publishedAt": "2026-09-18T16:07:49.987Z",
+      "url": "https://www.skysports.com/watch/video/13589482/wsl-grace-frisk-own-goal-and-lauren-hemp-strike-seal-comeback-win",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "26487563bbd029",
+      "title": "Shaw capitalises on Keating error to equalise for Man City",
+      "summary": "Bunny Shaw capitalised on Khiara Keating's calamitous mistake as Manchester City equalised against Liverpool late in the first half.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589445/wsl-bunny-shaw-capitalises-on-khiara-keating-error-to-equalise-for-manchester-city",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "700c707bc11c68",
+      "title": "Bergstrom and Endemann on target as Liverpool come from behind to lead Man City",
+      "summary": "Alice Bergstrom and Vivien Endemann both scored as Liverpool came from 1-0 down to lead Manchester City after 29 minutes.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589441/wsl-alice-bergstrom-and-vivien-endemann-on-target-as-liverpool-come-from-behind-to-lead-manchester-city",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a2c4d29dbdf04f",
+      "title": "Hemp scores first goal since November as Man City take lead!",
+      "summary": "Lauren Hemp scored her first goal since November as Manchester City took the lead early against Liverpool in the WSL.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589437/wsl-lauren-hemp-scores-first-goal-since-november-as-manchester-city-take-lead",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
@@ -156,7 +201,7 @@
       "summary": "Liverpool latest: Iraola 'very happy' with Wirtz contribution",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-18T16:07:49.986Z",
+      "publishedAt": "2026-09-18T20:40:07.148Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -164,16 +209,228 @@
       ]
     },
     {
-      "id": "262e3bde6d5584",
-      "title": "'Tuchel's learned from World Cup mistakes' - Tuchel's England squad EXPLAINED",
-      "summary": "Sky Sports chief correspondent Kaveh Solhekol is at Wembley with the latest on Thomas Tuchel's England squad.",
+      "id": "4758a435d859f6",
+      "title": "Brentford break deadlock against Chelsea LIVE!",
+      "summary": "Brentford break deadlock against Chelsea LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589218/england-squad-whos-in-and-whos-out",
-      "publishedAt": "2026-09-18T16:07:49.986Z",
+      "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
+      "publishedAt": "2026-09-18T20:40:07.147Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "7c82db353102de",
+      "title": "Gabriel edging closer to Man Utd exit as Barca and Real talks advance",
+      "summary": "Barcelona and Real Madrid are in transfer talks to sign Manchester United youngster JJ Gabriel.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
+      "publishedAt": "2026-09-18T20:40:07.147Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c0671604cf31cb",
+      "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
+      "summary": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in J...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T20:35:52.000Z",
+      "category": "league",
+      "region": "england france",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9137c971d0dbf7",
+      "title": "Brentford v Chelsea: Premier League – live",
+      "summary": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott 2 min: Schade advances menacingly down the left, chasing a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
+      "publishedAt": "2026-09-18T20:24:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "92c54124890af5",
+      "title": "Women’s Super League: Lauren Hemp hits double as Manchester City see off lively Liverpool",
+      "summary": "Manchester City continued their winning start to the new Women’s Super League season but the defending champions needed a 90th-minute own goal from Grace Fisk to help t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league",
+      "publishedAt": "2026-09-18T20:10:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "80731b273aae79",
+      "title": "Nottingham Forest v Coventry City: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Nottingham Forest and Coventry City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/nottingham-forest-v-coventry-city-prediction-preview",
+      "publishedAt": "2026-09-18T19:05:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2f50eb1f641928",
+      "title": "Henderson deserves Brentford boos on Chelsea debut after last day Liverpool nonsense",
+      "summary": "Brentford fans appreciated Henderson while he played but weren’t sad to see him go after his selfish final act.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-henderson-hostile-brentford-chelsea-debut-last-day-liverpool-nonsense",
+      "publishedAt": "2026-09-18T18:50:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a8a0d7d33036d7",
+      "title": "Trent Alexander-Arnold recalled by England but with a warning from Thomas Tuchel",
+      "summary": "Real Madrid player must help improve defensive solidity Scott, Hall, Lewis-Skelly and Calvert-Lewin selected Thomas Tuchel has told Trent Alexander-Arnold he must bring...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-returns-england-squad-cole-palmer-rio-ngumoha-alex-scott-thomas-tuchel",
+      "publishedAt": "2026-09-18T18:08:19.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "10e44bf5315a43",
+      "title": "Football Daily",
+      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball catch up on life as football commentators.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032gcn?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:50:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c148c8518a638f",
+      "title": "Former Man Utd left-back Malacia joins FC Cincinnati",
+      "summary": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:39:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1fb4e3e6ac659e",
+      "title": "Man Utd get clear JJ Gabriel response over U-turn on Old Trafford stay",
+      "summary": "Manchester United have got the clearest indication yet of whether JJ Gabriel plans to stay at the club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-manchester-united-u-turn-response",
+      "publishedAt": "2026-09-18T17:33:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4ddd29e9b6770d",
+      "title": "Uefa and Concacaf ask Gianni Infantino to give Fifa’s billions to its member associations",
+      "summary": "Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa Council The presidents of Uefa and Concacaf have written to Gianni Infan...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations",
+      "publishedAt": "2026-09-18T17:33:40.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "3ae6dbc3c2b7f8",
+      "title": "Senegal job an 'absolute dream' for new boss Vieira",
+      "summary": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:01:59.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ed1115aff6e8a7",
+      "title": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
+      "summary": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Lu...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
+      "publishedAt": "2026-09-18T16:59:40.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "141c64b9052ce4",
+      "title": "What are the key questions in Saturday's Scottish Premiership?",
+      "summary": "What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9e4xg31j0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T16:40:30.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac6c33a542fa67",
+      "title": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
+      "summary": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T16:40:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
       ]
     },
     {
@@ -182,12 +439,39 @@
       "summary": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T16:06:10.000Z",
+      "publishedAt": "2026-09-18T16:26:56.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Fifa",
         "Uefa"
+      ]
+    },
+    {
+      "id": "0ab0c9ad1b3f82",
+      "title": "Jason Wilcox and Man Utd board member at loggerheads over sacking Michael Carrick",
+      "summary": "Manchester United director of football, Jason Wilcox, and another board member are in disagreement over the future of Michael Carrick as manager.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mark-goldbridge-michael-carrick-jason-wilcox-manchester-united-manager-sack-decision-reached",
+      "publishedAt": "2026-09-18T16:12:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "60621e1fce58a3",
+      "title": "Premier League action, Celtic v Rangers, T20 cricket and NFL – follow with us",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us",
+      "publishedAt": "2026-09-18T16:05:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -206,7 +490,7 @@
     {
       "id": "fd662f3025ddf7",
       "title": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-      "summary": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As Tuchel...",
+      "summary": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he unve...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
       "publishedAt": "2026-09-18T15:43:17.000Z",
@@ -311,280 +595,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "a7abee7d230fb6",
-      "title": "How Iraola is moving Liverpool on from the Slot era",
-      "summary": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T13:20:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d591718c5329a9",
-      "title": "Premier League Power Rankings: Haaland the boss but Raya, Odegaard, Rice impressing",
-      "summary": "Our Premier League Power Rankings return for 2026/27 and the early leader is Man City superstar Erling Haaland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-power-rankings-2026-27-haaland",
-      "publishedAt": "2026-09-18T13:11:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "0b1c15e610cd1c",
-      "title": "JJ Gabriel: Chelsea update given as Man Utd starlet holds talks with two other clubs",
-      "summary": "Chelsea are still ‘leading the chase’ to sign Man Utd starlet JJ Gabriel out of the Premier League clubs, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-jj-gabriel-chelsea-update-talks-real-madrid-barcelona",
-      "publishedAt": "2026-09-18T12:45:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "1a6b33c760a359",
-      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
-      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
-      "publishedAt": "2026-09-18T12:01:46.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "feb1795b4cdeef",
-      "title": "Man City top scorers against the Big Six: Haaland surpasses club legend",
-      "summary": "Erling Haaland has pipped Kevin de Bruyne for Manchester City Premier League goals against the Big Six, with an obvious leader in front.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-city-top-scorers-games-premier-league-big-six-aguero-haaland",
-      "publishedAt": "2026-09-18T11:52:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3b72f41e1c4ffd",
-      "title": "Manchester United top scorers against Big Six: Mbeumo already second in current squad",
-      "summary": "Bruno Fernandes is behind just two players for Premier League goals against the Big Six for Manchester United, and should get enough penalties to catch them.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-top-scorers-games-premier-league-big-six-rooney-rashford",
-      "publishedAt": "2026-09-18T11:49:48.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f3b57709d8eeec",
-      "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-      "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:49:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "35e5106052f8ef",
-      "title": "Arsenal want ‘consistent’ Premier League star in January with Gunners ‘not as strong as last year’",
-      "summary": "Brentford striker Kevin Schade has emerged as a ‘name to monitor’ as Arsenal look to improve their attack in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-schade-brentford-transfer",
-      "publishedAt": "2026-09-18T11:14:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b5dfa74904ff18",
-      "title": "Premier League the goal in Just's unlikely journey",
-      "summary": "Having lived out one dream already this year, Swansea City's New Zealand star Elijah Just hopes his unusual journey will lead all the way to the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6grvzxqwwrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:04:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "861e5a4285d517",
-      "title": "Dowman ‘should’ have been in England squad – but Chelsea outcast is ‘arguably the most frustrated’",
-      "summary": "Max Dowman is a literal child who has played one game for Arsenal this season – against Ipswich’s reserves – so he should be in the England squad.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/dowman-should-have-been-in-england-squad-chelsea-snub",
-      "publishedAt": "2026-09-18T11:00:27.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "14422518cf8c44",
-      "title": "England squad: TAA, Palmer and DCL recalled in nine additions after World Cup snubs",
-      "summary": "England head coach Thomas Tuchel has recalled Trent Alexander-Arnold, Cole Palmer and Dominic Calvert-Lewin ahead of the upcoming international fixtures.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/england-squad-alexander-arnold-palmer-calvert-lewin",
-      "publishedAt": "2026-09-18T10:28:16.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "00998540743671",
-      "title": "Tottenham told they’d be in ‘a three-horse race’ with Real Madrid, Barcelona for La Liga title",
-      "summary": "Tottenham would be in “a three-horse race” for the La Liga title with Real Madrid and Barcelona if they played in Spain, says Jamie O’Hara.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-three-horse-race-barcelona-real-madrid-la-liga-o-hara",
-      "publishedAt": "2026-09-18T10:15:35.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "La Liga",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "6e144b2d5037c4",
-      "title": "Liverpool reporter reveals all on FSG trying to sign £130m winger in 2027",
-      "summary": "A trusted source on all things Liverpool has given his verdict on Liverpool signing a £130m-rated Premier League winger.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-reporter-reveals-all-fsg-signing-130m-winger-rayan-2027",
-      "publishedAt": "2026-09-18T09:47:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "015ab9d5d328a6",
-      "title": "Journalist confirms Tottenham are ‘there’ for 250-goal striker on free transfer",
-      "summary": "An Italian journalist has confirmed that Tottenham are interested in signing Mauro Icardi on a free transfer to help Roberto De Zerbi.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-journalist-confirms-icardi-interest-de-zerbi-help",
-      "publishedAt": "2026-09-18T09:19:12.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c29bf976adfca6",
-      "title": "Arsenal, Barcelona given fresh hope over stunning Julian Alvarez swoop as major twist brewing",
-      "summary": "The two European heavweights were the main protagonists in the chase for the 26-year-old over the summer, and now a fresh twist on the horizon could lead to more drama...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-barcelona-fresh-hope-signing-julian-alvarez-fresh-twist-brewing",
-      "publishedAt": "2026-09-18T09:08:15.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "09b78260634f3c",
-      "title": "Who am I? Guess Bundesliga star No 4",
-      "summary": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p807l5zmy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T08:55:29.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "f844c711f09011",
-      "title": "Criticism 'normal' after poor start - Man Utd's Olid",
-      "summary": "Manchester United manager Eva Olid says it is \"normal\" to expect \"constructive criticism\" following their poor start to the WSL campaign.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6158xyqd7d0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T08:42:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "83a0cb45d1613b",
-      "title": "‘I never saw that coming’ – Huge Liverpool transfer ‘shocked’ player’s team-mates",
-      "summary": "Livepool spending big money on Genk goalkeeper Lucca Brughmans “shocked” his team-mates and the staff at the Belgian club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-lucca-brughmans-transfer-shocked-team-mates",
-      "publishedAt": "2026-09-18T08:37:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "bc842a2a6fca7b",
-      "title": "Liverpool considering £51.5m January swoop for star who just dazzled at Sunderland",
-      "summary": "Liverpool sent scouts to Sunderland to watch a £51.5m-rated player in action on Wednesday, though the man in question wasn’t playing for the Black Cats.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-considering-51-5m-january-transfer-kees-smit-scouted-sunderland",
-      "publishedAt": "2026-09-18T08:31:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3d6f29bd934f39",
-      "title": "Romano drops big Rodrygo to Arsenal update with Real Madrid star to return ahead of schedule",
-      "summary": "Fabrizio Romano has revealed that Arsenal “like” Rodrygo with the Brazilian ahead of schedule to return to the pitch at Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-drops-big-rodrygo-transfer-update-real-madrid",
-      "publishedAt": "2026-09-18T07:44:48.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
       ]
     }
   ],
