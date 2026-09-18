@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-18T10:53:21.306Z",
+  "generatedAt": "2026-09-18T16:07:49.990Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,42 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "6445da5c58669d",
-      "title": "Chris Samba's son Floyd shines on debut as Man City ease past Norwich",
-      "summary": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
+      "id": "244e5e96f8eef1",
+      "title": "Carrick dismisses 'ridiculous' speculation on future",
+      "summary": "Michael Carrick insists Manchester United's recent struggles are \"not a catastrophe or a disaster\" and dismissed talk of pressure on his position as \"ridiculous\".",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
-      "publishedAt": "2026-09-18T10:53:21.032Z",
+      "url": "https://www.skysports.com/football/news/12040/13589326/man-utd-its-not-on-the-radar-michael-carrick-dismisses-ridiculous-speculation-on-future",
+      "publishedAt": "2026-09-18T16:07:49.987Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "15c6c7ac79f999",
-      "title": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
-      "summary": "Celtic were punished again for their defensive errors as they followed up their Old Firm loss with a 3-1 home defeat to Ferencvaros in their Europa League opener.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
-      "publishedAt": "2026-09-18T10:53:21.032Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Europa League"
-      ]
-    },
-    {
-      "id": "bd33495bcdfea1",
-      "title": "Why Coventry are not a hopeless case despite miserable start",
-      "summary": "Coventry have been dealt an extraordinarily tough opening hand, playing four of the current top five as introduction to their first Premier League campaign for 25 years...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588558/nottingham-forest-vs-coventry-city-why-unusually-tough-start-should-not-be-used-to-measure-frank-lampards-side",
-      "publishedAt": "2026-09-18T10:53:21.032Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -143,11 +117,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United's Carabao Cup second-round loss at Grimsby last season was a result that many will remember.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats",
-      "publishedAt": "2026-09-18T10:53:21.031Z",
+      "publishedAt": "2026-09-18T16:07:49.987Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "4bbec2774a724c",
+      "title": "Tuchel: 99.9 per cent of fans I meet don't ask me about Argentina subs",
+      "summary": "Thomas Tuchel says \"99.9 per cent\" of England fans do not talk about substitutions or tactical decisions when reflecting on their World Cup experience.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589252/thomas-tuchel-england-fans-dont-ask-me-about-my-substitutions-against-argentina-in-the-world-cup-semi-final",
+      "publishedAt": "2026-09-18T16:07:49.987Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -156,11 +143,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "One of football's fiercest rivalries is back.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588943/millwall-vs-west-ham-london-rivalry-returns-after-14-year-wait-with-big-championship-showdown-at-the-den",
-      "publishedAt": "2026-09-18T10:53:21.031Z",
+      "publishedAt": "2026-09-18T16:07:49.987Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Iraola 'very happy' with Wirtz contribution",
+      "summary": "Liverpool latest: Iraola 'very happy' with Wirtz contribution",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-18T16:07:49.986Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -169,7 +169,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports chief correspondent Kaveh Solhekol is at Wembley with the latest on Thomas Tuchel's England squad.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589218/england-squad-whos-in-and-whos-out",
-      "publishedAt": "2026-09-18T10:53:21.030Z",
+      "publishedAt": "2026-09-18T16:07:49.986Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,16 +177,276 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "935f38286ff3b2",
-      "title": "Tuchel explains Alexander-Arnold and Palmer England recalls, plus Ngumoha pick: football news – live",
-      "summary": "⚽ Friday’s team news, press conferences and analysis ⚽ The Knowledge: when were the first replica kits? ⚽ Get in touch! Email David with any thoughts Trent Alexander-Ar...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "publishedAt": "2026-09-18T10:39:22.000Z",
+      "id": "b49c34c7a1cd91",
+      "title": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+      "summary": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T16:06:10.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football"
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "d0dea84a661ad6",
+      "title": "London City's new training centre 'better than most Premier League clubs' - Kang",
+      "summary": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier L...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T16:03:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "fd662f3025ddf7",
+      "title": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
+      "summary": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As Tuchel...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league",
+      "publishedAt": "2026-09-18T15:43:17.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "fd91ea6428830f",
+      "title": "Gabriel, 15, in Barcelona amid speculation over future",
+      "summary": "Man Utd youngster JJ Gabriel travels to Barcelona as some of Europe's biggest clubs continue to vie for his signature.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c679052dq30ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T15:02:21.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "d40bfc85da8cfd",
+      "title": "I have experienced racism a thousand times - Lamine Yamal",
+      "summary": "Barcelona winger Lamine Yamal says he has experienced racism \"a thousand times\", because people are unaware their comments or behaviour are offensive.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T14:53:33.000Z",
+      "category": "issue",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "d8e82e21c9fb63",
+      "title": "Football Daily | Spying some tasty match-ups, from Wrexham v Saints to desperation derbies",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Before an engorged international break we have a gala weekend of derby games. Some of them are familiar, others rath...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/weekend-derbies-football-daily-newsletter",
+      "publishedAt": "2026-09-18T14:42:58.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "be1842d2c408a0",
+      "title": "Premier League team news: predicted lineups for the weekend action",
+      "summary": "Tottenham begin Saturday’s action against Aston Villa while at Brighton Arsenal are aiming to keep their 100% winning record Saturday 12.30pm TNT Sports 1 Venue Tottenh...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "publishedAt": "2026-09-18T14:33:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a9fad7ad880a04",
+      "title": "Sorensen to join Republic of Ireland coaching staff",
+      "summary": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for their Women's World Cup play-off qualifiers this year.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T14:19:16.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c9a3ec35f2b5a9",
+      "title": "Will England boss Tuchel 'embrace the chaos'?",
+      "summary": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T14:14:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "19b0720db49200",
+      "title": "'Not a catastrophe' - Carrick dismisses Man Utd job fears",
+      "summary": "Manchester United head coach Michael Carrick says there is no point wasting any time worrying if his job is under threat.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5n4k89j1zpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T14:09:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a7abee7d230fb6",
+      "title": "How Iraola is moving Liverpool on from the Slot era",
+      "summary": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the Arne Slot era after their disappointing form last season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T13:20:50.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d591718c5329a9",
+      "title": "Premier League Power Rankings: Haaland the boss but Raya, Odegaard, Rice impressing",
+      "summary": "Our Premier League Power Rankings return for 2026/27 and the early leader is Man City superstar Erling Haaland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-power-rankings-2026-27-haaland",
+      "publishedAt": "2026-09-18T13:11:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "0b1c15e610cd1c",
+      "title": "JJ Gabriel: Chelsea update given as Man Utd starlet holds talks with two other clubs",
+      "summary": "Chelsea are still ‘leading the chase’ to sign Man Utd starlet JJ Gabriel out of the Premier League clubs, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-jj-gabriel-chelsea-update-talks-real-madrid-barcelona",
+      "publishedAt": "2026-09-18T12:45:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-09-18T12:01:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "feb1795b4cdeef",
+      "title": "Man City top scorers against the Big Six: Haaland surpasses club legend",
+      "summary": "Erling Haaland has pipped Kevin de Bruyne for Manchester City Premier League goals against the Big Six, with an obvious leader in front.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-city-top-scorers-games-premier-league-big-six-aguero-haaland",
+      "publishedAt": "2026-09-18T11:52:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3b72f41e1c4ffd",
+      "title": "Manchester United top scorers against Big Six: Mbeumo already second in current squad",
+      "summary": "Bruno Fernandes is behind just two players for Premier League goals against the Big Six for Manchester United, and should get enough penalties to catch them.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-top-scorers-games-premier-league-big-six-rooney-rashford",
+      "publishedAt": "2026-09-18T11:49:48.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f3b57709d8eeec",
+      "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
+      "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:49:14.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "35e5106052f8ef",
+      "title": "Arsenal want ‘consistent’ Premier League star in January with Gunners ‘not as strong as last year’",
+      "summary": "Brentford striker Kevin Schade has emerged as a ‘name to monitor’ as Arsenal look to improve their attack in January, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-schade-brentford-transfer",
+      "publishedAt": "2026-09-18T11:14:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b5dfa74904ff18",
+      "title": "Premier League the goal in Just's unlikely journey",
+      "summary": "Having lived out one dream already this year, Swansea City's New Zealand star Elijah Just hopes his unusual journey will lead all the way to the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6grvzxqwwrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:04:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "861e5a4285d517",
+      "title": "Dowman ‘should’ have been in England squad – but Chelsea outcast is ‘arguably the most frustrated’",
+      "summary": "Max Dowman is a literal child who has played one game for Arsenal this season – against Ipswich’s reserves – so he should be in the England squad.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/dowman-should-have-been-in-england-squad-chelsea-snub",
+      "publishedAt": "2026-09-18T11:00:27.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
@@ -325,268 +585,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "94475243283a21",
-      "title": "Are Hibs interested in Bristol Rovers' Evans? - gossip",
-      "summary": "There are conflicting reports about whether Hibernian are interested in Bristol Rovers manager Steve Evans as Rangers reportedly rule out selling Bojan Miovski in Janua...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3n07zppk9vgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T07:27:01.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "19bfbcada95878",
-      "title": "From depression after Chelsea injury to playing non-league at 37",
-      "summary": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T07:10:13.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a635db626aaa2b",
-      "title": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "summary": "The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans Not since a doomed foray into the thorny world of the transf...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "publishedAt": "2026-09-18T07:00:12.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "638795975371eb",
-      "title": "Spurs – and Souness – shamed by the longest-ever goalless starts to a Premier League season",
-      "summary": "Only one Premier League team has ever gone more games without scoring at the start of a season than Coventry and £300m spenders Spurs. These are the longest goal drough...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-goalless-starts-to-premier-league-season",
-      "publishedAt": "2026-09-18T06:45:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "371710209564b4",
-      "title": "Keep or sell Cherki? FPL gameweek five dilemmas",
-      "summary": "BBC Sport's Fantasy Premier League expert FPL Heisenberg gives his answers to some of the biggest dilemmas facing managers in gameweek five.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T06:44:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d053a93fc9576d",
-      "title": "How close are Arsenal and Manchester City to greatest start to a Premier League season?",
-      "summary": "Arsenal and Manchester City have both maintained a perfect Premier League record after four games, but are some way from making history.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-ever-winning-runs-start-premier-league-season",
-      "publishedAt": "2026-09-18T06:43:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5d90284e6fc081",
-      "title": "Frank Lampard’s Coventry City closing on unwanted Premier League history",
-      "summary": "Coventry are the 19th team to start a Premier League season losing at least four straight games; they might not copy Villa and finish 7th.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-ever-losing-runs-start-premier-league-season",
-      "publishedAt": "2026-09-18T06:43:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5265575be1f1b1",
-      "title": "Big Weekend: Tottenham v Aston Villa, Liverpool, Michael Carrick, Dominic Calvert-Lewin, Madrid derby",
-      "summary": "Can Tottenham v Aston Villa possibly be anything other than a miserable goalless draw? Elsewhere, Andoni Iraola goes back to Bournemouth.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-preview-tottenham-aston-villa-liverpool-carrick",
-      "publishedAt": "2026-09-18T06:41:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1916a3bbe5ad4d",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4glvy3413xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T05:41:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Michael Carrick now clear favourite after Man United week from hell",
-      "summary": "Michael Carrick is now clear favourite to be the first Premier League manager out of a job this season after a disastrous seven days.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-09-18T05:35:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9e009fc17d8a89",
-      "title": "How does De Zerbi fix Spurs' scoring troubles?",
-      "summary": "Roberto De Zerbi's Tottenham are yet to score a Premier League goal this season, how do they fix that?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T05:16:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "71e7c7e701ac37",
-      "title": "Moving from Newcastle to Liverpool easy decision - Isak",
-      "summary": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part of why he joined the club.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T05:12:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c15c247b62da66",
-      "title": "Bellamy right to speak to Burnley - FAW chief Adams",
-      "summary": "FAW chief football officer David Adams says he has a list of potential replacements for when Craig Bellamy ends his spell as Wales head coach.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmje81nxgz4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T03:18:34.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "bdafd815b67706",
-      "title": "Socceroos captain Maty Ryan axed for Brazil friendlies",
-      "summary": "Goalkeeper dropped despite strong start to La Liga season Seven uncapped players called into 26-man Australia squad Maty Ryan’s Socceroos days aren’t done, insists coac...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies",
-      "publishedAt": "2026-09-18T01:19:19.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Soccer",
-        "La Liga",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "92c1e4e08f8694",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "summary": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
-      "publishedAt": "2026-09-17T23:01:01.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "da479d5d82ebad",
-      "title": "Europa League roundup: Ferencvaros pile more misery on troubled Celtic",
-      "summary": "Hoops beaten again after chastening loss to Rangers Juventus hammer NEC, Besiktas pile woe on Marseille Celtic suffered another European embarrassment as the Scottish c...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/europa-league-celtic-ferencvaros-besiktas-marseille-juventus-nec",
-      "publishedAt": "2026-09-17T22:36:01.000Z",
-      "category": "worldcup",
-      "region": "italy france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Europa League",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "f8c18d49a7ed02",
-      "title": "Junior Kroupi on Arsenal radar - Friday's gossip",
-      "summary": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T22:14:43.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "a4f5284f4f2a06",
-      "title": "'Just the beginning' - Samba, 17, steals Man City show",
-      "summary": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T22:00:18.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e85811c4474cad",
-      "title": "Bournemouth, Crystal Palace take different paths to enjoy winning starts in Europa League",
-      "summary": "AFC Bournemouth and Crystal Palace won their opening Europa League games on Thursday night, with one victory easier than the other.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bournemouth-crystal-palace-different-paths-winning-starts-europa-league",
-      "publishedAt": "2026-09-17T21:45:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Europa League"
       ]
     }
   ],
