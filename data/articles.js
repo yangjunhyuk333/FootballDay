@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-17T21:07:40.478Z",
+  "generatedAt": "2026-09-18T04:00:07.279Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,28 +99,30 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "8f12b6e34f91f9",
-      "title": "Scorecard: England vs Sri Lanka, second T20, Cardiff",
-      "summary": "Latest score from the second T20 international between England and Sri Lanka at Sophia Gardens in Cardiff. Watch live on Sky Sports Cricket.",
+      "id": "d83d8fbb5d0892",
+      "title": "PL Predictions: Brentford to expose 'soft' Chelsea",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight ahead of the weekend's Premier League action.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/89baaf58-e8b0-59a7-a9ff-37105b47a42e",
-      "publishedAt": "2026-09-17T21:07:40.157Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "42ae33e6b21b01",
-      "title": "Alonso: Chelsea didn't need a reset - they just needed an update",
-      "summary": "Xabi Alonso says Chelsea were in need of \"an update\" rather than a full reset when he was appointed manager this summer.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589015/xabi-alonso-chelsea-manager-says-blues-needed-an-update-rather-than-a-reset-when-he-took-over-at-stamford-bridge",
-      "publishedAt": "2026-09-17T21:07:40.157Z",
+      "url": "https://www.skysports.com/football/news/12040/13588821/premier-league-predictions-jones-knows-best-bets-brentford-to-expose-soft-chelsea-underbelly",
+      "publishedAt": "2026-09-18T04:00:06.910Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2086cd3512ef4e",
+      "title": "Will Palmer, Foden and Trent be recalled to England squad?",
+      "summary": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
+      "publishedAt": "2026-09-18T04:00:06.910Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
         "Chelsea"
       ]
     },
@@ -130,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Floyd Samba enjoyed a dream debut by scoring twice as holders Manchester City booked their place in the Carabao Cup fourth round with a 5-0 home win over Norwich.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-norwich-city/report/577580",
-      "publishedAt": "2026-09-17T21:07:40.156Z",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -138,12 +140,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "fa413f62c0199c",
-      "title": "Europa League: Palace cruise to victory, Bournemouth win, Celtic lose LIVE!",
-      "summary": "Europa League: Palace cruise to victory, Bournemouth win, Celtic lose LIVE!",
+      "id": "15c6c7ac79f999",
+      "title": "Sloppy mistakes cost Celtic again as they lose Europa League opener",
+      "summary": "Celtic were punished again for their defensive errors as they followed up their Old Firm loss with a 3-1 home defeat to Ferencvaros in their Europa League opener.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
-      "publishedAt": "2026-09-17T21:07:40.156Z",
+      "url": "https://www.skysports.com/football/celtic-vs-ferencvaros/report/577751",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,60 +153,116 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "2086cd3512ef4e",
-      "title": "Will Palmer, Foden and Trent be recalled to England squad?",
-      "summary": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big...",
+      "id": "965b03225af80e",
+      "title": "Palace power past Lech Poznan to win on Europa League debut",
+      "summary": "Crystal Palace cruised to victory in their first-ever Europa League game with a 4-0 win over Polish champions Lech Poznan at Selhurst Park.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs",
-      "publishedAt": "2026-09-17T21:07:40.156Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "560210a625b249",
-      "title": "Samba show! Chris celebrates as son Floyd scores twice for Man City!",
-      "summary": "Floyd Samba, son of former Premier League defender Chris, scores Man City double on his debut against Norwich in Carabao Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589100/floyd-samba-scores-man-city-opener-on-his-debut-against-norwich",
-      "publishedAt": "2026-09-17T21:07:40.156Z",
+      "url": "https://www.skysports.com/football/crystal-palace-vs-lech-poznan/report/577752",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Europa League"
       ]
     },
     {
-      "id": "d3679e19139521",
-      "title": "Man Utd wonderkid Gabriel attracting interest from top European clubs",
-      "summary": "Real Madrid, Barcelona, Paris Saint-Germain and Bayern Munich, along with several Premier League clubs, are interested in Manchester United forward JJ Gabriel.",
+      "id": "bb3d4ca9abb5f6",
+      "title": "Bournemouth enjoy winning start to Europa League campaign at Sociedad",
+      "summary": "First-half goals by Justin Kluivert and Rayan helped Bournemouth start their maiden European campaign with a memorable 2-1 win at Real Sociedad.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13588989/jj-gabriel-transfer-news-man-utd-wonderkid-attracting-interest-from-real-madrid-barcelona-psg-bayern-munich-and-premier-league-clubs",
-      "publishedAt": "2026-09-17T21:07:40.156Z",
+      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/report/577757",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
       "category": "transfer",
-      "region": "england spain italy germany",
+      "region": "england",
       "tags": [
-        "Premier League",
-        "Manchester",
-        "Barcelona",
-        "Real Madrid"
+        "Europa League"
       ]
     },
     {
-      "id": "ab9cdef212c639",
-      "title": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
-      "summary": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott TNT’s Connie McLaughlin asks Celtic boss Martin O’Neill to “t...",
+      "id": "b5d0874058d80e",
+      "title": "'We'll get ourselves together' - O'Neill confident Celtic will bounce back from EL loss",
+      "summary": "Celtic manager Martin O'Neill is confident they will recover from their Europa League defeat to Ferencvaros and be ready for Sunday's Premiership clash with Rangers, li...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589150/celtic-1-3-ferencvaros-martin-oneill-confident-they-will-recover-from-europa-league-loss-ahead-of-rangers-clash-live-on-sky",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "72eb401ce5f61e",
+      "title": "Papers: Arsenal eyeing Kroupi and Schade in January",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589073/arsenal-transfer-news-eli-junior-kroupi-and-kevin-schade-on-mikel-artetas-target-list-ahead-of-january-paper-talk",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fa413f62c0199c",
+      "title": "Europa League recap: Palace cruise to victory, Bournemouth win, Celtic lose",
+      "summary": "Europa League recap: Palace cruise to victory, Bournemouth win, Celtic lose",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/real-sociedad-vs-bournemouth/live/577757",
+      "publishedAt": "2026-09-18T04:00:06.909Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "bdafd815b67706",
+      "title": "Socceroos captain Maty Ryan axed for Brazil friendlies",
+      "summary": "Goalkeeper dropped despite strong start to La Liga season Seven uncapped players called into 26-man Australia squad Captain Maty Ryan has been left out of the Socceroos...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
-      "publishedAt": "2026-09-17T20:49:55.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies",
+      "publishedAt": "2026-09-18T01:19:19.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Soccer",
+        "La Liga",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "92c1e4e08f8694",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Spurs and Villa meet in desperation derby and Andoni Iraola faces test on south-coast return Premier League top scorers: check the latest standings Chelsea have not won...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+      "publishedAt": "2026-09-17T23:01:01.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Europa League"
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "da479d5d82ebad",
+      "title": "Europa League roundup: Ferencvaros pile more misery on troubled Celtic",
+      "summary": "Hoops beaten again after chastening loss to Rangers Juventus hammer NEC, Besiktas pile woe on Marseille Celtic suffered another European embarrassment as the Scottish c...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/europa-league-celtic-ferencvaros-besiktas-marseille-juventus-nec",
+      "publishedAt": "2026-09-17T22:36:01.000Z",
+      "category": "worldcup",
+      "region": "italy france",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Europa League",
+        "Juventus"
       ]
     },
     {
@@ -213,7 +271,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T20:41:05.000Z",
+      "publishedAt": "2026-09-17T22:14:43.000Z",
       "category": "league",
       "region": "england spain italy",
       "tags": [
@@ -221,6 +279,61 @@ window.FOOTBALLDAY_DATA = {
         "Chelsea",
         "Real Madrid",
         "Inter"
+      ]
+    },
+    {
+      "id": "a4f5284f4f2a06",
+      "title": "'Just the beginning' - Samba, 17, steals Man City show",
+      "summary": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines away from another high-profile teenager in Manchester.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T22:00:18.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e85811c4474cad",
+      "title": "Bournemouth, Crystal Palace take different paths to enjoy winning starts in Europa League",
+      "summary": "AFC Bournemouth and Crystal Palace won their opening Europa League games on Thursday night, with one victory easier than the other.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bournemouth-crystal-palace-different-paths-winning-starts-europa-league",
+      "publishedAt": "2026-09-17T21:45:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "9b712fa0f5068e",
+      "title": "Man City: Floyd Samba sent warning after ‘mind-blowing’ debut in Carabao Cup – ‘football is ruthless’",
+      "summary": "Manchester City starlet Floyd Samba has been sent a warning after having a “mind-blowing” debut against Norwich City in the Carabao Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-floyd-samba-sent-warning-mind-blowing-debut-carabao-cup",
+      "publishedAt": "2026-09-17T21:10:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d145e38202697b",
+      "title": "Pino kickstarts Crystal Palace’s Europa League rout of Lech Poznan to ease Sage’s worries",
+      "summary": "It was worth the wait for Crystal Palace. After being denied their rightful place in the Europa League last season, Pierre Sage’s side made the perfect debut by brushin...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/17/crystal-palace-lech-poznan-europa-league-match-report",
+      "publishedAt": "2026-09-17T21:03:55.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Europa League"
       ]
     },
     {
@@ -240,7 +353,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "755cee44bfc6b3",
       "title": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-      "summary": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while as it featured a superb goal in each half that ensured Manchester City adva...",
+      "summary": "Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning for a while after a superb goal in each half ensured Manchester City advanced to face B...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
       "publishedAt": "2026-09-17T20:33:33.000Z",
@@ -487,120 +600,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Premier League"
-      ]
-    },
-    {
-      "id": "74f59830ad6b34",
-      "title": "Man Utd ‘doing due diligence’ on Carrick replacements as Jacobs names five potential successors",
-      "summary": "Reporter Ben Jacobs has suggested that Michael Carrick may not have full backing at Manchester United, who have five options for their next manager.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-carrick-sack-update-five-contenders-next-manager",
-      "publishedAt": "2026-09-17T15:05:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "018bc653425b8d",
-      "title": "FA chair demands Infantino release World Cup sell-off documents",
-      "summary": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T14:26:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "077b21c7ba1b33",
-      "title": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united",
-      "publishedAt": "2026-09-17T14:21:42.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Uefa",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7080da029aa61f",
-      "title": "Harry Kane requests release clause with Bayern Munich in agreement on new contract",
-      "summary": "Tottenham Hotspur legend Harry Kane reportedly wants a release clause to be included in his new Bayern Munich contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-harry-kane-requests-release-clause-bayern-munich-agreement-new-contract",
-      "publishedAt": "2026-09-17T14:14:02.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "b7ce49c2337e2f",
-      "title": "Alessandro Costacurta: ‘San Siro is an icon – it’s incredibly beautiful but it’s not functional’",
-      "summary": "Milan’s grand old home turns 100 this weekend, and while it will soon be torn down one of the greatest players to grace it reflects on the noise and power of a unique s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/alessandro-costacurta-san-siro-100-years-beautiful-not-functional-milan-inter",
-      "publishedAt": "2026-09-17T14:12:34.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "052d2a466c0c36",
-      "title": "Amorim told to ‘stop talking’ as Milan boss throws shade at Man Utd stars in familiar complaint",
-      "summary": "Ruben Amorim is once again complaining about players not fitting into his system took a couple of jabs at some Man Utd stars in the process.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/amorim-told-to-stop-talking-throws-shade-man-utd-stars-familiar-complaint",
-      "publishedAt": "2026-09-17T13:43:02.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "9a83e218a9f201",
-      "title": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-      "summary": "With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the forward quietly turning into José Mourinho’s ultimate secret weapon J...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "publishedAt": "2026-09-17T13:27:45.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8c8b5012ed0171",
-      "title": "Manchester United crisis klaxon alert and Sunderland soar | Football Weekly Extra – video",
-      "summary": "Max Rushden is joined by Barry Glendenning , Dan Bardell and Sam Dalling to discuss the Carabao Cup, Sunderland’s triumphant return to Europe and look ahead to the week...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/sep/17/manchester-united-crisis-klaxon-alert-and-sunderland-soar-football-weekly-extra-video",
-      "publishedAt": "2026-09-17T13:18:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
       ]
     }
   ],
