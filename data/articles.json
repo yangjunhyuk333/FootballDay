@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:57:59.991Z",
+  "generatedAt": "2026-09-19T10:36:12.441Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Arsenal manager Mikel Arteta has not ruled out loaning out Max Dowman in the future and says the club evaluates the 16-year-old sensation's progress every six months.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589421/max-dowman-mikel-arteta-admits-16-year-old-arsenal-wonderkid-could-go-out-on-loan-in-the-future",
-      "publishedAt": "2026-09-19T03:57:59.744Z",
+      "publishedAt": "2026-09-19T10:36:12.047Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +117,7 @@
       "summary": "Brentford 3-0 Chelsea highlights and rate the players",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
-      "publishedAt": "2026-09-19T03:57:59.744Z",
+      "publishedAt": "2026-09-19T10:36:12.047Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +130,7 @@
       "summary": "Highlights from the Premier League match between Brentford and Chelsea.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589514/brentford-3-0-chelsea-premier-league-highlights",
-      "publishedAt": "2026-09-19T03:57:59.744Z",
+      "publishedAt": "2026-09-19T10:36:12.047Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -144,7 +144,7 @@
       "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589426/mykhailo-mudryk-preferred-arsenal-move-before-88m-chelsea-transfer-paper-talk",
-      "publishedAt": "2026-09-19T03:57:59.744Z",
+      "publishedAt": "2026-09-19T10:36:12.047Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -159,40 +159,11 @@
       "summary": "Harry Kane becomes quickest player to reach 100 Bundesliga goals!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589525/harry-kane-becomes-quickest-player-to-reach-100-bundesliga-goals",
-      "publishedAt": "2026-09-19T03:57:59.744Z",
+      "publishedAt": "2026-09-19T10:36:12.047Z",
       "category": "transfer",
       "region": "germany",
       "tags": [
         "Bundesliga"
-      ]
-    },
-    {
-      "id": "7c82db353102de",
-      "title": "Gabriel edging closer to Man Utd exit as Barca and Real talks advance",
-      "summary": "Barcelona and Real Madrid are in transfer talks to sign Manchester United youngster JJ Gabriel.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589387/jj-gabriel-edging-closer-to-manchester-united-exit-amid-barcelona-talks-about-a-potential-move-for-the-forward",
-      "publishedAt": "2026-09-19T03:57:59.744Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "36a420b49db7d7",
-      "title": "Chelsea's defensive woes continue as Brentford win derby",
-      "summary": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
-      "publishedAt": "2026-09-19T03:57:59.743Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     },
     {
@@ -201,11 +172,189 @@
       "summary": "\"You need to feel it. We're not feeling it,\" said Xabi Alonso after Chelsea's 3-0 loss at Brentford. Yet Chelsea are stuck in a familiar feeling.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat",
-      "publishedAt": "2026-09-19T03:57:59.742Z",
+      "publishedAt": "2026-09-19T10:36:12.046Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "36a420b49db7d7",
+      "title": "Chelsea's defensive woes continue as Brentford win derby",
+      "summary": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
+      "publishedAt": "2026-09-19T10:36:12.046Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f36414fe7cca21",
+      "title": "Liverpool stance on Arsenal plan to sign star revealed after Romano transfer update",
+      "summary": "Liverpool are reportedly “confident” that they can keep Rio Ngumoha at Anfield with Arsenal interested in signing the England internatonal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-stance-arsenal-sign-ngumoha-romano-transfer-update",
+      "publishedAt": "2026-09-19T08:53:38.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "95bf95cb5c465b",
+      "title": "'Former Ivory Coast boss Fae eyes Hibs job' - gossip",
+      "summary": "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6j9x4379emwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T08:17:18.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "163b584d67c9dc",
+      "title": "Redknapp baffled as to why ‘incredible’ Chelsea star doesn’t start under Alonso",
+      "summary": "Jamie Redknapp has questioned why Estevao is not getting a start for Chelsea under new head coach Xabi Alonso after their loss to Brentford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-redknapp-baffled-incredible-estevao-doesnt-start-alonso",
+      "publishedAt": "2026-09-19T08:13:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a53a13da88792a",
+      "title": "Cole claims Alonso is ‘furious’ at Chelsea board over transfer decision in Brentford loss",
+      "summary": "Chelsea legend Joe Cole insists a “furious” Xabi Alonso sent a message to the Blues board during their 3-0 defeat to Brentford on Friday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-cole-alonso-furious-board-transfer-decision-brentford",
+      "publishedAt": "2026-09-19T07:45:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "23838930b938ac",
+      "title": "JJ Gabriel reacts to Barcelona offer as Man Utd learn of compensation fee",
+      "summary": "Manchester United youngster JJ Gabriel has received an offer from last season’s LaLiga winners Barcelona.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-barcelona-manchester-united-offer",
+      "publishedAt": "2026-09-19T07:23:35.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "7e269bff899d6f",
+      "title": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
+      "summary": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United sl...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
+      "publishedAt": "2026-09-19T07:00:41.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f3eff9a7876f8d",
+      "title": "Andoni Iraola makes Bournemouth return still learning on the job at Liverpool",
+      "summary": "Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/andoni-iraola-bournemouth-return-learning-on-job-liverpool",
+      "publishedAt": "2026-09-19T07:00:40.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "46a914955948d9",
+      "title": "Ferguson leaving was Manchester United’s Brexit; and feeling sorry for Gyokeres",
+      "summary": "There are some wonderful mails about the problems at Manchester United, with a long message of regret for spare Arsenal part Viktor Gyokeres.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ferguson-leaving-manchester-united-brexit-arsenal-parting-arteta-trust-gyokeres",
+      "publishedAt": "2026-09-19T06:58:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bd12c7bb531246",
+      "title": "The Serie A club turning one match into a big green experiment",
+      "summary": "Football does plenty of talking about sustainability. On Saturday, Udinese are attempting the considerably less glamorous business of finding out what actually works.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/the-serie-a-club-turning-one-match-into-a-big-green-experiment",
+      "publishedAt": "2026-09-19T06:57:01.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Serie A"
+      ]
+    },
+    {
+      "id": "b4e16ba1f89eb3",
+      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary",
+      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T06:30:32.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8946cc4b7ee957",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j4ey5j2w4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T05:39:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "850e69e96d1560",
+      "title": "Winless Villa and Spurs face telling early showdown",
+      "summary": "Aston Villa and Tottenham are winless in the Premier League - and both in need of inspiration as they prepare to face each other on Saturday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T05:32:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -260,6 +409,19 @@
       "region": "england",
       "tags": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "f350c96567638f",
+      "title": "Man City strike late to beat Liverpool and maintain perfect start",
+      "summary": "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T22:06:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -347,20 +509,6 @@
       ]
     },
     {
-      "id": "873680de2dc883",
-      "title": "A weight off Igor Thiago's shoulders - Brentford v Chelsea ratings",
-      "summary": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea - here are BBC Sport's player ratings.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T20:57:06.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "c0671604cf31cb",
       "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
       "summary": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in J...",
@@ -375,7 +523,7 @@
     },
     {
       "id": "92c54124890af5",
-      "title": "Women’s Super League: Lauren Hemp hits double as Manchester City see off lively Liverpool",
+      "title": "Manchester City scramble to dramatic WSL win over Liverpool with two goals in added time",
       "summary": "Manchester City continued their winning start to the new Women’s Super League season but the defending champions needed a 90th-minute own goal from Grace Fisk to help t...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league",
@@ -416,18 +564,18 @@
       ]
     },
     {
-      "id": "a8a0d7d33036d7",
-      "title": "Trent Alexander-Arnold recalled by England but with a warning from Thomas Tuchel",
-      "summary": "Real Madrid player must help improve defensive solidity Scott, Hall, Lewis-Skelly and Calvert-Lewin selected Thomas Tuchel has told Trent Alexander-Arnold he must bring...",
+      "id": "b3f65efe0679a7",
+      "title": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "summary": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-returns-england-squad-cole-palmer-rio-ngumoha-alex-scott-thomas-tuchel",
-      "publishedAt": "2026-09-18T18:08:19.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
+      "publishedAt": "2026-09-18T18:00:24.000Z",
       "category": "worldcup",
-      "region": "spain",
+      "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Real Madrid"
+        "Premier League",
+        "World Cup"
       ]
     },
     {
@@ -441,158 +589,6 @@
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "c148c8518a638f",
-      "title": "Former Man Utd left-back Malacia joins FC Cincinnati",
-      "summary": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:39:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1fb4e3e6ac659e",
-      "title": "Man Utd get clear JJ Gabriel response over U-turn on Old Trafford stay",
-      "summary": "Manchester United have got the clearest indication yet of whether JJ Gabriel plans to stay at the club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jj-gabriel-manchester-united-u-turn-response",
-      "publishedAt": "2026-09-18T17:33:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4ddd29e9b6770d",
-      "title": "Uefa and Concacaf ask Gianni Infantino to give Fifa’s billions to its member associations",
-      "summary": "Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa Council The presidents of Uefa and Concacaf have written to Gianni Infan...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations",
-      "publishedAt": "2026-09-18T17:33:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "3ae6dbc3c2b7f8",
-      "title": "Senegal job an 'absolute dream' for new boss Vieira",
-      "summary": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:01:59.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ed1115aff6e8a7",
-      "title": "We wanted to let Max Dowman bloom in the shadows but he has become hard to ignore | Barney Ronay",
-      "summary": "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Lu...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players",
-      "publishedAt": "2026-09-18T16:59:40.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "141c64b9052ce4",
-      "title": "What are the key questions in Saturday's Scottish Premiership?",
-      "summary": "What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9e4xg31j0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T16:40:30.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac6c33a542fa67",
-      "title": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
-      "summary": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T16:40:11.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "b49c34c7a1cd91",
-      "title": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-      "summary": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T16:26:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "0ab0c9ad1b3f82",
-      "title": "Jason Wilcox and Man Utd board member at loggerheads over sacking Michael Carrick",
-      "summary": "Manchester United director of football, Jason Wilcox, and another board member are in disagreement over the future of Michael Carrick as manager.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mark-goldbridge-michael-carrick-jason-wilcox-manchester-united-manager-sack-decision-reached",
-      "publishedAt": "2026-09-18T16:12:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "60621e1fce58a3",
-      "title": "Premier League action, Celtic v Rangers, T20 cricket and NFL – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us",
-      "publishedAt": "2026-09-18T16:05:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d0dea84a661ad6",
-      "title": "London City's new training centre 'better than most Premier League clubs' - Kang",
-      "summary": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier L...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T16:03:14.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
