@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T10:36:12.441Z",
+  "generatedAt": "2026-09-19T15:40:05.051Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,51 @@
       "pinned": true
     },
     {
-      "id": "b9d60b7ac3b2e8",
-      "title": "Arteta: Dowman could go out on loan in future",
-      "summary": "Arsenal manager Mikel Arteta has not ruled out loaning out Max Dowman in the future and says the club evaluates the 16-year-old sensation's progress every six months.",
+      "id": "286468ec88ad6c",
+      "title": "West Ham fight back from two down to draw fiery derby at Millwall",
+      "summary": "West Ham battled back from 2-0 down to draw 2-2 at arch-rivals Millwall in a fiery renewal of one of football's most famous derbies, which included a late red card for...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589421/max-dowman-mikel-arteta-admits-16-year-old-arsenal-wonderkid-could-go-out-on-loan-in-the-future",
-      "publishedAt": "2026-09-19T10:36:12.047Z",
+      "url": "https://www.skysports.com/football/millwall-vs-west-ham-united/report/560587",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "9929c2602c21f1",
+      "title": "Scorecard: England vs Sri Lanka, third T20, Old Trafford",
+      "summary": "Latest score from the third T20 international between England and Sri Lanka at Emirates Old Trafford. Watch live on Sky Sports Cricket.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/england-v-sri-lanka/scorecard/05056d5d-7b69-5f86-91b6-a5bdeb4474bc",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "f95255f7e296b9",
+      "title": "Newcastle latest: Elanga could be back after international break",
+      "summary": "Newcastle latest: Elanga could be back after international break",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "c3bde209aa3b85",
+      "title": "Brilliant Brighton three goals up against Arsenal LIVE!",
+      "summary": "Brilliant Brighton three goals up against Arsenal LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/live/559486",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,12 +151,12 @@
       ]
     },
     {
-      "id": "4758a435d859f6",
-      "title": "Brentford 3-0 Chelsea highlights and rate the players",
-      "summary": "Brentford 3-0 Chelsea highlights and rate the players",
+      "id": "a73bb22051e544",
+      "title": "Chelsea and London City ease to WSL victories",
+      "summary": "Chelsea and London City Lionesses climbed to second and third in the Women's Super League table with respective victories over Birmingham and Charlton.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/live/559485",
-      "publishedAt": "2026-09-19T10:36:12.047Z",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/report/575772",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,71 +164,313 @@
       ]
     },
     {
-      "id": "9dac1ca62bd1d1",
-      "title": "Brentford score three in dominant win over Chelsea to continue unbeaten start",
-      "summary": "Highlights from the Premier League match between Brentford and Chelsea.",
+      "id": "9098745023e75f",
+      "title": "Winless Spurs in relegation zone after Villa claim first victory",
+      "summary": "Tottenham head into the international break without a win in the Premier League after losing 3-2 at home to Aston Villa.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589514/brentford-3-0-chelsea-premier-league-highlights",
-      "publishedAt": "2026-09-19T10:36:12.047Z",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/report/559493",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
         "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0b3ce1c8ba6618",
+      "title": "Potter and Malard on target as Chelsea see off Birmingham",
+      "summary": "Highlights of the Women's Super League match between Chelsea and Birmingham City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589644/chelsea-2-0-birmingham-city-womens-super-league-highlights",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Chelsea"
       ]
     },
     {
-      "id": "339f92712baaad",
-      "title": "Papers: Mudryk preferred Arsenal before Chelsea move",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "id": "db661e75be86b4",
+      "title": "WSL: Arsenal vs Man Utd to come after Chelsea see off Birmingham",
+      "summary": "WSL: Arsenal vs Man Utd to come after Chelsea see off Birmingham",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589426/mykhailo-mudryk-preferred-arsenal-move-before-88m-chelsea-transfer-paper-talk",
-      "publishedAt": "2026-09-19T10:36:12.047Z",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-birmingham-city-women/live/575772",
+      "publishedAt": "2026-09-19T15:40:04.815Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
         "Arsenal",
         "Chelsea"
       ]
     },
     {
-      "id": "84d06765fd526a",
-      "title": "HISTORY! Kane becomes quickest player to reach 100 Bundesliga goals!",
-      "summary": "Harry Kane becomes quickest player to reach 100 Bundesliga goals!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589525/harry-kane-becomes-quickest-player-to-reach-100-bundesliga-goals",
-      "publishedAt": "2026-09-19T10:36:12.047Z",
-      "category": "transfer",
-      "region": "germany",
+      "id": "db36295da8b280",
+      "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
+      "summary": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T15:33:20.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Bundesliga"
+        "Premier League"
       ]
     },
     {
-      "id": "b281059623448f",
-      "title": "'Bullied' and 'out of control' - Chelsea's defensive issues laid bare",
-      "summary": "\"You need to feel it. We're not feeling it,\" said Xabi Alonso after Chelsea's 3-0 loss at Brentford. Yet Chelsea are stuck in a familiar feeling.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589535/brentford-3-0-chelsea-defensive-issues-for-xabi-alonso-laid-bare-after-chastening-west-london-derby-defeat",
-      "publishedAt": "2026-09-19T10:36:12.046Z",
+      "id": "e14c139d30dc09",
+      "title": "De Zerbi ‘sacked in the morning’ as Villa have spine ripped out and still show more backbone than Spurs",
+      "summary": "Roberto De Zerbi’s Spurs obviously lost their final game before the international break and scored their first goals of the season in defeat.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/de-zerbi-sacked-in-the-morning-spurs-aston-villa-spine",
+      "publishedAt": "2026-09-19T15:29:03.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Chelsea"
+        "Inter"
       ]
     },
     {
-      "id": "36a420b49db7d7",
-      "title": "Chelsea's defensive woes continue as Brentford win derby",
-      "summary": "Chelsea's defensive and set-piece woes continued under Xabi Alonso as Brentford claimed an emphatic 3-0 victory in the west London derby.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-chelsea/report/559485",
-      "publishedAt": "2026-09-19T10:36:12.046Z",
+      "id": "1bb8773e011323",
+      "title": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
+      "summary": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 7...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+      "publishedAt": "2026-09-19T15:24:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "958612136e6c6e",
+      "title": "Man Utd blame bad luck for poor start as Michael Carrick gets a pass",
+      "summary": "Michael Carrick is safe with Manchester United blaming bad luck and mitigation for their poor start to the season, though a reporter has revealed there’s a ‘deeper conc...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-blame-bad-luck-poor-start-michael-carrick-safe",
+      "publishedAt": "2026-09-19T15:14:15.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "57cf374e944a38",
+      "title": "Clark resigns as Hartlepool boss in post-match interview",
+      "summary": "Lee Clark resigns as Hartlepool United head coach after a sixth loss in seven games following the 3-1 home defeat by Worthing.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6evwk1kee3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T15:14:10.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "c4ae32e9ac82a6",
+      "title": "Was Wrexham’s trailblazing black footballer also the first Indigenous Australian to play overseas?",
+      "summary": "Mystery surrounds the origin of Peter Baines, the trailblazing black footballer who played for the Welsh club, among others, during the 1940s Warning: Aboriginal and To...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/wrexhams-trailblazing-black-footballer-peter-baines-first-indigenous-australian-to-play-overseas",
+      "publishedAt": "2026-09-19T15:00:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "3491b092d3e6fe",
+      "title": "De Zerbi reacts to Tottenham defeat to Aston Villa amid sack calls: ‘I don’t know if it’s right or not’",
+      "summary": "Tottenham boss Roberto De Zerbi insists that his side are “too fragile” as they lost 3-2 to Aston Villa in the Premier League on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-de-zerbi-reacts-aston-villa-sack-pressure-builds",
+      "publishedAt": "2026-09-19T14:59:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "28ca1bfe9e25cd",
+      "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+      "summary": "The Manchester United Muslim Supporters Club says United co-owner Sir Jim Ratcliffe \"must go\" after he spoke out against immigration and said the country was \"on the sl...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:52:38.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "13421fc9e23c1d",
+      "title": "Tottenham need 'blood & fight' not just to play better - de Zerbi",
+      "summary": "Spurs head coach Roberto de Zerbi says his side \"have to be stronger\" following their loss against Aston Villa in the Premier League, focusing on the squad's \"behaviour...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zg9ry9geo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:38:17.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ac7bddb493b000",
+      "title": "Steven Gerrard sends transfer warning to wantaway Man Utd teenager JJ Gabriel",
+      "summary": "Steven Gerrard insists the best place for JJ Gabriel to develop will be at Man Utd with coaches and staff prepared to “protect him”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-gerrard-sends-transfer-warning-jj-gabriel",
+      "publishedAt": "2026-09-19T14:30:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "d1a39b36524de1",
+      "title": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
+      "summary": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against Tottenham Hotspur in the Premier League, highlighting the performances of...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T14:17:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7f743424c02365",
+      "title": "Man City v Sunderland: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Manchester City and Sunderland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/man-city-v-sunderland-prediction-preview",
+      "publishedAt": "2026-09-19T13:46:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cbeb4b624f531a",
+      "title": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "summary": "Tottenham are still looking for their first Premier League goal of the season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T13:32:46.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "43aadfd4e0020f",
+      "title": "Why prospect of Barcelona signing Man City star Erling Haaland are now ‘different’",
+      "summary": "The prospect of Barcelona signing Erling Haaland is “slightly different” now amid fresh rumours surrounding the Man City striker’s future.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-erling-haaland-barcelona-transfer-prospects-different",
+      "publishedAt": "2026-09-19T13:28:18.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "7aaeed6f0a928c",
+      "title": "‘We have to be open’ – Arsenal boss Arteta makes Max Dowman transfer decision",
+      "summary": "Arsenal head coach Mikel Arteta insists the Gunners will not close the door on loaning out Max Dowman as they “evaluate every six months”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-arteta-max-dowman-transfer-decision",
+      "publishedAt": "2026-09-19T12:56:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c5f117123fe059",
+      "title": "Bournemouth v Liverpool: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Bournemouth and Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/bournemouth-v-liverpool-prediction-preview",
+      "publishedAt": "2026-09-19T11:38:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c499b9e8f5ec48",
+      "title": "Liverpool would have signed PL star for £72-75m in late summer deal – but one thing stopped them",
+      "summary": "Liverpool would have reportedly raised their offer for Yankuba Minteh to £72-75m but worries about his injury ended their interest.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-signed-minteh-brighton-january-deal-reason-fell-through",
+      "publishedAt": "2026-09-19T11:23:37.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "92439f9d46b823",
+      "title": "Liverpool reach decision on selling Florian Wirtz to Bayern Munich in ‘shock’ transfer",
+      "summary": "Liverpool do not have any plans to sell Florian Wirtz to Bayern Munich anytime soon, according to reports, amid links to the German club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-reach-decision-florian-wirtz-bayern-munich-shock-transfer",
+      "publishedAt": "2026-09-19T11:00:09.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "75cf9dd41d1d25",
+      "title": "Man Utd believe €70m Brazilian striker will become available for transfer in January",
+      "summary": "Manchester United could get another chance to sign the Real Madrid star, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-endrick-real-madrid",
+      "publishedAt": "2026-09-19T10:54:03.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "84a5f468da1ec9",
+      "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+      "summary": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T10:24:01.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -279,7 +560,7 @@
     {
       "id": "f3eff9a7876f8d",
       "title": "Andoni Iraola makes Bournemouth return still learning on the job at Liverpool",
-      "summary": "Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s...",
+      "summary": "Making big decisions and turning draws into wins is vital as head coach seeks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/andoni-iraola-bournemouth-return-learning-on-job-liverpool",
       "publishedAt": "2026-09-19T07:00:40.000Z",
@@ -302,293 +583,6 @@
       "tags": [
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "bd12c7bb531246",
-      "title": "The Serie A club turning one match into a big green experiment",
-      "summary": "Football does plenty of talking about sustainability. On Saturday, Udinese are attempting the considerably less glamorous business of finding out what actually works.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/the-serie-a-club-turning-one-match-into-a-big-green-experiment",
-      "publishedAt": "2026-09-19T06:57:01.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A"
-      ]
-    },
-    {
-      "id": "b4e16ba1f89eb3",
-      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary",
-      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T06:30:32.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "8946cc4b7ee957",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv1j4ey5j2w4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T05:39:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "850e69e96d1560",
-      "title": "Winless Villa and Spurs face telling early showdown",
-      "summary": "Aston Villa and Tottenham are winless in the Premier League - and both in need of inspiration as they prepare to face each other on Saturday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T05:32:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a08d364cffd448",
-      "title": "'We're unpredictable' - Andrews delighted with 'brilliant' Brentford",
-      "summary": "Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a unbeaten start to...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj3v47q6lde1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:42:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "52d437e62641eb",
-      "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-      "summary": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:39:24.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7d70caa84e58ff",
-      "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
-      "summary": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Un...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:34:20.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "4db89e7d983b97",
-      "title": "Mikel Arteta drops Max Dowman bombshell for Arsenal fans",
-      "summary": "Arsenal manager Mikel Arteta reveals his plan regarding the immediate future of teenage prodigy Max Dowman.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-max-dowman-mikel-arteta-loan",
-      "publishedAt": "2026-09-18T22:17:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f350c96567638f",
-      "title": "Man City strike late to beat Liverpool and maintain perfect start",
-      "summary": "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:06:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "af7b25ba12920f",
-      "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
-      "summary": "Kane double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane smashed the 49-year-old record for the fastest...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
-      "publishedAt": "2026-09-18T22:04:40.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "94e93f58863579",
-      "title": "Brentford stay unbeaten as they put three past Chelsea",
-      "summary": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T22:00:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3e986ef90304a4",
-      "title": "Chelsea capitulate as ‘most important summer signing’ humiliated at Brentford",
-      "summary": "Alonso can’t marry Chelsea’s attack and defence and they capitulated against Brentford. But he could really do with some help from a supposed guru who joined his staff...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-chelsea-capitulate-most-important-signing-summer-humiliated-brentford",
-      "publishedAt": "2026-09-18T21:41:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "63421782a602fa",
-      "title": "Arsenal open to Dowman loan in right circumstances",
-      "summary": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T21:30:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0d2f28deaa84a3",
-      "title": "Premier League news: Carrick brushes aside questions over future, Arteta salutes ‘extraordinary’ Dowman",
-      "summary": "United head coach believes it will take ‘a lot longer than one or two’ setbacks before he is concerned about his job Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman",
-      "publishedAt": "2026-09-18T21:30:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "0e80dc2dc53a87",
-      "title": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
-      "summary": "Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report",
-      "publishedAt": "2026-09-18T21:12:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c0671604cf31cb",
-      "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-      "summary": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in J...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T20:35:52.000Z",
-      "category": "league",
-      "region": "england france",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "92c54124890af5",
-      "title": "Manchester City scramble to dramatic WSL win over Liverpool with two goals in added time",
-      "summary": "Manchester City continued their winning start to the new Women’s Super League season but the defending champions needed a 90th-minute own goal from Grace Fisk to help t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league",
-      "publishedAt": "2026-09-18T20:10:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "80731b273aae79",
-      "title": "Nottingham Forest v Coventry City: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Nottingham Forest and Coventry City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/nottingham-forest-v-coventry-city-prediction-preview",
-      "publishedAt": "2026-09-18T19:05:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "2f50eb1f641928",
-      "title": "Henderson deserves Brentford boos on Chelsea debut after last day Liverpool nonsense",
-      "summary": "Brentford fans appreciated Henderson while he played but weren’t sad to see him go after his selfish final act.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-henderson-hostile-brentford-chelsea-debut-last-day-liverpool-nonsense",
-      "publishedAt": "2026-09-18T18:50:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b3f65efe0679a7",
-      "title": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
-      "summary": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
-      "publishedAt": "2026-09-18T18:00:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "10e44bf5315a43",
-      "title": "Football Daily",
-      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball catch up on life as football commentators.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032gcn?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:50:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
