@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:59:08.388Z",
+  "generatedAt": "2026-09-20T15:45:27.411Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,38 +99,12 @@
       "pinned": true
     },
     {
-      "id": "623aeb0854818c",
-      "title": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
-      "summary": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted si...",
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Guimaraes - Brighton defeat 'unacceptable'",
+      "summary": "Arsenal latest: Guimaraes - Brighton defeat 'unacceptable'",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
-      "publishedAt": "2026-09-20T10:59:08.082Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "163daaba64984c",
-      "title": "England thrash Sri Lanka to complete series sweep in Manchester",
-      "summary": "The pick of the action from Emirates Old Trafford as England thumped Sri Lanka by eight wickets to complete a 3-0 T20 series sweep and move back top of the world rankin...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589800/england-vs-sri-lanka-third-t20-highlights",
-      "publishedAt": "2026-09-20T10:59:08.082Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a251f0e94999fc",
-      "title": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "summary": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
-      "publishedAt": "2026-09-20T10:59:08.081Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-20T15:45:26.858Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -138,16 +112,281 @@
       ]
     },
     {
-      "id": "a9a56a4feea5d6",
-      "title": "Will Carrick navigate choppy waters to steer Man Utd ship back on course?",
-      "summary": "Manchester United's Carabao Cup second-round loss at Grimsby last season was a result that many will remember.",
+      "id": "67ed8419e86688",
+      "title": "City go top after EIGHT-goal thriller against Sunderland",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Manchester City and Sunderland.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats",
-      "publishedAt": "2026-09-20T10:59:08.080Z",
+      "url": "https://www.skysports.com/watch/video/13590162/manchester-city-5-3-sunderland-premier-league-highlights",
+      "publishedAt": "2026-09-20T15:45:26.858Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0b87c03add5870",
+      "title": "Liverpool maintain unbeaten start as Isak hits winner at Bournemouth",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Bournemouth and Liverpool.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13590150/bournemouth-0-1-liverpool-premier-league-highlights",
+      "publishedAt": "2026-09-20T15:45:26.858Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "922ad7fb3f1782",
+      "title": "Eight goals and complete CHAOS as Man City somehow beat Sunderland",
+      "summary": "Manchester City head into the extended international break three points clear at the top of the Premier League after edging a completely bonkers, gloriously chaotic eig...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-sunderland/report/559490",
+      "publishedAt": "2026-09-20T15:45:26.857Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8b2b16b6fe0a0f",
+      "title": "Isak wins it for Liverpool on Iraola's return to Bournemouth",
+      "summary": "Alexander Isak scored the winning goal as Liverpool beat Bournemouth 1-0 on Andoni Iraola's return to the Vitality Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bournemouth-vs-liverpool/report/559484",
+      "publishedAt": "2026-09-20T15:45:26.857Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d8cd9e03611f01",
+      "title": "Brian Brobbey cements Barclaysman status but are Man City just too fun to win the title?",
+      "summary": "Erling Haaland set another daft record as Brian Brobbey did something no Premier League player has done for almost 20 years.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/brian-brobbey-cements-barclaysman-status-man-city-fun-title",
+      "publishedAt": "2026-09-20T15:37:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "36da74fb94ad95",
+      "title": "The ridiculous stats of Erling Haaland, who has now scored against 25 out of 25 PL opponents",
+      "summary": "Erling Haaland has been a Premier League player for barely three seasons but has already outscored a legion of legends and is firing Norway to the World Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-ridiculous-stats-half-decent-start-premier-league-life",
+      "publishedAt": "2026-09-20T15:30:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "5e0c3c72a5b76c",
+      "title": "Fulham v Manchester United: Premier League – live",
+      "summary": "Updates from 4.30pm (BST) kickoff at Craven Cottage Get in touch: email Taha about the game Craven Cottage in the sun: where would you rather be? Andy Flintoff (not tha...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+      "publishedAt": "2026-09-20T15:27:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "59977013d8af89",
+      "title": "Florian Wirtz is ‘nothing’ and Liverpool aren’t much more because of him",
+      "summary": "Let’s stop prefacing Florian Wirtz criticism with some element of praise. He’s been rubbish for Liverpool and shows no sign of improvement.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-florian-wirtz-nothing-liverpool-arent-much-more-because-him",
+      "publishedAt": "2026-09-20T15:19:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ae8072c4cf34ba",
+      "title": "Leeds extend unbeaten start to season after stalemate with Crystal Palace",
+      "summary": "Perhaps it is testament to the progress Leeds have made since returning to the Premier League just over a year ago that there was discontent at failing to move up to th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report",
+      "publishedAt": "2026-09-20T15:08:52.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "522e2aca1f1f9e",
+      "title": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
+      "summary": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
+      "publishedAt": "2026-09-20T15:06:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0eabf405f09f52",
+      "title": "Brobbey hits hat-trick on losing side - player ratings for Man City v Sunderland",
+      "summary": "How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T14:59:44.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7da94a91901646",
+      "title": "Semenyo helps perfect Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
+      "summary": "Manchester City and Sunderland shared eight goals in a madcap contest that Enzo Maresca’s side won 5-3 to stay top of the Premier League table with five wins from five....",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
+      "publishedAt": "2026-09-20T14:59:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "194be5fb13da96",
+      "title": "Jacquet and Alisson impress - Bournemouth v Liverpool ratings",
+      "summary": "How Bournemouth and Liverpool's players rated during their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T14:51:05.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bd4a4be0a30f08",
+      "title": "Ally McCoist reveals who Arsenal star should sign for after Mikel Arteta makes transfer admission",
+      "summary": "Pundit Ally McCoist has advised Arsenal starlet Max Dowman to join Rangers on loan after Mikel Arteta hinted that an exit could happen.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mccoist-reveals-arsenal-star-should-sign-for-arteta-transfer-admission",
+      "publishedAt": "2026-09-20T14:34:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "56b268aa9f7ab0",
+      "title": "Arsenal verdict on signing Man Utd starlet JJ Gabriel mooted – ‘what they’d 100 per cent do is’",
+      "summary": "Arsenal’s stance on signing Manchester United starlet JJ Gabriel has been mooted, with the Gunners tipped to do their “due diligence”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-verdict-signing-man-utd-starlet-jj-gabriel-mooted",
+      "publishedAt": "2026-09-20T14:08:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4f05a76688a534",
+      "title": "Jamie Carragher backs Liverpool to sign ‘wonderful’ Bournemouth star ahead of Chelsea",
+      "summary": "Liverpool legend Jamie Carragher has backed his former club to make a move for AFC Bournemouth star Alex Scott.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jamie-carragher-backs-liverpool-sign-wonderful-bournemouth-star-chelsea",
+      "publishedAt": "2026-09-20T13:27:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fe722db5afbf76",
+      "title": "Liverpool’s strange Salah succession plan gets biggest test yet vs Bournemouth",
+      "summary": "Iraola said he was “happy” with it, but a return to former club Bournemouth will offer the clearest indication yet as to whether they got the Salah succession plan right.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-liverpool-salah-succession-biggest-test-bournemouth",
+      "publishedAt": "2026-09-20T12:56:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6c0f0fc954e2a9",
+      "title": "Man Utd identify potential JJ Gabriel replacement with top brass working hard to engineer U-turn",
+      "summary": "According to reports, Manchester United have picked out a potential replacement for JJ Gabriel, who looks set to leave the club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-identify-jj-gabriel-replacement-engineer-u-turn",
+      "publishedAt": "2026-09-20T12:43:48.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "1950288164cd55",
+      "title": "Anthony Gordon: ‘One-dimensional’ Barcelona tryhard dismissed by Spanish media",
+      "summary": "After a flying start to his Barcelona career, Anthony Gordon is now struggling and the Spanish media has taken note.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/anthony-gordon-spanish-medi-u-turn-one-dimensional-tryhard",
+      "publishedAt": "2026-09-20T12:03:27.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4a72f2e3c7e1d9",
+      "title": "Liverpool at front for Camara and FSG tipped to sign Minteh in January on one condition",
+      "summary": "Liverpool have been backed to sign Brighton winger Yankuba Minteh in January on one condition, with a deal “very, very possible”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-front-camara-fsg-tipped-sign-minteh-january-one-conditions",
+      "publishedAt": "2026-09-20T11:59:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -160,21 +399,6 @@
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4ae1d71b5d3d90",
-      "title": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
-      "summary": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "publishedAt": "2026-09-20T10:40:08.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
         "Manchester"
       ]
     },
@@ -272,38 +496,12 @@
       ]
     },
     {
-      "id": "d175bbf7071a29",
-      "title": "Mourinho and Simeone renew rivalry in Madrid derby after more than a decade",
-      "summary": "Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T06:55:30.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
       "id": "2cfa8d188f9aa2",
       "title": "Flex your football brain with our daily quizzes",
       "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-20T05:56:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c65bd01507a98a",
-      "title": "Colwill's 'surreal' Ronaldo and Haaland ambition",
-      "summary": "In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T05:07:45.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -393,199 +591,6 @@
         "Liverpool",
         "Barcelona",
         "Inter"
-      ]
-    },
-    {
-      "id": "2e995e207a97d0",
-      "title": "Gvardiol signals return to best at left-back for Man City",
-      "summary": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an i...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T21:31:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c6966f7fbd26dd",
-      "title": "Carrick has faith in VAR despite derby error",
-      "summary": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T21:30:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "782c72533e50a0",
-      "title": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
-      "summary": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
-      "publishedAt": "2026-09-19T21:12:00.000Z",
-      "category": "league",
-      "region": "spain italy france germany",
-      "tags": [
-        "Football",
-        "Ligue 1",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "643b6aeb289674",
-      "title": "Olid's Man Utd take big step forward after 'intense week'",
-      "summary": "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z7ev28zeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T20:21:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "638795975371eb",
-      "title": "De Zerbi makes history with longest goal drought from the start of a season",
-      "summary": "Roberto De Zerbi has overseen the longest goalless Premier League start by a single manager after spending an absurd amount at Spurs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-goalless-starts-to-premier-league-season",
-      "publishedAt": "2026-09-19T20:20:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "b474329f095972",
-      "title": "Moyes demands more from Everton - but don't mention Europe",
-      "summary": "Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:48:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "eb6c08bd410f16",
-      "title": "Fabrizio Romano debunks JJ Gabriel, Man Utd claims in lengthy update",
-      "summary": "Fabrizio Romano has provided the latest on JJ Gabriel and whether he has a future at Manchester United, while claims the wonderkid is talking to Barcelona directly have...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-debunks-jj-gabriel-man-utd-claims-lengthy-update",
-      "publishedAt": "2026-09-19T19:28:21.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "de9823270dd048",
-      "title": "Coventry earn first points of season in dramatic win over Forest",
-      "summary": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:14:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "f78722905e9eb3",
-      "title": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
-      "summary": "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlw745q30vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:05:18.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "4469dd7376bf60",
-      "title": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "summary": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain",
-      "publishedAt": "2026-09-19T19:00:54.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Champions League",
-        "World Cup",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9c329300f311c8",
-      "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
-      "summary": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:00:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "34f55a2a3b218d",
-      "title": "Brighton cruise past Arsenal to end champions' perfect start",
-      "summary": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:00:09.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6a34abde14d05b",
-      "title": "Spurs lose again as Villa hold on for first league win",
-      "summary": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in t...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:00:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "59e1f1d516d0c4",
-      "title": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
-      "summary": "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enoug...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report",
-      "publishedAt": "2026-09-19T18:42:26.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
