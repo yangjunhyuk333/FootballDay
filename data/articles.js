@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-20T04:15:46.079Z",
+  "generatedAt": "2026-09-20T10:59:08.388Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "a251f0e94999fc",
-      "title": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "summary": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "623aeb0854818c",
       "title": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
       "summary": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted si...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "publishedAt": "2026-09-20T10:59:08.082Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The pick of the action from Emirates Old Trafford as England thumped Sri Lanka by eight wickets to complete a 3-0 T20 series sweep and move back top of the world rankin...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589800/england-vs-sri-lanka-third-t20-highlights",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "publishedAt": "2026-09-20T10:59:08.082Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -138,52 +125,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "691d3d336f94ae",
-      "title": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "id": "a251f0e94999fc",
+      "title": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
+      "summary": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "b4eb96ef4355e1",
-      "title": "Coventry survive late Forest VAR controversy to claim first PL win in 25 years",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Coventry.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589936/nottingham-forest-0-1-coventry-premier-league-highlights",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "c15e06a9e37734",
-      "title": "Holmberg breaks Man Utd hearts with 95th-minute equaliser!",
-      "summary": "Highlights of the WSL game between Arsenal and Manchester United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589925/arsenal-1-1-manchester-united-wsl-highlights",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fa1ef016b9b3a0",
-      "title": "Arteta: We didn't respect the game against Brighton",
-      "summary": "Mikel Arteta accused his Arsenal players of failing to \"respect the game\" in their 3-0 defeat to Brighton at the Amex Stadium.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589868/arsenal-boss-mikel-arteta-accuses-players-of-failing-to-respect-the-game-as-champions-suffer-first-defeat-of-season-to-brighton",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "url": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
+      "publishedAt": "2026-09-20T10:59:08.081Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -191,17 +138,189 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f8222d55809db2",
-      "title": "Holmberg equalises LATE on for Arsenal!",
-      "summary": "Smilla Holmberg rescues draw for Arsenal with late goal against Manchester United.",
+      "id": "a9a56a4feea5d6",
+      "title": "Will Carrick navigate choppy waters to steer Man Utd ship back on course?",
+      "summary": "Manchester United's Carabao Cup second-round loss at Grimsby last season was a result that many will remember.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589917/arsenal-1-1-manchester-united-smilla-holmberg-equalises-late-on-for-gunners",
-      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "url": "https://www.skysports.com/football/news/12040/13589079/michael-carrick-man-utd-boss-aiming-to-steer-ship-back-on-course-at-fulham-after-back-to-back-defeats",
+      "publishedAt": "2026-09-20T10:59:08.080Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal",
         "Manchester"
+      ]
+    },
+    {
+      "id": "9dfc554d2de331",
+      "title": "JJ Gabriel closes in on Man Utd exit as Carrick speaks volumes after Romano reveals current ‘situation’",
+      "summary": "JJ Gabriel is reportedly ‘closing in’ on a Manchester United exit, while head coach Michael Carrick has indirectly sent a message to the starlet.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-closes-in-man-utd-exit-carrick-speaks-volumes-romano-reveals-situation",
+      "publishedAt": "2026-09-20T10:58:06.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4ae1d71b5d3d90",
+      "title": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
+      "summary": "News, discussion and updates before Sunday’s games This weekend’s fixtures | Mail us your thoughts How things stand in the Premier League… At Hill Dickinson Stadium, Th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
+      "publishedAt": "2026-09-20T10:40:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8ab86b804610ab",
+      "title": "Alan Shearer sends PL title warning to Arsenal after Gunners ‘well beaten’ by Brighton – ‘can’t happen’",
+      "summary": "Alan Shearer has sent a Premier League title warning to Arsenal after they were “well beaten” by Brighton and Hove Albion on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alan-shearer-sends-pl-title-warning-arsenal-well-beaten-brighton",
+      "publishedAt": "2026-09-20T09:48:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c22724cf41f1b8",
+      "title": "Fulham v Man Utd: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Fulham and Man Utd.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/fulham-v-man-utd-prediction-preview",
+      "publishedAt": "2026-09-20T09:47:08.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a4382a86ea87fc",
+      "title": "Man Utd, Spurs to race for Eddie Howe with Harry Kane blamed but Glazers not the problem",
+      "summary": "Manchester United and Tottenham Hotspur have been tipped to fight to appoint Eddie Howe before they face off on October 10.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mailbox-man-utd-tottenham-race-eddie-howe-harry-kane-blamed-glazers-defended",
+      "publishedAt": "2026-09-20T09:09:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3769bcf0b38e6a",
+      "title": "Michael Carrick sends message to two ‘inept’ Man Utd stars – ‘when things haven’t gone so well’",
+      "summary": "Manchester United boss Michael Carrick has leapt to the defence of Leny Yoro and Ayden Heaven after they struggled against Brighton in midweek.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-sends-message-two-inept-man-utd-stars",
+      "publishedAt": "2026-09-20T08:18:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e842b4ccc5e314",
+      "title": "Will the three-week break put more pressure on managers?",
+      "summary": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T07:25:56.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "07144c74307685",
+      "title": "‘A miles off it’- Merson slams Arsenal star as Arteta told he should have been hooked at HT vs Brighton",
+      "summary": "Paul Merson has hit out at Arsenal summer signing Bruno Guimaraes after he struggled in his side’s disappointing 3-0 loss against Brighton.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/merson-slams-arsenal-star-arteta-told-should-hooked-ht-brighton",
+      "publishedAt": "2026-09-20T07:11:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c496bbb2418a6f",
+      "title": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
+      "summary": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s death Olivia Cusack says her sister, the late Maddy Cusack, is on h...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united",
+      "publishedAt": "2026-09-20T07:00:10.000Z",
+      "category": "ratings",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d175bbf7071a29",
+      "title": "Mourinho and Simeone renew rivalry in Madrid derby after more than a decade",
+      "summary": "Jose Mourinho and Diego Simeone renew their rivalry after a 12-year wait as Real Madrid visit Atletico Madrid in Sunday's Spanish capital derby.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4x3l5kzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T06:55:30.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "2cfa8d188f9aa2",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T05:56:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c65bd01507a98a",
+      "title": "Colwill's 'surreal' Ronaldo and Haaland ambition",
+      "summary": "In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T05:07:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "491eaa65f69fe3",
+      "title": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "summary": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:17:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -304,16 +423,16 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "782c72533e50a0",
-      "title": "European football: Martínez double gives Inter comeback draw at Roma",
-      "summary": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions...",
+      "title": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
+      "summary": "English manager responds after Paris FC’s win Martínez rescues Inter; Salah hits hat-trick Paris FC extended their unbeaten start to the Ligue 1 campaign, beating Liam...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
       "publishedAt": "2026-09-19T21:12:00.000Z",
       "category": "league",
-      "region": "spain italy germany",
+      "region": "spain italy france germany",
       "tags": [
         "Football",
-        "Serie A",
+        "Ligue 1",
         "Barcelona",
         "Inter"
       ]
@@ -467,129 +586,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "f2e082a5518794",
-      "title": "Coventry delight in Jay Dasilva winner but ruled-out goal riles Nottingham Forest",
-      "summary": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously,...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/nottingham-forest-coventry-premier-league-match-report",
-      "publishedAt": "2026-09-19T18:40:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5dbe26218c0808",
-      "title": "Leeds v Crystal Palace: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Leeds and Crystal Palace.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/leeds-v-crystal-palace-prediction-preview",
-      "publishedAt": "2026-09-19T18:24:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5d90284e6fc081",
-      "title": "Frank Lampard’s Coventry City avoid unwanted Premier League history",
-      "summary": "Coventry were the 19th team to start a Premier League season losing at least four straight games; they might copy Villa and finish 7th.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-ever-losing-runs-start-premier-league-season",
-      "publishedAt": "2026-09-19T18:12:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d053a93fc9576d",
-      "title": "How close are Manchester City to greatest start to a Premier League season?",
-      "summary": "Only Manchester City can challenge the best winning start to a Premier League season after Arsenal fell by the wayside.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-ever-winning-runs-start-premier-league-season",
-      "publishedAt": "2026-09-19T18:04:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1d2c0067d66b9f",
-      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
-      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
-      "publishedAt": "2026-09-19T18:01:04.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "3fc264655a9c10",
-      "title": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
-      "summary": "Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) ha...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
-      "publishedAt": "2026-09-19T17:44:32.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Raphinha is hunting down Harry Kane",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-09-19T17:42:59.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "366a85852119a9",
-      "title": "Malard scores on debut as Chelsea beat Birmingham",
-      "summary": "Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as comfortable winners against Birmingham City at Stamford Bridge.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx980qzv905do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T17:37:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d10cf7b4cf7367",
-      "title": "Arteta’s eight-word explanation damns awful Arsenal as Hurzeler gets his revenge",
-      "summary": "The last time Arsenal lost by three goals, Mikel Arteta said that ‘any team in this league can punish you’; Brighton most certainly did.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arteta-eight-word-explanation-awful-arsenal-hurzeler-brighton",
-      "publishedAt": "2026-09-19T17:06:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
