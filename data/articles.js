@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-19T20:19:09.240Z",
+  "generatedAt": "2026-09-20T04:15:46.079Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,64 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "a251f0e94999fc",
+      "title": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
+      "summary": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "623aeb0854818c",
+      "title": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
+      "summary": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted si...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "163daaba64984c",
+      "title": "England thrash Sri Lanka to complete series sweep in Manchester",
+      "summary": "The pick of the action from Emirates Old Trafford as England thumped Sri Lanka by eight wickets to complete a 3-0 T20 series sweep and move back top of the world rankin...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13589800/england-vs-sri-lanka-third-t20-highlights",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "691d3d336f94ae",
+      "title": "Papers: Man Utd legend set to sign up for I'm A Celebrity",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13589966/wayne-rooney-manchester-united-and-england-legend-set-to-sign-up-for-im-a-celebrity-paper-talk",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "b4eb96ef4355e1",
       "title": "Coventry survive late Forest VAR controversy to claim first PL win in 25 years",
       "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Coventry.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589936/nottingham-forest-0-1-coventry-premier-league-highlights",
-      "publishedAt": "2026-09-19T20:19:09.049Z",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -117,7 +169,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Highlights of the WSL game between Arsenal and Manchester United.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589925/arsenal-1-1-manchester-united-wsl-highlights",
-      "publishedAt": "2026-09-19T20:19:09.049Z",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -131,7 +183,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Mikel Arteta accused his Arsenal players of failing to \"respect the game\" in their 3-0 defeat to Brighton at the Amex Stadium.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13589868/arsenal-boss-mikel-arteta-accuses-players-of-failing-to-respect-the-game-as-champions-suffer-first-defeat-of-season-to-brighton",
-      "publishedAt": "2026-09-19T20:19:09.049Z",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -144,7 +196,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Smilla Holmberg rescues draw for Arsenal with late goal against Manchester United.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13589917/arsenal-1-1-manchester-united-smilla-holmberg-equalises-late-on-for-gunners",
-      "publishedAt": "2026-09-19T20:19:09.049Z",
+      "publishedAt": "2026-09-20T04:15:45.609Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -153,13 +205,13 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "547efb88bbb90b",
-      "title": "Zigiotti capitalises on Arsenal error to give Man Utd shock lead!",
-      "summary": "Julia Zigiotti gives Manchester United a 1-0 lead in their WSL clash with Arsenal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589906/arsenal-0-1-manchester-united-julia-zigiotti-captialises-on-error-to-give-man-utd-shock-lead",
-      "publishedAt": "2026-09-19T20:19:09.049Z",
-      "category": "transfer",
+      "id": "1051d35a857d0f",
+      "title": "Arsenal score last-minute equaliser to deny Man Utd first WSL win",
+      "summary": "Arsenal steal a last gasp leveller through Smilla Holmberg, denying Eva Olid her first win as Manchester United manager in her third game in charge.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8r4v5y9w1gyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T22:40:53.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Arsenal",
@@ -167,42 +219,130 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a251f0e94999fc",
-      "title": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "summary": "Hits and misses: Spurs hit self-destruct again as Arsenal prove imperfect",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13589567/tottenham-continue-downward-spiral-as-arsenal-prove-they-are-not-perfect-premier-league-hits-and-misses",
-      "publishedAt": "2026-09-19T20:19:09.048Z",
-      "category": "transfer",
+      "id": "e1afce179037fb",
+      "title": "Raphinha nets hat-trick in Sevilla win to keep Barcelona top",
+      "summary": "Raphinha scores a second hat-trick in successive games as Barcelona claim a comfortable victory over Sevilla to increase their lead at the top of the La Liga table.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qx995xzl3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T22:04:17.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "La Liga",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "b363ac7dd54dcb",
+      "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
+      "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League t...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:59:01.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
+        "Premier League",
         "Arsenal"
       ]
     },
     {
-      "id": "623aeb0854818c",
-      "title": "Coventry seal first PL win in 25 years at Forest amid VAR controversy",
-      "summary": "Coventry earned their first Premier League victory in 25 years after Jay Dasilva's winner and a controversial disallowed Nottingham Forest equaliser saw the promoted si...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-coventry-city/report/559492",
-      "publishedAt": "2026-09-19T20:19:09.048Z",
+      "id": "94ff3cd2df4085",
+      "title": "Major star wants to quit Arsenal as transfer talks with European royalty begin",
+      "summary": "Viktor Gyokeres has had enough of being usurped by Kai Havertz, according to a report, with the Arsenal striker’s camp now in active transfer talks with four sides, two...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/viktor-gyokeres-wants-quit-arsenal-transfer-talks-european-royalty-begin",
+      "publishedAt": "2026-09-19T21:47:09.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
-      "id": "163daaba64984c",
-      "title": "England thrash Sri Lanka to complete series sweep in Manchester",
-      "summary": "The pick of the action from Emirates Old Trafford as England thumped Sri Lanka by eight wickets to complete a 3-0 T20 series sweep and move back top of the world rankin...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13589800/england-vs-sri-lanka-third-t20-highlights",
-      "publishedAt": "2026-09-19T20:19:09.048Z",
+      "id": "6b0be2c0683119",
+      "title": "Arsenal may move for Endrick in January - Sunday's gossip",
+      "summary": "Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j478n0ll7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:39:38.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2e995e207a97d0",
+      "title": "Gvardiol signals return to best at left-back for Man City",
+      "summary": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an i...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:31:17.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "c6966f7fbd26dd",
+      "title": "Carrick has faith in VAR despite derby error",
+      "summary": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:30:56.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "782c72533e50a0",
+      "title": "European football: Martínez double gives Inter comeback draw at Roma",
+      "summary": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
+      "publishedAt": "2026-09-19T21:12:00.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "643b6aeb289674",
+      "title": "Olid's Man Utd take big step forward after 'intense week'",
+      "summary": "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2z7ev28zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T20:21:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "638795975371eb",
+      "title": "De Zerbi makes history with longest goal drought from the start of a season",
+      "summary": "Roberto De Zerbi has overseen the longest goalless Premier League start by a single manager after spending an absurd amount at Spurs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/longest-goalless-starts-to-premier-league-season",
+      "publishedAt": "2026-09-19T20:20:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -233,24 +373,8 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "782c72533e50a0",
-      "title": "European football: Martínez double gives Inter comeback draw at Roma",
-      "summary": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
-      "publishedAt": "2026-09-19T19:24:33.000Z",
-      "category": "league",
-      "region": "spain italy germany",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
       "id": "de9823270dd048",
-      "title": "Coventry win first points of season in dramatic win over Forest",
+      "title": "Coventry earn first points of season in dramatic win over Forest",
       "summary": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
@@ -333,7 +457,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "59e1f1d516d0c4",
       "title": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
-      "summary": "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will...",
+      "summary": "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enoug...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report",
       "publishedAt": "2026-09-19T18:42:26.000Z",
@@ -466,130 +590,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "d645317a04caa2",
-      "title": "Suzuki proves worthy replacement for Martinez at Villa",
-      "summary": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T16:58:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "cdb8565456a384",
-      "title": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
-      "summary": "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the Prem...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T16:50:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ba630c69b7ba9a",
-      "title": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-      "summary": "Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T16:43:38.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b4e16ba1f89eb3",
-      "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
-      "summary": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T16:41:34.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "ac375c49a42881",
-      "title": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
-      "summary": "After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will al...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report",
-      "publishedAt": "2026-09-19T16:26:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fc41e3dba2934a",
-      "title": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
-      "summary": "Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural to...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
-      "publishedAt": "2026-09-19T16:14:51.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "08aac1e38f05cd",
-      "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
-      "summary": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant si...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report",
-      "publishedAt": "2026-09-19T16:06:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "db36295da8b280",
-      "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-      "summary": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T15:33:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e14c139d30dc09",
-      "title": "De Zerbi ‘sacked in the morning’ as Villa have spine ripped out and still show more backbone than Spurs",
-      "summary": "Roberto De Zerbi’s Spurs obviously lost their final game before the international break and scored their first goals of the season in defeat.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/de-zerbi-sacked-in-the-morning-spurs-aston-villa-spine",
-      "publishedAt": "2026-09-19T15:29:03.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
