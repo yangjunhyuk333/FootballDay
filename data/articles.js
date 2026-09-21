@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-20T20:33:34.248Z",
+  "generatedAt": "2026-09-21T04:13:19.678Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,39 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "fa8095903e71c2",
-      "title": "Neville: Carrick has got to stop defending the players",
-      "summary": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "564b4542936db3",
-      "title": "Cunha's late deflected equaliser grabs Man Utd point at Fulham",
-      "summary": "Matheus Cunha's deflected 89th-minute strike grabbed Manchester United a 1-1 draw at Fulham to take the edge off what appeared to be turning into a full-blown crisis fo...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fulham-vs-manchester-united/report/559488",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
       "id": "922ad7fb3f1782",
       "title": "Eight goals and complete CHAOS as Man City somehow beat Sunderland",
       "summary": "Manchester City head into the extended international break three points clear at the top of the Premier League after edging a completely bonkers, gloriously chaotic eig...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-vs-sunderland/report/559490",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
+      "publishedAt": "2026-09-21T04:13:19.363Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -146,7 +119,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Alexander Isak scored the winning goal as Liverpool beat Bournemouth 1-0 on Andoni Iraola's return to the Vitality Stadium.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-liverpool/report/559484",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
+      "publishedAt": "2026-09-21T04:13:19.363Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -159,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Jose Mourinho held up pictures of two tackles to the media in his post-match news conference after Real Madrid's 2-1 La Liga defeat to Atletico Madrid.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590219/jose-mourinho-real-madrid-boss-holds-up-pictures-of-referee-errors-in-press-conference-after-defeat-to-atletico-madrid",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
+      "publishedAt": "2026-09-21T04:13:19.363Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -168,29 +141,96 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "45974d646ab282",
-      "title": "Carra: One of worst I've seen from Wirtz - he can't play vs Man City",
-      "summary": "Jamie Carragher says Florian Wirtz put in his worst performance yet in a Liverpool shirt away at Bournemouth - and he would not want the midfielder in Andoni Iraola's t...",
+      "id": "564b4542936db3",
+      "title": "Cunha's late deflected equaliser grabs Man Utd point at Fulham",
+      "summary": "Matheus Cunha's deflected 89th-minute strike grabbed Manchester United a 1-1 draw at Fulham to take the edge off what appeared to be turning into a full-blown crisis fo...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590105/liverpools-florian-wirtz-put-in-one-of-his-worst-performances-at-bournemouth-and-shouldnt-play-against-man-city-says-jamie-carragher",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
+      "url": "https://www.skysports.com/football/fulham-vs-manchester-united/report/559488",
+      "publishedAt": "2026-09-21T04:13:19.362Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fa8095903e71c2",
+      "title": "Neville: Carrick must stop defending Man Utd players after Fulham 'disgrace'",
+      "summary": "Gary Neville has urged Michael Carrick to stop defending Manchester United players after another troubling performance in their draw at Fulham.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590228/gary-neville-michael-carrick-has-got-to-stop-defending-man-utd-players-after-lacklustre-draw-at-fulham",
+      "publishedAt": "2026-09-21T04:13:19.361Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "8b492e91b20068",
-      "title": "Arbeloa: Officials wouldn't let Man Utd lose",
-      "summary": "Alvaro Arbeloa has accused the referees of not wanting Manchester United to lose against Fulham because of the injustice Michael Carrick's side faced in the Manchester...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590215/alvaro-arbeloa-accuses-officials-of-not-wanting-manchester-united-to-lose-after-late-controversy-in-draw-at-fulham",
-      "publishedAt": "2026-09-20T20:33:33.946Z",
-      "category": "transfer",
+      "id": "960f0f91ab50d7",
+      "title": "How Liverpool are getting more from Isak - Edwards",
+      "summary": "With Alexander Isak betting his goal scoring tally from last year already Rob Edwards brakes down what Liverpool are doing to get him in to the game more this year on M...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv1j42x7nn9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T23:09:54.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cdc6b6bd1f8724",
+      "title": "'Who would be a goalkeeper?' - Hart on Martinez own goal",
+      "summary": "Match of the Day pundit Joe Hart reflects on the \"uncomfortable\" own goal by Manchester United defender Lisandro Martinez in their 1-1 draw with Fulham.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm74kdn054j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T23:09:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8652de357d40a5",
+      "title": "'I think he's a genius' - Hart hails Cherki strike",
+      "summary": "Match of the Day pundit Joe Hart hails Manchester City's Rayan Cherki as a \"genius\" after the forward scored in his side's 5-3 Premier League win over Sunderland.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqkgwpr44re0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T23:09:44.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "135471bdd4d03f",
+      "title": "Football Daily",
+      "summary": "Rick Edwards, Clinton Morrison and Luke Edwards sum up the weekend's football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m00321lw?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T20:22:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "0ad57370d9d2e2",
+      "title": "Carrick disputes Cunha’s claim that Manchester United lacked energy in Fulham draw",
+      "summary": "Michael Carrick insists team ‘kept pushing’ for leveller Matheus Cunha: ‘Fulham put in more energy than us’ Michael Carrick rejected the suggestion that his Manchester...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/michael-carrick-matheus-cunha-fulham-manchester-united-premier-league",
+      "publishedAt": "2026-09-20T19:49:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
         "Manchester"
       ]
     },
@@ -209,8 +249,8 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "944125b711efab",
-      "title": "Carrick rejects Neville's 'pathetic' claim - but Man Utd must improve",
-      "summary": "\"Pathetic\" Manchester United? Michael Carrick says not, but knows improvement is required to prove his old team-mate Gary Neville wrong.",
+      "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
+      "summary": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-20T19:44:15.000Z",
@@ -244,6 +284,21 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League"
+      ]
+    },
+    {
+      "id": "818b34cfb741e4",
+      "title": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg",
+      "summary": "Carrick’s side were short on inspiration, despite the summer spend in midfield, and the lack of quality in the final third was stark One of the more damning aspects of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration",
+      "publishedAt": "2026-09-20T19:14:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
       ]
     },
     {
@@ -357,7 +412,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "861a9414aef8dc",
       "title": "Jonathan David earns Atlético precious win over 10-man Real Madrid in fractious derby",
-      "summary": "Diego Simeone said it had been a special week in Madrid, a “tremendous energy about the city”, and it closed the way he wanted. He had enjoyed the Formula One, he said,...",
+      "summary": "On the eve of the derby, Diego Simeone described this as a special week in Madrid, a “tremendous energy about the city”, and it closed the way he wanted. He had enjoyed...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
       "publishedAt": "2026-09-20T18:10:11.000Z",
@@ -366,20 +421,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "77c6dc6d1e25bf",
-      "title": "Cunha strikes late to deny Fulham and salvage point for Manchester United",
-      "summary": "To paraphrase a former Manchester United manager, Michael Carrick knew that the storm would come. Everything went a little too perfectly for him in the second half of l...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report",
-      "publishedAt": "2026-09-20T17:46:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
       ]
     },
     {
@@ -393,6 +434,22 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "132e30aacaed1a",
+      "title": "Maresca dismisses title talk as ‘too early’ after Manchester City take over at the top",
+      "summary": "‘I prefer to win 1-0 than 5-3 but expected a difficult game’ Semenyo scored twice in 5-3 victory against Sunderland Enzo Maresca dismissed ­Manchester City pulling ahea...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league",
+      "publishedAt": "2026-09-20T17:22:24.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -529,65 +586,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Premier League",
         "Inter"
-      ]
-    },
-    {
-      "id": "522e2aca1f1f9e",
-      "title": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
-      "summary": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
-      "publishedAt": "2026-09-20T15:06:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0eabf405f09f52",
-      "title": "Brobbey hits hat-trick on losing side - player ratings for Man City v Sunderland",
-      "summary": "How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T14:59:44.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7da94a91901646",
-      "title": "Semenyo helps chaotic Manchester City beat Sunderland despite Brobbey hat-trick",
-      "summary": "Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s team three points clear as leaders during the three-week international bre...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
-      "publishedAt": "2026-09-20T14:59:02.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "194be5fb13da96",
-      "title": "Jacquet and Alisson impress - Bournemouth v Liverpool ratings",
-      "summary": "How Bournemouth and Liverpool's players rated during their Premier League match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T14:51:05.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
       ]
     }
   ],
