@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-21T12:25:23.393Z",
+  "generatedAt": "2026-09-21T21:50:30.471Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,42 +99,29 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "d1691e534702fe",
-      "title": "Ref Watch & Premier League weekend reaction",
-      "summary": "Ref Watch & Premier League weekend reaction",
+      "id": "fb82ca25d1172b",
+      "title": "Trott replaces Flintoff as England Lions head coach",
+      "summary": "Jonathan Trott will coach the England Lions this winter, filling the role vacated by Andrew Flintoff.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-      "publishedAt": "2026-09-21T12:25:23.351Z",
+      "url": "https://www.skysports.com/cricket/news/12040/13590441/england-lions-jonathan-trott-replaces-andrew-flintoff-as-head-coach-of-development-squad-for-winter-tours",
+      "publishedAt": "2026-09-21T21:50:30.340Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6549bd53f18eac",
+      "title": "Brentford, Brighton, Bournemouth - how the PL's 'Bermuda Triangle' defies odds",
+      "summary": "A strange patch of Premier League territory stretches from west London to the south coast, where top clubs cannot pass through easily.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590434/brentford-brighton-bournemouth-how-the-premier-leagues-bermuda-triangle-defies-the-odds-with-recruitment-and-culture",
+      "publishedAt": "2026-09-21T21:50:30.340Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "1faafc531b2031",
-      "title": "What do Arsenal stand for if not title contenders?",
-      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories at the h...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590378/what-do-arsenal-stand-for-gunners-risk-falling-behind-those-in-the-wsl-title-race-if-they-do-not-sharpen-up",
-      "publishedAt": "2026-09-21T12:25:23.351Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Does Wirtz play vs Man City? Name your starting XI",
-      "summary": "Liverpool latest: Does Wirtz play vs Man City? Name your starting XI",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-21T12:25:23.351Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     },
     {
@@ -143,11 +130,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Shaun Edwards has joined the England Women coaching team as a consultant until the end of the WXV Global Series, the Rugby Football Union has announced.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-union/news/12040/13590422/shaun-edwards-joins-england-women-coaching-team-under-john-mitchell-on-short-term-deal-until-end-of-wxv-global-series",
-      "publishedAt": "2026-09-21T12:25:23.350Z",
+      "publishedAt": "2026-09-21T21:50:30.340Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "4971802e1e73b5",
+      "title": "Infantino pens letter to FIFA members after backlash over scrapped investment plan",
+      "summary": "Infantino pens letter to FIFA members after backlash over scrapped investment plan",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "publishedAt": "2026-09-21T21:50:30.340Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
       ]
     },
     {
@@ -156,7 +156,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United's intensity levels are back in the spotlight after their 1-1 draw at Fulham in the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590371/manchester-united-running-stats-for-michael-carricks-side-examined-after-intensity-criticism-in-draw-at-fulham",
-      "publishedAt": "2026-09-21T12:25:23.350Z",
+      "publishedAt": "2026-09-21T21:50:30.340Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -170,7 +170,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Paul Merson believes Premier League leaders Manchester City have \"no way\" of winning the title if they keep playing as they are.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590373/paul-merson-no-way-man-city-win-premier-league-after-chaos-filled-win-over-sunderland",
-      "publishedAt": "2026-09-21T12:25:23.350Z",
+      "publishedAt": "2026-09-21T21:50:30.340Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -179,416 +179,423 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "53ed4914e65282",
-      "title": "John Terry tells Xabi Alonso to make big change to fix Chelsea as £70m star blamed after Brentford loss",
-      "summary": "Chelsea legend John Terry has explained why he wants Xabi Alonso to make a major change to his team to improve results.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/john-terry-tells-xabi-alonso-big-change-fix-chelsea-70m-star-blamed",
-      "publishedAt": "2026-09-21T12:12:16.000Z",
+      "id": "e52e76c778dba5",
+      "title": "Liverpool vs Man Utd, Arsenal vs Man City live on Sky - November fixtures here",
+      "summary": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
+      "publishedAt": "2026-09-21T21:50:30.339Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "446b792676e48a",
+      "title": "Atletico hit back at Mourinho for ref criticism after derby defeat",
+      "summary": "Atletico Madrid have hit back at Real Madrid's criticism of the referring decisions during the derby on Sunday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590525/jose-mourinho-atletico-madrid-hit-back-at-real-madrid-boss-after-referee-criticism-following-derby-defeat",
+      "publishedAt": "2026-09-21T21:50:30.339Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "017abd65eb7f88",
+      "title": "Spurs bottom of PL but more than £300m spent - where do they go from here?",
+      "summary": "This time it was supposed to be different. After multiple false dawns for Tottenham Hotspur, the club had a manager with proven Premier League experience, and had hande...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590421/tottenham-bottom-of-premier-league-despite-300m-summer-spend-where-do-they-go-from-here",
+      "publishedAt": "2026-09-21T21:50:30.339Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "eef175c19818a7",
+      "title": "Liverpool eye in-demand right-back Read - Tuesday's gossip",
+      "summary": "Liverpool are on the hunt for a new right-back, setting their sights on Dutchman Givairo Read.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gqv6m9278o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T21:43:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3e28c0d71ed4ed",
+      "title": "Football Daily",
+      "summary": "What is stopping Brentford & Brighton reaching the next level?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pbt6j0?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T21:32:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "8139f21b390a4b",
+      "title": "Infantino proposes an ‘independent external review’ of Fifa governance",
+      "summary": "President writes to council and member nations Infantino says he is ‘fully committed to leading Fifa’ The Fifa president, Gianni Infantino, has agreed to commission an...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
+      "publishedAt": "2026-09-21T21:05:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "652a25e604181c",
+      "title": "Come back soon Premier League, the endlessly moreish mega-product | Barney Ronay",
+      "summary": "Brighton have impressed in a goal-laden start to the season, in a league that remains a brutally strong attraction Get ready for the dopamine crash. And this one really...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-mega-product-brighton-arsenal-international-break",
+      "publishedAt": "2026-09-21T20:30:24.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "730118209d650e",
+      "title": "Scholes rips into ‘million miles away’ Man Utd ‘buying players for the sake of it’",
+      "summary": "Paul Scholes insists Man Utd are “a million miles away” from winning the Premier League as they’re now “buying players just for the sake of it”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/scholes-rips-into-million-miles-away-man-utd-buying-players-for-the-sake-of-it",
+      "publishedAt": "2026-09-21T20:21:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "35f5b380d0f5f2",
+      "title": "Infantino says he is open to talks over Fifa reform",
+      "summary": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T19:50:57.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "7ef1ee3eddc9d5",
+      "title": "Marcus Rashford: Mystery of ‘glum-faced’ Man Utd star solved as there’s ‘something behind scenes’",
+      "summary": "Can anyone think what’s wrong with Marcus Rashford? He’s all “glum-faced”. Probably “something behind the scenes”. Next we’ll be telling him to focus on his football ag...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-marcus-rashford-solving-mystery-glum-faced-man-utd-star",
+      "publishedAt": "2026-09-21T19:43:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c68e8d1fc3b0a6",
+      "title": "Virgil van Dijk retirement decision confirmed in bad news for Liverpool",
+      "summary": "Liverpool captain, Virgil van Dijk, has spoken publicly about his decision on whether or not to continue playing for the Netherlands, and it’s bad news for the Reds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/virgil-van-dijk-retirement-decision-confirmed-bad-news-liverpool",
+      "publishedAt": "2026-09-21T18:17:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a2123a29c4a35b",
+      "title": "Long-range hits and goals galore: inside the Premier League’s return to chaos | Andrew Beasley",
+      "summary": "Teams are running further and set-piece strikes are in decline as end-to-end football takes over the division Goals in the Premier League are up. Chaos is returning. En...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/long-range-hits-goals-galore-inside-premier-league-chaos",
+      "publishedAt": "2026-09-21T16:45:01.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6e653758ad30f6",
+      "title": "BBC Women's Football Weekly",
+      "summary": "Flawless in the WSL, but can Manchester City carry their form into Europe?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pbs537?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T15:58:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6542d6a8e9c03d",
+      "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
+      "summary": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media po...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T15:39:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "997abcce65a45b",
+      "title": "Pierre Sage took Lens to new heights. His replacement left after six games",
+      "summary": "Lens finished second in Ligue 1 last season and won the Coupe de France. Building on that success is proving tricky By Get French Football News It was under cover of da...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/pierre-sage-lens-ligue-1-coupe-de-france-success",
+      "publishedAt": "2026-09-21T15:16:47.000Z",
+      "category": "league",
+      "region": "italy france",
+      "tags": [
+        "Football",
+        "Ligue 1",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d464d345416c94",
+      "title": "Football Daily | Brighton’s organised chaos viciously pecks Arsenal into submission",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! For an elite head coach who isn’t used to seeing his team lose, suffering a rare defeat on the weekend before an int...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/football-daily-email-brighton-arsenal",
+      "publishedAt": "2026-09-21T15:14:17.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Arsenal",
         "Chelsea"
       ]
     },
     {
-      "id": "631fda0314d37c",
-      "title": "Ex-Liverpool forward Salah gets six-month driving ban",
-      "summary": "The former Liverpool footballer's Rolls-Royce was clocked speeding in Wilmslow in March.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw27jpy0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T11:32:41.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b76a9649ad0f87",
-      "title": "Man Utd reach Michael Carrick sack decision after Fulham draw and react to Antonio Conte claims",
-      "summary": "Manchester United have made up their mind on sacking Michael Carrick as manager and replace him with Antonio Conte.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-michael-carrick-sack-decision-antonio-conte-replacement",
-      "publishedAt": "2026-09-21T11:25:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c5b9e7ec32a6ab",
-      "title": "Ex-Man Utd star Louis Saha makes PL title prediction with Arsenal to be beaten for three reasons",
-      "summary": "Former Manchester United star Louis Saha is backing Manchester City to beat Arsenal to win the Premier League this season for three reasons.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ex-man-utd-star-louis-saha-pl-title-prediction-arsenal-man-city-brighton",
-      "publishedAt": "2026-09-21T11:01:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "02c8dca34111de",
-      "title": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case",
-      "summary": "Gunners are held to second home draw in two weeks, while Spurs smash Palace 7-0 to maintain strong start After being unable to find a way through Crystal Palace’s backl...",
+      "id": "d174698547e527",
+      "title": "To minimise the risks to young football players we should ban agents recruiting under-18s | Letter",
+      "summary": "Phil Murray responds to articles about the precarious path talented young athletes face Jonathan Liew’s piece ( Raheem Sterling’s bleak tale a reminder of absurd path y...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england",
-      "publishedAt": "2026-09-21T11:00:18.000Z",
-      "category": "league",
+      "url": "https://www.theguardian.com/football/2026/sep/21/to-minimise-the-risks-to-young-football-players-we-should-ban-agents-recruiting-under-18s",
+      "publishedAt": "2026-09-21T15:01:10.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "075b7d38a85775",
+      "title": "‘There’s no way’ – Paul Merson reveals verdict on PL title race after Man City move clear of Arsenal",
+      "summary": "Paul Merson has revealed why there is “no way” Manchester City can beat Arsenal to the Premier League title this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/paul-merson-reveals-verdict-pl-title-race-man-city-arsenal",
+      "publishedAt": "2026-09-21T14:43:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Arsenal",
-        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "7ef7fbc17cabe2",
-      "title": "De Zerbi true feelings on horror Spurs start revealed as Man Utd star ‘slams’ team-mates",
-      "summary": "To the surprise of absolutely nobody, Spurs and Man United will be the international break’s designated crisis clubs.",
+      "id": "9f423bf971c3f5",
+      "title": "Liverpool: Murphy reveals two reasons for surprise transfer decision as Reds star ‘doesn’t belong’",
+      "summary": "Ex-Liverpool midfielder Danny Murphy has explained why he thinks his former side opted against signing a natural replacement for Mohamed Salah in the summer.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-united-star-slams-team-mates-spurs-woes-revealed-mediawatch",
-      "publishedAt": "2026-09-21T10:49:03.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "2a950b699d255c",
-      "title": "Man Utd plan enormous proposal for Barcelona superstar and pay more salary than Erling Haaland",
-      "summary": "Manchester United want to sign a former Leeds United winger from Barcelona in 2027, according to a Spanish report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-barcelona-raphinha",
-      "publishedAt": "2026-09-21T10:33:00.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "4e1ef87de1a488",
-      "title": "Reason Arsenal star Declan Rice avoided red card for ‘violent action’ during Brighton loss revealed",
-      "summary": "A former Premier League referee has revealed why Arsenal midfielder Declan Rice was not sent off during his side’s 3-0 loss against Brighton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/reason-arsenal-star-declan-rice-avoided-red-card-violent-action-brighton-loss-revealed",
-      "publishedAt": "2026-09-21T10:25:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "435e16870e88f7",
-      "title": "How Brighton’s pressing, pushing, running makes them nightmare opponent",
-      "summary": "Brighton are a nuisance to play against because of their incessant movement with and without the ball. Arsenal found out the hard way.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/brighton-tactical-arsenal-nightmare-opponent",
-      "publishedAt": "2026-09-21T10:17:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e842b4ccc5e314",
-      "title": "Will three-week break put more pressure on managers?",
-      "summary": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T09:57:42.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "b7bd78495bec0f",
-      "title": "Liverpool star wants to join Euro giants as Andoni Iraola’s stance on sanctioning exit revealed",
-      "summary": "According to reports, Liverpool star Florian Wirtz ‘wants to join’ Bayern Munich, and Andoni Iraola’s stance on his exit has been revealed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-star-wants-join-euro-giants-iraola-stance-sanctioning-exit-revealed",
-      "publishedAt": "2026-09-21T09:53:48.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "1901128b2da7c0",
-      "title": "Carragher doubles down after criticising Liverpool star as he hits back at commentator – ‘pretty obvious’",
-      "summary": "Jamie Carragher has doubled down on his criticism of Liverpool attacking midfielder Florian Wirtz by hitting back at a Bundesliga commentator over the Germany internati...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jamie-carragher-florian-wirtz-liverpool-verdict",
-      "publishedAt": "2026-09-21T09:29:28.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Bundesliga",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "90a3ddafe19e3a",
-      "title": "How does the Nations League work and who is in each league?",
-      "summary": "BBC Sport's Ask Me Anything team explains how the Uefa Nations League works ahead of the start of the 2026-27 competition",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9wnkvqxwg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T09:16:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Uefa"
-      ]
-    },
-    {
-      "id": "59dc9f4f4fbb4b",
-      "title": "De Zerbi claims Tottenham have ‘maybe the best in the Premier League’ in one position",
-      "summary": "The pressure is already starting to grow on De Zerbi after a winless start to the new Premier League season, although the Italian is still backing his players to the ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/roberto-de-zerbi-delivers-shock-tottenham-maybe-the-best-premier-league-claim",
-      "publishedAt": "2026-09-21T09:14:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a11bf3163c8c73",
-      "title": "Main reason for JJ Gabriel wanting to leave Man Utd revealed as ‘damning indictment’ of PL giants",
-      "summary": "According to reports, the main reason for JJ Gabriel and his representatives choosing to leave Manchester United is a ‘damning indictment’ of the Red Devils.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/main-reason-jj-gabriel-wanting-leave-man-utd-revealed-damning-indictment",
-      "publishedAt": "2026-09-21T09:11:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "424756a9b63e4e",
-      "title": "How many times has a player scored a hat-trick in a Premier League loss?",
-      "summary": "Sunderland's Brian Brobbey scored the first hat-trick by a player on a losing side in the Premier League for 19 years - but how many others have done so?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6e30pz1dkj9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T09:05:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "0260986a878692",
-      "title": "Liverpool chiefs will not be happy with Iraola call on ‘massive money’ midfielder – Carragher",
-      "summary": "Jamie Carragher believes that the Liverpool chiefs will not be happy with manager Andoni Iraola’s decision to keep a midfielder out of his starting line-up.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ryan-gravenberch-andoni-iraola-liverpool-jamie-carragher-verdict",
-      "publishedAt": "2026-09-21T08:36:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f6b7507ffe2bab",
-      "title": "Iraola responds to Carragher criticism of ‘nothing’ Liverpool star who ‘can’t’ play against Man City",
-      "summary": "Liverpool boss Andoni Iraola has hit back at Jamie Carragher’s comments on midfielder Florian Wirtz, who is a “nothing” player.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/iraola-responds-carragher-criticism-nothing-liverpool-star",
-      "publishedAt": "2026-09-21T08:25:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Roberto De Zerbi and Michael Carrick heading for El Sackico",
-      "summary": "El Sackico is on the cards next month if both Roberto De Zerbi and Michael Carrick can survive the long international break.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-09-21T08:06:15.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "34aabdf5747d0d",
-      "title": "Next Man Utd manager: Antonio Conte odds slashed but Eddie Howe still favourite",
-      "summary": "Manchester United have picked up only five points from their first five games of the Premier League season. Who could replace Michael Carrick?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
-      "publishedAt": "2026-09-21T08:05:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3986e65fbd7070",
-      "title": "Chelsea are most glaringly ridiculous example of transfer excess",
-      "summary": "Net spends of £200m are not unusual. It’s bonkers. Imagine spending that sort of money on what is essentially a gamble.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-most-glaringly-ridiculous-example-transfer-excess-john-nicholson",
-      "publishedAt": "2026-09-21T08:03:00.000Z",
+      "url": "https://www.football365.com/news/liverpool-murphy-reveals-two-reasons-surprise-transfer-decision-reds-star-doesnt-belong",
+      "publishedAt": "2026-09-21T14:11:35.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Chelsea"
+        "Liverpool"
       ]
     },
     {
-      "id": "8e28fa8a0c3dca",
-      "title": "Man Utd: Neville sends sack warning to Carrick as another pundit claims he will be axed ‘by January’",
-      "summary": "Gary Neville has warned Michael Carrick that he could soon find himself in “a lot of trouble” at Manchester United after the draw against Fulham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-neville-sends-sack-warning-carrick-axed-by-january",
-      "publishedAt": "2026-09-21T07:57:46.000Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "caf2fa88ccba8b",
+      "title": "Pocognoli Facetime helps Miller over summer of discontent",
+      "summary": "Lennon Miller was Facetimed by new Scotland head coach Sebastien Pocognoli as he returns to the international fold.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxz2722jjvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T14:11:27.000Z",
+      "category": "league",
+      "region": "italy",
       "tags": [
-        "Manchester"
+        "Inter"
       ]
     },
     {
-      "id": "38b634404dd56b",
-      "title": "England: Ornstein reveals Man Utd, Chelsea stars set to withdraw from squad as replacement named",
-      "summary": "Cole Palmer, Kobbie Mainoo and Marcus Rashford are ‘set to withdraw’ from the England squad, with David Ornstein revealing the reasoning.",
+      "id": "9c6f4ba53a5135",
+      "title": "Man Utd target award-winning Guinea striker in January and make Benjamin Sesko transfer call",
+      "summary": "Manchester United have identified a Borussia Dortmund striker as a potential signing in the January transfer window.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/england-ornstein-reveals-man-utd-chelsea-stars-withdraw-squad",
-      "publishedAt": "2026-09-21T07:35:30.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "1f2ed8ba1d74c2",
-      "title": "No Arsenal stars in Premier League team of the season so far",
-      "summary": "Big six clubs contribute only two players to the Premier League team of the season so far, with none from champions Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-team-of-the-season-so-far-2026-27",
-      "publishedAt": "2026-09-21T07:28:35.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a07a6e5d89d565",
-      "title": "Carrick sack deserved after red flag Man Utd comments in pre-season",
-      "summary": "Manchester United players are just standing around and look ‘bang average’. Things are getting no better under Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carrick-sack-deserved-red-flag-man-utd-comments",
-      "publishedAt": "2026-09-21T07:13:37.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7f2421946273d3",
-      "title": "Harry Kane verdict on joining Man Utd surfaces after Bayern Munich release clause reveal",
-      "summary": "Harry Kane’s ‘feelings’ on joining Manchester United have been revealed after it emerged that his new Bayern Munich contract could include a release clause.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-verdict-joining-man-utd-surfaces-bayern-munich-release-clause-reveal",
-      "publishedAt": "2026-09-21T07:08:46.000Z",
+      "url": "https://www.football365.com/news/serhou-guirassy-benjamin-sesko-manchester-united-transfer-decision",
+      "publishedAt": "2026-09-21T13:32:16.000Z",
       "category": "transfer",
       "region": "england germany",
       "tags": [
-        "Manchester",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a6ee7058c9e769",
+      "title": "How will clubs train during three-week international break?",
+      "summary": "BBC Sport looks at how clubs are planning to deal with the extended three-week international break.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93v020y7qgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T13:30:11.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "71d645afafc5bb",
+      "title": "Liverpool have found perfect Jacquet weather after Chelsea hijack and painful U-turn",
+      "summary": "Jeremy Jacquet almost joined Chelsea, but spoke of learning from Ibrahima Konate at Liverpool; he has seamlessly replaced him instead.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-revelation-jacquet-chelsea-hijack-konate-u-turn",
+      "publishedAt": "2026-09-21T13:29:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "53c4efc9fe54a1",
+      "title": "Five England withdrawals, replacements confirmed as Cole Palmer told to tell Chelsea staff to ‘do one’",
+      "summary": "Five players have withdrawn from England’s squad for this international break, including Chelsea standout Cole Palmer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/five-england-withdrawals-replacements-confirmed-cole-palmer-told-tell-chelsea-staff-do-one",
+      "publishedAt": "2026-09-21T13:23:37.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1869267ec0f97b",
+      "title": "Ghosts of 2023 quelled after Dortmund return to the Bundesliga summit | Andy Brassell",
+      "summary": "It is probably a stretch to call BVB title contenders but Niko Kovac’s side maintained their 100% start against Stuttgart Borussia Dortmund would probably rather not th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/21/ghosts-2023-surface-borussia-dortmund-bundesliga-summit-stuttgart",
+      "publishedAt": "2026-09-21T13:17:05.000Z",
+      "category": "transfer",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Barcelona",
         "Bayern"
       ]
     },
     {
-      "id": "509de3b382450a",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "summary": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorer...",
+      "id": "e9272d29c86b24",
+      "title": "Cole Palmer’s ‘load management’ absence sounds like BS to suit only Chelsea",
+      "summary": "Cole Palmer is too busy managing his load to turn up for England, which feels like a Chelsea decision that could have wider consequences for their star player…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/cole-palmer-out-of-england-squad-load-management-excuse-chelsea",
+      "publishedAt": "2026-09-21T13:11:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2d30df076bf6ef",
+      "title": "Mikel Arteta verdict on £52m Arsenal star leaving revealed with new plan for Gunners winger",
+      "summary": "Arsenal have reportedly decided whether to sell winger Noni Madueke after a ‘request’ by head coach Mikel Arteta.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mikel-arteta-verdict-52m-arsenal-star-leaving-revealed-new-plan-gunners-winger",
+      "publishedAt": "2026-09-21T12:53:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0a962c65b1553e",
+      "title": "Premier League winners and losers: Brighton, Arsenal, Brentford, Alonso, Coventry, De Zerbi",
+      "summary": "Xabi Alonso, Roberto De Zerbi, Arsenal and Manchester United had bruising weekends, but the Premier League’s B teams are thriving.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-winners-losers-alonso-arteta-de-zerbi",
+      "publishedAt": "2026-09-21T12:33:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "63cdd4b27b6d30",
+      "title": "Arsenal battered in Brighton as Manchester City go clear | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Will Unwin and Lars Sivertsen as Arsenal are thrashed away at Brighton Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
-      "publishedAt": "2026-09-21T07:00:37.000Z",
+      "url": "https://www.theguardian.com/football/video/2026/sep/21/arsenal-battered-in-brighton-as-manchester-city-go-clear-football-weekly-video",
+      "publishedAt": "2026-09-21T12:29:34.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
         "Arsenal",
-        "Liverpool"
+        "Manchester"
       ]
     },
     {
-      "id": "c4b3d527d3fd81",
-      "title": "'Far from their best' to 'a joy to watch' - ranking Premier League teams' start to season",
-      "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T06:51:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9c32fc4a03ee72",
-      "title": "Arsenal mired in five-year creativity slump as Liverpool’s attack shamed",
-      "summary": "Arsenal’s Premier League title defence could be derailed by a five-year slump in creativity. But Liverpool are even worse…",
+      "id": "415c54f28fc3d8",
+      "title": "Deeney tells Michael Carrick ‘bang average’ Man Utd player is the problem – ‘shoehorning him’",
+      "summary": "TalkSPORT pundit Troy Deeney has laid into a Manchester United winger and believes that he is causing issues on the pitch.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/big-chances-created-table-2026-27-arsenal-liverpool-shamed",
-      "publishedAt": "2026-09-21T06:35:58.000Z",
-      "category": "transfer",
+      "url": "https://www.football365.com/news/marcus-rashford-michael-carrick-manchester-united-troy-deeney-verdict",
+      "publishedAt": "2026-09-21T12:26:36.000Z",
+      "category": "issue",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fa700b4c51c631",
-      "title": "Arsenal quartet, Sunderland trio in worst XI of Premier League weekend",
-      "summary": "The worst XI from the Premier League weekend features four from Arsenal, but none from Chelsea and Tottenham Hotspur…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-worst-xi-matchday-5-arsenal-sunderland-ipswich-hull-bournemouth",
-      "publishedAt": "2026-09-21T06:33:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
+        "Manchester"
       ]
     }
   ],
