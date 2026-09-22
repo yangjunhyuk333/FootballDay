@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-22T16:37:46.467Z",
+  "generatedAt": "2026-09-22T21:04:10.696Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,30 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "715c3245ddf261",
-      "title": "Women's Champions League: Bayern Munich vs Man City team news LIVE!",
-      "summary": "Women's Champions League: Bayern Munich vs Man City team news LIVE!",
+      "id": "86bd78def9cd82",
+      "title": "WCL: Arsenal win after stoppage-time penalty LIVE!",
+      "summary": "WCL: Arsenal win after stoppage-time penalty LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bayern-munich-women-vs-manchester-city-women/live/578233",
-      "publishedAt": "2026-09-22T16:37:46.463Z",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-hb-kge-women/live/578232",
+      "publishedAt": "2026-09-22T21:04:10.346Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9ff32ae07670d1",
+      "title": "Man City fight back from two down to draw at Bayern in WCL",
+      "summary": "Manchester City’s eventful return to the Women’s Champions League saw them come from 2-0 down to draw 2-2 away to Bayern Munich and become the first English side to avo...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bayern-munich-women-vs-manchester-city-women/report/578233",
+      "publishedAt": "2026-09-22T21:04:10.346Z",
       "category": "ucl",
-      "region": "germany",
+      "region": "england germany",
       "tags": [
         "Champions League",
+        "Manchester",
         "Bayern"
       ]
     },
@@ -118,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Are Manchester City really title contenders? Is history repeating itself at Manchester United? Why do big-spending Tottenham still lack a backbone? After just five game...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590390/premier-league-2026-27-sky-sports-writers-assess-early-talking-points-including-man-utd-arsenal-liverpool-and-man-city",
-      "publishedAt": "2026-09-22T16:37:46.463Z",
+      "publishedAt": "2026-09-22T21:04:10.346Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,31 +140,171 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "69d985832631e6",
-      "title": "England fast bowler Wood retires from international cricket",
-      "summary": "England fast bowler Mark Wood has announced his retirement from international cricket due to a knee injury.",
+      "id": "fae449a3c01220",
+      "title": "'He's so obsessed with his club' | Arteta set to sign new Arsenal deal",
+      "summary": "Sky Sports' Kaveh Solhekol and Gary Cotterill provide the latest on Mikel Arteta's Arsenal future as he is expected to sign a new contract.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13590351/mark-wood-england-fast-bowler-announces-retirement-from-international-cricket-due-to-injury",
-      "publishedAt": "2026-09-22T16:37:46.463Z",
+      "url": "https://www.skysports.com/watch/video/13590801/premier-league-mikel-arteta-close-to-agreeing-new-arsenal-contract",
+      "publishedAt": "2026-09-22T21:04:10.346Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b543d696ad0ef1",
+      "title": "Leigh and Wigan conduct to be investigated by RFL",
+      "summary": "Leigh Leopards and Wigan Warriors will be subject to an independent investigation into their conduct and actions over the past 12 months, the Rugby Football League (RFL...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13590826/super-league-leigh-leopards-and-wigan-warriors-will-be-subject-to-an-independent-investigation-into-their-conduct-and-actions-over-the-past-12-months",
+      "publishedAt": "2026-09-22T21:04:10.345Z",
       "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "2dc095568a0d6e",
+      "title": "Arteta agrees new Arsenal contract",
+      "summary": "Mikel Arteta has agreed a new deal to extend his stay at Arsenal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13588507/mikel-arteta-contract-arsenal-boss-agrees-new-deal-to-extend-stay-at-premier-league-champions",
+      "publishedAt": "2026-09-22T21:04:10.345Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2772cc7cefd8b8",
+      "title": "Israel FA comments on Hallgrimsson 'unacceptable' - Irish taoiseach Martin",
+      "summary": "Irish taoiseach Micheal Martin says comments made by the Israel Football Association about the Republic of Ireland manager Heimir Hallgrimsson are \"unacceptable\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgw0drzr38o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T19:23:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "b3e9973b763086",
+      "title": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
+      "summary": "Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge him For Gianni Infantino there is no international break. The...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
+      "publishedAt": "2026-09-22T19:00:03.000Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
+        "Football",
+        "World Cup",
+        "Fifa",
         "Inter"
       ]
     },
     {
-      "id": "e52e76c778dba5",
-      "title": "Liverpool vs Man Utd, Arsenal vs Man City live on Sky - November fixtures here",
-      "summary": "Liverpool vs Man Utd and Arsenal vs Man City are among the 18 Premier League games being shown live on Sky Sports in November.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
-      "publishedAt": "2026-09-22T16:37:46.463Z",
+      "id": "c4f6813137cd4a",
+      "title": "Wamser rescues point for Manchester City in WCL fightback at Bayern Munich",
+      "summary": "Manchester City produced a gutsy performance to fight back and earn a valuable 2-2 draw away at Bayern Munich on their return to the Champions League. José Barcala’s si...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/22/bayern-munich-manchester-city-womens-champions-league-match-report",
+      "publishedAt": "2026-09-22T18:58:04.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "45cea20ac54dd4",
+      "title": "‘He’s nowhere near’ – Nicky Butt claims Michael Carrick is ‘killing’ Man Utd star playing in wrong position",
+      "summary": "Former Manchester United star Nicky Butt has explained why he thinks Michael Carrick has been “killing” Matheus Cunha this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/nicky-butt-claims-michael-carrick-killing-man-utd-star",
+      "publishedAt": "2026-09-22T18:53:24.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cc2ad0b3259856",
+      "title": "Man Utd, JJ Gabriel deadline set after INEOS make decision on ripping up registration",
+      "summary": "According to reports, there is now a ‘key deadline’ with the JJ Gabriel saga, with Manchester United running out of time to keep him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-jj-gabriel-deadline-set-ineos-decision-ripping-up-registration",
+      "publishedAt": "2026-09-22T18:04:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "662aacf0f91929",
+      "title": "Mikel Arteta agrees contract extension expected to keep him at Arsenal until 2030",
+      "summary": "Manager’s current deal to expire at end of the season Spaniard can expect big increase on £10m-a-year salary Mikel Arteta has agreed a long-term contract extension with...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/22/mikel-arteta-agrees-contract-extension-arsenal-2030",
+      "publishedAt": "2026-09-22T17:36:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
         "Arsenal",
-        "Liverpool"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "38c0210a715b31",
+      "title": "England: Cole Palmer accused of faking injury with ‘the hump’ as Xabi Alonso, Chelsea plan mooted",
+      "summary": "Chelsea star Cole Palmer has been accused of ‘faking’ an injury to miss out on playing for England during this international break.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-cole-palmer-accused-faking-injury-hump-alonso-chelsea-plan",
+      "publishedAt": "2026-09-22T17:34:16.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8ac4fe65cf4d00",
+      "title": "Robertson backs De Zerbi and identifies exact reason for Tottenham early-season struggles",
+      "summary": "Spurs remain winless after five Premier League outings and currently sit bottom of the table, with Robertson pinpointing the exact reason why they have started the new...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/robertson-backs-de-zerbi-identifies-exact-reason-for-tottenham-early-season-struggles",
+      "publishedAt": "2026-09-22T17:12:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5a77f495a4d600",
+      "title": "Real Madrid call for La Liga president’s removal over his response to derby complaints",
+      "summary": "Javier Tebas accused club of ‘permanent conspiracy’ talk Real Madrid hit back at president’s ‘intolerable’ behaviour Real Madrid want a new La Liga president in light o...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/22/la-liga-president-javier-tebas-real-madrid-conspiracy-claims-derby-defeat",
+      "publishedAt": "2026-09-22T17:02:53.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Real Madrid"
       ]
     },
     {
@@ -164,22 +318,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "97c1e9f5e579c9",
-      "title": "Bayern Munich v Manchester City: Women’s Champions League – live",
-      "summary": "WCL match updates from the 5.45pm BST kick-off Will Lyonnes or English trio topple Barça? | Mail Will Disney have a dog in the studio, which is quite different from mos...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
-      "publishedAt": "2026-09-22T16:25:54.000Z",
-      "category": "ucl",
-      "region": "england spain france germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal",
-        "Chelsea"
       ]
     },
     {
@@ -252,6 +390,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "792d0df0fbaed7",
+      "title": "Five charged over football pitch hearse disorder",
+      "summary": "Five are charged over disorder which saw a hearse driven onto the pitch at Dunston UTC v Gateshead.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzkw2lzk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T15:05:51.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
       "id": "b807091a707bb9",
       "title": "Alan Shearer claims Michael Carrick ‘clearly doesn’t fancy’ Man Utd star – ‘I’m not convinced’",
       "summary": "Alan Shearer has explained why he has sympathy for Manchester United head coach Michael Carrick, even though he is “under pressure”.",
@@ -308,20 +459,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0093415830ada7",
-      "title": "Welsh football chief Mooney challenges Infantino's Fifa reform claims",
-      "summary": "Football Association of Wales chief executive Noel Mooney challenges suggestions Fifa is planning major reforms.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9802yzr716o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:48:47.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
       "id": "c1a76d4055ccc7",
       "title": "Man Utd target Lewis Hall claims he will only leave Newcastle on one condition after ‘no-brainer’ decision",
       "summary": "England international Lewis Hall has revealed what would make him leave Newcastle United after he was linked with Manchester United in the summer.",
@@ -336,19 +473,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "30ca896d608828",
-      "title": "Bradley linked with Hibs as Ferry puts Dundee United talks on hold - gossip",
-      "summary": "Dundee United's Republic of Ireland international not willing to decide future in September as Scottish defender helps Turkish side excel.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlylxz65608o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T13:23:36.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "6e5e5a71d58554",
       "title": "New Declan Rice contract at Arsenal ‘set to be agreed’ with salary amount revealed",
       "summary": "Arsenal midfielder Declan Rice is set to agree terms on a new lucrative five-year contract to remain at the Emirates, according to reports.",
@@ -359,21 +483,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "5a77f495a4d600",
-      "title": "La Liga president says Real Madrid conspiracy claims are ‘in another galaxy’",
-      "summary": "‘The competition belongs to no one,’ says Javier Tebas President hits out after Mourinho’s reaction to derby loss La Liga’s president, Javier Tebas, hit out on Tuesday...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/22/la-liga-president-javier-tebas-real-madrid-conspiracy-claims-derby-defeat",
-      "publishedAt": "2026-09-22T13:17:49.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Real Madrid"
       ]
     },
     {
@@ -481,123 +590,6 @@ window.FOOTBALLDAY_DATA = {
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "51e3e2ba06abad",
-      "title": "Asking the most important nine-word Manchester United question ever",
-      "summary": "There is some nonsense about JJ Gabriel, Arsenal and Granit Xhaka, but it all pales in comparison to an important Manchester United question.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/asking-important-nine-word-manchester-united-question",
-      "publishedAt": "2026-09-22T11:14:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "58de673657e9ba",
-      "title": "Dockers derby delivers and England squad upheaval – Football Weekly podcast",
-      "summary": "Max Rushden is joined by Barry Glendenning, George Elek and Sanny Rudravajhala for an update across the EFL and the latest from the England camp Rate, review, share on...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/sep/22/dockers-derby-delivers-and-england-squad-upheaval-football-weekly",
-      "publishedAt": "2026-09-22T11:12:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "7db53dbb2353a7",
-      "title": "Édouard Mendy: ‘Winning Afcon was 10 times better than the Champions League’",
-      "summary": "After retiring from international football, the former Chelsea keeper reflects on a Senegal career that – according to him – included two African titles “I had to stay...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/22/edouard-mendy-winning-afcon-was-10-times-better-than-the-champions-league",
-      "publishedAt": "2026-09-22T11:00:53.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bb56f57d8ef74d",
-      "title": "Liverpool’s Aurélie Csillag on making women’s football more diverse: ‘Visibility starts at the top’",
-      "summary": "The Swiss international explains why she became involved in the club’s Beyond the Goalposts initiative “When I was young I never had a role model. I only watched men’s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/22/liverpool-aurelie-csillag-womens-football-more-diverse-moving-the-goalposts",
-      "publishedAt": "2026-09-22T10:33:52.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "49c6b3b8b83b21",
-      "title": "Liverpool told they ‘would be crazy’ to sell Wirtz after Bayern Munich transfer revelation",
-      "summary": "Liverpool have been told that they “would be crazy” to sell Florian Wirtz despite him failing to hit form since joining the Reds.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-crazy-sell-wirtz-bayern-munich-transfer",
-      "publishedAt": "2026-09-22T10:33:23.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "a390c7ef9aeb6a",
-      "title": "Spurs in seventh heaven, Arsenal rescue a point and late goals galore: Women’s Football Weekly – podcast",
-      "summary": "Faye Carruthers is joined by Suzanne Wrack , Emma Sanders and Freddie Cardy to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Emma Sander...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/sep/22/spurs-in-seventh-heaven-arsenal-rescue-a-point-and-late-goals-galore-womens-football-weekly",
-      "publishedAt": "2026-09-22T10:30:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "692423f7a7a8e4",
-      "title": "Arsenal wowed by Dutch star in blistering form as Chelsea send scout",
-      "summary": "Arsenal and Chelsea have converged on a 22-year-old Dutch midfielder who is in red-hot form, according to a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-news-transfer-target-gjivai-zechiel-chelsea-scout-feyenoord",
-      "publishedAt": "2026-09-22T10:18:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8c17e3b74eb7df",
-      "title": "David Squires on … Jim Ratcliffe lamenting the decline of once-mighty empires",
-      "summary": "Our cartoonist on Manchester United’s billionaire joint-owner showing a startling lack of self-awareness Buy a cartoon | Some of David’s favourite works And his latest...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/22/david-squires-on-jim-ratcliffe-lamenting-decline-once-mighty-empires",
-      "publishedAt": "2026-09-22T10:08:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
         "Manchester"
       ]
     }
