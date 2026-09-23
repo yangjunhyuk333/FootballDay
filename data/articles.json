@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T21:04:10.696Z",
+  "generatedAt": "2026-09-23T04:06:19.741Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,30 +99,17 @@
       "pinned": true
     },
     {
-      "id": "86bd78def9cd82",
-      "title": "WCL: Arsenal win after stoppage-time penalty LIVE!",
-      "summary": "WCL: Arsenal win after stoppage-time penalty LIVE!",
+      "id": "a5eebbecd81ec4",
+      "title": "Arsenal penalty clinches late win in WCL; Man City rescue draw at Bayern",
+      "summary": "Mariona Caldentey's second-half stoppage-time penalty secured Arsenal a dramatic 1-0 win over Danish side HB Koge to open their Champions League campaign at Meadow Park.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-women-vs-hb-kge-women/live/578232",
-      "publishedAt": "2026-09-22T21:04:10.346Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9ff32ae07670d1",
-      "title": "Man City fight back from two down to draw at Bayern in WCL",
-      "summary": "Manchester City’s eventful return to the Women’s Champions League saw them come from 2-0 down to draw 2-2 away to Bayern Munich and become the first English side to avo...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bayern-munich-women-vs-manchester-city-women/report/578233",
-      "publishedAt": "2026-09-22T21:04:10.346Z",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-hb-kge-women/report/578232",
+      "publishedAt": "2026-09-23T04:06:19.560Z",
       "category": "ucl",
       "region": "england germany",
       "tags": [
         "Champions League",
-        "Manchester",
+        "Arsenal",
         "Bayern"
       ]
     },
@@ -132,7 +119,7 @@
       "summary": "Are Manchester City really title contenders? Is history repeating itself at Manchester United? Why do big-spending Tottenham still lack a backbone? After just five game...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590390/premier-league-2026-27-sky-sports-writers-assess-early-talking-points-including-man-utd-arsenal-liverpool-and-man-city",
-      "publishedAt": "2026-09-22T21:04:10.346Z",
+      "publishedAt": "2026-09-23T04:06:19.560Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -145,7 +132,20 @@
       "summary": "Sky Sports' Kaveh Solhekol and Gary Cotterill provide the latest on Mikel Arteta's Arsenal future as he is expected to sign a new contract.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13590801/premier-league-mikel-arteta-close-to-agreeing-new-arsenal-contract",
-      "publishedAt": "2026-09-22T21:04:10.346Z",
+      "publishedAt": "2026-09-23T04:06:19.560Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "86bd78def9cd82",
+      "title": "Arsenal 1-0 HB Koge commentary",
+      "summary": "Arsenal 1-0 HB Koge commentary",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-hb-kge-women/live/578232",
+      "publishedAt": "2026-09-23T04:06:19.559Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -158,7 +158,7 @@
       "summary": "Leigh Leopards and Wigan Warriors will be subject to an independent investigation into their conduct and actions over the past 12 months, the Rugby Football League (RFL...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13590826/super-league-leigh-leopards-and-wigan-warriors-will-be-subject-to-an-independent-investigation-into-their-conduct-and-actions-over-the-past-12-months",
-      "publishedAt": "2026-09-22T21:04:10.345Z",
+      "publishedAt": "2026-09-23T04:06:19.558Z",
       "category": "issue",
       "region": "england",
       "tags": [
@@ -171,10 +171,68 @@
       "summary": "Mikel Arteta has agreed a new deal to extend his stay at Arsenal.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13588507/mikel-arteta-contract-arsenal-boss-agrees-new-deal-to-extend-stay-at-premier-league-champions",
-      "publishedAt": "2026-09-22T21:04:10.345Z",
+      "publishedAt": "2026-09-23T04:06:19.558Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "955d4dec52a8c5",
+      "title": "Papers: Rice prepared to commit long-term future to Arsenal",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13590828/declan-rice-prepared-to-commit-long-term-future-to-arsenal-paper-talk",
+      "publishedAt": "2026-09-23T04:06:19.558Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1dd1ecb475c69b",
+      "title": "Liverpool stay in-house for sporting director role as FSG pick Richard Hughes successor",
+      "summary": "FSG have scoured the market for Hughes’ replacement but have now decided to keep things closer to home for a key position at Anfield.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-pick-richard-hughes-successor-sporting-director",
+      "publishedAt": "2026-09-22T22:08:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e6bcd09c9218ba",
+      "title": "Man Utd & Liverpool eye Mitchell - Wednesday's gossip",
+      "summary": "Manchester United and Liverpool are keen on Crystal Palace defender Tyrick Mitchell, Aston Villa loan attacker Alejandro Garnacho is on the radar of La Liga clubs, whil...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6g7k421gvj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T21:19:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "La Liga",
+        "Chelsea",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "aa37a00b9d1409",
+      "title": "Mariona Caldentey penalty provides late WCL relief for Arsenal against Køge",
+      "summary": "Mariona Caldentey’s 93rd-minute penalty delivered a win and a hefty dose of relief to fans bouncing behind the goal in the North Bank after the ball hit the back of the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/22/arsenal-hb-koge-womens-champions-league-match-report",
+      "publishedAt": "2026-09-22T21:10:16.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
         "Arsenal"
       ]
     },
@@ -459,6 +517,20 @@
       ]
     },
     {
+      "id": "0093415830ada7",
+      "title": "Welsh football chief Mooney challenges Infantino's Fifa reform claims",
+      "summary": "Football Association of Wales chief executive Noel Mooney challenges suggestions Fifa is planning major reforms.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9802yzr716o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T13:48:47.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
       "id": "c1a76d4055ccc7",
       "title": "Man Utd target Lewis Hall claims he will only leave Newcastle on one condition after ‘no-brainer’ decision",
       "summary": "England international Lewis Hall has revealed what would make him leave Newcastle United after he was linked with Manchester United in the summer.",
@@ -523,74 +595,6 @@
       "region": "germany",
       "tags": [
         "Bayern"
-      ]
-    },
-    {
-      "id": "a9ad2c4c04b5d2",
-      "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
-      "summary": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T12:09:29.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1d2c0067d66b9f",
-      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
-      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
-      "publishedAt": "2026-09-22T12:01:04.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "2d8d15ed58684f",
-      "title": "Arteta agrees new deal with champions Arsenal",
-      "summary": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T11:48:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "19cf70f6dbf380",
-      "title": "Dockers derby delivers and England squad upheaval | Football Weekly video",
-      "summary": "Max Rushden is joined by Barry Glendenning, George Elek and Sanny Rudravajhala for an update across the EFL and the latest from the England camp. Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/sep/22/dockers-derby-delivers-and-england-squad-upheaval-football-weekly",
-      "publishedAt": "2026-09-22T11:46:14.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "0b111e1bbdd07f",
-      "title": "JJ Gabriel makes final decision on Man Utd U-turn as first agreement for next move revealed",
-      "summary": "According to reports, JJ Gabriel and his representatives have made the ‘final decision’ to leave Manchester United as he eyes a move to Spain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jj-gabriel-final-decision-man-utd-first-agreement-next-move-barcelona",
-      "publishedAt": "2026-09-22T11:28:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
