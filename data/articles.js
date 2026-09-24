@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-24T11:24:53.623Z",
+  "generatedAt": "2026-09-24T16:50:00.971Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,38 +99,197 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "c8a23ec44a5341",
-      "title": "'Utter nonsense' - Van Dijk slams reporter in viral exchange",
-      "summary": "Virgil van Dijk hit back at suggestions that he forced former Netherlands boss Ronaldo Koeman into changing his tactics during the World Cup.",
+      "id": "4b774853ed33dc",
+      "title": "Premier League Darts 2027 dates and venues revealed as Littler defends title",
+      "summary": "Luke Littler and Luke Humphries will headline next year’s Premier League darts roadshow, which will begin at Glasgow's OVO Hydro on Thursday February 4 - live on Sky Sp...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591280/virgil-van-dijk-liverpool-captain-slams-dutch-reporter-following-claims-he-forced-ronald-koeman-to-change-world-cup-tactics",
-      "publishedAt": "2026-09-24T11:24:53.404Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eefd2e8b4e2248",
-      "title": "Papers: Man Utd line up Conte for sensational PL return",
-      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591219/man-utd-antonio-conte-lined-up-for-sensational-premier-league-return-as-replacement-for-michael-carrick-paper-talk",
-      "publishedAt": "2026-09-24T11:24:53.403Z",
+      "url": "https://www.skysports.com/darts/news/12040/13591406/premier-league-darts-2027-dates-and-venues-confirmed-glasgow-hosts-opener-finals-night-in-london-as-luke-littler-defends-title",
+      "publishedAt": "2026-09-24T16:50:00.799Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Premier League"
       ]
     },
     {
-      "id": "7b67ad8e86dfec",
-      "title": "Kaptein scores winner as Chelsea earn narrow victory over Austria Wien",
-      "summary": "Wieke Kaptein scored a stunning goal but Chelsea were given a stern test by Austria Wien as they began their Women's Champions League campaign with a hard-fought 1-0 wi...",
+      "id": "9428b8394a37fa",
+      "title": "Are main stadiums the right place for women's football?",
+      "summary": "Are main stadiums the right place for women's football?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-austria-wien-women/report/578238",
-      "publishedAt": "2026-09-24T11:24:53.403Z",
+      "url": "https://www.skysports.com/football/story-telling/12040/13535768/whats-next-for-the-future-wsl-stadiums",
+      "publishedAt": "2026-09-24T16:50:00.799Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "08cd82da25f6ed",
+      "title": "£86m Brazilian reaches decision on joining Arsenal amid offer as transfer date is set",
+      "summary": "Corinthians defender Iago Machado has made a decision on leaving the Brazilian club amid interest from Arsenal, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-machado-corinthians-reaches-decison-offer-transfer",
+      "publishedAt": "2026-09-24T15:59:24.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b8789f5c239e2a",
+      "title": "Nico Schlotterbeck reaches decision on joining Liverpool from Borussia Dortmund in January",
+      "summary": "Borussia Dortmund defender Nico Schlotterbeck has made up his mind on a potential move to Liverpool in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/nico-schlotterbeck-liverpool-borussia-dortmund-january-transfer-decision-made",
+      "publishedAt": "2026-09-24T15:46:50.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ad5eb48f6286b7",
+      "title": "Sandro Mazzola obituary",
+      "summary": "Outstanding footballer who won two European Cups with Internazionale and a World Cup runners-up medal with Italy The Italian footballer Sandro Mazzola, who has died age...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/sandro-mazzola-obituary",
+      "publishedAt": "2026-09-24T15:17:29.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fcbdedcd1ca052",
+      "title": "Football Daily | Pints and points: the arguments for and against booze at football matches",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Considering he is a lifelong Everton fan, it’s no surprise that Andy Burnham seems to be in favour of allowing fans...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/pints-points-arguments-for-against-booze-football-daily",
+      "publishedAt": "2026-09-24T15:08:57.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "2940c7d862e81e",
+      "title": "Liverpool want Everton star with Reds now ‘ready’ to let legend move on",
+      "summary": "Liverpool are reportedly looking at a potential deal to sign Jarrad Branthwaite as they prepare to bid farewell to Virgil van Dijk.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-branthwaite-everton-ready-let-van-dijk-leave",
+      "publishedAt": "2026-09-24T15:01:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e6a1dd84531f6d",
+      "title": "Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch",
+      "summary": "The Seleção’s rebuild after their latest World Cup exit begins against the Socceroos in a place better known for rugby league than joga bonito It’s a safe bet that Viní...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins",
+      "publishedAt": "2026-09-24T15:00:20.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "2ed63fa4c2cad2",
+      "title": "Alejandro Garnacho: Report details chance of Chelsea return from Aston Villa in January",
+      "summary": "There is only one way that Alejandro Garnacho could return to Chelsea from Aston Villa in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/garnacho-report-chance-chelsea-return-aston-villa-january",
+      "publishedAt": "2026-09-24T14:25:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "1d70b6311de2a9",
+      "title": "Drinking at football matches - would fans welcome it?",
+      "summary": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from drinking alcohol in the view of the pitch. But do fans even want it?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T14:09:46.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ca842801284cce",
+      "title": "Liverpool told to make ‘magic’ No10 signing amid Florian Wirtz decision",
+      "summary": "The Reds have been urged to land a new central attacking midfielder after Bayern Munich renewed their interest in Wirtz",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-news-no-10-signing-advice-florian-wirtz-bayern-transfer-decision",
+      "publishedAt": "2026-09-24T14:08:31.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Liverpool",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0b58b9758a2c28",
+      "title": "My bad TV history qualifies me to discuss Disney’s women’s football coverage | Max Rushden",
+      "summary": "A golden retriever and a game of guess the pasta were unusual to see in a Women’s Champions League show – but I understand how they arrived there Disclaimer: I have mad...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/disney-womens-champions-league-coverage",
+      "publishedAt": "2026-09-24T14:00:19.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "e5f2fa5c9fffe1",
+      "title": "Owen engages in Man Utd delusion as ‘fantastic’ part of team and ‘game-changers’ selected",
+      "summary": "They’ve got a “fantastic attack” and “game-changers on the bench”. Who’s that? Manchester City? Chelsea? Barcelona?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/owen-man-utd-delusion-fantastic-part-team-game-changers",
+      "publishedAt": "2026-09-24T13:49:40.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "ba37f5dc643dc4",
+      "title": "The best Women's Champions League goals from week one",
+      "summary": "Watch the best goals from the league stage of the women's Champion's League, including a stunner from Chelsea's Wieke Kaptein.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cje3r4vgr3yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T13:29:33.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -139,29 +298,115 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "d81e4b6a883b39",
-      "title": "Ure delighted 'unusual route' has earned first Scotland call-up",
-      "summary": "Robbie Ure is delighted his \"unusual route\" in football has earned him a place in Sebastien Pocognoli's first Scotland squad.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591017/scotland-robbie-ure-delighted-unusual-route-from-rangers-to-sevilla-has-earned-first-call-up-aged-22",
-      "publishedAt": "2026-09-24T11:24:53.403Z",
-      "category": "worldcup",
+      "id": "25a855470bf588",
+      "title": "Is this really the Premier League's 'Bermuda Triangle'?",
+      "summary": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a Premier League 'Bermuda Triangle' where teams lose points?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T13:27:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "52742c84f4ae5a",
+      "title": "Unanswered questions for English teams after Women's Champions League returns",
+      "summary": "Arsenal, Chelsea and Manchester City start bids for European glory in unconvincing fashion.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1e516z2y8qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T13:19:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4a7c81ac842f44",
+      "title": "England face world champions Spain as international break commences | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning, Seb Hutchinson and Paul Watson as the international break begins Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/sep/24/england-face-world-champions-spain-as-international-break-commences-football-weekly",
+      "publishedAt": "2026-09-24T13:17:49.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bfcf8f9ba8397f",
+      "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
+      "summary": "USA international Emily Fox has described signed a new contract at Arsenal as \"an easy decision\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c046lgw20nno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T12:59:44.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5eee5f15257565",
+      "title": "Chelsea want stunning January deal for Man City star to rescue worst defence in Premier League",
+      "summary": "Chelsea are eyeing a January transfer for Man City defender Abdukodir Khusanov after their poor start to the season, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-stunning-january-transfer-man-city-khusanov-worst-defence-premier-league",
+      "publishedAt": "2026-09-24T12:49:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "47f1f45d875469",
+      "title": "Man Utd pearl clutchers up in arms over harmless Old Trafford turf sale",
+      "summary": "Manchester United are selling bits of ‘hallowed’ Old Trafford turf and the fans are up in arms. How dare Sir Jim Ratcliffe make them pay £125 for a bit of ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-man-utd-pearl-clutchers-harmless-old-trafford-turf-sale",
+      "publishedAt": "2026-09-24T12:49:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6b49c595c70e06",
+      "title": "Football Daily",
+      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball hear from Anthony Gordon ahead of England-Spain.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032km2?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T12:19:00.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football"
       ]
     },
     {
-      "id": "485ed121fb51b4",
-      "title": "Fox signs new Arsenal deal",
-      "summary": "Arsenal defender Emily Fox has signed a new contract at the club.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591163/arsenal-usa-international-emily-fox-signs-new-deal-with-womens-super-league-club",
-      "publishedAt": "2026-09-24T11:24:53.400Z",
+      "id": "26d29adb50a244",
+      "title": "Liverpool plotting shock re-signing of former midfielder as seven-club battle emerges",
+      "summary": "The 23-year-old talent is generating a huge amount of interest after becoming a key player for Lyon boss Paulo Fonseca, underlined by his workload already this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-plotting-shock-return-tyler-morton-seven-club-battle-emerges",
+      "publishedAt": "2026-09-24T12:16:59.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy france",
       "tags": [
-        "Arsenal"
+        "Liverpool",
+        "Inter"
       ]
     },
     {
@@ -180,7 +425,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "971e0f604f516b",
       "title": "Man Utd reach decision on signing Dominic Calvert-Lewin from Leeds in January",
-      "summary": "Man Utd have reached a decision on signing Dominic Calvert-Lewin from Leeds in the summer transfer window, according to reports.",
+      "summary": "Man Utd have reached a decision on signing Dominic Calvert-Lewin from Leeds in the January transfer window, according to reports.",
       "source": "Football365",
       "url": "https://www.football365.com/news/man-utd-reach-decision-signing-calvert-lewin-leeds",
       "publishedAt": "2026-09-24T11:20:13.000Z",
@@ -217,6 +462,20 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "6eff141dc5676c",
+      "title": "Has the time come to separate home and away fans at WSL games?",
+      "summary": "With interest in the league rising, some are calling for dedicated away ends at stadiums to improve atmosphere With interest in the Women’s Super League on the rise and...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/separate-home-away-fans-wsl-games-moving-the-goalposts",
+      "publishedAt": "2026-09-24T11:00:17.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
       "id": "48c733661308fb",
       "title": "Liverpool poised to ‘pull the plug’ on £100m star as ‘voices get louder’ amid possible Bayern ‘solution’",
       "summary": "Florian Wirtz has been warned that Liverpool could soon “pull the plug” on him as the “voices get louder” following a poor start to his second season.",
@@ -232,7 +491,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "53a600553782cd",
-      "title": "Has Arsenal been figured out? Three big questions after Brighton’s upset",
+      "title": "Have Arsenal been figured out? Three big questions after Brighton’s upset",
       "summary": "This week, we dive into the big questions surrounding the most surprising result of the Premier League weekend Before this past weekend, Arsenal had not lost in the Pre...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
@@ -287,6 +546,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "8dd23cbda69a58",
+      "title": "Send us your Scotland World Cup memories of Boston",
+      "summary": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories of that magical week or so in Boston at the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T09:13:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "f266048696a34e",
       "title": "Tottenham handed critical Dejan Kulusevski boost as date set for return",
       "summary": "The Sweden international has not played a game for the club since May 11 2025, after suffering was described as “just a knock” in a home defeat to Crystal Palace.",
@@ -324,271 +596,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "85a38026833e55",
-      "title": "Bruno Fernandes is inevitable future Man Utd DNA manager…",
-      "summary": "Which Premier League players will inevitably become managers? Pointers like Jordan Henderson and Virgil van Dijk are no-brainers.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-fernandes-inevitable-man-utd-dna-mailbox",
-      "publishedAt": "2026-09-24T08:23:10.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ec750f49be9d2e",
-      "title": "Insider claims Man Utd have ‘behind-the-scenes’ plan to convince JJ Gabriel to snub Barcelona",
-      "summary": "Man Utd have a plan “behind the scenes” to convince JJ Gabriel to remain at Old Trafford despite rumours he will join Barcelona.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-behind-scenes-plan-jj-gabriel-snub-barcelona",
-      "publishedAt": "2026-09-24T08:12:59.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "50cec9169ced49",
-      "title": "Arsenal star Lewis-Skelly names surprise Tottenham man as toughest opponent",
-      "summary": "There’s a lovely caveat from Lewis-Skelly after the Arsenal star named a Tottenham midfielder as his toughest opponent.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-lewis-skelly-surprise-tottenham-man-toughest-opponent",
-      "publishedAt": "2026-09-24T08:09:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5686f3157fead0",
-      "title": "Who are the Premier League’s highest-paid players? Enzo Fernandez into top three",
-      "summary": "The closing of the Premier League transfer window has left this list of the Premier League’s highest-paid players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/highest-paid-players-in-premier-league-biggest-salary-wage",
-      "publishedAt": "2026-09-24T07:55:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "499737efc8b44b",
-      "title": "Anthony Gordon ‘surprised’ by Tuchel’s World Cup blunder – ‘It leaves a scar’",
-      "summary": "Anthony Gordon has admitted he was “surprised” by Thomas Tuchel’s decision to take him off following his goal against Argentina in the World Cup semi-final.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gordon-surprised-tuchel-world-cup-blunder-leaves-scar",
-      "publishedAt": "2026-09-24T07:29:53.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ccced6c8abaf67",
-      "title": "Premier League manager rankings: Is Michael Carrick doing an even worse job than Roberto De Zerbi?",
-      "summary": "This way for a decisive scientific answer to the most vital question of the Premier League so far: is Carrick even worse than De Zerbi?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-manager-rankings-carrick-de-zerbi-hurzeler-arteta",
-      "publishedAt": "2026-09-24T07:27:30.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5f3a7933d55e66",
-      "title": "Premier League prize money table predicted with Manchester United advantage wasted",
-      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
-      "publishedAt": "2026-09-24T07:23:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bca6c42f2fc169",
-      "title": "Man Utd selling Old Trafford turf cubes for £125",
-      "summary": "Manchester United is selling pieces of its Old Trafford pitch for £125 each, an initiative announced the same day the club reported its overall debt remains more than £...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T07:08:11.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "722b7794c4c1ac",
-      "title": "Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay",
-      "summary": "Manager is not responsible for underlying weaknesses but there are reasons for optimism in the buildup to Euro 2028 In the end, Steve, Brian, Gaz or similar, he’s just...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
-      "publishedAt": "2026-09-24T07:00:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6253cad7968931",
-      "title": "Van Dijk furious over claim he chose World Cup tactics and ‘destroyed Dutch football’",
-      "summary": "Liverpool skipper Virgil van Dijk has rubbished the “utter nonsense” claim that he decided on a tactical shift at the World Cup and therefore “destroyed Dutch football”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/van-dijk-furious-destroyed-dutch-football-world-cup-tactics",
-      "publishedAt": "2026-09-24T06:56:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fc5c186773c117",
-      "title": "Only one Prem player covering more distance than brilliant 35-year-old…",
-      "summary": "A 35-year-old has covered more distance than all but one player in the Premier League this season…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-player-distance-covered-stats-top-10-2026-27",
-      "publishedAt": "2026-09-24T06:47:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "cf01169bd4058b",
-      "title": "Charles taking record-breaking price tag in his stride",
-      "summary": "Fulham midfielder Shea Charles tells BBC Sport NI he does \"not really think about\" the price tag which saw him become Northern Ireland's most expensive footballer when...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw98022gvjr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T06:41:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "bde0bc890d5fe1",
-      "title": "One Nations League fixture to watch every day to ward off Premier League blues",
-      "summary": "Some big-name managers will be getting their debuts with their new countries in this long, long, long break.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/one-nations-league-fixture-to-watch-every-day-to-ward-off-premier-league-blues",
-      "publishedAt": "2026-09-24T06:39:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "956a005617ea16",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm36lyrd3jnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T05:55:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "79f05900b43328",
-      "title": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
-      "summary": "Barcelona winger says England cannot play like Spain Gordon: players ‘could have done more’ in semi-final Anthony Gordon has sided with Thomas Tuchel’s assertion that c...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league",
-      "publishedAt": "2026-09-24T05:00:09.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "e25e8633aa2c1a",
-      "title": "JJ Gabriel to Barcelona undergoes significant shift after Real Madrid financial offer for Man Utd gem",
-      "summary": "Manchester United teenager JJ Gabriel will make a final pick between Real Madrid and Barcelona in the coming days.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-jj-gabriel-barcelona-real-madrid-transfer-latest",
-      "publishedAt": "2026-09-23T22:24:24.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "b89eb1a8f68aff",
-      "title": "Arsenal secure four players for £14.53m as future Liverpool transfers include £6m trio",
-      "summary": "Arsenal, Chelsea, Liverpool, Manchester City and Newcastle have all arranged future transfers in the relentless pursuit of teenage talent.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/major-future-transfers-prearranged",
-      "publishedAt": "2026-09-23T22:02:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f817c91d01948c",
-      "title": "Left-back ‘informs Man Utd’ he ‘wants’ to join in January",
-      "summary": "Manchester United have been ‘informed’ that a Crystal Palace star wants to move to Old Trafford in the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tyrick-mitchell-wants-manchester-united-transfer-in-january",
-      "publishedAt": "2026-09-23T21:50:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "394940fca6f3e4",
-      "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
-      "summary": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T21:33:27.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Chelsea",
-        "Liverpool",
-        "Barcelona"
       ]
     }
   ],
