@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-24T16:50:00.971Z",
+  "generatedAt": "2026-09-24T21:19:56.691Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,29 +99,199 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "4b774853ed33dc",
-      "title": "Premier League Darts 2027 dates and venues revealed as Littler defends title",
-      "summary": "Luke Littler and Luke Humphries will headline next year’s Premier League darts roadshow, which will begin at Glasgow's OVO Hydro on Thursday February 4 - live on Sky Sp...",
+      "id": "ef9a740ca1b431",
+      "title": "Min Woo Lee holes monster birdie for Internationals at Presidents Cup!",
+      "summary": "Min Woo Lee holed a 50 foot putt on the second hole on the first day of the Presidents Cup.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13591406/premier-league-darts-2027-dates-and-venues-confirmed-glasgow-hosts-opener-finals-night-in-london-as-luke-littler-defends-title",
-      "publishedAt": "2026-09-24T16:50:00.799Z",
+      "url": "https://www.skysports.com/watch/video/13591545/look-at-that-min-woo-lee-holes-50ft-putt-at-presidents-cup",
+      "publishedAt": "2026-09-24T21:19:56.463Z",
       "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "a40892f3512a8c",
+      "title": "Premier League in joint call for FIFA reform amid Infantino crisis",
+      "summary": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its presi...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform",
+      "publishedAt": "2026-09-24T21:19:56.462Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "summary": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-24T21:19:56.461Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "64aeed99428be1",
+      "title": "Breetzke ton leads South Africa to 67-run ODI win over Australia",
+      "summary": "Matthew Breetzke scored a superb 112 to guide South Africa to a 67-run victory over Australia ‌in the first one-day international in Durban on Thursday, but the tourist...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13591544/matthew-breetzke-ton-leads-south-africa-to-67-run-odi-win-over-australia-in-durban-to-move-1-0-up-in-series",
+      "publishedAt": "2026-09-24T21:19:56.461Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "36da74fb94ad95",
+      "title": "The ridiculous stats of Erling Haaland, who has more international goals than Ronaldo and Zlatan",
+      "summary": "Erling Haaland has now played against 25 different teams in the Premier League for Manchester City, and scored against every one of them.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-ridiculous-stats-half-decent-start-premier-league-life",
+      "publishedAt": "2026-09-24T20:36:20.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "dc7200105aec84",
+      "title": "Man Utd have just signed the new Wilfried Zaha",
+      "summary": "Manchester United have successfully completed a raid on bitter Premier League rivals Liverpool for one of their best young players.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-sign-isaac-konde-from-liverpool",
+      "publishedAt": "2026-09-24T20:16:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ed3ceb152cfafb",
+      "title": "Chelsea lead race for Scott - Friday's gossip",
+      "summary": "Chelsea target Bournemouth's Alex Scott, Bayern Munich are interested in Dani Olmo and Jude Bellingham denies Manchester City interest.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8eygy4e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T20:16:58.000Z",
+      "category": "league",
+      "region": "england italy germany",
+      "tags": [
+        "Chelsea",
+        "Manchester",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "86f0be5df50920",
+      "title": "How PSG's Ballon d'Or duo are pushing each other on",
+      "summary": "While there can only be one winner, team-mates Ousmane Dembele and Khvicha Kvaratskhelia are backing each other to win the Ballon d'Or.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjk1qd1wx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:02:33.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Psg"
+      ]
+    },
+    {
+      "id": "e13613c6eaa835",
+      "title": "Boost for Man Utd as Barcelona make shock decision on signing JJ Gabriel",
+      "summary": "Barcelona sporting director Deco has played down suggestions that Manchester United wonderkid JJ Gabriel could join the Catalans after he requested to leave Old Trafford",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-barcelona-decision-united-boost",
+      "publishedAt": "2026-09-24T18:50:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "1ebb53d136e8c0",
+      "title": "UK Football Police Unit accused of ‘bringing Hillsborough’ into alcohol debate",
+      "summary": "‘The disaster was not caused by alcohol,’ says fan group Police say they had not intended to make such a link English football’s leading fans’ group has criticised the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/uk-football-police-unit-accused-of-bringing-hillsborough-into-alcohol-debate",
+      "publishedAt": "2026-09-24T18:07:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f13ded1c2a1dbc",
+      "title": "Tottenham have enquired about signing Croatian goal machine in January",
+      "summary": "Tottenham Hotspur have made a move to sign a Croatia international striker in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-hotspur-igor-matanovic-freiburg-2027-january-transfer",
+      "publishedAt": "2026-09-24T18:00:43.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "56969bd5b3c86f",
+      "title": "Premier League keen to resolve EFL funding stalemate",
+      "summary": "The Premier League hopes to reach an agreement with the EFL over its funding model 'as soon as possible'.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4qkly434o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T17:52:44.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Premier League"
       ]
     },
     {
-      "id": "9428b8394a37fa",
-      "title": "Are main stadiums the right place for women's football?",
-      "summary": "Are main stadiums the right place for women's football?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/story-telling/12040/13535768/whats-next-for-the-future-wsl-stadiums",
-      "publishedAt": "2026-09-24T16:50:00.799Z",
+      "id": "896ecc6e2c7fae",
+      "title": "Everton reach decision on selling Jarrad Branthwaite to Liverpool",
+      "summary": "Everton have made up their mind on whether they will sell England international central defender Jarrad Branthwaite to Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/everton-liverpool-jarrad-branthwaite-sale-decision-reached",
+      "publishedAt": "2026-09-24T17:04:02.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Football"
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "cd4db0231ca0a4",
+      "title": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
+      "summary": "Two years ago the Brazilian thought his time at Barcelona was ending but, two La Liga titles later, he is now captain and the most potent No 9 in Europe For once, Rapha...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
+      "publishedAt": "2026-09-24T17:00:25.000Z",
+      "category": "league",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Inter"
       ]
     },
     {
@@ -433,169 +603,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "0f5b57d9e2c665",
-      "title": "Rio Ngumoha reveals new ‘tool’ Andoni Iraola has given him to ‘destroy defenders’ for Liverpool",
-      "summary": "Rio Ngumoha has explained how Andoni Iraola has given him “another tool” to “destroy defenders” for Liverpool and England.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ngumoha-tool-iraola-destroy-defenders-liverpool",
-      "publishedAt": "2026-09-24T11:15:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "cdd76c687a6e62",
-      "title": "Harry Kane confirms surprise quit plan that is neither surprising nor a quit plan",
-      "summary": "Harry Kane has announced a shocking and surprising plan to QUIT football and take up an NFL career, as long as you ignore what he actually said.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-confirms-surprise-quit-plan-nfl-mediawatch",
-      "publishedAt": "2026-09-24T11:07:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "6eff141dc5676c",
-      "title": "Has the time come to separate home and away fans at WSL games?",
-      "summary": "With interest in the league rising, some are calling for dedicated away ends at stadiums to improve atmosphere With interest in the Women’s Super League on the rise and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/24/separate-home-away-fans-wsl-games-moving-the-goalposts",
-      "publishedAt": "2026-09-24T11:00:17.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "48c733661308fb",
-      "title": "Liverpool poised to ‘pull the plug’ on £100m star as ‘voices get louder’ amid possible Bayern ‘solution’",
-      "summary": "Florian Wirtz has been warned that Liverpool could soon “pull the plug” on him as the “voices get louder” following a poor start to his second season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-poised-pull-plug-100m-star-voices-louder-bayern-solution",
-      "publishedAt": "2026-09-24T10:02:44.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "53a600553782cd",
-      "title": "Have Arsenal been figured out? Three big questions after Brighton’s upset",
-      "summary": "This week, we dive into the big questions surrounding the most surprising result of the Premier League weekend Before this past weekend, Arsenal had not lost in the Pre...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
-      "publishedAt": "2026-09-24T10:00:14.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5d01106784def0",
-      "title": "Infantino under pressure to include abandoned World Cup sell-off plan in external Fifa review",
-      "summary": "Council members also want Balogun affair included Fifa president says review letter been well received Fifa council members will demand that Gianni Infantino include th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/24/gianni-infantino-under-pressure-abandoned-world-cup-sell-off-fifa-review",
-      "publishedAt": "2026-09-24T09:50:04.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa",
-        "Inter"
-      ]
-    },
-    {
-      "id": "93a497dfc5a9bf",
-      "title": "How Man City overhauled their squad from a 650,000-strong database",
-      "summary": "BBC Sport goes inside Manchester City's data team, who have been a key part of their rebuild over the past 18 months.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T09:31:22.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "053fb31631c7d7",
-      "title": "Pearce confirms £30m Liverpool star ‘goes’ if Iraola decides he wants Reds legend to stay",
-      "summary": "The Athletic’s James Pearce has revealed that Giorgi Mamardashvili will leave Liverpool if the Reds choose to keep Alisson for another year.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-pearce-confirms-mamardashvili-alisson-sold",
-      "publishedAt": "2026-09-24T09:17:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "8dd23cbda69a58",
-      "title": "Send us your Scotland World Cup memories of Boston",
-      "summary": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories of that magical week or so in Boston at the World Cup.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T09:13:20.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f266048696a34e",
-      "title": "Tottenham handed critical Dejan Kulusevski boost as date set for return",
-      "summary": "The Sweden international has not played a game for the club since May 11 2025, after suffering was described as “just a knock” in a home defeat to Crystal Palace.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-dejan-kulusevski-huge-boost-date-set-return-action",
-      "publishedAt": "2026-09-24T09:07:32.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "128808bfbfbdb0",
-      "title": "Rooney mocks Man Utd star who’s a ‘big part of the problem’ for Carrick",
-      "summary": "Wayne Rooney has joined his fellow Manchester United legends in mocking Benjamin Sesko for having a poorly shin.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rooney-mocks-man-utd-star-big-part-problem-carrick",
-      "publishedAt": "2026-09-24T08:59:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "26a3d8ad81593d",
-      "title": "Man Utd slipping after being Premier League’s pride under Michael Carrick",
-      "summary": "Manchester United have made a poor start to the season, but they are still in a strong position since Michael Carrick took over…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-table-since-carrick-took-over-man-utd",
-      "publishedAt": "2026-09-24T08:40:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
       ]
     }
   ],
