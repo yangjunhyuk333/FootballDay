@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-23T21:18:50.866Z",
+  "generatedAt": "2026-09-24T04:01:27.260Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,44 +99,29 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "8241502a14c18c",
-      "title": "Man Utd post record revenues as stadium plans advance",
-      "summary": "Manchester United have announced record revenues for 2026, despite not competing in European competition last season.",
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Where does Arteta rank ahead of new deal?",
+      "summary": "Arsenal latest: Where does Arteta rank ahead of new deal?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590954/man-utd-red-devils-announced-record-revenues-in-2026-despite-not-playing-european-football",
-      "publishedAt": "2026-09-23T21:18:50.591Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-24T04:01:27.026Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Arsenal"
       ]
     },
     {
-      "id": "28fc93f0b1d376",
-      "title": "Bored by international breaks? WSL is serving plenty to excite this weekend",
-      "summary": "Bored by international breaks? WSL is serving plenty to excite this weekend",
+      "id": "8afdc99ec2c056",
+      "title": "Presidents Cup: Latest schedule and tee times",
+      "summary": "Latest scores, results, pairings and tee times for the 16th Presidents Cup, as Team USA host the International Team at Medinah Country Club, Illinois.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590936/london-city-vs-brighton-the-merseyside-derby-and-chelsea-vs-arsenal-all-among-games-live-on-sky-this-weekend-every-reason-to-watch",
-      "publishedAt": "2026-09-23T21:18:50.591Z",
+      "url": "https://www.skysports.com/golf/news/12040/13590592/presidents-cup-2026-latest-scores-results-tee-times-leaderboard-as-team-usa-host-international-team-at-medinah",
+      "publishedAt": "2026-09-24T04:01:27.025Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "27b76afa13b3c2",
-      "title": "The Italian Job gets a sequel! Can Mancini inspire a new generation?",
-      "summary": "This year, Italian football fell to its lowest ebb. In Europe, no Italian club made it past the quarter-finals - while Atalanta were the only Serie A side to reach the...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590474/roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-with-a-youth-inspired-revolution",
-      "publishedAt": "2026-09-23T21:18:50.591Z",
-      "category": "ucl",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Champions League"
       ]
     },
     {
@@ -145,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports and Cricket South Africa have extended their longstanding partnership, with Sky Sports and NOW to exclusively broadcast the England men's three-Test and thre...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13590791/sky-sports-to-show-england-mens-tour-of-south-africa-this-winter-plus-australia-mens-tour-in-coming-weeks",
-      "publishedAt": "2026-09-23T21:18:50.590Z",
+      "publishedAt": "2026-09-24T04:01:27.024Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -154,11 +139,11 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "04e33a911df8e2",
-      "title": "Ronaldo eyes scoring 1,000th goal for Portugal after considering international retirement",
+      "title": "Ronaldo defiant over Portugal future as he targets 1,000 goals",
       "summary": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals",
-      "publishedAt": "2026-09-23T21:18:50.590Z",
+      "publishedAt": "2026-09-24T04:01:27.024Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -168,58 +153,88 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Where does Arteta rank ahead of new deal?",
-      "summary": "Arsenal latest: Where does Arteta rank ahead of new deal?",
+      "id": "eefd2e8b4e2248",
+      "title": "Papers: Man Utd line up Conte for sensational PL return",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-23T21:18:50.590Z",
+      "url": "https://www.skysports.com/football/news/12040/13591219/man-utd-antonio-conte-lined-up-for-sensational-premier-league-return-as-replacement-for-michael-carrick-paper-talk",
+      "publishedAt": "2026-09-24T04:01:27.023Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Transfer"
       ]
     },
     {
-      "id": "4a9f7ccbcff45f",
-      "title": "Can Arteta turn champions into serial winners?",
-      "summary": "When Mikel Arteta signed his last Arsenal contract in September 2024, his quest to bring major silverware back to the club was ongoing. Two years later, he agrees his n...",
+      "id": "7b67ad8e86dfec",
+      "title": "Kaptein scores winner as Chelsea earn narrow victory over Austria Wien",
+      "summary": "Wieke Kaptein scored a stunning goal but Chelsea were given a stern test by Austria Wien as they began their Women's Champions League campaign with a hard-fought 1-0 wi...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success",
-      "publishedAt": "2026-09-23T21:18:50.590Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-austria-wien-women/report/578238",
+      "publishedAt": "2026-09-24T04:01:27.023Z",
+      "category": "ucl",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d2d785148f012b",
-      "title": "WCL: Kaptein stunner earns Chelsea hard-fought win over Austria Wien LIVE!",
-      "summary": "WCL: Kaptein stunner earns Chelsea hard-fought win over Austria Wien LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-austria-wien-women/live/578238",
-      "publishedAt": "2026-09-23T21:18:50.589Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
+        "Champions League",
         "Chelsea"
       ]
     },
     {
-      "id": "5f72c4b2807116",
-      "title": "Chelsea 1-0 Austria Vienna: Women’s Champions League – live reaction",
-      "summary": "Champions League updates from the 8pm BST kick-off Live scoreboard | Disney+ criticised | And Email Daniel Leuven 0-0 Roma Servette 0-8 Lyon Continue reading...",
+      "id": "e25e8633aa2c1a",
+      "title": "JJ Gabriel to Barcelona undergoes significant shift after Real Madrid financial offer for Man Utd gem",
+      "summary": "Manchester United teenager JJ Gabriel will make a final pick between Real Madrid and Barcelona in the coming days.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-jj-gabriel-barcelona-real-madrid-transfer-latest",
+      "publishedAt": "2026-09-23T22:24:24.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f817c91d01948c",
+      "title": "Left-back ‘informs Man Utd’ he ‘wants’ to join in January",
+      "summary": "Manchester United have been ‘informed’ that a Crystal Palace star wants to move to Old Trafford in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tyrick-mitchell-wants-manchester-united-transfer-in-january",
+      "publishedAt": "2026-09-23T21:50:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "394940fca6f3e4",
+      "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
+      "summary": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crq5x1n12xexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T21:33:27.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f43b2de0dbc52d",
+      "title": "Kaptein fantastic strikes as Chelsea battle to WCL win over Austria Vienna",
+      "summary": "Wieke Kaptein’s early goal gave Chelsea a winning start to their Champions League campaign proper against Austria Vienna, but it was a far from comfortable evening for...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
-      "publishedAt": "2026-09-23T21:01:22.000Z",
+      "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-austria-vienna-womens-champions-league-match-report",
+      "publishedAt": "2026-09-23T21:12:40.000Z",
       "category": "ucl",
-      "region": "england italy france",
+      "region": "england",
       "tags": [
         "Football",
         "Champions League",
-        "Arsenal",
         "Chelsea"
       ]
     },
@@ -260,6 +275,19 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "4cc8f150335774",
+      "title": "Serious business resumes for Wales boss Bellamy",
+      "summary": "With the Burnley interest firmly behind him, Craig Bellamy is focused on leading Wales in the Nations League, starting against Portugal in Lisbon.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm780yp0nq7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T20:00:48.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -529,6 +557,22 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "5b4bb73e669c19",
+      "title": "Chelsea have entered the realm of late-stage American sports capitalism | Leander Schaerlaeckens",
+      "summary": "The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the US Here follows a list...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism",
+      "publishedAt": "2026-09-23T13:16:41.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
       "id": "ca6a8f996dddfa",
       "title": "Paul Scholes claims Chelsea summer signing ‘shouldn’t be starting’ in PL – ‘million miles away’",
       "summary": "Paul Scholes has explained why he doesn’t think Chelsea star Jordan Henderson should be starting in the Premier League any longer.",
@@ -553,46 +597,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e7e250f70e489d",
-      "title": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs",
-      "summary": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T12:34:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eea288f21d47b9",
-      "title": "Wayne Rooney slams ‘weak’ Man Utd leaving Michael Carrick under ‘pressure’",
-      "summary": "Wayne Rooney feels Manchester United have left Michael Carrick with a “weak” squad, as the legendary former striker detailed the “pressure” the boss is under.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/wayne-rooney-weak-man-utd-michael-carrick-pressure",
-      "publishedAt": "2026-09-23T12:31:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f359eb947a0e6f",
-      "title": "Ad break in Women's Champions League was unscheduled",
-      "summary": "Coverage of Arsenal's Women's Champions League opener also featured a dog on set, a vegetable platter and a rotating floor.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv8e328r7w4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T12:28:03.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
         "Arsenal"
       ]
     }
