@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:19:56.691Z",
+  "generatedAt": "2026-09-25T04:15:51.691Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@
       "pinned": true
     },
     {
-      "id": "ef9a740ca1b431",
-      "title": "Min Woo Lee holes monster birdie for Internationals at Presidents Cup!",
-      "summary": "Min Woo Lee holed a 50 foot putt on the second hole on the first day of the Presidents Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13591545/look-at-that-min-woo-lee-holes-50ft-putt-at-presidents-cup",
-      "publishedAt": "2026-09-24T21:19:56.463Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "a40892f3512a8c",
       "title": "Premier League in joint call for FIFA reform amid Infantino crisis",
       "summary": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its presi...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform",
-      "publishedAt": "2026-09-24T21:19:56.462Z",
+      "publishedAt": "2026-09-25T04:15:51.108Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -126,16 +113,16 @@
       ]
     },
     {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
-      "summary": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "id": "9f732d272d52df",
+      "title": "Scheffler edges final-hole thriller as Team USA grab Presidents Cup lead",
+      "summary": "Team USA made a solid start to their bid for an 11th consecutive Presidents Cup victory by building a 3-2 lead in Thursday's fourballs session against the International...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-24T21:19:56.461Z",
+      "url": "https://www.skysports.com/golf/news/12040/13591506/presidents-cup-team-usa-lead-international-team-3-2-after-thursday-fourballs-as-scottie-scheffler-makes-winning-start",
+      "publishedAt": "2026-09-25T04:15:51.107Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Arsenal"
+        "Inter"
       ]
     },
     {
@@ -144,11 +131,110 @@
       "summary": "Matthew Breetzke scored a superb 112 to guide South Africa to a 67-run victory over Australia ‌in the first one-day international in Durban on Thursday, but the tourist...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13591544/matthew-breetzke-ton-leads-south-africa-to-67-run-odi-win-over-australia-in-durban-to-move-1-0-up-in-series",
-      "publishedAt": "2026-09-24T21:19:56.461Z",
+      "publishedAt": "2026-09-25T04:15:51.107Z",
       "category": "issue",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "0fd23e3b65bafd",
+      "title": "Sunderland latest: Brobbey taken off injured on international duty",
+      "summary": "Sunderland latest: Brobbey taken off injured on international duty",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-25T04:15:51.106Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "summary": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-25T04:15:51.106Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ba7f9ead7d51be",
+      "title": "Papers: Barcelona not interested in signing Man Utd wonderkid Gabriel",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk",
+      "publishedAt": "2026-09-25T04:15:51.104Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Transfer",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5026e104c125a3",
+      "title": "Man Utd borrow another £90m as debt tops £1.1bn",
+      "summary": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T22:22:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "25a5a12db11888",
+      "title": "Uefa fears impact of Premier League spending on transfer market",
+      "summary": "Uefa believes \"a clear two-speed system\" is emerging in the transfer market due to huge spending by Premier League clubs this summer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T22:09:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "25b07d5e948538",
+      "title": "Barcelona's Deco denies interest in Man Utd's Gabriel",
+      "summary": "Barcelona sporting director Deco says the club is not interested in Manchester United teenager JJ Gabriel.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T21:40:37.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "79f05900b43328",
+      "title": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
+      "summary": "Barcelona winger says England cannot play like Spain Gordon: ‘The Mexico game set us up a bit’ Anthony Gordon has sided with Thomas Tuchel’s assertion that controlling...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league",
+      "publishedAt": "2026-09-24T21:30:08.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona"
       ]
     },
     {
@@ -522,87 +608,6 @@
       "tags": [
         "Arsenal",
         "Inter"
-      ]
-    },
-    {
-      "id": "5eee5f15257565",
-      "title": "Chelsea want stunning January deal for Man City star to rescue worst defence in Premier League",
-      "summary": "Chelsea are eyeing a January transfer for Man City defender Abdukodir Khusanov after their poor start to the season, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-stunning-january-transfer-man-city-khusanov-worst-defence-premier-league",
-      "publishedAt": "2026-09-24T12:49:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "47f1f45d875469",
-      "title": "Man Utd pearl clutchers up in arms over harmless Old Trafford turf sale",
-      "summary": "Manchester United are selling bits of ‘hallowed’ Old Trafford turf and the fans are up in arms. How dare Sir Jim Ratcliffe make them pay £125 for a bit of ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-man-utd-pearl-clutchers-harmless-old-trafford-turf-sale",
-      "publishedAt": "2026-09-24T12:49:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6b49c595c70e06",
-      "title": "Football Daily",
-      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball hear from Anthony Gordon ahead of England-Spain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032km2?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T12:19:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "26d29adb50a244",
-      "title": "Liverpool plotting shock re-signing of former midfielder as seven-club battle emerges",
-      "summary": "The 23-year-old talent is generating a huge amount of interest after becoming a key player for Lyon boss Paulo Fonseca, underlined by his workload already this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-plotting-shock-return-tyler-morton-seven-club-battle-emerges",
-      "publishedAt": "2026-09-24T12:16:59.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "447fbcba0d0da2",
-      "title": "Burnham is wrong – booze ban should stay because football IS different",
-      "summary": "Andy Burnham wants the alcohol ban lifted but the performative pint-throwing w*nkers alone make it a bad idea. Football is different, for better and for worse…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/prime-minister-andy-burnham-wrong-football-booze-alcohol-ban",
-      "publishedAt": "2026-09-24T11:21:54.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "971e0f604f516b",
-      "title": "Man Utd reach decision on signing Dominic Calvert-Lewin from Leeds in January",
-      "summary": "Man Utd have reached a decision on signing Dominic Calvert-Lewin from Leeds in the January transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-reach-decision-signing-calvert-lewin-leeds",
-      "publishedAt": "2026-09-24T11:20:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     }
   ],
