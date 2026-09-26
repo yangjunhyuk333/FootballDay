@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-25T21:18:58.709Z",
+  "generatedAt": "2026-09-26T04:20:13.349Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "1f96fe51a587b9",
-      "title": "Man City charges Q&A: How did we get here, what could punishment be?",
-      "summary": "Sky Sports News' chief reporter Kaveh Solhekol explains the Premier League charges brought against Manchester City, the background to the investigation and the potentia...",
+      "id": "63fe0bbae4c9a6",
+      "title": "Internationals stun USA with session sweep to build shock Presidents Cup lead",
+      "summary": "Team USA's hopes of an 11th consecutive Presidents Cup win suffered a major setback after the Internationals produced a stunning foursomes session sweep to build a shoc...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591837/man-city-premier-league-charges-explained-what-are-they-what-could-punishment-be-what-happens-next",
-      "publishedAt": "2026-09-25T21:18:58.420Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6962f9f7ec16cd",
-      "title": "Internationals lead USA in four matches and eye Presidents Cup shock LIVE!",
-      "summary": "Internationals lead USA in four matches and eye Presidents Cup shock LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/golf/live-blog/12040/13591866/presidents-cup-team-usa-vs-international-team-live-latest-updates-scores-highlights-from-friday-foursomes-at-medinah",
-      "publishedAt": "2026-09-25T21:18:58.420Z",
+      "url": "https://www.skysports.com/golf/news/12040/13591892/presidents-cup-international-team-stun-team-usa-with-session-sweep-in-friday-foursomes-to-build-shock-lead-at-medinah",
+      "publishedAt": "2026-09-26T04:20:13.016Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -131,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Brentford have held initial talks with Kevin Schade about a new long-term contract in the wake of his excellent start to the campaign and increasing interest from bigge...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13591878/transfer-news-brentford-hold-kevin-schade-contract-talks-as-arsenal-liverpool-track-germany-winger",
-      "publishedAt": "2026-09-25T21:18:58.419Z",
+      "publishedAt": "2026-09-26T04:20:13.016Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -141,16 +127,84 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f4cd06e58c5794",
-      "title": "Scott makes MONSTER birdie at the 7th as Internationals continue to dominate!",
-      "summary": "Adam Scott made birdie on the 7th hole in the second round of the Presidents Cup.",
+      "id": "023fd82a1ba8dc",
+      "title": "Scheffler stunned as International secure 5-0 session sweep over USA!",
+      "summary": "Highlights from the second day of the 2026 Presidents Cup, where the International Team impressed during the Friday foursomes.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13591940/presidents-cup-adam-scott-makes-monster-birdie-at-the-7th",
-      "publishedAt": "2026-09-25T21:18:58.419Z",
+      "url": "https://www.skysports.com/watch/video/13591969/presidents-cup-day-two-highlights",
+      "publishedAt": "2026-09-26T04:20:13.015Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "33b798bdf2335f",
+      "title": "Man City charges - what happens now?",
+      "summary": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now",
+      "publishedAt": "2026-09-26T04:20:13.014Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f6371b3e950c9",
+      "title": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13591966/transfer-news-crystal-palace-chairman-steve-parish-tells-liverpool-accepting-50m-ismaila-sarr-bid-was-never-going-to-happen-paper-talk",
+      "publishedAt": "2026-09-26T04:20:13.012Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9afdb3901e3dd5",
+      "title": "Rodri insists Manchester City ‘deserved’ success despite FFP guilty verdict",
+      "summary": "‘I believe in the justice system and innocence of the club’ Midfielder ended glittering spell with City this year Rodri says nobody can take away Manchester City player...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
+      "publishedAt": "2026-09-25T22:42:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "17ea46864083a3",
+      "title": "Rodri believes in Man City's 'innocence'",
+      "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T21:56:35.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "44704d079d834f",
+      "title": "Man Utd legend David de Gea reacts to Man City FFP guilty verdict",
+      "summary": "Manchester United icon, David de Gea, has reacted to Manchester City being found guilty of breaching Financial Fair Play.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-legend-david-de-gea-reacts-man-city-ffp-verdict",
+      "publishedAt": "2026-09-25T21:36:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -168,22 +222,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "7acf0398195cc4",
-      "title": "Turkey 0-1 France, Italy 0-2 Belgium, Georgia 0-1 Northern Ireland: Nations League – live",
-      "summary": "⚽ Updates from Friday evening’s Nations League games ⚽ Live scoreboard | Read Football Daily | Mail Michael Before kick-off in Italy , there is a minute’s applause for...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
-      "publishedAt": "2026-09-25T20:55:16.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
       "id": "687761b3cd9ebc",
       "title": "Man City fans face up to reality of guilty verdict",
       "summary": "How Manchester City fans have reacted to news that the club have been found guilty of a majority of the financial rule breaches they were accused of.",
@@ -193,6 +231,20 @@ window.FOOTBALLDAY_DATA = {
       "category": "league",
       "region": "england",
       "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5751b7b7d70cf9",
+      "title": "Manchester City guilty verdict ‘a historic decision’, says whistleblower Rui Pinto",
+      "summary": "Football Leaks founder’s information triggered probes Has faced legal issues and lives under police protection Years after his leaks shook the foundations of European f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto",
+      "publishedAt": "2026-09-25T20:27:17.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
         "Manchester"
       ]
     },
@@ -328,8 +380,8 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "72588ddf824c03",
-      "title": "Liverpool’s Cody Gakpo reflects on ‘tough summer’ after collapse of Manchester City move",
-      "summary": "Dutchman’s second son died during pregnancy in June ‘If I have no control over the situation, I will not worry’ Cody Gakpo has reflected on a “very tough” summer that e...",
+      "title": "Liverpool’s Cody Gakpo reflects on ‘tough summer … in football and life’",
+      "summary": "Gakpo’s second son died during pregnancy in June Dutch winger almost left Anfield for Manchester City Cody Gakpo has reflected on a “very tough” summer that ended with...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city",
       "publishedAt": "2026-09-25T16:00:11.000Z",
@@ -549,61 +601,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Europa League",
         "Transfer"
-      ]
-    },
-    {
-      "id": "d73468b8929773",
-      "title": "Man City FFP: Ornstein reveals bombshell verdict with City ‘found guilty on almost all charges’",
-      "summary": "David Ornstein has revealed that Manchester City have been ‘found guilty on almost all charges’ from the Financial Fair Play hearing.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-ornstein-reveals-bombshell-verdict-city-guilty-almost-all-charges",
-      "publishedAt": "2026-09-25T13:51:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1d59dae949c9d2",
-      "title": "Liverpool to make contact for €50m Spanish star wanted by Arsenal, Real Madrid – report",
-      "summary": "Liverpool are preparing to battle Arsenal and Real Madrid for a 20-year-old Spanish talent, according to a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-news-jon-martin-contact-arsenal-real-madrid-battle-e50-million",
-      "publishedAt": "2026-09-25T13:44:50.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8290a9221bb088",
-      "title": "Aston Villa summer signing ‘miles better’ than Arsenal star David Raya as ‘best in the Premier League’",
-      "summary": "Arsenal star David Raya has been told that Aston Villa summer signing Zion Suzuki is ‘miles better’ as the “best in the Premier League”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-signing-miles-better-arsenal-star-david-raya-best-premier-league",
-      "publishedAt": "2026-09-25T13:18:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9cbbe525e9e0f1",
-      "title": "'Workhorse' Koumas growing with Wales",
-      "summary": "Liverpool forward Lewis Koumas earns praise from Wales boss Craig Bellamy and full-back Neco Williams following his efforts against Portugal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmed7jqjnz66o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T13:12:40.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     }
   ],
