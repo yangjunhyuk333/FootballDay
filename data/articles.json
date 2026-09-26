@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T16:05:48.436Z",
+  "generatedAt": "2026-09-26T20:51:22.599Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,62 +99,80 @@
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Off The Ball with Tam & Ray - listen now",
-      "summary": "The most petty and ill-informed football show on radio.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T16:30:00.000Z",
-      "category": "league",
+      "id": "61c7c38a45514b",
+      "title": "Awkward! Captain forgets name of player on his American team!",
+      "summary": "Team USA captain Brandt Snedeker forgot the name of Cameron Young, one of his players, during a live interview ahead of the Presidents Cup Saturday fourballs.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13592258/presidents-cup-usa-captain-forgets-name-of-one-of-the-players-on-his-team",
+      "publishedAt": "2026-09-26T20:51:22.303Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "13307abd2a7d43",
+      "title": "Putellas' first WSL goal helps send London City second with Brighton win",
+      "summary": "Alexia Putellas scored her first goal in English football, helping London City Lionesses to a 2-0 win against Brighton and sending them second in the WSL table.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777",
+      "publishedAt": "2026-09-26T20:51:22.302Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football"
       ]
     },
     {
-      "id": "1a45aa868ac522",
-      "title": "Man City chairman responds to reports surrounding 115 charges",
-      "summary": "Manchester City chairman Khaldoon Al Mubarak has reaffirmed his belief the club will prove their innocence in the Premier League 115 charges case following reports on F...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13592103/man-city-chairman-khaldoon-al-mubarak-responds-to-reports-surrounding-115-charges-in-premier-league-financial-probe",
-      "publishedAt": "2026-09-26T16:05:48.034Z",
+      "id": "1fb8036a6a91f0",
+      "title": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+      "summary": "USA v Peru kicks off at 4.30pm ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questio...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
+      "publishedAt": "2026-09-26T20:35:20.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Premier League",
-        "Manchester"
+        "Football",
+        "Soccer",
+        "Inter"
       ]
     },
     {
-      "id": "b31e5d57b1480b",
-      "title": "Man City continue perfect WSL start with win over Charlton",
-      "summary": "Highlights of the WSL match between Charlton Athletic and Manchester City.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13592115/charlton-athletic-0-1-manchester-city-wsl-highlights",
-      "publishedAt": "2026-09-26T16:05:48.034Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "e3d40a676d5492",
+      "title": "England v Spain: Nations League football – live",
+      "summary": "Nations League updates from the 7.45pm BST kick-off Live scoreboard | Follow us on Instagram and TikTok England are about to face the hardest challenge in international...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+      "publishedAt": "2026-09-26T20:35:09.000Z",
+      "category": "worldcup",
+      "region": "italy",
       "tags": [
-        "Manchester"
+        "Football",
+        "World Cup",
+        "Inter"
       ]
     },
     {
-      "id": "344802c8cea975",
-      "title": "Greenwood free-kick vs Charlton maintains Man City's perfect record",
-      "summary": "Alex Greenwood's free-kick earned Manchester City a narrow 1-0 win against Charlton in the WSL.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/charlton-athletic-women-vs-manchester-city-women/report/575776",
-      "publishedAt": "2026-09-26T16:05:48.034Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "ff0270be93d18d",
+      "title": "WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start",
+      "summary": "Two-time Ballon d’Or winner nets against Brighton Alex Greenwood’s free-kick sinks Charlton Alexia Putellas scored her first WSL goal as London City Lionesses moved sec...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
+      "publishedAt": "2026-09-26T18:39:15.000Z",
+      "category": "league",
+      "region": "england spain",
       "tags": [
-        "Manchester"
+        "Football",
+        "Manchester",
+        "Barcelona"
       ]
     },
     {
       "id": "8be06909f56d78",
-      "title": "Man City chairman Mubarak releases statement as FFP case tipped to ‘spiral out of control’",
-      "summary": "City chief Mubarak has revealed his position on the FFP charges, while an ex-Liverpool chief has warned of ‘appalling’ consequences",
+      "title": "Man City chairman Al Mubarak releases statement as FFP case tipped to ‘spiral out of control’",
+      "summary": "City chief Al Mubarak has revealed his position on the FFP charges, while an ex-Liverpool chief has warned of ‘appalling’ consequences",
       "source": "Football365",
       "url": "https://www.football365.com/news/man-city-ffp-update-club-statement-khaldoon-al-mubarak-case-spiral-impact",
       "publishedAt": "2026-09-26T16:00:32.000Z",
@@ -162,6 +180,21 @@
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "87bfb2edd3062b",
+      "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
+      "summary": "Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium. Alessandro del Piero and Italy discovered favourable opposition...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report",
+      "publishedAt": "2026-09-26T15:19:01.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
       ]
     },
     {
@@ -209,7 +242,7 @@
     {
       "id": "6ad0d20473916f",
       "title": "Manchester City chair Al Mubarak insists ‘nothing has changed’ after guilty verdict",
-      "summary": "Manager Maresca posts ‘I know nothing’ message David Bernstein: a fine is not sufficient if appeal fails Khaldoon Al Mubarak, the Manchester City chair, has spoken for...",
+      "summary": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon Al Mubarak, the Manchester City chair,...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
       "publishedAt": "2026-09-26T14:52:09.000Z",
@@ -508,21 +541,6 @@
       ]
     },
     {
-      "id": "5eb306a5b6e8c9",
-      "title": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
-      "summary": "She left her Indian Ocean island home at the urging of her current manager and now they are working together again in pursuit of trophies at Stamford Bridge It is rare...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
-      "publishedAt": "2026-09-26T07:00:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "a46264ed02f00c",
       "title": "Manchester City verdict: what happens next, will club appeal and could they be relegated?",
       "summary": "We analyse what City must do to appeal, why even that might not be the end of the legal wrangling, and the potential penalties if the verdict is upheld Manchester City...",
@@ -538,19 +556,18 @@
       ]
     },
     {
-      "id": "3e68a83dca8467",
-      "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
-      "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career Like the kid he is, Lamine Yamal just wanted to ke...",
+      "id": "5eb306a5b6e8c9",
+      "title": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
+      "summary": "She left her Indian Ocean island home at the urging of her current manager and now they are working together again in pursuit of trophies at Stamford Bridge It is rare...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
+      "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
       "publishedAt": "2026-09-26T07:00:30.000Z",
-      "category": "worldcup",
-      "region": "spain italy",
+      "category": "league",
+      "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Barcelona",
-        "Inter"
+        "Arsenal",
+        "Chelsea"
       ]
     },
     {
@@ -579,20 +596,6 @@
         "Transfer",
         "Barcelona",
         "Inter"
-      ]
-    },
-    {
-      "id": "851d935d02fe2b",
-      "title": "Man City FFP: Man Utd, Arsenal eye compensation as Ornstein reveals clubs response to guilty verdict",
-      "summary": "According to reports, four Big Six clubs want ‘compensation’ from Manchester City after they were found guilty of breaching FFP rules.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-man-utd-arsenal-compensation-ornstein-response-guilty-verdict",
-      "publishedAt": "2026-09-26T06:40:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
