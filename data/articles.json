@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:51:22.599Z",
+  "generatedAt": "2026-09-27T04:36:53.884Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@
       "pinned": true
     },
     {
-      "id": "61c7c38a45514b",
-      "title": "Awkward! Captain forgets name of player on his American team!",
-      "summary": "Team USA captain Brandt Snedeker forgot the name of Cameron Young, one of his players, during a live interview ahead of the Presidents Cup Saturday fourballs.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13592258/presidents-cup-usa-captain-forgets-name-of-one-of-the-players-on-his-team",
-      "publishedAt": "2026-09-26T20:51:22.303Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "13307abd2a7d43",
       "title": "Putellas' first WSL goal helps send London City second with Brighton win",
       "summary": "Alexia Putellas scored her first goal in English football, helping London City Lionesses to a 2-0 win against Brighton and sending them second in the WSL table.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/london-city-lionesses-vs-brighton-and-hove-albion-women/report/575777",
-      "publishedAt": "2026-09-26T20:51:22.302Z",
+      "publishedAt": "2026-09-27T04:36:53.582Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -125,33 +112,99 @@
       ]
     },
     {
-      "id": "1fb8036a6a91f0",
-      "title": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
-      "summary": "USA v Peru kicks off at 4.30pm ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questio...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
-      "publishedAt": "2026-09-26T20:35:20.000Z",
+      "id": "0508c3027e09c5",
+      "title": "Internationals take shock lead over USA into singles after late drama",
+      "summary": "The International Team moved another step closer to a historic Presidents Cup win on American soil by taking a 10.5-7.5 lead over Team USA into the Sunday singles.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/golf/news/12040/13592061/presidents-cup-international-team-take-historic-10-5-7-5-lead-over-team-usa-into-sunday-singles-and-chase-medinah-win",
+      "publishedAt": "2026-09-27T04:36:53.581Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
-        "Football",
-        "Soccer",
         "Inter"
       ]
     },
     {
-      "id": "e3d40a676d5492",
-      "title": "England v Spain: Nations League football – live",
-      "summary": "Nations League updates from the 7.45pm BST kick-off Live scoreboard | Follow us on Instagram and TikTok England are about to face the hardest challenge in international...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-      "publishedAt": "2026-09-26T20:35:09.000Z",
+      "id": "b3f20c70299ccc",
+      "title": "Keane disagrees with Gordon: There is a gap between Spain and England",
+      "summary": "Roy Keane disagreed with Anthony Gordon's assessment that England are at the same level as Spain after the World Cup winners came from behind to beat Thomas Tuchel's si...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13592299/england-2-3-spain-anthony-gordon-and-roy-keane-disagree-over-gap-between-three-lions-and-world-champions",
+      "publishedAt": "2026-09-27T04:36:53.581Z",
       "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1c741bebf98933",
+      "title": "Internationals eye Presidents Cup history as they take lead into singles",
+      "summary": "Highlights from the third day of the 2026 Presidents Cup, where the International Team moved closer to a famous win on American soil.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13592318/presidents-cup-day-three-highlights",
+      "publishedAt": "2026-09-27T04:36:53.581Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
-        "Football",
-        "World Cup",
         "Inter"
+      ]
+    },
+    {
+      "id": "28da3445e5e683",
+      "title": "England player ratings against Spain: Arsenal, Man City partnership collapses as only two impress",
+      "summary": "A couple of England players acquitted themselves very well against the champions, but that defence is an absolute mess and needs changing.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/england-player-ratings-spain-arsenal-man-city-partnership-bellingham-gordon",
+      "publishedAt": "2026-09-26T22:44:04.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "497d312b112fc8",
+      "title": "England embrace the chaos - but control also needed to win big prizes",
+      "summary": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T22:39:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "623d4e5cffa258",
+      "title": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
+      "summary": "Club’s owners FSG move swiftly to fill key post Move comes amid upheaval in Anfield hierarchy Liverpool have appointed Julian Ward as their sporting director for a seco...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
+      "publishedAt": "2026-09-26T22:08:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "50aae57988643d",
+      "title": "Bayern target Barcelona's Olmo - Sunday's gossip",
+      "summary": "Bayern Munich target Dani Olmo, Trent Alexander-Arnold is staying at Real Madrid, Premier League clubs show interest in Spurs' Micky van de Ven, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw770034l523o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T20:54:18.000Z",
+      "category": "league",
+      "region": "england spain italy germany",
+      "tags": [
+        "Premier League",
+        "Barcelona",
+        "Real Madrid",
+        "Bayern"
       ]
     },
     {
@@ -241,8 +294,8 @@
     },
     {
       "id": "6ad0d20473916f",
-      "title": "Manchester City chair Al Mubarak insists ‘nothing has changed’ after guilty verdict",
-      "summary": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon Al Mubarak, the Manchester City chair,...",
+      "title": "Manchester City chair al-Mubarak insists ‘nothing has changed’ after guilty verdict",
+      "summary": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon al-Mubarak, the Manchester City chair,...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
       "publishedAt": "2026-09-26T14:52:09.000Z",
@@ -485,21 +538,6 @@
       ]
     },
     {
-      "id": "623d4e5cffa258",
-      "title": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
-      "summary": "Club’s owners FSG move swiftly to fill key post Move comes amid upheaval in Anfield hierarchy Liverpool have appointed Julian Ward as their sporting director for a seco...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
-      "publishedAt": "2026-09-26T08:20:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
       "id": "8ae2be22abd594",
       "title": "Man Utd reach decision on sacking Carrick in international break as Hurzeler response revealed",
       "summary": "Manchester United reportedly have ‘no plans’ to sack Michael Carrick at the moment, while they have a ‘response’ about possible replacement Fabian Hurzeler.",
@@ -553,49 +591,6 @@
         "Football",
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "5eb306a5b6e8c9",
-      "title": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
-      "summary": "She left her Indian Ocean island home at the urging of her current manager and now they are working together again in pursuit of trophies at Stamford Bridge It is rare...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
-      "publishedAt": "2026-09-26T07:00:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2a34f545179fc2",
-      "title": "Burnham’s booze ruse is a non-starter: just keep doing your drinking in the pub | Barney Ronay",
-      "summary": "The prime minister, a life-long football fan, was just restating a personal opinion about having a drink in the stands, not trying to make policy Hi, I’m Andy Burnham a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/26/burnhams-booze-ruse-is-a-non-starter-just-keep-doing-your-drinking-in-the-pub",
-      "publishedAt": "2026-09-26T07:00:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "00a2b56c8b7000",
-      "title": "Barcelona internal verdict on Anthony Gordon emerges after Newcastle exit",
-      "summary": "Barcelona signed England international winger Anthony Gordon from Newcastle United in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/anthony-gordon-barcelona-newcastle-united",
-      "publishedAt": "2026-09-26T07:00:01.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Barcelona",
-        "Inter"
       ]
     }
   ],
