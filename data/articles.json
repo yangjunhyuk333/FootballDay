@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:07:47.298Z",
+  "generatedAt": "2026-09-28T04:38:37.024Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,83 @@
       "pinned": true
     },
     {
-      "id": "cb51dff646de23",
-      "title": "Man Utd earn first WSL win of season as Arsenal's 11-month unbeaten run ends",
-      "summary": "Man Utd earn first WSL win of season as Arsenal's 11-month unbeaten run ends",
+      "id": "d9e7c7280526c2",
+      "title": "Team USA snatch Presidents Cup thriller after epic singles fightback",
+      "summary": "The United States snatched an 11th consecutive Presidents Cup victory after a remarkable final-day fightback saw claim a stunning 17-13 win over the Internationals.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13591752/wsl-man-utd-earn-first-league-win-of-season-as-liverpool-beat-rivals-everton-while-tottenham-thrash-aston-villa",
-      "publishedAt": "2026-09-27T21:07:46.829Z",
+      "url": "https://www.skysports.com/golf/news/12040/13592440/presidents-cup-team-usa-beat-international-team-17-13-after-epic-sunday-singles-fightback-to-avoid-shock-medinah-loss",
+      "publishedAt": "2026-09-28T04:38:36.549Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "dc1b5275f0cfad",
+      "title": "Scheffler and Echavarria confront crowd after mid-swing yell!",
+      "summary": "Scottie Scheffler defended Team International player Nico Echavarria after a fan in the crowd shouted during the Colombian's swing.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13592548/theres-no-place-for-that-scottie-scheffler-sticks-up-for-nico-echavarr237a-after-fan-shouts-out",
+      "publishedAt": "2026-09-28T04:38:36.549Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "693374e5d1d3a3",
+      "title": "Papers: Barca monitoring as Estevao grows impatient with Chelsea role",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13592576/barcelona-closely-monitoring-as-estevao-grows-impatient-over-chelsea-role-paper-talk",
+      "publishedAt": "2026-09-28T04:38:36.549Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "99d6ebc822e77c",
+      "title": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
+      "summary": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
+      "publishedAt": "2026-09-28T04:38:36.548Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "743872defbedc7",
+      "title": "USA win the Presidents Cup after largest final day comeback in history!",
+      "summary": "United States produced a remarkable fightback to beat the International Team and win the Presidents Cup, with Jacob Bridgeman claiming the winning point.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13592581/usa-win-the-presidents-cup-after-largest-final-day-comeback-in-history",
+      "publishedAt": "2026-09-28T04:38:36.548Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "4b3e3df95cc8a9",
+      "title": "Scheffler and Thomas shine for USA in incredible Presidents Cup victory!",
+      "summary": "Highlights from the final day of the Presidents Cup, where Team USA dominated the Sunday singles to close out a comeback victory over the International Team.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13592589/presidents-cup-day-four-highlights",
+      "publishedAt": "2026-09-28T04:38:36.548Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -117,7 +184,7 @@
       "summary": "Virat Kohli celebrated his return to the international arena by hitting his 55th ODI hundred as India beat West Indies by eight wickets in the series opener on Sunday.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13592513/india-vs-west-indies-virat-kohli-joins-sachin-tendulkar-in-passing-15000-odi-runs-as-his-55th-ton-fires-india-to-victory",
-      "publishedAt": "2026-09-27T21:07:46.828Z",
+      "publishedAt": "2026-09-28T04:38:36.547Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -130,7 +197,7 @@
       "summary": "Alyssa Thompson scored the only goal as Chelsea secured a 1-0 win against Arsenal to end their unbeaten streak in the Women's Super League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/chelsea-women-vs-arsenal-women/report/575779",
-      "publishedAt": "2026-09-27T21:07:46.828Z",
+      "publishedAt": "2026-09-28T04:38:36.547Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -139,29 +206,72 @@
       ]
     },
     {
-      "id": "99d6ebc822e77c",
-      "title": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
-      "summary": "Medina stars for Man Utd, Liverpool end Anfield hoodoo, Arsenal's title hopes over?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13592442/wsl-talking-points",
-      "publishedAt": "2026-09-27T21:07:46.828Z",
-      "category": "transfer",
+      "id": "4b806ec8042852",
+      "title": "Seventeen titles in five years - why Spain are a dominant force",
+      "summary": "We look at what's behind Spain's dominance of football with 17 titles in five years across all age groups and in the men's and women's game.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T22:13:19.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Arsenal",
-        "Liverpool"
+        "Football"
       ]
     },
     {
-      "id": "dc1b5275f0cfad",
-      "title": "Scheffler and Echavarria confront crowd after mid-swing yell!",
-      "summary": "Scottie Scheffler defended Team International player Nico Echavarria after a fan in the crowd shouted during the Colombian's swing.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13592548/theres-no-place-for-that-scottie-scheffler-sticks-up-for-nico-echavarr237a-after-fan-shouts-out",
-      "publishedAt": "2026-09-27T21:07:46.828Z",
+      "id": "90a6244bace207",
+      "title": "McTominay’s role a poser for Pocognoli as Scotland offer positives in Slovenia",
+      "summary": "New coach still learning about his squad as they prepare to face Switzerland with the Napoli midfielder expected to return in November An elongated international window...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/27/scott-mctominay-sebastien-pocognoli-scotland-switzerland-nations-league",
+      "publishedAt": "2026-09-27T21:30:15.000Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "7429b1605ea4df",
+      "title": "Republic of Ireland put controversy aside to earn impressive win over Israel",
+      "summary": "Football and politics are inseparable in the modern world, no matter how many people wish they were not. But whether the beautiful game can ease the ills of our age is...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
+      "publishedAt": "2026-09-27T21:24:03.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3be4531291a3c2",
+      "title": "Thompson goal enough to give Chelsea feisty derby win over Arsenal",
+      "summary": "Chelsea beat Arsenal in a feisty encounter at Stamford Bridge to continue their steady start to the Women's Super League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmq8jnqxjx5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T21:21:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "dbfd909406e776",
+      "title": "Barcelona monitor Chelsea's Estevao - Monday's gossip",
+      "summary": "Barcelona are monitoring Estevao, Erling Haaland attracts interests amid Man City uncertainty and Joao Felix could return to Europe, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm74kp52d3xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T21:19:02.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Barcelona",
         "Inter"
       ]
     },
@@ -217,19 +327,6 @@
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "610f4670ea214a",
-      "title": "No handshakes between Republic of Ireland and Israel",
-      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T18:58:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Uefa"
       ]
     },
     {
@@ -304,7 +401,7 @@
     {
       "id": "5009bfd8e4b6a2",
       "title": "Tony Pulis says he and Stoke were ‘cheated’ in 2011 FA Cup final after Manchester City verdict",
-      "summary": "Manchester City won match 1-0 after goal by Yaya Touré Club deny wrongdoing and say ‘process is ongoing’ Tony Pulis has said his Stoke City team was “cheated” out of th...",
+      "summary": "Manchester City won match 1-0 after goal by Yaya Touré Club deny wrongdoing and say ‘process is ongoing’ Tony Pulis has said his Stoke City team were “cheated” out of t...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict",
       "publishedAt": "2026-09-27T15:01:59.000Z",
@@ -495,106 +592,6 @@
       "tags": [
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "8d1465867e21f2",
-      "title": "Football Daily",
-      "summary": "Julien Laurens speaks to PSG winger and Ballon d'Or contender Khvicha Kvaratskhelia.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pcgdv6?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T11:00:00.000Z",
-      "category": "league",
-      "region": "france",
-      "tags": [
-        "Football",
-        "Psg"
-      ]
-    },
-    {
-      "id": "34692bc8002f05",
-      "title": "Arsenal make Erling Haaland move after Fabrizio Romano confirms striker plans and Man City FFP guilty verdict",
-      "summary": "Arsenal have made contact for the signing of Erling Haaland, with Manchester City facing up to the prospect of playing non-league football.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-erling-haaland-fabrizio-romano-confirms-striker-plans-man-city-ffp-guilty-verdict",
-      "publishedAt": "2026-09-27T10:19:32.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "37c0aed01c50e8",
-      "title": "Trusted source reveals three Premier League clubs Fermin Lopez rejected for Barcelona stay",
-      "summary": "The report from TEAMtalk claims that Lopez’s camp were ‘assessing the options available to the 23-year-old’ and, as part of that process, ‘contact was made with other c...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/trusted-source-reveals-fermin-lopez-rejected-three-premier-league-clubs",
-      "publishedAt": "2026-09-27T09:50:04.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "9c2dba6235307f",
-      "title": "Insider reveals Man Utd response as JJ Gabriel transfer saga nears conclusion",
-      "summary": "Manchester United are refusing to give in, though a trusted transfers reporter has revealed the likeliest outcome for JJ Gabriel, and that outcome isn’t far away.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/insider-reveals-man-utd-response-jj-gabriel-transfer-saga-nears-conclusion",
-      "publishedAt": "2026-09-27T09:25:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "60f43a4be2b083",
-      "title": "Gaslit Man City fans can’t keep titles or memories from tainted legacy",
-      "summary": "Some dazed Manchester City fans might cling to their memories, if not their titles, but neither mean anything anymore…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-guilty-114-115-charges-gaslit-fans-stripped-memories-titles",
-      "publishedAt": "2026-09-27T09:24:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2780485b554e00",
-      "title": "In playful moments, the USMNT’s new youth movement is already paying off",
-      "summary": "After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Gu...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall",
-      "publishedAt": "2026-09-27T09:00:01.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "0c0fc54b8c9ebd",
-      "title": "Real Madrid reach decision on selling Aurelien Tchouameni to Liverpool after Julian Ward returns",
-      "summary": "Julian Ward is particularly keen on making Aurelien Tchouameni his first signing as sporting director at Liverpool, and a report has revealed Real Madrid’s response.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-reach-decision-selling-aurelien-tchouameni-liverpool-julian-ward-returns",
-      "publishedAt": "2026-09-27T08:59:34.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
       ]
     }
   ],
