@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-28T23:04:37.607Z",
+  "generatedAt": "2026-09-29T05:05:49.844Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,8 +104,35 @@ window.FOOTBALLDAY_DATA = {
       "summary": "It is Swansea City who sit top of the Championship after eight games. Not something many would have expected at the start of the season.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13591791/vitor-matos-interview-swansea-city-boss-on-their-fast-start-and-working-under-jurgen-klopp-at-liverpool",
-      "publishedAt": "2026-09-28T23:04:37.477Z",
+      "publishedAt": "2026-09-29T05:05:49.430Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cda36222bad50e",
+      "title": "Man City charges: The big questions answered",
+      "summary": "Sky Sports News chief reporter Kaveh Solhekol is back to answer the big questions surrounding the Premier League's long-running dispute in their 115 charges against Man...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13592852/manchester-city-charges-everything-we-know-so-far-about-premier-league-allegations-and-what-happens-from-here",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
+      "summary": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Liverpool"
@@ -117,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The United States maintained their Presidents Cup winning streak over the International Team, with the latest victory reigniting debate about whether change is needed i...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13592445/presidents-cup-does-team-usas-comeback-win-over-internationals-show-change-is-needed-to-make-event-more-competitive",
-      "publishedAt": "2026-09-28T23:04:37.476Z",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -130,7 +157,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593048/real-madrid-defender-raul-asencio-rejected-transfer-interest-from-liverpool-and-chelsea-this-summer-paper-talk",
-      "publishedAt": "2026-09-28T23:04:37.476Z",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
       "category": "transfer",
       "region": "england spain italy",
       "tags": [
@@ -146,7 +173,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester City chief executive Ferran Soriano declined to answer questions from Sky News as he left a meeting of the executive board of the European Football Clubs' bo...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13593041/manchester-city-chief-executive-ferran-soriano-declines-to-answer-questions",
-      "publishedAt": "2026-09-28T23:04:37.476Z",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -160,7 +187,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester City chief executive Ferran Soriano has told a meeting of fellow club chiefs their fight against the Premier League could take years to conclude, Sky News un...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case",
-      "publishedAt": "2026-09-28T23:04:37.476Z",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -174,7 +201,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports News' Kaveh Solhekol explains why Italy head coach and former Manchester City boss Roberto Mancini has distanced himself from the club's 115 charges case. Ci...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13592871/explained-why-roberto-mancini-has-distanced-himself-from-man-city-charges",
-      "publishedAt": "2026-09-28T23:04:37.476Z",
+      "publishedAt": "2026-09-29T05:05:49.429Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -182,30 +209,18 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "cda36222bad50e",
-      "title": "Man City charges: The big questions answered",
-      "summary": "Sky Sports News chief reporter Kaveh Solhekol is back to answer the big questions surrounding the Premier League's long-running dispute in their 115 charges against Man...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13592852/manchester-city-charges-everything-we-know-so-far-about-premier-league-allegations-and-what-happens-from-here",
-      "publishedAt": "2026-09-28T23:04:37.475Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
-      "summary": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-28T23:04:37.475Z",
+      "id": "d66c7ba303da94",
+      "title": "‘Football with a smile’: Pocognoli wants happy Gilmour to tee up Scotland success",
+      "summary": "New Scotland manager says midfielder ‘has to take risks’ Players warned they need consistent game time for clubs Sébastien Pocognoli hopes a “smiling” Billy Gilmour wil...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/28/billy-gilmour-sebastien-pocognoli-scotland-nations-league",
+      "publishedAt": "2026-09-28T22:54:38.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Liverpool"
+        "Football",
+        "World Cup",
+        "Inter"
       ]
     },
     {
@@ -219,6 +234,22 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Fifa"
+      ]
+    },
+    {
+      "id": "fd2c978a66c223",
+      "title": "Pochettino: Manchester City verdicts show fans ‘lived through an era of deception’",
+      "summary": "US manager says finding right punishment is ‘really hard’ Man City found guilty of majority of 100-plus charges Sign up for our free newsletter here US men’s national t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/28/pochettino-manchester-city-verdict-tottenham-chelsea-southampton-usmnt",
+      "publishedAt": "2026-09-28T22:29:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
@@ -578,35 +609,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
-      ]
-    },
-    {
-      "id": "196fcd7a15d411",
-      "title": "Cole Palmer tipped to have played his last England game under Thomas Tuchel",
-      "summary": "A former Manchester United chief scout gives his brutal take on Chelsea and England international attacking midfielder Cole Palmer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-cole-palmer-thomas-tuchel-england-future",
-      "publishedAt": "2026-09-28T12:44:49.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "b65b280c617dbf",
-      "title": "Man City FFP: ‘Real chance’ of relegation sanction and two more punishments with ‘strong decision’",
-      "summary": "According to reports, the Premier League are “ready” to relegate Manchester City, who could be handed two further punishments after their FFP case.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-real-chance-relegation-sanction-two-more-punishments-strong-decision",
-      "publishedAt": "2026-09-28T12:21:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
       ]
     }
   ],
