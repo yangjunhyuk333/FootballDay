@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-09-29T22:03:10.577Z",
+  "generatedAt": "2026-09-30T04:52:56.379Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,43 +99,15 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "f06e3b67b9d428",
-      "title": "Disguised funding and 'dishonest' witnesses - key revelations from City verdict",
-      "summary": "In a damning 40-page document, an independent commission laid bare its findings into Manchester City's breaches of the Premier League's financial rules. Here, Sky Sport...",
+      "id": "8f34e12dc5c884",
+      "title": "Trent: I always believed I'd play for England again",
+      "summary": "Trent Alexander-Arnold \"always believed\" he could play for England again following his period in the international wilderness under Thomas Tuchel.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
+      "url": "https://www.skysports.com/football/news/12040/13593475/trent-alexander-arnold-always-believed-he-would-play-for-england-again-after-first-start-in-over-two-years",
+      "publishedAt": "2026-09-30T04:52:55.980Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b8e8c78c6b010a",
-      "title": "Papers: Man City knew of guilty verdict in summer",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13593423/man-city-guilty-premier-league-club-knew-of-independent-commissions-verdict-in-the-summer-paper-talk",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "676227c78d0e7d",
-      "title": "Buttler: McCullum can go 'all in' on Cricket World Cup without Test role",
-      "summary": "Jos Buttler believes Brendon McCullum's removal as Test coach may have boosted England's World Cup chances, with the New Zealander now \"all in\" on lifting the trophy ne...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13593308/joss-buttler-says-brendon-mccullums-removal-as-england-test-coach-may-have-boosted-cricket-world-cup-chances",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
-      "category": "worldcup",
       "region": "italy",
       "tags": [
-        "World Cup",
         "Inter"
       ]
     },
@@ -145,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester City CEO Ferran Soriano refuses to answer questions after the club was found guilty of serious breaches of the Premier League's financial rules.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13593383/manchester-city-ceo-ferran-soriano-refuses-to-comment-on-guilty-verdict",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
+      "publishedAt": "2026-09-30T04:52:55.980Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -159,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Kick It Out received a record 1,744 discrimination reports across professional football, grassroots, and online during the first year of its Football United strategy.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593231/kick-it-out-receives-record-1744-discrimination-reports-in-first-year-of-football-united-strategy",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
+      "publishedAt": "2026-09-30T04:52:55.980Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -172,7 +144,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports News has obtained a video of Manchester City CEO Ferran Soriano that has been sent to internal staff and players at the club after the guilty verdict in rela...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13593410/man-city-ceo-ferran-soriano-sends-message-to-staff-and-players-in-leaked-video-following-guilty-verdict",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
+      "publishedAt": "2026-09-30T04:52:55.980Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -186,12 +158,80 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester City have been found guilty of all charges related to serious breaches of Premier League financial rules by an independent commission. Sky Sports analyses wh...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593377/man-city-premier-league-charges-appeal-process-punishment-hearing-and-what-happens-now-after-guilty-verdict",
-      "publishedAt": "2026-09-29T22:03:10.347Z",
+      "publishedAt": "2026-09-30T04:52:55.980Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
         "Manchester"
+      ]
+    },
+    {
+      "id": "f06e3b67b9d428",
+      "title": "Disguised funding and 'dishonest' witnesses - key revelations from City verdict",
+      "summary": "In a damning 40-page document, an independent commission laid bare its findings into Manchester City's breaches of the Premier League's financial rules. Here, Sky Sport...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group",
+      "publishedAt": "2026-09-30T04:52:55.979Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b8e8c78c6b010a",
+      "title": "Papers: Man City knew of guilty verdict in summer",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13593423/man-city-guilty-premier-league-club-knew-of-independent-commissions-verdict-in-the-summer-paper-talk",
+      "publishedAt": "2026-09-30T04:52:55.979Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "676227c78d0e7d",
+      "title": "Buttler: McCullum can go 'all in' on Cricket World Cup without Test role",
+      "summary": "Jos Buttler believes Brendon McCullum's removal as Test coach may have boosted England's World Cup chances, with the New Zealander now \"all in\" on lifting the trophy ne...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13593308/joss-buttler-says-brendon-mccullums-removal-as-england-test-coach-may-have-boosted-cricket-world-cup-chances",
+      "publishedAt": "2026-09-30T04:52:55.979Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "9ccf7f94540031",
+      "title": "I'd stick my Man City medals in bin - Keane",
+      "summary": "Roy Keane says he would throw his \"medals in the bin\" if he were a Manchester City player after the club were found guilty of all charges relating to breaches of Premie...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T22:57:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b74bfcb8b0b681",
+      "title": "Football Daily",
+      "summary": "It was a 2-0 win for Thomas Tuchel’s side",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pd3b84?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T22:19:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -202,10 +242,11 @@ window.FOOTBALLDAY_DATA = {
       "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
       "publishedAt": "2026-09-29T21:50:22.000Z",
       "category": "worldcup",
-      "region": "england",
+      "region": "italy",
       "tags": [
         "Football",
-        "World Cup"
+        "World Cup",
+        "Inter"
       ]
     },
     {
@@ -253,7 +294,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "35cdb2ae972849",
       "title": "Switzerland’s Rodríguez and Elvedi punish Scotland after Hendry’s early red card",
-      "summary": "Switzerland have responded exceptionally well to allegations of capers involving vaccination certificates that threatened to overshadow this international window. Make...",
+      "summary": "Switzerland have responded exceptionally well after allegations of capers involving vaccination certificates that threatened to overshadow this international window. Ma...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/29/scotland-switzerland-nations-league-match-report",
       "publishedAt": "2026-09-29T20:51:47.000Z",
@@ -435,6 +476,20 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "9adbb6efa129da",
+      "title": "Football Daily | Oh Jürgen! Mixed fortunes for the Nations League’s fab four",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! This time last week, Football Daily romanticised a continental renaissance of sorts. The arrival of Jürgen Klopp, Zi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/29/football-daily-newsletter-nations-league-germany-netherlands-france-italy",
+      "publishedAt": "2026-09-29T15:12:36.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
       "id": "9195215d7f7ac0",
       "title": "Man City CEO refuses to answer questions on guilty verdict",
       "summary": "Manchester City chief executive Ferran Soriano refused to answer questions about the Premier League charges from BBC Sports Editor Dan Roan at a conference of top Europ...",
@@ -541,61 +596,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "5c762ae876bf3d",
-      "title": "Alan Hutton tells Arsenal ‘top talent’ to join Rangers – ‘the right club’",
-      "summary": "Alan Hutton has said that an Arsenal youngster would be a success at Rangers under manager Derek McInnes.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alan-hutton-tells-arsenal-top-talent-to-join-rangers-the-right-club",
-      "publishedAt": "2026-09-29T12:58:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "23eba2c14960b6",
-      "title": "Man City FFP: City interval verdict on appeal revealed as timeline for final verdict mooted",
-      "summary": "According to reports, Manchester City remain ‘confident’ that the guilty verdict for their FFP hearing will be overturned.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-city-interval-verdict-oappeal-revealed-timeline-final-verdict",
-      "publishedAt": "2026-09-29T12:54:18.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "367ae0dfc54b31",
-      "title": "David Squires on … the Manchester City verdict and Nations League tensions",
-      "summary": "Our cartoonist on the Premier League’s ruling finally being revealed and Israel v Republic of Ireland Buy a cartoon | Some of David’s favourite works And his latest boo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland",
-      "publishedAt": "2026-09-29T12:45:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9ccf7f94540031",
-      "title": "Man Utd do not deserve Man City titles - Rooney",
-      "summary": "Wayne Rooney says Man Utd do not \"deserve\" to be awarded Premier League titles if rivals Man City are stripped of them.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T12:36:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
