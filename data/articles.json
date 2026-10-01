@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:02:17.530Z",
+  "generatedAt": "2026-10-01T05:05:57.209Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,17 +99,29 @@
       "pinned": true
     },
     {
-      "id": "09d641055b683c",
-      "title": "Man City charges Q&A: Appeal, EFL, independent regulator and more answered",
-      "summary": "Kaveh Solhekol has answered your latest questions on Manchester City after they were found guilty of all charges related to serious breaches of Premier League financial...",
+      "id": "7a6b895afdecfd",
+      "title": "Bizarre handball blunder sees Arsenal squander two-goal lead vs Paris FC",
+      "summary": "Arsenal's tough start to the season continued as Leah Williamson gave away a freak penalty late on to see Paris FC come from two goals behind to draw 2-2 with the Gunne...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13593663/man-city-premier-league-charges-kaveh-solhekol-answers-your-questions-on-appeal-efl-independent-regulator-and-more",
-      "publishedAt": "2026-09-30T22:02:17.215Z",
+      "url": "https://www.skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244",
+      "publishedAt": "2026-10-01T05:05:56.877Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Manchester"
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "bcce132b08c5c8",
+      "title": "Papers: Rivals demanding sanctions imposed on Man City this season",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13593813/man-city-guilty-premier-league-rivals-demanding-sanctions-imposed-before-end-of-season-paper-talk",
+      "publishedAt": "2026-10-01T05:05:56.876Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -118,7 +130,7 @@
       "summary": "Manchester City's principal sponsor, Etihad Airways, has said it is considering taking legal action against the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593765/man-city-charges-club-sponsor-etihad-airways-considering-legal-action-against-premier-league",
-      "publishedAt": "2026-09-30T22:02:17.214Z",
+      "publishedAt": "2026-10-01T05:05:56.876Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -132,7 +144,7 @@
       "summary": "Lauren James saw a late penalty decision overturned by VAR as Chelsea played out a goalless draw away to last season's Women's Champions League finalists and eight-time...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/olympiques-lyon-women-vs-chelsea-women/report/578243",
-      "publishedAt": "2026-09-30T22:02:17.214Z",
+      "publishedAt": "2026-10-01T05:05:56.876Z",
       "category": "ucl",
       "region": "england france",
       "tags": [
@@ -146,7 +158,7 @@
       "summary": "Jamie Carragher has called for Manchester City to be stripped of their titles after the club was found guilty of serious breaches of the Premier League's financial rule...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593589/man-city-charges-what-if-clubs-premier-league-titles-and-trophies-are-stripped-who-benefits-and-what-changes",
-      "publishedAt": "2026-09-30T22:02:17.214Z",
+      "publishedAt": "2026-10-01T05:05:56.876Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -155,16 +167,16 @@
       ]
     },
     {
-      "id": "7a6b895afdecfd",
-      "title": "Bizarre handball blunder sees Arsenal squander two-goal lead vs Paris FC",
-      "summary": "Arsenal's tough start to the season continued as Leah Williamson gave away a freak penalty late on to see Paris FC come from two goals behind to draw 2-2 with the Gunne...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/paris-fc-women-vs-arsenal-women/report/578244",
-      "publishedAt": "2026-09-30T22:02:17.214Z",
+      "id": "ad4fcb50d725c7",
+      "title": "Man City FFP: Etihad make telling blunder in 307-word threat against Premier League",
+      "summary": "Etihad Airways has threatened the Premier League with legal action after the Man City findings ‘created damaging implications’ for the club’s main sponsor.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-etihad-make-telling-blunder-in-307-word-threat-against-premier-league",
+      "publishedAt": "2026-09-30T22:12:20.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Premier League"
       ]
     },
     {
@@ -213,7 +225,7 @@
     {
       "id": "3f254839bf13a5",
       "title": "Hampton’s heroics preserve WCL point for Chelsea on Bompastor’s OL Lyonnes return",
-      "summary": "Chelsea claimed a valuable point in the Champions League on their head coach Sonia Bompastor’s return to face her former team, on a night where the English side’s contr...",
+      "summary": "There were plenty of encouraging signs for Chelsea as they claimed a valuable point in the Champions League on their head coach Sonia Bompastor’s return to face her for...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/sep/30/ol-lyonnes-chelsea-womens-champions-league-match-report",
       "publishedAt": "2026-09-30T21:11:38.000Z",
@@ -222,6 +234,7 @@
       "tags": [
         "Football",
         "Champions League",
+        "Arsenal",
         "Chelsea"
       ]
     },
@@ -279,6 +292,20 @@
       "category": "issue",
       "region": "england",
       "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "849818bed320e3",
+      "title": "Building of the Pep supremacy is an era that will be defined by sham-ball",
+      "summary": "Guardiola’s success at Manchester City was underpinned by financial cheating. Now he can only double down on his adherence to the owners “Do you know the question that...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/sep/30/pep-guardiola-manchester-city-premier-league",
+      "publishedAt": "2026-09-30T20:00:17.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
         "Manchester"
       ]
     },
@@ -577,32 +604,6 @@
         "Premier League",
         "Manchester",
         "Barcelona"
-      ]
-    },
-    {
-      "id": "b637feadb7b06a",
-      "title": "Man City FFP: Most likely punishment revealed with chances of expulsion under new mechanism",
-      "summary": "There is now a ‘most likely’ punishment for Manchester City after the guilty FFP verdict, and the chances of expulsion have been revealed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-most-likely-punishment-revealed-chances-expulsion-new-mechanism",
-      "publishedAt": "2026-09-30T13:34:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "04d6d69dc4372a",
-      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T13:17:44.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
