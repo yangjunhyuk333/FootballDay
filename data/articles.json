@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:55:15.637Z",
+  "generatedAt": "2026-10-02T12:10:59.667Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "34968794c57474",
-      "title": "Ireland held by Austria despite Parrott double as protests interrupt game",
-      "summary": "Troy Parrott scored twice but the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter...",
+      "id": "143a0ae253444f",
+      "title": "Verstappen makes fast start in Malaysia to outpace Russell in first practice",
+      "summary": "​Max Verstappen made an impressively fast start to Formula 1's return to the Sepang International Circuit to set the pace from George Russell in the first practice sess...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/republic-of-ireland-vs-austria/report/554038",
-      "publishedAt": "2026-10-02T04:55:15.324Z",
+      "url": "https://www.skysports.com/f1/news/12040/13594190/bahrain-gp-in-malaysia-max-verstappen-sets-pace-on-f1s-return-to-sepang-in-first-practice-from-george-russell",
+      "publishedAt": "2026-10-02T12:10:59.496Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -112,39 +112,25 @@
       ]
     },
     {
-      "id": "b093c7f05c6e70",
-      "title": "HMRC asked to explore tax implications of Man City case",
-      "summary": "The Treasury Committee has written to the chief executive of HM Revenue and Customs (HMRC) to ask about the tax implications of the Premier League's investigation into...",
+      "id": "0263723ab6e9c0",
+      "title": "Brand’s lessons from Chelsea as he prepares for the next step",
+      "summary": "“When it first happened, I did not know what to do with myself,” Ed Brand tells Sky Sports. He spent 17 years at Chelsea before leaving the club earlier this year. But...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13594084/man-city-charges-treasury-committee-writes-to-hmrc-to-ask-about-tax-implications-of-premier-league-investigation",
-      "publishedAt": "2026-10-02T04:55:15.324Z",
-      "category": "issue",
+      "url": "https://www.skysports.com/football/news/12040/13581172/ed-brand-interview-former-chelsea-coach-on-his-17-years-at-stamford-bridge-and-what-he-learned-from-the-experience",
+      "publishedAt": "2026-10-02T12:10:59.496Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Manchester"
+        "Chelsea"
       ]
     },
     {
-      "id": "e494a4a547fa6c",
-      "title": "England avoid Australia and India in 2027 World Cup group stage",
-      "summary": "England have avoided fellow heavyweights Australia and India in the group stage of the 2027 Men's 50-over World Cup in Africa.",
+      "id": "08863fbed03fbd",
+      "title": "Man City to land Arsenal in deeper trouble? Putellas to star?",
+      "summary": "Man City to land Arsenal in deeper trouble? Putellas to star?",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13594096/2027-cricket-world-cup-england-avoid-australia-and-india-in-group-stage-as-fixtures-revealed-for-50-over-tournament",
-      "publishedAt": "2026-10-02T04:55:15.324Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Tzolis hobbles off injured in Greece match",
-      "summary": "Arsenal latest: Tzolis hobbles off injured in Greece match",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-02T04:55:15.323Z",
+      "url": "https://www.skysports.com/football/news/12040/13593893/womens-super-league-live-on-sky-this-weekend-man-city-to-hand-further-punishment-to-renee-slegers-and-arsenal",
+      "publishedAt": "2026-10-02T12:10:59.496Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -152,12 +138,321 @@
       ]
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Wirtz ends goalless run in Klopp's first Germany win",
-      "summary": "Liverpool latest: Wirtz ends goalless run in Klopp's first Germany win",
+      "id": "88e735c716c4dc",
+      "title": "Bahrain Grand Prix in Malaysia - Practice highlights",
+      "summary": "Highlights from Friday's practice sessions at the Bahrain Grand Prix in Malaysia on the Sepang International Circuit.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-02T04:55:15.322Z",
+      "url": "https://www.skysports.com/watch/video/13594286/bahrain-grand-prix-in-malaysia-practice-highlights",
+      "publishedAt": "2026-10-02T12:10:59.496Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "1b0307dc969c8f",
+      "title": "Man City lodge appeal against guilty verdict",
+      "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League financial ru...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
+      "publishedAt": "2026-10-02T12:10:59.495Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "17169fe2335f4f",
+      "title": "Senne Lammens responds to Paul Scholes doubts over his place at Man Utd",
+      "summary": "Senne Lammens has brushed off Paul Scholes’ suggestion that he may not be good enough to win the Premier League with Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/senne-lammens-responds-to-paul-scholes-doubts-over-his-place-at-man-utd",
+      "publishedAt": "2026-10-02T11:57:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9fc8a2d48ef7de",
+      "title": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
+      "summary": "Updates on Manchester City and Nations League news Fixtures | Get Football Daily | And you can email Luke That’s it from me for now. Luke McLaughlin is here to take ove...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+      "publishedAt": "2026-10-02T11:47:10.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fbd4aa8b09c98d",
+      "title": "Robertson's Scotland career in numbers as 100th cap looms",
+      "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T11:43:12.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "de7cf31f357418",
+      "title": "Real Madrid want Barcelona stripped of 28 titles for bribing refs after dropping 50,000-page bomb",
+      "summary": "Real Madrid want Barcelona stripped of 28 titles for what they believe was a clear case of the catalans bribing referees. Not now, guys. One massive footballing scandal...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-want-barcelona-stripped-of-28-titles-for-bribing-refs-after-dropping-50000-page-bomb",
+      "publishedAt": "2026-10-02T11:31:47.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "623f40e944f1e9",
+      "title": "Unai Emery accuses ‘many clubs’ of inflating budgets as Man City appeal FFP breaches",
+      "summary": "After Manchester City were charged with over 100 financial breaches, Aston Villa boss Unai Emery has revealed “many clubs” inflate their budgets.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/unai-emery-accuses-many-clubs-inflating-budgets-man-city-appeal",
+      "publishedAt": "2026-10-02T11:24:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "745af22644adcc",
+      "title": "How only Liverpool can inflict the most ‘humiliating’ and unthinkable punishment on Man City",
+      "summary": "Henry Winter has reached peak earnestness in the eternal quest to find a suitable ‘humiliating’ punishment for Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-city-most-humiliating-punishment-revealed-liverpool-key",
+      "publishedAt": "2026-10-02T11:08:02.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "913cf153b2d76e",
+      "title": "New favourite to sign Erling Haaland from Man City named – not Real Madrid or Barcelona",
+      "summary": "There’s a new favourite to sign Erling Haaland if the punishment for breaking FFP results in a mass exodus at Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/psg-favourite-sign-erling-haaland-from-man-city-not-real-madrid-barcelona",
+      "publishedAt": "2026-10-02T11:05:57.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c6ea7c29412e90",
+      "title": "Arsenal move for €70m Real Madrid star on as transfer desire revealed",
+      "summary": "A hugely talented Madrid attacker is now open to the idea of leaving in January, as per a report, giving Arsenal a second chance to land him",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-news-endrick-transfer-on-real-madrid-exit-wish-january",
+      "publishedAt": "2026-10-02T11:05:09.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "74c5caeb765637",
+      "title": "Manchester City verdict has big integrity implications, warns FA as club lodge appeal",
+      "summary": "FA has the power to charge club and individuals It will not act until appeal process completed The Football Association has confirmed it has powers to take disciplinary...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
+      "publishedAt": "2026-10-02T10:50:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "994be0c285702e",
+      "title": "Legal expert reveals every club who can claim against Man City, with Tottenham to open ‘floodgates’",
+      "summary": "Legal expert Daniel Baker has revealed that “every club” below Manchester City could claim against them, and the compensation owed to Tottenham may be “massive.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-club-claim-man-city-tottenham-open-floodgates",
+      "publishedAt": "2026-10-02T10:46:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "204317520ac586",
+      "title": "Manager ins and outs - 2026-27",
+      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T10:42:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a9385d82ce3fe0",
+      "title": "Guardiola ruled out of next job as FA threaten Man City in 58-word statement",
+      "summary": "Guardiola has been denied his next job by his now tainted legacy at Man City as the FA threatens ‘action’ against the Premier League giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/guardiola-ruled-out-of-next-job-as-fa-threaten-man-city-in-58-word-statement",
+      "publishedAt": "2026-10-02T10:05:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "76ba2396e7bb22",
+      "title": "Man City expulsion explained: Can it happen? Will it happen? And what next if so?",
+      "summary": "Could Man City be expelled from the Premier League? We explain the rules, potential punishments and what happens if they are kicked out.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-expulsion-explained-premier-league-punishments",
+      "publishedAt": "2026-10-02T09:51:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "10f45bb3e6b702",
+      "title": "Virgil van Dijk threat growing as top boss sends deputy to watch Liverpool star",
+      "summary": "There is a growing threat that Liverpool will lose icon Virgil van Dijk in the summer, as a third European powerhouse has signalled their interest by flying out an emis...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/van-dijk-exit-heats-up-juventus-fly-out-liverpool-defedner",
+      "publishedAt": "2026-10-02T09:38:44.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1eb4d7d672a945",
+      "title": "Every Premier League player injured on international duty as Christos Tzolis joins long list",
+      "summary": "A couple of Premier League players have already picked up injuries.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-player-injured-international-duty",
+      "publishedAt": "2026-10-02T09:30:36.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fcab5fcc49f7e7",
+      "title": "What does Man City guilty verdict mean for their squad?",
+      "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T09:00:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e4b47691ec58a4",
+      "title": "Gilberto Mora chooses between Liverpool, Real Madrid and Barcelona with record-breaking transfer expected",
+      "summary": "Mexican wonderkid, Gilberto Mora, has a clear preference on where he wants to go next, with Liverpool, Real Madrid and Barcelona learning the player’s fate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gilberto-mora-chooses-between-liverpool-real-madrid-barcelona-record-breaking-transfer",
+      "publishedAt": "2026-10-02T08:58:04.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "af87c844c83c3c",
+      "title": "Failed £55m Arsenal bid sees Real Madrid pounce for ex-Liverpool star who’s close with Bellingham",
+      "summary": "Real Madrid are strong contenders to sign a player Arsenal have already bid £55m for, though Liverpool could disrupt their plans via a buy-back clause.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/failed-55m-arsenal-bid-real-madrid-pounce-ex-liverpool-jarell-quansah-friends-jude-bellingham",
+      "publishedAt": "2026-10-02T08:04:33.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "78d5db0d654024",
+      "title": "Hallgrimsson marvels at 'magical' Parrott's solo goal",
+      "summary": "Republic of Ireland boss Heimir Hallgrimsson praises Troy Parrott after his fine solo goal in their 2-2 Uefa Nations League draw against Austria on Thursday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx4gqg6840d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T06:44:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "70e8daa4ac5dfc",
+      "title": "The Unpromotables: Germany's league champions who can't go up",
+      "summary": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T06:37:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ab87216dccb32d",
+      "title": "How Andoni Iraola is relying on one player to make everything work at Liverpool",
+      "summary": "Liverpool do not yet look like an Andoni Iraola team, with everything currently dependent on the deployment of one player they almost sold.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/andoni-iraola-relying-one-player-make-liverpool-work-gakpo",
+      "publishedAt": "2026-10-02T06:28:55.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -165,31 +460,68 @@
       ]
     },
     {
-      "id": "10bf6c2fff0f6f",
-      "title": "Shaw earns Man City draw with late Real goal dramatically disallowed",
-      "summary": "Bunny Shaw and a dramatic last-gasp decision from the referee ensured Manchester City took a point off Real Madrid with a 1-1 draw in the Women's Champions League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-women-vs-real-madrid-women/report/578248",
-      "publishedAt": "2026-10-02T04:55:15.322Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "157969b5f55f3b",
-      "title": "Papers: Man City players could be entitled to rip up contracts",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13594183/man-city-players-told-they-could-be-entitled-to-rip-up-contracts-after-guilty-verdict-in-premier-league-case-paper-talk",
-      "publishedAt": "2026-10-02T04:55:15.321Z",
+      "id": "ebfdb2b51c2fc0",
+      "title": "Man City FFP: Five more possible consequences after sanction ruling include players ripping up contracts",
+      "summary": "Manchester City face expulsion, but this could be only the tip of the iceberg with five more consequences pending after the guilty FFP verdict…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/feature-man-city-ffp-five-consequences-expulsion-players-ripping-up-contracts",
+      "publishedAt": "2026-10-02T06:25:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9ddafab72f588d",
+      "title": "Guardiola is ‘an absolute hag’ who ‘was the loudest puppet’ Man City ‘had in their pocket’",
+      "summary": "Pep Guardiola, Joe Hart, Ferran Soriano and Rodri all catch strays in the ongoing evisceration of Manchester City and their ‘absurd’ reaction.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/guardiola-slammed-loudest-puppet-manchester-city-adug",
+      "publishedAt": "2026-10-02T06:23:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7e13c754ee4a3e",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwgd08yl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T05:48:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "21a0653b1ed21d",
+      "title": "Ferguson on being 'terrified' by brain haemorrhage and 'fantastic' return to Man Utd",
+      "summary": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T05:25:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ec649d0950f949",
+      "title": "Football Daily",
+      "summary": "Sir Alex Ferguson talks about the class of '92 and recovering from a brain hemorrhage.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pddfhc?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T05:01:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -260,343 +592,6 @@
       "tags": [
         "Manchester",
         "Juventus"
-      ]
-    },
-    {
-      "id": "3c92b2339bdfc2",
-      "title": "Haaland to Arsenal? Every Man City transfer rumour after being found guilty of cheating",
-      "summary": "Man City players are being linked with transfers left, right and centre after being found guilty of cheating. Here is every single rumour.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-transfer-rumours-guilty-cheating-115-charges-haaland-arsenal",
-      "publishedAt": "2026-10-01T21:20:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "c22b6217ec04ac",
-      "title": "Man City hold on to claim draw against Real Madrid",
-      "summary": "Khadija Shaw scores a superb equaliser before Real Madrid have a late goal chalked off as the sides play out an entertaining 1-1 draw at the Joie Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmj4j4zyrg90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T21:11:56.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "21e01481e54f54",
-      "title": "Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil",
-      "summary": "Andrée Jeglertz, the Manchester City head coach, said the noise surrounding the guilty verdict dished out by the Premier League had zero impact on his women’s team’s pe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report",
-      "publishedAt": "2026-10-01T21:08:29.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0abe9a16422b66",
-      "title": "Man City guilty: Roberto Mancini reveals what City have told him about FFP case ahead of appeal",
-      "summary": "Ex-Manchester City boss Roberto Mancini has revealed what his former club have told him about the FFP case ahead of an appeal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-guilty-roberto-mancini-reveals-city-told-him-ffp-case",
-      "publishedAt": "2026-10-01T20:55:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bce0d35575d6d8",
-      "title": "John Terry makes ‘unfortunate’ Arsenal Premier League title prediction after Man City guilty verdict",
-      "summary": "Chelsea legend John Terry has made a Premier League title prediction and has issued a verdict on current holders Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/john-terry-unfortunate-arsenal-premier-league-title-prediction-man-city-guilty-verdict",
-      "publishedAt": "2026-10-01T20:24:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7adbdd1513e7df",
-      "title": "Real Madrid keen on Quansah - Friday's gossip",
-      "summary": "Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage midfielder Giberto Mora, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T19:45:16.000Z",
-      "category": "league",
-      "region": "england spain germany",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "296e47ebc86d08",
-      "title": "Alexis Mac Allister will leave Liverpool as likeliest next club named by shock report",
-      "summary": "The Reds have opted against offering Mac Allister fresh terms, teeing up a big transfer to a European titan, as per a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-news-alexis-mac-allister-will-leave-exit-report-real-madrid-next-club",
-      "publishedAt": "2026-10-01T19:34:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0fb9dadc01fd8b",
-      "title": "Messi completes purchase of second Spanish club",
-      "summary": "Argentine football great Lionel Messi becomes the owner of Spanish second division club CD Eldense.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c82070lr6xrro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T19:26:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "7ac48f022c98b5",
-      "title": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
-      "summary": "Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
-      "publishedAt": "2026-10-01T18:40:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "e8cdcc62e769e5",
-      "title": "Man City appeal plan emerges as HMRC urged to examine case findings",
-      "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T18:21:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ae31fae616a11c",
-      "title": "Andy Burnham’s Manchester City comments stir fresh tensions with Premier League",
-      "summary": "Government said to be unhappy at lack of warning Treasury committee chair wants HMRC involved in City case Andy Burnham’s intervention in the Manchester City debate has...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
-      "publishedAt": "2026-10-01T18:10:38.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "7c91ed49990c33",
-      "title": "Man City FFP: Merson reveals how City should be punished after guilty verdict – ‘that’s the first thing’",
-      "summary": "Arsenal legend Paul Merson has revealed how he thinks Manchester City should be punished after the guilty FFP verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-merson-reveals-how-city-should-be-punished-guilty-verdict",
-      "publishedAt": "2026-10-01T17:51:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bbb0dc50abf3a2",
-      "title": "Man Utd given green light to sign £30m left-back in January as he says yes to transfer",
-      "summary": "According to reports, Manchester United have an opportunity to sign RB Leipzig star David Raum in January because he is keen on joining.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-green-light-sign-30m-left-back-january-says-yes-transfer",
-      "publishedAt": "2026-10-01T17:17:51.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e3ef9ae00b2c21",
-      "title": "JJ Gabriel transfer dream revealed with Man Utd talks set to collapse",
-      "summary": "The 15-year-old forward has decided where he wants to move next after rejecting United’s offer of a scholarship deal, as per a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-jj-gabriel-transfer-dream-barcelona-wilcox-talks-set-collapse",
-      "publishedAt": "2026-10-01T16:46:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "8bfcc43a1f455e",
-      "title": "Man City FFP: Chances of Man Utd chiefs Berrada, Wilcox being punished after guilty verdict revealed",
-      "summary": "According to reports, there is a feeling that Manchester United chiefs Omar Berrada and Jason Wilcox will avoid sanctions after Manchester City’s FFP case.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-chances-man-utd-chiefs-berrada-wilcox-punished-guilty-verdict",
-      "publishedAt": "2026-10-01T16:40:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "54d24ca4284241",
-      "title": "The ultra-rich face … accountability? Manchester City and Clippers verdicts show it’s possible | Leander Schaerlaeckens",
-      "summary": "The sports world has accomplished a rare feat: calling out industrial-scale cheating on both sides of the Atlantic Sign up for our free newsletter here The first stage...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-la-clippers-ultra-rich-accountability",
-      "publishedAt": "2026-10-01T16:01:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2cf5beb8694343",
-      "title": "Trent Alexander-Arnold’s verdict on returning to Liverpool revealed as FSG ready £40m transfer",
-      "summary": "Real Madrid star Trent Alexander-Arnold has reportedly made up his mind on a potential return to Liverpool, who are preparing a £40m move for another talent.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/trent-alexander-arnold-verdict-returning-liverpool-revealed-fsg-ready-40m-transfer",
-      "publishedAt": "2026-10-01T15:36:02.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e42169ebee49c8",
-      "title": "Liverpool have eyes on two outstanding Man City stars as golden opportunity emerges",
-      "summary": "A new report claims that fears of losing two of their most consistent performers are becoming increasingly real for City, with Liverpool reportedly waiting in the wings.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-have-eyes-guehi-semenyo-sigings-if-man-city-relegated",
-      "publishedAt": "2026-10-01T15:22:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d9b111f610d23b",
-      "title": "Cristiano Ronaldo’s Portugal walkout divides a nation as Jorge Jesus asserts control",
-      "summary": "Row sparked by head coach’s decision to leave the 41-year-old on the bench has left a great international career at risk of ending in acrimony The drama surrounding Cri...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/cristiano-ronaldos-portugal-walkout-divides-a-nation-as-jorge-jesus-asserts-control",
-      "publishedAt": "2026-10-01T15:04:11.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3f2a4d2a53ad34",
-      "title": "The Socceroos were unrecognisable against Brazil as a ‘new golden generation’ takes shape | Joey Lynch",
-      "summary": "The exciting crop of young players is in part a product of Australia’s early World Cup qualification which allowed them to break in and step up Even before a ball was k...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/02/socceroos-australia-brazil-new-football-golden-generation",
-      "publishedAt": "2026-10-01T15:00:55.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "41954b3f48725e",
-      "title": "Man City FFP: New timeline for punishment and appeal revealed as new rule could cause delay",
-      "summary": "According to reports, Manchester City’s appeal may last beyond January 2027, though an announcement on their sanctions should come sooner.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-new-timeline-punishment-appeal-revealed-new-rule-delay",
-      "publishedAt": "2026-10-01T14:58:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b3fc68d5605456",
-      "title": "Injured O'Reilly withdraws from England squad",
-      "summary": "Nico O'Reilly withdraws from the England squad for their final two Nations League games of the international break because of injury.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg0gkjngzmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T14:36:12.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "ed097621bfc4f0",
-      "title": "Man City now face ‘criminal investigation’ over alleged Mancini tax bill as potential punishment revealed",
-      "summary": "It has been suggested that Manchester City face a ‘criminal investigation’ over an alleged failure to pay a tax bill related to Roberto Mancini’s contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-criminal-investigation-alleged-mancini-tax-bill-punishment-revealed",
-      "publishedAt": "2026-10-01T14:23:15.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a97f45bcc6f550",
-      "title": "Manchester City fans are right to feel angry – now they need to direct it at the owners | Will Unwin",
-      "summary": "Success under the Abu Dhabi regime made supporters feel proud, but they can only really get those feelings back under new custodians Amid the hundreds of thousands of w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
-      "publishedAt": "2026-10-01T14:04:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
       ]
     }
   ],
