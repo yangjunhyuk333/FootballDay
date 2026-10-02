@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-01T22:30:06.041Z",
+  "generatedAt": "2026-10-02T04:55:15.637Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,52 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "e494a4a547fa6c",
-      "title": "England avoid Australia and India in 2027 World Cup group stage",
-      "summary": "England have avoided fellow heavyweights Australia and India in the group stage of the 2027 Men's 50-over World Cup in Africa.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13594096/2027-cricket-world-cup-england-avoid-australia-and-india-in-group-stage-as-fixtures-revealed-for-50-over-tournament",
-      "publishedAt": "2026-10-01T22:30:05.819Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d3f9035ee35cf3",
-      "title": "Details of Man City's appeal strategy revealed",
-      "summary": "Manchester City will argue in their Premier League appeal that the extra funding for their sponsorship deals between 2009 and 2018 came from the Abu Dhabi government an...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13594069/man-city-charges-how-premier-league-club-plan-to-argue-their-innocence-in-appeal",
-      "publishedAt": "2026-10-01T22:30:05.819Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Tzolis hobbles off injured in Greece match",
-      "summary": "Arsenal latest: Tzolis hobbles off injured in Greece match",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-01T22:30:05.818Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "34968794c57474",
       "title": "Ireland held by Austria despite Parrott double as protests interrupt game",
       "summary": "Troy Parrott scored twice but the Republic of Ireland were forced to settle for a 2-2 draw after Austria came back in the second half of their Nations League encounter...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/republic-of-ireland-vs-austria/report/554038",
-      "publishedAt": "2026-10-01T22:30:05.818Z",
+      "publishedAt": "2026-10-02T04:55:15.324Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -157,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The Treasury Committee has written to the chief executive of HM Revenue and Customs (HMRC) to ask about the tax implications of the Premier League's investigation into...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13594084/man-city-charges-treasury-committee-writes-to-hmrc-to-ask-about-tax-implications-of-premier-league-investigation",
-      "publishedAt": "2026-10-01T22:30:05.818Z",
+      "publishedAt": "2026-10-02T04:55:15.324Z",
       "category": "issue",
       "region": "england",
       "tags": [
@@ -166,12 +126,38 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "e494a4a547fa6c",
+      "title": "England avoid Australia and India in 2027 World Cup group stage",
+      "summary": "England have avoided fellow heavyweights Australia and India in the group stage of the 2027 Men's 50-over World Cup in Africa.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13594096/2027-cricket-world-cup-england-avoid-australia-and-india-in-group-stage-as-fixtures-revealed-for-50-over-tournament",
+      "publishedAt": "2026-10-02T04:55:15.324Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Tzolis hobbles off injured in Greece match",
+      "summary": "Arsenal latest: Tzolis hobbles off injured in Greece match",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-10-02T04:55:15.323Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "6a846a55b9383d",
       "title": "Liverpool latest: Wirtz ends goalless run in Klopp's first Germany win",
       "summary": "Liverpool latest: Wirtz ends goalless run in Klopp's first Germany win",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-01T22:30:05.817Z",
+      "publishedAt": "2026-10-02T04:55:15.322Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -184,13 +170,53 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Bunny Shaw and a dramatic last-gasp decision from the referee ensured Manchester City took a point off Real Madrid with a 1-1 draw in the Women's Champions League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-city-women-vs-real-madrid-women/report/578248",
-      "publishedAt": "2026-10-01T22:30:05.817Z",
+      "publishedAt": "2026-10-02T04:55:15.322Z",
       "category": "ucl",
       "region": "england spain",
       "tags": [
         "Champions League",
         "Manchester",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "157969b5f55f3b",
+      "title": "Papers: Man City players could be entitled to rip up contracts",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13594183/man-city-players-told-they-could-be-entitled-to-rip-up-contracts-after-guilty-verdict-in-premier-league-case-paper-talk",
+      "publishedAt": "2026-10-02T04:55:15.321Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "939795b0a57e36",
+      "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+      "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T00:50:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "fb73dbee149025",
+      "title": "Why Burnham's about-turn on Manchester City matters",
+      "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T22:22:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
       ]
     },
     {
@@ -366,7 +392,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "e8cdcc62e769e5",
-      "title": "HMRC urged to scrutinise tax implications of Man City case",
+      "title": "Man City appeal plan emerges as HMRC urged to examine case findings",
       "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
@@ -375,6 +401,22 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "ae31fae616a11c",
+      "title": "Andy Burnham’s Manchester City comments stir fresh tensions with Premier League",
+      "summary": "Government said to be unhappy at lack of warning Treasury committee chair wants HMRC involved in City case Andy Burnham’s intervention in the Manchester City debate has...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
+      "publishedAt": "2026-10-01T18:10:38.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -389,19 +431,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "939795b0a57e36",
-      "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-      "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T17:26:40.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -568,32 +597,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "d319fd50be91eb",
-      "title": "Man City’s ‘irrefutable evidence’ disclosed as ‘sham’ and Sheikh Mansour key to doomed appeal",
-      "summary": "The ‘irrefutable evidence’ which Man City claim will see them exonerated in the Premier League’s FFP case against them has been unveiled for the first time.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-irrefutable-evidence-disclosed-sham-key-to-appeal",
-      "publishedAt": "2026-10-01T14:04:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "be8878918d4fc8",
-      "title": "Do clubs get compensation for player injuries on international duty?",
-      "summary": "BBC Sport's Ask Me Anything team looks into whether clubs get compensated in scenarios where their player gets injured on international duty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3wyzy75dl24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T14:01:54.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
