@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T22:00:05.030Z",
+  "generatedAt": "2026-10-03T04:38:30.460Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,29 +99,29 @@
       "pinned": true
     },
     {
-      "id": "e920d6ae4f0f1b",
-      "title": "Aspinall's 112 checkout interrupted... by a fly!",
-      "summary": "Nathan Aspinall had to pause during his 112 checkout to avoid hitting a fly at the World Grand Prix Darts.",
+      "id": "91aa483eecd4f9",
+      "title": "Littler to compete in World Youth Championships",
+      "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Championsh...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13594511/nathan-aspinall-avoids-fly-during-112-checkout-at-world-grand-prix-darts",
-      "publishedAt": "2026-10-02T22:00:04.914Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/darts/news/12040/13594484/luke-littler-world-no-1-to-headline-world-youth-championships-with-chance-to-reach-final-at-minehead",
+      "publishedAt": "2026-10-03T04:38:30.009Z",
+      "category": "worldcup",
       "region": "italy",
       "tags": [
         "Inter"
       ]
     },
     {
-      "id": "9e457eae6be034",
-      "title": "Brighton latest: Hurzeler, Gross and Dunk win Premier League awards for September",
-      "summary": "Brighton latest: Hurzeler, Gross and Dunk win Premier League awards for September",
+      "id": "0b28f243298a63",
+      "title": "First a fly interrupts play, then a spider tries too!",
+      "summary": "It’s not often you see both a fly and a spider grace the darts board on the same night, which is exactly what happened during the quarter-finals of the World Grand Prix...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-10-02T22:00:04.914Z",
+      "url": "https://www.skysports.com/watch/video/13594538/fly-and-a-spider-both-crawl-on-board-at-world-grand-prix-darts",
+      "publishedAt": "2026-10-03T04:38:30.009Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Premier League"
+        "Inter"
       ]
     },
     {
@@ -130,7 +130,7 @@
       "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
-      "publishedAt": "2026-10-02T22:00:04.913Z",
+      "publishedAt": "2026-10-03T04:38:30.008Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -143,7 +143,7 @@
       "summary": "Sauce Gardner just ended a 651-day wait for an NFL win in the United States. Now the Indianapolis Colts cornerback is back on international soil.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/nfl/news/12040/13593991/nfl-london-games-2026-sauce-gardner-globe-trotting-again-after-ending-651-day-wait-for-win-in-united-states",
-      "publishedAt": "2026-10-02T22:00:04.913Z",
+      "publishedAt": "2026-10-03T04:38:30.008Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -156,7 +156,7 @@
       "summary": "Manchester City’s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brought into quest...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
-      "publishedAt": "2026-10-02T22:00:04.913Z",
+      "publishedAt": "2026-10-03T04:38:30.008Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -165,16 +165,30 @@
       ]
     },
     {
-      "id": "91aa483eecd4f9",
-      "title": "Littler to compete in World Youth Championships",
-      "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Championsh...",
+      "id": "1da17ac81b6f0c",
+      "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13594484/luke-littler-world-no-1-to-headline-world-youth-championships-with-chance-to-reach-final-at-minehead",
-      "publishedAt": "2026-10-02T22:00:04.913Z",
-      "category": "worldcup",
-      "region": "italy",
+      "url": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
+      "publishedAt": "2026-10-03T04:38:30.007Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Transfer"
+      ]
+    },
+    {
+      "id": "3d5550833f2a7f",
+      "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+      "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T22:30:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
       ]
     },
     {
@@ -295,11 +309,11 @@
       ]
     },
     {
-      "id": "810743d7138c05",
+      "id": "dcafc5d50eb120",
       "title": "Football Daily",
       "summary": "John Murray & Ali Bruce-Ball are joined by Conor McNamara to chat commentator life.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032m7b?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T17:18:00.000Z",
       "category": "league",
       "region": "england",
@@ -584,19 +598,6 @@
         "Football",
         "Barcelona",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "623f40e944f1e9",
-      "title": "Unai Emery accuses ‘many clubs’ of inflating budgets as Man City appeal FFP breaches",
-      "summary": "After Manchester City were charged with over 100 financial breaches, Aston Villa boss Unai Emery has revealed “many clubs” inflate their budgets.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/unai-emery-accuses-many-clubs-inflating-budgets-man-city-appeal",
-      "publishedAt": "2026-10-02T11:24:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
