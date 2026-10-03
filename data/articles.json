@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T15:59:17.934Z",
+  "generatedAt": "2026-10-03T20:49:01.184Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,41 +99,182 @@
       "pinned": true
     },
     {
-      "id": "be2bb965be5077",
-      "title": "Superb Zigiotti chip keeps up Man Utd resurgence with Liverpool win",
-      "summary": "Man Utd kept up their resurgence under new boss Eva Olid as Julia Zigiotti's early chip secured back-to-back victories with a 1-0 win over Liverpool.",
+      "id": "f1c50baadc268f",
+      "title": "Keane: Bellingham can become one of greatest players ever",
+      "summary": "England and Real Madrid star Jude Bellingham can become one of the world's greatest ever players, according to Sky Sports pundit Roy Keane.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-women-vs-liverpool-women/report/575787",
-      "publishedAt": "2026-10-03T15:59:17.603Z",
+      "url": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
+      "publishedAt": "2026-10-03T20:49:00.903Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain",
       "tags": [
-        "Liverpool"
+        "Real Madrid"
       ]
     },
     {
-      "id": "6729c7782d2c23",
-      "title": "Man Utd 1-0 Liverpool: As it happened",
-      "summary": "Man Utd 1-0 Liverpool: As it happened",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-women-vs-liverpool-women/live/575787",
-      "publishedAt": "2026-10-03T15:59:17.603Z",
+      "id": "a8ae6d5418b8ce",
+      "title": "North Macedonia 0-2 Scotland, Spain 3-1 Czechia and more: Nations League – live reaction",
+      "summary": "Nations League updates from the 7.45pm BST kick-offs Live scores | Get the Football Daily newsletter | Mail Luke Spain: Raya; Fresneda, Le Normand, Laporte, García; Rod...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/03/north-macedonia-v-scotland-spain-v-czechia-and-more-nations-league-live",
+      "publishedAt": "2026-10-03T20:45:12.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Football"
       ]
     },
     {
-      "id": "6c04e56c840eb5",
-      "title": "Bahrain Grand Prix in Malaysia - Qualifying highlights",
-      "summary": "Highlights of qualifying at the Bahrain Grand Prix in Malaysia on the Sepang International Circuit.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13594628/bahrain-grand-prix-in-malaysia-qualifying-highlights",
-      "publishedAt": "2026-10-03T15:59:17.602Z",
+      "id": "471c1078fe00f4",
+      "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
+      "summary": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe Willock l...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T20:32:45.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "50460fa441fd71",
+      "title": "Star’s England career just ended vs Croatia – report",
+      "summary": "An England star’s career at international level ended without even being on the pitch on Saturday night, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jordan-henderson-england-career-ended-vs-croatia",
+      "publishedAt": "2026-10-03T20:18:48.000Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "7f813549612ad4",
+      "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
+      "summary": "Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we j...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
+      "publishedAt": "2026-10-03T20:06:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "fab7471a02af82",
+      "title": "Liverpool ‘serious’ about signing ‘next big thing’ as Romano declares ‘this boy is special’",
+      "summary": "Liverpool are ‘serious’ about signing an attacking midfield wonderkid and Fabrizio Romano has detailed the latest he’s hearing on the situation.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-serious-signing-next-big-thing-gilberto-mora-fabrizio-romano",
+      "publishedAt": "2026-10-03T19:24:22.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fbd4aa8b09c98d",
+      "title": "Robertson's Scotland career in numbers as he wins 100th cap",
+      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T19:22:45.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "c5d085d8319f5a",
+      "title": "Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson",
+      "summary": "The spaces can stand both as a rebuke to an era of greed but also a tribute to the Premier League’s hunt for justice At half-time in the 2014 League Cup final, Sunderla...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league",
+      "publishedAt": "2026-10-03T19:00:08.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Europa League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1bc51a1eb6c755",
+      "title": "Ronaldo still 'greatest symbol' of Portugal - Fernandes",
+      "summary": "Portugal midfielder Bruno Fernandes says Cristiano Ronaldo remains the country's greatest footballing figure despite leaving the squad this week after finding out he wo...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T18:57:50.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "864debe1d5e01a",
+      "title": "A step-by-step guide to show Harry Kane has actually scored precisely zero proper goals for England",
+      "summary": "No man has scored more World Cup goals for England than Harry Kane. But none of those 14 goals actually count. And nor do the other 73.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/handy-guide-harry-kane-precisely-zero-england-goals",
+      "publishedAt": "2026-10-03T18:15:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c2bda96e514bfe",
+      "title": "Harry Kane: Partial agreement struck as Man Utd, Bayern Munich learn fate",
+      "summary": "Harry Kane has struck a partial agreement and is rapidly closing in on a full agreement, with Manchester United learning whether the Bayern Munich striker is staying or...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/harry-kane-partial-agreement-struck-man-utd-bayern-munich",
+      "publishedAt": "2026-10-03T17:44:56.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9dcb930846f6de",
+      "title": "Juventus line up two signings from Man Utd with Newcastle affected",
+      "summary": "Juventus have their eye on a double raid on Manchester United after a decision on signing a big-money Newcastle player was all but confirmed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/juventus-man-utd-signings-bruno-fernandes-benjamin-sesko-newcastle-affected",
+      "publishedAt": "2026-10-03T16:32:43.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "3a7a3608d91b5c",
+      "title": "'I want to discover Manchester' - Olid hunts recommendations",
+      "summary": "Manchester United manager Eva Olid says she is \"asking for recommendations\" as she prepares to look around the city for the first time during the international break",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c35ynl9w41njo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T16:04:33.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
         "Inter"
       ]
     },
@@ -148,19 +289,6 @@
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "b5c92798368d25",
-      "title": "Croatia v England: Nations League football – live",
-      "summary": "Nations League updates, 5pm BST kick-off (6pm local) Live scores | Get the Football Daily newsletter | Mail Scott Here’s how Nations League A Group 3 stands going into...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/03/croatia-v-england-nations-league-football-live-score-updates",
-      "publishedAt": "2026-10-03T15:23:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     },
     {
@@ -460,134 +588,6 @@
       "tags": [
         "Liverpool",
         "Manchester"
-      ]
-    },
-    {
-      "id": "58ade321626a4c",
-      "title": "Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny",
-      "summary": "Former Everton midfielder, known as the ‘Goodison Gazza’, recalls being made to feel special by Alex Ferguson in this autobiography extract “So this is the scouser ya b...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography",
-      "publishedAt": "2026-10-03T07:00:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "942d5424baf955",
-      "title": "The football horse that Andy Burnham rode in on is now bucking his vibe | Barney Ronay",
-      "summary": "PM’s contortions over the Manchester City verdicts have landed him with an early test of what he wants to stand for. Realpolitik, or real values? It’s coming for you. I...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-city-verdict-andy-burnham",
-      "publishedAt": "2026-10-03T07:00:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4629bd0d44bb95",
-      "title": "The student playing in La Liga: Introvert Rodri's unique rise to top",
-      "summary": "Rodri is already playing a key role at Barcelona after turning down Real Madrid this summer. Guillem Balague looks at his journey so far.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywwpxe1gno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T06:32:05.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "065592f845f003",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gdgp8w4ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T05:43:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5835caf845966e",
-      "title": "Arteta helped me understand the game - Wilshere",
-      "summary": "Luton Town manager Jack Wilshere shares his love for coaching and explains how Arsenal boss Mikel Arteta influnced his style.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq20v0p5xp8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T05:24:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "05edf884780ed4",
-      "title": "Learning from Arteta and inspiring youngsters - Wilshere on management",
-      "summary": "Luton Town manager Jack Wilshere speaks about being back where he started as an eight-year-old and the lessons he learned from his time at Arsenal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65y51nvn24wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T05:19:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3d5550833f2a7f",
-      "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
-      "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T22:30:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "412cd7aae29889",
-      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
-      "summary": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs, Man City striker Erling Haaland is more likely to head to Barcelona than Arsenal if he lea...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70p3w936w9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T21:14:32.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Serie A",
-        "Arsenal",
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "c2fcd04881d285",
-      "title": "Arsenal shelve plans for major expansion of Emirates Stadium",
-      "summary": "Club opt for improvements in hospitality and retail An increase to 60,704 capacity had been considered Arsenal have shelved plans for a major expansion of the Emirates...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/02/arsenal-shelve-plans-for-major-expansion-of-emirates-stadium",
-      "publishedAt": "2026-10-02T20:10:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
