@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-03T11:21:11.588Z",
+  "generatedAt": "2026-10-03T15:59:17.934Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,51 +99,38 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "1da17ac81b6f0c",
-      "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "id": "be2bb965be5077",
+      "title": "Superb Zigiotti chip keeps up Man Utd resurgence with Liverpool win",
+      "summary": "Man Utd kept up their resurgence under new boss Eva Olid as Julia Zigiotti's early chip secured back-to-back victories with a 1-0 win over Liverpool.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
-      "publishedAt": "2026-10-03T11:21:11.261Z",
+      "url": "https://www.skysports.com/football/manchester-united-women-vs-liverpool-women/report/575787",
+      "publishedAt": "2026-10-03T15:59:17.603Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Liverpool"
       ]
     },
     {
-      "id": "f1783b70bb128d",
-      "title": "Scorecards: Asian Games final, India vs West Indies, Australia's Test warm-up",
-      "summary": "Latest cricket scores from around the world, including Test matches, white-ball internationals, and a whole lot more.",
+      "id": "6729c7782d2c23",
+      "title": "Man Utd 1-0 Liverpool: As it happened",
+      "summary": "Man Utd 1-0 Liverpool: As it happened",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/scores-fixtures",
-      "publishedAt": "2026-10-03T11:21:11.261Z",
+      "url": "https://www.skysports.com/football/manchester-united-women-vs-liverpool-women/live/575787",
+      "publishedAt": "2026-10-03T15:59:17.603Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "b6e2de21690e57",
-      "title": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
-      "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
-      "publishedAt": "2026-10-03T11:21:11.261Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
+        "Liverpool"
       ]
     },
     {
       "id": "6c04e56c840eb5",
-      "title": "Bahrain Grand Prix in Malaysia | Qualifying highlights",
+      "title": "Bahrain Grand Prix in Malaysia - Qualifying highlights",
       "summary": "Highlights of qualifying at the Bahrain Grand Prix in Malaysia on the Sepang International Circuit.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13594628/bahrain-grand-prix-in-malaysia-qualifying-highlights",
-      "publishedAt": "2026-10-03T11:21:11.260Z",
+      "publishedAt": "2026-10-03T15:59:17.602Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -151,13 +138,176 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ccca94214d00a4",
-      "title": "Croatia v England to be mainly full despite fan ban; Manchester City latest – matchday live",
-      "summary": "All the latest before Saturday’s Nations League action Today’s fixtures | Latest tables | And you can mail us A morning quiz question: which Spurs player has the most g...",
+      "id": "5d897f1a94158b",
+      "title": "Toone determined to come back better after 'difficult week'",
+      "summary": "Ella Toone reflects on a \"difficult week\" and looks back on a narrow win against Liverpool in the Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjx239vvql0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T15:33:16.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b5c92798368d25",
+      "title": "Croatia v England: Nations League football – live",
+      "summary": "Nations League updates, 5pm BST kick-off (6pm local) Live scores | Get the Football Daily newsletter | Mail Scott Here’s how Nations League A Group 3 stands going into...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
-      "publishedAt": "2026-10-03T11:03:18.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/oct/03/croatia-v-england-nations-league-football-live-score-updates",
+      "publishedAt": "2026-10-03T15:23:00.000Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "963caf1f2aac57",
+      "title": "Liverpool star prompts incredible verdict from Zinedine Zidane – ‘I said it four times’",
+      "summary": "France manager, Zinedine Zidane, was so taken aback by a Liverpool player he repeated the same phrase four times when assessing his performance",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-jeremy-jacquet-incredible-verdict-zinedine-zidane",
+      "publishedAt": "2026-10-03T15:05:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2a7fea2f349205",
+      "title": "Back-to-back wins for Man Utd as they see off Liverpool",
+      "summary": "Manchester United celebrate their 250th game in the club's history with a narrow victory over Liverpool in the Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2z9gmjn7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T15:04:54.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c00f86be665a31",
+      "title": "Zigiotti Olme capitalises on Liverpool mistake to keep Manchester United moving up WSL",
+      "summary": "Julia Zigiotti Olme’s sixth-minute lob proved enough to earn the Manchester United coach, Eva Olid, a second Women’s Super League victory of the season with a 1-0 home...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-united-liverpool-wsl-match-report",
+      "publishedAt": "2026-10-03T14:52:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ab738b7e641140",
+      "title": "Tottenham verdict on selling Micky van de Ven to Liverpool revealed as Reds prepare 2027 move",
+      "summary": "According to reports, Liverpool are to be blocked from signing Tottenham Hotspur star Micky van de Ven as they ‘prepare a move’ for him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-verdict-selling-micky-van-de-ven-liverpool-revealed",
+      "publishedAt": "2026-10-03T14:42:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "45c26efc946d80",
+      "title": "Man Utd considering legal action over JJ Gabriel exit as measly fee for Barcelona target revealed",
+      "summary": "According to reports, Manchester United are ‘considering legal action’ over JJ Gabriel’s exit from the Premier League giants.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-considering-legal-action-jj-gabriel-exit-fee-barcelona-target-revealed",
+      "publishedAt": "2026-10-03T14:01:14.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "108aad86fd7423",
+      "title": "Man City FFP: Kieran Maguire predicts two punishments with ‘precedent’ set – ‘my gut reaction’",
+      "summary": "Football finance expert Kieran Maguire has predicted two major punishments for Manchester City following the guilty FFP verdict.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-kieran-maguire-predicts-two-punishments-precedent-set",
+      "publishedAt": "2026-10-03T13:04:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ef4bd8498c721a",
+      "title": "Man Utd tipped to sign Crystal Palace star in January on one condition with exit ‘pretty much certain’",
+      "summary": "According to reports, Manchester United could sign Crystal Palace striker Jean-Philippe Mateta in January on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-to-sign-crystal-palace-star-january-one-condition-exit-pretty-much-certain",
+      "publishedAt": "2026-10-03T12:33:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4e6c7002bc6a40",
+      "title": "'Different' Morrison gives NI new option",
+      "summary": "Northern Ireland's Kieran Morrison hopes he has earned the trust of manager Michael O'Neill after impressing on his first international start.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9rlvr57pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T12:23:24.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "064e7d5d6b5d71",
+      "title": "Man City FFP: Whether City players can ‘walk away’ from contracts after relegation revealed",
+      "summary": "A sports lawyer has revealed whether Manchester City’s players could “walk away” from their contracts if the club is relegated.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-verdict-city-players-walk-away-contracts-relegation-revealed",
+      "publishedAt": "2026-10-03T11:51:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cd60010d616fbc",
+      "title": "Michael Owen praises Liverpool for bold summer transfer decision – ‘it is not the worst thing’",
+      "summary": "Ex-Liverpool striker Michael Owen has praised his former club for making the bold decision to sell Curtis Jones in the summer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-owen-praises-liverpool-bold-summer-transfer-decision",
+      "publishedAt": "2026-10-03T11:26:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "403235372de0ec",
+      "title": "Manchester City whistleblower ready to help UK authorities in return for protection",
+      "summary": "Rui Pinto faces loss of witness safeguarding in Portugal More documents over City affairs may be made available Rui Pinto, whose leaks helped to trigger the Premier Lea...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection",
+      "publishedAt": "2026-10-03T11:12:48.000Z",
+      "category": "issue",
       "region": "england",
       "tags": [
         "Football",
@@ -438,159 +588,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "565432c512ead6",
-      "title": "Manchester City whistleblower Rui Pinto to leave Portugal over safety fears",
-      "summary": "Pinto has witness protection status removed His lawyers will appeal and say his situation is ‘critical’ Rui Pinto has revealed he is preparing to leave Portugal because...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
-      "publishedAt": "2026-10-02T19:43:59.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0ece574394e05f",
-      "title": "Man City whistleblower set to lose protection amid fears for life",
-      "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T19:26:13.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "852409df88b141",
-      "title": "How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
-      "summary": "There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans",
-      "publishedAt": "2026-10-02T19:00:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "74c5caeb765637",
-      "title": "Etihad’s statements on funding appear to contradict Manchester City’s defence",
-      "summary": "Airline denied links to Abu Dhabi government in 2015 FA confirms it has powers to take disciplinary action Manchester City’s defence in their appeal against the indepen...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
-      "publishedAt": "2026-10-02T17:58:20.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c977f8502e59ab",
-      "title": "Report reveals how long Arsenal will miss injured Christos Tzolis after hamstring blow",
-      "summary": "Tzolis has withdrawn from Greece’s camp and is due to travel back to London on Saturday, having suffered the hamstring issue against the Netherlands on Thursday night.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/report-reveals-how-long-arsenal-winger-christos-tzolis-sidelined-for",
-      "publishedAt": "2026-10-02T17:56:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "810743d7138c05",
-      "title": "Football Daily",
-      "summary": "John Murray & Ali Bruce-Ball are joined by Conor McNamara to chat commentator life.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032m7b?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T17:18:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "bdc60a039cd62e",
-      "title": "Liverpool reach new decision on Florian Wirtz sale",
-      "summary": "A new decision has been made on whether the attacking midfielder has a future at Anfield, according to a report in the German media",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-latest-florian-wirtz-exit-reach-new-decision-sale",
-      "publishedAt": "2026-10-02T16:56:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3d20fc603df4e0",
-      "title": "What can Peterborough fans expect from 'relentless' Savage?",
-      "summary": "Peterborough United's director of football Barry Fry predicts life under Robbie Savage will be anything but dull.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmdx366q29klo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T16:53:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "2c572984028d50",
-      "title": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms",
-      "summary": "Board ‘really good and positive’ at ‘difficult time’ Gunners visit WSL leaders Manchester City on Sunday Renée Slegers says she has felt the full support of Arsenal’s b...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/02/renee-slegers-feels-support-arsenal-hierarchy-despite-miserable-run-wsl",
-      "publishedAt": "2026-10-02T16:38:59.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "27b44fb10a00bc",
-      "title": "Chelsea ‘high on list’ of suitors for Liverpool star after he complained to Reds",
-      "summary": "Chelsea are felt to be “high on the list” of clubs going after a Liverpool star who recently had public complaints about his situation with the Reds.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-high-alexis-mac-allister-liverpool",
-      "publishedAt": "2026-10-02T15:43:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a6325f1448bf91",
-      "title": "Tuchel would never rule out players not in top flight",
-      "summary": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T15:05:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
