@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-03T20:49:01.184Z",
+  "generatedAt": "2026-10-04T05:09:32.669Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "England and Real Madrid star Jude Bellingham can become one of the world's greatest ever players, according to Sky Sports pundit Roy Keane.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13594630/jude-bellingham-england-and-real-madrid-star-tipped-for-greatness-after-croatia-thrashing-by-roy-keane",
-      "publishedAt": "2026-10-03T20:49:00.903Z",
+      "publishedAt": "2026-10-04T05:09:32.411Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -112,16 +112,70 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a8ae6d5418b8ce",
-      "title": "North Macedonia 0-2 Scotland, Spain 3-1 Czechia and more: Nations League – live reaction",
-      "summary": "Nations League updates from the 7.45pm BST kick-offs Live scores | Get the Football Daily newsletter | Mail Luke Spain: Raya; Fresneda, Le Normand, Laporte, García; Rod...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/03/north-macedonia-v-scotland-spain-v-czechia-and-more-nations-league-live",
-      "publishedAt": "2026-10-03T20:45:12.000Z",
+      "id": "cec83906767806",
+      "title": "Papers: Arsenal leading race for winger Nusa",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13594837/arsenal-leading-race-for-rb-leipzig-winger-antonio-nusa-paper-talk",
+      "publishedAt": "2026-10-04T05:09:32.410Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1049a2c8a776b1",
+      "title": "England abroad: Bellingham finally overtakes Beckham as Three Lions’ greatest export",
+      "summary": "Jude Bellingham is finally and officially the outright most-capped England international player while representing non-British clubs.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-every-foreign-based-england-player",
+      "publishedAt": "2026-10-04T03:13:47.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "e40e40acf74afb",
+      "title": "Ireland cut short news conference as mood darkens further before Israel game",
+      "summary": "Ireland manager Hallgrímsson calls for ‘cool heads’ Says Uefa must consider whether nations meet again The Republic of Ireland’s press conference on the eve of their se...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/03/ireland-cut-short-news-conference-israel-nations-league-football",
+      "publishedAt": "2026-10-03T22:19:41.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "fbd4aa8b09c98d",
+      "title": "'It means everything' - numbers behind Robertson's 100-cap Scotland career",
+      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T21:27:29.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6c253024ebb790",
+      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T21:07:59.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     },
     {
@@ -169,6 +223,21 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "dec6162e6b2c74",
+      "title": "Tuchel convinced England have buried World Cup woes with Croatia thrashing",
+      "summary": "‘We’ll always have a scar, but this is how we move forward’ Manager praises ‘complete package’ Scott on full debut Thomas Tuchel said England have moved on from their W...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/03/tuchel-convinced-england-have-buried-world-cup-woes-with-croatia-thrashing",
+      "publishedAt": "2026-10-03T19:50:01.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Uefa"
+      ]
+    },
+    {
       "id": "fab7471a02af82",
       "title": "Liverpool ‘serious’ about signing ‘next big thing’ as Romano declares ‘this boy is special’",
       "summary": "Liverpool are ‘serious’ about signing an attacking midfield wonderkid and Fabrizio Romano has detailed the latest he’s hearing on the situation.",
@@ -179,19 +248,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england italy",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "fbd4aa8b09c98d",
-      "title": "Robertson's Scotland career in numbers as he wins 100th cap",
-      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T19:22:45.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     },
     {
@@ -429,21 +485,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "403235372de0ec",
-      "title": "Manchester City whistleblower ready to help UK authorities in return for protection",
-      "summary": "Rui Pinto faces loss of witness safeguarding in Portugal More documents over City affairs may be made available Rui Pinto, whose leaks helped to trigger the Premier Lea...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection",
-      "publishedAt": "2026-10-03T11:12:48.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
       "id": "9a173631186f64",
       "title": "Former Man Utd star slams ‘crap’ Erik ten Hag as truth on Cristiano Ronaldo ‘falling out’ revealed",
       "summary": "Ex-Manchester United midfielder Fred has hit out at former Erik ten Hag, and has commented on his “falling out” with Cristiano Ronaldo.",
@@ -546,47 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "73fc9d68b01ac4",
-      "title": "Why Florian Wirtz works for Jurgen Klopp’s Germany but not yet Liverpool",
-      "summary": "Florian Wirtz put in a man-of-the-match performance for Germany as they beat Serbia so why can he do it in a German shirt but not a Liverpool one?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/why-florian-wirtz-works-germany-liverpool",
-      "publishedAt": "2026-10-03T07:16:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f41fdf986ed8ee",
-      "title": "‘Genius’ and ‘greatest achievement in football history’ emerge from ‘brain dead’ Manchester City wreckage",
-      "summary": "Another day, another raft on Manchester City and their ‘brain dead’ cheating – which has, at least, boosted the legacies of two opponents.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-city-cheating-reveals-genius-gold-statue",
-      "publishedAt": "2026-10-03T07:14:50.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2455d6ac9b9dd3",
-      "title": "Manchester City owners might not match Liverpool’s £5.5bn valuation in forced sale",
-      "summary": "If Manchester City’s owners are forced into a sale, they probably shouldn’t expect to match Liverpool’s £5billion valuation any more.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-city-owners-forced-to-sell-adug-valuation",
-      "publishedAt": "2026-10-03T07:12:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
         "Manchester"
       ]
     }
