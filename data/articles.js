@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-04T12:02:47.953Z",
+  "generatedAt": "2026-10-04T21:04:28.687Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,294 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "81ef9a9487381e",
-      "title": "Bahrain Grand Prix in Malaysia - Race highlights",
-      "summary": "Highlights of the Bahrain Grand Prix in Malaysia at the Sepang International Circuit.",
+      "id": "923871e72d9b98",
+      "title": "Man City fight back to defeat Arsenal in thriller!",
+      "summary": "Highlights of Manchester City against Arsenal in the Women's Super League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13594974/bahrain-grand-prix-in-malaysia-race-highlights",
-      "publishedAt": "2026-10-04T12:02:47.711Z",
+      "url": "https://www.skysports.com/watch/video/13595104/manchester-city-4-2-arsenal-wsl-highlights",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "991408d224d1ac",
+      "title": "Chelsea latest: 'Blues at front of queue for Bournemouth midfielder'",
+      "summary": "Chelsea latest: 'Blues at front of queue for Bournemouth midfielder'",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "24c93621e05fcf",
+      "title": "Hemp's composed finish gives Man City their third",
+      "summary": "Lauren Hemp made it 3-2 to Manchester City against Arsenal, during their WSL clash at The Etihad.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13595096/lauren-hemps-composed-finish-makes-it-3-2-for-manchester-city-against-arsenal",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "609e32dcbc55cf",
+      "title": "Casparij draws City level with STUNNER one minute after coming on!",
+      "summary": "Kerstin Casparij made an immediate impact for Manchester City by scoring their leveller against Arsenal with a sublime curling shot from the edge of the area.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13595095/what-a-way-to-announce-yourself-kerstin-casparij-draws-man-city-level-with-sublime-strike",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fb23de1b6fd858",
+      "title": "'I said it was wet!' - Hamilton reveals debate over disastrous Ferrari tyre choice",
+      "summary": "Lewis Hamilton said he was pushing to start on intermediate tyres before the choice of a slick compound led to a disastrous beginning to the Bahrain Grand Prix for Ferr...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/f1/news/12040/13594863/lewis-hamilton-ferrari-driver-reveals-debate-that-preceded-disastrous-tyre-choice-at-start-of-bahrain-gp-in-malaysia",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "3f6b4d9076065f",
+      "title": "'Wonderful finish!' - Russo's superb strike puts Arsenal back in front vs Man City",
+      "summary": "Alessia Russo's brilliant strike put Arsenal back in front against Manchester City during their Women's Super League clash.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13595092/alessia-russos-superb-strike-puts-arsenal-back-in-front-vs-manchester-city-wonderful-finish",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ef462832c7495e",
+      "title": "Fox OG brings Man City level just before the break",
+      "summary": "Take a look as Lauren Hemp levelled things up for Manchester City against Arsenal in the WSL.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13595084/theres-the-equaliser-lauren-hemp-pulls-one-back-for-manchester-city-against-arsenal",
+      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ed7d27ae8cab56",
+      "title": "Taylor stars as Colts cruise past Commanders in NFL's return to London",
+      "summary": "Jonathan Taylor scored twice as Indianapolis Colts overcame Washington Commanders 30-13 at the Tottenham Hotspur Stadium to open this year's triple-header of NFL Intern...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13594955/nfl-in-london-indianapolis-colts-beat-washington-commanders-30-13-at-tottenham-hotspur-stadium",
+      "publishedAt": "2026-10-04T21:04:28.389Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "950b79b3f6d499",
+      "title": "Slegers: Arsenal not in title conversation and in need of a review",
+      "summary": "Under-fire Arsenal boss Renee Slegers says her side are not in the conversation for this season's Women's Super League title after a 4-2 defeat to Man City left them la...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595107/renee-slegers-arsenal-are-not-in-wsl-title-race-as-under-pressure-boss-calls-for-review-after-man-city-loss",
+      "publishedAt": "2026-10-04T21:04:28.389Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "38f43bc5a82581",
+      "title": "Papers: Ronaldo to make Portugal return",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk",
+      "publishedAt": "2026-10-04T21:04:28.387Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "39104c998f4a0a",
+      "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+      "summary": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scruti...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T20:34:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "50b5c7342ec65e",
+      "title": "Real Madrid join race for Scott - Monday's gossip",
+      "summary": "Bournemouth's Alex Scott at the centre of a transfer tussle, Arsenal show interest in Juventus winger Kenan Yildiz, Real Betis rebuff speculation linking Troy Parrott w...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T20:24:19.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "18f3ca3ac07c0e",
+      "title": "‘Greedy b****rd’ Paul Scholes wants 12th Premier League winners’ medal after Man City reveal",
+      "summary": "Manchester United legend Paul Scholes says he’s a “greedy b****rd” who wants a record-stretching 12th Premier League medal, with one to be taken from rivals Manchester...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/greedy-paul-scholes-wants-12th-prem-medal-man-utd-man-city",
+      "publishedAt": "2026-10-04T18:41:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6462a1bdc12db4",
+      "title": "Man City summer signing flirts with former club after guilty verdict – ‘We will see’",
+      "summary": "The Manchester City star has admitted he’s tempted to return to “my club” just days after the Citizens were found guilty of 114 of their 115 charges.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-return-former-club-guilty-verdict",
+      "publishedAt": "2026-10-04T18:28:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4fcb4edc1e0f7d",
+      "title": "'We fought for every ball' - Hemp on Man City's thrilling win",
+      "summary": "Two-goal Lauren Hemp says Manchester City showed passion and character in their 4-2 win over Arsenal in the WSL.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqly0lgy37z8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T18:20:05.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2b2eb15ecea85f",
+      "title": "Shaw seals thrilling win over Arsenal to extend Manchester City’s 100% WSL start",
+      "summary": "Arsenal’s under-pressure head coach Renée Slegers still believes they will turn their form around, despite falling 10 points behind Manchester City with Sunday’s defeat...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report",
+      "publishedAt": "2026-10-04T18:07:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "823baaf885edc3",
+      "title": "Jesse Marsch says ‘everyone knew’ about Man City cheating – Ex-Leeds boss demands relegation",
+      "summary": "Former Leeds manager Jesse Marsch has revealed “everyone knew” Manchester City were inflating their budget when he was managing in the Premier League.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jesse-marsch-everyone-knew-man-city-cheating",
+      "publishedAt": "2026-10-04T16:49:20.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bfdb5ab989f155",
+      "title": "Arsenal set aside £84m to sign frightening Bundesliga duo",
+      "summary": "Arsenal have £84million worth of Bundesliga attacking talent in sight, with money reportedly set aside to kick off their spending in the final third.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-set-aside-84m-sign-frightening-bundesliga-duo",
+      "publishedAt": "2026-10-04T15:35:36.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Bundesliga",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fce9f5d0ddc0fa",
+      "title": "£40m Tottenham defender ‘actively pushing to’ join Barcelona due to ‘terrible relationship’ with De Zerbi – report",
+      "summary": "A second Spanish source claims that a Tottenham Hotspur defender wants to join Barcelona in 2027.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pedro-porro-tottenham-hotspur-barcelona-roberto-de-zerbi",
+      "publishedAt": "2026-10-04T15:05:04.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "5812b570a2d0d1",
+      "title": "Chelsea in box seat to land England new boy as Real Madrid lurk after Luka Modric mauling",
+      "summary": "Chelsea remain in the box seat for an England new boy, as per a couple of outlets, though one suggests Real Madrid are interested, particularly after the midfielder hel...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-box-seat-land-england-new-boy-alex-scott-luka-modric-mauling",
+      "publishedAt": "2026-10-04T14:15:54.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5eccbd643eb380",
+      "title": "Luka Modric ‘ashamed’ after England mauling on ‘catastrophic night’ for Croatian football",
+      "summary": "It was the first time in 20 years playing for his country that the AC Milan star had felt “ashamed”, on what was a “catastrophic night” for Croatia against a ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/luka-modric-ashamed-croatia-mauling-england",
+      "publishedAt": "2026-10-04T13:03:59.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Milan"
       ]
     },
     {
@@ -125,22 +403,8 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "513ac87006a075",
-      "title": "Modric ‘ashamed’ after 7-0 defeat by England; Republic of Ireland v Israel tensions build – matchday live",
-      "summary": "Latest news before Nations League fixtures Share your thoughts with us via email Harry Kane, now on 89 international goals from 124 games , says the Croatia performance...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/04/buildup-to-republic-of-ireland-v-israel-wales-v-denmark-and-more-football-live",
-      "publishedAt": "2026-10-04T11:41:35.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
       "id": "0827aeeae71879",
-      "title": "Jesse Marsch: ‘We, as Americans, have been inundated with propaganda since we were young’",
+      "title": "Jesse Marsch: ‘We Americans have been inundated with propaganda since we were young’",
       "summary": "As he prepares to face his home nation, the Canada manager reflects on his adopted country’s soccer, its prime minister, and its place in the world Peak leaf hasn’t yet...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/04/jesse-marsch-interview-canada-united-states-john-carney",
@@ -210,6 +474,20 @@ window.FOOTBALLDAY_DATA = {
         "Barcelona",
         "Real Madrid",
         "Inter"
+      ]
+    },
+    {
+      "id": "b495c4a50ab17d",
+      "title": "The evolution of Premier League pitch management – with Arsenal at the forefront",
+      "summary": "Long gone are the days of one groundsman tending to playing surfaces with a pitchfork; protecting Premier League pitches is a sport in itself.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/evolution-premier-league-pitch-management-arsenal-forefront",
+      "publishedAt": "2026-10-04T09:38:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
       ]
     },
     {
@@ -312,283 +590,6 @@ window.FOOTBALLDAY_DATA = {
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T21:27:29.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "6c253024ebb790",
-      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T21:07:59.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "471c1078fe00f4",
-      "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
-      "summary": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe Willock l...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T20:32:45.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "50460fa441fd71",
-      "title": "Star’s England career just ended vs Croatia – report",
-      "summary": "An England star’s career at international level ended without even being on the pitch on Saturday night, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jordan-henderson-england-career-ended-vs-croatia",
-      "publishedAt": "2026-10-03T20:18:48.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "7f813549612ad4",
-      "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
-      "summary": "Allowing children in after a ban on adult fans was wrong in the extreme but on the pitch England showed genuine class So … can we play another World Cup, then? Can we j...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
-      "publishedAt": "2026-10-03T20:06:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "fab7471a02af82",
-      "title": "Liverpool ‘serious’ about signing ‘next big thing’ as Romano declares ‘this boy is special’",
-      "summary": "Liverpool are ‘serious’ about signing an attacking midfield wonderkid and Fabrizio Romano has detailed the latest he’s hearing on the situation.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-serious-signing-next-big-thing-gilberto-mora-fabrizio-romano",
-      "publishedAt": "2026-10-03T19:24:22.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c5d085d8319f5a",
-      "title": "Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson",
-      "summary": "The spaces can stand both as a rebuke to an era of greed but also a tribute to the Premier League’s hunt for justice At half-time in the 2014 League Cup final, Sunderla...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league",
-      "publishedAt": "2026-10-03T19:00:08.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Europa League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1bc51a1eb6c755",
-      "title": "Ronaldo still 'greatest symbol' of Portugal - Fernandes",
-      "summary": "Portugal midfielder Bruno Fernandes says Cristiano Ronaldo remains the country's greatest footballing figure despite leaving the squad this week after finding out he wo...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T18:57:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "864debe1d5e01a",
-      "title": "A step-by-step guide to show Harry Kane has actually scored precisely zero proper goals for England",
-      "summary": "No man has scored more World Cup goals for England than Harry Kane. But none of those 14 goals actually count. And nor do the other 73.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/handy-guide-harry-kane-precisely-zero-england-goals",
-      "publishedAt": "2026-10-03T18:15:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c2bda96e514bfe",
-      "title": "Harry Kane: Partial agreement struck as Man Utd, Bayern Munich learn fate",
-      "summary": "Harry Kane has struck a partial agreement and is rapidly closing in on a full agreement, with Manchester United learning whether the Bayern Munich striker is staying or...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-partial-agreement-struck-man-utd-bayern-munich",
-      "publishedAt": "2026-10-03T17:44:56.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Manchester",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "9dcb930846f6de",
-      "title": "Juventus line up two signings from Man Utd with Newcastle affected",
-      "summary": "Juventus have their eye on a double raid on Manchester United after a decision on signing a big-money Newcastle player was all but confirmed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/juventus-man-utd-signings-bruno-fernandes-benjamin-sesko-newcastle-affected",
-      "publishedAt": "2026-10-03T16:32:43.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "3a7a3608d91b5c",
-      "title": "'I want to discover Manchester' - Olid hunts recommendations",
-      "summary": "Manchester United manager Eva Olid says she is \"asking for recommendations\" as she prepares to look around the city for the first time during the international break",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c35ynl9w41njo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T16:04:33.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5d897f1a94158b",
-      "title": "Toone determined to come back better after 'difficult week'",
-      "summary": "Ella Toone reflects on a \"difficult week\" and looks back on a narrow win against Liverpool in the Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjx239vvql0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T15:33:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "963caf1f2aac57",
-      "title": "Liverpool star prompts incredible verdict from Zinedine Zidane – ‘I said it four times’",
-      "summary": "France manager, Zinedine Zidane, was so taken aback by a Liverpool player he repeated the same phrase four times when assessing his performance",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-jeremy-jacquet-incredible-verdict-zinedine-zidane",
-      "publishedAt": "2026-10-03T15:05:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2a7fea2f349205",
-      "title": "Back-to-back wins for Man Utd as they see off Liverpool",
-      "summary": "Manchester United celebrate their 250th game in the club's history with a narrow victory over Liverpool in the Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx2z9gmjn7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T15:04:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c00f86be665a31",
-      "title": "Zigiotti Olme capitalises on Liverpool mistake to keep Manchester United moving up WSL",
-      "summary": "Julia Zigiotti Olme’s sixth-minute lob proved enough to earn the Manchester United coach, Eva Olid, a second Women’s Super League victory of the season with a 1-0 home...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/03/manchester-united-liverpool-wsl-match-report",
-      "publishedAt": "2026-10-03T14:52:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ab738b7e641140",
-      "title": "Tottenham verdict on selling Micky van de Ven to Liverpool revealed as Reds prepare 2027 move",
-      "summary": "According to reports, Liverpool are to be blocked from signing Tottenham Hotspur star Micky van de Ven as they ‘prepare a move’ for him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-verdict-selling-micky-van-de-ven-liverpool-revealed",
-      "publishedAt": "2026-10-03T14:42:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "45c26efc946d80",
-      "title": "Man Utd considering legal action over JJ Gabriel exit as measly fee for Barcelona target revealed",
-      "summary": "According to reports, Manchester United are ‘considering legal action’ over JJ Gabriel’s exit from the Premier League giants.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-considering-legal-action-jj-gabriel-exit-fee-barcelona-target-revealed",
-      "publishedAt": "2026-10-03T14:01:14.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "108aad86fd7423",
-      "title": "Man City FFP: Kieran Maguire predicts two punishments with ‘precedent’ set – ‘my gut reaction’",
-      "summary": "Football finance expert Kieran Maguire has predicted two major punishments for Manchester City following the guilty FFP verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-kieran-maguire-predicts-two-punishments-precedent-set",
-      "publishedAt": "2026-10-03T13:04:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ef4bd8498c721a",
-      "title": "Man Utd tipped to sign Crystal Palace star in January on one condition with exit ‘pretty much certain’",
-      "summary": "According to reports, Manchester United could sign Crystal Palace striker Jean-Philippe Mateta in January on one condition.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-to-sign-crystal-palace-star-january-one-condition-exit-pretty-much-certain",
-      "publishedAt": "2026-10-03T12:33:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4e6c7002bc6a40",
-      "title": "'Different' Morrison gives NI new option",
-      "summary": "Northern Ireland's Kieran Morrison hopes he has earned the trust of manager Michael O'Neill after impressing on his first international start.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9rlvr57pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T12:23:24.000Z",
       "category": "league",
       "region": "italy",
       "tags": [
