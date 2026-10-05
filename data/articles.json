@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:04:28.687Z",
+  "generatedAt": "2026-10-05T04:54:25.870Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@
       "pinned": true
     },
     {
+      "id": "950b79b3f6d499",
+      "title": "Slegers: Arsenal not in title conversation and in need of a review",
+      "summary": "Under-fire Arsenal boss Renee Slegers says her side are not in the conversation for this season's Women's Super League title after a 4-2 defeat to Man City left them la...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595107/renee-slegers-arsenal-are-not-in-wsl-title-race-as-under-pressure-boss-calls-for-review-after-man-city-loss",
+      "publishedAt": "2026-10-05T04:54:25.225Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "923871e72d9b98",
       "title": "Man City fight back to defeat Arsenal in thriller!",
       "summary": "Highlights of Manchester City against Arsenal in the Women's Super League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13595104/manchester-city-4-2-arsenal-wsl-highlights",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "publishedAt": "2026-10-05T04:54:25.225Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -118,7 +131,7 @@
       "summary": "Chelsea latest: 'Blues at front of queue for Bournemouth midfielder'",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "publishedAt": "2026-10-05T04:54:25.225Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -131,93 +144,12 @@
       "summary": "Lauren Hemp made it 3-2 to Manchester City against Arsenal, during their WSL clash at The Etihad.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13595096/lauren-hemps-composed-finish-makes-it-3-2-for-manchester-city-against-arsenal",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
+      "publishedAt": "2026-10-05T04:54:25.225Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "609e32dcbc55cf",
-      "title": "Casparij draws City level with STUNNER one minute after coming on!",
-      "summary": "Kerstin Casparij made an immediate impact for Manchester City by scoring their leveller against Arsenal with a sublime curling shot from the edge of the area.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13595095/what-a-way-to-announce-yourself-kerstin-casparij-draws-man-city-level-with-sublime-strike",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fb23de1b6fd858",
-      "title": "'I said it was wet!' - Hamilton reveals debate over disastrous Ferrari tyre choice",
-      "summary": "Lewis Hamilton said he was pushing to start on intermediate tyres before the choice of a slick compound led to a disastrous beginning to the Bahrain Grand Prix for Ferr...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13594863/lewis-hamilton-ferrari-driver-reveals-debate-that-preceded-disastrous-tyre-choice-at-start-of-bahrain-gp-in-malaysia",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "3f6b4d9076065f",
-      "title": "'Wonderful finish!' - Russo's superb strike puts Arsenal back in front vs Man City",
-      "summary": "Alessia Russo's brilliant strike put Arsenal back in front against Manchester City during their Women's Super League clash.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13595092/alessia-russos-superb-strike-puts-arsenal-back-in-front-vs-manchester-city-wonderful-finish",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ef462832c7495e",
-      "title": "Fox OG brings Man City level just before the break",
-      "summary": "Take a look as Lauren Hemp levelled things up for Manchester City against Arsenal in the WSL.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13595084/theres-the-equaliser-lauren-hemp-pulls-one-back-for-manchester-city-against-arsenal",
-      "publishedAt": "2026-10-04T21:04:28.390Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ed7d27ae8cab56",
-      "title": "Taylor stars as Colts cruise past Commanders in NFL's return to London",
-      "summary": "Jonathan Taylor scored twice as Indianapolis Colts overcame Washington Commanders 30-13 at the Tottenham Hotspur Stadium to open this year's triple-header of NFL Intern...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13594955/nfl-in-london-indianapolis-colts-beat-washington-commanders-30-13-at-tottenham-hotspur-stadium",
-      "publishedAt": "2026-10-04T21:04:28.389Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "950b79b3f6d499",
-      "title": "Slegers: Arsenal not in title conversation and in need of a review",
-      "summary": "Under-fire Arsenal boss Renee Slegers says her side are not in the conversation for this season's Women's Super League title after a 4-2 defeat to Man City left them la...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13595107/renee-slegers-arsenal-are-not-in-wsl-title-race-as-under-pressure-boss-calls-for-review-after-man-city-loss",
-      "publishedAt": "2026-10-04T21:04:28.389Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     },
     {
@@ -226,11 +158,122 @@
       "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk",
-      "publishedAt": "2026-10-04T21:04:28.387Z",
+      "publishedAt": "2026-10-05T04:54:25.224Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer"
+      ]
+    },
+    {
+      "id": "ed7d27ae8cab56",
+      "title": "Taylor stars as Colts cruise past Commanders in NFL's return to London",
+      "summary": "Jonathan Taylor scored twice as Indianapolis Colts overcame Washington Commanders 30-13 at the Tottenham Hotspur Stadium to open this year's triple-header of NFL Intern...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nfl/news/12040/13594955/nfl-in-london-indianapolis-colts-beat-washington-commanders-30-13-at-tottenham-hotspur-stadium",
+      "publishedAt": "2026-10-05T04:54:25.224Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "c5f75c418c328c",
+      "title": "No other team should go through this - Hallgrimsson",
+      "summary": "Republic of Ireland manager Heimir Hallgrimsson says he is \"delighted\" this most trying of international windows is over and hopes \"no national team to go through what...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe8lv6m1nn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T22:43:10.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6e9fb3f8719f6e",
+      "title": "Bellamy bemoans new schedule after Denmark loss",
+      "summary": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T22:36:20.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "627d3d30e773a1",
+      "title": "Clàudia Pina hits four as Barcelona score seven goals to demolish Real Madrid",
+      "summary": "Barcelona 7-0 Real Madrid Lead at the top stretched to five points Clàudia Pina smashed in four goals as Barcelona demolished Real Madrid 7-0 to earn a five point lead...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid",
+      "publishedAt": "2026-10-04T22:28:38.000Z",
+      "category": "league",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "Barcelona",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b435a4a78af87a",
+      "title": "Man City fight back to beat struggling Arsenal",
+      "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T21:20:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5cacdda1301bf2",
+      "title": "Hallgrímsson calls on Uefa to keep Ireland and Israel apart in future after bad-tempered draw",
+      "summary": "The Republic of Ireland’s manager Heimir Hallgrímsson has called on Uefa to keep his side away from Israel in future draws after a pair of fixtures he admitted “has bee...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/04/republic-of-ireland-israel-nations-league-match-report",
+      "publishedAt": "2026-10-04T21:13:30.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "8dadf9fa76438c",
+      "title": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
+      "summary": "Coming third in the World Cup was really not a disaster, and Saturday’s rout of Croatia and building the team around Jude Bellingham are good signs Move fast and fix th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
+      "publishedAt": "2026-10-04T21:00:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "c766a0fd64836f",
+      "title": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
+      "summary": "Wales crave momentum but, a few days after surely the sweetest high of Craig Bellamy’s two-year reign, a sapping international window ended on a bum note. At least unti...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
+      "publishedAt": "2026-10-04T20:52:23.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
       ]
     },
     {
@@ -555,45 +598,6 @@
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "ad30f21b646ad9",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw20v0prjn66o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T05:40:25.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1049a2c8a776b1",
-      "title": "England abroad: Bellingham finally overtakes Beckham as Three Lions’ greatest export",
-      "summary": "Jude Bellingham is finally and officially the outright most-capped England international player while representing non-British clubs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ranking-every-foreign-based-england-player",
-      "publishedAt": "2026-10-04T03:13:47.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "fbd4aa8b09c98d",
-      "title": "'It means everything' - numbers behind Robertson's 100-cap Scotland career",
-      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T21:27:29.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
