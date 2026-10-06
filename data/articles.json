@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:53:47.070Z",
+  "generatedAt": "2026-10-06T05:42:03.414Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,38 @@
       "pinned": true
     },
     {
+      "id": "19c3f43116cb27",
+      "title": "Lewis-Skelly features in PL-dominated Golden Boy shortlist",
+      "summary": "Arsenal and England midfielder Myles Lewis-Skelly has been included in the 25-man shortlist for this year's Golden Boy award.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595540/golden-boy-2026-arsenals-myles-lewis-skelly-among-premier-league-stars-on-25-man-shortlist-for-europes-best-u21-player",
+      "publishedAt": "2026-10-06T05:42:03.174Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0148ffdb5403c6",
+      "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
+      "summary": "JJ Gabriel is still expected to leave Manchester United despite featuring in the club's squad photo for the 2026/27 season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595519/jj-gabriel-man-utd-prodigy-still-expected-to-leave-despite-first-team-photo-inclusion-this-is-how-it-unfolded",
+      "publishedAt": "2026-10-06T05:42:03.174Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
       "id": "28bd0593286b78",
       "title": "Man City's rivals do not expect them to be in Premier League next season",
       "summary": "Sympathy is in short supply at other clubs after an independent commission laid bare the scale of Manchester City's rule breaking across nine seasons in a devastating d...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595428/man-city-charges-premier-league-clubs-do-not-expect-city-to-be-in-premier-league-next-season-if-appeal-fails",
-      "publishedAt": "2026-10-05T23:53:46.908Z",
+      "publishedAt": "2026-10-06T05:42:03.174Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -118,7 +144,7 @@
       "summary": "Speaking at the Legends of Football awards Jamie Carragher urges for a quick resolution on Manchester City case, the club denies any wrongdoing and have launched an app...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13595548/jamie-carragher-calls-for-quick-resolution-over-man-city-case",
-      "publishedAt": "2026-10-05T23:53:46.908Z",
+      "publishedAt": "2026-10-06T05:42:03.174Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -132,25 +158,11 @@
       "summary": "Sky Sports News' Mark McAdam and Vinny O'Connor are joined by Liverpool fan Dan Morgan to discuss Andoni Iraola's start to life at Liverpool as he attempts to implement...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13595524/andoni-iraolas-start-to-life-at-liverpool-assessed-cause-for-concern-or-reasons-to-be-optimistic",
-      "publishedAt": "2026-10-05T23:53:46.908Z",
+      "publishedAt": "2026-10-06T05:42:03.174Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "7711f6cb17655a",
-      "title": "Explained: What other PL clubs expect to happen after Man City rule breaches",
-      "summary": "Kaveh Solhekol explains how the other Premier League clubs are reacting to Manchester City's rule breaches ahead of the appeal process",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13595484/manchester-city-what-do-other-pl-clubs-expect-to-happen-after-man-city-rule-breaches",
-      "publishedAt": "2026-10-05T23:53:46.908Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
       ]
     },
     {
@@ -159,7 +171,7 @@
       "summary": "Andoni Iraola has made an unbeaten start as Liverpool boss – but will he get lift-off at Anfield in the huge clash with Manchester City on Sunday?",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595435/liverpool-andoni-iraolas-early-impact-at-anfield-assessed-ahead-of-huge-super-sunday-showdown-with-man-city",
-      "publishedAt": "2026-10-05T23:53:46.907Z",
+      "publishedAt": "2026-10-06T05:42:03.173Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -173,7 +185,7 @@
       "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories at the h...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595352/arsenal-must-be-accountable-for-their-own-failings-in-faltering-womens-super-league-season",
-      "publishedAt": "2026-10-05T23:53:46.907Z",
+      "publishedAt": "2026-10-06T05:42:03.173Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -186,7 +198,7 @@
       "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595580/x-paper-talk",
-      "publishedAt": "2026-10-05T23:53:46.907Z",
+      "publishedAt": "2026-10-06T05:42:03.173Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -195,29 +207,31 @@
       ]
     },
     {
-      "id": "19c3f43116cb27",
-      "title": "Lewis-Skelly features in PL-dominated Golden Boy shortlist",
-      "summary": "Arsenal and England midfielder Myles Lewis-Skelly has been included in the 25-man shortlist for this year's Golden Boy award.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13595540/golden-boy-2026-arsenals-myles-lewis-skelly-among-premier-league-stars-on-25-man-shortlist-for-europes-best-u21-player",
-      "publishedAt": "2026-10-05T23:53:46.907Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0148ffdb5403c6",
-      "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
-      "summary": "JJ Gabriel is still expected to leave Manchester United despite featuring in the club's squad photo for the 2026/27 season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13595519/jj-gabriel-man-utd-prodigy-still-expected-to-leave-despite-first-team-photo-inclusion-this-is-how-it-unfolded",
-      "publishedAt": "2026-10-05T23:53:46.907Z",
+      "id": "ca2ed416d70ee9",
+      "title": "Wales focus on Albania as Grainger reunion looms",
+      "summary": "Wales face Albania in the Women's World Cup play-offs this week knowing a challenging reunion with Gemma Grainger may well be the prize on offer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617j1klwpwqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T04:56:59.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Manchester"
+        "World Cup"
+      ]
+    },
+    {
+      "id": "27e73efa8742f2",
+      "title": "Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’",
+      "summary": "Manchester City attacker to miss Germany and Haiti games Charlton midfielder Leah Davidson called into Australia squad Matildas star Mary Fowler has been ruled out of u...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies",
+      "publishedAt": "2026-10-06T00:23:00.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -574,20 +588,6 @@
       "tags": [
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "cc10772e2e60c0",
-      "title": "The USMNT’s kids are thriving, and ‘they have a bit of swag to them’",
-      "summary": "The post-World Cup youth movement has paid off with historic plays that, for the moment, feel natural, sustainable and needed From the outside, a moment like the one Ca...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/05/usmnt-new-generation-cavan-sullivan-julian-hall-diego-kochen",
-      "publishedAt": "2026-10-05T12:00:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
       ]
     }
   ],
