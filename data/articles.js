@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-06T22:31:20.888Z",
+  "generatedAt": "2026-10-07T05:12:58.606Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595942/arsenal-interested-in-signing-como-star-nico-paz-but-mikel-artetas-hopes-of-landing-creative-midfielder-dealt-blow-paper-talk",
-      "publishedAt": "2026-10-06T22:31:20.529Z",
+      "publishedAt": "2026-10-07T05:12:58.210Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -119,7 +119,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "It's been a long international break for England. But it could be a pivotal one in Thomas Tuchel's thinking.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595349/england-winners-and-losers-who-impressed-and-who-is-sweating-over-their-three-lions-spot-after-four-game-international-break",
-      "publishedAt": "2026-10-06T22:31:20.529Z",
+      "publishedAt": "2026-10-07T05:12:58.210Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -132,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Martin O'Neill has confirmed his decision to stay on as Celtic manager after reflecting on his future over the international break.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595897/celtic-boss-martin-oneill-confirms-decision-to-stay-after-reflecting-on-future-over-international-break",
-      "publishedAt": "2026-10-06T22:31:20.529Z",
+      "publishedAt": "2026-10-07T05:12:58.210Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -145,7 +145,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "UEFA is monitoring developments and will wait until the end of the Premier League's disciplinary process before deciding whether to take any potential action against Ma...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13595795/man-city-charges-uefa-monitoring-premier-league-clubs-case-as-it-considers-potential-action",
-      "publishedAt": "2026-10-06T22:31:20.529Z",
+      "publishedAt": "2026-10-07T05:12:58.210Z",
       "category": "issue",
       "region": "england",
       "tags": [
@@ -155,43 +155,72 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c2f96ea96fd3c6",
-      "title": "Predicted PL table - latest from the Sky Sports supercomputer",
-      "summary": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
+      "id": "39f4535e3fe672",
+      "title": "No decision on JJ Gabriel future amid Barca, Real Madrid, Bayern & PSG interest",
+      "summary": "JJ Gabriel and his family are yet to make a decision on his future but it is increasingly likely his next club will be in Europe.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
-      "publishedAt": "2026-10-06T22:31:20.529Z",
+      "url": "https://www.skysports.com/football/news/12040/13595964/jj-gabriel-man-utd-prodigy-yet-to-make-decision-on-future-amid-interest-from-barcelona-real-madrid-bayern-munich-and-psg",
+      "publishedAt": "2026-10-07T05:12:58.210Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain italy france germany",
       "tags": [
-        "Premier League"
+        "Real Madrid",
+        "Psg",
+        "Bayern",
+        "Inter"
       ]
     },
     {
-      "id": "ad13836e329661",
-      "title": "White's Dorking have new co-owners - and ambitions to become 'the world's local club'",
-      "summary": "Football needs charismatic characters - and Marc White is certainly one of those.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13582842/marc-white-exclusive-dorking-wanderers-chief-on-new-co-owners-efl-dreams-and-ambitions-of-becoming-the-worlds-local-club",
-      "publishedAt": "2026-10-06T22:31:20.529Z",
+      "id": "ca8d5429fbd922",
+      "title": "Lionel Messi bids a tearful farewell to Argentina after 3-0 win over Benin",
+      "summary": "Messi nets PK and assists twice as Argentina cruises Match paused in 10th minute for round of applause Lionel Messi brought the curtain down on his 21-year internationa...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/06/lionel-messi-argentina-benin-international-retirement",
+      "publishedAt": "2026-10-07T02:38:51.000Z",
       "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1892a4e9bcce90",
+      "title": "Justin Ellis helps US cap a perfect international window with 1-0 win over Canada",
+      "summary": "A chippy and at times ugly friendly nonetheless gave Mauricio Pochettino’s side four wins out of four, with another young player making the difference. Before 1878, a r...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/06/usa-canada-report-justin-ellis",
+      "publishedAt": "2026-10-07T02:13:26.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5951e63bf5ab3c",
+      "title": "Total Midweek Kane: England’s icon delivers a classic on his way to footballing ultimacy | Barney Ronay",
+      "summary": "On a night where he equalled Peter Shilton’s England appearance record, Harry Kane did what he always does It is a very Harry Kane kind of thing to equal a record. Resp...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/06/total-midweek-kane-englands-icon-delivers-a-classic-on-his-way-to-footballing-ultimacy",
+      "publishedAt": "2026-10-06T22:56:09.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football"
       ]
     },
     {
-      "id": "4929cc189b2971",
-      "title": "Lionel Messi farewell match live – updates and analysis from Argentina v Benin",
-      "summary": "Farewell match kicks off at 7pm ET Messi has completed football Email Pablo your analysis, jokes and more I could populate the entirety of this pre-match coverage with...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
-      "publishedAt": "2026-10-06T22:00:25.000Z",
-      "category": "worldcup",
+      "id": "e3fd4f0a3ae8e1",
+      "title": "Midfield options and a fab front four - what we've learned about England",
+      "summary": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned during this international window.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T22:34:46.000Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
-        "Football",
-        "World Cup",
         "Inter"
       ]
     },
@@ -564,34 +593,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Arsenal",
         "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3ba9186b9d1f1e",
-      "title": "Man Utd starlet JJ Gabriel tells Chelsea where he is heading with verdict reached on Stamford Bridge move",
-      "summary": "According to reports, Manchester United starlet JJ Gabriel has told Chelsea that he is not going to sign for the Premier League giants.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-starlet-jj-gabriel-tells-chelsea-decision-reached",
-      "publishedAt": "2026-10-06T11:55:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a616a95ada08e1",
-      "title": "Insider feels Man Utd will let two defenders go to pave way for ‘major changes’",
-      "summary": "Former Manchester United scout Mick Brown feels two Manchester United defenders will be allowed to leave soon, paving the way for “major changes.”",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-defensive-duo-diogo-dalot-leny-yoro-gone",
-      "publishedAt": "2026-10-06T11:49:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     }
