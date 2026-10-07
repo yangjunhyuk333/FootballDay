@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-07T12:58:34.182Z",
+  "generatedAt": "2026-10-07T22:55:06.680Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,79 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "deb30a38f88e5d",
-      "title": "'Ruthless' Arteta enters step five of Arsenal project",
-      "summary": "Mikel Arteta has turned Arsenal into Premier League champions but does his new contract take him into a new stage of his project? And can he bring more trophies to ecli...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13595720/mikel-artetas-new-contract-the-challenges-facing-arsenal-boss-as-he-enters-step-five-of-his-project",
-      "publishedAt": "2026-10-07T12:58:33.980Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "991408d224d1ac",
-      "title": "PODCAST: Is Alonso solving Chelsea's big problems?",
-      "summary": "PODCAST: Is Alonso solving Chelsea's big problems?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-07T12:58:33.980Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a5d78db882ebd9",
-      "title": "How Alonso could solve Chelsea's familiar problems",
-      "summary": "Chelsea made a thrilling start to the season under Xabi Alonso but after being beaten at Arsenal, blows against Hull and Brentford have set them back.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13596075/chelsea-xabi-alonso-must-solve-long-standing-defensive-issues-and-needs-moises-caicedo-fit-for-key-run-of-games",
-      "publishedAt": "2026-10-07T12:58:33.980Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
-      "summary": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-07T12:58:33.979Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6f4ab8f99887a5",
-      "title": "World Cup criticism still stings Tuchel despite Nations League positives",
-      "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant,...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
-      "publishedAt": "2026-10-07T12:58:33.979Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "4a9f7ccbcff45f",
       "title": "How does Arteta turn champions into serial winners?",
       "summary": "When Mikel Arteta signed his last Arsenal contract in September 2024, his quest to bring major silverware back to the club was ongoing. Two years later, he signs his ne...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success",
-      "publishedAt": "2026-10-07T12:58:33.979Z",
+      "publishedAt": "2026-10-07T22:55:06.388Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -185,7 +118,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Mikel Arteta has signed a new long-term contract to extend his stay at Arsenal.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
-      "publishedAt": "2026-10-07T12:58:33.979Z",
+      "publishedAt": "2026-10-07T22:55:06.388Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -198,7 +131,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Sky Sports will broadcast England's one-day international tri-series against Pakistan and Sri Lanka in full this October.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13595770/sky-sports-to-show-englands-odi-tri-series-against-pakistan-and-sri-lanka-live-from-october-18-31",
-      "publishedAt": "2026-10-07T12:58:33.979Z",
+      "publishedAt": "2026-10-07T22:55:06.388Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -206,81 +139,92 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "dce0e234672ae9",
-      "title": "Man Utd told £50m-rated Arsenal target’s decision on joining the Red Devils",
-      "summary": "According to reports, £50m-rated Igor Matanovic would join Manchester United, who are to ‘act in January’ on one condition.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-told-50m-arsenal-target-decision-joining-red-devils",
-      "publishedAt": "2026-10-07T12:32:53.000Z",
+      "id": "deb30a38f88e5d",
+      "title": "'Ruthless' Arteta enters step five of Arsenal project",
+      "summary": "Mikel Arteta has turned Arsenal into Premier League champions but does his new contract take him into a new stage of his project? And can he bring more trophies to ecli...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595720/mikel-artetas-new-contract-the-challenges-facing-arsenal-boss-as-he-enters-step-five-of-his-project",
+      "publishedAt": "2026-10-07T22:55:06.388Z",
       "category": "transfer",
       "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f603cb319ed7fb",
-      "title": "Why are so many British footballers playing in Serie A?",
-      "summary": "The 1990s felt like a golden age, but there are 21 British players in Serie A this season – more than ever before By The Football Mine What do Jimmy Greaves, Ray Wilkin...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/many-british-footballers-playing-serie-a-italian-top-flight",
-      "publishedAt": "2026-10-07T12:00:09.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A"
-      ]
-    },
-    {
-      "id": "36812deaa2a384",
-      "title": "Fabrizio Romano reveals three details on Arsenal, Mikel Arteta ‘new agreement’ as key change confirmed",
-      "summary": "Arsenal have confirmed that Mikel Arteta has committed his future to the Premier League giants by signing a new long-term contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-three-details-arsenal-arteta-new-agreement-key-change-confirmed",
-      "publishedAt": "2026-10-07T11:54:48.000Z",
-      "category": "transfer",
-      "region": "england italy",
       "tags": [
         "Premier League",
         "Arsenal"
       ]
     },
     {
-      "id": "91aea7b0a12b81",
-      "title": "Senior figures worried about Man City being in next season's Champions League",
-      "summary": "Senior figures within the English game are concerned that Manchester City could play in the Champions League next season even if they are relegated for breaching financ...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gxgm71zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T11:44:08.000Z",
-      "category": "ucl",
+      "id": "8f504a23f00015",
+      "title": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
+      "summary": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-10-07T22:55:06.387Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Champions League",
-        "Manchester"
+        "Arsenal"
       ]
     },
     {
-      "id": "9c1bc472b8c66a",
-      "title": "Bellingham, Trent see Real Madrid move level with Rangers for England caps abroad",
-      "summary": "Real Madrid and Rangers are the clubs beyond the border possessing most England caps with 30 teams represented…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/most-england-caps-internationals-foreign-clubs",
-      "publishedAt": "2026-10-07T11:31:41.000Z",
-      "category": "transfer",
-      "region": "spain",
+      "id": "6f4ab8f99887a5",
+      "title": "World Cup criticism still stings Tuchel despite Nations League positives",
+      "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant,...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
+      "publishedAt": "2026-10-07T22:55:06.387Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Real Madrid"
+        "World Cup"
       ]
     },
     {
-      "id": "8e831a592719b1",
-      "title": "The best-paid managers in the Premier League: £20m Arteta top by a mile",
-      "summary": "Massive salaries are not just for the players and some of the top Premier League bosses earn multiple millions every year.",
+      "id": "c20492ce1ec3a6",
+      "title": "Papers: Arteta becomes Premier League's highest-paid boss on £20m-a-year",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13596325/arsenal-manager-mikel-arteta-becomes-premier-leagues-highest-paid-boss-on-20m-a-year-new-contract-paper-talk",
+      "publishedAt": "2026-10-07T22:55:06.386Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "b3203c3da3a52f",
+      "title": "Rice close to agreeing new Arsenal deal",
+      "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T22:21:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a9fa25ab0591b1",
+      "title": "Man City star’s agent reveals what the club has told players about guilty verdict ‘chaos’ before Liverpool clash",
+      "summary": "Donnarumma’s agent has opened up on what Man City have told his client about the guilty verdict “chaos” ahead of their clash with Liverpool.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/who-are-best-paid-premier-league-managers-de-zerbi",
-      "publishedAt": "2026-10-07T11:30:18.000Z",
+      "url": "https://www.football365.com/news/man-city-star-agent-club-told-playwrs-guilty-verdict-liverpool-clash",
+      "publishedAt": "2026-10-07T21:58:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9321f6d48e4b3a",
+      "title": "Man City FFP: Lineker votes for punishment ‘blessing’ amid ‘talk of Premier League conspiracy’",
+      "summary": "Lineker has picked what he believes will be the likely punishment for Man City and explains what would be a “blessing” amid “talk of Premier League conspiracy theories”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-lineker-votes-punishment-talk-premier-league-conspiracy",
+      "publishedAt": "2026-10-07T21:23:02.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -288,292 +232,250 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "9de0d6d5ea8920",
-      "title": "Manchester City exodus begins as ‘first star to quit’ after charges paves way for Haaland",
-      "summary": "The Manchester City exodus will begin after a ‘star’ became the ‘first player to quit’, paving the way for Erling Haaland and friends.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-city-exodus-first-star-to-quit-haaland-speaks-out",
-      "publishedAt": "2026-10-07T11:26:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cb3e0467d1e5d8",
-      "title": "Pundit feels Arsenal star is ‘too good’ to sit on bench as Man Utd must ‘keep an eye’ on him",
-      "summary": "Arsenal star Myles Lewis-Skelly has been told he’s “too good” to sit on the bench at the club, while Manchester United are still believed to be admirers of the versatil...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-star-myles-lewis-skelly-too-good-mikel-arteta-man-utd",
-      "publishedAt": "2026-10-07T11:23:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b48dbcb7b0e8e1",
-      "title": "‘This is only the beginning,’ vows Mikel Arteta after signing new Arsenal deal",
-      "summary": "Four-year-deal secures Spaniard’s future until 2030 Title winner now among best-paid managers in the world Mikel Arteta has promised “this is only the beginning” of wha...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/mikel-arteta-signs-new-arsenal-deal-only-the-beginning",
-      "publishedAt": "2026-10-07T11:13:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "dae6c044cd6bff",
-      "title": "Arteta signs new contract with champions Arsenal",
-      "summary": "Mikel Arteta says this is \"only the beginning\" of Arsenal's success after signing a new contract with the Premier League champions until 2030.",
+      "id": "36100e2ee97021",
+      "title": "Man Utd and Liverpool eye Truffert - Thursday's gossip",
+      "summary": "Manchester United and Liverpool eye Adrien Truffert, Tyler Morton is wanted by Newcastle and Martin Odegaard is set to sign a new Arsenal deal.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T11:00:53.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr2ke0k8g7xeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:56:06.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal"
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
-      "id": "7faf4bab560ffc",
-      "title": "‘I wanted to depart in the best way possible’: Kieran McKenna on Ipswich exit and future plans",
-      "summary": "In an exclusive interview, former Ipswich manager talks of his lasting affection for the club, savouring time out with family and friends and ideas for his next move It...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/i-wanted-to-depart-in-the-best-way-possible-kieran-mckenna-on-ipswich-exit-and-future-plans",
-      "publishedAt": "2026-10-07T11:00:08.000Z",
+      "id": "a0050a37338825",
+      "title": "Two icons, a glorious farewell and a potentially bitter ending",
+      "summary": "As Lionel Messi's international career ends in fond farewell, Cristiano Ronaldo's is at risk of petering out. BBC Sport takes a look at what could be the end of the int...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynm4e0d68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:47:17.000Z",
       "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f2a8d86a372fe7",
-      "title": "Man City FFP: Journalist claims City now face ‘death spiral’ as exact punishment mooted – ‘I’m hearing’",
-      "summary": "Manchester City have been warned that they face a “death spiral” with a player exodus after the guilty FFP verdict, with the potential punishment revealed.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-journalist-claims-city-now-face-death-spiral-exact-punishment",
-      "publishedAt": "2026-10-07T10:55:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a83eff5b0cb2db",
-      "title": "'Bring the magic' - Scotland's Ross eyes World Cup dream",
-      "summary": "Scotland assistant coach Leanne Ross never played at a World Cup but thinks the current squad has what it takes to get through the play-offs for Brazil 2027.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgelj5x2e7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T10:35:28.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "069224f513d871",
-      "title": "Fifa reportedly allowed DR Congo into World Cup despite ineligible player in qualifying",
-      "summary": "Nigeria filed complaint over ineligible players in playoff Fifa investigators aware of situation before tournament Fifa allowed the Democratic Republic of the Congo to...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/06/fifa-reportedly-allowed-dr-congo-into-world-cup-despite-ineligible-player-in-qualifying",
-      "publishedAt": "2026-10-07T10:28:13.000Z",
-      "category": "worldcup",
       "region": "italy",
       "tags": [
         "Football",
-        "World Cup",
-        "Fifa",
         "Inter"
       ]
     },
     {
-      "id": "557b2719c1c536",
-      "title": "Portuguese authorities took 83 days to tell Rui Pinto his witness protection was ending",
-      "summary": "Commission concluded in July threat level was low Manchester City whistleblower given 10 days’ notice Portuguese authorities kept Rui Pinto in the dark for almost three...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/rui-pinto-witness-protection-ending-portuguese-authorities-manchester-city",
-      "publishedAt": "2026-10-07T10:21:45.000Z",
+      "id": "cf24f03b60029e",
+      "title": "'Amazing' Kane targets 100 international goals",
+      "summary": "Striker Harry Kane says he could reach 100 goals for England after equalling his country's appearance record of 125, drawing praise from team-mates Morgan Rogers and Ju...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:31:17.000Z",
       "category": "league",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Football",
-        "Manchester"
+        "Inter"
       ]
     },
     {
-      "id": "1f2aec53f16944",
-      "title": "Man Utd plans to sign £70m Nottingham Forest star confirmed as two-man shortlist revealed",
-      "summary": "A journalist has revealed that Manchester United have plans to sign Nottingham Forest star Murillo, who features on a two-man shortlist.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-plans-sign-70m-nottingham-forest-star-confirmed-two-man-shortlist-revealed",
-      "publishedAt": "2026-10-07T10:19:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a8019046cc6a80",
-      "title": "Manchester City’s glory cannot be taken away from the players, says Kyle Walker",
-      "summary": "Former captain admits guilty verdict ‘doesn’t look great’ But he insists memories of ‘many trophies’ will remain Manchester City’s glory years cannot be taken away from...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/manchester-city-glory-cannot-be-taken-away-from-players-kyle-walker",
-      "publishedAt": "2026-10-07T10:01:13.000Z",
+      "id": "c07c69adf0a6c8",
+      "title": "Guardiola set to attend Man City's first home game since guilty verdict",
+      "summary": "Pep Guardiola is expected to attend Manchester City's Champions League tie against Paris St-Germain next week - the club's first home match since they were found guilty...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:14:24.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
-        "Football",
         "Premier League",
         "Champions League",
         "Manchester"
       ]
     },
     {
-      "id": "82ed62994fb3fa",
-      "title": "Ranking the chances of all 52 uncapped England starters, with Manchester United man at 15)",
-      "summary": "Fifty-two uncapped stars eligible for England have started a league game in Europe’s top five divisions this season; Thomas Tuchel is watching.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ranking-chances-all-52-uncapped-england-starters",
-      "publishedAt": "2026-10-07T09:51:08.000Z",
+      "id": "ac84a0422a3fc7",
+      "title": "All done deals in September & October 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T19:45:58.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Premier League"
       ]
     },
     {
-      "id": "89e4679b7199de",
-      "title": "Expert claims Liverpool star ‘already one of best in Europe’ and Zinedine Zidane ‘loves’ him",
-      "summary": "Liverpool summer signing Jeremy Jacquet has been told that he is “already one of the best in Europe” and an “enormous upgrade”.",
+      "id": "b46fb4dd75561f",
+      "title": "Football Daily",
+      "summary": "John Bennett is joined by Adam Blackmore and Jobi McAnuff to react to the Spygate verdict",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pfjltk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T19:30:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5dfcb9b29a36fd",
+      "title": "Ex-Spurs player Vega set to run for Fifa president",
+      "summary": "Former Tottenham defender Ramon Vega says he intends to run in next year's Fifa presidential election - becoming the first person to confirm they want to challenge Gian...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T19:24:19.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "dd2a5cde9f6f34",
+      "title": "Chelsea gift Liverpool chance to sign 23y/o starter after asking price slashed",
+      "summary": "A Chelsea player Liverpool tried to sign on deadline day could now be bought for below what the Blues were originally asking.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/expert-claims-liverpool-star-already-best-europe-zinedine-zidane-loves-him",
-      "publishedAt": "2026-10-07T09:49:18.000Z",
+      "url": "https://www.football365.com/news/chelsea-gift-liverpool-chance-sign-malo-gusto-asking-price-slashed",
+      "publishedAt": "2026-10-07T18:38:05.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Chelsea",
         "Liverpool"
       ]
     },
     {
-      "id": "428b8ca229083f",
-      "title": "Arsenal and Chelsea set to miss a month of next WSL season due to Club World Cup",
-      "summary": "Back end of 2027-28 season likely to be ‘challenging’ Fixture contestion a growing area of concern The Women’s Super League will face major disruption next season due t...",
+      "id": "6ef812a7dcf7c3",
+      "title": "Is it too early to look at Premier League table?",
+      "summary": "Just five games in, it might seem a bit early to pay much attention to the Premier League table - but it's probably more settled than you think. BBC Sport takes a look...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l3gjpzz0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T17:28:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2368e59ce21566",
+      "title": "Lionel Messi’s Argentina career turned football into a sacred mystery | Marcela Mora y Araujo",
+      "summary": "Jorge Messi wanted his country to fall in love with his son. That ambition was fulfilled during a brilliant international career that ended this week “What Argentina is...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/07/wsl-concerns-over-fixture-congestion-caused-by-2028-club-world-cup",
-      "publishedAt": "2026-10-07T09:20:10.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-argentina-retirement-final-match",
+      "publishedAt": "2026-10-07T17:02:22.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "49ad5e2fecd2df",
+      "title": "Arsenal and Liverpool get serious for Fulham transfer worth £50m",
+      "summary": "A Fulham ace is attracting heavyweight interest from Arsenal and Liverpool, and when a transfer could take place has been revealed in a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-liverpool-get-serious-fulham-signing-worth-50m",
+      "publishedAt": "2026-10-07T16:11:32.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "aa67d34b8b8bc8",
+      "title": "BBC Women's Football Weekly",
+      "summary": "Ellen White sits down with defender Esme Morgan ahead of England's World Cup qualifiers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pfh6lh?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T15:53:00.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
-        "World Cup",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "f6e43cf8cec127",
-      "title": "Jamie Carragher makes PL title prediction and reveals verdict on Man City FFP punishment",
-      "summary": "Jamie Carragher has revealed whether he thinks Manchester City can sustain a Premier League title challenge after the guilty FFP verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jamie-carragher-pl-title-prediction-reveals-verdict-man-city-ffp-punishment",
-      "publishedAt": "2026-10-07T09:17:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3801ee32b8f3aa",
-      "title": "'Nothing can take my attention' - Ward on World Cup",
-      "summary": "Republic of Ireland manager Carla Ward says that \"nothing is tempting\" her away from her job as they prepare for a World Cup qualifying double-header against Kazakhstan.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg07v9xrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T08:57:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
         "World Cup"
       ]
     },
     {
-      "id": "9b9f9fd6f33184",
-      "title": "Roy Keane hits out at ‘really sloppy’ Arsenal star as he raises major concern – ‘I was disappointed’",
-      "summary": "Manchester United legend Roy Keane has hit out at Arsenal and England star Eberechi Eze and has raised a major concern about the attacker.",
+      "id": "9afa1f26a1c4c1",
+      "title": "Liverpool want £60m France int’l with arrival to finally see long-serving star leave",
+      "summary": "Liverpool are considering signing a £60m-rated France international to finally solve a problem position, and the arrival would see a long-serving star leave.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/roy-keane-hits-out-really-sloppy-arsenal-star-raises-major-concern",
-      "publishedAt": "2026-10-07T08:54:03.000Z",
+      "url": "https://www.football365.com/news/liverpool-want-60m-france-international-adrien-truffert-kostas-tsimikas-leave",
+      "publishedAt": "2026-10-07T15:15:39.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Arsenal",
-        "Manchester"
+        "Liverpool",
+        "Inter"
       ]
     },
     {
-      "id": "5ac821db90dd7d",
-      "title": "Liverpool ‘offer’ for record-breaking midfielder has gone in as ‘historic agreement’ claim emerges",
-      "summary": "Liverpool are pressing ahead in their quest to bring a Mexican wonderkid to Anfield in the middle of the season.",
+      "id": "b3bec45af0c278",
+      "title": "Liverpool eye Prem’s best goalkeeper replace exit-bound Alisson in 2027",
+      "summary": "Liverpool are said to have their eye on the Premier League’s best-rated goalkeeper this season, given they are not presently in talks with Alisson to renew his contract.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/gilberto-mora-liverpool-club-tijuana",
-      "publishedAt": "2026-10-07T08:36:11.000Z",
+      "url": "https://www.football365.com/news/liverpool-eye-konstantinos-tzolakis-replace-exit-bound-alisson",
+      "publishedAt": "2026-10-07T15:04:47.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League",
         "Liverpool"
       ]
     },
     {
-      "id": "9d1f382b5d2699",
-      "title": "‘Do one’ – Paul Scholes tears into Arsenal legend in row over Man City titles",
-      "summary": "Manchester United legend Paul Scholes has told Martin Keown to “do one” after claims about Manchester City titles, while he also took aim at Simon Jordan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/do-one-paul-scholes-martin-keown-man-city-titles",
-      "publishedAt": "2026-10-07T08:26:38.000Z",
-      "category": "transfer",
+      "id": "beca7939f2a122",
+      "title": "Football Daily",
+      "summary": "Is refereeing the impossible job?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pf94jc?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T15:00:00.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Arsenal",
-        "Manchester"
+        "Football"
       ]
     },
     {
-      "id": "0a741f212c652a",
-      "title": "Man Utd: Chances of JJ Gabriel U-turn revealed as saga now has increasingly likely outcome",
-      "summary": "According to reports, the likelihood of JJ Gabriel making a ‘U-turn’ on his future at Manchester United is now as ‘slim as ever’.",
+      "id": "cd9cc85d2c8d88",
+      "title": "Bayern Munich reach decision on signing Erling Haaland as Harry Kane agreement revealed",
+      "summary": "According to reports, Bayern Munich have decided whether to sign Erling Haaland after Manchester City’s guilty FFP verdict.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-chances-jj-gabriel-u-turn-revealed-saga-now-increasingly-likely-outcome",
-      "publishedAt": "2026-10-07T08:21:26.000Z",
+      "url": "https://www.football365.com/news/man-city-bayern-munich-reach-decision-signing-erling-haaland-harry-kane-agreement",
+      "publishedAt": "2026-10-07T14:40:19.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england germany",
       "tags": [
-        "Manchester"
+        "Manchester",
+        "Bayern"
       ]
     },
     {
-      "id": "2705afcf3fac37",
-      "title": "Man City FFP: Rival PL clubs make demand for two severe sanctions – ‘more than relegation’",
-      "summary": "According to reports, Manchester City’s Premier League rivals want ‘more than relegation’ if/when they are punished for breaching FFP rules.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-rival-pl-clubs-demand-two-severe-sanctions-more-than-relegation",
-      "publishedAt": "2026-10-07T07:46:18.000Z",
+      "id": "364b06331c7f9c",
+      "title": "Football Daily | Tears, drone ads and a 1,740-word manifesto: Messi v Ronaldo gets one more chapter",
+      "summary": "Nothing compares to sport’s contrasts, and few are as stark as the exits of two defining icons of the modern football era. As one continues to negotiate his grand depar...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-cristiano-ronaldo-football-daily-newsletter",
+      "publishedAt": "2026-10-07T14:37:55.000Z",
       "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5524c593c9fabc",
+      "title": "Former Man City player Silva comes out of retirement",
+      "summary": "Former Manchester City midfielder David Silva comes out of retirement aged 40 to join Hong Kong Premier League club Sha Tin.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g78xd51jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T14:31:53.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Premier League",
@@ -581,17 +483,112 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "b88e3d715ca800",
-      "title": "Kylian Mbappe reaction to Liverpool making contact to sign Real Madrid superstar emerges",
-      "summary": "Liverpool want to sign Kylian Mbappe from Real Madrid in 2027 and have made contact with his agent and mother.",
+      "id": "107afc1f5d3b8e",
+      "title": "Premier League uncapped XI features Brighton and Bournemouth pairs",
+      "summary": "Eli Junior Kroupi will surely not remain uncapped for long, but there have been four changes during this international break.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-real-madrid-kylian-mbappe-2027-transfer",
-      "publishedAt": "2026-10-07T07:21:41.000Z",
+      "url": "https://www.football365.com/news/premier-league-uncapped-xi-2026",
+      "publishedAt": "2026-10-07T14:29:34.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "9cfa31d7dcd2da",
+      "title": "Alvarez reaches decision on joining Arsenal from Atletico Madrid in January after Haaland twist",
+      "summary": "Julian Alvarez’s stance on leaving Atletico Madrid for Arsenal in the January transfer widow has emerged.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-julian-alvarez-erling-haaland-transfer-latest",
+      "publishedAt": "2026-10-07T14:10:36.000Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a7e0ca71d18d54",
+      "title": "Sheff Utd expect to avoid points deduction - CEO",
+      "summary": "Sheffield United CEO Stephen Bettis tells BBC Radio Sheffield the Blades expect to avoid an EFL points deduction but will not reinvest a summer transfer haul in January.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmdxwvwgezlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T13:50:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f25e262cd9e302",
+      "title": "Aston Villa internal verdict on Alejandro Garnacho after intense mini pre-season revealed",
+      "summary": "Aston Villa reportedly have a feeling on whether Alejandro Garnacho can ‘restart his career’ after having an ‘intense mini pre-season’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-internal-verdict-alejandro-garnacho-intense-mini-pre-season-revealed",
+      "publishedAt": "2026-10-07T13:48:21.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "0997e842f88899",
+      "title": "Arsenal chances of signing Liverpool sensation Rio Ngumoha revealed amid deal close claim",
+      "summary": "Arsenal reportedly only have a ‘slim’ chance of signing England international Rio Ngumoha, while there is an update on his Liverpool future.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-chances-signing-liverpool-sensation-rio-ngumoha-revealed-deal-close-claim",
+      "publishedAt": "2026-10-07T13:19:50.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
         "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "21c066610bd0b3",
+      "title": "Aston Villa sights fixed on Real Madrid star as transfer gains pace",
+      "summary": "An Aston Villa move for a Real Madrid star is believed to be gaining traction, as it’s reported he could ‘prioritise’ the English club for one big reason.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-madrid-star-endrick-prioritise-aston-villa-transfer",
+      "publishedAt": "2026-10-07T13:13:35.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Transfer",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "271725260d3e75",
+      "title": "How fans are falling in love with football again",
+      "summary": "BBC Sport speaks to Dorking Wanderers owner and manager Marc White about the growing use of social media helping non-League teams grow.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp302xqx5yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T13:01:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "0859b3890a56d8",
+      "title": "Kane makes more England history and Ronaldo claps back | Football Weekly video",
+      "summary": "Max Rushden is joined by Barry Glendenning, John Brewin and Lucy Ward as Harry Kane equals the all-time England appearance record in a 3-0 win over Czechia. Continue re...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/oct/07/harry-kane-england-cristiano-ronaldo-portugal-football-weekly-video",
+      "publishedAt": "2026-10-07T12:37:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     }
   ],
