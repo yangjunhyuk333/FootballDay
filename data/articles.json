@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:55:06.680Z",
+  "generatedAt": "2026-10-08T05:23:06.226Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@
       "pinned": true
     },
     {
+      "id": "6f4ab8f99887a5",
+      "title": "World Cup criticism still stings Tuchel despite Nations League positives",
+      "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant,...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
+      "publishedAt": "2026-10-08T05:23:06.015Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "4a9f7ccbcff45f",
       "title": "How does Arteta turn champions into serial winners?",
       "summary": "When Mikel Arteta signed his last Arsenal contract in September 2024, his quest to bring major silverware back to the club was ongoing. Two years later, he signs his ne...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13590953/mikel-arteta-to-begin-new-era-at-arsenal-as-club-eye-premier-league-dominance-and-champions-league-success",
-      "publishedAt": "2026-10-07T22:55:06.388Z",
+      "publishedAt": "2026-10-08T05:23:06.015Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -113,43 +126,16 @@
       ]
     },
     {
-      "id": "7be7427ef87c01",
-      "title": "'We want a winning era' - Arteta signs new Arsenal contract",
-      "summary": "Mikel Arteta has signed a new long-term contract to extend his stay at Arsenal.",
+      "id": "09327648f411b1",
+      "title": "Sky Sports and Guinness launch new accessibility services across PL coverage",
+      "summary": "Live Subtitles to be available across all Sky Sports Premier League matches, while Live Descriptive Audio Commentary will be introduced on selected fixtures throughout...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13590915/mikel-arteta-contract-arsenal-boss-signs-new-deal-to-extend-stay-at-premier-league-champions",
-      "publishedAt": "2026-10-07T22:55:06.388Z",
+      "url": "https://www.skysports.com/football/news/12040/13595862/sky-sports-and-guinness-launch-new-accessibility-services-across-premier-league-coverage",
+      "publishedAt": "2026-10-08T05:23:06.014Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "fc3501e1be82f8",
-      "title": "Sky Sports to show England's ODI tri-series in Pakistan",
-      "summary": "Sky Sports will broadcast England's one-day international tri-series against Pakistan and Sri Lanka in full this October.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13595770/sky-sports-to-show-englands-odi-tri-series-against-pakistan-and-sri-lanka-live-from-october-18-31",
-      "publishedAt": "2026-10-07T22:55:06.388Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "deb30a38f88e5d",
-      "title": "'Ruthless' Arteta enters step five of Arsenal project",
-      "summary": "Mikel Arteta has turned Arsenal into Premier League champions but does his new contract take him into a new stage of his project? And can he bring more trophies to ecli...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13595720/mikel-artetas-new-contract-the-challenges-facing-arsenal-boss-as-he-enters-step-five-of-his-project",
-      "publishedAt": "2026-10-07T22:55:06.388Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
+        "Premier League"
       ]
     },
     {
@@ -158,24 +144,11 @@
       "summary": "ARSENAL PODCAST: Listen to an Arteta new contract special!",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-07T22:55:06.387Z",
+      "publishedAt": "2026-10-08T05:23:06.014Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "6f4ab8f99887a5",
-      "title": "World Cup criticism still stings Tuchel despite Nations League positives",
-      "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant,...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
-      "publishedAt": "2026-10-07T22:55:06.387Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -184,12 +157,25 @@
       "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13596325/arsenal-manager-mikel-arteta-becomes-premier-leagues-highest-paid-boss-on-20m-a-year-new-contract-paper-talk",
-      "publishedAt": "2026-10-07T22:55:06.386Z",
+      "publishedAt": "2026-10-08T05:23:06.013Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
         "Transfer"
+      ]
+    },
+    {
+      "id": "47ee00c67a878c",
+      "title": "Inside the £1-an-hour official football shirt factories",
+      "summary": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T05:20:14.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -276,15 +262,13 @@
     {
       "id": "c07c69adf0a6c8",
       "title": "Guardiola set to attend Man City's first home game since guilty verdict",
-      "summary": "Pep Guardiola is expected to attend Manchester City's Champions League tie against Paris St-Germain next week - the club's first home match since they were found guilty...",
+      "summary": "Pep Guardiola managed Manchester City for a decade, leaving in the summer, and has backed the club's owners since the verdict.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-07T20:14:24.000Z",
-      "category": "ucl",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Champions League",
         "Manchester"
       ]
     },
@@ -589,6 +573,20 @@
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "dce0e234672ae9",
+      "title": "Man Utd told £50m-rated Arsenal target’s decision on joining the Red Devils",
+      "summary": "According to reports, £50m-rated Igor Matanovic would join Manchester United, who are to ‘act in January’ on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-told-50m-arsenal-target-decision-joining-red-devils",
+      "publishedAt": "2026-10-07T12:32:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
       ]
     }
   ],
