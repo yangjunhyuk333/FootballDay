@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-08T23:07:22.871Z",
+  "generatedAt": "2026-10-09T05:26:29.361Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,44 +99,29 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "b126cffc780740",
-      "title": "Guardiola set to attend Man City's first home game since guilty verdict",
-      "summary": "Former Manchester City manager Pep Guardiola is expected to attend next week's Champions League match against Paris Saint-Germain, marking his first appearance at the E...",
+      "id": "f1783b70bb128d",
+      "title": "Today's cricket scorecards, including South Africa vs Australia",
+      "summary": "Latest cricket scores from around the world, including Test matches, white-ball internationals, and a whole lot more.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13596452/pep-guardiola-set-to-attend-man-citys-first-home-game-since-guilty-verdict",
-      "publishedAt": "2026-10-08T23:07:22.704Z",
-      "category": "ucl",
-      "region": "england",
+      "url": "https://www.skysports.com/cricket/scores-fixtures",
+      "publishedAt": "2026-10-09T05:26:28.857Z",
+      "category": "transfer",
+      "region": "italy",
       "tags": [
-        "Champions League",
-        "Manchester"
+        "Inter"
       ]
     },
     {
       "id": "1a4a10193e91a5",
-      "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
+      "title": "Papers: Fee Man Utd could receive for wantaway Gabriel revealed",
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk",
-      "publishedAt": "2026-10-08T23:07:22.703Z",
+      "publishedAt": "2026-10-09T05:26:28.857Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "10aafc6a086b38",
-      "title": "Man Utd held back as Spurs spent big - Different strategies collide on Saturday",
-      "summary": "Tottenham went big in the summer transfer window while Manchester United held back, but both are struggling.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13595688/manchester-united-vs-tottenham-different-summer-transfer-strategies-collide-on-saturday-at-old-trafford",
-      "publishedAt": "2026-10-08T23:07:22.703Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
       ]
     },
     {
@@ -145,7 +130,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the Premier League weekend.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13591795/premier-league-predictions-jones-knows-best-bets-liverpool-vs-manchester-city-manchester-united-vs-tottenham-and-more",
-      "publishedAt": "2026-10-08T23:07:22.703Z",
+      "publishedAt": "2026-10-09T05:26:28.857Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -158,7 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Ella Toone may have started this international break on the outside looking in, but she looks set to emerge from it with her chances of making it to Brazil next summer...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13596592/greece-vs-england-how-ella-toones-lionesses-snub-could-boost-her-world-cup-chances",
-      "publishedAt": "2026-10-08T23:07:22.703Z",
+      "publishedAt": "2026-10-09T05:26:28.857Z",
       "category": "worldcup",
       "region": "italy",
       "tags": [
@@ -172,11 +157,25 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Erling Haaland has urged fans to 'stick together and spread the love', following Manchester City being found guilty of all charges related to serious breaches of Premie...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13596548/erling-haaland-sends-message-to-fans-following-man-city-guilty-verdict",
-      "publishedAt": "2026-10-08T23:07:22.703Z",
+      "publishedAt": "2026-10-09T05:26:28.857Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "10aafc6a086b38",
+      "title": "Man Utd held back as Spurs spent big - Different strategies collide on Saturday",
+      "summary": "Tottenham went big in the summer transfer window while Manchester United held back, but both are struggling.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13595688/manchester-united-vs-tottenham-different-summer-transfer-strategies-collide-on-saturday-at-old-trafford",
+      "publishedAt": "2026-10-09T05:26:28.856Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Manchester"
       ]
     },
@@ -186,11 +185,27 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Chelsea latest: Caicedo features in friendly as midfielder steps up recovery",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-08T23:07:22.702Z",
+      "publishedAt": "2026-10-09T05:26:28.856Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "bbc6f5ed53bef8",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield? Premier League top scor...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+      "publishedAt": "2026-10-08T23:01:31.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "World Cup",
+        "Arsenal"
       ]
     },
     {
@@ -578,20 +593,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "1d8826e42e46aa",
-      "title": "Mikel Arteta’s new Arsenal training ground theatrics are timely cringe reminder",
-      "summary": "Mikel Arteta is a very good football manager fully deserving of both our respect and our deep-seated loathing after he revealed another one of his training ground nonse...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-new-theatrics-why-hate-him-signing-new-arsenal-contract",
-      "publishedAt": "2026-10-08T13:40:00.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
       ]
     }
   ],
