@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-09T22:27:03.904Z",
+  "generatedAt": "2026-10-10T05:10:21.377Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,38 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "69ef3e55aec275",
-      "title": "Arteta says conscience clear over time at Man City",
-      "summary": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
-      "publishedAt": "2026-10-09T22:27:03.570Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "82c1399e16c5f1",
-      "title": "Papers: Man Utd forced into transfer market in January?",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
-      "publishedAt": "2026-10-09T22:27:03.570Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
       "id": "3826f7f4251f99",
       "title": "England take control of World Cup play-off with win in Greece",
       "summary": "England are in control of their World Cup play-off with Greece after winning the first leg 3-1 in Crete.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-      "publishedAt": "2026-10-09T22:27:03.570Z",
+      "publishedAt": "2026-10-10T05:10:20.891Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -143,11 +117,51 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Shai Hope struck a century as West Indies completed their highest successful ‌chase in T20 internationals, overhauling a target of 250 to beat India by six ‌wickets in...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/cricket/news/12040/13597027/india-vs-west-indies-shai-hope-hits-unbeaten-102-in-windies-highest-successful-t20-run-chase",
-      "publishedAt": "2026-10-09T22:27:03.570Z",
+      "publishedAt": "2026-10-10T05:10:20.891Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "82c1399e16c5f1",
+      "title": "Papers: Man Utd forced into transfer market in January?",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
+      "publishedAt": "2026-10-10T05:10:20.890Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "69ef3e55aec275",
+      "title": "Arteta says conscience clear over time at Man City",
+      "summary": "Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules",
+      "publishedAt": "2026-10-10T05:10:20.890Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7b135ca86c0627",
+      "title": "Man City whistleblower to remain in witness protection",
+      "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authori...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T22:59:32.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -232,6 +246,20 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "932dccd35d9a97",
+      "title": "Sam Kerr on target but Matildas outclassed by youthful Germany in European friendly",
+      "summary": "Australia fall 4-2 to world No 3 side in Karlsruhe Holly McNamara joins Kerr on scoresheet for Matildas Sign up for Football Desk Australia: our free newsletter with Jo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/10/matildas-australia-germany-sam-kerr-friendly-match-report",
+      "publishedAt": "2026-10-09T20:52:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
       ]
     },
     {
@@ -534,7 +562,7 @@ window.FOOTBALLDAY_DATA = {
     {
       "id": "3c567abbd12717",
       "title": "Old soccer meets new football: Australia Cup final heaves with significance | Jack Snape",
-      "summary": "South Melbourne and Melbourne Victory clash on what promises to be a ‘special and historical night’ and in a triumph of the competition’s concept One club represents ne...",
+      "summary": "South Melbourne and Melbourne Victory clash on what promises to be a ‘special and historic night’ and in a triumph of the competition’s concept Sign up for Football Des...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/10/australia-cup-final-south-melbourne-victory-old-soccer-new-football",
       "publishedAt": "2026-10-09T14:00:30.000Z",
@@ -572,33 +600,6 @@ window.FOOTBALLDAY_DATA = {
         "Arsenal",
         "Chelsea",
         "Manchester"
-      ]
-    },
-    {
-      "id": "960dcc352f2366",
-      "title": "Man City FFP: Liverpool manager Andoni Iraola and Man Utd boss Michael Carrick react to guilty verdict",
-      "summary": "Liverpool manager Andoni Iraola and Manchester United boss Michael Carrick break their silence over Manchester City being found guilty of FFP breaches.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/andoni-iraola-michael-carrick-enzo-maresca-liverpool-manchester-united-manchester-city",
-      "publishedAt": "2026-10-09T13:08:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "31a9e2aedb072f",
-      "title": "What impact has break had & how will Reedijk fare? Premiership questions",
-      "summary": "After an extended international break, the Scottish Premiership's usual suspects - and one newcomer - limber up for a full weekend card of fixtures.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crje53gx34qeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T13:07:09.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
       ]
     }
   ],
