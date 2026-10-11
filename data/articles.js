@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-10T21:22:49.216Z",
+  "generatedAt": "2026-10-11T05:00:34.851Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "FREE TO WATCH: Highlights from Manchester United’s match against Tottenham Hotspur in the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13597576/manchester-united-1-1-tottenham-hotspur-premier-league-highlights",
-      "publishedAt": "2026-10-10T21:22:48.813Z",
+      "publishedAt": "2026-10-11T05:00:34.495Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -118,7 +118,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Tottenham rescued an unlikely point at Manchester United after fighting back to draw 1-1 with 10 men - but their search for a Premier League win extends into another un...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/report/559502",
-      "publishedAt": "2026-10-10T21:22:48.813Z",
+      "publishedAt": "2026-10-11T05:00:34.495Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -132,7 +132,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United's famous ticker banner returned to Old Trafford on Saturday, displaying 50 years since Manchester City won a trophy.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13597523/man-city-charges-manchester-united-fans-take-aim-at-rivals-with-return-of-famous-ticker-banner",
-      "publishedAt": "2026-10-10T21:22:48.813Z",
+      "publishedAt": "2026-10-11T05:00:34.495Z",
       "category": "issue",
       "region": "england",
       "tags": [
@@ -140,25 +140,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "02d51ac6c73cfa",
-      "title": "Ten-player Brighton win at Sunderland to stay third",
-      "summary": "High-flying Brighton won 2-0 at Sunderland to make it three straight Premier League wins without conceding, despite having to play more than half an hour with 10 men.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/report/559503",
-      "publishedAt": "2026-10-10T21:22:48.813Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
       "id": "d7229c2f6a9d85",
       "title": "Neville's Man Utd warning: 'Get a grip or face worrying few weeks'",
-      "summary": "Gary Neville warned that Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their dra...",
+      "summary": "Gary Neville warned Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their draw wit...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13597587/gary-neville-warns-man-utd-players-to-get-a-grip-or-face-a-worrying-few-weeks-after-draw-with-10-man-spurs",
-      "publishedAt": "2026-10-10T21:22:48.812Z",
+      "publishedAt": "2026-10-11T05:00:34.494Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -166,17 +153,103 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "f60f32b4f0458a",
+      "title": "Papers: Wenger urged to stand for FIFA presidency",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13597627/arsene-wenger-urged-to-stand-against-gianni-infantino-for-fifa-presidency-paper-talk",
+      "publishedAt": "2026-10-11T05:00:34.493Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Fifa"
+      ]
+    },
+    {
       "id": "aef3ea79a05137",
-      "title": "Gordon scores first Barcelona goal, Bayern held after Neuer shocker",
-      "summary": "Gordon scores first Barcelona goal, Bayern held after Neuer shocker",
+      "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "summary": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-10-10T21:22:48.811Z",
+      "publishedAt": "2026-10-11T05:00:34.493Z",
       "category": "transfer",
-      "region": "spain germany",
+      "region": "spain",
       "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "cd58967994d2f2",
+      "title": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
+      "summary": "Speaking on Match of the Day, Alan Shearer explains why the performance of Moises Caicedo was pivotal in Chelsea's 5-1 win against Bournemouth in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T23:00:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "c09a342a6a020b",
+      "title": "Man Utd midfield can't control games - Murphy",
+      "summary": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in their 1-1 draw against 10-man Tottenham.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T22:58:38.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "86858b9009d7eb",
+      "title": "Highlights and analysis on Match of the Day",
+      "summary": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T22:50:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "191e5abbb8f548",
+      "title": "AC Milan keen on Scott - Sunday's gossip",
+      "summary": "AC Milan are looking at Bournemouth's Alex Scott, Bayern Munich have held fresh talks with Manchester United's JJ Gabriel, Liverpool interested in Barcelona defender Ju...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T22:01:20.000Z",
+      "category": "league",
+      "region": "england spain italy germany",
+      "tags": [
+        "Liverpool",
+        "Manchester",
         "Barcelona",
         "Bayern"
+      ]
+    },
+    {
+      "id": "55117497052dc4",
+      "title": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
+      "summary": "Yan Diomandé earned Real Madrid a tight 1-0 victory over Villarreal to keep them six points behind La Liga leaders Barcelona, even though winger Vinícius Júnior was sen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal",
+      "publishedAt": "2026-10-10T21:38:11.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
       ]
     },
     {
@@ -219,19 +292,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "191e5abbb8f548",
-      "title": "Vuskovic a target for Bayern - Sunday's gossip",
-      "summary": "Bayern Munich are among a number of clubs keen on Brighton defender Luka Vuskovic, AC Milan looking at Bournemouth's Alex Scott, Liverpool interested in Barcelona defen...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T20:44:38.000Z",
+      "id": "f18f3f17b2471b",
+      "title": "Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin",
+      "summary": "Manchester City’s rule breaches have dominated headlines and shifted focus from both clubs’ self-inflicted wounds Turning back the clock is impossible. Up in the Stretf...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/10/draw-brings-no-respite-for-manchester-united-and-tottenham-as-crises-continue",
+      "publishedAt": "2026-10-10T20:40:01.000Z",
       "category": "league",
-      "region": "england spain italy germany",
+      "region": "england",
       "tags": [
-        "Liverpool",
-        "Barcelona",
-        "Bayern",
-        "Inter"
+        "Football",
+        "Manchester"
       ]
     },
     {
@@ -276,13 +347,13 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "6d599aa99c505a",
-      "title": "European football: Gordon boosts Barcelona and Bayern battle back",
-      "summary": "Gordon scores first goal for club as Getafe are beaten 3-0 Bayern draw despite conceding fastest Bundesliga goal Anthony Gordon scored his first goal for Barcelona as t...",
+      "title": "European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
+      "summary": "Barcelona 3-0 Getafe, Inter 3-0 Parma, PSG 3-1 Le Mans Bayern concede fastest Bundesliga goal in Augsburg draw Anthony Gordon scored his first goal for Barcelona as the...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
       "publishedAt": "2026-10-10T19:05:20.000Z",
       "category": "league",
-      "region": "spain italy germany",
+      "region": "england spain italy france germany",
       "tags": [
         "Football",
         "La Liga",
@@ -370,20 +441,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Premier League",
         "Uefa",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "935eaa37063424",
-      "title": "Solanke strikes late as 10-man Spurs salvage point at Manchester United",
-      "summary": "Manchester United are on six points – their poorest start since 1986 – and Tottenham have three less and remain stuck in the relegation zone: testing times for Michael...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report",
-      "publishedAt": "2026-10-10T18:50:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
         "Manchester"
       ]
     },
@@ -537,59 +594,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Inter"
-      ]
-    },
-    {
-      "id": "2469b274137ed3",
-      "title": "Every Premier League manager’s contract and when it expires",
-      "summary": "We take a look at where every Premier League manager stands with their deal as so many big clubs make appointments.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/contracts-expiry-dates-premier-league-managers",
-      "publishedAt": "2026-10-10T15:55:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "6aa36da60f1561",
-      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-      "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T15:44:14.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "204317520ac586",
-      "title": "Manager ins and outs - 2026-27",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T15:42:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d7c46e5b8b9682",
-      "title": "Mikel Arteta names Arsenal’s ‘best player’ in training after Leeds win",
-      "summary": "Arsenal manager Mikel Arteta has been raving about one of his players who starred against Leeds United at the Emirates Stadium on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-mikel-arteta-noni-madueke",
-      "publishedAt": "2026-10-10T15:22:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
