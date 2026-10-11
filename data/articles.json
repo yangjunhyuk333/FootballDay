@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T05:00:34.851Z",
+  "generatedAt": "2026-10-11T12:25:01.306Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,57 +99,16 @@
       "pinned": true
     },
     {
-      "id": "635bfe82258c44",
-      "title": "Solanke heads late equaliser for 10-man Spurs against Man Utd",
-      "summary": "FREE TO WATCH: Highlights from Manchester United’s match against Tottenham Hotspur in the Premier League.",
+      "id": "7a44b52cc5fd3d",
+      "title": "Gordon continues to shine in Spain with first Barca goal",
+      "summary": "Anthony Gordon opened his Barcelona account in a comfortable 3-0 victory over Getafe, maintaining his fine early form in Spain.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13597576/manchester-united-1-1-tottenham-hotspur-premier-league-highlights",
-      "publishedAt": "2026-10-11T05:00:34.495Z",
+      "url": "https://www.skysports.com/watch/video/13597599/anthony-gordon-scores-his-first-goal-for-barca-to-continue-his-impressive-form-in-spain",
+      "publishedAt": "2026-10-11T12:25:01.106Z",
       "category": "transfer",
-      "region": "england",
+      "region": "spain",
       "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6adba5b85c27af",
-      "title": "Ten-man Spurs claim dramatic draw at Old Trafford as Man Utd booed off",
-      "summary": "Tottenham rescued an unlikely point at Manchester United after fighting back to draw 1-1 with 10 men - but their search for a Premier League win extends into another un...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/report/559502",
-      "publishedAt": "2026-10-11T05:00:34.495Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b83b94f8251d63",
-      "title": "Man Utd fans take aim at Man City with return of famous ticker banner",
-      "summary": "Manchester United's famous ticker banner returned to Old Trafford on Saturday, displaying 50 years since Manchester City won a trophy.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13597523/man-city-charges-manchester-united-fans-take-aim-at-rivals-with-return-of-famous-ticker-banner",
-      "publishedAt": "2026-10-11T05:00:34.495Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d7229c2f6a9d85",
-      "title": "Neville's Man Utd warning: 'Get a grip or face worrying few weeks'",
-      "summary": "Gary Neville warned Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their draw wit...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13597587/gary-neville-warns-man-utd-players-to-get-a-grip-or-face-a-worrying-few-weeks-after-draw-with-10-man-spurs",
-      "publishedAt": "2026-10-11T05:00:34.494Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
+        "Barcelona"
       ]
     },
     {
@@ -158,7 +117,7 @@
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13597627/arsene-wenger-urged-to-stand-against-gianni-infantino-for-fifa-presidency-paper-talk",
-      "publishedAt": "2026-10-11T05:00:34.493Z",
+      "publishedAt": "2026-10-11T12:25:01.105Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -167,16 +126,191 @@
       ]
     },
     {
-      "id": "aef3ea79a05137",
-      "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
-      "summary": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "id": "d7229c2f6a9d85",
+      "title": "Neville's Man Utd warning: 'Get a grip or face worrying few weeks'",
+      "summary": "Gary Neville warned Manchester United could be in for a \"worrying few weeks\" if their players don't \"get a grip\" on their season after they were booed in their draw wit...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-10-11T05:00:34.493Z",
+      "url": "https://www.skysports.com/football/news/12040/13597587/gary-neville-warns-man-utd-players-to-get-a-grip-or-face-a-worrying-few-weeks-after-draw-with-10-man-spurs",
+      "publishedAt": "2026-10-11T12:25:01.105Z",
       "category": "transfer",
-      "region": "spain",
+      "region": "england",
       "tags": [
-        "Barcelona"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c24e32473539c5",
+      "title": "Liverpool vs Man City extended build-up LIVE!",
+      "summary": "Liverpool vs Man City extended build-up LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-manchester-city/live/559501",
+      "publishedAt": "2026-10-11T12:25:01.104Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "282f95334dcd34",
+      "title": "Southampton v Portsmouth, Crystal Palace v Nottingham Forest, Hull v Everton: football – live",
+      "summary": "⚽ Get match updates from the Premier League and beyond ⚽ Live scores | Tables | Mail John | And follow us on TikTok Southampton 1-0 Portsmouth Leo Scienza is the creati...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/11/crystal-palace-v-nottingham-forest-hull-v-everton-and-more-football-live",
+      "publishedAt": "2026-10-11T12:14:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6f88515c0fe3ec",
+      "title": "Wirtz can turn Isak into Benteke for Liverpool vs Man City in Klopp-defining change",
+      "summary": "A standout performance vs Man City could be what finally ignites Florian Wirtz’s Liverpool career and leave Alexander Isak in the mud as the club’s new Christian Benteke.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-wirtz-isak-into-benteke-liverpool-man-city-klopp-defining-change",
+      "publishedAt": "2026-10-11T12:08:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2133537677a146",
+      "title": "Sharp retires after incredible 22-year career",
+      "summary": "Sheffield United legend Billy Sharp announces his retirement from football at the age of 40.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7vpzzj0502o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T10:49:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "19f0cafa079c99",
+      "title": "Russo named England player of the year",
+      "summary": "Arsenal forward Alessia Russo is named England women's player of the year after scoring five goals in 10 games.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T10:35:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6c5c39b410239a",
+      "title": "Parlour insists Arsenal star ‘has to do better’ after failing to do his job vs Leeds",
+      "summary": "Ray Parlour has taken aim at the Arsenal star for failing to do his job properly in the Gunners’ comeback victory over Leeds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-star-has-to-do-better-failing-job-leeds",
+      "publishedAt": "2026-10-11T10:18:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1109c0f64876d7",
+      "title": "Former Man City star hits out at FFP rules as 530-word ‘very simple solution’ detailed",
+      "summary": "Ex-Manchester City star Danny Mills insists club owners should be able to “spend whatever they want” as he hit out at the FFP rules in a 530-word “solution”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/former-man-city-star-hits-out-at-ffp-rules-as-530-word-very-simple-solution-detailed",
+      "publishedAt": "2026-10-11T09:53:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "67b69a3bcd97af",
+      "title": "Shearer hails ‘nasty’ Chelsea star for ‘superb’ display in thumping Bournemouth win",
+      "summary": "Alan Shearer has heaped praise on one Chelsea star who showed his “nasty” side in the Blues’ 5-1 win over Bournemouth.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/shearer-nast-chelsea-star-superb-bournemouth-win",
+      "publishedAt": "2026-10-11T08:42:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "86858b9009d7eb",
+      "title": "Highlights and analysis on Match of the Day",
+      "summary": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T08:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f42ead2a693b62",
+      "title": "Neville blasts Man Utd ‘in hibernation’ under Carrick; he’s ‘seen enough’ of Red Devils pair",
+      "summary": "Gary Neville has “seen enough” of two Manchester United players as he hit out at the Red Devils “in hibernation” under Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/neville-man-utd-hibernation-carrick-seen-enough-red-devils-pair",
+      "publishedAt": "2026-10-11T07:03:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9b88986dc0cd48",
+      "title": "Ranking the funniest possible outcomes of Liverpool v Man City",
+      "summary": "Manchester City travel to Liverpool on Sunday after a three-week build-up of hype, but what is the objectively funniest outcome?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-the-funniest-possible-outcomes-liverpool-manchester-city",
+      "publishedAt": "2026-10-11T06:15:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "47a80075f2325e",
+      "title": "Top five Liverpool-Man City moments",
+      "summary": "Relive five classic moments between Liverpool and Manchester City before Sunday's Premier League game at Anfield (16:30 BST).",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg0m1my97go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T05:37:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "79458730acc3b0",
+      "title": "Toxicity and uncertainty await Man City - will their season even matter?",
+      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T05:27:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
@@ -204,20 +338,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "86858b9009d7eb",
-      "title": "Highlights and analysis on Match of the Day",
-      "summary": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top flight returns",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T22:50:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
       ]
     },
     {
@@ -445,19 +565,6 @@
       ]
     },
     {
-      "id": "e5a427994ee5dd",
-      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
-      "summary": "Tottenham score an injury-time equaliser against Manchester United after Rodrigo Bentancur was sent off for headbutting Luke Shaw.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T18:46:40.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "5df4365ac6be58",
       "title": "Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa",
       "summary": "Álvaro Arbeloa bristled at suggestions he cannot handle the pressure after Fulham’s at Ipswich extended their winless start in the Premier League to six matches. The fo...",
@@ -485,115 +592,6 @@
       "tags": [
         "Bundesliga",
         "Bayern"
-      ]
-    },
-    {
-      "id": "fcd968eeb88496",
-      "title": "The rock behind Chelsea's entertainers: Midfield duo key for Blues",
-      "summary": "The performances of Jordan Henderson and Moises Caicedo underpinned Chelsea's 5-1 victory at home to Bournemouth on Saturday afternoon.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T18:09:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8da027214503a3",
-      "title": "Carlos Baleba names Man Utd teammate who has impressed him the most in training – ‘faster than me’",
-      "summary": "Manchester United duo Carlos Baleba and Amad Diallo have raved about one of their teammates who has hugely impressed them.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carlos-baleba-kobbie-mainoo-amad-diallo-manchester-united",
-      "publishedAt": "2026-10-10T17:56:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ed80cac7eb0030",
-      "title": "Ronaldo provisionally suspended by Portuguese FA",
-      "summary": "Cristiano Ronaldo has been provisionally suspended by the Portuguese Football Federation (FPF) after leaving his country's international camp last month.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g13909lp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T17:37:24.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "b3f20b5f66ec64",
-      "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-      "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T17:07:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "0f4352c64ee343",
-      "title": "Paul Merson says £115m Chelsea midfielder ‘best in the world’ after Bournemouth win",
-      "summary": "Sky Sports pundit Paul Merson was blown away by a Chelsea star’s performance against Bournemouth in the Premier League on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/moises-caicedo-chelsea-bournemouth-paul-merson-verdict",
-      "publishedAt": "2026-10-10T16:46:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6253a0ade40646",
-      "title": "Henderson and João Pedro lead Chelsea charge against Bournemouth",
-      "summary": "Watch and learn, kids. The day began with one for the youth audience, Cole Palmer appearing on a live stream to explain the thinking behind his latest contract extensio...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/10/chelsea-bournemouth-premier-league-match-report",
-      "publishedAt": "2026-10-10T16:18:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "fdfc0ffd04e457",
-      "title": "Why the Premier League needs spinning top Chelsea and Jordan Hendiesta right now",
-      "summary": "Chelsea are wonderfully predictable for both good and bad, and the Premier League needs that certainty right now.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/why-the-premier-league-needs-chelsea-henderson",
-      "publishedAt": "2026-10-10T16:17:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5a0fb016b4a110",
-      "title": "Aston Villa’s wait for home win goes on after Ajer hits back for Brentford",
-      "summary": "Kristoffer Ajer spent a chunk of the extended international window fielding questions about the state of mind of his Norway teammate Erling Haaland and perhaps in recen...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/10/aston-villa-brentford-premier-league-match-report",
-      "publishedAt": "2026-10-10T16:09:59.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
       ]
     }
   ],
