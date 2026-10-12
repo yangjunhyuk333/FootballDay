@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:40:51.283Z",
+  "generatedAt": "2026-10-12T05:14:46.548Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,38 @@
       "pinned": true
     },
     {
+      "id": "838c896d4cc3d7",
+      "title": "'Do these games even matter?' - Carra demands speedy Man City resolution",
+      "summary": "Jamie Carragher says the country's feelings towards Manchester City will only grow unless the case is swiftly resolved. Listen to the Gary Neville podcast in full on Sk...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13597948/carra-demands-speedy-city-resolution-do-these-games-even-matter",
+      "publishedAt": "2026-10-12T05:14:46.090Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0fc283a9d53413",
+      "title": "Papers: Forest Green Rovers reveal unique plan to replace Savage",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13597992/forest-green-rovers-to-operate-without-a-single-manager-after-robbie-savages-departure-to-peterborough-paper-talk",
+      "publishedAt": "2026-10-12T05:14:46.089Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "61ed7bce4b103a",
       "title": "Man City issue on-field statement by beating 10-man Liverpool",
       "summary": "Manchester City shut out all the noise and controversy to overcome a hostile Anfield atmosphere and beat 10-man Liverpool 3-0 on their return to Premier League action.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-manchester-city/report/559501",
-      "publishedAt": "2026-10-11T21:40:50.804Z",
+      "publishedAt": "2026-10-12T05:14:46.089Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -119,7 +145,7 @@
       "summary": "Jamie Carragher and Daniel Sturridge discussed Florian Wirtz's form for Liverpool and debated whether his lack of goals and assists are down to him playing in an unfami...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13597963/jamie-carragher-and-daniel-sturridge-clash-over-florian-wirtz-form",
-      "publishedAt": "2026-10-11T21:40:50.804Z",
+      "publishedAt": "2026-10-12T05:14:46.089Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -132,7 +158,7 @@
       "summary": "Jamie Carragher says it's justified to criticise Florian Wirtz after he has been given so many chances and he must come out of Liverpool's starting line-up. Listen to t...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13597964/jamie-carragher-calls-for-florian-wirtz-to-be-dropped-has-he-dominated-one-game-for-liverpool",
-      "publishedAt": "2026-10-11T21:40:50.804Z",
+      "publishedAt": "2026-10-12T05:14:46.089Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -145,24 +171,11 @@
       "summary": "Gary Neville and Jamie Carragher say the Manchester City owners must go following the club being found guilty of all charges related to serious breaches of Premier Leag...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13597954/gary-neville-and-jamie-carragher-say-manchester-city-owners-must-go-thats-the-stain-on-the-club-right-now",
-      "publishedAt": "2026-10-11T21:40:50.804Z",
+      "publishedAt": "2026-10-12T05:14:46.089Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "838c896d4cc3d7",
-      "title": "'Do these games even matter?' - Carra demands speedy Man City resolution",
-      "summary": "Jamie Carragher says the country's feelings towards Manchester City will only grow unless the case is swiftly resolved. Listen to the Gary Neville podcast in full on Sk...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13597948/carra-demands-speedy-city-resolution-do-these-games-even-matter",
-      "publishedAt": "2026-10-11T21:40:50.804Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     },
@@ -172,7 +185,7 @@
       "summary": "The chant from The Kop went up early. \"You haven't won a trophy since 1976.\" It was a reference to Manchester City's League Cup triumph, the last major honour that the...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13593871/liverpool-0-3-man-city-anfield-delivers-own-verdict-on-premier-league-ruling-but-city-are-defiant-and-top-of-the-table",
-      "publishedAt": "2026-10-11T21:40:50.803Z",
+      "publishedAt": "2026-10-12T05:14:46.088Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -185,7 +198,7 @@
       "summary": "Ryan Gravenberch's sending off in Liverpool's 3-0 home defeat to Manchester City was a \"shocking decision\" by referee Chris Kavanagh, according to Sky Sports pundit Jam...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13597935/liverpool-0-3-man-city-ryan-gravenberchs-sending-off-in-premier-league-defeat-criticised-by-jamie-carragher",
-      "publishedAt": "2026-10-11T21:40:50.803Z",
+      "publishedAt": "2026-10-12T05:14:46.088Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -199,12 +212,54 @@
       "summary": "Lazio fly high in Serie A, Freiburg lead Bundesliga, Betis go third in Spain",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-10-11T21:40:50.802Z",
+      "publishedAt": "2026-10-12T05:14:46.087Z",
       "category": "transfer",
       "region": "spain italy germany",
       "tags": [
         "Serie A",
         "Bundesliga"
+      ]
+    },
+    {
+      "id": "7d79cf1d27b23a",
+      "title": "'It's a bad situation' - Why Man City win creates uncertainty",
+      "summary": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the c...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:23:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "98e42c1cecc8cb",
+      "title": "'Big star' - How Doku delivered for Man City in win against Liverpool",
+      "summary": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld analyse how Jeremy Doku changed the game in Manchester City's favour, after coming on as a substitute i...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:00:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0262f64cf683ed",
+      "title": "Coventry City v Newcastle: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Coventry City and Newcastle.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/coventry-city-v-newcastle-prediction-preview",
+      "publishedAt": "2026-10-11T21:56:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -339,6 +394,20 @@
       "tags": [
         "Premier League",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "d1812ff460c41c",
+      "title": "Football Daily",
+      "summary": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the latest Premier League action.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pg61sx?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T19:39:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
       ]
     },
     {
@@ -529,7 +598,7 @@
     {
       "id": "9788b071478a70",
       "title": "Tension, ‘cheat’ banners and inflatable bananas: Manchester City’s welcome to Anfield",
-      "summary": "An incendiary atmosphere greeted the former Premier League champions for their first game since being found guilty of breaking financial fair play rules Fans lined the...",
+      "summary": "A lively atmosphere greeted the former Premier League champions for their first game since being found guilty of breaking financial fair play rules Fans lined the stree...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/11/tension-banners-and-inflatable-bananas-manchester-citys-welcome-to-anfield",
       "publishedAt": "2026-10-11T16:50:12.000Z",
@@ -539,73 +608,6 @@
         "Football",
         "Premier League",
         "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "521a6e996c6f63",
-      "title": "Hughes focused on Albania before World Cup dream",
-      "summary": "Wales forward Elise Hughes admits reaching the World Cup would fulfil a lifelong ambition.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4ngv99mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T16:08:42.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "2d555e773ba647",
-      "title": "Everton still in search of true direction as Hull draw marks end of puzzling week",
-      "summary": "It has been another confusing week in the recent history of Everton Football Club. A topsy-turvy draw with Hull City offered some redeeming signs, but more questions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/hull-city-everton-premier-league-match-reaction",
-      "publishedAt": "2026-10-11T15:28:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "dde371ad1abab4",
-      "title": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
-      "summary": "Hull retained their unbeaten home record since returning to the Premier League with an entertaining draw against Everton at the MKM Stadium. Brennan Johnson found the n...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
-      "publishedAt": "2026-10-11T15:13:30.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4d0895e673f500",
-      "title": "Arsenal star told he’s ‘not the player that he was’ in damning verdict after Leeds victory",
-      "summary": "Arsenal legend David O’Leary insists Bukayo Saka isn’t the “player that he was” and needs to “step up” as the Gunners look to retain the title.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-saka-damning-verdict-leeds",
-      "publishedAt": "2026-10-11T15:07:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3ff2b3c5da4349",
-      "title": "Man City FFP: ‘Devastated’ Micah Richards feels ‘let down’ by owners for one key reason",
-      "summary": "Micah Richards is “devastated” that Manchester City have been found guilty and feels “let down” by his former club for one key reason.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-devastated-micah-richards-let-down-key-reason",
-      "publishedAt": "2026-10-11T14:15:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     }
