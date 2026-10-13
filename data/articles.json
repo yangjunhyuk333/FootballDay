@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:23:00.976Z",
+  "generatedAt": "2026-10-13T13:52:39.402Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,64 +99,12 @@
       "pinned": true
     },
     {
-      "id": "f048d44bc70f1b",
-      "title": "Coventry stun Newcastle in game of spectacular goals!",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Coventry City and Newcastle United.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13598341/coventry-city-4-1-newcastle-united-premier-league-highlights",
-      "publishedAt": "2026-10-13T00:23:00.443Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "16c02c968cad3d",
-      "title": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
-      "summary": "Jack Rudoni scores Coventry's first Premier League home goal for more than 25 years!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle",
-      "publishedAt": "2026-10-13T00:23:00.442Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9dec6db9ada7b4",
-      "title": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk",
-      "publishedAt": "2026-10-13T00:23:00.442Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e0db37cd8081e2",
-      "title": "Suljovic apologises but faces probe over inciting jeers and alleged sexist comments",
-      "summary": "Mensur Suljovic's crowd incitement during his match against Ross Smith and his alleged sexist comments in his on-stage interview regarding the incident have been referr...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13598173/mensur-suljovic-referred-to-darts-regulator-for-inciting-jeers-against-ross-smith-and-alleged-sexist-comments-as-austrian-issues-apology",
-      "publishedAt": "2026-10-13T00:23:00.442Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "5776bd34b7ccfb",
       "title": "Coventry thump Newcastle for first home win to move out of drop zone",
       "summary": "Coventry made it back-to-back Premier League wins with a thumping 4-1 home victory over Newcastle to move Frank Lampard's side out of the relegation zone.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
-      "publishedAt": "2026-10-13T00:23:00.441Z",
+      "publishedAt": "2026-10-13T13:52:39.073Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -164,25 +112,256 @@
       ]
     },
     {
-      "id": "f5c550fe341ea0",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "id": "6a55390a214f2f",
+      "title": "Lewis left out of England's World Cup opener",
+      "summary": "Mikey Lewis has been left out of England's squad for their Rugby League World Cup opener against Tonga, while Jack Welsby has been named on the bench by head coach Bria...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13598707/rugby-league-world-cup-mikey-lewis-has-been-left-out-of-englands-opening-match-against-tonga-on-saturday",
+      "publishedAt": "2026-10-13T13:52:39.073Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d4de893eb36b3d",
+      "title": "Infantino under pressure after second £1.3m salary revealed",
+      "summary": "FIFA president Gianni Infantino is under increasing pressure to resign after it was revealed that he received an undeclared second salary of £1.3m in 2024.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13598724/gianni-infantino-fifa-president-received-undeclared-second-salary-payment-of-1-3m-from-world-cup-company",
+      "publishedAt": "2026-10-13T13:52:39.072Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "bd7c1d36d31cb2",
+      "title": "'Criticised for what?' – Maresca stands by Man City's Anfield celebrations",
+      "summary": "Enzo Maresca has defended his side after Manchester City were criticised for their 'wild' celebrations at Anfield following their 3-0 win over Liverpool.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13598800/man-city-enzo-maresca-defends-anfield-celebrations",
+      "publishedAt": "2026-10-13T13:52:39.072Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d66261fa44d206",
+      "title": "Why Brighton are the best team in the Premier League right now",
+      "summary": "Jaouen Hadjam needed only 309 seconds of his Premier League debut to score Brighton’s second goal in their 2-0 win over Sunderland on Saturday. In doing so, he became t...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
+      "publishedAt": "2026-10-13T13:52:39.072Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "cc2fd4c4a6f5a1",
+      "title": "'What do you want us to do?' - Maresca defends Anfield celebrations",
+      "summary": "Manchester City boss Enzo Maresca has defended the post-match celebrations of his squad following their 3-0 win at Liverpool on Sunday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict",
+      "publishedAt": "2026-10-13T13:52:39.071Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "33f815e7bb29fe",
+      "title": "Real Madrid confident they’ll sign JJ Gabriel as five Man Utd demands revealed",
+      "summary": "Madrid believe they have overtaken Barca in the race for the teenage sensation, while his five demands to United have also emerged",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-news-jj-gabriel-real-madrid-confident-signing-five-demands-revealed",
+      "publishedAt": "2026-10-13T13:49:07.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c7e85b7b582efb",
+      "title": "Man City FFP: How City breaches cost clubs £844m with Tottenham way clear as ‘most impacted’ team",
+      "summary": "A new report has revealed how Manchester City’s FFP breaches may have cost clubs £844m, with Tottenham Hotspur the ‘most impacted’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-how-city-breaches-cost-clubs-844m-tottenham-most-impacted-team",
+      "publishedAt": "2026-10-13T13:28:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "df58006bfb3fce",
+      "title": "The 15 best footballers out of contract and available for free NOW",
+      "summary": "As clubs get very desperate as we enter October, a few of these players might get a desperate phone call…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-footballers-available-free-transfers-contract-summer-2026",
+      "publishedAt": "2026-10-13T13:20:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "767b7e8106acdb",
+      "title": "'Criticised for what?' - Maresca defends Anfield celebrations",
+      "summary": "Manager Enzo Maresca reacts to criticism of Manchester City's celebrations after their win at Liverpool by saying: \"What do you want us to do?\"",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T22:25:57.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T13:04:04.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d7c935741ea136",
+      "title": "Antonio Valencia says £68m Man Utd star is ‘world class’ but INEOS could sell him",
+      "summary": "Antonio Valencia has raved about a Manchester United star who he believes is “incredible” and is one of the best players in the world.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/antonio-valencia-bruno-fernandes-manchester-united",
+      "publishedAt": "2026-10-13T12:55:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9e45758f7342bb",
+      "title": "Man City vs Arsenal: Gerrard, Owen now make U-turn on Premier League title prediction – ‘I had my doubts’",
+      "summary": "Steven Gerrard and Michael Owen have now made a U-turn on the Premier League title race between Manchester City and Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-arsenal-gerrard-owen-now-make-u-turn-premier-league-title-prediction",
+      "publishedAt": "2026-10-13T12:47:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f98bcca5f3fbb",
+      "title": "Paul Scholes delivers verdict on Man Utd appointing ‘real deal’ PL manager to replace Michael Carrick",
+      "summary": "Paul Scholes has commented on whether Manchester United should appoint Brighton boss Fabian Hurzeler to replace Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/scholes-delivers-verdict-man-utd-appointing-real-deal-pl-manager-replace-carrick",
+      "publishedAt": "2026-10-13T12:10:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "666e4e4af71686",
+      "title": "Why are some football shin pads so small?",
+      "summary": "Our Ask Me Anything team explore why some football shin pads are so small, and what the laws are around wearing them.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8d75jn2057o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T12:04:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "6def7ab52b86ae",
+      "title": "Huge night for Women's World Cup hopes - how are home nations set?",
+      "summary": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are under way in their Women's World Cup play-offs. How are their prospects looking?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T11:43:31.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e4b4697ef637d4",
+      "title": "Scholes says Man Utd will ‘never win Premier League’ with star guilty of ‘criminal’ blunder",
+      "summary": "Scholes has blasted a United starter and told the club the signings they need to make if they want to be ‘successful’ and challenge for future Premier League titles",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-paul-scholes-lisandro-martinez-criticism-never-win-premier-league-criminal-mistake",
+      "publishedAt": "2026-10-13T11:36:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "33cb46506347bd",
+      "title": "Paul Scholes reveals perfect transfer for Florian Wirtz as another Reds star told he is ‘not Liverpool standard’",
+      "summary": "Paul Scholes has revealed the perfect transfer for Liverpool star Florian Wirtz, while another player has ‘no future’ under Andoni Iraola.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-scholes-reveals-perfect-transfer-little-kid-wirtz-recent-signing-no-future-iraola",
+      "publishedAt": "2026-10-13T11:10:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "37ef539f7605bb",
+      "title": "Manchester City v PSG is a reminder of the path not taken in sanctions battles",
+      "summary": "Gulf-owned clubs have faced Uefa scrutiny – their different approaches since have left one at the top table and one raging against the machine Nasser al-Khelaifi was am...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/13/champions-league-manchester-city-psg-uefa-sanctions-nasser-al-khelaifi-khaldoon-al-mubarak",
+      "publishedAt": "2026-10-13T11:00:55.000Z",
+      "category": "ucl",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "02df1aecfcb18b",
+      "title": "Manchester City players obliterated – ‘no shame or no short-term memory’",
+      "summary": "Manchester City players have been slammed for celebrating victory over Liverpool at Anfield – what exactly were they expected to do?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-city-players-obliterated-liverpool-anfield-no-shame",
+      "publishedAt": "2026-10-13T10:46:42.000Z",
       "category": "ratings",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
-      "id": "0a4a8e5e519a7f",
-      "title": "Gerrard insists big-money summer signing is ‘not a Manchester United player’",
-      "summary": "“Manchester United need world-class midfielders, potential ones, or ones that are already ready to play at that level.”",
+      "id": "7c692339258b5d",
+      "title": "Eddie Howe reaches decision on joining Man Utd as he receives ‘approach’ and is ‘ready to return’",
+      "summary": "According to reports, ex-Newcastle United boss Eddie Howe is ‘ready to return’ to management and has reached a verdict on joining Manchester United.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/gerrard-big-money-summer-signing-not-man-utd-player",
-      "publishedAt": "2026-10-12T22:15:12.000Z",
+      "url": "https://www.football365.com/news/eddie-howe-reaches-decision-joining-man-utd-receives-approach-ready-to-return",
+      "publishedAt": "2026-10-13T10:39:20.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -190,192 +369,41 @@
       ]
     },
     {
-      "id": "6cee6b8367dad6",
-      "title": "Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
-      "summary": "Kick-off put back by an hour after attack intercepted Portuguese forward scores in Al-Nassr’s 3-1 victory Cristiano Ronaldo’s Al-Nassr had their Asian Champions League...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
-      "publishedAt": "2026-10-12T22:11:56.000Z",
-      "category": "ucl",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "08d00a34df7f8e",
-      "title": "Coventry thrash Newcastle to claim first home win of season",
-      "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T21:35:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "d1f1d5cb79a7f3",
-      "title": "Carrick promises Manchester United will ‘come out fighting’ after sticky start",
-      "summary": "United have endured worst league start since 1986-87 Trip to Atlético in Champions League awaits on Tuesday Manchester United have endured their worst league start in 4...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/michael-carrick-manchester-united-no-negativity-atletico-madrid",
-      "publishedAt": "2026-10-12T20:52:16.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e0aff6c3188133",
-      "title": "Man Utd eye Simeone - Tuesday's gossip",
-      "summary": "Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T20:49:48.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Premier League",
-        "Chelsea",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "aefbcfeb6b33df",
-      "title": "Football Daily",
-      "summary": "Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pgc622?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T20:45:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "bbe1923465fb09",
-      "title": "Arsenal overtake Barcelona in Julian Alvarez race as stunning price-drop revealed",
-      "summary": "Alvarez has reportedly parted ways with his agent to secure a blockbuster transfer in 2027 as Arsenal compete with Barcelona for his signature",
+      "id": "3fb70280ea6189",
+      "title": "Man Utd in for €100m Bayern Munich star after admitting double transfer mistake",
+      "summary": "United ‘privately accept they fell short’ in the summer window, and they are reportedly looking to rectify the situation with a stunning Bayern raid",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-news-julian-alvarez-overtake-barcelona-huge-price-drop-atletico-madrid",
-      "publishedAt": "2026-10-12T20:30:34.000Z",
+      "url": "https://www.football365.com/news/man-utd-news-aleksandar-pavlovic-target-bayern-munich-double-transfer-mistake",
+      "publishedAt": "2026-10-13T10:22:52.000Z",
       "category": "transfer",
-      "region": "england spain",
+      "region": "germany",
       "tags": [
         "Transfer",
-        "Arsenal",
-        "Barcelona"
+        "Bayern"
       ]
     },
     {
-      "id": "bd86b7d97456f3",
-      "title": "Gerrard insists Liverpool were ‘fantastic’ vs Man City as he ‘puts money’ on new title winners",
-      "summary": "Steven Gerrard’s Liverpool expectations have clearly plummeted as the Reds icon insisted his former side were “fantastic” in defeat to Manchester City on Sunday.",
+      "id": "b853fea9a9d477",
+      "title": "Chelsea ‘interested’ in rescuing Florian Wirtz after Liverpool teammates give up",
+      "summary": "Chelsea are among four gigantic clubs interested in signing Florian Wirtz amid growing evidence the German’s Liverpool teammates have had enough.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/gerrard-liverpool-fantastic-man-city-puts-money-new-title-winners",
-      "publishedAt": "2026-10-12T18:33:15.000Z",
+      "url": "https://www.football365.com/news/chelsea-interested-rescuing-florian-wirtz-liverpool-teammates-give-up",
+      "publishedAt": "2026-10-13T10:15:33.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
+        "Chelsea",
         "Liverpool",
-        "Manchester"
+        "Inter"
       ]
     },
     {
-      "id": "43accad616c8b0",
-      "title": "BBC Women's Football Weekly",
-      "summary": "How can Sarina Wiegman’s side become more ruthless in the final third?",
+      "id": "1b38f1484d3514",
+      "title": "Were any current Man City players signed during charges period?",
+      "summary": "BBC Sport's Ask Me Anything team looks at whether any Manchester City players were signed during the time the club have been found guilty of breaching the Premier Leagu...",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pgbr8n?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T18:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b4589fcced943d",
-      "title": "Man City bananas 'brought fun back', says Varadi",
-      "summary": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans waving inflatable bananas at Anfield and feels it \"brought a lot of fun back\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvgx7e5y5gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:57:10.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "548b668b8ba1f0",
-      "title": "Burnham had formal meeting with Man City chair while mayor",
-      "summary": "Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Mancheste...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:09:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2b4bc465752c56",
-      "title": "Do Lionesses lack ruthlessness in front of goal?",
-      "summary": "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T16:54:32.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1ab3d85861b94b",
-      "title": "McCabe and O'Sullivan to feature in Cork - Ward",
-      "summary": "Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature in the second leg of their Women's World Cup play-off against Kazak...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l3p3ve8g9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T16:01:17.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "b097c26d7374a2",
-      "title": "Wirtz, Barcola issues at Liverpool spark new Michael Owen theory",
-      "summary": "Michael Owen has explained why he thinks Wirtz and Barcola will struggle to ‘justify’ their huge price tags at Liverpool",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-news-florian-wirtz-struggles-bradley-barcola-michael-owen-theory",
-      "publishedAt": "2026-10-12T15:54:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "690f8084d19d49",
-      "title": "Gary Neville asks Sky Sports to take him off Man City games while ‘huge cloud hangs over Premier League’",
-      "summary": "Gary Neville doesn’t want to be on Sky Sports duty for Manchester City games while their punishment for breaching Premier League rules is undecided.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-neville-sky-sports-off-man-city-games-huge-cloud-premier-league",
-      "publishedAt": "2026-10-12T15:47:50.000Z",
+      "url": "https://www.bbc.co.uk/sport/articles/cmje5wl5ek32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T10:13:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -384,38 +412,12 @@
       ]
     },
     {
-      "id": "86236e651b03a0",
-      "title": "Northern Ireland will have 'one last swing' at World Cup place",
-      "summary": "Boss Michael McArdle says Northern Ireland will have \"one last swing\" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T15:46:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "035a2ff53f022e",
-      "title": "Wales wary but eye record run in World Cup bid",
-      "summary": "Rhian Wilkinson warns favourites Wales not to underestimate Albania in the second leg of their World Cup play-off semi-final.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T15:31:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ba39d7dc635948",
-      "title": "PL execs consider ‘voting to suspend’ Man City before appeal and sanction verdicts after Anfield ‘farce’",
-      "summary": "A number of PL executives are ‘messaging’ each other as they consider ‘simply suspending Manchester City from the competition now’ rather than waiting for the independe...",
+      "id": "57c64480d0e759",
+      "title": "Man Utd: Shock Carrick admission on being manager revealed as ‘explosion’ with ‘fed up’ star imminent",
+      "summary": "It has been claimed that Michael Carrick admitted that management is “not” for him before he returned to Manchester United last season.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/pl-execs-consider-voting-to-suspend-man-city-before-appeal-and-sanction-verdicts-after-anfield-farce",
-      "publishedAt": "2026-10-12T15:21:10.000Z",
+      "url": "https://www.football365.com/news/man-utd-shock-carrick-admission-manager-revealed-explosion-fed-up-star-imminent",
+      "publishedAt": "2026-10-13T10:10:41.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -423,69 +425,12 @@
       ]
     },
     {
-      "id": "5231b56521c938",
-      "title": "Hincapié and Zubimendi out after warm-down injuries but Arsenal get Saliba boost",
-      "summary": "Defender and midfielder hurt after win against Leeds Saliba resumes training on his own after back injury Mikel Arteta has admitted frustration after Piero Hincapié and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/piero-hincapie-martin-zubimendi-injuries-warm-down-arsenal-mikel-arteta-william-saliba",
-      "publishedAt": "2026-10-12T15:01:34.000Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "808da75a0caffa",
-      "title": "Alcohol allowed at seats for Scotland's World Cup play-off",
-      "summary": "Spectators will be able to consume alcohol at their seats when Scotland host the Czech Republic in the second leg of their Women's World Cup play-off in Paisley on Tues...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T15:01:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c066fbdd8b5b0a",
-      "title": "Police officer hurt after Liverpool-Man City game",
-      "summary": "Ten people were arrested amid a heightened atmosphere when the rival teams met at Anfield on Sunday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23ekvp3ywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T14:53:50.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "077cc2cf028a2a",
-      "title": "Football Daily | Manchester City, Liverpool and the multibillion-pound mirage",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! While it was hardly Boca Juniors v River Plate at La Bombonera, Sunday’s eagerly anticipated match between Liverpool...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/football-daily-email-manchester-city-liverpool",
-      "publishedAt": "2026-10-12T14:47:46.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "12c87893a34797",
-      "title": "Man Utd reach decision on sacking Michael Carrick as huge Antonio Conte ‘agreement’ claim emerges",
-      "summary": "Manchester United have reportedly decided to stick with head coach Michael Carrick, though there is an update on Antonio Conte.",
+      "id": "a7a29a562ad062",
+      "title": "Man City FFP: City set for ‘punished but not destroyed’ sanction amid ‘100%’ claim on Haaland next move",
+      "summary": "It is felt that Manchester City will be ‘punished but not destroyed’ if their guilty FFP verdict stands after an appeal.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-reach-decision-sacking-michael-carrick-antonio-conte-agreement-claim",
-      "publishedAt": "2026-10-12T14:37:13.000Z",
+      "url": "https://www.football365.com/news/man-city-ffp-city-punished-not-destroyed-sanction-haaland-next-move",
+      "publishedAt": "2026-10-13T09:30:13.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -493,83 +438,12 @@
       ]
     },
     {
-      "id": "4715fab43d197d",
-      "title": "Six questions facing England as they target next year’s Women’s World Cup",
-      "summary": "Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air England have two jobs to do on Tuesday. The first...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/england-next-summer-womens-world-cup",
-      "publishedAt": "2026-10-12T14:33:15.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4d3254daddc1d6",
-      "title": "Football regulator to recommend cost controls in landmark report with 94% of clubs making loss",
-      "summary": "Report published on Tuesday before consultation period It will have recommendations to improve sustainability The Independent Football Regulator (IFR) is to recommend c...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/football-regulator-cost-controls-report-state-of-the-game",
-      "publishedAt": "2026-10-12T14:28:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "6b64841f89706e",
-      "title": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson",
-      "summary": "It’s not just that the club’s recent charges themselves are unprecedented – it’s the language used to describe them too Sign up for our free newsletter here The languag...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language",
-      "publishedAt": "2026-10-12T14:24:02.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester",
-        "Psg"
-      ]
-    },
-    {
-      "id": "ddb777857680cc",
-      "title": "Man City v PSG: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between Manchester City and PSG.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/man-city-v-psg-prediction-team-news-lineups-and-odds",
-      "publishedAt": "2026-10-12T14:23:13.000Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Champions League",
-        "Manchester",
-        "Psg"
-      ]
-    },
-    {
-      "id": "8d171c7002498c",
-      "title": "Hincapie and Zubimendi injured in post-match training session",
-      "summary": "Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
+      "id": "19d99b0b998afd",
+      "title": "Ronaldo scores after match delayed by missile alert",
+      "summary": "Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by an hour because of a missile alert in Riyadh.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T14:22:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2af3a84b77ba31",
-      "title": "Aston Villa v Fenerbahce: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between Aston Villa and Fenerbahce.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/aston-villa-v-fenerbahce-prediction-team-news-lineups-and-odds",
-      "publishedAt": "2026-10-12T14:14:29.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T09:23:28.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -577,17 +451,143 @@
       ]
     },
     {
-      "id": "5e37637229a348",
-      "title": "LASK v Liverpool: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between LASK and Liverpool.",
+      "id": "675b7cabe71942",
+      "title": "After 27 titles in 23 years at Real Madrid, Carvajal joins Getafe",
+      "summary": "Former Real Madrid captain Dani Carvajal joins Getafe as a free agent after his contract expired in June.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T09:21:36.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "a4f50e2cfd46d2",
+      "title": "The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu",
+      "summary": "France’s always-cool winger has crowds hanging on his every move – adulation that means more than any title could When I was younger, I wanted to be the captain on my f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium",
+      "publishedAt": "2026-10-13T09:00:20.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "7b698505b0e2b7",
+      "title": "Christian Pulisic is no longer a focal point for the US or Milan – and that’s OK",
+      "summary": "The winger is 28, and younger teammates are rising into the high-pressure spots he has usually occupied Usually, the second weekend of October sees Christian Pulisic fl...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/13/christian-pulisic-focal-point-milan-usmnt",
+      "publishedAt": "2026-10-13T09:00:20.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Fifa",
+        "Milan"
+      ]
+    },
+    {
+      "id": "5bddfbc89123d8",
+      "title": "PSG now ‘shock suitors’ to sign Man Utd star as INEOS to ‘bin him off’ on two conditions",
+      "summary": "According to reports, Paris Saint-Germain are now ‘shock suitors’ for Manchester United star Leny Yoro, who could be sold on two conditions.",
       "source": "Football365",
-      "url": "https://www.football365.com/match-preview/lask-v-liverpool-prediction-team-news-lineups-and-odds",
-      "publishedAt": "2026-10-12T13:59:42.000Z",
+      "url": "https://www.football365.com/news/psg-now-shock-suitors-sign-man-utd-star-ineos-bin-him-off-two-conditions",
+      "publishedAt": "2026-10-13T08:56:16.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Manchester",
+        "Psg"
+      ]
+    },
+    {
+      "id": "cff2058adafe40",
+      "title": "Liverpool ridiculously bought a £100m-plus reserve in Barcola and it shows…",
+      "summary": "PSG are no mugs and their desire to cash in on Bradley Barcola is already looking a wise move.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-123m-barcola-bradley-problem-psg",
+      "publishedAt": "2026-10-13T08:42:21.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "d0a36f39fc37cc",
+      "title": "Best Premier League transfers of the season XI: Tottenham man is in!",
+      "summary": "Which new players have made the biggest impact in the Premier League this season and what would it look like if we put them all in one team?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/best-premier-league-signings-2026-27-season",
+      "publishedAt": "2026-10-13T08:35:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "c90d24b1baf3ec",
+      "title": "Man Utd to ‘attack’ January window as Fabrizio Romano tips multiple signings",
+      "summary": "Man Utd plan to “attack” the January transfer window and multiple arrivals are possible, though only if two things happen, according to Fabrizio Romano.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-attack-january-window-fabrizio-romano-multiple-signings",
+      "publishedAt": "2026-10-13T08:31:26.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "1afb547d75003b",
+      "title": "Next Man Utd manager INEOS will ‘probably’ appoint named with Carrick ‘in trouble’ as players ‘don’t care’",
+      "summary": "Paul Merson thinks Manchester United will “probably” appoint Eddie Howe after Michael Carrick, with the head coach facing a “nightmare week”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-man-utd-manager-ineos-appoint-named-carrick-trouble-players-dont-care",
+      "publishedAt": "2026-10-13T08:28:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f87636844dfabe",
+      "title": "How much did Man City's rule breaking cost your team?",
+      "summary": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T08:12:53.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
+        "Premier League",
         "Champions League",
-        "Liverpool"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1727737a107ab8",
+      "title": "Man City FFP: Gerrard demands ‘strong’ two-part punishment and makes claim on ‘accepting PL medal’",
+      "summary": "Liverpool legend Steven Gerrard has revealed how he thinks Manchester City should be punished after the guilty FFP verdict.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-gerrard-demands-strong-two-part-punishment-claim-accepting-pl-medal",
+      "publishedAt": "2026-10-13T07:58:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
       ]
     }
   ],
