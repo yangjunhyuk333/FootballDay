@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-14T04:15:45.193Z",
+  "generatedAt": "2026-10-14T11:29:55.339Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,40 +99,25 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "ca3694a9c3b245",
-      "title": "Man Utd beaten by Atletico as Yoro controversially sent off",
-      "summary": "Ten-man Manchester United failed to ease the pressure on Michael Carrick as they were beaten 2-0 at Atletico Madrid in the Champions League after conceding in the first...",
+      "id": "a1dbe2e58aed38",
+      "title": "Saka struggling? He’s more of a threat than ever",
+      "summary": "Mikel Arteta challenged Bukayo Saka to start scoring \"two or three goals per game\" before Arsenal's meeting with Lille . The winger clearly was listening. He only neede...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/atletico-madrid-vs-manchester-united/report/577616",
-      "publishedAt": "2026-10-14T04:15:44.906Z",
-      "category": "ucl",
-      "region": "england spain",
+      "url": "https://www.skysports.com/football/news/12040/13599187/bukayo-saka-arsenal-winger-more-of-a-goal-threat-than-ever-and-proving-doubters-wrong-as-he-evolves",
+      "publishedAt": "2026-10-14T11:29:55.004Z",
+      "category": "transfer",
+      "region": "england france",
       "tags": [
-        "Champions League",
-        "Manchester"
+        "Arsenal"
       ]
     },
     {
-      "id": "cc2fd4c4a6f5a1",
-      "title": "'What do you want us to do?' - Maresca defends Anfield celebrations",
-      "summary": "Manchester City boss Enzo Maresca has defended the post-match celebrations of his squad following their 3-0 win at Liverpool on Sunday.",
+      "id": "71dd9634118b2d",
+      "title": "England Women's World Cup half-back dilemma",
+      "summary": "If there is one position that highlights the growth of the women's game in England, it is the competition for the half-back spot at the Rugby League World Cup.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict",
-      "publishedAt": "2026-10-14T04:15:44.906Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3f1caafb7c9cdb",
-      "title": "Russo, James both score twice as England beat Greece in World Cup play-off",
-      "summary": "Alessia Russo and Lauren James reiterated their importance to England as both scored twice in a 5-0 win against Greece in the second leg of their World Cup play-off fir...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/england-women-vs-greece-women/report/559088",
-      "publishedAt": "2026-10-14T04:15:44.906Z",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13596190/rugby-league-world-cup-england-women-face-halfback-selection-dilemma-as-jenna-foubister-izzy-rowe-and-georgia-roche-battle-for-spots",
+      "publishedAt": "2026-10-14T11:29:55.004Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -140,83 +125,42 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "eb8821f531c71b",
-      "title": "'No improvement!' - Clinton slams Man Utd as Atletico take lead after just 47 seconds",
-      "summary": "Clinton Morrison provides the latest update from Manchester United's 'nightmare start' against Atletico Madrid in the Champions League.",
+      "id": "70e5f678720247",
+      "title": "'Awful' and 'disrespectful' - Carra and Rooney criticise Martinez outburst",
+      "summary": "Jamie Carragher has branded Lisandro Martinez's comments criticising the Manchester United hierarchy as \"awful\" - saying the player should look at himself because of hi...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13598975/awful-start-no-improvement-clinton-morrison-slams-manchester-united-as-atletico-take-the-lead-in-their-champions-league-clash",
-      "publishedAt": "2026-10-14T04:15:44.906Z",
-      "category": "ucl",
-      "region": "england spain",
+      "url": "https://www.skysports.com/football/news/12040/13599115/lisandro-martinez-jamie-carragher-says-man-utd-defenders-comments-criticising-hierarchy-are-awful-as-wayne-rooney-brands-them-disrespectful",
+      "publishedAt": "2026-10-14T11:29:55.004Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
-        "Champions League",
         "Manchester"
       ]
     },
     {
-      "id": "0d8754bd7ce409",
-      "title": "Iraola has ‘100 per cent’ trust in Wirtz and Barcola",
-      "summary": "Liverpool head coach Andoni Iraola has “100 per cent” trust in Florian Wirtz and Bradley Barcola after the two £100m-plus signings came in for criticism.",
+      "id": "477299463e98b7",
+      "title": "Martinez's future at Man Utd in doubt after public outburst",
+      "summary": "Lisandro Martinez's Manchester United future has been called into question following his extraordinary criticism of the club's bosses, and there are real doubts about w...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598938/andoni-iraola-liverpool-boss-has-100-per-cent-trust-in-florian-wirtz-and-bradley-barcola",
-      "publishedAt": "2026-10-14T04:15:44.906Z",
+      "url": "https://www.skysports.com/football/news/12040/13599196/lisandro-martinez-future-of-defender-at-man-utd-in-doubt-following-public-outburst-directed-at-clubs-hierarchy",
+      "publishedAt": "2026-10-14T11:29:55.004Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4367d69288ebcb",
-      "title": "Martinez calls out Man Utd hierarchy",
-      "summary": "Manchester United's Lisandro Martinez launched an extraordinary attack on the club’s hierarchy after their 2-0 Champions League loss at Atletico Madrid.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598950/man-utd-defender-lisandro-martinez-extraordinarily-calls-out-clubs-hierarchy-after-atletico-madrid-loss-in-champions-league",
-      "publishedAt": "2026-10-14T04:15:44.905Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
         "Manchester"
       ]
     },
     {
-      "id": "d22b9ee00080b7",
-      "title": "Man Utd latest: VOTE! Do you agree with explosive Martinez interview?",
-      "summary": "Man Utd latest: VOTE! Do you agree with explosive Martinez interview?",
+      "id": "9f172931c9fbc7",
+      "title": "Papers: Bournemouth open to £100m Scott sale in January",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-14T04:15:44.905Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "51ade1ba550da4",
-      "title": "'State of the Game' report finds most English clubs living on financial brink",
-      "summary": "The Independent Football Regulator (IFR) has produced a 'State of the Game' report, which has taken a forensic look at English football over the past 18 months, conclud...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598894/state-of-the-game-independent-football-regulators-report-finds-most-english-clubs-living-on-financial-brink",
-      "publishedAt": "2026-10-14T04:15:44.905Z",
+      "url": "https://www.skysports.com/football/news/12040/13599140/alex-scott-transfer-news-bournemouth-open-to-100m-sale-of-england-international-in-january-paper-talk",
+      "publishedAt": "2026-10-14T11:29:55.004Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1d53f239406637",
-      "title": "Arsenal 3-0 Lille commentary",
-      "summary": "Arsenal 3-0 Lille commentary",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-lille/live/577615",
-      "publishedAt": "2026-10-14T04:15:44.905Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Arsenal"
+        "Transfer"
       ]
     },
     {
@@ -225,7 +169,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Lexi Potter could not have done more to prove she should not only be in England’s World Cup squad next summer, she could also be in the starting XI.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13599032/lexi-potter-england-women-midfielder-the-present-not-just-the-future-after-impressive-debut-in-world-cup-play-off",
-      "publishedAt": "2026-10-14T04:15:44.904Z",
+      "publishedAt": "2026-10-14T11:29:55.004Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -233,150 +177,67 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3d0575141110e2",
-      "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
-      "summary": "Arsenal scored three goals in seven second-half minutes to beat Lille 3-0 and continue their winning start in the Champions League.",
+      "id": "81f66424bc5835",
+      "title": "NFL suspends Rams' Jackson for striking Bills' Chubb in face after game",
+      "summary": "Los Angeles Rams Alaric Jackson has been suspended for two games for striking Buffalo Bills linebacker Bradley Chubb after their Monday Night Football game.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
-      "publishedAt": "2026-10-14T04:15:44.904Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Areta gives update on injured duo Zubimendi and Hincapie",
-      "summary": "Arsenal latest: Areta gives update on injured duo Zubimendi and Hincapie",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-14T04:15:44.904Z",
+      "url": "https://www.skysports.com/nfl/news/12040/13599152/alaric-jackson-nfl-suspends-los-angeles-rams-offensive-lineman-for-striking-buffalo-bills-bradley-chubb-after-monday-night-nfl-game",
+      "publishedAt": "2026-10-14T11:29:55.003Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0d4c144f008d28",
-      "title": "Saka responds to Arteta's challenge with 'huge impact'",
-      "summary": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T23:03:04.000Z",
-      "category": "ucl",
-      "region": "france",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "866fc87f718086",
-      "title": "‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy",
-      "summary": "Defeat to Atlético Madrid ‘reflects how our club is’ Argentinian says club has not invested enough in players Lisandro Martínez has hit out at the Manchester United hie...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid",
-      "publishedAt": "2026-10-13T22:48:22.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3fe5d4b3df6e2e",
-      "title": "BBC Women's Football Weekly",
-      "summary": "After two standout displays, has Le Tissier made a case to start alongside Bronze?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pgjk3h?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T22:47:00.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
         "Football"
       ]
     },
     {
-      "id": "f9852479557b8f",
-      "title": "Potter helps England find magic but World Cup playoff format needs rethink | Tom Garry",
-      "summary": "Lexi Potter and Lauren James stole the show against Greece but England’s 8-1 aggregate win was one of many lopsided scorelines If there had been a vidiprinter at the Ki...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/13/england-greece-women-world-cup-qualifying-playoffs",
-      "publishedAt": "2026-10-13T22:14:28.000Z",
+      "id": "185abc23f7b31e",
+      "title": "Lisandro Martinez slammed for disrespecting the family with Man Utd perfectly placed",
+      "summary": "Manchester United are right where they need to be for long-term success and Lisandro Martinez is a very naughty boy.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lisandro-martinez-slammed-disrespect-man-united-perfect-position-mediawatch",
+      "publishedAt": "2026-10-14T11:13:18.000Z",
       "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3e41f6ad0908f3",
-      "title": "Champions League roundup: Tresoldi treble stuns Inter in Club Brugge win",
-      "summary": "Inter 3-4 Club Brugge; Galatasaray 1-4 Barcelona Olise sent off as Bayern held 3-3 at Viking Stavanger Club Brugge and their young forward Nicolò Tresoldi shocked Inter...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/13/champions-league-lens-sporting-inter-barcelona-bayern-napoli",
-      "publishedAt": "2026-10-13T22:07:38.000Z",
-      "category": "ucl",
-      "region": "spain italy germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Barcelona",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "ce256d6260ed96",
-      "title": "Republic of Ireland to 'lock in' for World Cup dream",
-      "summary": "Republic of Ireland captain Katie McCabe is already focused on the final World Cup play-off with Poland after a big win over Kazakhstan.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x235vx1d49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T21:52:37.000Z",
-      "category": "worldcup",
       "region": "england",
       "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "cf6706670161b1",
-      "title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
-      "summary": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T21:43:09.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Champions League",
         "Manchester"
       ]
     },
     {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Harry Kane extending his vast lead over the chasing pack",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-10-13T21:42:59.000Z",
-      "category": "transfer",
-      "region": "germany",
+      "id": "0f62abcb3ff3be",
+      "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
+      "summary": "Black Cats can reboot season against Torreense in Europa League in break from tough start to the Premier League There is a pleasing symmetry about Sunderland’s Europa L...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
+      "publishedAt": "2026-10-14T11:00:00.000Z",
+      "category": "league",
+      "region": "england france",
       "tags": [
-        "Bayern"
+        "Football",
+        "Premier League",
+        "Europa League"
       ]
     },
     {
-      "id": "41eccecbc88759",
-      "title": "Pressure on Norway in play-off final - Wilkinson",
-      "summary": "Rhian Wilkinson says the pressure will be on Gemma Grainger's Norway in their Women's World Cup play-off final against Wales in December.",
+      "id": "34aabdf5747d0d",
+      "title": "Next Man Utd manager: Fabian Hurzeler now second-favourite behind Howe",
+      "summary": "Manchester United have picked up only six points from the first six games of the Premier League season. Who could replace Michael Carrick?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
+      "publishedAt": "2026-10-14T10:50:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "54ca8a66c3b64d",
+      "title": "Why play-off win may not send Wales to World Cup",
+      "summary": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g17rrz1j5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T21:32:09.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T10:49:27.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -389,7 +250,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Michael Carrick is Premier League Sack Race favourite after a grim Champions League night for Manchester United in Madrid.",
       "source": "Football365",
       "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-10-13T21:26:15.000Z",
+      "publishedAt": "2026-10-14T10:46:15.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -399,40 +260,125 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "654c0e41af9b0c",
-      "title": "Who has scored the most Premier League goals for Spurs against Big Six opposition?",
-      "summary": "Dominic Solanke is close but no current Spurs player has scored more Premier League goals against the rest of the Big Six than Richarlison.",
+      "id": "da003d40ee583b",
+      "title": "Tottenham lose ‘£100m talent’ as Pedro Porro chooses between Barcelona and Real Madrid",
+      "summary": "According to reports, Tottenham Hotspur star Pedro Porro wants to leave the Premier League club and has chosen between Barcelona and Real Madrid.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/spurs-top-scorers-games-premier-league-big-six-kane-son",
-      "publishedAt": "2026-10-13T21:12:42.000Z",
+      "url": "https://www.football365.com/news/tottenham-lose-100m-talent-pedro-porro-chooses-between-barcelona-real-madrid",
+      "publishedAt": "2026-10-14T10:45:12.000Z",
       "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Premier League",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8cf9a1d638009f",
+      "title": "Did Chelsea benefit most from extended international break?",
+      "summary": "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T10:43:19.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1798856a2899ca",
+      "title": "Could Danish model help Scotland solve talent crisis?",
+      "summary": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T10:35:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "8351602ddb991f",
+      "title": "Struijk has red card after VAR intervention overturned",
+      "summary": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T10:18:45.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "77b3d6b344cc10",
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T10:06:48.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Premier League"
       ]
     },
     {
-      "id": "9fd4fa75615994",
-      "title": "Viktor Gyokeres isn’t really here and his Arsenal prospects have never looked bleaker",
-      "summary": "Viktor Gyokeres endured a miserable hour against Lille that barely constituted a performance at all before Arsenal purred after he went off. Poor sod.",
+      "id": "294173bc0ef641",
+      "title": "Man Utd reach verdict on offloading Martinez as ‘inevitable’ punishment revealed – ‘remote in the extreme’",
+      "summary": "According to reports, Lisandro Martinez’s chances of staying at Manchester United beyond 2027 are ‘remote in the extreme’.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/viktor-gyokeres-non-performance-arsenal-lille-champions-league",
-      "publishedAt": "2026-10-13T21:11:47.000Z",
+      "url": "https://www.football365.com/news/man-utd-reach-verdict-offloading-martinez-inevitable-punishment-revealed",
+      "publishedAt": "2026-10-14T10:00:11.000Z",
       "category": "transfer",
-      "region": "england france",
+      "region": "england",
       "tags": [
-        "Arsenal"
+        "Manchester"
       ]
     },
     {
-      "id": "47683fc32ad21b",
-      "title": "Barrios strikes after 53 seconds as Atlético pile misery on 10-man Manchester United",
-      "summary": "Michael Carrick had seen it in his players, he said, but no one else can. Not so far in the Premier League, where they have suffered their worst start in 40 years , and...",
+      "id": "c2ce4110e99685",
+      "title": "Manchester United teammates widely share Martínez view that Wilcox is failing",
+      "summary": "Defender voiced criticism after defeat at Atlético Martínez out of contract next summer and plans to leave Lisandro Martínez’s view that Jason Wilcox is failing as Manc...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/13/atletico-madrid-manchester-united-champions-league-match-report",
-      "publishedAt": "2026-10-13T21:10:33.000Z",
-      "category": "transfer",
+      "url": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-jason-wilcox-manchester-united-dressing-room",
+      "publishedAt": "2026-10-14T09:53:19.000Z",
+      "category": "worldcup",
       "region": "england spain",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "561653698cd3b1",
+      "title": "Man Utd: Ornstein reveals Carrick sack update as INEOS set ‘decisive’ ultimatum – ‘you’ll pay the price’",
+      "summary": "Respected reporter David Ornstein has revealed a huge update on Michael Carrick’s future at Manchester United, with a sack timeline set.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-ornstein-reveals-huge-carrick-sack-update-ineos-set-decisive-ultimatum",
+      "publishedAt": "2026-10-14T09:26:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "58abb66835344e",
+      "title": "Hong Kong club hope David Silva can be their hero – but just for one day",
+      "summary": "Former Manchester City player is coming out of retirement at 40 to play one match for ambitious Supreme Sha Tin Hong Kong, China (as is the official football name), has...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/14/david-silva-hong-kong-supreme-sha-tin",
+      "publishedAt": "2026-10-14T09:13:06.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
         "Football",
         "Premier League",
@@ -440,97 +386,54 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "90a3507f5f98a9",
-      "title": "Timber’s touch of class and supersub Saka secure Arsenal win against Lille",
-      "summary": "Twelve wins in a row and counting. On a night when Arsenal remembered Ken Friar – the club’s life president who was instrumental in their move from Highbury to the Emir...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/13/arsenal-lille-champions-league-match-report",
-      "publishedAt": "2026-10-13T21:02:51.000Z",
-      "category": "ucl",
-      "region": "england france",
+      "id": "13481482c99215",
+      "title": "Man Utd: Romano reveals ‘95%’ JJ Gabriel transfer update as he now ‘closes in’ on ‘inevitable’ next move",
+      "summary": "Fabrizio Romano has shared an update on JJ Gabriel’s future at Manchester United, as he ‘closes in’ on a move to Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-romano-reveals-95-jj-gabriel-transfer-update-now-closes-in-next-move",
+      "publishedAt": "2026-10-14T08:57:53.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
       "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal"
+        "Transfer",
+        "Manchester",
+        "Real Madrid"
       ]
     },
     {
-      "id": "5f3a7933d55e66",
-      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
-      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
+      "id": "1da5432f0f8315",
+      "title": "Furious Amad delivers X-rated verdict on Man Utd defeat to Atletico Madrid",
+      "summary": "Amad has joined Lisandro Martinez in hitting out at United after defeat to Atleti in the Champions League heaped more pressure on Michael Carrick",
       "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
-      "publishedAt": "2026-10-13T20:56:26.000Z",
+      "url": "https://www.football365.com/news/man-utd-furious-amad-delivers-x-rated-verdict-defeat-atletico-madrid",
+      "publishedAt": "2026-10-14T08:39:15.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "fc24a146943ed8",
+      "title": "Victor Osimhen snubs Arsenal, Manchester City as he names ‘best team in the world right now’",
+      "summary": "Galatasaray striker Victor Osimhen has snubbed Arsenal and Manchester City as he has named the “best team in the world right now”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/victor-osimhen-snubs-arsenal-manchester-city-names-best-team-world",
+      "publishedAt": "2026-10-14T08:33:59.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
         "Arsenal",
         "Manchester"
       ]
     },
     {
-      "id": "3b72f41e1c4ffd",
-      "title": "Who has scored the most Premier League goals for Manchester United against the Big Six?",
-      "summary": "Bruno Fernandes is behind just two players for Premier League goals against the Big Six for Manchester United, and should get enough penalties to catch them.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-top-scorers-games-premier-league-big-six-rooney-rashford",
-      "publishedAt": "2026-10-13T20:40:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "af82918b65ffcb",
-      "title": "Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?",
-      "summary": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left to feature for the under-21s side",
+      "id": "2f9ade4f759a3f",
+      "title": "'Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie",
+      "summary": "Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T20:39:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "feb1795b4cdeef",
-      "title": "Which Manchester City players have scored the most goals against the Big Six?",
-      "summary": "Erling Haaland has pipped Kevin de Bruyne for Manchester City Premier League goals against the Big Six, with an obvious leader in front.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-city-top-scorers-games-premier-league-big-six-aguero-haaland",
-      "publishedAt": "2026-10-13T20:38:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d053a93fc9576d",
-      "title": "How close are Manchester City to the greatest start to a Premier League season?",
-      "summary": "Only two teams have ever made a longer winning start to a Premier League season than those cheating Manchester City sods.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/longest-ever-winning-runs-start-premier-league-season",
-      "publishedAt": "2026-10-13T20:36:58.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5bd950ab23d03f",
-      "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
-      "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T20:34:16.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5ynlez508no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T08:16:53.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -538,60 +441,152 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f6e12e93e033db",
-      "title": "Liverpool top scorers against Big Six: Gakpo level with Gerrard and Suarez",
-      "summary": "Cody Gakpo has scored a Premier League goal for Liverpool against every other member of the Big Six, with only Mo Salah ahead of him in the current squad.",
+      "id": "740c9e5b40fa2e",
+      "title": "Romano reveals Man Utd squad verdict on Martinez bombshell interview – ‘I can guarantee this’",
+      "summary": "Fabrizio Romano has shed light on how Manchester United’s players are feeling about Lisandro Martinez’s bombshell interview on Tuesday night.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-top-scorers-games-premier-league-big-six-salah-firmino",
-      "publishedAt": "2026-10-13T20:32:46.000Z",
-      "category": "worldcup",
-      "region": "england",
+      "url": "https://www.football365.com/news/romano-reveals-man-utd-squad-verdict-martinez-bombshell-interview",
+      "publishedAt": "2026-10-14T07:51:58.000Z",
+      "category": "transfer",
+      "region": "england italy",
       "tags": [
-        "Premier League",
-        "Liverpool"
+        "Manchester",
+        "Inter"
       ]
     },
     {
-      "id": "3d9d69dc31dcb5",
-      "title": "Man City FFP: Luis Enrique names the one sanction he ‘hopes’ City swerve",
-      "summary": "Ahead of Wednesday evening’s massive Champions League showdown, PSG boss Enrique has named the one FFP sanction he hopes that City avoid.",
+      "id": "ecd7ea34b9da74",
+      "title": "Michael Carrick sack inevitable as Gary Neville soils his pants about replacement",
+      "summary": "Manchester United lost on Tuesday night to ensure that Michael Carrick gets some stick before the usual Man City opinions.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/ffp-luis-enrique-names-one-sanction-hopes-man-city-avoid",
-      "publishedAt": "2026-10-13T20:29:34.000Z",
-      "category": "ucl",
-      "region": "france",
-      "tags": [
-        "Champions League",
-        "Psg"
-      ]
-    },
-    {
-      "id": "a1cf1821bf7491",
-      "title": "Porro eyes La Liga return - Wednesday's gossip",
-      "summary": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T20:06:30.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Premier League",
-        "La Liga",
-        "Chelsea",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "635537bca4e2d0",
-      "title": "Eight shocking figures as new report highlights football’s looming ‘financial disaster’",
-      "summary": "The ‘State of the Game’ report shows how financially f***ed some clubs are – here are eight of the most alarming findings…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/independent-football-regulator-ifr-new-report-state-of-the-game-must-read-finances-figures",
-      "publishedAt": "2026-10-13T19:50:42.000Z",
+      "url": "https://www.football365.com/news/michael-carrick-sack-inevitable-gary-neville-mailbox",
+      "publishedAt": "2026-10-14T07:34:46.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "12e807b0b84439",
+      "title": "Man Utd decide Carrick sack timeline as Romano reveals ‘biggest story’ on Conte amid ‘agreement’ claim",
+      "summary": "According to reports, Manchester United ‘will’ sack Michael Carrick this season, while Fabrizio Romano has revealed an update on Antonio Conte.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-will-sack-carrick-romano-reveals-biggest-story-conte-agreement-claim",
+      "publishedAt": "2026-10-14T07:22:06.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a1a26ecda8e03b",
+      "title": "Have any footballers ended their career with more own goals than goals? | The Knowledge",
+      "summary": "Plus: the earliest trophyless seasons, scoring off one’s backside (part II) and the origins of ‘shithousery’ Mail us with all of your questions and answers “How many pr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/14/footballers-ending-career-more-own-goals-than-goals-the-knowledge",
+      "publishedAt": "2026-10-14T07:00:48.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1e3c6cdb51a7f5",
+      "title": "Joining Shakhtar as they make base in London: ‘We’re here to show the world that we are alive’",
+      "summary": "With no ‘home’ games in Ukraine, Arda Turan’s side hit the road again, with Chelsea’s Stamford Bridge hosting their Champions League campaign The morning has thinned ou...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/14/shakhtar-donetsk-champions-league-arda-turan-london-stamford-bridge-aek-athens",
+      "publishedAt": "2026-10-14T07:00:47.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2f71c340e5038f",
+      "title": "Makhanya being tracked - Wednesday's gossip",
+      "summary": "Rangers are under no pressure to sell Olwethu Makhanya - but the 22-year-old South Africa defender is attracting plenty of interest.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9nkyzll1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T06:57:49.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "c9cec98ac25044",
+      "title": "Man Utd: Wayne Rooney, Jamie Carragher react to Lisandro Martinez bombshell interview – ‘out of order’",
+      "summary": "Wayne Rooney and Jamie Carragher have hit out at Manchester United defender Lisandro Martinez after his bombshell interview on Tuesday night.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-wayne-rooney-jamie-carragher-react-lisandro-martinez-bombshell-interview",
+      "publishedAt": "2026-10-14T06:57:39.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "08fec81dd92982",
+      "title": "How Ukrainians are uniting behind Shakhtar in London",
+      "summary": "Shakhtar Donetsk will be playing Champions League home games at Stamford Bridge this season. It is a scenario nobody wants ideally, but the UK's Ukrainian community is...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c32l4z71dq72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T06:37:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "f02817d5fabe15",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933xdrl731lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T06:19:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "0829eaabef8e49",
+      "title": "Champions League prize money table calculated as potential earnings escalate past £100m",
+      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
+      "publishedAt": "2026-10-14T06:03:36.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "3d214fd0b59ac8",
+      "title": "South African striker swaps Sunday league for Champions League",
+      "summary": "A former student from Rotherham has climbed the football ladder from the bottom up.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm52ypkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T05:08:30.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League"
       ]
     }
   ],
