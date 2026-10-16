@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:07:37.775Z",
+  "generatedAt": "2026-10-16T03:55:07.368Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,12 @@
       "pinned": true
     },
     {
-      "id": "c23c4ca45ba3ea",
-      "title": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
-      "summary": "Sunderland survived a huge scare as they came from behind to clinch back-to-back Europa League victories with a 2-1 win over Torreense following Noah Sadiki’s 93rd-minu...",
+      "id": "0beefc4888d3e9",
+      "title": "Bournemouth beat Sturm Graz in first ever home European game",
+      "summary": "Bournemouth's history-making season continued on Thursday as they played - and won - their first-ever home European match, beating Sturm Graz 3-0 in the Europa League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
-      "publishedAt": "2026-10-15T21:07:37.584Z",
+      "url": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,17 +112,29 @@
       ]
     },
     {
-      "id": "f3e5bab7d32a61",
-      "title": "PL Predictions: Back buzzing Brentford to sting Liverpool",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+      "id": "0679b1915160c3",
+      "title": "O'Neill 'delighted' with second half despite heavy Celtic loss at Benfica",
+      "summary": "Celtic showed second-half fight but were ultimately outclassed away to Benfica as they were beaten 4-1 in the Europa League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598732/premier-league-predictions-jones-knows-best-bets-brentford-vs-liverpool-leeds-vs-manchester-united-and-more",
-      "publishedAt": "2026-10-15T21:07:37.584Z",
+      "url": "https://www.skysports.com/football/benfica-vs-celtic/report/577760",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Liverpool"
+        "Europa League"
+      ]
+    },
+    {
+      "id": "c23c4ca45ba3ea",
+      "title": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
+      "summary": "Sunderland survived a huge scare as they came from behind to clinch back-to-back Europa League victories with a 2-1 win over Torreense following Noah Sadiki’s 93rd-minu...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
       ]
     },
     {
@@ -131,7 +143,7 @@
       "summary": "Harry Kane has agreed a new deal in principle with Bayern Munich until the summer of 2029.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13599678/harry-kane-england-captain-agrees-new-deal-in-principle-with-bayern-munich-until-2029",
-      "publishedAt": "2026-10-15T21:07:37.583Z",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
       "category": "transfer",
       "region": "germany",
       "tags": [
@@ -144,7 +156,7 @@
       "summary": "FIFA president Gianni Infantino has apologised for his World Cup sell-off plan at a three-hour FIFA Council meeting in Zurich on Thursday - and the Peace Prize he award...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13569748/gianni-infantino-fifa-president-apologises-for-world-cup-sell-off-plan-but-fa-and-other-european-leaders-still-want-him-to-resign",
-      "publishedAt": "2026-10-15T21:07:37.583Z",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -158,7 +170,7 @@
       "summary": "Two-time winner of the Ballon d’Or and double World Cup champion Ronaldo turns his hand to golf as he tees off at the DP World India Championship in Delhi. Credit: DP W...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13599543/football-legend-turns-golfer-r9-tees-off-at-dp-world-tour-event-in-india",
-      "publishedAt": "2026-10-15T21:07:37.583Z",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -171,11 +183,38 @@
       "summary": "Pierre Sage lost to his former side as Crystal Palace fell to a 3-2 defeat to Lyon in the Europa League",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/lyon-vs-crystal-palace/report/577769",
-      "publishedAt": "2026-10-15T21:07:37.583Z",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
       "category": "transfer",
       "region": "france",
       "tags": [
         "Europa League"
+      ]
+    },
+    {
+      "id": "f3e5bab7d32a61",
+      "title": "PL Predictions: Back buzzing Brentford to sting Liverpool",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13598732/premier-league-predictions-jones-knows-best-bets-brentford-vs-liverpool-leeds-vs-manchester-united-and-more",
+      "publishedAt": "2026-10-16T03:55:07.213Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c2a45fbd731979",
+      "title": "Papers: Conte tells Man Utd he's ready to take over if Carrick sacked",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13599794/manchester-united-latest-antonio-conte-tells-man-utd-hes-ready-to-take-over-if-michael-carrick-is-sacked-paper-talk",
+      "publishedAt": "2026-10-16T03:55:07.212Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -184,7 +223,7 @@
       "summary": "LIV Golf has accused the DP World Tour of interference in its bankruptcy proceedings at a hearing in which Bryson DeChambeau and others were released from their contrac...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/golf/news/12040/13599715/liv-golf-bankruptcy-process-dp-world-tour-accused-of-interfering-after-taking-harder-line-on-tour-membership",
-      "publishedAt": "2026-10-15T21:07:37.582Z",
+      "publishedAt": "2026-10-16T03:55:07.212Z",
       "category": "issue",
       "region": "italy",
       "tags": [
@@ -197,7 +236,7 @@
       "summary": "Manchester United defender Lisandro Martinez has issued an apology for his outburst after Tuesday's Champions League loss at Atletico Madrid.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13599725/lisandro-martinez-man-utd-defender-apologises-for-outburst-and-holds-talks-with-jason-wilcox-and-michael-carrick",
-      "publishedAt": "2026-10-15T21:07:37.582Z",
+      "publishedAt": "2026-10-16T03:55:07.212Z",
       "category": "ucl",
       "region": "england spain",
       "tags": [
@@ -206,18 +245,77 @@
       ]
     },
     {
-      "id": "375a8acb2ad0f8",
-      "title": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
-      "summary": "⚽ Europa League updates from the 8pm BST kick-offs ⚽ Live scoreboard | Read Football Daily | Email Simon 8.10pm: Duran heads wide as Benfica go in search of a second. A...",
+      "id": "39248f28be4c6b",
+      "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+      "summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T23:04:37.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "1a1835d054f756",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat to Arsenal Premier League top scorers | Follow us on TikTok A lively recep...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
-      "publishedAt": "2026-10-15T20:58:39.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend",
+      "publishedAt": "2026-10-15T23:01:44.000Z",
       "category": "league",
-      "region": "england france",
+      "region": "england",
       "tags": [
         "Football",
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "ab7c8f4e643bea",
+      "title": "Arsenal elbow Newcastle aside in ‘major race’ to sign £60m-rated Bundesliga winger",
+      "summary": "Arsenal are looking to bring in a new winger in January, and RB Leipzig’s rising star Antonio Nusa is on their shortlist, with Newcastle United also showing rival inter...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/antonio-nusa-transfer-latest-arsenal-newcastle-major-race",
+      "publishedAt": "2026-10-15T21:51:17.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Bundesliga",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a09275b894d6f9",
+      "title": "Evanilson, Rayan and Rodríguez goals seal Bournemouth’s historic home win in Europe",
+      "summary": "An impossible dream realised: the Vitality Stadium staging European football, where the Europa League is becoming an oasis for Bournemouth. No wins yet in the Premier L...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
+      "publishedAt": "2026-10-15T21:46:41.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
         "Europa League",
-        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "3ed244883018e2",
+      "title": "Euro Leagues",
+      "summary": "Are Barcelona and PSG the teams to beat in the Champions League?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pgz2sp?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T21:31:00.000Z",
+      "category": "ucl",
+      "region": "spain france",
+      "tags": [
+        "Champions League",
+        "Barcelona",
         "Psg"
       ]
     },
@@ -266,8 +364,8 @@
     },
     {
       "id": "80de1e362de128",
-      "title": "Europa League: Lyon take down Crystal Palace, Cissè’s Milan hat-trick sinks Salzburg",
-      "summary": "Sage loses 3-2 to former side; Leverkusen go top Alphadjo Cissè lights up 4-0 away victory Pierre Sage endured a frustrating return to Lyon in the Europa League as his...",
+      "title": "Europa League: Lyon take down Crystal Palace as Benfica overwhelm Celtic",
+      "summary": "Sage loses 3-2 to former side; Benfica 4-1 Celtic Juventus go top with 2-1 win over Celta Vigo Pierre Sage endured a frustrating return to Lyon in the Europa League as...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic",
       "publishedAt": "2026-10-15T19:18:53.000Z",
@@ -332,6 +430,21 @@
       "region": "england germany",
       "tags": [
         "Bundesliga"
+      ]
+    },
+    {
+      "id": "0ec3df228f0c83",
+      "title": "Giovanni Leoni’s return from injury delayed in fresh blow to Liverpool",
+      "summary": "Defender sustained ACL injury on debut for club Bradley and Ekitiké are on track with recovery Giovanni Leoni’s Liverpool return has been delayed because of the severit...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/15/giovanni-leonis-return-from-injury-delayed-in-fresh-blow-to-liverpool",
+      "publishedAt": "2026-10-15T15:13:24.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Inter"
       ]
     },
     {
@@ -485,115 +598,6 @@
       "source": "Football365",
       "url": "https://www.football365.com/news/gerrard-predicts-floria-wirtz-turn-things-around-liverpool",
       "publishedAt": "2026-10-15T12:31:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2960c3c2eb620c",
-      "title": "PSG pummel Manchester City while Villa and Liverpool hit six: Football Weekly Extra – podcast",
-      "summary": "Max Rushden is joined by Barry Glendenning , Nick Ames and Nicky Bandini as PSG thrash Manchester City in their first home game since the Premier League’s guilty verdic...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/oct/15/psg-pummel-manchester-city-villa-and-liverpool-hit-six-football-weekly-extra-podcast",
-      "publishedAt": "2026-10-15T11:54:47.000Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "afc2e0e2c72610",
-      "title": "Six pundit predictions for Leeds vs Man Utd includes Neville, Keane as Red Devils set for ‘battering’",
-      "summary": "Five pundits have disagreed with Gary Neville as the predictions roll in for Manchester United’s trip to face Leeds at Elland Road on Sunday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/leeds-man-utd-six-pundit-predictions-neville-keane-battering",
-      "publishedAt": "2026-10-15T11:48:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2c8a28317bc8c8",
-      "title": "Getafe make offer to sign free agent Sancho",
-      "summary": "Getafe make a formal offer to sign attacker Jadon Sancho, who is searching for a new club after leaving Manchester United in the summer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3r5p11d23no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T11:45:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7a99fda78bbbf9",
-      "title": "Barcelona want to sign £57m Man Utd star as he decides to leave Old Trafford",
-      "summary": "Barcelona are keeping tabs on a Manchester United star who is ready to leave the Red Devils at the end of the season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lisandro-martinez-manchester-united-barcelona-2027",
-      "publishedAt": "2026-10-15T11:39:36.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "d78a21f525dcb4",
-      "title": "FA spending on Wembley hospitality and free tickets for FA Council rises by 25%",
-      "summary": "Expenditure rises to £564,000 in 2025-26 season Cost of hosting FA Council meetings also almost doubles The Football Association spent 25% more on Wembley hospitality a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/15/fa-spending-wembley-hospitality-free-tickets-fa-council-rises-25-percent",
-      "publishedAt": "2026-10-15T11:31:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "274905231d01ce",
-      "title": "‘Shameless’ Man City exposed as rule-breaking continues and ex-boss in hiding",
-      "summary": "Shameless Man City have no shame as they shamelessly continue to play football matches, breaking yet more rules as they do so.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/shameless-man-city-exposed-as-rule-breaking-continues-and-ex-boss-in-hiding",
-      "publishedAt": "2026-10-15T11:22:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "91597a30802a33",
-      "title": "Man Utd a circus after Martinez comments - Keane",
-      "summary": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T10:57:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "931e7c06d382f6",
-      "title": "Andoni Iraola greenlights fourth £100m-plus Liverpool signing",
-      "summary": "Iraola has spoken with the Liverpool hierarchy and given his green light to a £100m-plus signing that could come in January",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/andoni-iraola-greenlights-fourth-100m-plus-liverpool-signing-alex-scott",
-      "publishedAt": "2026-10-15T10:50:18.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
