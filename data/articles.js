@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-16T20:44:30.923Z",
+  "generatedAt": "2026-10-17T03:44:53.163Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,56 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "d4b5dd091cbd5c",
+      "title": "'I'm telling you the truth' - Carrick insists Martinez situation resolved",
+      "summary": "Manchester United boss Michael Carrick insists he is telling the truth when he says the club have moved on from Lisandro Martinez's post-match outburst earlier this week.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13599948/lisandro-martinez-man-utd-defender-in-squad-for-leeds-trip-and-situation-resolved-after-criticism-of-hierarchy-insists-michael-carrick",
+      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "31d4ee49d25033",
+      "title": "Papers: Liverpool set to raid Aston Villa for Manzambi",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
+      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
       "id": "60061324c32721",
       "title": "Arteta: Arsenal will take new team photo including Saliba",
       "summary": "Mikel Arteta says Arsenal will take a new team photograph including William Saliba after the defender's surprise absence from the one published this week.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13599972/mikel-arteta-says-arsenal-plan-to-take-another-team-photo-including-william-saliba-after-defenders-omission",
-      "publishedAt": "2026-10-16T20:44:30.671Z",
+      "publishedAt": "2026-10-17T03:44:53.026Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "8eb79eb62ce7d7",
+      "title": "How Glasner is trying to solve Forest’s scoring problem",
+      "summary": "The Premier League’s second-lowest scorers have, unsurprisingly, been working on their finishing in training this week. But when it came to giving advice on scoring goa...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13599639/oliver-glasner-how-nottingham-forest-head-coach-is-trying-to-solve-clubs-scoring-problem-ahead-of-arsenal-fixture",
+      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -117,50 +157,11 @@ window.FOOTBALLDAY_DATA = {
       "summary": "\"They give presence.\" Xabi Alonso sat up a little more in his press conference seat and pointed to his chest. \"They give stability.\"",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13599918/chelsea-jordan-henderson-and-moises-caicedo-starred-in-midfield-against-bournemouth-and-will-be-key-after-reece-james-injury-blow",
-      "publishedAt": "2026-10-16T20:44:30.671Z",
+      "publishedAt": "2026-10-17T03:44:53.026Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "e462392b969365",
-      "title": "Chelsea captain James out for around three months",
-      "summary": "Chelsea captain Reece James is expected to be out for around three months after knee surgery.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
-      "publishedAt": "2026-10-16T20:44:30.671Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "e848b3b4dd671c",
-      "title": "Rugby League World Cup 2026: Australia thrash Samoa in women’s opener",
-      "summary": "Rugby League World Cup 2026: Australia thrash Samoa in women’s opener",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
-      "publishedAt": "2026-10-16T20:44:30.671Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d4b5dd091cbd5c",
-      "title": "'I'm telling you the truth' - Carrick insists Martinez situation resolved",
-      "summary": "Manchester United boss Michael Carrick insists he is telling the truth when he says the club have moved on from Lisandro Martinez's post-match outburst earlier this week.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599948/lisandro-martinez-man-utd-defender-in-squad-for-leeds-trip-and-situation-resolved-after-criticism-of-hierarchy-insists-michael-carrick",
-      "publishedAt": "2026-10-16T20:44:30.670Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -169,7 +170,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea am...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T20:16:40.000Z",
+      "publishedAt": "2026-10-16T21:57:37.000Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
@@ -177,6 +178,48 @@ window.FOOTBALLDAY_DATA = {
         "Arsenal",
         "Chelsea",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "38082637b3f87f",
+      "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; Alonso backs his defence",
+      "summary": "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
+      "publishedAt": "2026-10-16T21:30:01.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4bddc5cf81baf5",
+      "title": "Ranking the Premier League's all-time greatest super subs",
+      "summary": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T21:15:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e0141bc4928904",
+      "title": "Leeds vs Man Utd: Michael Carrick gives verdict on Daniel Farke and Elland Road",
+      "summary": "Manchester United manager Michael Carrick shares his opinion on Leeds United under boss Daniel Farke.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-daniel-farke-leeds-united-manchester-united",
+      "publishedAt": "2026-10-16T21:04:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -260,22 +303,6 @@ window.FOOTBALLDAY_DATA = {
         "Transfer",
         "Arsenal",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "38082637b3f87f",
-      "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; James injury blow for Blues",
-      "summary": "Manchester City manager embraces response to external criticism while Chelsea captain could be out until new year Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
-      "publishedAt": "2026-10-16T16:53:42.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Manchester"
       ]
     },
     {
@@ -566,33 +593,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "844888df2c3a3d",
-      "title": "Man City set for Global Super League after UEFA ban and PL relegation in perfect final punishment",
-      "summary": "Could Premier League relegation and a UEFA ban see Man City revive Super League plans? Playing Al Nassr four times a season would be a fitting punishment.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-man-city-global-super-league-uefa-ban-pl-relegation-perfect-final-punishment",
-      "publishedAt": "2026-10-16T13:43:34.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "dbcb8b8fdd6d40",
-      "title": "Chelsea's James out for three months after knee surgery",
-      "summary": "Chelsea captain Reece James is set to miss three months of action after undergoing knee surgery.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T13:36:09.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
