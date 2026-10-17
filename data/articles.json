@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:44:53.163Z",
+  "generatedAt": "2026-10-17T10:23:21.223Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,38 @@
       "pinned": true
     },
     {
+      "id": "2eac8c89f14400",
+      "title": "England record dominant win over Wales at Women's Rugby League World Cup",
+      "summary": "Connie Boyd and Anna Davies both notched hat-tricks as England recorded a dominant 70-6 rout of Wales in their opening game of the Women's Rugby League World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13600103/england-70-6-wales-connie-boyd-and-anna-davies-hat-tricks-propel-lionesses-to-dominant-opening-womens-rugby-league-world-cup-win",
+      "publishedAt": "2026-10-17T10:23:20.789Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e848b3b4dd671c",
+      "title": "Rugby League World Cup 2026: Papua New Guinea impress against Lebanon",
+      "summary": "Rugby League World Cup 2026: Papua New Guinea impress against Lebanon",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+      "publishedAt": "2026-10-17T10:23:20.789Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "d4b5dd091cbd5c",
       "title": "'I'm telling you the truth' - Carrick insists Martinez situation resolved",
       "summary": "Manchester United boss Michael Carrick insists he is telling the truth when he says the club have moved on from Lisandro Martinez's post-match outburst earlier this week.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13599948/lisandro-martinez-man-utd-defender-in-squad-for-leeds-trip-and-situation-resolved-after-criticism-of-hierarchy-insists-michael-carrick",
-      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "publishedAt": "2026-10-17T10:23:20.789Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,26 +138,111 @@
       ]
     },
     {
-      "id": "31d4ee49d25033",
-      "title": "Papers: Liverpool set to raid Aston Villa for Manzambi",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "id": "4ae3578dbb5794",
+      "title": "Carrick opens door for January transfer activity at Man Utd",
+      "summary": "Manchester United will look at trying to strengthen in the January transfer window, according to head coach Michael Carrick, as the club draw up plans to improve the de...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13600072/liverpool-set-to-raid-aston-villa-for-johan-manzambi-as-arsenal-eye-move-for-bayern-munich-defender-paper-talk",
-      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "url": "https://www.skysports.com/football/news/12040/13599969/man-utd-transfer-news-michael-carrick-opens-door-to-january-signings-ahead-of-planned-defensive-rebuild",
+      "publishedAt": "2026-10-17T10:23:20.788Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Liverpool"
+        "Manchester"
       ]
     },
     {
-      "id": "60061324c32721",
-      "title": "Arteta: Arsenal will take new team photo including Saliba",
-      "summary": "Mikel Arteta says Arsenal will take a new team photograph including William Saliba after the defender's surprise absence from the one published this week.",
+      "id": "b4918d8ea08f45",
+      "title": "Rugby League World Cup LIVE! England hit back against Tonga",
+      "summary": "Rugby League World Cup LIVE! England hit back against Tonga",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599972/mikel-arteta-says-arsenal-plan-to-take-another-team-photo-including-william-saliba-after-defenders-omission",
-      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament",
+      "publishedAt": "2026-10-17T10:23:20.787Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e687938edd76f0",
+      "title": "Hato starts for Chelsea at Everton with Chavarria missing LIVE!",
+      "summary": "Hato starts for Chelsea at Everton with Chavarria missing LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-vs-chelsea/live/559507",
+      "publishedAt": "2026-10-17T10:23:20.785Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "9e1186cd13c216",
+      "title": "Farke defends under-fire Carrick, Manchester City in action, Premier League buildup, and more – matchday live",
+      "summary": "⚽️ News, discussion and buildup to Saturday’s action ⚽️ Premier League: 10 things to look out for | Mail us Fun and games in Spain… Real Madrid have again demanded the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-in-action-premier-league-buildup-and-more-matchday-live",
+      "publishedAt": "2026-10-17T10:09:32.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Premier League",
+        "La Liga",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1870b16bd9814e",
+      "title": "Man Utd squad ‘united’ on INEOS sacking Carrick as Ratcliffe told to appoint PL boss as next manager",
+      "summary": "According to reports, Manchester United’s squad are ‘united’ on whether INEOS should sack head coach Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-squad-united-ineos-sacking-carrick-ratcliffe-told-appoint-pl-boss-next-manager",
+      "publishedAt": "2026-10-17T10:04:46.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ed6f2e925bc1c0",
+      "title": "Everton v Chelsea: Premier League – live",
+      "summary": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Live scoreboard | Tables | Top scorers | Email Scott Fifth plays sixth at the Hill Dickinson this lunchtime, in...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
+      "publishedAt": "2026-10-17T10:00:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0aa1dc73c27972",
+      "title": "Guardiola receives standing ovation on return to Barcelona",
+      "summary": "Former Manchester City and Barcelona manager Pep Guardiola received a standing ovation from the crowd while attending Barcelona's EuroLeague basketball match against Ol...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T10:00:10.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "050a8a22fb268a",
+      "title": "Man Utd, Arsenal reach verdicts on signing Maxi Araujo from Sporting CP amid £55m bid rumour",
+      "summary": "Arsenal and Man Utd have reached decisions on whether to sign Sporting CP left-back Maxi Araujo ahead of January, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-man-utd-reach-verdicts-maxi-araujo-sporting-bid",
+      "publishedAt": "2026-10-17T09:58:44.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -139,12 +250,67 @@
       ]
     },
     {
-      "id": "8eb79eb62ce7d7",
-      "title": "How Glasner is trying to solve Forest’s scoring problem",
-      "summary": "The Premier League’s second-lowest scorers have, unsurprisingly, been working on their finishing in training this week. But when it came to giving advice on scoring goa...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599639/oliver-glasner-how-nottingham-forest-head-coach-is-trying-to-solve-clubs-scoring-problem-ahead-of-arsenal-fixture",
-      "publishedAt": "2026-10-17T03:44:53.026Z",
+      "id": "b2c06affd047d5",
+      "title": "Football Daily",
+      "summary": "Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ph4183?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T09:00:00.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e2e9fa83b54cc6",
+      "title": "Liverpool: Bayern Munich reach decision on signing Wirtz in January: ‘I feel sorry for him’",
+      "summary": "Bayern Munich president Herbert Hainer has been quizzed on the potential for the Bavarians to sign Liverpool star Florian Wirtz in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-bayern-munich-reach-decision-wirtz-january-feel-sorry",
+      "publishedAt": "2026-10-17T08:53:02.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "439d72fe5e1870",
+      "title": "Man Utd told to ‘say no’ to Erling Haaland transfer and go for two Man City team-mates",
+      "summary": "Former Man Utd defender Paul Parker insists he wouldn’t want the Red Devils to sign Man City striker Erling Haaland if he becomes available.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-say-no-erling-haaland-transfer-man-city-guehi",
+      "publishedAt": "2026-10-17T08:45:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "d8e2f0217ac80f",
+      "title": "Nottingham Forest v Arsenal: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Nottingham Forest and Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/nottingham-forest-v-arsenal-prediction-preview",
+      "publishedAt": "2026-10-17T07:53:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "90d904de2caf9a",
+      "title": "Bournemouth v Sunderland: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Bournemouth and Sunderland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/bournemouth-v-sunderland-prediction-preview",
+      "publishedAt": "2026-10-17T07:47:17.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -152,16 +318,139 @@
       ]
     },
     {
-      "id": "d8438cf2381c92",
-      "title": "Why Henderson-Caicedo axis is the midfield solution for Chelsea after James blow",
-      "summary": "\"They give presence.\" Xabi Alonso sat up a little more in his press conference seat and pointed to his chest. \"They give stability.\"",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599918/chelsea-jordan-henderson-and-moises-caicedo-starred-in-midfield-against-bournemouth-and-will-be-key-after-reece-james-injury-blow",
-      "publishedAt": "2026-10-17T03:44:53.026Z",
-      "category": "transfer",
+      "id": "a5acf34d78480e",
+      "title": "'I had so many medals under the bed' - Green on Chelsea success",
+      "summary": "When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T07:16:49.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "e59df46a9d4d0f",
+      "title": "Arsenal react to huge Julian Alvarez transfer news after claims of overtaking Barcelona",
+      "summary": "Arsenal are ‘beginning to fear’ that Barcelona will stand in their way of signing Julian Alvarez once again, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-react-huge-julian-alvarez-transfer-news-barcelona",
+      "publishedAt": "2026-10-17T07:05:15.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "e22b86177528e9",
+      "title": "Savaged by Simon Jordan – and thanks to the algorithm I want to be savaged again | Barney Ronay",
+      "summary": "The former Palace chair seeming very angry indeed about others’ opinions is just par for the course as football’s age of rage ramps up another level Yet again the mains...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/17/savaged-by-simon-jordan-and-thanks-to-the-algorithm-i-want-to-be-savaged-again",
+      "publishedAt": "2026-10-17T07:00:23.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f6ef66aa4ba076",
+      "title": "JJ Gabriel: Real Madrid decide on ‘accepting terms’ to sign Man Utd prodigy – ‘announcement’ imminent",
+      "summary": "Real Madrid have reportedly indicated that they have ‘accepted the terms’ to sign Manchester United sensation JJ Gabriel.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-real-madrid-decide-accepting-terms-sign-man-utd-prodigy-announcement-imminent",
+      "publishedAt": "2026-10-17T06:10:57.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d422fba91d467e",
+      "title": "Matos on tactics, Klopp's influence, and taking Swans to top of the league",
+      "summary": "Swansea boss Vitor Matos spent five years as an elite development coach at Liverpool, but it would be unfair to paint him with a Jurgen Klopp-shaped brush entirely.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crp3gq832gqxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T05:56:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c9a9f290a2bf15",
+      "title": "The Premier League’s best and worst value-for-money attackers: Haaland shines, Rashford struggles",
+      "summary": "Transfer fees grab headlines, but the wages handed out take up a significant portion of budgets – and some are more worth it than others.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-leagues-best-worst-value-for-money-attackers-haaland-rashford",
+      "publishedAt": "2026-10-17T05:30:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "a01bda50e04472",
+      "title": "Blackburn Rovers’ awful away ticket policy cannot be the future of football",
+      "summary": "A new system designed to reward those supporters who spend the most at Blackburn seems like the start of a slippery slope for travelling fans.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/blackburn-rovers-away-ticket-policy-future-of-football",
+      "publishedAt": "2026-10-17T05:29:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "f2858140a2a1f3",
+      "title": "How Carlos Baleba has already improved Manchester United as their most important player",
+      "summary": "Carlos Baleba has played barely more than 90 minutes for Manchester United but already his impact on Michael Carrick’s flawed team is evident.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carlos-baleba-already-improved-manchester-united-most-important",
+      "publishedAt": "2026-10-17T05:28:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e29d7b41c256c0",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T05:15:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "dba0dba5bdbee7",
+      "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
+      "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
+      "publishedAt": "2026-10-17T05:00:24.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Inter"
       ]
     },
     {
@@ -302,296 +591,6 @@
       "tags": [
         "Transfer",
         "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d3ea956dcb6ab2",
-      "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
-      "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m h...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
-      "publishedAt": "2026-10-16T16:40:30.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b77bb4c47848b8",
-      "title": "Jaap Stam delivers verdict on Man Utd sacking Carrick as he names ‘right guy’ to manage Red Devils",
-      "summary": "Manchester United legend Jaap Stam has revealed whether he thinks his former club should sack head coach Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jaap-stam-verdict-man-utd-sacking-carrick-names-right-guy-manage-red-devils",
-      "publishedAt": "2026-10-16T16:36:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4b17fe4557a11e",
-      "title": "Do Manchester City have any grounds to win their appeal?",
-      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T16:17:01.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a80ad3fe76b185",
-      "title": "Feel-good Koumas story something for Liverpool to smile about",
-      "summary": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy7l5e4376no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T16:06:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3aa67997757486",
-      "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
-      "summary": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T16:01:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a857da4e9a0512",
-      "title": "Premier League action, Champions Day and Dubois v Wardley II – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/oct/16/premier-league-action-champions-day-and-dubois-v-wardley-ii-follow-with-us",
-      "publishedAt": "2026-10-16T15:59:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "11be0dcc3ede8c",
-      "title": "Man City FFP: Five-part ‘irrefutable evidence’ to ‘overturn’ verdict, ‘force’ one of three outcomes revealed",
-      "summary": "A new report has revealed Manchester City’s supposed ‘irrefutable evidence’ that they hope will ‘overturn’ their guilty FFP verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-five-part-irrefutable-evidence-overturn-verdict-force-one-three-outcomes-revealed",
-      "publishedAt": "2026-10-16T15:57:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "11a253e296b970",
-      "title": "Real Madrid demand La Liga president resign over Goebbels comparison",
-      "summary": "Javier Tebas accuses Madrid of ‘propaganda techniques’ Club want ‘immediate resignation’ for ‘constant attacks’ Real Madrid have again demanded the resignation of the p...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/real-madrid-demand-resignation-la-liga-president-javier-tebas-goebbels-comparison",
-      "publishedAt": "2026-10-16T15:55:46.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "b7e8b387b0ab52",
-      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
-      "summary": "Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T15:49:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b5ddf815a61e47",
-      "title": "Real demand Tebas resign over Goebbels comparison",
-      "summary": "Real Madrid have called for the \"immediate resignation\" of La Liga president Javier Tebas after he compared the club's management to Joseph Goebbels.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T15:43:32.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "La Liga",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "718817e93fd458",
-      "title": "Arteta told Arsenal job cuts will help create success",
-      "summary": "Arsenal boss Mikel Arteta says he was told the club's decision to cut 60 jobs had been made to \"achieve the success we want to create\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wv4xd2l6yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T15:31:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f436b14436a0ec",
-      "title": "Carrick brushes off Martínez’s failure to apologise publicly to United director Wilcox",
-      "summary": "Manchester United coach accepts defender’s apology ‘He’s realised he’s made a mistake and that’s enough’ Michael Carrick brushed off Lisandro Martínez’s failure to offe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/michael-carrick-lisandro-martinez-apologise-jason-wilcox-manchester-united",
-      "publishedAt": "2026-10-16T15:18:56.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "32eed3e757a9e9",
-      "title": "Arsenal now turn to signing £34m Bayern Munich star as Gunners ‘doing everything’ to get deal done",
-      "summary": "According to reports, Arsenal are considering a move for Bayern Munich star Kim Min-jae after the Piero Hincapie injury blow.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-now-turn-signing-34m-bayern-munich-star-gunners-doing-everything-deal-done",
-      "publishedAt": "2026-10-16T15:09:18.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Arsenal",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "9d64c6643c6e02",
-      "title": "Mikel Arteta defends job cuts at Arsenal to help club ‘evolve and create success’",
-      "summary": "Up to 60 roles at risk after structural review Arteta signed new deal worth more than £20m a season Mikel Arteta has defended Arsenal’s decision to cut up to 60 jobs an...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
-      "publishedAt": "2026-10-16T15:03:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "867f2cfa1be60c",
-      "title": "Football Daily",
-      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball lift the lid on life as 5 Live commentators.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032shg?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T14:52:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5c1eff32e81a95",
-      "title": "Football Daily | Watford, a ‘fake news’ sacking and an apology to Elton John",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! There are only two things certain in life – death and taxes Reece James knack and Watford managerial news – and Foot...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/watford-football-daily-newsletter",
-      "publishedAt": "2026-10-16T14:37:46.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Fifa",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "eeb5012627f983",
-      "title": "Chelsea react to Reece James brutal injury as Blues now to ‘launch move’ to sign £38m replacement",
-      "summary": "In response to Reece James’s latest injury, Chelsea are reportedly ready to ‘launch a move’ for a Benfica star as a replacement.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-react-reece-james-brutal-injury-blues-now-launch-move-sign-38m-replacement",
-      "publishedAt": "2026-10-16T14:37:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "939fffc955d166",
-      "title": "Liverpool legend Steven Gerrard reaches decision on joining Wrexham and becoming next manager",
-      "summary": "According to reports, Liverpool legend Steven Gerrard has ‘said yes’ to becoming the next Wrexham manager to replace Phil Parkinson.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-legend-steven-gerrard-reaches-decision-wrexham-next-manager",
-      "publishedAt": "2026-10-16T14:01:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d1fdb2589722af",
-      "title": "'I am telling you the truth' - Carrick on Martinez fallout",
-      "summary": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T13:59:12.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "55fc3083216cd0",
-      "title": "Celtic-Hearts showdown tops weekend's Premiership bill",
-      "summary": "Celtic face Heart of Midlothian in the big game of the Scottish Premiership weekend on Sunday, but there is plenty of interest in Saturday's five games too.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwn993y0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T13:52:39.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "b9f3ea6e19f356",
-      "title": "Liverpool give latest stance on signing Yankuba Minteh in January as update surfaces",
-      "summary": "Liverpool are still keeping the possibility of signing Brighton winger Yankuba Minteh in the January window open, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfer-stance-minteh-january-update",
-      "publishedAt": "2026-10-16T13:47:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Liverpool"
       ]
     }
