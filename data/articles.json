@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:23:21.223Z",
+  "generatedAt": "2026-10-17T15:16:23.789Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,65 +99,66 @@
       "pinned": true
     },
     {
-      "id": "2eac8c89f14400",
-      "title": "England record dominant win over Wales at Women's Rugby League World Cup",
-      "summary": "Connie Boyd and Anna Davies both notched hat-tricks as England recorded a dominant 70-6 rout of Wales in their opening game of the Women's Rugby League World Cup.",
+      "id": "b58e577d6dddc0",
+      "title": "Yarmoliuk sent off for headbutt with Brentford leading Liverpool LIVE!",
+      "summary": "Yarmoliuk sent off for headbutt with Brentford leading Liverpool LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13600103/england-70-6-wales-connie-boyd-and-anna-davies-hat-tricks-propel-lionesses-to-dominant-opening-womens-rugby-league-world-cup-win",
-      "publishedAt": "2026-10-17T10:23:20.789Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e848b3b4dd671c",
-      "title": "Rugby League World Cup 2026: Papua New Guinea impress against Lebanon",
-      "summary": "Rugby League World Cup 2026: Papua New Guinea impress against Lebanon",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
-      "publishedAt": "2026-10-17T10:23:20.789Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "d4b5dd091cbd5c",
-      "title": "'I'm telling you the truth' - Carrick insists Martinez situation resolved",
-      "summary": "Manchester United boss Michael Carrick insists he is telling the truth when he says the club have moved on from Lisandro Martinez's post-match outburst earlier this week.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599948/lisandro-martinez-man-utd-defender-in-squad-for-leeds-trip-and-situation-resolved-after-criticism-of-hierarchy-insists-michael-carrick",
-      "publishedAt": "2026-10-17T10:23:20.789Z",
+      "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
+      "publishedAt": "2026-10-17T15:16:23.659Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Liverpool"
       ]
     },
     {
-      "id": "4ae3578dbb5794",
-      "title": "Carrick opens door for January transfer activity at Man Utd",
-      "summary": "Manchester United will look at trying to strengthen in the January transfer window, according to head coach Michael Carrick, as the club draw up plans to improve the de...",
+      "id": "ef55c745c8e562",
+      "title": "Almeraq proves his class in British Champions Sprint",
+      "summary": "Almeraq confirmed himself as this season’s star sprinter with a third top-level triumph of the campaign in the Qatar Racing British Champions Sprint Stakes at Ascot.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13599969/man-utd-transfer-news-michael-carrick-opens-door-to-january-signings-ahead-of-planned-defensive-rebuild",
-      "publishedAt": "2026-10-17T10:23:20.788Z",
+      "url": "https://www.skysports.com/racing/news/12040/13600183/ascot-almeraq-proves-his-class-in-british-champions-sprint",
+      "publishedAt": "2026-10-17T15:16:23.659Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "374d4ee2c196ee",
+      "title": "Arsenal booed after Birmingham draw as pressure builds on Slegers",
+      "summary": "Pressure continued to mount on Renee Slegers as Arsenal were booed off the pitch following their 1-1 draw with Birmingham at the Emirates.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-birmingham-city-women/report/575791",
+      "publishedAt": "2026-10-17T15:16:23.659Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Manchester"
+        "Arsenal"
       ]
     },
     {
-      "id": "b4918d8ea08f45",
-      "title": "Rugby League World Cup LIVE! England hit back against Tonga",
-      "summary": "Rugby League World Cup LIVE! England hit back against Tonga",
+      "id": "3e96f004cb6a8e",
+      "title": "Chelsea inflict Everton's first defeat after Rogers escapes red",
+      "summary": "Pedro Neto scored both second-half goals as Chelsea inflicted Everton’s first defeat of the Premier League season in a 2-0 win on Merseyside after Morgan Rogers escaped...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament",
-      "publishedAt": "2026-10-17T10:23:20.787Z",
+      "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507",
+      "publishedAt": "2026-10-17T15:16:23.659Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "d29566c5793871",
+      "title": "England thumped by Tonga in World Cup opener",
+      "summary": "England were handed a Rugby League World Cup reality check after a 30-12 thumping by Tonga in their tournament opener.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/england-vs-tonga/report/64270",
+      "publishedAt": "2026-10-17T15:16:23.659Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -165,12 +166,87 @@
       ]
     },
     {
-      "id": "e687938edd76f0",
-      "title": "Hato starts for Chelsea at Everton with Chavarria missing LIVE!",
-      "summary": "Hato starts for Chelsea at Everton with Chavarria missing LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-vs-chelsea/live/559507",
-      "publishedAt": "2026-10-17T10:23:20.785Z",
+      "id": "52372257f6a672",
+      "title": "Manchester City v Ipswich, Brentford v Liverpool, and more: Football clockwatch - live",
+      "summary": "⚽ Updates on the Saturday afternoon football action ⚽ Live scoreboard | Tables | Top scorers | Email Simon Andy Hunter’s match report from the Hill Dickinson is here, a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-v-ipswich-brentford-v-liverpool-and-more-football-clockwatch-live",
+      "publishedAt": "2026-10-17T15:09:44.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "de67d0bbc316e0",
+      "title": "Newcastle v Aston Villa: Premier League – live",
+      "summary": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Tables | Top scorers | Follow us on Bluesky Premier League latest Brentford 1-0 Liverpool Fulham 1...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
+      "publishedAt": "2026-10-17T15:00:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "99ab6c1b06e87b",
+      "title": "Alonso praises 'serious' Chelsea",
+      "summary": "Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T14:53:23.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "dd735f715f8322",
+      "title": "European football: Baena late strike for Atlético puts pressure on Barcelona",
+      "summary": "Simeone’s side move two points behind La Liga champions I’d have left Real Madrid if I were Vinícius, says Mourinho Álex Baena struck in the 89th minute to snatch Atlét...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+      "publishedAt": "2026-10-17T14:44:52.000Z",
+      "category": "league",
+      "region": "spain italy france germany",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "e6533cfdc30ad6",
+      "title": "Everton did not play well - Moyes",
+      "summary": "Everton manager David Moyes reacts to their defeat against Chelsea at the Hill Dickinson Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck0j04346n70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T14:42:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2b5dcf696941ea",
+      "title": "Chelsea go against all narratives to claim Alonso’s most satisfying win yet",
+      "summary": "Chelsea did all the things we thought they couldn’t to win in a place they rarely ever do and deliver Xabi Alonso his most gratifying victory…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/everton-0-2-chelsea-reaction-alonso-win-against-all-narratives",
+      "publishedAt": "2026-10-17T14:38:40.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -178,19 +254,128 @@
       ]
     },
     {
-      "id": "9e1186cd13c216",
-      "title": "Farke defends under-fire Carrick, Manchester City in action, Premier League buildup, and more – matchday live",
-      "summary": "⚽️ News, discussion and buildup to Saturday’s action ⚽️ Premier League: 10 things to look out for | Mail us Fun and games in Spain… Real Madrid have again demanded the...",
+      "id": "6a3be37059517b",
+      "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
+      "summary": "Chelsea have returned from the international break with an authority that augurs well for Xabi Alonso. Two goals from Pedro Neto condemned Everton to a first defeat of...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-in-action-premier-league-buildup-and-more-matchday-live",
-      "publishedAt": "2026-10-17T10:09:32.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
+      "publishedAt": "2026-10-17T13:53:13.000Z",
+      "category": "issue",
+      "region": "england italy",
       "tags": [
         "Football",
         "Premier League",
-        "La Liga",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3e641906a02797",
+      "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
+      "summary": "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T13:39:16.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "56aafe1a74b9ff",
+      "title": "Chris Sutton makes outrageous Leeds United vs Man Utd prediction – ‘I don’t see it’",
+      "summary": "Pundit Chris Sutton has made an outlandish prediction for Sunday’s game at Elland Road between Leeds United and Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chris-sutton-outrageous-leeds-united-vs-man-utd-prediction",
+      "publishedAt": "2026-10-17T13:34:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "ac84a0422a3fc7",
+      "title": "All done deals in September & October 2026",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T12:53:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "80a932b66ecfb5",
+      "title": "Chelsea: ‘Very upset’ Alonso demands £101m double signing from Barcelona",
+      "summary": "Chelsea head coach Xabi Alonso is looking for the Blues hierarchy to invest €120m in two Barcelona players in January, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-alonso-demands-double-signing-de-jong-kounde-barcelona",
+      "publishedAt": "2026-10-17T12:42:53.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "7501b96ef58441",
+      "title": "Alan Shearer makes Tottenham ‘massive’ relegation prediction as summer transfer decision slammed",
+      "summary": "Alan Shearer has claimed that Tottenham Hotspur will be in a “massive relegation battle” this season on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alan-shearer-predicts-tottenham-massive-relegation-battle-transfer-decision-slammed",
+      "publishedAt": "2026-10-17T12:36:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "785f07daeec53d",
+      "title": "Youssouf Fofana reaches firm decision on joining Man Utd in January",
+      "summary": "Manchester United want to sign French midfielder Youssouf Fofana from AC Milan in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/youssouf-fofana-manchester-united-sevilla-ac-milan-2027-january-transfer-decision-made",
+      "publishedAt": "2026-10-17T12:25:41.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Milan"
+      ]
+    },
+    {
+      "id": "4568016a254ded",
+      "title": "Liverpool: Iraola ‘asks’ Reds to spend £118m on Barcelona star as he ‘loses patience’ with Wirtz",
+      "summary": "Liverpool boss Andoni Iraola is reportedly ‘losing patience’ with Florian Wirtz and wants the Reds to replace him with Fermin Lopez.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-iraola-asks-sign-barcelona-fermin-loses-patience-wirtz",
+      "publishedAt": "2026-10-17T10:45:45.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "10ab25815112aa",
+      "title": "Viktor Gyokeres ‘ready to quit’ Arsenal in January for two reasons – transfer will happen on one condition",
+      "summary": "According to reports, Viktor Gyokeres is ‘ready to quit’ Arsenal for two reasons, and the Gunners will sanction his exit on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/viktor-gyokeres-now-ready-quit-arsenal-two-reasons-january-exit-will-happen",
+      "publishedAt": "2026-10-17T10:37:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
@@ -204,22 +389,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "ed6f2e925bc1c0",
-      "title": "Everton v Chelsea: Premier League – live",
-      "summary": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Live scoreboard | Tables | Top scorers | Email Scott Fifth plays sixth at the Hill Dickinson this lunchtime, in...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
-      "publishedAt": "2026-10-17T10:00:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Chelsea"
       ]
     },
     {
@@ -423,175 +592,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "e29d7b41c256c0",
-      "title": "Who am I? Plus today's other quizzes",
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1l3dz2ppe0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T05:15:17.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "dba0dba5bdbee7",
-      "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
-      "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-      "publishedAt": "2026-10-17T05:00:24.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Inter"
-      ]
-    },
-    {
-      "id": "6b0547358b01e5",
-      "title": "Bellingham agrees new Real deal - Saturday's gossip",
-      "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea am...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T21:57:37.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "La Liga",
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "38082637b3f87f",
-      "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; Alonso backs his defence",
-      "summary": "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-news-go-bananas-maresca-loving-fans-show-of-defiance-james-injury-blow-for-blues",
-      "publishedAt": "2026-10-16T21:30:01.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4bddc5cf81baf5",
-      "title": "Ranking the Premier League's all-time greatest super subs",
-      "summary": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T21:15:47.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e0141bc4928904",
-      "title": "Leeds vs Man Utd: Michael Carrick gives verdict on Daniel Farke and Elland Road",
-      "summary": "Manchester United manager Michael Carrick shares his opinion on Leeds United under boss Daniel Farke.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-daniel-farke-leeds-united-manchester-united",
-      "publishedAt": "2026-10-16T21:04:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2235aff9d6bd05",
-      "title": "‘It’s really not a drama’: Carrick sticks to the script after Martínez storm",
-      "summary": "Manchester United head coach produced a masterclass in dialling down emotion before a tricky trip to Leeds Michael Carrick returned his most impressive performance prec...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/16/michael-carrick-lisandro-martinez-manchester-united-leeds-premier-league",
-      "publishedAt": "2026-10-16T19:00:09.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5ee1ae5bbbc776",
-      "title": "Alan Shearer makes Leeds United vs Man Utd prediction and Gary Neville disagrees",
-      "summary": "Alan Shearer and Gary Neville have made predictions for Sunday’s game between Leeds United and Manchester United at Elland Road.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alan-shearer-makes-leeds-united-man-utd-prediction-gary-neville-disagrees",
-      "publishedAt": "2026-10-16T18:55:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3976b7ea211f42",
-      "title": "Man City FFP: Sports lawyer reveals chances of City winning appeal as ‘substantial’ issue emerges",
-      "summary": "A leading sports lawyer has shed light on the likelihood of Manchester City winning the appeal after the FFP guilty verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-sports-lawyer-reveals-chances-city-winning-appeal-substantial-issue-emerges",
-      "publishedAt": "2026-10-16T18:30:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a8d39334887603",
-      "title": "Real Betis make call on selling Troy Parrott to Man Utd in January",
-      "summary": "Manchester United have been linked with a January move for Republic of Ireland international striker Troy Parrott.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/troy-parrott-real-betis-manchester-united-2027-january-transfer-deal",
-      "publishedAt": "2026-10-16T18:19:56.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "04a184326c3cb3",
-      "title": "Brighton v Crystal Palace: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Brighton and Crystal Palace.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/brighton-v-crystal-palace-prediction-preview",
-      "publishedAt": "2026-10-16T17:54:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "fe049575754855",
-      "title": "Liverpool, Arsenal now leaders to sign £60m Brentford star with decision reached on January transfer",
-      "summary": "Liverpool and Arsenal have reportedly become the leading contenders to sign Brentford star Kevin Schade ahead of a potential January transfer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-arsenal-now-leaders-sign-60m-brentford-star-decision-reached",
-      "publishedAt": "2026-10-16T17:12:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Liverpool"
       ]
     }
   ],
