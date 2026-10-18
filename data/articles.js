@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-18T03:51:11.560Z",
+  "generatedAt": "2026-10-18T10:40:48.129Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Brentford head coach Keith Andrews felt Jeremy Jacquet was \"cute and clever\" for his role in Yehor Yarmoliuk's red card in the 2-1 defeat to Liverpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13600414/brentford-liverpool-were-cute-and-clever-says-keith-andrews-after-his-side-ended-defeat-with-nine-men",
-      "publishedAt": "2026-10-18T03:51:11.333Z",
+      "publishedAt": "2026-10-18T10:40:47.861Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,16 +112,29 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0a726eaebf6481",
-      "title": "Manzambi haunts Newcastle with winner for Aston Villa",
-      "summary": "Johan Manzambi came back to haunt Newcastle as his first-half goal was enough for Aston Villa to win 1-0 at St James' Park on Saturday Night Football",
+      "id": "704c54fd4a92f1",
+      "title": "WSL LIVE! Chelsea host Spurs as West Ham visit Palace",
+      "summary": "WSL LIVE! Chelsea host Spurs as West Ham visit Palace",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
-      "publishedAt": "2026-10-18T03:51:11.333Z",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-tottenham-hotspur-women/live/575793",
+      "publishedAt": "2026-10-18T10:40:47.860Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "02e0e3f771400d",
+      "title": "McDermott: We cannot chase and change despite RLWC outlook",
+      "summary": "England head coach Brian McDermott made a marked point that his side would be trying to find a \"point of difference\" in this World Cup through a new playing style.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13600527/rugby-league-world-cup-2026-brian-mcdermott-on-englands-erratic-ends-and-not-chasing-points-with-progression-out-of-their-hands",
+      "publishedAt": "2026-10-18T10:40:47.860Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -130,7 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Hits & Misses: Liverpool clicking and Chelsea get serious",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13600115/premier-league-hits-and-misses-liverpool-ride-their-luck-to-win-at-brentford",
-      "publishedAt": "2026-10-18T03:51:11.332Z",
+      "publishedAt": "2026-10-18T10:40:47.860Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -144,12 +157,124 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13600491/viktor-gyokeres-keen-to-leave-arsenal-due-to-lack-of-first-team-opportunites-paper-talk",
-      "publishedAt": "2026-10-18T03:51:11.330Z",
+      "publishedAt": "2026-10-18T10:40:47.859Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
         "Arsenal"
+      ]
+    },
+    {
+      "id": "de27faf6df848e",
+      "title": "Manchester United feel heat as they travel to Leeds; Emi Martínez thanks fans after surgery – matchday live",
+      "summary": "News, discussion and buildup to Sunday’s action Premier League table | Top scorers | Mail us In the MLS , Lionel Messi scored twice to help Inter Miami to a 3-1 win at...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/18/manchester-united-feeling-the-heat-as-they-travel-to-leeds-matchday-live",
+      "publishedAt": "2026-10-18T10:28:28.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "46ae525bd58544",
+      "title": "Chelsea v Tottenham: Women’s Super League – live",
+      "summary": "⚽ WSL updates from the 12noon BST kick-off ⚽ Scores | Table | Read Moving the Goalposts | Mail Taha Chelsea make four changes to the side that beat West Ham two weeks a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/18/chelsea-v-tottenham-womens-super-league-live",
+      "publishedAt": "2026-10-18T10:13:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a7f65918fdb980",
+      "title": "Martinez breaks jaw in Chelsea win at Everton",
+      "summary": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T09:42:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "aea388a6e58edb",
+      "title": "Man Utd in crunch talks with Bruno Fernandes as pressure on Michael Carrick intensifies",
+      "summary": "Manchester United are ‘locked’ in talks with Bruno Fernandes over a new contract amid uncertainty over his Old Trafford future, as Michael Carrick prepares for a crucia...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-fernandes-contract-update-michael-carrick-sack-latest",
+      "publishedAt": "2026-10-18T08:53:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "62df624f24436d",
+      "title": "Film star Law to play Shankly in TV series - gossip",
+      "summary": "Film star Jude Law is to play Bill Shankly in a television series about the Scottish football legend, while Rangers edge out Celtic in the list of most valuable British...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x1v7rqv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T08:27:41.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "4cb833ef921479",
+      "title": "Chelsea: Emi Martinez releases statement after sickening injury diagnosis revealed",
+      "summary": "The Argentina international was unable to finish the match at Everton on Saturday, after colliding with Toffees star Jarrad Branthwaite midway through the second half.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-emi-martinez-releases-statement-horror-injury-diagnosis-revealed",
+      "publishedAt": "2026-10-18T08:11:11.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "4eb2c89e8cb629",
+      "title": "‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool",
+      "summary": "It will be a tense time for club’s president despite the Champions League game at Anfield offering a symbol of how far they have come The first time Fernando Roig watch...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/18/fernando-roig-villarreal-liverpool-champions-league",
+      "publishedAt": "2026-10-18T07:00:53.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4b17fe4557a11e",
+      "title": "Do Manchester City have any grounds to win their appeal?",
+      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T06:36:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -177,6 +302,22 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
+      ]
+    },
+    {
+      "id": "dd735f715f8322",
+      "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+      "summary": "Lamine Yamal opens scoring in ninth straight win Luis Díaz hat-trick helps Bayern thump RB Leipzig 6-1 Barcelona ’s La Liga juggernaut rolled into Seville on Saturday a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+      "publishedAt": "2026-10-17T21:33:46.000Z",
+      "category": "league",
+      "region": "spain italy france germany",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Psg"
       ]
     },
     {
@@ -451,146 +592,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "36da74fb94ad95",
-      "title": "The ridiculous stats of Erling Haaland as he ties Gerrard for Premier League goals",
-      "summary": "Erling Haaland has now played against 25 different teams in the Premier League for Manchester City, and scored against every one of them.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/erling-haaland-ridiculous-stats-half-decent-start-premier-league-life",
-      "publishedAt": "2026-10-17T17:04:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "281543ab325720",
-      "title": "Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola",
-      "summary": "Andoni Iraola Liverpool's demanding schedule is putting his players in a \"delicate situation\" after Dominik Szoboszlai was forced off with a first-half injury during th...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgelqlz37w3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T16:56:12.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "91f1cc4e99601b",
-      "title": "Manchester City edge past Ipswich despite uncharacteristic Guehi mistakes",
-      "summary": "Manchester City won again, but the real action is unfolding elsewhere and nobody will remember where they were for this one.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ipswich-reaction-haaland-guehi-charges",
-      "publishedAt": "2026-10-17T16:56:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3048d2ce44cad0",
-      "title": "Iraola owes Brentford fool a De Zerbi ‘kiss’ – but two Liverpool stars turned the tide",
-      "summary": "Liverpool looked a little lost against Brentford, but Andoni Iraola has two stars and a daft Bee to thank for their comeback victory.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/iraola-owes-brentford-fool-de-zerbi-kiss-liverpool-stars",
-      "publishedAt": "2026-10-17T16:47:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "db79c40aeaab15",
-      "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
-      "summary": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
-      "publishedAt": "2026-10-17T16:21:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "5703a075afd52c",
-      "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
-      "summary": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to q...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
-      "publishedAt": "2026-10-17T16:08:40.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5def226c11381f",
-      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-      "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T16:02:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c36bb0a8e919a4",
-      "title": "Boos for Arsenal as draw with Birmingham extends winless WSL run",
-      "summary": "An equaliser from Olivia Smith averted defeat for Arsenal, but a home draw with Birmingham did little to calm fears for Renée Slegers’s future as Gunners coach. Boos ac...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/17/arsenal-birmingham-wsl-match-report",
-      "publishedAt": "2026-10-17T15:44:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "599acdb67f7830",
-      "title": "Liverpool: Bradley Barcola makes two eye-opening admissions about the Premier League",
-      "summary": "Liverpool winger Bradley Barcola has spoken twice about the Premier League and how it differs to what he’s used to in Ligue 1.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-bradley-barcola-two-eye-opening-admissions-premier-league",
-      "publishedAt": "2026-10-17T15:16:12.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Premier League",
-        "Ligue 1",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "99ab6c1b06e87b",
-      "title": "Alonso praises 'serious' Chelsea",
-      "summary": "Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T14:53:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
       ]
     }
   ],
