@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:21:09.080Z",
+  "generatedAt": "2026-10-18T03:51:11.560Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@
       "pinned": true
     },
     {
-      "id": "b58e577d6dddc0",
-      "title": "Brentford 1-2 Liverpool highlights",
-      "summary": "Brentford 1-2 Liverpool highlights",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
-      "publishedAt": "2026-10-17T20:21:08.351Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "8939c59975e6fd",
       "title": "Jacquet was 'cute and clever' for his part in Yarmoliuk red - Andrews",
       "summary": "Brentford head coach Keith Andrews felt Jeremy Jacquet was \"cute and clever\" for his role in Yehor Yarmoliuk's red card in the 2-1 defeat to Liverpool.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13600414/brentford-liverpool-were-cute-and-clever-says-keith-andrews-after-his-side-ended-defeat-with-nine-men",
-      "publishedAt": "2026-10-17T20:21:08.350Z",
+      "publishedAt": "2026-10-18T03:51:11.333Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -130,7 +117,7 @@
       "summary": "Johan Manzambi came back to haunt Newcastle as his first-half goal was enough for Aston Villa to win 1-0 at St James' Park on Saturday Night Football",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
-      "publishedAt": "2026-10-17T20:21:08.350Z",
+      "publishedAt": "2026-10-18T03:51:11.333Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -143,12 +130,96 @@
       "summary": "Hits & Misses: Liverpool clicking and Chelsea get serious",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13600115/premier-league-hits-and-misses-liverpool-ride-their-luck-to-win-at-brentford",
-      "publishedAt": "2026-10-17T20:21:08.349Z",
+      "publishedAt": "2026-10-18T03:51:11.332Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "9613aeba5db599",
+      "title": "Papers: Gyokeres keen to leave Arsenal",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13600491/viktor-gyokeres-keen-to-leave-arsenal-due-to-lack-of-first-team-opportunites-paper-talk",
+      "publishedAt": "2026-10-18T03:51:11.330Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "28a9fdd54b272d",
+      "title": "How 'dangerous' Man City maintained 100 per cent record",
+      "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T23:00:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "52c44c20ea8c10",
+      "title": "Why Liverpool are still 'too easy' to play against",
+      "summary": "Match of the Day's Danny Murphy analyses how Liverpool are still to \"easy\" to play against despite their 2-1 victory over Brentford.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T23:00:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "75a33b110236d1",
+      "title": "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
+      "summary": "Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 to go top of the table.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T20:55:25.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bundesliga",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "42f60d22d3591c",
+      "title": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
+      "summary": "Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia and Dani Olmo all scored for Barcelona as they swept aside Real Betis in a seven-goal thriller to stay five points clear...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T20:49:36.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "La Liga",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "2d9fba781f50c2",
+      "title": "Gyokeres pushing for Arsenal exit - Sunday's gossip",
+      "summary": "Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9gkv34kezdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T20:37:25.000Z",
+      "category": "league",
+      "region": "england spain germany",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Barcelona"
       ]
     },
     {
@@ -231,22 +302,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "dd735f715f8322",
-      "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
-      "summary": "Lamine Yamal opens scoring in ninth straight win Luis Díaz hat-trick helps Bayern thump RB Leipzig 6-1 Barcelona ’s La Liga juggernaut rolled into Seville on Saturday a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
-      "publishedAt": "2026-10-17T19:05:47.000Z",
-      "category": "league",
-      "region": "spain italy france germany",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Barcelona",
-        "Psg"
       ]
     },
     {
@@ -535,61 +590,6 @@
       "region": "england",
       "tags": [
         "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "e6533cfdc30ad6",
-      "title": "Everton did not play well - Moyes",
-      "summary": "Everton manager David Moyes reacts to their defeat against Chelsea at the Hill Dickinson Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck0j04346n70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T14:42:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2b5dcf696941ea",
-      "title": "Chelsea go against all narratives to claim Alonso’s most satisfying win yet",
-      "summary": "Chelsea did all the things we thought they couldn’t to win in a place they rarely ever do and deliver Xabi Alonso his most gratifying victory…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/everton-0-2-chelsea-reaction-alonso-win-against-all-narratives",
-      "publishedAt": "2026-10-17T14:38:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6a3be37059517b",
-      "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
-      "summary": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunt...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
-      "publishedAt": "2026-10-17T13:53:13.000Z",
-      "category": "issue",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "3e641906a02797",
-      "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
-      "summary": "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T13:39:16.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
         "Chelsea"
       ]
     }
