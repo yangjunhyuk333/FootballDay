@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-19T04:00:16.619Z",
+  "generatedAt": "2026-10-19T12:39:25.977Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,51 +99,25 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "ff218fb94368c8",
-      "title": "PL Predictions: Spurs to bag rare home win on MNF",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+      "id": "499cc65ecbea86",
+      "title": "What did we learn from England in the first round of RLWC 2026?",
+      "summary": "It was a week of highs and lows for England men and women in the Rugby League World Cup, with England women's massive 70-4 win over Wales women being followed by a toug...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13598732/premier-league-predictions-jones-knows-best-bets-leeds-vs-manchester-united-and-more",
-      "publishedAt": "2026-10-19T04:00:16.356Z",
-      "category": "transfer",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13600528/rugby-league-world-cup-2026-what-we-learnt-from-englands-opener-the-australia-test-and-ignoring-points-require",
+      "publishedAt": "2026-10-19T12:39:25.634Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
-        "Premier League"
+        "World Cup"
       ]
     },
     {
-      "id": "98b8d1b7dd3650",
-      "title": "Man Utd held by Leeds as winless run continues",
-      "summary": "Manchester United delivered a more committed performance in a changed formation but were held to a 1-1 draw by Leeds as pressure on Michael Carrick continues to grow.",
+      "id": "3fe444a56a1fd3",
+      "title": "London City developing at a rapid rate as Arsenal flop again",
+      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the he...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/leeds-united-vs-manchester-united/report/559509",
-      "publishedAt": "2026-10-19T04:00:16.356Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9e9684a0c68e7c",
-      "title": "Papers: Man Utd weigh up move for Ireland striker Parrott",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13600790/manchester-united-weigh-up-stunning-move-for-real-betis-and-ex-tottenham-forward-troy-parrott-paper-talk",
-      "publishedAt": "2026-10-19T04:00:16.355Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Arteta salutes ‘special’ Madueke after late winner",
-      "summary": "Arsenal latest: Arteta salutes ‘special’ Madueke after late winner",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-19T04:00:16.355Z",
+      "url": "https://www.skysports.com/football/news/12040/13600861/wsl-london-city-lionesses-showing-rapid-development-in-pursuit-of-champions-league-football-as-arsenal-flop-again",
+      "publishedAt": "2026-10-19T12:39:25.634Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,45 +125,451 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3fb066569d8707",
-      "title": "Neville delivers Carrick warning after Man Utd 'stepping stone' performance",
-      "summary": "Sky Sports pundit Gary Neville believes Manchester United's 1-1 draw at Leeds could be a \"stepping stone\" but has warned that Michael Carrick will have a problem if his...",
+      "id": "96975457d01a56",
+      "title": "Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
+      "summary": "The defeat to Brighton has scared Arsenal. After winning the league, they came out and played some entertaining football, but then that result happened and they’ve gone...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13600722/man-utd-boss-michael-carrick-must-not-be-in-bottom-half-come-january-warns-gary-neville-after-leeds-draw",
-      "publishedAt": "2026-10-19T04:00:16.355Z",
+      "url": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
+      "publishedAt": "2026-10-19T12:39:25.633Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "2b0b393edb893c",
+      "title": "Arsenal: Arteta makes ‘call’ for £67m star as Barcelona reach decision on sale",
+      "summary": "Arsenal head coach Mikel Arteta wants the Gunners to sign Xavi Espart from Barcelona in the January transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-arteta-call-espart-barcelona-reach-decision-sale",
+      "publishedAt": "2026-10-19T12:32:33.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4824305e9ca8ea",
+      "title": "Teddy Sheringham ‘not sold’ on Man Utd midfielder and sends ‘huge’ sack warning to Michael Carrick",
+      "summary": "Teddy Sheringham has revealed why he is “not sold” on Manchester United star Carlos Baleba, while he has issued a warning to Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/teddy-sheringham-not-sold-man-utd-midfielder-huge-sack-warning-michael-carrick",
+      "publishedAt": "2026-10-19T12:20:58.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
         "Manchester"
       ]
     },
     {
-      "id": "872901b65de9ca",
-      "title": "Arsenal win with one shot on target as Forest sink into bottom three",
-      "summary": "Arsenal's only shot on target proved enough to snatch victory at Nottingham Forest through Noni Madueke's deflected strike, keeping the champions within touching distan...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/report/559512",
-      "publishedAt": "2026-10-19T04:00:16.355Z",
+      "id": "92389b0d6b1cf2",
+      "title": "£100m star ‘very keen on moving to Chelsea’ after speaking to Xabi Alonso",
+      "summary": "An England international midfielder wants to join Chelsea in the January transfer window, according to a journalist.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alex-scott-chelsea-bournemouth-2027-january-transfer-happening",
+      "publishedAt": "2026-10-19T12:14:07.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "838dc25475b8d2",
+      "title": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
+      "summary": "Bruised Bundesliga champions hit a supposed rival for six and their flying winger is peaking at a perfect moment When Bayern Munich fail to win for two games in a row,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/19/bayern-munich-luis-diaz-arsenal-revenge-mission-leipzig-bundesliga",
+      "publishedAt": "2026-10-19T11:49:33.000Z",
+      "category": "ratings",
+      "region": "england france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "8309dc4b9d5c1a",
+      "title": "Spanish media marvel over Mbappe’s ‘best’ Real Madrid goal – ‘It reminded me of Ronaldo’",
+      "summary": "Mbappe had actually failed to find the net in his previous two LaLiga outings, but was back on form against Sevilla and now has 11 goals in as many matches ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/spanish-media-rave-kylian-mbappe-best-real-madrid-goal-ronaldo-comparisons",
+      "publishedAt": "2026-10-19T11:39:46.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "b2c07d7f99edd3",
+      "title": "Man City FFP: Barcelona ‘begin talks’ to sign Haaland as City star reaches exit decision",
+      "summary": "Barcelona have started negotiations to sign Man City star Erling Haaland after the club’s guilty verdict, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-barcelona-begin-talks-haaland-reaches-exit-decision",
+      "publishedAt": "2026-10-19T11:03:48.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "d6bfcba0f2af52",
+      "title": "WSL talking points: pressure mounts on Slegers as Hemp closes on record",
+      "summary": "Another round of games and another disappointing draw for Arsenal while Manchester City sit top of the table with a 100% record There would have been hope that the inte...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/19/wsl-talking-points-pressure-slegers-arsenal-hemp-assists-record-manchester-city",
+      "publishedAt": "2026-10-19T11:01:19.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "79dc6b5da6f7d0",
+      "title": "Man City FFP: Arsenal legend reveals punishment City will receive in ‘six weeks’ – ‘I’m hearing’",
+      "summary": "Arsenal legend Martin Keown has shed light on what he is “hearing” about the Manchester City FFP saga and when it will be “all over”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-arsenal-legend-reveals-minor-punishment-city-when-saga-all-over",
+      "publishedAt": "2026-10-19T10:54:18.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
         "Arsenal",
         "Manchester"
       ]
     },
     {
-      "id": "65fd43df1a58e5",
-      "title": "Football Daily",
-      "summary": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+      "id": "9a372af1e8531d",
+      "title": "Man Utd choose two top priority January signings as Romano confirms Barcelona star ‘for sure’ could join",
+      "summary": "According to reports, Manchester United have two transfer priorities for the January transfer window, and a Barcelona star could join.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-choose-two-top-priority-january-signings-romano-barcelona-star",
+      "publishedAt": "2026-10-19T10:13:58.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "dcbdc71b9aaa37",
+      "title": "England manager Wiegman signs contract extension",
+      "summary": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0phbswc?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T22:26:00.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T10:08:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ccdb3d56892ee0",
+      "title": "Liverpool target €50m Austrian midfielder after Bayern Munich ‘gave him away’",
+      "summary": "Liverpool are keeping tabs on an Austria international midfielder, and so are Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/paul-wanner-liverpool-bayern-munich-psv",
+      "publishedAt": "2026-10-19T10:03:27.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Liverpool",
+        "Manchester",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "40e50bee250a72",
+      "title": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
+      "summary": "Wiegman says she ‘cannot think of a better job in football’ She can target three Euros wins in a row with Lionesses Sarina Wiegman has extended her contract to continue...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
+      "publishedAt": "2026-10-19T10:00:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b72cc35ffc1f73",
+      "title": "Liverpool: World Cup star gives major Reds transfer decision clue after FSG make ‘offer’",
+      "summary": "Liverpool have been given a major boost in the race to sign Gilberto Mora from Club Tijuana in the January window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-mora-tijuana-transfer-decision-clue-offer",
+      "publishedAt": "2026-10-19T09:56:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "32e40798c23fad",
+      "title": "Man Utd risk Conte blunder as his shadow looms large over another alerted club",
+      "summary": "Man Utd could reportedly miss out on Antonio Conte if they wait too long to decide Michael Carrick’s future with Juventus interested.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-risk-conte-blunder-as-his-shadow-looms-large-over-another-alerted-club",
+      "publishedAt": "2026-10-19T09:18:27.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "e954a3870c8e46",
+      "title": "At Strasbourg, Gio Reyna is starting to gain what had been elusive: momentum",
+      "summary": "A goal against PSG is proof on the scoresheet of what can be seen on the teamsheet: at long last, Reyna is getting consistent minutes For an entire four-year cycle, to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/19/gio-reyna-strasbourg-usmnt-psg-goal",
+      "publishedAt": "2026-10-19T09:00:25.000Z",
+      "category": "transfer",
+      "region": "france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Psg"
+      ]
+    },
+    {
+      "id": "7d6bb8ffeb2ee7",
+      "title": "Arsenal are fitting champions of the Scrappier Premier League",
+      "summary": "This is the Premier League era of time-wasting and the awkward slog. It’s little wonder that Arsenal are champions.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-fitting-champions-scrappier-premier-league",
+      "publishedAt": "2026-10-19T08:54:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "429363e0fd2c64",
+      "title": "Liverpool: Romano puts Reds in mix for bombshell £100m January transfer after huge U-turn",
+      "summary": "Fabrizio Romano has revealed that Liverpool are potential January suitors for Alex Scott with Bournemouth now open to selling the midfielder.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-alex-scott-january-transfer-bournemouth-u-turn",
+      "publishedAt": "2026-10-19T08:14:07.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "330f45781e6093",
+      "title": "Premier League sack race: Michael Carrick clear favourite as Man Utd blow another lead",
+      "summary": "Michael Carrick is a solid Premier League Sack Race favourite after more dropped points in the Premier League this weekend.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
+      "publishedAt": "2026-10-19T08:11:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "44d420aa7d8d8c",
+      "title": "Man Utd: Peter Schmeichel delivers bold prediction on INEOS sacking Michael Carrick – ‘I don’t think so’",
+      "summary": "Manchester United legend Peter Schmeichel has made a bold prediction on Michael Carrick’s future at Old Trafford after the 1-1 draw at Leeds United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-peter-schmeichel-delivers-bold-prediction-ineos-sacking-michael-carrick",
+      "publishedAt": "2026-10-19T08:05:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1d2c0067d66b9f",
+      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
+      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
+      "publishedAt": "2026-10-19T08:01:04.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "f139c145fb7f9b",
+      "title": "Man City FFP: Hammer blow for PL as clubs send stark warning about punishment timeframe",
+      "summary": "The talk among Premier League clubs about the case against Man City is reportedly that “nobody can see it getting sorted out this season”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-hammer-blow-premier-league-stark-warning-punishment",
+      "publishedAt": "2026-10-19T07:45:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "c28cb17e52a3e5",
+      "title": "Arsenal and their ‘boring, turgid, horseshoe passing’ are eviscerated",
+      "summary": "Arsenal are rotten – led by a cross-country runner in Declan Rice – and almost as offensive as Manchester Cheaty.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-boring-turgid-horsehoe-passing-mailbox",
+      "publishedAt": "2026-10-19T07:35:32.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1f2ed8ba1d74c2",
+      "title": "Brighton storm Premier League team of the season so far featuring no Arsenal players",
+      "summary": "Three Brighton stars have joined Pascal Gross in the Premier League team of the season so far which features not one player from the champions…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-team-of-the-season-so-far-2026-27",
+      "publishedAt": "2026-10-19T07:25:35.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e5ad86af6ee3bc",
+      "title": "£60m Arsenal star told he’ll now barely play as Mikel Arteta hails ‘special’ Gunners teammate – ‘he’s a sub’",
+      "summary": "Arsenal star Eberechi Eze has been told that he is barely going to play this season, while Mikel Arteta has hailed one of his teammates.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/60m-arsenal-star-told-barely-play-arteta-hails-special-gunners-teammate",
+      "publishedAt": "2026-10-19T07:20:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fa04909b51d953",
+      "title": "Celtic target rejects new deal - Monday's gossip",
+      "summary": "Celtic are on high alert for the January transfer window with summer target Balazs Toth resisting a new deal at Blackburn Rovers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxdd83jq9y47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T07:05:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ff69eb31cd9410",
+      "title": "Premier League: 10 talking points from the weekend’s action",
+      "summary": "Florian Wirtz takes on more responsibility in Liverpool’s attack while Pierre Sage is under pressure at Crystal Palace Dominic Calvert-Lewin’s physicality overpowering...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action",
+      "publishedAt": "2026-10-19T07:00:22.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane extending his vast lead over the chasing pack",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-10-19T06:25:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "71b018f0145234",
+      "title": "Sunderland, Brentford duos join Palace flops in Prem weekend’s worst XI",
+      "summary": "Crystal Palace inevitably feature prominently in the Premier League’s worst XI of the weekend, joined by dodgy duos from Sunderland and Brentford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-worst-xi-of-the-weekend-matchday-seven-palace-forest-brentford-sunderland",
+      "publishedAt": "2026-10-19T06:19:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1254c584aed323",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwkg57jpj3yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T05:47:12.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "a287925fe60e3c",
+      "title": "'Not in our DNA' - will 3v3 change the future of English football?",
+      "summary": "Changes have been implemented by the FA from this season with under-7s dropping from playing 5v5 to 3v3 in England - could it help to change the DNA of English football?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3elveky53eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T05:38:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "29d8e94313940f",
+      "title": "Euro Leagues",
+      "summary": "Mikey Moore is on loan at Cologne from Spurs - and loving life in the Bundesliga.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ph7nfj?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T05:00:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
       ]
     },
     {
@@ -220,372 +600,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "La Liga",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "9d26ab5173b494",
-      "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay",
-      "summary": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
-      "publishedAt": "2026-10-18T19:56:30.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e2259ebc8ba024",
-      "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
-      "summary": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T19:55:41.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5f3a7933d55e66",
-      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
-      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
-      "publishedAt": "2026-10-18T19:53:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Harry Kane extending his vast lead over the chasing pack",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-10-18T19:25:59.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "61866cabdbb13e",
-      "title": "Another unremarkable win shows Arsenal’s strength is in depth rather than creativity | Jonathan Wilson",
-      "summary": "Champions so risk-averse Forest were lured into thinking they had a chance, until bench was used to see them off Pass. Pass. Pass. Pass. Sideways. Square. Backwards. Pa...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/18/arsenal-strength-in-depth-nottingham-forest-premier-league",
-      "publishedAt": "2026-10-18T19:20:38.000Z",
-      "category": "worldcup",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Michael Carrick clear favourite as Man Utd blow another lead",
-      "summary": "Michael Carrick is a solid Premier League Sack Race favourite after more dropped points in the Premier League this weekend.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-10-18T19:16:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1d9a80f519c29c",
-      "title": "Neville insists one Man Utd star ‘absolutely critical’ for ‘par’ Premier League finish",
-      "summary": "Neville has revealed what he believes would be a “par” PL finish for Man Utd under Carrick and insists one player will be “absolutely critical” for them to achieve that...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/neville-one-man-utd-star-fit-crticial-par-premier-league-finish",
-      "publishedAt": "2026-10-18T19:04:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1770000e61e17e",
-      "title": "Leeds extend Man Utd's winless run to six games",
-      "summary": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T18:59:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ff07db812d7ca1",
-      "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
-      "summary": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T18:59:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "20602f80cf7d5c",
-      "title": "'Maybe we became arrogant' - Sunderland struggles continue",
-      "summary": "Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6073pmddk0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T18:49:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "6e4bf5a6121551",
-      "title": "European football: 10-man Lyon hold off Nice to move top of Ligue 1",
-      "summary": "Five teams level on points after Monaco lose to Lorient Real Madrid ease past Sevilla with Mbappé double Ten-man Lyon held on for a 2-1 comeback victory over Nice to mo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/18/european-football-monaco-rennes-ligue-1-bayer-leverkusen-freiburg-bundesliga-como-fiorentina-seria-a-real-madrid-sevilla-la-liga",
-      "publishedAt": "2026-10-18T18:36:15.000Z",
-      "category": "league",
-      "region": "spain france germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Ligue 1",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "ab4d9296a9d89a",
-      "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
-      "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T18:33:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "7a64a9f6e21d9b",
-      "title": "Arsenal substitutes change game - Arteta",
-      "summary": "Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T18:31:09.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2fdfc509e156fa",
-      "title": "Arsenal non-performance still just enough against a Forest side making a quietly sh*t start",
-      "summary": "There were plenty of reasons to think Arsenal would win 1-0 at Nottingham Forest and so it proved on a forgettable afternoon at the City Ground.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-non-performance-still-just-enough-forest-bad-start",
-      "publishedAt": "2026-10-18T18:26:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a98a6021c593cd",
-      "title": "Arsenal star ‘devastated’ by Mikel Arteta decision in victory over Nottingham Forest",
-      "summary": "Ian Wright believes the Arsenal star will be “devastated” after Arsenal’s 1-0 win over Nottingham Forest and urged him to “have a real go” next time.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-star-devastated-arteta-decision-victory-nottingham-forest",
-      "publishedAt": "2026-10-18T18:26:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "310397d68193a8",
-      "title": "Long-range goals from further and further out",
-      "summary": "After Diego Gomez's halfway-line stunner for Brighton on Sunday, BBC Sport looks at the previous longest-range Premier League goals as recorded by Opta in the last 20 s...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6jdmy04ryjgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T18:09:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "4977e5ef99cdce",
-      "title": "Harry Maguire pulls a Lisandro Martinez in post-match criticism of Man Utd cowards",
-      "summary": "Harry Maguire has taken aim at his Manchester United teammates in the wake of their 1-1 draw with Leeds on Sunday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/harry-maguire-pulls-a-lisandro-martinez-in-post-match-criticism-of-man-utd-cowards",
-      "publishedAt": "2026-10-18T17:42:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e85f522a3f3557",
-      "title": "Madueke breaks Nottingham Forest’s resistance as dogged Arsenal edge to victory",
-      "summary": "The theme before kick-off was blanks. Or, more precisely, whether either team could stop firing them at the City Ground. It was a detail to make Oliver Glasner extremel...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report",
-      "publishedAt": "2026-10-18T17:39:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "17e92c94b911e1",
-      "title": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
-      "summary": "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn33jgx84o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T17:35:44.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f71b828d949566",
-      "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
-      "summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T17:24:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8b60409163464c",
-      "title": "James scores brilliant double as Chelsea put six past Spurs",
-      "summary": "Chelsea secure their fifth-consecutive Women's Super League win with victory over Tottenham in manager Sonia Bompastor's 50th game in the competition.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c962yd2ykejmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T17:02:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7d7f002fef3880",
-      "title": "‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds",
-      "summary": "Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Leeds manager Farke After a week in which Michael Carrick had “the headpho...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start",
-      "publishedAt": "2026-10-18T16:50:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2dfc534deb2a12",
-      "title": "Carrick told to grow a pair by two pundits after Man Utd decision vs Leeds",
-      "summary": "Michael Carrick has been told to “get your house in order” by two former Premier League players after what they claim was a weak decision for Man Utd vs Leeds.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carrick-grow-pair-two-pundits-man-utd-leeds",
-      "publishedAt": "2026-10-18T16:47:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "de3b4f5bc808a1",
-      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
-      "summary": "Khadija Shaw scores twice as Manchester City made it six wins from six in the Women's Super League after a 3-2 victory over Brighton.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T16:13:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "113115a6c0d231",
-      "title": "Man Utd showed 'unity' in draw with Leeds - Carrick",
-      "summary": "Manchester United manager Michael Carrick says his side showed \"unity\" during their 1-1 draw with Leeds at Elland Road.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmlyl8yyzryeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T15:46:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ee387d9058606d",
-      "title": "Carrick sack coming according to Man Utd omen as pressure piled on new scapegoat",
-      "summary": "Novel use of Noussair Mazraoui got Erik ten Hag sacked by Manchester United almost exactly two years ago, but playing him at centre-back vs Leeds isn’t on Michael Carri...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-carrick-sack-omen-costs-man-utd-pile-pressure-red-devils-scapegoat",
-      "publishedAt": "2026-10-18T15:40:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bf32624010ceec",
-      "title": "Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland",
-      "summary": "Bournemouth’s, and Marco Rose’s, wait for a Premier League win is over. Sunderland, locked in the bottom three, are becoming this season’s object lesson in travelling t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/18/bournemouth-sunderland-premier-league-match-report",
-      "publishedAt": "2026-10-18T15:19:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Europa League"
       ]
     }
   ],
