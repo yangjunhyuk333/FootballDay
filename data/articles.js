@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-18T20:21:15.885Z",
+  "generatedAt": "2026-10-19T04:00:16.619Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,80 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "991408d224d1ac",
-      "title": "Chelsea latest: Martinez has surgery on fractured jaw",
-      "summary": "Chelsea latest: Martinez has surgery on fractured jaw",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-18T20:21:15.643Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "451c4b7d118073",
-      "title": "Man City maintain perfect WSL record as Chelsea, Man Utd, London City win",
-      "summary": "Manchester City held off a spirited fightback from Brighton to close out a 3-2 win and maintain their perfect start in the Women’s Super League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13600686/man-city-maintain-perfect-record-as-chelsea-man-utd-and-london-city-lionesses-all-win-womens-super-league-round-up",
-      "publishedAt": "2026-10-18T20:21:15.643Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "08d81640bfc079",
-      "title": "Arsenal breakthrough! Madueke's deflected strike sees visitors in front",
-      "summary": "Noni Madueke's deflected strike gives Arsenal the lead.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13600732/noni-maduekes-deflected-strike-gives-arsenal-the-lead",
-      "publishedAt": "2026-10-18T20:21:15.643Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "bf3ce59e5a344f",
-      "title": "Bournemouth beat 10-man Sunderland to pick up first league win of season",
-      "summary": "Marcus Tavernier and Evanilson both struck in a comfortable 2-0 win over 10-man Sunderland as Bournemouth picked up their first Premier League win of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bournemouth-vs-sunderland/report/559504",
-      "publishedAt": "2026-10-18T20:21:15.643Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "872901b65de9ca",
-      "title": "Arsenal win with one shot on target as Forest sink into bottom three",
-      "summary": "Arsenal's only shot on target proved enough to snatch victory at Nottingham Forest through Noni Madueke's deflected strike, keeping the champions within touching distan...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/report/559512",
-      "publishedAt": "2026-10-18T20:21:15.642Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
       "id": "ff218fb94368c8",
       "title": "PL Predictions: Spurs to bag rare home win on MNF",
       "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13598732/premier-league-predictions-jones-knows-best-bets-leeds-vs-manchester-united-and-more",
-      "publishedAt": "2026-10-18T20:21:15.642Z",
+      "publishedAt": "2026-10-19T04:00:16.356Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -185,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United delivered a more committed performance in a changed formation but were held to a 1-1 draw by Leeds as pressure on Michael Carrick continues to grow.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/leeds-united-vs-manchester-united/report/559509",
-      "publishedAt": "2026-10-18T20:21:15.642Z",
+      "publishedAt": "2026-10-19T04:00:16.356Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -193,17 +125,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3fb066569d8707",
-      "title": "Neville delivers Carrick warning after Man Utd 'stepping stone' performance",
-      "summary": "Sky Sports pundit Gary Neville believes Manchester United's 1-1 draw at Leeds could be a \"stepping stone\" but has warned that Michael Carrick will have a problem if his...",
+      "id": "9e9684a0c68e7c",
+      "title": "Papers: Man Utd weigh up move for Ireland striker Parrott",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13600722/man-utd-boss-michael-carrick-must-not-be-in-bottom-half-come-january-warns-gary-neville-after-leeds-draw",
-      "publishedAt": "2026-10-18T20:21:15.641Z",
+      "url": "https://www.skysports.com/football/news/12040/13600790/manchester-united-weigh-up-stunning-move-for-real-betis-and-ex-tottenham-forward-troy-parrott-paper-talk",
+      "publishedAt": "2026-10-19T04:00:16.355Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Manchester"
+        "Transfer"
       ]
     },
     {
@@ -212,7 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Arsenal latest: Arteta salutes ‘special’ Madueke after late winner",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-18T20:21:15.640Z",
+      "publishedAt": "2026-10-19T04:00:16.355Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -220,9 +151,81 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "3fb066569d8707",
+      "title": "Neville delivers Carrick warning after Man Utd 'stepping stone' performance",
+      "summary": "Sky Sports pundit Gary Neville believes Manchester United's 1-1 draw at Leeds could be a \"stepping stone\" but has warned that Michael Carrick will have a problem if his...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13600722/man-utd-boss-michael-carrick-must-not-be-in-bottom-half-come-january-warns-gary-neville-after-leeds-draw",
+      "publishedAt": "2026-10-19T04:00:16.355Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "872901b65de9ca",
+      "title": "Arsenal win with one shot on target as Forest sink into bottom three",
+      "summary": "Arsenal's only shot on target proved enough to snatch victory at Nottingham Forest through Noni Madueke's deflected strike, keeping the champions within touching distan...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/report/559512",
+      "publishedAt": "2026-10-19T04:00:16.355Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "65fd43df1a58e5",
+      "title": "Football Daily",
+      "summary": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0phbswc?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T22:26:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5a10ef65b15be2",
+      "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+      "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T21:39:04.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "058c92e5c4eb80",
+      "title": "Ramos could make La Liga return - Monday's gossip",
+      "summary": "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrw11dv5xjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T20:21:54.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Liverpool"
+      ]
+    },
+    {
       "id": "9d26ab5173b494",
       "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay",
-      "summary": "Getting rid of Michael Carrick is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whis...",
+      "summary": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle a...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
       "publishedAt": "2026-10-18T19:56:30.000Z",
@@ -357,17 +360,18 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "6e4bf5a6121551",
-      "title": "European football: Monaco miss chance to go top; Bayer Leverkusen find form",
-      "summary": "Monaco go down 1-0 at Lorient in Ligue 1 Bayer Leverkusen come from behind to beat Freiburg Noah Cadiou’s second-half penalty for Lorient prevented Monaco returning to...",
+      "title": "European football: 10-man Lyon hold off Nice to move top of Ligue 1",
+      "summary": "Five teams level on points after Monaco lose to Lorient Real Madrid ease past Sevilla with Mbappé double Ten-man Lyon held on for a 2-1 comeback victory over Nice to mo...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/18/european-football-monaco-rennes-ligue-1-bayer-leverkusen-freiburg-bundesliga-como-fiorentina-seria-a-real-madrid-sevilla-la-liga",
       "publishedAt": "2026-10-18T18:36:15.000Z",
-      "category": "issue",
-      "region": "france germany",
+      "category": "league",
+      "region": "spain france germany",
       "tags": [
         "Football",
         "Bundesliga",
-        "Ligue 1"
+        "Ligue 1",
+        "Real Madrid"
       ]
     },
     {
