@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:36:29.872Z",
+  "generatedAt": "2026-10-20T21:24:49.811Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,29 +99,16 @@
       "pinned": true
     },
     {
-      "id": "d1ef970d60ac77",
-      "title": "Five Man Utd players miss training ahead of Como Champions League trip",
-      "summary": "Five Man Utd players miss training ahead of Como Champions League trip",
+      "id": "37ddd0a3d15dc7",
+      "title": "Reaction as Liverpool come from behind to beat Villarreal LIVE!",
+      "summary": "Reaction as Liverpool come from behind to beat Villarreal LIVE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/como-vs-manchester-united/live/577645",
-      "publishedAt": "2026-10-20T16:36:29.734Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "7bc983c786f565",
-      "title": "Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd",
-      "summary": "Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-10-20T16:36:29.734Z",
+      "url": "https://www.skysports.com/football/liverpool-vs-villarreal/live/577635",
+      "publishedAt": "2026-10-20T21:24:49.548Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england spain",
       "tags": [
-        "Transfer"
+        "Liverpool"
       ]
     },
     {
@@ -130,7 +117,7 @@
       "summary": "Rossa Ryan has been called up to partner Constitution Hill for his Italian mission on Sunday in the Gran Premio del Jockey Club.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13601442/constitution-hill-rossa-ryan-to-partner-nicky-hendersons-star-at-san-siro",
-      "publishedAt": "2026-10-20T16:36:29.733Z",
+      "publishedAt": "2026-10-20T21:24:49.548Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -143,11 +130,283 @@
       "summary": "Anna Stembridge has been appointed the new head coach of England through to the 2027 Netball World Cup in Sydney.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/netball/news/12040/13601402/england-netball-anna-stembridge-named-new-vitality-roses-head-coach",
-      "publishedAt": "2026-10-20T16:36:29.733Z",
+      "publishedAt": "2026-10-20T21:24:49.548Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "29676629030e5e",
+      "title": "Ngumoha stars as Liverpool come back to win thriller against Villarreal",
+      "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season’s Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
+      "publishedAt": "2026-10-20T21:24:49.547Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b32a2cd4411521",
+      "title": "Hat-trick hero Foden stars as Man City thrash AEK Athens",
+      "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+      "publishedAt": "2026-10-20T21:24:49.547Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7f5a5463607f23",
+      "title": "Barcelona handed first defeat of season by PSG in classic",
+      "summary": "Barcelona were handed their first defeat of the season as they lost 4-2 to Paris Saint-Germain in a Champions League classic.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638",
+      "publishedAt": "2026-10-20T21:24:49.547Z",
+      "category": "ucl",
+      "region": "spain france",
+      "tags": [
+        "Champions League",
+        "Barcelona",
+        "Psg"
+      ]
+    },
+    {
+      "id": "52cfd89724cbd1",
+      "title": "PSG 4-2 Barcelona, Manchester City 5-1 AEK, Napoli 4-3 Bodø/Glimt: Champions League – live",
+      "summary": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon Peeeeeeeeep! The games have begun! Except for the one in Par...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
+      "publishedAt": "2026-10-20T21:07:15.000Z",
+      "category": "ucl",
+      "region": "england spain italy france",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "569e3300da6dab",
+      "title": "Liverpool 4-3 Villarreal: Champions League – live reaction",
+      "summary": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Villarreal kick off. They’re kicking towards the Kop in this fir...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
+      "publishedAt": "2026-10-20T21:06:23.000Z",
+      "category": "ucl",
+      "region": "england spain france",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "09e713fc747f7b",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T20:56:53.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2b041df0a35ffd",
+      "title": "Arsenal criticism comes from very small minority - Arteta",
+      "summary": "David Raya says he does not know what to say when people call Arsenal's style of play \"boring or irritating\", as Mikel Arteta brushes off criticism.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T20:33:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1c8a01797e424f",
+      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+      "summary": "Manchester United targeting Lewis Hall and Adrien Truffert, Real Madrid remain interested in Riccardo Calafiori, Liverpool and Arsenal both keen on Xavi Espart, plus mo...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T20:17:15.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "616ef42e090c2d",
+      "title": "Carrick insists Manchester United board back him after Ten Hag points to ‘toxic culture’",
+      "summary": "Manager acknowledges he needs to start winning games Ten Hag accuses Cristiano Ronaldo of letting club down Michael Carrick believes Manchester United’s board continue...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+      "publishedAt": "2026-10-20T20:13:21.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f3a7933d55e66",
+      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
+      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
+      "publishedAt": "2026-10-20T20:11:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ab7fb924dc5fbf",
+      "title": "Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
+      "summary": "Goalkeeper brushes off criticism before Bayern clash Kompany could miss game with virus affecting his legs David Raya says he does not care if rival supporters call Ars...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
+      "publishedAt": "2026-10-20T20:00:37.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "1f87fb54cf99ae",
+      "title": "Man Utd told ex-player at PL rivals would be Michael Carrick’s ‘best defender right now’ – ‘a revelation’",
+      "summary": "Manchester United have been told that one of their former players would be their “best defender now” if he didn’t leave on a free transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-told-ex-player-at-pl-rivals-would-be-michael-carricks-best-defender-right-now-a-revelation",
+      "publishedAt": "2026-10-20T19:05:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9118b4d5007563",
+      "title": "Turkish FA bans 147 officials for breaching betting rules",
+      "summary": "Trabzonspor president Ertugrul Dogan is among 147 club officials given a 45-day ban by the Turkish Football Federation (TFF) for breaching betting rules.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr86m4r36po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T18:39:43.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "bec7dfd79a966f",
+      "title": "Arsenal star now ‘serious’ on leaving as £60m signing in ‘fight to save career’ – ‘he isn’t the answer’",
+      "summary": "Arsenal striker Viktor Gyokeres is reportedly ‘frustrated’ with the Premier League giants and is giving ‘serious thought’ to leaving.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-star-now-serious-leaving-60m-signing-fight-save-career-two-arteta-concerns",
+      "publishedAt": "2026-10-20T18:35:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e160690b4ba866",
+      "title": "Cesc Fabregas responds on replacing Man Utd boss Michael Carrick as INEOS reach decision on sack",
+      "summary": "Como boss Cesc Fabregas has responded to speculation suggesting he could replace Michael Carrick at Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/cesc-fabregas-responds-replacing-man-utd-boss-michael-carrick-ineos-reach-decision-sack",
+      "publishedAt": "2026-10-20T17:52:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "73813cc21105bc",
+      "title": "Tottenham ‘best player’ reaches verdict on leaving as he chooses between Barcelona, Real Madrid",
+      "summary": "According to reports, Tottenham Hotspur standout Pedro Porro ‘would jump’ at the chance to leave and join a European giant.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-best-player-reaches-verdict-leaving-chooses-between-barcelona-real-madrid",
+      "publishedAt": "2026-10-20T17:18:53.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "330f45781e6093",
+      "title": "Premier League sack race: Michael Carrick clear favourite as Man Utd blow another lead",
+      "summary": "Michael Carrick is a solid Premier League Sack Race favourite after more dropped points in the Premier League this weekend.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
+      "publishedAt": "2026-10-20T17:11:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "fd8075fe2b3556",
+      "title": "Webb backs VAR over Botman challenge on Jackson",
+      "summary": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T16:56:53.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2157221193641a",
+      "title": "Man Utd learn Crystal Palace star’s decision on joining in January as INEOS turn to ‘stunning double raid’",
+      "summary": "According to reports, Crystal Palace star Jean-Philippe Mateta wants to join Manchester United in January as INEOS ‘plot a stunning double raid’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-learn-crystal-palace-star-decision-joining-january-ineos-double-raid",
+      "publishedAt": "2026-10-20T16:43:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -187,22 +446,6 @@
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "ab7fb924dc5fbf",
-      "title": "Vincent Kompany to miss Bayern’s clash with Arsenal due to legs-affecting virus",
-      "summary": "Kompany told to rest after struggling with infection His assistant poised to oversee Champions League game Vincent Kompany is touch and go to be in the Bayern Munich du...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
-      "publishedAt": "2026-10-20T15:37:55.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Champions League",
-        "Arsenal"
       ]
     },
     {
@@ -262,7 +505,7 @@
     },
     {
       "id": "b4ee7fc87ee54f",
-      "title": "Former Norwich and Finland striker Pukki to retire",
+      "title": "Former Norwich and Celtic striker Pukki to retire",
       "summary": "Former Norwich City and Finland striker Teemu Pukki announces his retirement from football at the age of 36.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqvg0vjde20mo?at_medium=RSS&at_campaign=rss",
@@ -353,239 +596,6 @@
       "region": "england",
       "tags": [
         "Champions League"
-      ]
-    },
-    {
-      "id": "b94ff462a0d3dc",
-      "title": "Man City FFP: How City are likely to ‘argue’ for sanction to come AFTER appeal process",
-      "summary": "It seems increasingly likely that Man City will find out their sanction after the appeal process if the guilty verdict is upheld, according to a football finance expert.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-argue-sanction-after-appeal-process",
-      "publishedAt": "2026-10-20T13:18:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1ae5ae6d15d019",
-      "title": "Five-year net spend table: Man City below the rest of Big Six",
-      "summary": "Forget the league table, it’s all about the Premier League net spend table. And Tottenham have somehow usurped Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/transfers-premier-league-five-year-net-spend-man-utd-man-city",
-      "publishedAt": "2026-10-20T13:05:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "02f93944196941",
-      "title": "Man Utd tell Carrick he’ll have ‘no involvement’ in January transfers, says ‘insider’",
-      "summary": "Man Utd head coach Michael Carrick will have ‘no involvement whatsoever in the January transfer window’, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-carrick-no-involvement-january-transfers-insider",
-      "publishedAt": "2026-10-20T12:40:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "9678596d5b23f9",
-      "title": "How Brazil’s election result could shape women’s football in the country",
-      "summary": "Female players including Carlinha and Tayla Carolina have spoken out against the far-right, who they fear will harm the women’s game as well as wider society The day be...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/20/how-brazils-election-result-could-shape-womens-football-in-the-country",
-      "publishedAt": "2026-10-20T12:28:54.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d6648b73a71cba",
-      "title": "Bayern Munich v Arsenal: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between Bayern Munich and Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/bayern-munich-v-arsenal-prediction-preview",
-      "publishedAt": "2026-10-20T12:22:50.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Champions League",
-        "Arsenal",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "05765181b95d70",
-      "title": "Fabian Hurzeler reacts to Man Utd interest as Michael Carrick sack looms",
-      "summary": "Fabian Hurzeler has responded to interest from Manchester United amid lingering fears Michael Carrick is a dead man walking.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabian-hurzeler-reacts-to-man-utd-interest-as-michael-carrick-sack-looms",
-      "publishedAt": "2026-10-20T12:21:10.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "faf3da2d5a295c",
-      "title": "Ronaldo let Manchester United down - Ten Hag",
-      "summary": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T12:12:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ef7f7502b91784",
-      "title": "Arsenal: £70m star’s future under threat with Arteta, Gunners worried about major danger",
-      "summary": "Eberechi Eze is fighting for his future at Arsenal after failing to impress in the early months of the new season, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-eze-future-under-threat-arteta-worried-major-danger",
-      "publishedAt": "2026-10-20T12:06:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "fc6f0da81b59fe",
-      "title": "Liverpool told how much TAA will cost them after decision to re-sign Real Madrid flop",
-      "summary": "Real Madrid have set their asking price as Liverpool explore a deal for Trent Alexander-Arnold in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-told-how-much-taa-will-cost-them-after-decision-to-re-sign-real-madrid-flop",
-      "publishedAt": "2026-10-20T12:05:40.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "1dbd57ed2549e5",
-      "title": "Como v Man Utd: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between Como and Man Utd.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/como-v-man-utd-prediction-preview",
-      "publishedAt": "2026-10-20T11:34:05.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "7b48b93651d75b",
-      "title": "Top 10 highest scoring Championship teams ever",
-      "summary": "Coventry City are on this list after easing past the 90-goal mark on their way back to the Premier League, but who else makes the cut?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-10-highest-scoring-championship-teams-ever-fulham",
-      "publishedAt": "2026-10-20T11:23:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "950a842351b098",
-      "title": "Football On Trial: Sham City",
-      "summary": "The independent commission reaches its verdict: City are guilty on almost all charges.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0phm65x?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T11:20:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "5fc9d8e4ce89d0",
-      "title": "Ryan Giggs ‘tried to convince’ Man City star ‘to join Man Utd’ as INEOS told to target him again",
-      "summary": "Phil Bardsley has named the Manchester City star that Ryan Giggs wanted Manchester United to sign in the summer transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/elliot-anderson-manchester-united-manchester-city-ryan-giggs-phil-bardsley",
-      "publishedAt": "2026-10-20T10:49:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "216ff7dfdfd2fe",
-      "title": "Shocking Manchester United transfer plans for summer 2027 revealed ‘from inside Old Trafford’",
-      "summary": "We have ‘intelligence’ from Manchester United, ‘soundings from insiders’ on Man City, and the single biggest story of all from the Daily Star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/shocking-manchester-united-transfer-plans-summer-2027-revealed",
-      "publishedAt": "2026-10-20T10:47:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e896057d3b4dfa",
-      "title": "SPFL invites bids for new Scottish Premiership TV deal",
-      "summary": "The SPFL expects \"strong interest\" after inviting broadcasters to bid for the UK rights to show Scottish Premiership matches from the 2029-30 campaign.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0x939leo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T10:44:11.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "616ef42e090c2d",
-      "title": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
-      "summary": "Ten Hag says Ronaldo did not complete post-match run Former manager claims club broke promises made to him Erik ten Hag has claimed Cristiano Ronaldo “let the team down...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-      "publishedAt": "2026-10-20T10:43:00.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5f3a7933d55e66",
-      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
-      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
-      "publishedAt": "2026-10-20T10:37:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
