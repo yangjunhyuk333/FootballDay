@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:09:09.048Z",
+  "generatedAt": "2026-10-20T04:13:18.617Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Arsenal's home match against Manchester United, the north London derby and Chelsea's trip to Manchester City will all feature live on Sky Sports in December.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
-      "publishedAt": "2026-10-19T22:09:08.692Z",
+      "publishedAt": "2026-10-20T04:13:18.325Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -119,7 +119,7 @@
       "summary": "FREE TO WATCH: Highlights from Tottenham Hotspurs' match against Coventry in the Premier League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/watch/video/13601159/spurs-3-1-coventry-premier-league-highlights",
-      "publishedAt": "2026-10-19T22:09:08.691Z",
+      "publishedAt": "2026-10-20T04:13:18.324Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -132,7 +132,7 @@
       "summary": "Tottenham claimed their first Premier League win of the season by beating Coventry 3-1 as Dejan Kulusevski made his long-awaited return after 526 days out injured.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/report/559513",
-      "publishedAt": "2026-10-19T22:09:08.691Z",
+      "publishedAt": "2026-10-20T04:13:18.324Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -145,7 +145,7 @@
       "summary": "Mbappe shines in Real Madrid's win over Sevilla",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-10-19T22:09:08.691Z",
+      "publishedAt": "2026-10-20T04:13:18.324Z",
       "category": "transfer",
       "region": "spain",
       "tags": [
@@ -158,12 +158,25 @@
       "summary": "UEFA is increasing the pressure on Gianni Infantino and has sent FIFA an urgent letter demanding answers to 42 detailed questions about his presidency.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
-      "publishedAt": "2026-10-19T22:09:08.691Z",
+      "publishedAt": "2026-10-20T04:13:18.324Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Fifa",
         "Uefa"
+      ]
+    },
+    {
+      "id": "c8ccd27ddd0715",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T23:22:24.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -587,21 +600,6 @@
       "tags": [
         "Football",
         "Premier League"
-      ]
-    },
-    {
-      "id": "d2ccbc939b526e",
-      "title": "Liverpool make decision on Alexander-Arnold return after Iraola confirms Frimpong injury",
-      "summary": "Liverpool are interested in bringing Trent Alexander-Arnold back to Anfield in the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-make-decision-on-alexander-arnold-return-after-iraola-confirms-frimpong-injury",
-      "publishedAt": "2026-10-19T13:19:02.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
       ]
     }
   ],
