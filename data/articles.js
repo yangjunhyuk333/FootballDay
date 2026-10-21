@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-20T21:24:49.811Z",
+  "generatedAt": "2026-10-21T04:01:13.886Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "37ddd0a3d15dc7",
-      "title": "Reaction as Liverpool come from behind to beat Villarreal LIVE!",
-      "summary": "Reaction as Liverpool come from behind to beat Villarreal LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-villarreal/live/577635",
-      "publishedAt": "2026-10-20T21:24:49.548Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "3fe57ffbfaf244",
       "title": "Ryan to partner Constitution Hill in Milan",
       "summary": "Rossa Ryan has been called up to partner Constitution Hill for his Italian mission on Sunday in the Gran Premio del Jockey Club.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/racing/news/12040/13601442/constitution-hill-rossa-ryan-to-partner-nicky-hendersons-star-at-san-siro",
-      "publishedAt": "2026-10-20T21:24:49.548Z",
+      "publishedAt": "2026-10-21T04:01:13.573Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -130,11 +117,24 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Anna Stembridge has been appointed the new head coach of England through to the 2027 Netball World Cup in Sydney.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/netball/news/12040/13601402/england-netball-anna-stembridge-named-new-vitality-roses-head-coach",
-      "publishedAt": "2026-10-20T21:24:49.548Z",
+      "publishedAt": "2026-10-21T04:01:13.573Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
         "World Cup"
+      ]
+    },
+    {
+      "id": "6ae2d0d0674751",
+      "title": "Papers: Man Utd target two left-backs as Martinez faces axe in planned overhaul",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13601643/man-utd-eye-moves-for-lewis-hall-and-adrien-truffert-while-lisandro-martinez-faces-axe-in-summer-defensive-overhaul-paper-talk",
+      "publishedAt": "2026-10-21T04:01:13.572Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
       ]
     },
     {
@@ -143,7 +143,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season’s Champions League.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
-      "publishedAt": "2026-10-20T21:24:49.547Z",
+      "publishedAt": "2026-10-21T04:01:13.571Z",
       "category": "ucl",
       "region": "england spain",
       "tags": [
@@ -152,26 +152,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "b32a2cd4411521",
-      "title": "Hat-trick hero Foden stars as Man City thrash AEK Athens",
-      "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
-      "publishedAt": "2026-10-20T21:24:49.547Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
       "id": "7f5a5463607f23",
       "title": "Barcelona handed first defeat of season by PSG in classic",
       "summary": "Barcelona were handed their first defeat of the season as they lost 4-2 to Paris Saint-Germain in a Champions League classic.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/report/577638",
-      "publishedAt": "2026-10-20T21:24:49.547Z",
+      "publishedAt": "2026-10-21T04:01:13.571Z",
       "category": "ucl",
       "region": "spain france",
       "tags": [
@@ -181,34 +167,249 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "52cfd89724cbd1",
-      "title": "PSG 4-2 Barcelona, Manchester City 5-1 AEK, Napoli 4-3 Bodø/Glimt: Champions League – live",
-      "summary": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon Peeeeeeeeep! The games have begun! Except for the one in Par...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
-      "publishedAt": "2026-10-20T21:07:15.000Z",
+      "id": "b32a2cd4411521",
+      "title": "Hat-trick hero Foden shines as Man City thrash AEK Athens",
+      "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+      "publishedAt": "2026-10-21T04:01:13.570Z",
       "category": "ucl",
-      "region": "england spain italy france",
+      "region": "england",
       "tags": [
-        "Football",
         "Champions League",
-        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "569e3300da6dab",
-      "title": "Liverpool 4-3 Villarreal: Champions League – live reaction",
-      "summary": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Villarreal kick off. They’re kicking towards the Kop in this fir...",
+      "id": "35afd863d832e5",
+      "title": "Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld",
+      "summary": "IFR chair David Kogan insists regulator has power to act City have appealed against Premier League’s charges The Independent Football Regulator (IFR) will have “absolut...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
-      "publishedAt": "2026-10-20T21:06:23.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator",
+      "publishedAt": "2026-10-20T23:34:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0d89d2dcd79e98",
+      "title": "No jeopardy but loads of fun - Champions League sets new goals record",
+      "summary": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T23:03:11.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "fcb3577189e762",
+      "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
+      "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T22:56:55.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "fad4cdce3ecd85",
+      "title": "The biggest spenders in every Premier League season – and where they finished",
+      "summary": "Only five teams in Premier League history have spent the most money and won the title in the same season – the worst finish came in the ’90s.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/biggest-spender-every-premier-league-season-chelsea-manchester-united-liverpool",
+      "publishedAt": "2026-10-20T22:35:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5c5671b54f1425",
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influen...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T22:35:32.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "60a628e79e10f5",
+      "title": "Liverpool, Man City & PSG win on record-breaking night",
+      "summary": "Kelly Cates is joined by Stephen Warnock, Ashley Young, Tom Allnutt and Statman Dave.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0phqcz5?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T22:14:00.000Z",
+      "category": "league",
+      "region": "england france",
+      "tags": [
+        "Liverpool",
+        "Psg"
+      ]
+    },
+    {
+      "id": "0e008e221e545c",
+      "title": "Champions League roundup: McTominay double leads Napoli past Bodø/Glimt",
+      "summary": "Midfielder scores for first time since heart surgery Ten-man Atlético hang on for draw against Stuttgart Scott McTominay scored his first two goals of the season to hel...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
+      "publishedAt": "2026-10-20T21:55:04.000Z",
+      "category": "ucl",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "b1fb4e5b796e3e",
+      "title": "Liverpool star Rio Ngumoha reaches decision on accepting Arsenal ‘serious offer’ – deal ‘on the verge’",
+      "summary": "Liverpool sensation Rio Ngumoha is reportedly ‘on the verge’ of signing a new deal amid interest from Premier League rivals Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-star-rio-ngumoha-reaches-decision-accepting-arsenal-serious-offer",
+      "publishedAt": "2026-10-20T21:53:19.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0829eaabef8e49",
+      "title": "Champions League prize money table calculated as Liverpool jump to 2nd",
+      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
+      "publishedAt": "2026-10-20T21:41:36.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e9cd6b46e21536",
+      "title": "Ngumoha and Wirtz clean up the mess after Liverpool completely sh*t the bed",
+      "summary": "Liverpool started their Champions League game against Villarreal like a dirty protest. So how much credit do they get for cleaning up their own mess?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ngumoha-wirtz-clean-up-liverpool-villarreal-champions-league",
+      "publishedAt": "2026-10-20T21:33:28.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c20f53ae3ec66b",
+      "title": "Carrick wants more Man Utd clean sheets to turn season around",
+      "summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T21:27:35.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e60606c2cc6b72",
+      "title": "PSG, Barcelona make us pray for Arsenal demise after tease of dream Champions League final",
+      "summary": "Sorry Arsenal, but Paris Saint-Germain vs Barcelona is the dream Champions League final after Tuesday night’s tease at Parc des Princes…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-psg-barcelona-pray-arsenal-demise-dream-champions-league-final",
+      "publishedAt": "2026-10-20T21:24:33.000Z",
       "category": "ucl",
       "region": "england spain france",
       "tags": [
+        "Champions League",
+        "Arsenal",
+        "Barcelona",
+        "Psg"
+      ]
+    },
+    {
+      "id": "616ef42e090c2d",
+      "title": "Carrick insists Manchester United board back him after Ten Hag points to ‘toxic culture’",
+      "summary": "Manager acknowledges he needs to start winning games Ten Hag accuses Cristiano Ronaldo of letting club down Michael Carrick believes Manchester United’s board continue...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+      "publishedAt": "2026-10-20T21:13:28.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "84cca1c3203902",
+      "title": "Doué and Vitinha burn bright as brittle Barcelona come unstuck against PSG",
+      "summary": "Fire, noise, fury, a sense of empty energy. And across town, a football match too. Do any of these randomly pitched autumnal Champions League fixtures mean anything? Pr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/paris-saint-germain-psg-barcelona-champions-league-match-report",
+      "publishedAt": "2026-10-20T21:08:45.000Z",
+      "category": "ucl",
+      "region": "spain france",
+      "tags": [
         "Football",
         "Champions League",
-        "Liverpool",
+        "Barcelona",
+        "Psg"
+      ]
+    },
+    {
+      "id": "60850bf4d34c5c",
+      "title": "Mac Allister double sparks Liverpool’s thrilling comeback win over Villarreal",
+      "summary": "Andoni Iraola and Iñigo Pérez parked a long and close friendship in the buildup to their first competitive confrontation as coaches. The old Athletic Bilbao teammates w...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
+      "publishedAt": "2026-10-20T21:04:02.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6a1a206d02a13b",
+      "title": "Foden hat-trick helps Manchester City cut through noise and crush AEK Athens",
+      "summary": "Phil Foden shouted the loudest on a quiet night at the Etihad Stadium, announcing his personal return to form with an instinctive hat-trick as Manchester City dispatche...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/20/manchester-city-aek-athens-champions-league-match-report",
+      "publishedAt": "2026-10-20T21:00:58.000Z",
+      "category": "ucl",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
         "Manchester"
       ]
     },
@@ -252,22 +453,6 @@ window.FOOTBALLDAY_DATA = {
         "Liverpool",
         "Manchester",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "616ef42e090c2d",
-      "title": "Carrick insists Manchester United board back him after Ten Hag points to ‘toxic culture’",
-      "summary": "Manager acknowledges he needs to start winning games Ten Hag accuses Cristiano Ronaldo of letting club down Michael Carrick believes Manchester United’s board continue...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-      "publishedAt": "2026-10-20T20:13:21.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Manchester"
       ]
     },
     {
@@ -420,182 +605,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "46da9c26fee454",
-      "title": "Man City FFP: City set for ‘Stay of Execution’ as fresh expulsion claim emerges with appeal ‘chaos’",
-      "summary": "According to reports, Manchester City could be set for a ‘Stay of Execution’ with the FFP situation with the case tipped to drag on.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-city-stay-execution-fresh-expulsion-claim-emerges-appeal-chaos",
-      "publishedAt": "2026-10-20T16:14:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3ffdda960df78c",
-      "title": "What is the longest a team has gone without winning a league game at home?",
-      "summary": "Burnley are on the brink of unwanted football history, should they fail to beat Portsmouth later this month.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkgeqxgz5d5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T15:49:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "49c53dc016aa19",
-      "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
-      "summary": "Result is largest margin at any age level of a World Cup DiMaria is first to score six at Fifa finals since Haaland Tournament is in year two of expanded 24-team field...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
-      "publishedAt": "2026-10-20T15:15:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "e509ce66900369",
-      "title": "Eddie Howe reaches decision on replacing Michael Carrick at Man Utd",
-      "summary": "Former Newcastle United manager Eddie Howe’s stance on taking over at Manchester United has emerged.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-sack-eddie-howe-replacement-manchester-united",
-      "publishedAt": "2026-10-20T15:04:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f44357215217bf",
-      "title": "2026/27 Premier League player stats: Wirtz most key passes, Havertz most offsides",
-      "summary": "From big chances missed to ball recoveries, we have 2026/27 Premier League statistic leaders across 38 different metrics.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-player-stats-leaders-2026-27-season",
-      "publishedAt": "2026-10-20T15:01:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "53d12e2e2b49f9",
-      "title": "Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
-      "summary": "As Tottenham edged to victory over Coventry , a familiar face among the post-match salutations. Could that be Dejan Kulusevski? For it was he, playing 526 days since hi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/20/tottenham-hotspur-win-football-daily-newsletter",
-      "publishedAt": "2026-10-20T14:39:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b4ee7fc87ee54f",
-      "title": "Former Norwich and Celtic striker Pukki to retire",
-      "summary": "Former Norwich City and Finland striker Teemu Pukki announces his retirement from football at the age of 36.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg0vjde20mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T14:37:41.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "d591718c5329a9",
-      "title": "Premier League Power Rankings: Erling Haaland still top after Ipswich brace",
-      "summary": "Football365’s Premier League Power Rankings return for 2026/27 and the early leader is Man City superstar Erling Haaland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-power-rankings-2026-27-haaland",
-      "publishedAt": "2026-10-20T14:16:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "83bbd67c7ae4c0",
-      "title": "Explosive free Champions League coverage is becoming must-watch TV for Liverpool fans",
-      "summary": "Liverpool’s Champions League match versus Villarreal is free to watch and fans will need to keep an eye out for some explosive opinions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/explosive-free-champions-league-coverage-becoming-must-watch-tv-liverpool-fans",
-      "publishedAt": "2026-10-20T14:12:50.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4e5ec1f5d34e0d",
-      "title": "Juventus reach decision on sacking Luciano Spalletti after Antonio Conte says yes to Man Utd",
-      "summary": "Manchester United have learnt whether Juventus are planning to sack Luciano Spalletti and hire Antonio Conte as their manager.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/antonio-conte-luciano-spalletti-juventus-manchester-united",
-      "publishedAt": "2026-10-20T14:03:12.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "78f3a34da88b77",
-      "title": "Man Utd spy double January signing from Crystal Palace with contract ready",
-      "summary": "Manchester United have their eye on two Crystal Palace stars ahead of the January window, though neither are left-backs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-double-january-signing-crystal-palace-ismaila-sarr-jean-philippe-mateta",
-      "publishedAt": "2026-10-20T14:01:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fb92f4d1265fdb",
-      "title": "Souness brands Arsenal star Saka ‘a cheat’ with ex-Prem striker in agreement",
-      "summary": "Arsenal winger Bukayo Saka has been accused of being a “cheat” by Liverpool legend Graeme Souness after their win over Nottingham Forest.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-souness-saka-cheat-agbonlahor-agrees",
-      "publishedAt": "2026-10-20T14:01:38.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "61e39046f64c30",
-      "title": "What are the yellow card suspension rules in Champions League?",
-      "summary": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions in this season's Champions League",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T13:57:53.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
       ]
     }
   ],
