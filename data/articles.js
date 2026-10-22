@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-21T21:26:09.468Z",
+  "generatedAt": "2026-10-22T04:02:23.092Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,83 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "e4ce4be0114f57",
-      "title": "What is the best volley in Premier League history?",
-      "summary": "On the anniversary of Pajtim Kasami's stunner for Fulham against Crystal Palace, Sky Sports FC takes a look at a pick of the best volleys in Premier League history - bu...",
+      "id": "4d6ef33ed6ce76",
+      "title": "Papers: Brighton boss Hurzeler would be Shearer's pick to replace Carrick",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13601871/sky-sports-fc-whats-the-best-volley-in-premier-league-history",
-      "publishedAt": "2026-10-21T21:26:09.141Z",
+      "url": "https://www.skysports.com/football/news/12040/13602091/manchester-united-should-appoint-fabio-hurzeler-if-they-replace-michel-carrick-says-former-premier-league-winner-alan-shearer-paper-talk",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Transfer"
+      ]
+    },
+    {
+      "id": "1b2fc5f715ad37",
+      "title": "Alysson stars as Villa beat Viking to make it three wins from three in Europe",
+      "summary": "Aston Villa made it three wins from three in the Champions League with a 3-1 win over Viking at Villa Park.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/aston-villa-vs-viking/report/577642",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "1ffe2cf0e0405f",
+      "title": "Fernandes criticises coaches, Carrick criticises players - but who was to blame?",
+      "summary": "Who was to blame for Manchester United's miserable 4-1 defeat at Como in the Champions League?",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "529809028c5bf9",
+      "title": "Miserable Man Utd ripped apart by Como",
+      "summary": "Michael Carrick's Manchester United were ripped apart in a dreadful 4-1 defeat at Como in the Champions League, as their miserable run of results stretched to seven wit...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/como-vs-manchester-united/report/577645",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e1a547dc195eeb",
+      "title": "Brilliant sprinter Almeraq retired to stud",
+      "summary": "Champion sprinter-elect Almeraq has been retired to stand at Shadwell's Beech House Stud for 2027.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13601980/brilliant-sprinter-almeraq-retired-to-stud",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "751371a06c9255",
+      "title": "England 'not thinking about points difference' against France",
+      "summary": "England hooker Brad O'Neill says his side will resist the urge to go for broke when they face France in their second Rugby League World Cup match in Perth on Saturday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13601940/rugby-league-world-cup-2026-england-not-thinking-about-points-difference-before-france-game-says-brad-oneill",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
       ]
     },
     {
@@ -117,7 +184,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Declan Rice scored a superb 82nd-minute equaliser as Arsenal fought back to draw 2-2 with Bayern Munich in a thrilling Champions League encounter at the Allianz Arena.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bayern-munich-vs-arsenal/report/577643",
-      "publishedAt": "2026-10-21T21:26:09.140Z",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
       "category": "ucl",
       "region": "england germany",
       "tags": [
@@ -132,7 +199,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The VAR who incorrectly awarded Erling Haaland's winner in last month's Manchester derby has been reinstated to Premier League duty.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13601893/var-official-matt-donohue-set-for-premier-league-return-after-wrongly-awarding-erling-haaland-winner-vs-man-utd",
-      "publishedAt": "2026-10-21T21:26:09.140Z",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -141,12 +208,80 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1b2fc5f715ad37",
-      "title": "Alysson stars as Villa beat Viking to make it three wins from three in Europe",
-      "summary": "Aston Villa made it three wins from three in the Champions League with a 3-1 win over Viking at Villa Park.",
+      "id": "e4ce4be0114f57",
+      "title": "What is the best volley in Premier League history?",
+      "summary": "On the anniversary of Pajtim Kasami's stunner for Fulham against Crystal Palace, Sky Sports FC takes a look at a pick of the best volleys in Premier League history - bu...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/aston-villa-vs-viking/report/577642",
-      "publishedAt": "2026-10-21T21:26:09.139Z",
+      "url": "https://www.skysports.com/watch/video/13601871/sky-sports-fc-whats-the-best-volley-in-premier-league-history",
+      "publishedAt": "2026-10-22T04:02:22.873Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "1bb77a47c1ca45",
+      "title": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
+      "summary": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "publishedAt": "2026-10-22T04:02:22.872Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6da2c525b5b068",
+      "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+      "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T23:11:06.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Champions League",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane extending his vast lead over the chasing pack",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-10-21T23:08:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-10-21T23:04:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "0829eaabef8e49",
+      "title": "Champions League prize money table calculated as Villa jump to 7th",
+      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
+      "publishedAt": "2026-10-21T23:01:36.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -154,12 +289,40 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "1ffe2cf0e0405f",
-      "title": "Fernandes criticises coaches, Carrick criticises players - but who was to blame?",
-      "summary": "Who was to blame for Manchester United's miserable 4-1 defeat at Como in the Champions League?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como",
-      "publishedAt": "2026-10-21T21:26:09.139Z",
+      "id": "95aba222d0530d",
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:51:56.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Champions League",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "0e2b6edefd7345",
+      "title": "Is it 'phenomenal' Kane's year to lift the Ballon d'Or?",
+      "summary": "Stephen Warnock, Nedum Onuoha and Lars Sivertsen look at whether England captain and Bayern Munich forward Harry Kane should lift the Ballon d'Or following a \"phenomena...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crpdg21y070jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:41:53.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "71fffe5c869bd4",
+      "title": "'Simply not good enough - Warnock on Man Utd's Como display",
+      "summary": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielde...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:36:23.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -168,72 +331,131 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "529809028c5bf9",
-      "title": "Miserable Man Utd ripped apart by Como",
-      "summary": "Michael Carrick's Manchester United were ripped apart in a dreadful 4-1 defeat at Como in the Champions League, as their miserable run of results stretched to seven wit...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/como-vs-manchester-united/report/577645",
-      "publishedAt": "2026-10-21T21:26:09.139Z",
+      "id": "7207a458e517bf",
+      "title": "Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting",
+      "summary": "Bernardo Silva opens scoring as Madrid win 4-1 Galatasaray sweep past Lille; 10-man Inter edge Shakhtar Real Madrid claimed a third Champions League victory in as many...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord",
+      "publishedAt": "2026-10-21T22:25:12.000Z",
       "category": "ucl",
-      "region": "england",
+      "region": "spain italy france germany",
       "tags": [
+        "Football",
         "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e1a547dc195eeb",
-      "title": "Brilliant sprinter Almeraq retired to stud",
-      "summary": "Champion sprinter-elect Almeraq has been retired to stand at Shadwell's Beech House Stud for 2027.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/racing/news/12040/13601980/brilliant-sprinter-almeraq-retired-to-stud",
-      "publishedAt": "2026-10-21T21:26:09.139Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
+        "Real Madrid",
         "Inter"
       ]
     },
     {
-      "id": "751371a06c9255",
-      "title": "England 'not thinking about points difference' against France",
-      "summary": "England hooker Brad O'Neill says his side will resist the urge to go for broke when they face France in their second Rugby League World Cup match in Perth on Saturday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13601940/rugby-league-world-cup-2026-england-not-thinking-about-points-difference-before-france-game-says-brad-oneill",
-      "publishedAt": "2026-10-21T21:26:09.139Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "1a1e4c76b90341",
-      "title": "Ruthless Roma put four past toothless Slovan Bratislava",
-      "summary": "Ruthless Roma stick four past Yaya Toure's Slovan Bratislava to secure their first Champions League victory of the season.",
+      "id": "674b579fb4fd85",
+      "title": "Club Brugge ease to comfortable win over Lens",
+      "summary": "Club Brugge pick up their second straight win in the Champions League with an impressive 3-0 victory over Lens.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6eq325d29dqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T21:13:36.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c50me40n871zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T22:03:46.000Z",
       "category": "ucl",
-      "region": "italy",
+      "region": "england",
       "tags": [
         "Champions League"
       ]
     },
     {
-      "id": "85c4a60108e424",
-      "title": "Bayern Munich 2-2 Arsenal: Champions League – live reaction",
-      "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Clockwatch | Live scores | Table | Email Scott The teams are out! Bayern are in one of their all-red phases, while Ars...",
+      "id": "5044c9ea962db0",
+      "title": "Arsenal survive brilliant Ballon d’Or winner Kane – but did Rice ‘cheating’ salvage Bayern draw?",
+      "summary": "Arsenal were really very good against Bayern, then less so, but held their own on an evening when Harry Kane underlined his brilliance.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-survive-ballon-dor-winner-kane-cheating-rice-bayern",
+      "publishedAt": "2026-10-21T21:55:56.000Z",
+      "category": "issue",
+      "region": "england germany",
+      "tags": [
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9f8f826047ead9",
+      "title": "Real Madrid dominate Leipzig for third straight win",
+      "summary": "Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T21:38:23.000Z",
+      "category": "ucl",
+      "region": "england spain germany",
+      "tags": [
+        "Champions League",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "cdb7989deb79fb",
+      "title": "Carrick sack verdict reached as Carragher sticks knife into Man Utd boss – ‘Mismatch in the dugout’",
+      "summary": "Jamie Carragher insists there was a “mismatch in the dugout” as Michael Carrick’s Manchester United were embarrassed by Cesc Fabregas’ Como on Wednesday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carrick-sack-verdict-carragher-knife-man-utd-boss-mismathc-dugout",
+      "publishedAt": "2026-10-21T21:30:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "eff1e4d3f1e6fd",
+      "title": "Isco the difference as Betis continue winning start against Feyenoord",
+      "summary": "Real Betis secure their third win on the bounce in the Champions League as Isco converts a penalty in the 59th minute against Feyenoord.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckp8gjl3epr7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T21:23:47.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "ac201f5941cf1f",
+      "title": "Villa maintain perfect Champions League start with Viking victory",
+      "summary": "Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league pha...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T21:19:00.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "00be7505228e19",
+      "title": "‘Angry’ Carrick on the brink as Fernandes hits out at Manchester United tactics",
+      "summary": "Manager apologises to fans after 4-1 defeat in Como Captain criticises ‘decision from the staff’ not to press Michael Carrick’s future as Manchester United manager is i...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
-      "publishedAt": "2026-10-21T21:13:15.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league",
+      "publishedAt": "2026-10-21T21:15:23.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "04b9b4085e6f7c",
+      "title": "Arsenal’s Declan Rice strikes late to deny Bayern Munich after Harry Kane penalty",
+      "summary": "It is as if Harry Kane cannot get enough of tormenting Arsenal. The Bayern Munich striker has plenty of form from his Tottenham days. He remains the top scorer in north...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report",
+      "publishedAt": "2026-10-21T21:14:31.000Z",
       "category": "ucl",
       "region": "england germany",
       "tags": [
         "Football",
         "Champions League",
         "Arsenal",
-        "Liverpool"
+        "Bayern"
       ]
     },
     {
@@ -249,6 +471,20 @@ window.FOOTBALLDAY_DATA = {
         "Champions League",
         "Arsenal",
         "Bayern"
+      ]
+    },
+    {
+      "id": "25b3b95507d5cb",
+      "title": "Barkley and Buendía on target as Aston Villa sink Viking to maintain perfect start",
+      "summary": "For a little over 20 minutes, Aston Villa could look down on the rest of Europe. They had scaled the Champions League summit on goal difference when Henrik Heggheim put...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report",
+      "publishedAt": "2026-10-21T21:07:48.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League"
       ]
     },
     {
@@ -368,244 +604,6 @@ window.FOOTBALLDAY_DATA = {
         "Chelsea",
         "Barcelona",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "9b244db8d399f6",
-      "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-      "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T19:59:30.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "daaf9c6ce149df",
-      "title": "Man Utd: Ferdinand joins Bruno Fernandes in condemning Carrick – ‘Like we had won a raffle’",
-      "summary": "Rio Ferdinand has joined Bruno Fernandes in criticising Michael Carrick after Man Utd’s embarrassing 4-0 defeat to Como in the Champions League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-ferdinand-bruno-fernandes-condemning-carrick-won-a-raffle",
-      "publishedAt": "2026-10-21T19:51:47.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "76e2e6712ecc42",
-      "title": "Bruno Fernandes slams Carrick tactics in Man Utd defeat as ‘robust exchange’ on touchline explains substitution",
-      "summary": "Bruno Fernandes claims Michael Carrick got his tactics wrong in Manchester United’s embarrassing 4-0 defeat to Como on Wednesday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-fernandes-slams-carrick-tactics-man-utd-defeat-robust-exchange-touchline-substitution",
-      "publishedAt": "2026-10-21T19:21:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0829eaabef8e49",
-      "title": "Champions League prize money table calculated as Liverpool jump to 2nd",
-      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
-      "publishedAt": "2026-10-21T19:16:36.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "ee0125ba071740",
-      "title": "Glenn Hoddle names Man Utd’s best player v Como – ‘bright spark’",
-      "summary": "Glenn Hoddle names the Manchester United star who impressed him against Como in the Champions League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/amad-diallo-manchester-united-como-champions-league",
-      "publishedAt": "2026-10-21T19:11:54.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "bf46ceff466702",
-      "title": "Como demolish dismal Manchester United to pile more pressure on Carrick",
-      "summary": "In the shadow of the Alps, a boat ride from George Clooney’s villa, Manchester United’s torrid season plunged into chaos and infighting just 11 games in. Michael Carric...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report",
-      "publishedAt": "2026-10-21T18:55:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e024f3b4ae0231",
-      "title": "Tottenham target £67m Chelsea right-back in January after Pedro Porro wants out",
-      "summary": "Tottenham Hotspur are keeping tabs on a Chelsea right-back, with Pedro Porro looking to leave.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/malo-gusto-tottenham-hotspur-chelsea-2027-january-transfer-deal-pedro-porro-replacement",
-      "publishedAt": "2026-10-21T18:07:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "96aeb98bccc9b2",
-      "title": "Vinicius Junior’s agent reveals how close ‘aggressive’ Arsenal came to signing Real Madrid star",
-      "summary": "Vinicius Junior’s agent has explained how Arsenal “rolled out the red carpet” in their bid to sign his client from Real Madrid in the summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-vinicius-agent-how-close-signing-real-madrid",
-      "publishedAt": "2026-10-21T16:29:44.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "6b0b8092aeb8ef",
-      "title": "Ngumoha right to snub Arsenal for Liverpool after Arteta stripped two star players of joy",
-      "summary": "Two Arsenal stars have served as an excellent warning for Rio Ngumoha, who might just have found the perfect home at Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-ngumoha-snub-arsenal-liverpool-arteta-stripped-two-stars-joy",
-      "publishedAt": "2026-10-21T15:47:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d34531720a4712",
-      "title": "Lewis Hall reacts after learning Man Utd want to sign him from Newcastle",
-      "summary": "Manchester United want to sign Lewis Hall from Premier League rivals Newcastle United in 2027.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-newcastle-united-lewis-hall-2027-transfer-decision-reached",
-      "publishedAt": "2026-10-21T14:57:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9da5533d3f6fae",
-      "title": "Man Utd sent clear verdict on appointing ex-Bayern Munich manager to replace Michael Carrick",
-      "summary": "Manchester United have been told to avoid appointing ex-Bayern Munich boss Julian Nagelsmann to replace Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-sent-huge-warning-appointing-ex-bayern-manager-ineos-admirers-replace-carrick",
-      "publishedAt": "2026-10-21T14:52:24.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Manchester",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "b8c4f8989567b4",
-      "title": "Football Daily | Champions League drama galore – so why do we feel hollow?",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Now then, which one of you hipsters decided to put Porto 0-1 PSV on? Oh dear. This was another night of Bigger Cup a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/21/champions-league-goals-football-daily-newsletter",
-      "publishedAt": "2026-10-21T14:32:40.000Z",
-      "category": "transfer",
-      "region": "england spain italy france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "9acca4e899cf5c",
-      "title": "Newcastle manager search ruled out ‘all the usual suspects’ and left Arteta with biggest modern PL decision",
-      "summary": "The recent reminder that Mikel Arteta almost became Newcastle manager months before he took the Arsenal reins sent us down a rabbithole.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-manager-search-ruled-out-arteta-biggest-decision",
-      "publishedAt": "2026-10-21T14:28:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "70ea20825c9f4e",
-      "title": "Paul Merson makes damning Arsenal prediction with Gunners ‘frightened’ – ‘I can’t see how’",
-      "summary": "Paul Merson is not confident about Arsenal’s Champions League prospects after they were “frightened” by Brighton before the international break.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/paul-merson-damning-arsenal-prediction-frightened",
-      "publishedAt": "2026-10-21T14:11:21.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "73fa38892d3ad0",
-      "title": "Liverpool: Van Dijk mistake made worse by one thing as pundits ‘mentally fatigued’ captain",
-      "summary": "Gabby Agbonlahor has revealed what he “didn’t like” about Virgil van Dijk’s mistake as Liverpool beat Villarreal 4-3 on Tuesday night.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-virgil-van-dijk-mistake-agbonlahor-mentally-fatigued-deeney",
-      "publishedAt": "2026-10-21T14:01:23.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e0977f5ce9be1b",
-      "title": "‘A complete threat’: Rio Ngumoha’s electric display excites Van Dijk and Liverpool",
-      "summary": "Teenager produced man-of-the-match performance against Villarreal and has learned from Salah, says Reds captain The shot sailed wide of Peter Gulacsi’s top corner and i...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/21/rio-ngumoha-progress-liverpool-villarreal-champions-league",
-      "publishedAt": "2026-10-21T13:59:31.000Z",
-      "category": "transfer",
-      "region": "england spain france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Liverpool",
-        "Psg"
-      ]
-    },
-    {
-      "id": "1ae7ff95885eaa",
-      "title": "Why do Man City fans boo pre-match anthems?",
-      "summary": "The cacophony of boos that greet the Premier League and Champions League anthems before kick-off have now become a fixture at Etihad Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvx28yk1j6z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T13:57:59.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League"
       ]
     }
   ],
