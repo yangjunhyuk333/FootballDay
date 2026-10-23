@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:21:15.855Z",
+  "generatedAt": "2026-10-23T04:05:39.066Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,26 +99,52 @@
       "pinned": true
     },
     {
-      "id": "11ecd90467910e",
-      "title": "Who was right about Man Utd tactics: Carrick or Fernandes?",
-      "summary": "Manchester United captain Bruno Fernandes and head coach Michael Carrick disagreed over the team's tactics in the 4-1 Champions League defeat at Como. So who was right?",
+      "id": "869fb5d555e71b",
+      "title": "PL Predictions: Delap's Ipswich reunion to get feisty",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602279/man-utd-boss-michael-carrick-and-captain-bruno-fernandes-clash-over-tactics-in-como-defeat-but-who-was-right",
-      "publishedAt": "2026-10-22T21:21:15.539Z",
-      "category": "ucl",
+      "url": "https://www.skysports.com/football/news/12040/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more",
+      "publishedAt": "2026-10-23T04:05:38.623Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Champions League",
-        "Manchester"
+        "Premier League"
       ]
     },
     {
-      "id": "d23b980f7db6d3",
-      "title": "'They're not special anymore' - How Man Utd reached their latest low",
-      "summary": "Manchester United's 4-1 defeat to Como was the latest chapter in their continued downward trajectory in recent years.",
+      "id": "1f6896cd48ebef",
+      "title": "'Night they'll never forget!' - Bournemouth breeze past European giants AC Milan",
+      "summary": "Sky Sports News' Mark McAdam reflects on Bournemouth's historical 3-0 victory over AC Milan in the Europa League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602213/man-utds-21-year-deterioration-with-glazers-jim-ratcliffe-michael-carrick-and-alex-ferguson-all-responsible",
-      "publishedAt": "2026-10-22T21:21:15.539Z",
+      "url": "https://www.skysports.com/watch/video/13602520/bournemouth-breeze-past-european-giants-ac-milan",
+      "publishedAt": "2026-10-23T04:05:38.623Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Europa League",
+        "Milan"
+      ]
+    },
+    {
+      "id": "4abb685496a788",
+      "title": "'A lot of points to play for' | Celtic's O'Neill still confident of EL progession",
+      "summary": "Celtic manager Martin O'Neill believes they can still progress in the Europa League despite Celta Vigo inflicting their third straight defeat in this season's tournament.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13602514/celtic-martin-oneill-confident-of-europa-league-progression-despite-celta-vigo-defeat-a-lot-of-points-to-play-for",
+      "publishedAt": "2026-10-23T04:05:38.623Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Europa League"
+      ]
+    },
+    {
+      "id": "7c72427c75607c",
+      "title": "'Need to move on together' - Fernandes to remain captain despite Carrick criticism",
+      "summary": "Rob Dorsett and Alan Pardew give their thoughts on Bruno Fernandes remaining Manchester United captain despite him calling out Michael Carrick’s tactical approach again...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13602411/bruno-fernandes-to-remain-captain-despite-clash-with-michael-carrick",
+      "publishedAt": "2026-10-23T04:05:38.623Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,42 +152,16 @@
       ]
     },
     {
-      "id": "7a782e2c50b8f1",
-      "title": "Brighton held to rare goalless draw by Jablonec",
-      "summary": "In-form Brighton saw their six-game winning run come to an end after being held to a 0-0 draw at Jablonec in the UEFA Conference League.",
+      "id": "e505eda6152e4e",
+      "title": "Papers: Man Utd draw up five-man shortlist to replace Carrick",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fk-jablonec-vs-brighton-and-hove-albion/report/577910",
-      "publishedAt": "2026-10-22T21:21:15.538Z",
+      "url": "https://www.skysports.com/football/news/12040/13602435/manchester-united-draw-up-five-man-shortlist-to-replace-michael-carrick-paper-talk",
+      "publishedAt": "2026-10-23T04:05:38.622Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Uefa"
-      ]
-    },
-    {
-      "id": "d9cc726d0c970a",
-      "title": "Carrick will be in charge for 'pivotal' Bournemouth game despite growing concerns",
-      "summary": "Michael Carrick will be in charge of Manchester United against Bournemouth on Sunday but there is growing concern among club bosses about the team's poor run of form.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602371/man-utd-boss-michael-carrick-remaining-in-charge-vs-bournemouth-amid-growing-concerns-at-old-trafford",
-      "publishedAt": "2026-10-22T21:21:15.538Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b2d76d20d270a9",
-      "title": "Mateta on target as Palace draw with Besiktas in Istanbul",
-      "summary": "Jean-Philippe Mateta scored his first goal since last season's UEFA Conference League final but Crystal Palace had to settle for a 2-2 draw away at 10-man Besiktas.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/besiktas-vs-crystal-palace/report/577778",
-      "publishedAt": "2026-10-22T21:21:15.537Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Uefa"
+        "Transfer"
       ]
     },
     {
@@ -170,7 +170,7 @@
       "summary": "Celtic's Europa League hopes took another blow as Celta Vigo came from behind to inflict their third straight defeat in the competition.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/celtic-vs-celta-vigo/report/577781",
-      "publishedAt": "2026-10-22T21:21:15.537Z",
+      "publishedAt": "2026-10-23T04:05:38.622Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -183,7 +183,7 @@
       "summary": "Amine Adli scored a fine free-kick to cap Bournemouth's historic 3-0 win over 10-man AC Milan, which continues their brilliant start to their first-ever European campai...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/bournemouth-vs-ac-milan/report/577779",
-      "publishedAt": "2026-10-22T21:21:15.536Z",
+      "publishedAt": "2026-10-23T04:05:38.622Z",
       "category": "transfer",
       "region": "italy",
       "tags": [
@@ -191,18 +191,45 @@
       ]
     },
     {
-      "id": "d7dab720f3b434",
-      "title": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
-      "summary": "This was a momentous night in Bournemouth’s history, although the truth is they would have been given a far sterner examination by Coventry or Hull. You can only beat w...",
+      "id": "b2d76d20d270a9",
+      "title": "Mateta on target as Palace draw with Besiktas in Istanbul",
+      "summary": "Jean-Philippe Mateta scored his first goal since last season's UEFA Conference League final but Crystal Palace had to settle for a 2-2 draw away at 10-man Besiktas.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/besiktas-vs-crystal-palace/report/577778",
+      "publishedAt": "2026-10-23T04:05:38.622Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "d6ec68a9a00563",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends Premier League top scorers After seven games, Nottingham For...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
-      "publishedAt": "2026-10-22T21:00:49.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+      "publishedAt": "2026-10-22T23:01:52.000Z",
       "category": "league",
-      "region": "england italy",
+      "region": "england",
       "tags": [
         "Football",
-        "Manchester",
-        "Milan"
+        "Premier League",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "771b85fc71ed12",
+      "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+      "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T22:52:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Europa League"
       ]
     },
     {
@@ -211,11 +238,68 @@
       "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T20:38:37.000Z",
+      "publishedAt": "2026-10-22T21:53:52.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "4e5a3321991e6d",
+      "title": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
+      "summary": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Celtic suffered more Europa League pain as Spanish side Celta Vig...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
+      "publishedAt": "2026-10-22T21:41:11.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Europa League",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "53e73380dd88dc",
+      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+      "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T21:30:31.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Milan"
+      ]
+    },
+    {
+      "id": "dc836d4a0dc5be",
+      "title": "Bournemouth might just have earned their best ever result and Amorim can only laugh",
+      "summary": "When Milan last won the Champions League in 2007, Bournemouth were finishing 18th in League One. Who would have dreamt of a night like this?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bournemouth-ac-milan-europa-league-match-reaction",
+      "publishedAt": "2026-10-22T21:22:46.000Z",
+      "category": "ucl",
+      "region": "italy",
+      "tags": [
+        "Champions League",
+        "Milan"
+      ]
+    },
+    {
+      "id": "d7dab720f3b434",
+      "title": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
+      "summary": "This was a momentous night in Bournemouth’s history, although the truth is they would have been given a far sterner examination by Coventry or Hull. Whatever this rotte...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
+      "publishedAt": "2026-10-22T21:00:49.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Milan"
       ]
     },
     {
@@ -229,21 +313,6 @@
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "4e5a3321991e6d",
-      "title": "Europa League: Sunderland held in Poznan as Juventus denied comeback win",
-      "summary": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Sunderland ’s winning start in the Europa League was ended with a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
-      "publishedAt": "2026-10-22T19:14:48.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Europa League",
-        "Juventus"
       ]
     },
     {
@@ -432,6 +501,20 @@
       ]
     },
     {
+      "id": "25c98e1da9e07e",
+      "title": "Emery and Nagelsmann are top targets if Manchester United sack Carrick",
+      "summary": "Carrick expected to be in charge for Bournemouth game Compensation could be obstacle for Aston Villa’s Emery Unai Emery and Julian Nagelsmann have emerged as leading ta...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/22/unai-emery-julian-nagelsmann-manchester-united-michael-carrick",
+      "publishedAt": "2026-10-22T15:06:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
       "id": "144adc245c5b4e",
       "title": "Carrick joins Wilcox under the bus after Manchester United’s latest night in crisis | Max Rushden",
       "summary": "Bruno Fernandes followed Lisandro Martínez in revolt after his team’s 4-1 defeat to Como in the Champions League You have to credit Manchester United. Your local rivals...",
@@ -511,96 +594,6 @@
       "tags": [
         "Premier League",
         "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d5ab15c561f514",
-      "title": "Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal",
-      "summary": "Midfielder says there were a lot of tears as he said goodbye at St James’ Park but he is enjoying the remorselessness at his new club For Bruno Guimarães, it was a time...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/22/bruno-guimaraes-had-sleepless-nights-before-newcastle-exit-but-hopes-for-same-love-at-arsenal",
-      "publishedAt": "2026-10-22T14:00:32.000Z",
-      "category": "worldcup",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "World Cup",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "27787a57d72248",
-      "title": "Champions League review: PSG take a hit, Man City’s empty seats and teenage hope for Liverpool",
-      "summary": "The reigning champions must deal with the absence of Khvicha Kvaratskhelia for some time, while fans at Anfield were thrilled by Rio Ngumoha Paris Saint-Germain beat Ba...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/22/champions-league-review-psg-take-a-hit-man-citys-empty-seats-and-teenage-hope-for-liverpool",
-      "publishedAt": "2026-10-22T13:42:43.000Z",
-      "category": "transfer",
-      "region": "england spain france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "World Cup",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "131281411d9e40",
-      "title": "Manchester United bin-fire keeps blazing and Arsenal draw at Bayern | Football Weekly Extra – video",
-      "summary": "Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/oct/22/manchester-united-bin-fire-keeps-blazing-and-arsenal-draw-at-bayern-football-weekly-extra-video",
-      "publishedAt": "2026-10-22T13:24:40.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "db22bf6079fa23",
-      "title": "Man City FFP: Kyle Walker reveals punishment could force him to take drastic action",
-      "summary": "Former Man City defender Kyle Walker admits he may have to get a tattoo removed if the Citizens are stripped of Premier League titles.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-kyle-walker-punishment-force-take-drastic-action-tattoo",
-      "publishedAt": "2026-10-22T13:04:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "c82620d7584041",
-      "title": "Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
-      "summary": "Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Max Rushden is joined by Jonathan Liew , Paul W...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast",
-      "publishedAt": "2026-10-22T13:03:02.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2ddfe8d69aa21a",
-      "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
-      "summary": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T12:44:08.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     }
