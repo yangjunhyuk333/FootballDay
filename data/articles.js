@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-23T11:17:13.588Z",
+  "generatedAt": "2026-10-23T16:46:00.004Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,77 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "3c27536e890cb5",
-      "title": "Gordon's rise fuelled by Barca belief and Ballon d'Or dreams ahead of Clasico",
-      "summary": "Paris St-Germain on Tuesday, Real Madrid on Sunday, and eyes on the Ballon d'Or ceremony on Monday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602442/barcelona-vs-real-madrid-anthony-gordon-is-fuelled-by-barcas-belief-and-ballon-dor-dreams-ahead-of-el-clasico",
-      "publishedAt": "2026-10-23T11:17:13.362Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "f0b2c34f1f1064",
-      "title": "Merson: Brighton are one million per cent title contenders – if they win next two",
-      "summary": "Sky Sports' Paul Merson says Brighton will enter the Premier League title race if they win their next two games.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
-      "publishedAt": "2026-10-23T11:17:13.362Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e505eda6152e4e",
-      "title": "Papers: Man Utd draw up five-man shortlist to replace Carrick",
-      "summary": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602435/manchester-united-draw-up-five-man-shortlist-to-replace-michael-carrick-paper-talk",
-      "publishedAt": "2026-10-23T11:17:13.362Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "13794cf04bd271",
-      "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
-      "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-      "publishedAt": "2026-10-23T11:17:13.362Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9f4b66d2a1547a",
-      "title": "Celtic stunned by quick double in Europa League defeat to Celta Vigo",
-      "summary": "Celtic's Europa League hopes took another blow as Celta Vigo came from behind to inflict their third straight defeat in the competition.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/celtic-vs-celta-vigo/report/577781",
-      "publishedAt": "2026-10-23T11:17:13.362Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Europa League"
-      ]
-    },
-    {
       "id": "67be7215267f3b",
       "title": "Lewis named on England bench as Ashton replaces Eckersley for France",
       "summary": "England head coach Brian McDermott has made one change to his 19-man squad for Saturday's Rugby League World Cup match against France.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/rugby-league/news/12040/13601200/rugby-league-world-cup-mikey-lewis-on-bench-as-england-unchanged-for-clash-vs-france-despite-opening-defeat",
-      "publishedAt": "2026-10-23T11:17:13.361Z",
+      "publishedAt": "2026-10-23T16:45:59.787Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -177,32 +112,441 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "ed3975fab20067",
-      "title": "Rugby League World Cup 2026: Latest results and schedule",
-      "summary": "Latest scores and results from the 2026 Rugby League World Cup, with Australia, New Zealand, and Papua New Guinea playing host to the men's, women's and wheelchair tour...",
+      "id": "298b0f723b3082",
+      "title": "Everton latest: Norgaard apologised for poor Chelsea debut, says Moyes",
+      "summary": "Everton latest: Norgaard apologised for poor Chelsea debut, says Moyes",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13598071/rugby-league-world-cup-2026-schedule-dates-format-results-from-mens-womens-and-wheelchair-tournaments",
-      "publishedAt": "2026-10-23T11:17:13.361Z",
-      "category": "worldcup",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "World Cup"
+        "Chelsea"
       ]
     },
     {
-      "id": "f2893b4809e89d",
-      "title": "Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live",
-      "summary": "⚽ All the latest news going into the weekend’s action ⚽ Premier League: weekend guide | Mail Tom Álvaro Arbeloa’s been talking ahead of Fulham’s trip to Coventry on Sat...",
+      "id": "0c49915f0a6215",
+      "title": "Spurs latest: Porro back for Chelsea trip but Maddison a doubt",
+      "summary": "Spurs latest: Porro back for Chelsea trip but Maddison a doubt",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a2d785e669d513",
+      "title": "Defiant Carrick denies dressing room divide and backs himself to turn Man Utd around",
+      "summary": "A defiant Michael Carrick has insisted there is no divide in the Manchester United dressing room and backed himself to turn things around at Old Trafford amid growing u...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13602589/man-utd-boss-michael-carrick-insists-there-is-no-divide-despite-bruno-fernandes-criticism",
+      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
+      "summary": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d45f0c71b6621d",
+      "title": "Man Utd tipped to sell Bruno Fernandes for £80m in January as key details on new contract revealed",
+      "summary": "Manchester United have been tipped to sell captain Bruno Fernandes in January, while there is an update on a potential new contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-tipped-sell-bruno-fernandes-80m-january-key-details-new-contract-revealed",
+      "publishedAt": "2026-10-23T16:43:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bda637d7302fef",
+      "title": "Kompany taken to hospital after collapsing at training",
+      "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T16:39:03.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "991640f49533c8",
+      "title": "Premier League, Antonelli goes for F1 title, plus WSL and clásico action – follow with us",
+      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
-      "publishedAt": "2026-10-23T10:38:28.000Z",
+      "url": "https://www.theguardian.com/sport/2026/oct/23/premier-league-antonelli-goes-for-f1-title-plus-wsl-and-clasico-action-follow-with-us",
+      "publishedAt": "2026-10-23T16:10:40.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "540950a6b43a4c",
+      "title": "Next Man Utd manager targets decide ‘biggest priority’ to ‘fix first’ if they replace Carrick – ‘it’s clear’",
+      "summary": "A new report has revealed that multiple Manchester United manager targets have decided on the ‘biggest priority’ if they replace Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-man-utd-manager-targets-decide-biggest-priority-fix-first-replace-carrick",
+      "publishedAt": "2026-10-23T16:05:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fa15437c616b68",
+      "title": "The most tempting sub-£100m release clauses that can be triggered right now",
+      "summary": "The most tempting release clauses that can be activated in 2026 include a prominent Arsenal target or two and some potential bargains.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/most-tempting-transfer-release-clauses-world-football",
+      "publishedAt": "2026-10-23T16:02:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2d26e15f028e5c",
+      "title": "Football Daily | Mourinho is ready for his clásico return – stock up on popcorn, folks!",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Football Daily has never had much time for conspiracy theories. Lee Harvey Oswald dunnit, Stanley Kubrick didn’t fak...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/jose-mourinho-real-madrid-barcelona-clasico-football-daily-newsletter",
+      "publishedAt": "2026-10-23T15:25:00.000Z",
       "category": "transfer",
       "region": "england spain",
       "tags": [
         "Football",
-        "Premier League",
-        "La Liga",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "4670f2b8afff93",
+      "title": "Arsenal, Saka huge blow as internal ‘fear’ on length of absence revealed after worrying Arteta update",
+      "summary": "According to reports, there is a ‘fear’ at Arsenal that winger Bukayo Saka could be out of action for around two months.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-saka-huge-blow-internal-fear-length-absence-revealed-worrying-arteta-update",
+      "publishedAt": "2026-10-23T15:17:49.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a74f44c550ce73",
+      "title": "Carrick delivers 5min 27sec monologue and says he will hold brolly to keep everyone dry",
+      "summary": "Manchester United coach wants ‘humility’ and ‘resilience’ He does not rule out stripping Fernandes of captaincy Michael Carrick began his Friday media conference with a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/michael-carrick-monologue-manchester-united-umbrella-bruno-fernandes",
+      "publishedAt": "2026-10-23T14:58:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
         "Manchester"
+      ]
+    },
+    {
+      "id": "d12b5e7da09629",
+      "title": "Nagelsmann reaches verdict on joining Man Utd with manager ‘immediately available’ to replace Carrick",
+      "summary": "A new report has revealed ex-Bayern Munich boss Julian Nagelsmann’s stance on replacing Michael Carrick at Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/nagelsmann-verdict-joining-man-utd-manager-immediately-available-replace-carrick",
+      "publishedAt": "2026-10-23T14:56:09.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "0ce459b604eeb8",
+      "title": "Derby day - when Chelsea and Spurs meet, is chaos guaranteed?",
+      "summary": "Chelsea face Tottenham Hotspur in the Premier League this weekend - and BBC Sport looks back at five memorable matches between the London rivals.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c50mex301jjno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:49:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "fe5dcc343670fe",
+      "title": "Mamdani loves Arsenal. He should challenge them to cut ties with the UAE over Sudan | Sasha Lezhnev and John Prendergast",
+      "summary": "The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/zohran-mamdani-arsenal-emirates-uae-sudan-sponsorship",
+      "publishedAt": "2026-10-23T14:30:09.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "8df9352509be89",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:18:41.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Ligue 1",
+        "Psg"
+      ]
+    },
+    {
+      "id": "f32b411508b4c6",
+      "title": "Arsenal fear Saka could be out for two months",
+      "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T14:09:36.000Z",
+      "category": "issue",
+      "region": "england germany",
+      "tags": [
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "3f159b2422bca5",
+      "title": "A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby",
+      "summary": "The Premier League scandal may have gripped English football but the A-League club is ‘critical’ to football’s presence and new strategy in Australia Sign up for Footba...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/24/a-leagues-showpiece-melbourne-derby",
+      "publishedAt": "2026-10-23T14:00:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "65606d4ca1b8f9",
+      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+      "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T13:55:37.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "dbea49bb4ade42",
+      "title": "Michael Carrick responds on stripping Bruno Fernandes of Man Utd captaincy after INEOS ‘conversations’",
+      "summary": "Michael Carrick seemed a defeated man during his latest press conference as he commented on Manchester United captain Bruno Fernandes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-responds-stripping-bruno-fernandes-man-utd-captaincy",
+      "publishedAt": "2026-10-23T13:45:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ae0d184705e1b4",
+      "title": "Erling Haaland: Barcelona, Real Madrid react to Man City star setting ‘one key condition’ to accept transfer",
+      "summary": "According to reports, Barcelona and Real Madrid have reacted to Erling Haaland setting ‘one key condition’ to leave Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-barcelona-real-madrid-man-city-star-one-condition-accept-transfer",
+      "publishedAt": "2026-10-23T13:20:41.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "011770b44df354",
+      "title": "Liverpool must save knackered Van Dijk from himself as dreaded day looms",
+      "summary": "Virgil van Dijk looks physically and mentally knackered – with good reason. Andoni Iraola has two reasons to give the captain a break…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-virgil-van-dijk-tired-overworked-stats-appearances-succession-plan",
+      "publishedAt": "2026-10-23T12:52:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9ea9ddbd9aab66",
+      "title": "Liverpool ‘inform’ La Liga side of decision to ‘pay the clause’ to sign £25m winger – response revealed",
+      "summary": "According to reports, Liverpool have ‘informed’ La Liga side Valencia of their willingness to ‘pay the clause’ to sign 19-year-old winger David Otorbi.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-inform-la-liga-side-decision-pay-clause-sign-25m-winger-response-revealed",
+      "publishedAt": "2026-10-23T12:45:00.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "La Liga",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "752b835f72a8fd",
+      "title": "Cost of football regulator double initial estimate",
+      "summary": "The annual cost to clubs of English football's Independent Regulator (IFR) has risen to £20.3m, around double the amount initially estimated.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6lylk1zyqd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T12:19:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "5776243b4b17ae",
+      "title": "Conte plays down 'unfounded' Man Utd speculation",
+      "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T12:15:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2aa9847de26da4",
+      "title": "Antonio Conte reveals truth on Man Utd ‘advanced negotiations’ to replace Michael Carrick",
+      "summary": "Antonio Conte has responded to speculation linking him with a move to Manchester United to replace Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/antonio-conte-reveals-truth-man-utd-advanced-negotiations-replace-michael-carrick",
+      "publishedAt": "2026-10-23T12:08:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "94446147b98e48",
+      "title": "Liverpool to discuss activating clause for January move in meeting this weekend",
+      "summary": "Liverpool will determine whether they should cut a loan spell short during a meeting due to be held this weekend, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-discuss-activating-clause-january-move-meeting-this-weekend",
+      "publishedAt": "2026-10-23T12:02:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b4bca7e9bad05e",
+      "title": "Slegers and misfiring Arsenal badly need a result in WSL north London derby",
+      "summary": "Gunners’ title hopes have seemingly evaporated and their under-pressure head coach faces her latest test against Spurs on Saturday It says much about Arsenal’s predicam...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/arsenal-women-renee-slegers-tottenham-north-london-derby-womens-super-league",
+      "publishedAt": "2026-10-23T11:58:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9593241166f653",
+      "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
+      "summary": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth anniversary of his appointment, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwg7xvz8e8dpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T11:23:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c193935dea59f0",
+      "title": "Former Man United chief Murtough joins Birmingham",
+      "summary": "Birmingham City appoint ex-Manchester United chief John Murtough as director of football.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9zrdkv775r1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T11:20:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4688545f495fc2",
+      "title": "Alejandro Garnacho: Aston Villa reach verdict on ‘backing out’ of permanent deal with Chelsea",
+      "summary": "According to reports, Aston Villa are now willing to ‘freeze out’ Chelsea loanee Alejandro Garnacho to ‘back out’ of a permanent transfer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alejandro-garnacho-aston-villa-reach-verdict-backing-out-permanent-deal-chelsea",
+      "publishedAt": "2026-10-23T11:19:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "bf6de7399488f0",
+      "title": "Pascal Gross: the obsessive runner keeping Brighton ‘one step ahead’ after fast start",
+      "summary": "Midfielder ‘who can never stand still’ has brought renewed energy to Seagulls since return to the club in January Most footballers like to spend their summers unwinding...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/fabian-gross-obsessive-runner-brighton-one-step-ahead",
+      "publishedAt": "2026-10-23T11:11:11.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -245,348 +589,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Barcelona",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "d64dfb5a605fe5",
-      "title": "Failure on the field, unrest in stands - Burnley's horror 12 months",
-      "summary": "Burnley have failed to win a home league game in 12 months as they continue to struggle after relegation from the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6qxnzyx77vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T09:24:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "9d01d35e53c9e8",
-      "title": "Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
-      "summary": "The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift it into a new era? For the best part of a decade, el clásico was more...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
-      "publishedAt": "2026-10-23T09:00:05.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e4554db8ffd01d",
-      "title": "Man City FFP: Maguire predicts punishment ‘years’ away as City ‘noise’ driving PL clubs to consider ‘settlement’",
-      "summary": "Man City are continuing to create ‘noise and mess’ and Kieran Maguire believes clubs could soon ask the Premier League to end the fight.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-maguie-punishment-years-away-city-noise-pl-clubs-settlement",
-      "publishedAt": "2026-10-23T08:45:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "8e8327cb4f6db3",
-      "title": "Should Man Utd boss Carrick drop captain Fernandes?",
-      "summary": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out of Sunday's crucial Premier League clash with Bournemouth",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T08:28:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "33981f9dd56629",
-      "title": "Forest's start raises questions - but belief in Glasner remains",
-      "summary": "Nottingham Forest go to Ipswich in the bottom three of the Premier League, but boss Oliver Glasner believes they have deserved more this season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw3djpg15045o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T08:14:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "82ec0ce1184f46",
-      "title": "Man Utd next manager: Wilcox reaches decision on Carrick replacement as top pair ruled out",
-      "summary": "Jason Wilcox has decided on his preferred replacement for Michael Carrick at Manchester United as two alternatives who also ‘fit the criteria’ have been ruled out.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-next-manager-wilcox-decision-carrick-replacment-top-pair-ruled-out",
-      "publishedAt": "2026-10-23T08:02:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f3365decb78408",
-      "title": "New Victor Moses? How Alonso has transformed Neto",
-      "summary": "Those following Chelsea closely may feel history is repeating itself as Pedro Neto excels at wing-back, much like Victor Moses did a decade ago.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvrkkjv0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T07:57:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "9519c4ddb92b9b",
-      "title": "Asian Football Confederation backs Gianni Infantino in U-turn on Fifa presidency",
-      "summary": "AFC president Sheikh Salman praises and hugs Infantino It had stood with Uefa and Concacaf against him The Asian Football Confederation has endorsed Gianni Infantino fo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/23/asian-football-confederation-backs-gianni-infantino-u-turn-fifa-president",
-      "publishedAt": "2026-10-23T07:37:56.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "a97947b9d0b35f",
-      "title": "Carrick sack: Ratcliffe poised to overrule Wilcox as Man Utd co-owner uses AI to pick next boss",
-      "summary": "Sir Jim Ratcliffe is ready to step in and send Michael Carrick packing from Old Trafford as the Manchester United co-owner turns to AI to source a replacement.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carrick-sack-ratcliffe-overrule-wilcox-man-utd-co-owner-ai-select-replacement",
-      "publishedAt": "2026-10-23T07:23:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a1694b94f71d42",
-      "title": "Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew",
-      "summary": "The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/23/chaotic-football-brazil-politics-election-flavio-bolsonaro-lula",
-      "publishedAt": "2026-10-23T07:00:04.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bf892e2e989e3b",
-      "title": "Big Weekend: Liverpool v Brighton, Tottenham, Carrick’s last game, Foden, El Clasico",
-      "summary": "Liverpool take on title challengers Brighton, Spurs prepare for their dreams to die again, and Michael Carrick has one last hurrah this weekend.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-preview-liverpool-brighton-tottenham-carrick",
-      "publishedAt": "2026-10-23T06:57:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a17de3c19be8a2",
-      "title": "Infantino re-election hopes boosted by Asia support",
-      "summary": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T06:48:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "283182dc48fb7c",
-      "title": "Arsenal ‘boast’ £200m quartet in Underplayed Premier League XI",
-      "summary": "Including Premier League players with fewer than 140 minutes played in the top flight this season, here is the strongest XI…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/underplayed-premier-league-xi-eze-zubimendi-arsenal",
-      "publishedAt": "2026-10-23T06:38:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "517d8d2afb4d63",
-      "title": "Why US investors – and Cristiano Ronaldo – are buying Saudi football clubs",
-      "summary": "The Saudi state appears willing to keep building the stage while handing the cost of running the clubs to private owners.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/why-us-investors-ronaldo-buying-saudi-football-clubs",
-      "publishedAt": "2026-10-23T06:27:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "290c2f729f65ff",
-      "title": "Man Utd ‘leeches’ and ‘rats’ to blame for mess, not Carrick",
-      "summary": "Manchester United fans are not blaming Michael Carrick for this crisis but those above and below him at the club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-leeches-rats-blame-mess-mailbox",
-      "publishedAt": "2026-10-23T06:20:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f732f7980c6053",
-      "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
-      "summary": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T06:06:38.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "bd22c05c2a7557",
-      "title": "Have Man Utd become the unmanageable club?",
-      "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:56:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d6ec68a9a00563",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "summary": "Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends Premier League top scorers After seven games, Nottingham For...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
-      "publishedAt": "2026-10-22T23:01:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "771b85fc71ed12",
-      "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-      "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T22:52:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Europa League"
-      ]
-    },
-    {
-      "id": "f653d37f81d0fa",
-      "title": "Man Utd chief keen on Howe - Friday's gossip",
-      "summary": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others if they part ways with manager Michael Carrick.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T21:53:52.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4e5a3321991e6d",
-      "title": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
-      "summary": "Sunderland drop points in 1-1 draw but stay unbeaten VAR rules out Juventus winner in draw with Rennes Celtic suffered more Europa League pain as Spanish side Celta Vig...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
-      "publishedAt": "2026-10-22T21:41:11.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Europa League",
-        "Juventus"
-      ]
-    },
-    {
-      "id": "53e73380dd88dc",
-      "title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
-      "summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T21:30:31.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Milan"
-      ]
-    },
-    {
-      "id": "dc836d4a0dc5be",
-      "title": "Bournemouth might just have earned their best ever result and Amorim can only laugh",
-      "summary": "When Milan last won the Champions League in 2007, Bournemouth were finishing 18th in League One. Who would have dreamt of a night like this?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bournemouth-ac-milan-europa-league-match-reaction",
-      "publishedAt": "2026-10-22T21:22:46.000Z",
-      "category": "ucl",
-      "region": "italy",
-      "tags": [
-        "Champions League",
-        "Milan"
-      ]
-    },
-    {
-      "id": "d7dab720f3b434",
-      "title": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
-      "summary": "This was a momentous night in Bournemouth’s history, although the truth is they would have been given a far sterner examination by Coventry or Hull. Whatever this rotte...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
-      "publishedAt": "2026-10-22T21:00:49.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Milan"
-      ]
-    },
-    {
-      "id": "0e4c58d0d6d7d9",
-      "title": "Arsenal: Arteta orders Gunners to ‘send representatives’ for new Vinicius Junior ‘talks’",
-      "summary": "Arsenal boss Mikel Arteta has reportedly told the Gunners hierarchy to ‘send representatives’ for talks with Vinicius Junior’s agents.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-orders-send-representatives-vinicius-junior-talks-real-madrid",
-      "publishedAt": "2026-10-22T19:33:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
