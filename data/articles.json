@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:46:00.004Z",
+  "generatedAt": "2026-10-23T21:11:59.510Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,51 +99,41 @@
       "pinned": true
     },
     {
-      "id": "67be7215267f3b",
-      "title": "Lewis named on England bench as Ashton replaces Eckersley for France",
-      "summary": "England head coach Brian McDermott has made one change to his 19-man squad for Saturday's Rugby League World Cup match against France.",
+      "id": "fc81af0b4135b8",
+      "title": "When Carra met Chelsea boss Alonso",
+      "summary": "Sky Sports' Jamie Carragher sat down for a wide-ranging interview with Chelsea manager Xabi Alonso in which the pair discussed his appointment at Stamford Bridge and hi...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13601200/rugby-league-world-cup-mikey-lewis-on-bench-as-england-unchanged-for-clash-vs-france-despite-opening-defeat",
-      "publishedAt": "2026-10-23T16:45:59.787Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "298b0f723b3082",
-      "title": "Everton latest: Norgaard apologised for poor Chelsea debut, says Moyes",
-      "summary": "Everton latest: Norgaard apologised for poor Chelsea debut, says Moyes",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "url": "https://www.skysports.com/football/news/12040/13602758/xabi-alonso-chelsea-manager-sits-down-with-former-liverpool-team-mate-jamie-carragher-for-new-boss-youtube-series",
+      "publishedAt": "2026-10-23T21:11:59.290Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy",
       "tags": [
-        "Chelsea"
+        "Chelsea",
+        "Liverpool",
+        "Inter"
       ]
     },
     {
-      "id": "0c49915f0a6215",
-      "title": "Spurs latest: Porro back for Chelsea trip but Maddison a doubt",
-      "summary": "Spurs latest: Porro back for Chelsea trip but Maddison a doubt",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-23T16:45:59.786Z",
-      "category": "transfer",
+      "id": "6029566752d42c",
+      "title": "Ipswich 1-1 Nottingham Forest: Premier League – live",
+      "summary": "⚽ Updates from the 8pm BST kick-off at Portman Road ⚽ Ten things to look out for | How they stand | Mail Scott 2 min: It’s windy in Suffolk. Walton batters a clearance...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/23/ipswich-v-nottingham-forest-premier-league-live",
+      "publishedAt": "2026-10-23T20:58:44.000Z",
+      "category": "issue",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Football",
+        "Premier League"
       ]
     },
     {
-      "id": "a2d785e669d513",
-      "title": "Defiant Carrick denies dressing room divide and backs himself to turn Man Utd around",
-      "summary": "A defiant Michael Carrick has insisted there is no divide in the Manchester United dressing room and backed himself to turn things around at Old Trafford amid growing u...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602589/man-utd-boss-michael-carrick-insists-there-is-no-divide-despite-bruno-fernandes-criticism",
-      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "id": "3f7983cd29dce0",
+      "title": "Man Utd boss Carrick told to make brutal decision on ‘disgraceful’ Fernandes in ‘last’ act before sack",
+      "summary": "Manchester United head coach Michael Carrick has been told to make a big decision about captain Bruno Fernandes in his “last” act.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-boss-carrick-told-brutal-decision-disgraceful-fernandes-last-act-before-sack",
+      "publishedAt": "2026-10-23T18:45:27.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -151,16 +141,60 @@
       ]
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
-      "summary": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-23T16:45:59.786Z",
+      "id": "3260e8acfb10d3",
+      "title": "Jamie Carragher, Alan Shearer reveal predictions for Man Utd vs Bournemouth, Chelsea vs Tottenham",
+      "summary": "Jamie Carragher and Alan Shearer have made predictions for some of this weekend’s Premier League games, including Manchester United vs Bournemouth.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jamie-carragher-alan-shearer-reveal-predictions-man-utd-bournemouth-chelsea-tottenham",
+      "publishedAt": "2026-10-23T18:17:29.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "13a7c04e1c40b1",
+      "title": "Arsenal star reaches decision on joining Real Madrid ‘ASAP’ as ‘key’ condition for transfer revealed",
+      "summary": "According to reports, Arsenal star Martin Zubimendi wants to join Spanish giants Real Madrid ‘as soon as possible’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-star-reaches-decision-on-joining-real-madrid-asap",
+      "publishedAt": "2026-10-23T17:43:50.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "dca01d69264a84",
+      "title": "Vincent Kompany taken to hospital after collapsing at Bayern training",
+      "summary": "Bayern Munich head coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Muni...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training",
+      "publishedAt": "2026-10-23T16:50:53.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "39e77d4f33640e",
+      "title": "Hull City v Brentford: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Hull City and Brentford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/hull-city-v-brentford-prediction-preview",
+      "publishedAt": "2026-10-23T16:50:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
       ]
     },
     {
@@ -561,34 +595,6 @@
       "tags": [
         "Football",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "a500ca3c6c5dd8",
-      "title": "Chelsea v Tottenham: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Chelsea and Tottenham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/chelsea-v-tottenham-prediction-preview-2026-27",
-      "publishedAt": "2026-10-23T09:36:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8b527c71f22b69",
-      "title": "Tottenham respond after best player sours on De Zerbi and pushes to leave",
-      "summary": "Tottenham’s best player has already lost faith in De Zerbi and his project, and Spurs have responded amid claims he could wind up at Real Madrid or Barcelona for a ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/tottenham-respond-pedro-porro-sours-roberto-de-zerbi-pushes-leave",
-      "publishedAt": "2026-10-23T09:29:17.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Barcelona",
-        "Real Madrid"
       ]
     }
   ],
