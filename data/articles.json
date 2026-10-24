@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:11:59.510Z",
+  "generatedAt": "2026-10-24T03:58:55.990Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Sky Sports' Jamie Carragher sat down for a wide-ranging interview with Chelsea manager Xabi Alonso in which the pair discussed his appointment at Stamford Bridge and hi...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13602758/xabi-alonso-chelsea-manager-sits-down-with-former-liverpool-team-mate-jamie-carragher-for-new-boss-youtube-series",
-      "publishedAt": "2026-10-23T21:11:59.290Z",
+      "publishedAt": "2026-10-24T03:58:55.567Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
@@ -114,17 +114,99 @@
       ]
     },
     {
-      "id": "6029566752d42c",
-      "title": "Ipswich 1-1 Nottingham Forest: Premier League – live",
-      "summary": "⚽ Updates from the 8pm BST kick-off at Portman Road ⚽ Ten things to look out for | How they stand | Mail Scott 2 min: It’s windy in Suffolk. Walton batters a clearance...",
+      "id": "c6966464e5298c",
+      "title": "Forest out of relegation zone after cagey draw at Ipswich",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Ipswich Town and Nottingham Forest.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13602902/ipswich-town-1-1-nottingham-forest-premier-league-highlights",
+      "publishedAt": "2026-10-24T03:58:55.567Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "e02909c0d7ad9a",
+      "title": "Papers: Howe is Wilcox's choice if United replace Carrick",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13602761/eddie-howe-is-jason-wilcoxs-choice-if-manchester-united-replace-michael-carrick-paper-talk",
+      "publishedAt": "2026-10-24T03:58:55.566Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "06eb0ca6c4322f",
+      "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+      "summary": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T21:54:54.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7071b0cb48961c",
+      "title": "Borussia M'gladbach finally get first win after five-goal thriller",
+      "summary": "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh a...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck87zl4v2ld8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T21:37:41.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "e5792732c21404",
+      "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
+      "summary": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T21:32:04.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "376e9bd9750d9c",
+      "title": "Premier League news: Spurs’ nine injuries ‘normal’, says De Zerbi; ‘emotional control’ keeps Blues red-free",
+      "summary": "Tottenham manager insists medical team not to blame as more key players drop out while Alonso happy with Chelsea’s new-found discipline Continue reading...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/23/ipswich-v-nottingham-forest-premier-league-live",
-      "publishedAt": "2026-10-23T20:58:44.000Z",
-      "category": "issue",
+      "url": "https://www.theguardian.com/football/2026/oct/23/premier-league-news-spurs-nine-injuries-normal-says-de-zerbi-emotional-control-keeps-blues-red-free",
+      "publishedAt": "2026-10-23T21:30:14.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League"
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "6e9fd6f9ef1838",
+      "title": "Change captain? Play the kids? How to solve the problems at Manchester United",
+      "summary": "The beleaguered Michael Carrick’s job is on the line, but there are steps he can take to revive the stricken club The big question as Bournemouth arrive for Sunday’s 2p...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/23/change-captain-play-the-kids-how-to-solve-the-problems-at-manchester-united",
+      "publishedAt": "2026-10-23T19:00:11.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
       ]
     },
     {
@@ -289,20 +371,6 @@
       "tags": [
         "Arsenal",
         "Inter"
-      ]
-    },
-    {
-      "id": "a74f44c550ce73",
-      "title": "Carrick delivers 5min 27sec monologue and says he will hold brolly to keep everyone dry",
-      "summary": "Manchester United coach wants ‘humility’ and ‘resilience’ He does not rule out stripping Fernandes of captaincy Michael Carrick began his Friday media conference with a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/23/michael-carrick-monologue-manchester-united-umbrella-bruno-fernandes",
-      "publishedAt": "2026-10-23T14:58:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
       ]
     },
     {
@@ -522,74 +590,6 @@
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/23/arsenal-women-renee-slegers-tottenham-north-london-derby-womens-super-league",
       "publishedAt": "2026-10-23T11:58:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9593241166f653",
-      "title": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
-      "summary": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth anniversary of his appointment, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwg7xvz8e8dpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T11:23:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c193935dea59f0",
-      "title": "Former Man United chief Murtough joins Birmingham",
-      "summary": "Birmingham City appoint ex-Manchester United chief John Murtough as director of football.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9zrdkv775r1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T11:20:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4688545f495fc2",
-      "title": "Alejandro Garnacho: Aston Villa reach verdict on ‘backing out’ of permanent deal with Chelsea",
-      "summary": "According to reports, Aston Villa are now willing to ‘freeze out’ Chelsea loanee Alejandro Garnacho to ‘back out’ of a permanent transfer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alejandro-garnacho-aston-villa-reach-verdict-backing-out-permanent-deal-chelsea",
-      "publishedAt": "2026-10-23T11:19:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "bf6de7399488f0",
-      "title": "Pascal Gross: the obsessive runner keeping Brighton ‘one step ahead’ after fast start",
-      "summary": "Midfielder ‘who can never stand still’ has brought renewed energy to Seagulls since return to the club in January Most footballers like to spend their summers unwinding...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/23/fabian-gross-obsessive-runner-brighton-one-step-ahead",
-      "publishedAt": "2026-10-23T11:11:11.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a85004bd4ff08f",
-      "title": "Ex-Arsenal director of football Edu to advise Northampton",
-      "summary": "Nottingham Forest's former global head of football Edu will serve as a senior advisor to the new owners of Northampton Town.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrky7n63l6po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T10:27:27.000Z",
       "category": "league",
       "region": "england",
       "tags": [
