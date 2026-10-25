@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:29:03.546Z",
+  "generatedAt": "2026-10-25T03:59:15.460Z",
   "windowDays": 7,
   "articles": [
     {
@@ -104,7 +104,7 @@
       "summary": "Arsenal boss Mikel Arteta says he is compiling footage of rival Premier League managers repeatedly leaving their technical areas after receiving his second yellow card...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
-      "publishedAt": "2026-10-24T20:29:03.286Z",
+      "publishedAt": "2026-10-25T03:59:15.068Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -113,12 +113,25 @@
       ]
     },
     {
-      "id": "5fe094d7baab91",
-      "title": "'NIGHTMARE!' - Penders punches ball into own net!",
-      "summary": "Mike Penders punches the ball into his own net to give Spurs the lead against Chelsea.",
+      "id": "9f6c98678a39e9",
+      "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603327/goal-m-penders-og-chelsea-0-1-tottenham-hotspur",
-      "publishedAt": "2026-10-24T20:29:03.286Z",
+      "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
+      "publishedAt": "2026-10-25T03:59:15.067Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "12575b76276b0c",
+      "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
+      "summary": "They say bad things come in threes. That was certainly the case for Chelsea on a miserable evening at Stamford Bridge as they lost 2-0 to Tottenham and were described a...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
+      "publishedAt": "2026-10-25T03:59:15.067Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,12 +139,124 @@
       ]
     },
     {
-      "id": "813fa0757a6620",
-      "title": "'Lost his head!' - Disaster for Chelsea as Palmer sent off for second yellow",
-      "summary": "Cole Palmer was shown a second yellow card and sent off in Chelsea's Premier League clash with Tottenham Hotspur.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603330/off-c-palmer-80-chelsea-0-1-tottenham-hotspur",
-      "publishedAt": "2026-10-24T20:29:03.286Z",
+      "id": "5d59ba0faf2b28",
+      "title": "Should Palmer have been sent off earlier than he was?",
+      "summary": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T22:43:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f219c297b06d3e",
+      "title": "Watch Match of the Day on iPlayer",
+      "summary": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T22:40:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "51a57f32236817",
+      "title": "Marcus Rashford: Man Utd and Everton in ‘talks’ and January deal possible",
+      "summary": "Manchester United and Everton are in discussions over a potential deal for Marcus Rashford in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-everton-marcus-rashford-talks-january-2027-transfer-deal",
+      "publishedAt": "2026-10-24T22:31:57.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f8da0d603eaa87",
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "summary": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T21:34:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane still holds commanding lead over chasing pack",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-10-24T21:28:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "c31c0156d92d3f",
+      "title": "European football: Lazio beat Parma to top Serie A; Dortmund lead Bundesliga",
+      "summary": "Lazio win 2-1 while Roma draw 3-3 with Napoli Beier gives Dortmund win over Eintracht Frankfurt Lazio climbed to the top of Serie A with a 2-1 home win ⁠over Parma ⁠as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
+      "publishedAt": "2026-10-24T21:21:11.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Bundesliga",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b9798316fddf45",
+      "title": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+      "summary": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T21:14:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "6740587c83a8fe",
+      "title": "Glitch in Chelsea’s coding costs Alonso while resurgent Spurs are all systems go | Barney Ronay",
+      "summary": "Home side broke the game open with some unique corner routines, but a goalkeeping error ruined the plan There was an odd interlude at Stamford Bridge with 76 minutes go...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-austin-macphee-mike-penders-roberto-de-zerbi",
+      "publishedAt": "2026-10-24T20:59:57.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "010a19be2e63cd",
+      "title": "16 Conclusions from Chelsea 0-2 Spurs: Tonali-Fernandes, Tel, De Zerbi defy history ancient and recent",
+      "summary": "Spurs utterly outclassed Chelsea to record only their second ever Premier League win at Stamford Bridge. We didn’t expect it.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-0-2-tottenham-mathys-tel-mateus-fernandes-sandro-tonali",
+      "publishedAt": "2026-10-24T20:58:06.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -140,39 +265,12 @@
       ]
     },
     {
-      "id": "6562bed530fa1c",
-      "title": "Spurs earn deserved win at Chelsea after Penders error and Palmer red",
-      "summary": "Chelsea goalkeeper Mike Penders punched the ball into his own net before Mathys Tel struck a wonderful second to give Tottenham a rare but deserved 2-0 victory at Stamf...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516",
-      "publishedAt": "2026-10-24T20:29:03.286Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "038edf0a102543",
-      "title": "Spurs earn rare win at Stamford Bridge in chaotic end to game",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Chelsea and Tottenham Hotspur.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603351/chelsea-0-2-tottenham-hotspur-premier-league-highlights",
-      "publishedAt": "2026-10-24T20:29:03.286Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8cec13563fd186",
-      "title": "Tel's sensational solo goal seals Spurs' win",
-      "summary": "Mathys Tel scores SENSATIONAL solo goal to double Spurs' lead against Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13603333/goal-m-tel-87-chelsea-0-2-tottenham-hotspur",
-      "publishedAt": "2026-10-24T20:29:03.286Z",
+      "id": "46d0f0453888af",
+      "title": "Martin Keown says £30m Tottenham star ‘magnificent’ v Chelsea but De Zerbi criticises him again",
+      "summary": "Martin Keown was impressed with a Tottenham Hotspur winger, but Spurs manager Roberto De Zerbi wants more from him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mathys-tel-tottenham-chelsea-martin-keown-roberto-de-zerbi-verdict",
+      "publishedAt": "2026-10-24T20:44:56.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -195,19 +293,17 @@
       ]
     },
     {
-      "id": "c31c0156d92d3f",
-      "title": "European football: Roma snatch late draw in 3-3 thriller as Como win again",
-      "summary": "McTominay scores twice for Napoli against Roma Dortmund top Bundesliga after Eintracht Frankfurt win Roma missed the chance to move top of Serie A, but preserved their...",
+      "id": "597754d2b670fb",
+      "title": "Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs",
+      "summary": "Forward sent off after 80 minutes for second yellow card ‘We need to have maturity to deal with difficult moments’ Xabi Alonso said that Cole Palmer must learn from his...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
-      "publishedAt": "2026-10-24T19:27:13.000Z",
-      "category": "ucl",
-      "region": "england spain italy germany",
+      "url": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
+      "publishedAt": "2026-10-24T20:19:17.000Z",
+      "category": "transfer",
+      "region": "england",
       "tags": [
         "Football",
-        "Serie A",
-        "Bundesliga",
-        "Champions League"
+        "Chelsea"
       ]
     },
     {
@@ -319,20 +415,6 @@
       ]
     },
     {
-      "id": "606831bf3b3e6a",
-      "title": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
-      "summary": "There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
-      "publishedAt": "2026-10-24T18:32:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "57cfbe4e5edf1b",
       "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
       "summary": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
@@ -361,7 +443,7 @@
     },
     {
       "id": "091d6cb40020ab",
-      "title": "'A massive storage of images': Arteta has technical area receipts",
+      "title": "'A massive storage of images' - Arteta has technical area receipts",
       "summary": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
@@ -512,86 +594,6 @@
         "Premier League",
         "Arsenal",
         "Manchester"
-      ]
-    },
-    {
-      "id": "885ec44e1ac0bf",
-      "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-      "summary": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:40:01.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "9c6d23aa825e05",
-      "title": "Man Utd manager target vows to ‘fix’ broken dressing room as ‘players talk too much’",
-      "summary": "One of the top candidates to replace Michael Carrick as Manchester United boss has vowed to “fix” what he insists is an “out-of-control dressing room”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-next-manager-top-candidate-replace-carrick-vows-fix-out-of-control-dressing-room",
-      "publishedAt": "2026-10-24T15:34:12.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5de23b4db7d107",
-      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-      "summary": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to res...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:05:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f467c778cf0dac",
-      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-      "summary": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortuna...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:03:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "979acbfac3d285",
-      "title": "Aston Villa ‘real deal’ poised to become fourth £100m Liverpool signing",
-      "summary": "Liverpool are going to have to break the bank if they want one of many shining Aston Villa lights in the summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-aston-villa-real-deal-poised-fourth-100m-liverpool-signing",
-      "publishedAt": "2026-10-24T14:51:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "824af122444ef3",
-      "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-      "summary": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T14:20:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
