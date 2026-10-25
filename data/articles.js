@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-25T03:59:15.460Z",
+  "generatedAt": "2026-10-25T11:01:09.609Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,17 +99,16 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "1366e880a9de02",
-      "title": "Arteta collating evidence of other managers stepping out of technical area",
-      "summary": "Arsenal boss Mikel Arteta says he is compiling footage of rival Premier League managers repeatedly leaving their technical areas after receiving his second yellow card...",
+      "id": "12575b76276b0c",
+      "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
+      "summary": "They say bad things come in threes. That was certainly the case for Chelsea on a miserable evening at Stamford Bridge as they lost 2-0 to Tottenham and were described a...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
-      "publishedAt": "2026-10-25T03:59:15.068Z",
+      "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
+      "publishedAt": "2026-10-25T11:01:09.308Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
-        "Arsenal"
+        "Chelsea"
       ]
     },
     {
@@ -118,7 +117,7 @@ window.FOOTBALLDAY_DATA = {
       "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
-      "publishedAt": "2026-10-25T03:59:15.067Z",
+      "publishedAt": "2026-10-25T11:01:09.307Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -126,16 +125,194 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "12575b76276b0c",
-      "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
-      "summary": "They say bad things come in threes. That was certainly the case for Chelsea on a miserable evening at Stamford Bridge as they lost 2-0 to Tottenham and were described a...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
-      "publishedAt": "2026-10-25T03:59:15.067Z",
+      "id": "ff863fd1fee02e",
+      "title": "Arsenal: Arteta reaches final decision on selling Zubimendi to Real Madrid",
+      "summary": "Arsenal head coach Mikel Arteta has opened the door for Gunners midfielder Martin Zubimendi to join Real Madrid, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-arteta-reaches-final-decision-selling-zubimendi-real-madrid",
+      "publishedAt": "2026-10-25T10:58:50.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "19fee20fcfff7c",
+      "title": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
+      "summary": "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Aintree Racecourse has confirmed today’s race meeting has been cancelled due...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
+      "publishedAt": "2026-10-25T10:32:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a0974950f0bbcd",
+      "title": "Chelsea: Sturridge picks out big mistake Alonso made vs Spurs – ‘The manager got it wrong’",
+      "summary": "Former Chelsea striker Daniel Sturridge reckons Xabi Alonso should have started Danny Welbeck in the Blues’ 2-0 defeat to Tottenham.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-sturridge-big-mistake-alonso-spurs-quenda-welbeck-wrong",
+      "publishedAt": "2026-10-25T09:32:45.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "4c1b78ff7233c2",
+      "title": "Sunderland v Leeds: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Sunderland and Leeds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/sunderland-v-leeds-prediction-preview",
+      "publishedAt": "2026-10-25T09:01:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "f219c297b06d3e",
+      "title": "Watch Match of the Day on iPlayer",
+      "summary": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0af3a1449d0ef8",
+      "title": "Arsenal will ‘100 per cent’ sell Arteta starter vs Everton for one key reason",
+      "summary": "Arsenal striker Viktor Gyokeres will “100 per cent” be sold after his performance against Everton on Saturday, according to Gabby Agbonlahor.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-100-per-cent-sell-gyokeres-everton-performance",
+      "publishedAt": "2026-10-25T08:57:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "151f9d94da7c14",
+      "title": "Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews",
+      "summary": "Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hall When football’s dignitaries assemble on Monday at the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/25/ballon-dor-ceremony-returns-to-england-in-nod-to-revolutionary-stanley-matthews",
+      "publishedAt": "2026-10-25T08:00:58.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "9a2406d50e47f2",
+      "title": "What have Man Utd changed to turn around WSL form?",
+      "summary": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T07:58:04.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2563e15e7f7ce6",
+      "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+      "summary": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T07:55:05.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "85986e92977013",
+      "title": "Man Utd rebellion: A predicted target for every player’s wrath in post-Bournemouth interviews",
+      "summary": "Who or what will the next Man Utd rebel take aim at in the next bombshell post-match interview? We’ve predicted a target for each potential mutineer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/feature-man-utd-rebellion-predicted-target-every-player-post-bournemouth-interviews",
+      "publishedAt": "2026-10-25T07:09:53.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "a9367ae549dae0",
+      "title": "Michael Carrick will be sacked for three main Manchester United tactical failings",
+      "summary": "The writing is on the wall for Michael Carrick at Manchester United, with three main tactical failings and his lack of solutions damning him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-will-be-sacked-manchester-united-tactical-failings",
+      "publishedAt": "2026-10-25T07:09:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ba0a83a4fd42af",
+      "title": "What Man Utd need now is stability, not more changes - Pulis",
+      "summary": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T06:34:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "580d0cd93fbed7",
+      "title": "Why are Liverpool struggling for Premier League goals?",
+      "summary": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T06:26:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2952855a30304c",
+      "title": "When is Premier League 'sacking season' - and who should be worried?",
+      "summary": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T06:17:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -145,20 +322,6 @@ window.FOOTBALLDAY_DATA = {
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T22:43:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "f219c297b06d3e",
-      "title": "Watch Match of the Day on iPlayer",
-      "summary": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T22:40:55.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -293,20 +456,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "597754d2b670fb",
-      "title": "Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs",
-      "summary": "Forward sent off after 80 minutes for second yellow card ‘We need to have maturity to deal with difficult moments’ Xabi Alonso said that Cole Palmer must learn from his...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
-      "publishedAt": "2026-10-24T20:19:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "78937ea4d21e88",
       "title": "'We could have played better' - Alonso disappointed after defeat",
       "summary": "Chelsea manager Xabi Alonso admitted he was disappointed by his side's performance, saying they \"could have played better\" following their 2-0 defeat by Tottenham at St...",
@@ -429,19 +578,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "023dd68d55b156",
-      "title": "Podcast: A stormy Saturday of Scottish football",
-      "summary": "Reaction to stormy Saturday of Scottish football across the country on and off the pitch!",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pjgsxf?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T18:22:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
       "id": "091d6cb40020ab",
       "title": "'A massive storage of images' - Arteta has technical area receipts",
       "summary": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
@@ -453,147 +589,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "204317520ac586",
-      "title": "Manager ins and outs - 2026-27",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:54:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "eef246bab6ff73",
-      "title": "Liverpool v Brighton: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Liverpool and Brighton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/liverpool-v-brighton-prediction-preview",
-      "publishedAt": "2026-10-24T17:31:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "97171da80fe8dd",
-      "title": "Paul Merson names Arsenal’s best player v Everton and reacts to Viktor Gyokeres display – ‘the one for me’",
-      "summary": "Paul Merson gives his verdict on two Arsenal players’ performance against Everton, including striker Viktor Gyokeres.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-everton-viktor-gyokeres-martin-odegaard-paul-merson-verdict",
-      "publishedAt": "2026-10-24T17:06:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5ee71f803232ee",
-      "title": "Arteta 'delighted' with Arsenal win after 'tough week'",
-      "summary": "Arsenal manager Mikel Arteta is \"delighted\" with his sides performance after making five changes in their 2-0 victory over Everton.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck05486e1l53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:00:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "42b0c1ee2c7000",
-      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
-      "summary": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T16:58:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4d6e809507c78f",
-      "title": "Spurs boss Ho wants 'more support and training' for WSL referees",
-      "summary": "Tottenham manager Martin Ho was frustrated by a penalty decision in their defeat by Arsenal and says Women's Super League referees \"need more support\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd7q47dd0e7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T16:27:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "bec64c673c4aae",
-      "title": "Arsenal remain a team of two halves as they survive another Premier League high-wire act",
-      "summary": "Everything is in place for Arsenal to walk the Premier League title this year. Perhaps that’s why they seem keen to make things interesting?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-team-two-halves-everton-premier-league-stumble",
-      "publishedAt": "2026-10-24T16:26:20.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "18622418875833",
-      "title": "Alejandro Garnacho: Unai Emery explains brutal snub during Aston Villa 2-1 Man City",
-      "summary": "Aston Villa manager Unai Emery has explained why he decided not to use Chelsea-owned Alejandro Garnacho against Manchester City at Villa Park.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alejandro-garnacho-aston-villa-chelsea-manchester-city-unai-emery",
-      "publishedAt": "2026-10-24T16:11:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "08ddd73f6f2821",
-      "title": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
-      "summary": "Oscar Bobb’s first Premier League goal for Fulham earned a win against Coventry that lifted Álvaro Arbeloa’s side clear of the relegation zone. Bobb produced a fine bit...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
-      "publishedAt": "2026-10-24T16:11:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0544c76347a9eb",
-      "title": "Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel",
-      "summary": "The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that on his 14th visit to this stadium as Everton’s manager, his luck would change. Yet fro...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
-      "publishedAt": "2026-10-24T16:03:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
       ]
     }
   ],
