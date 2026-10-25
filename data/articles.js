@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-25T11:01:09.609Z",
+  "generatedAt": "2026-10-25T15:49:49.665Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,108 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "12575b76276b0c",
-      "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
-      "summary": "They say bad things come in threes. That was certainly the case for Chelsea on a miserable evening at Stamford Bridge as they lost 2-0 to Tottenham and were described a...",
+      "id": "9f6c98678a39e9",
+      "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso",
-      "publishedAt": "2026-10-25T11:01:09.308Z",
+      "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
+      "publishedAt": "2026-10-25T15:49:49.423Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "90e9882878d1db",
+      "title": "Liverpool two goals up against Brighton LIVE!",
+      "summary": "Liverpool two goals up against Brighton LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521",
+      "publishedAt": "2026-10-25T15:49:49.422Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "12a97a33ae79b4",
+      "title": "Martin Keown ‘hopes’ Tottenham star returns soon as Roberto De Zerbi worries revealed",
+      "summary": "Arsenal legend Martin Keown “hopes” Tottenham star James Maddison isn’t out for long, as Roberto De Zerbi has revealed his fears for the midfielder’s injury.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/martin-keown-hopes-tottenham-star-james-maddison-back-soon-roberto-de-zerbi-worries",
+      "publishedAt": "2026-10-25T15:42:40.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "69abd2ba7c05e4",
+      "title": "Manchester United v Bournemouth, Liverpool v Brighton and more: clockwatch – live",
+      "summary": "⚽️ Premier League updates from 2pm GMT ⚽️ Live scoreboard | Send Daniel an email Daniel Otherwise, Carrick goes for ballast in the midfield, with Andrey Santos and Carl...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/25/manchester-united-v-bournemouth-liverpool-v-brighton-and-more-premier-league-live",
+      "publishedAt": "2026-10-25T15:34:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e7b7c1ba457530",
+      "title": "Liverpool: 0/10 Harvey Elliott rinsed by Spanish media after bizarre Valencia red card",
+      "summary": "The attacking midfielder has struggled to make an impact at his new club to date, but did so in a negative way after picking up a late red card against ...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/spanish-media-rinses-harvey-elliott-valencia-red-card-liverpool-loanee",
+      "publishedAt": "2026-10-25T15:07:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f71f8ffad77088",
+      "title": "Sunderland v Leeds: Premier League – live",
+      "summary": "Live Premier League updates from 4.30pm BST Europe more curse than blessing for Sunderland Sign up for Football Daily Crystal Palace 0-0 Newcastle Hull 1-0 Brentford Li...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
+      "publishedAt": "2026-10-25T15:00:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6c79cc0863a303",
+      "title": "Man Utd sensation JJ Gabriel suffers transfer blow despite double ‘agreement’ claim",
+      "summary": "There has reportedly been a setback for the 16-year-old wonderkid as he tries to leave United for one of Europe’s most illustrious clubs",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-news-jj-gabriel-transfer-latest-blow-double-agreement-real-madrid",
+      "publishedAt": "2026-10-25T14:32:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "9e309be503a143",
+      "title": "Malard and Baltimore inspire Chelsea in comeback win over Palace",
+      "summary": "Chelsea required the help of super-sub Sandy Baltimore to avoid a first-ever defeat to Crystal Palace as they came from behind to win 3-1 at the 360 Engage Stadium.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/report/575799",
+      "publishedAt": "2026-10-25T14:00:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -112,16 +208,83 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "9f6c98678a39e9",
-      "title": "Papers: Sancho could land in Spain as Getafe offer winger shock deal",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603391/jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-injury-woes-paper-talk",
-      "publishedAt": "2026-10-25T11:01:09.307Z",
+      "id": "f7e9f0643255f9",
+      "title": "Fernandes dropped to Man Utd bench - was Carrick right?",
+      "summary": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T13:26:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a5f96defe9db04",
+      "title": "Arsenal star already ‘a legend of the football club’ after Everton win – Keown",
+      "summary": "Former Arsenal defender Martin Keown thinks Gabriel Magalhaes is already a legend at the Emirates after his performance against Everton.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-gabriel-magalhaes-already-legend-keown",
+      "publishedAt": "2026-10-25T13:02:31.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2402e0424e4fa5",
+      "title": "Chelsea sensation stunned by Xabi Alonso treatment with crunch talks coming",
+      "summary": "A talented Blues star is ‘growing increasingly frustrated’ with his situation under Alonso, with a January transfer emerging as a genuine possibility",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-news-estevao-stunned-xabi-alonso-treatment-crunch-transfer-talks-january",
+      "publishedAt": "2026-10-25T12:31:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0a3b0a49191390",
+      "title": "England win cerebral palsy World Cup for first time",
+      "summary": "Sam Dewhirst and David Porcher score the goals as England beat the United States in the final of the Cerebral Palsy World Cup in Atlanta.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5yn2e0wpq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T12:13:40.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "587c118f7079f1",
+      "title": "'Players have completely gone' - Nev dissects 'toxic' atmosphere at Man Utd",
+      "summary": "Gary Neville believes the Manchester United dressing room will be toxic and wonders what is being said behind closed doors, after Bruno Fernandes' public 'direct attack...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13603522/gary-neville-on-bruno-fernandes-and-michael-carrick-at-man-utd",
+      "publishedAt": "2026-10-25T12:12:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "769bf6c0d47c5c",
+      "title": "Liverpool plan to replace duo in summer as they make decision on Mac Allister future",
+      "summary": "Liverpool are planning to replace Virgil van Dijk and Joe Gomez, while they won’t offer Alexis Mac Allister a new deal, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-plan-replace-van-dijk-gomez-make-deciison-mac-allister-contract",
+      "publishedAt": "2026-10-25T11:41:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -136,22 +299,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "19fee20fcfff7c",
-      "title": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
-      "summary": "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Aintree Racecourse has confirmed today’s race meeting has been cancelled due...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
-      "publishedAt": "2026-10-25T10:32:08.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Manchester"
       ]
     },
     {
@@ -246,6 +393,21 @@ window.FOOTBALLDAY_DATA = {
         "La Liga",
         "Barcelona",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "ef28a9b7c1102c",
+      "title": "The non-football fan who snapped the game beautifully",
+      "summary": "Peter Robinson has been a photographer at 13 FIFA World Cups since 1970.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m4znk3m9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T07:11:34.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
       ]
     },
     {
@@ -344,19 +506,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "f8da0d603eaa87",
-      "title": "Man Utd not an unmanageable club - Carrick",
-      "summary": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T21:34:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "f598f15a226ce5",
       "title": "Who is the top scorer of 2026? Harry Kane still holds commanding lead over chasing pack",
       "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
@@ -438,157 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "3d1f6b13b4f764",
-      "title": "Liverpool among clubs keen on Vuskovic - Sunday's gossip",
-      "summary": "Brighton defender Luka Vuskovic is being looked at by high-profile clubs, Liverpool do not intend to bring Trent Alexander-Arnold back, AC Milan are targeting Mancheste...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvgr87py7zvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T20:20:30.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Manchester",
-        "Milan"
-      ]
-    },
-    {
-      "id": "78937ea4d21e88",
-      "title": "'We could have played better' - Alonso disappointed after defeat",
-      "summary": "Chelsea manager Xabi Alonso admitted he was disappointed by his side's performance, saying they \"could have played better\" following their 2-0 defeat by Tottenham at St...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckvg6j1p51xdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:25:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a8e59462be15b6",
-      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
-      "summary": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:17:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8a5f1799a8aee6",
-      "title": "'Best performance since I arrived' - De Zerbi praises Spurs after win",
-      "summary": "Tottenham manager Roberto De Zerbi describes his side's 2-0 victory over Chelsea at Stamford Bridge as \"the best since he arrived at the club\", adding the win was speci...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqkg5m3lnr5zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:12:19.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "de932d139a3293",
-      "title": "Xabi Alonso hubris and inertia costs Chelsea as Tottenham expose three terrible decisions",
-      "summary": "Chelsea weren’t at the races, but their Xabi Alonso’s hubris and inertia gave them no hope against a Tottenham team that ran rings around them.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-alonso-hubris-inertia-chelsea-tottenham-expose-three-terrible-decisions",
-      "publishedAt": "2026-10-24T19:06:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d3d62d764f4557",
-      "title": "Why Stanley Matthews’ Ballon d’Or triumph echoes down the years for Harry Kane | Jonathan Wilson",
-      "summary": "In 1956, the Blackpool great was recognised for his force of individual will, the very thing that makes the Bayern and England striker the standout candiate Systems foo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
-      "publishedAt": "2026-10-24T19:00:41.000Z",
-      "category": "league",
-      "region": "italy germany",
-      "tags": [
-        "Football",
-        "Bayern",
-        "Milan"
-      ]
-    },
-    {
-      "id": "4d099c264ce1f5",
-      "title": "Arsenal beat Everton to go level on points with leaders Man City",
-      "summary": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manches...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T18:59:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "53096e32d6a2dc",
-      "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-      "summary": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T18:59:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "afb5b814c9b4b1",
-      "title": "Bobb's late strike secures Fulham win at Coventry",
-      "summary": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T18:59:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "57cfbe4e5edf1b",
-      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-      "summary": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T18:26:29.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "091d6cb40020ab",
-      "title": "'A massive storage of images' - Arteta has technical area receipts",
-      "summary": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:59:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
       ]
     }
   ],
