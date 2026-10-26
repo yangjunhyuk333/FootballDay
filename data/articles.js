@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-25T20:37:21.251Z",
+  "generatedAt": "2026-10-26T04:03:39.968Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,213 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "85483960a9082b",
-      "title": "Barcelona v Real Madrid: El Clásico – live",
-      "summary": "La Liga updates, kick-off 8pm (GMT) Live scoreboard | And you can email Niall Richard Hirst asks: “Can we add this to Peter’s bingo card? … Points out he’s only been th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
-      "publishedAt": "2026-10-25T20:19:48.000Z",
-      "category": "league",
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane still holds commanding lead over chasing pack",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-10-26T00:50:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-10-26T00:45:46.000Z",
+      "category": "worldcup",
       "region": "spain",
       "tags": [
-        "Football",
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "a6ceeecda60168",
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T00:07:16.000Z",
+      "category": "issue",
+      "region": "spain",
+      "tags": [
         "La Liga",
         "Barcelona",
         "Real Madrid"
       ]
     },
     {
+      "id": "1584183dfe8143",
+      "title": "Man City's perfect start over after draw at rivals Man Utd",
+      "summary": "Manchester City's perfect record in the Women's Super League is ended by rivals Manchester United after Elisabeth Terland scores a late equaliser to snatch a 1-1 draw.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T23:52:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bfd33d51cfe894",
+      "title": "Man Utd lacked intensity & fight - Alderweireld",
+      "summary": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no \"together...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T23:51:22.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9d46c25c0978fb",
+      "title": "How Liverpool's attack impressed against Brighton",
+      "summary": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T23:49:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "62cf90a199766d",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:16:14.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "bd7b524e5ef7cb",
+      "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+      "summary": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and whi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
+      "publishedAt": "2026-10-25T22:12:20.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "37546317372581",
+      "title": "Mbappe's late strike earns Mourinho and Real Clasico glory at Barca",
+      "summary": "Kylian Mbappe's double took Real Madrid to a famous 2-1 Clasico win, which had Jose Mourinho sliding on his knees in celebration in Barcelona.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
+      "publishedAt": "2026-10-25T22:00:00.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "9a2406d50e47f2",
+      "title": "What have Man Utd changed to turn around WSL form?",
+      "summary": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T21:38:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4d52a1ac2a5a2a",
+      "title": "Papers: Dyche emerges as frontrunner for Palace job if Sage departs",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13603802/crystal-palace-sean-dyche-emerges-as-frontrunner-for-eagles-job-if-pierre-sage-leaves-paper-talk",
+      "publishedAt": "2026-10-25T21:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "83e5f6ad142346",
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T21:24:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d58a81bafe24e9",
+      "title": "Howe open to Man Utd talks - Monday's gossip",
+      "summary": "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Len...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T21:09:37.000Z",
+      "category": "league",
+      "region": "england germany",
+      "tags": [
+        "Premier League",
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "fa505232780dc4",
+      "title": "Jason Wilcox wants Eddie Howe in Man Utd hot seat with significant attraction named",
+      "summary": "Eddie Howe is the man believed to be the preferred next Manchester United manager, with one main reason he’s looked upon so favourably revealed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jason-wilcox-eddie-howe-man-united-michael-carrick",
+      "publishedAt": "2026-10-25T20:41:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3abeec34a5c545",
+      "title": "Terland strikes late as United end Manchester City’s winning start in WSL",
+      "summary": "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-manchester-city-wsl-match-report",
+      "publishedAt": "2026-10-25T20:38:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
       "id": "3b7ce3c19760c9",
       "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-      "summary": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's mana...",
+      "summary": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's man...",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T20:00:19.000Z",
@@ -231,7 +419,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
         "Manchester"
       ]
     },
@@ -274,32 +461,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "3bf7469c2a6d26",
-      "title": "Neville: Man Utd players downed tools and turned on Carrick",
-      "summary": "Gary Neville launched a scathing attack on Manchester United's players and accused them of downing tools after they were booed off at the end of their 3-0 loss to Bourn...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603735/gary-neville-slams-man-utd-players-for-downing-tools-and-turning-on-michael-carrick-after-bournemouth-defeat",
-      "publishedAt": "2026-10-25T18:37:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7e5fe13ca403b0",
-      "title": "Sunderland remain bottom after drab draw against Leeds",
-      "summary": "Sunderland remain bottom of the Premier League table after a 0-0 draw against Leeds at home extended their winless run in the top-flight to six games.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/sunderland-vs-leeds-united/report/559523",
-      "publishedAt": "2026-10-25T18:26:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -384,7 +545,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "75132a344741bd",
-      "title": "Carrick future under major threat - can he survive?",
+      "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
       "summary": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
@@ -393,6 +554,19 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "1af8186e1baab3",
+      "title": "Hits and misses: Pressure mounts on Sage while Liverpool click into gear",
+      "summary": "Hits and misses: Pressure mounts on Sage while Liverpool click into gear",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13603677/liverpool-clicking-into-gear-as-pressure-mounts-on-pierre-sage-premier-league-hits-and-misses",
+      "publishedAt": "2026-10-25T16:51:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
       ]
     },
     {
@@ -407,180 +581,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "4942875e2c443a",
-      "title": "Man Utd chiefs tipped to ‘disgust’ fans by sacking Carrick with decision coming ‘tonight’",
-      "summary": "Gary Neville feels the Manchester United board are going to “disgust” the club’s fans by sacking Michael Carrick, and Jamie Carragher believes that call will come on Su...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-chiefs-disgust-fans-sacking-michael-carrick-tonight-gary-neville-jamie-carragher",
-      "publishedAt": "2026-10-25T16:18:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "24d693f3a61e50",
-      "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
-      "summary": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s m...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
-      "publishedAt": "2026-10-25T16:12:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b043c7aec5b457",
-      "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
-      "summary": "Michael Carrick looks poised to lose his job as Manchester United head coach following their 3-0 defeat at Old Trafford to Bournemouth, according to Gary Neville and Ja...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat",
-      "publishedAt": "2026-10-25T16:10:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6f0297f79ccb7d",
-      "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-      "summary": "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T16:04:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "79df442a286dc0",
-      "title": "Isak on target again as Liverpool beat Brighton",
-      "summary": "Alexander Isak scored for a third straight Premier League game as Liverpool inflicted only Brighton's second loss of the season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fe839988f935f2",
-      "title": "Bruno Fernandes slammed for what he’s ‘telling fans’ but Michael Carrick to blame too",
-      "summary": "Ashley Young slammed Bruno Fernandes for his reaction to being dropped as Manchester United faced Bournemouth in the Premier League on Sunday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bruno-fernandes-slammed-man-utd-michael-carrick",
-      "publishedAt": "2026-10-25T15:58:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5153062608e985",
-      "title": "Man Utd: Michael Carrick sack decision reached after Bournemouth embarrassment",
-      "summary": "Will Man Utd now change their mind on giving Michael Carrick until the November international break?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-reach-decision-sack-carrick-bournemouth",
-      "publishedAt": "2026-10-25T15:54:21.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "12a97a33ae79b4",
-      "title": "Martin Keown ‘hopes’ Tottenham star returns soon as Roberto De Zerbi worries revealed",
-      "summary": "Arsenal legend Martin Keown “hopes” Tottenham star James Maddison isn’t out for long, as Roberto De Zerbi has revealed his fears for the midfielder’s injury.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/martin-keown-hopes-tottenham-star-james-maddison-back-soon-roberto-de-zerbi-worries",
-      "publishedAt": "2026-10-25T15:42:40.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e7b7c1ba457530",
-      "title": "Liverpool: 0/10 Harvey Elliott rinsed by Spanish media after bizarre Valencia red card",
-      "summary": "The attacking midfielder has struggled to make an impact at his new club to date, but did so in a negative way after picking up a late red card against ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spanish-media-rinses-harvey-elliott-valencia-red-card-liverpool-loanee",
-      "publishedAt": "2026-10-25T15:07:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6c79cc0863a303",
-      "title": "Man Utd sensation JJ Gabriel suffers transfer blow despite double ‘agreement’ claim",
-      "summary": "There has reportedly been a setback for the 16-year-old wonderkid as he tries to leave United for one of Europe’s most illustrious clubs",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-news-jj-gabriel-transfer-latest-blow-double-agreement-real-madrid",
-      "publishedAt": "2026-10-25T14:32:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "f7e9f0643255f9",
-      "title": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
-      "summary": "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T13:26:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a5f96defe9db04",
-      "title": "Arsenal star already ‘a legend of the football club’ after Everton win – Keown",
-      "summary": "Former Arsenal defender Martin Keown thinks Gabriel Magalhaes is already a legend at the Emirates after his performance against Everton.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-gabriel-magalhaes-already-legend-keown",
-      "publishedAt": "2026-10-25T13:02:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "78df1cbb56404b",
-      "title": "End-to-end action as Real take it to Barcelona LIVE!",
-      "summary": "End-to-end action as Real take it to Barcelona LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/563017",
-      "publishedAt": "2026-10-25T12:52:00.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
       ]
     }
   ],
