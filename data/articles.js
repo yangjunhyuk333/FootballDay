@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-27T11:51:13.711Z",
+  "generatedAt": "2026-10-27T17:45:22.509Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,17 +99,363 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "a9529e49514932",
-      "title": "Watch the goals that won Kane the Ballon d'Or",
-      "summary": "We take a look at all Harry Kane's goals for Bayern Munich from the 2025/2026 Bundesliga season, as the record-setting goal scorer becomes the first English winner of t...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13591355/can-the-english-goal-machine-secure-the-ballon-dor-all-of-harry-kanes-goals-from-the-2025-2026-bundesliga-season",
-      "publishedAt": "2026-10-27T11:51:13.426Z",
+      "id": "5185809f0459dd",
+      "title": "Jamie Carragher takes aim at Tottenham after Harry Kane wins Ballon d’Or – ‘No way’",
+      "summary": "Jamie Carragher has taken a shot at Tottenham after their former striker Harry Kane won the Ballon d’Or after an unbelievable season with Bayern Munich.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jamie-carragher-aim-tottenham-harry-kane-ballon-dor",
+      "publishedAt": "2026-10-27T16:59:29.000Z",
       "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "8fd7b10b6d99c2",
+      "title": "Milan derby to be shown live on BBC Two",
+      "summary": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T16:38:17.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Milan"
+      ]
+    },
+    {
+      "id": "2b02c9c7d5154d",
+      "title": "Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Perusing the records we could find of Leyton Orient’s 4-0 shellacking of Sheffield Wednesday on a cold January after...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-football-daily-newsletter",
+      "publishedAt": "2026-10-27T16:02:35.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Manchester",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "2b4941e0e467ff",
+      "title": "Trent Alexander-Arnold requests Jose Mourinho meeting as Liverpool return chances revealed",
+      "summary": "Trent Alexander-Arnold has requested a meeting with Real Madrid boss Jose Mourinho over his game time, amid links with former club Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/trent-alexander-arnold-jose-mourinho-meeting-liverpool-return-real-madrid",
+      "publishedAt": "2026-10-27T15:35:08.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "84aee913c66e5a",
+      "title": "Man City players can block out 'noise' of away fans - Maresca",
+      "summary": "Manchester City suffered a first Premier League defeat of the season at a boisterous Aston Villa, amid persistent reminders of their financial charges.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwqd7jl3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T15:27:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8fd0c6465c59d2",
+      "title": "FAW boss renews call for Infantino to step down",
+      "summary": "Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T15:20:51.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "cf1b2ac2c5288c",
+      "title": "Ballon d’Or winner Harry Kane told he’d be ‘miserable’ as the kicker for the New York Jets",
+      "summary": "Harry Kane has been told that a post-football career as an NFL kicker could be “miserable,” especially if he lands somewhere like the New York Jets.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ballon-dor-winner-harry-kane-miserable-new-nfl-career-new-york-jets",
+      "publishedAt": "2026-10-27T15:01:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "b20624c245b820",
+      "title": "Harry Kane wins the Ballon d’Or and an EFL round-up | Football Weekly – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Ali Maxwell and George Elek to reflect on the England captain’s Ballon d’Or award and to discuss the weekend’s EFL action C...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/oct/27/harry-kane-wins-the-ballon-dor-and-an-efl-round-up-football-weekly-video",
+      "publishedAt": "2026-10-27T14:59:44.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "603a8c2d97e0ca",
+      "title": "'Delaying the inevitable' or right call? Key questions as Carrick stays",
+      "summary": "Michael Carrick has been given the chance to turn Manchester United's form around - a shock decision that has divided supporters and Sky Sports pundits.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604361/michael-carrick-why-man-utd-head-coach-will-stay-on-and-could-bruno-fernandes-play-vs-chelsea-plus-other-key-questions",
+      "publishedAt": "2026-10-27T14:40:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d5e6ebb95b8d02",
+      "title": "Man Utd tipped to appoint ex-Liverpool boss with Nagelsmann now ‘unlikely’",
+      "summary": "Man Utd are now ‘unlikely’ to make Julian Nagelsmann if they sack Michael Carrick, while ex-Liverpool boss Arne Slot has been tipped.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-tip-slot-next-manager-liverpool-nagelsmann-unlikely",
+      "publishedAt": "2026-10-27T14:24:55.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7147d972b8083b",
+      "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+      "summary": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T14:24:23.000Z",
+      "category": "league",
       "region": "germany",
       "tags": [
-        "Bundesliga",
-        "Bayern"
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "f8a0b434e80f1b",
+      "title": "Chinese brands drop Mbappe as backlash grows over Mao joke",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T13:25:54.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "fc497dbc3bac4e",
+      "title": "Liverpool January winger signing ruled out as Szoboszlai question marks emerge",
+      "summary": "Liverpool will not look to sign Valencia winger David Otorbi in the January transfer window, according to the latest reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-january-signing-otorbi-valencia-szoboszlai-question-marks",
+      "publishedAt": "2026-10-27T13:23:09.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e938c38a6807a9",
+      "title": "Donnarumma gets Maresca’s backing; Iraola feels bond growing at Anfield",
+      "summary": "Manchester City goalkeeper’s mistakes said to be normal Liverpool head coach upbeat before Chelsea cup tie • This story will update through the day Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
+      "publishedAt": "2026-10-27T13:05:23.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "704915b1cd8f2d",
+      "title": "Thierry Henry Ballon d’Or robbery is one of the great football myths",
+      "summary": "Every Ballon d’Or season gives life to how Arsenal’s Thierry Henry was robbed in 2003. But it’s a myth – and here’s why.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/thierry-henry-ballon-dor-robbery-football-enduring-myth",
+      "publishedAt": "2026-10-27T12:47:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3bd63fe87a8549",
+      "title": "How 'anti-superstar' Kane defied doubters to become world's best",
+      "summary": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T12:46:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "aa85febc678d01",
+      "title": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
+      "summary": "Neglect of African football and a third win for the Spanish great does little to challenge narrative that the prize is reserved only for top nations’ players After a fo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
+      "publishedAt": "2026-10-27T12:32:38.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "214509ee20412a",
+      "title": "Carrick given chance to save job as he stays for Manchester United’s game at Chelsea",
+      "summary": "Jason Wilcox has driven decision to stand by head coach United would have to pay Newcastle about £3m for Howe Michael Carrick has been given the chance to save his job...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
+      "publishedAt": "2026-10-27T12:21:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "16c9e6c110f602",
+      "title": "Premier League goalkeepers ranked: David Raya sets the standard, Suzuki on podium",
+      "summary": "David Raya has started 2026/27 where he left off last season, while Alisson, Pickford, Donnarumma and Trafford languish in the lower rankings…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-goalkeepers-ranking-2026-27",
+      "publishedAt": "2026-10-27T12:14:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "225b58b06220b5",
+      "title": "Carrick to stay in charge of Man Utd for Chelsea game",
+      "summary": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T12:10:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f05c0883b58c77",
+      "title": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
+      "summary": "Organizer says parents were causing disturbance No one arrested or made to leave game in Florida Police were called after a dispute involving the parents of a three-yea...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
+      "publishedAt": "2026-10-27T12:07:25.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fca98979bb9bae",
+      "title": "Unattached Coleman 'edging towards' retirement",
+      "summary": "Former Everton defender Seamus Coleman says he is contemplating retiring from football but does not \"want to completely draw a line in the sand\" on his career.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83lyz32yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T12:05:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c9b9b6d8c379ea",
+      "title": "Carrick to remain in charge of Man Utd for Chelsea trip",
+      "summary": "Michael Carrick will remain in charge of Manchester United for their game against Chelsea on Saturday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
+      "publishedAt": "2026-10-27T12:03:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dea65faa2c9c6a",
+      "title": "Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment",
+      "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with the player Kylian Mbappé has apologised after the Real Madrid forward was dropp...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+      "publishedAt": "2026-10-27T11:54:47.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "c0409fcfa320bd",
+      "title": "Are Chelsea back? Have Man Utd weathered early-season storm?",
+      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the he...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
+      "publishedAt": "2026-10-27T11:45:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "26a3d8ad81593d",
+      "title": "Man Utd still somehow third in Premier League table under Michael Carrick",
+      "summary": "Manchester United have made a rotten start to the season, but they are still in a strong position since Michael Carrick took over…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-table-since-carrick-took-over-man-utd",
+      "publishedAt": "2026-10-27T11:40:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
       ]
     },
     {
@@ -123,19 +469,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d9c5e5e399e158",
-      "title": "Carrick arrives at training ground with future unclear",
-      "summary": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T11:16:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     },
@@ -163,20 +496,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "214509ee20412a",
-      "title": "Manchester United must pay Newcastle £3m compensation if they want Eddie Howe",
-      "summary": "Howe struck deal on contract when he left in July Michael Carrick expects to take training on Tuesday Manchester United will have to pay Newcastle about £3m in compensa...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
-      "publishedAt": "2026-10-27T10:15:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
       ]
     },
     {
@@ -273,319 +592,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Transfer"
-      ]
-    },
-    {
-      "id": "34aabdf5747d0d",
-      "title": "Eddie Howe now odds-on favourite to be new Man Utd manager",
-      "summary": "Manchester United have been a disaster in the Premier League and Champions League. Who could replace Michael Carrick?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
-      "publishedAt": "2026-10-27T07:26:19.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b0255122cca6d0",
-      "title": "Litten, Knowles to start for England in crunch World Cup match",
-      "summary": "Jez Litten and Morgan Knowles have been drafted into England's starting line-up for their crunch Rugby League World Cup clash against Papua New Guinea on Friday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13604249/rugby-league-world-cup-england-draft-jez-litten-and-morgan-knowles-into-starting-line-up-for-crunch-papua-new-guinea-match",
-      "publishedAt": "2026-10-27T07:25:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "de580ecdf8bbdb",
-      "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
-      "summary": "Arsenal's defensive form is testament to the performances of Ezri Konsa, who has stepped up in William Saliba's absence and been given his chance to shine.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T07:22:04.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0ae7c69993da6d",
-      "title": "Winning MOMENT! Harry Kane claims 2026 Ballon d'Or award!",
-      "summary": "Harry Kane wins 2026 Ballon d'Or at London ceremony as Bayern Munich striker becomes first English winner of award in 25 years.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604240/moment-harry-kane-claims-2026-ballon-dor-award",
-      "publishedAt": "2026-10-27T06:45:00.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "291d02b3b2d2b6",
-      "title": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
-      "summary": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T23:14:39.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "bff333a6330e18",
-      "title": "Harry Kane wins the Ballon d’Or as Arsenal star also does us proud on night of boring excess",
-      "summary": "Harry Kane has beaten Lamine Yamal and Kylian Mbappe to win the Ballon d’Or on a very long night of excess in which Bukayo Saka joined him in doing us ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-harry-kane-ballon-dor-arsenal-star-does-us-proud-noring-excess",
-      "publishedAt": "2026-10-26T23:06:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d81ee82bc682fe",
-      "title": "Arsenal eye Monza striker Varela - Tuesday's gossip",
-      "summary": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila Sarr, Brighton defender Luka Vuskovic receives admiring glances from...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T21:38:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "68ac50838e1305",
-      "title": "Scholes insists one candidate to replace Carrick at Man Utd ‘miles ahead’ of the rest",
-      "summary": "Paul Scholes insists one candidate in the running to replace Michael Carrick as Manchester United manager is “miles ahead” of his competition for the role.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/scholes-insists-one-candidate-to-replace-carrick-at-man-utd-miles-ahead-of-the-rest",
-      "publishedAt": "2026-10-26T21:31:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fbcf6d7946f3af",
-      "title": "Football Daily",
-      "summary": "Mark Chapman is joined by Chris Sutton, Andros Townsend and Adam Crafton.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pjqwyh?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T21:18:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "085e72a401274e",
-      "title": "Ballon d’Or ranking in full as Arsenal trio (almost) exactly where they should be",
-      "summary": "The Premier League champions have no player in the Ballon d’Or top ten and we’ve run through the ranking to explain why the Arsenal trio are (almost) precisely where th...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-trio-ballon-dor-ranking-explained",
-      "publishedAt": "2026-10-26T20:03:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "86905fe46d7236",
-      "title": "Man Utd players set to return to training with Carrick's future still uncertain",
-      "summary": "Manchester United's players are set to return to training at Carrington on Tuesday - but it is still uncertain whether Michael Carrick will be in charge.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602156/manchester-united-players-to-return-to-training-on-tuesday-but-uncertain-if-michael-carrick-will-be-in-charge",
-      "publishedAt": "2026-10-26T19:30:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cb65a863954f5c",
-      "title": "Ballon d'Or winner Kane's best Bundesliga goals",
-      "summary": "Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T19:29:35.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "242e5e93cf82ea",
-      "title": "England Under-15s walk off pitch against Ireland in World Cup after racism allegation",
-      "summary": "Match in new Fifa competition abandoned England players refuse to resume match England abandoned their Under-15 World Cup match against the Republic of Ireland on Monda...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/26/england-under-15-walk-off-pitch-ireland-world-cup-racism-allegation",
-      "publishedAt": "2026-10-26T19:20:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "8c6918be257a2e",
-      "title": "Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley",
-      "summary": "Favourable conditions and the rub of the green were behind Manchester United’s successful finish to last season Manchester United have been the third‑best team in the P...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/26/damning-data-michael-carrick-manchester-united-head-coach",
-      "publishedAt": "2026-10-26T18:50:43.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "104c3fa84e0b19",
-      "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
-      "summary": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T18:17:25.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "3824bbd87fdc83",
-      "title": "BBC Women's Football Weekly",
-      "summary": "Arsenal have relieved the pressure with a north London derby win - can they kick on now?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pjq3nz?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T17:18:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f8b36d8a56516e",
-      "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
-      "summary": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:59:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6baa09e8f57848",
-      "title": "FAW sets ambitious 10-year plan but seeks more money",
-      "summary": "The Football Association of Wales has called for greater funding for Welsh football after setting out ambitious targets for the next decade.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933xjdzv3j8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:58:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "f44357215217bf",
-      "title": "2026/27 Premier League player stats: Gross most key passes, distance covered, big chances created",
-      "summary": "From big chances created to ball recoveries, we have 2026/27 Premier League statistic leaders across 38 different metrics.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-player-stats-leaders-2026-27-season",
-      "publishedAt": "2026-10-26T16:48:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "add700f5537d26",
-      "title": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
-      "summary": "It was just like old times as José Mourinho ended a night at Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
-      "publishedAt": "2026-10-26T16:35:26.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "c262c1fcd82329",
-      "title": "INEOS ‘put club up for sale’ after Manchester United fans turn on Sir Jim Ratcliffe",
-      "summary": "Maybe Sir Jim Ratcliffe misheard as Red Devils fans told him to “sell United and f-off home”. Wrong club, mate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ineos-club-up-for-sale-man-utd-fans-turn-on-sir-jim-ratcliffe",
-      "publishedAt": "2026-10-26T16:33:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d0a36f39fc37cc",
-      "title": "Best Premier League transfers of the season XI: New Man City and Leeds entries",
-      "summary": "Which new players have made the biggest impact in the Premier League this season and what would it look like if we put them all in one team?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-premier-league-signings-2026-27-season",
-      "publishedAt": "2026-10-26T16:10:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "d591718c5329a9",
-      "title": "Premier League Power Rankings: Erling Haaland top but Bruno Fernandes’ fall continues",
-      "summary": "Football365’s Premier League Power Rankings return for 2026/27 and the current leader is Man City’s Nordic robot Erling Haaland.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-power-rankings-2026-27-haaland",
-      "publishedAt": "2026-10-26T16:01:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
       ]
     }
   ],
