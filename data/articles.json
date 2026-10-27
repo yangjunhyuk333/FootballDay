@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:45:22.509Z",
+  "generatedAt": "2026-10-27T21:58:22.123Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,171 @@
       "pinned": true
     },
     {
+      "id": "bd57df7ea69a11",
+      "title": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
+      "summary": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to ma...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+      "publishedAt": "2026-10-27T21:39:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "5c4520c01f1913",
+      "title": "Barcelona fined £503 over approach for Alvarez",
+      "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T21:38:20.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f7a4431c50f2d5",
+      "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
+      "summary": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the c...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T21:10:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6912a6d47fa3d3",
+      "title": "Harry Kane ‘boat has passed’ for Real Madrid as Barcelona chances revealed by expert",
+      "summary": "Spanish football expert Phil Kitromiledes has revealed the chances of Barcelona signing Harry Kane, with a Real Madrid switch believed to have “passed.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/harry-kane-barcelona-transfer-real-madrid-boat-passed",
+      "publishedAt": "2026-10-27T20:35:20.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "62dc0fdc8ff899",
+      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+      "summary": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T20:26:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "907faea813ea9c",
+      "title": "'Fleetwood's fantasy moment!' - Loupalo-Bi goal STUNS Arsenal with shock lead",
+      "summary": "Fleetwood Town's Aaron Loupalo-Bi gives the League Two side a shock lead over Arsenal in their Carabao Cup fourth round clash.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13604521/fleetwood-vs-arsenal-the-league-two-side-take-a-shock-lead-against-the-premier-league-champions",
+      "publishedAt": "2026-10-27T20:25:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ddf012a7684d75",
+      "title": "Bizarre scenes! Drone stops play two minutes into Fleetwood-Arsenal tie",
+      "summary": "During their Carabao Cup clash at Highbury stadium, Fleetwood versus Arsenal was delayed due to a drone over the pitch.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13604513/fleetwood-vs-arsenal-delayed-due-to-drone-over-highbury-stadium",
+      "publishedAt": "2026-10-27T20:13:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "26d3da698cbd74",
+      "title": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
+      "summary": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory o...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+      "publishedAt": "2026-10-27T20:02:34.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bc824791ff7594",
+      "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+      "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T18:56:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f3fa85b664942c",
+      "title": "Eberechi Eze sees price tag plummet with ‘time running out’ for Arsenal star",
+      "summary": "The Gunners paid Crystal Palace £67.5million for Eze in August 2025, but he is still struggling to cement his place in their starting lineup",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-news-eberechi-eze-price-tag-plummets-time-running-out-impress-arteta",
+      "publishedAt": "2026-10-27T18:33:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6101f0faf7781e",
+      "title": "Gary Neville ‘surprised’ as Michael Carrick set to stay in charge at Man Utd",
+      "summary": "Manchester United legend Gary Neville is “surprised” that Michael Carrick is set to keep his job at least for the club’s next game against Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gary-neville-surprised-bombshell-michael-carrick-news-man-utd",
+      "publishedAt": "2026-10-27T18:07:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "91913a3021c8f7",
+      "title": "Borthwick lays down World Cup challenge to England",
+      "summary": "With just 12 Tests remaining before the Rugby World Cup, Steve Borthwick has made it clear that he wants an England group packed with genuine contenders for a place in...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13604478/steve-borthwick-lays-down-englands-rugby-world-cup-challenge-with-just-10-tests-left-before-naming-his-squad",
+      "publishedAt": "2026-10-27T17:51:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
       "id": "5185809f0459dd",
       "title": "Jamie Carragher takes aim at Tottenham after Harry Kane wins Ballon d’Or – ‘No way’",
       "summary": "Jamie Carragher has taken a shot at Tottenham after their former striker Harry Kane won the Ballon d’Or after an unbelievable season with Bayern Munich.",
@@ -122,22 +287,6 @@
       "region": "italy",
       "tags": [
         "Milan"
-      ]
-    },
-    {
-      "id": "2b02c9c7d5154d",
-      "title": "Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Perusing the records we could find of Leyton Orient’s 4-0 shellacking of Sheffield Wednesday on a cold January after...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-football-daily-newsletter",
-      "publishedAt": "2026-10-27T16:02:35.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Fifa",
-        "Manchester",
-        "Bayern"
       ]
     },
     {
@@ -219,6 +368,20 @@
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "f47d3f837838e4",
+      "title": "Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win",
+      "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a kni...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
+      "publishedAt": "2026-10-27T14:25:29.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "Bayern"
       ]
     },
     {
@@ -332,21 +495,6 @@
       ]
     },
     {
-      "id": "214509ee20412a",
-      "title": "Carrick given chance to save job as he stays for Manchester United’s game at Chelsea",
-      "summary": "Jason Wilcox has driven decision to stand by head coach United would have to pay Newcastle about £3m for Howe Michael Carrick has been given the chance to save his job...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
-      "publishedAt": "2026-10-27T12:21:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
       "id": "16c9e6c110f602",
       "title": "Premier League goalkeepers ranked: David Raya sets the standard, Suzuki on podium",
       "summary": "David Raya has started 2026/27 where he left off last season, while Alisson, Pickford, Donnarumma and Trafford languish in the lower rankings…",
@@ -442,156 +590,6 @@
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "26a3d8ad81593d",
-      "title": "Man Utd still somehow third in Premier League table under Michael Carrick",
-      "summary": "Manchester United have made a rotten start to the season, but they are still in a strong position since Michael Carrick took over…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-table-since-carrick-took-over-man-utd",
-      "publishedAt": "2026-10-27T11:40:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5c0f4443de9045",
-      "title": "David Squires on … Manchester United’s latest crisis and dirty laundry",
-      "summary": "Our cartoonist on the expected end for Michael Carrick at Old Trafford and what could come next Buy a cartoon | Some of David’s favourite works And his latest book, Cha...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/picture/2026/oct/27/david-squires-on-manchester-united-latest-crisis-michael-carrick-cartoon",
-      "publishedAt": "2026-10-27T11:35:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8697749c780cb5",
-      "title": "The 15 best footballers out of contract next summer in 2027",
-      "summary": "Nobody wants to see valuable players just a few months away from free agency, especially not a Ballon d’Or winner.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/best-footballers-players-out-of-contract-in-summer-2027",
-      "publishedAt": "2026-10-27T11:15:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "fada61bb93716f",
-      "title": "Lamine Yamal’s uncle slams Harry Kane Ballon d’Or victory with dig – ‘If you like football…’",
-      "summary": "Lamine Yamal’s uncle insists that people who “like football” would “go to see” his nephew and “not Harry Kane”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ballon-dor-lamine-yamal-uncle-slams-harry-kane-win",
-      "publishedAt": "2026-10-27T10:36:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ccbb536e2a16f1",
-      "title": "EFL latest: Edwards not interested in Burnley job after talks",
-      "summary": "EFL latest: Edwards not interested in Burnley job after talks",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "publishedAt": "2026-10-27T10:02:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "0f2934aa1b07a8",
-      "title": "'This one's for all of us' - Kane thanks fans after Ballon d'Or win",
-      "summary": "Ballon d'Or winner Harry Kane speaks exclusively to Sky Sports the morning after being voted as the best men's footballer in the world.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604287/exclusive-harry-kane-talks-to-sky-sports-after-winning-ballondor",
-      "publishedAt": "2026-10-27T09:11:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "adc1b0e120f749",
-      "title": "Could Man Utd be relegated? We rank the Premier League bottom six in danger",
-      "summary": "Manchester United are taking up a lot of the attention but they are just one of six clubs at the bottom of the Premier League table.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/bottom-six-premier-league-teams-ranked-relegation-likeliness",
-      "publishedAt": "2026-10-27T08:10:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "19ce71920e91e6",
-      "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-      "summary": "The England captain spoke movingly on night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genui...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
-      "publishedAt": "2026-10-27T08:00:06.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "66d33b726657ff",
-      "title": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
-      "summary": "The Premier League champions may have bigger fish to fry but can expect a feisty reception from League Two strugglers in the Carabao Cup The headlines around Fleetwood...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
-      "publishedAt": "2026-10-27T08:00:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6835dc01f99925",
-      "title": "Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash",
-      "summary": "Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13603943/arsenal-should-unleash-max-dowman-liverpool-and-chelsea-clash-in-battle-of-the-basques-and-man-city-continue-defence-carabao-cup-talking-points",
-      "publishedAt": "2026-10-27T08:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b36618af2112e6",
-      "title": "Man Utd hatch plan to sell Bruno Fernandes after controversial post-Como comments",
-      "summary": "Man Utd will look to sell Bruno Fernandes in the summer transfer window after his controversial comment about Michael Carrick’s tactics.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-plan-sell-bruno-fernandes-carrick-comments",
-      "publishedAt": "2026-10-27T07:35:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
       ]
     }
   ],
