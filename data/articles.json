@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:54:30.283Z",
+  "generatedAt": "2026-10-28T12:25:58.555Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,25 @@
       "pinned": true
     },
     {
-      "id": "7628ba44f77868",
-      "title": "'Biggest night in the club's history' for fearless Fleetwood",
-      "summary": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win ove...",
+      "id": "f66b048d7dddd6",
+      "title": "Mikel Arteta reaction to Fleetwood defeat ‘sums up’ Arsenal boss in shock absence of ‘true colours’",
+      "summary": "Arsenal’s miserable evening in Fleetwood hit new lows when it was revealed Mikel Arteta’s reaction didn’t even show any true colours.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mikel-arteta-fleetwood-reaction-sums-up-arsenal-boss-mediawatch",
+      "publishedAt": "2026-10-28T12:23:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e3469e6e4b17df",
+      "title": "Henry defends himself after Ballon d'Or criticism",
+      "summary": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:39:30.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T12:13:23.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -112,12 +125,51 @@
       ]
     },
     {
-      "id": "3846f24926a53f",
-      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-      "summary": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao...",
+      "id": "6f40eb65b7a4f3",
+      "title": "Liverpool enter bidding war for Van Dijk replacement with captain on course to leave",
+      "summary": "Liverpool have entered the bidding to sign Stuttgart centre-back Finn Jeltsch as a replacement for Virgil van Dijk, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-enter-bidding-war-jeltsch-stuttgart-van-dijk-exit",
+      "publishedAt": "2026-10-28T12:12:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "941358f36b2691",
+      "title": "Man Utd: Wilcox ‘failure’ which forced Carrick stay as ‘senior figure’ teases Ratcliffe ‘overhaul’ of executives",
+      "summary": "Michael Carrick has been granted what we are contractually obliged to refer to as a ‘stay of execution’ as Manchester United coach. But why?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/wilcox-failure-forced-carrick-stay-ratcliffe-overhaul-executives",
+      "publishedAt": "2026-10-28T12:01:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a360ecddf6123b",
+      "title": "Man Utd remain in open communication with Nagelsmann after talks to replace Carrick",
+      "summary": "Manchester United are said to remain in communication with Julian Nagelsmann after they spoke to him about the potential of taking over from Michael Carrick as manager.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-communications-julian-nagelsmann-michael-carrick",
+      "publishedAt": "2026-10-28T11:56:43.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "92e71c125354a6",
+      "title": "Arsenal to appeal against Dowman red card",
+      "summary": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:34:31.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T11:55:21.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -125,43 +177,56 @@
       ]
     },
     {
-      "id": "62dc0fdc8ff899",
-      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-      "summary": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "id": "f681d1f5236d6c",
+      "title": "Carrick and Fernandes hold clear-the-air talks",
+      "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks ahead of side's trip to Chelsea.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T23:54:14.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T11:48:28.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "65bb658dd0d959",
+      "title": "Marcus Rashford to Everton ‘definitely’ on the cards as insider reveals transfer chance",
+      "summary": "Former Everton CEO Keith Wyness has revealed there are “definitely” talks to sign Marcus Rashford ongoing, and he feels there’s a chance of the transfer going through.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/marcus-rashford-everton-talks-man-utd",
+      "publishedAt": "2026-10-28T11:32:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "827cf1b0bf4843",
+      "title": "Man Utd: Sources lift lid on Fernandes ‘mood’ as Carrick player meeting outcome is revealed",
+      "summary": "Man Utd head coach Michael Carrick is ready to draw a line under things and start Bruno Fernandes against Chelsea, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-carrick-fernandes-mood-player-meeting-outcome-revealed",
+      "publishedAt": "2026-10-28T11:28:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a2c543df506fa9",
+      "title": "Why did Fleetwood have to lose player for Arsenal penalty shootout?",
+      "summary": "Fleetwood Town had to remove a player for their penalty shootout against Arsenal - BBC Sport's Ask Me Anything team explains why.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T11:23:20.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "6d7686f4bee544",
-      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
-      "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T23:35:11.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "fe90b879ff911b",
-      "title": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
-      "summary": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
-      "publishedAt": "2026-10-27T23:18:47.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Barcelona"
       ]
     },
     {
@@ -170,7 +235,7 @@
       "summary": "Mikel Arteta has explained his reaction to Max Dowman as the 16-year-old went down the tunnel after being sent off in Arsenal's shock Carabao Cup exit to Fleetwood Town.",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13604637/max-dowman-red-card-mikel-arteta-explains-what-he-said-to-16-year-old-after-sending-off-in-carabao-cup-exit-to-fleetwood-town",
-      "publishedAt": "2026-10-27T23:11:00.000Z",
+      "publishedAt": "2026-10-28T11:21:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -178,393 +243,25 @@
       ]
     },
     {
-      "id": "4936d302c440e6",
-      "title": "‘Laughable’ champions Arsenal embarrassed by Fleetwood in all-time Carabao Cup shock",
-      "summary": "Arsenal expected to stroll into the Carabao Cup quarter-finals, but were embarrassed by Fleetwood Town in an all-time shock.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-arsenal-embarrassed-fleetwood-carabao-cup-shock",
-      "publishedAt": "2026-10-27T22:58:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "96c2dc4b094a3e",
-      "title": "Papers: Carrick's job saved by failure to agree on replacement",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "id": "d22b9ee00080b7",
+      "title": "Man Utd latest: Should Fernandes start at Chelsea? VOTE!",
+      "summary": "Man Utd latest: Should Fernandes start at Chelsea? VOTE!",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604626/manchester-united-failure-to-agree-on-michael-carricks-successor-buys-under-pressure-head-coach-more-time",
-      "publishedAt": "2026-10-27T22:45:00.000Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-10-28T11:00:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Chelsea"
       ]
     },
     {
-      "id": "e1492d2a5a02ae",
-      "title": "Blackpool beat Villa and Vale thrash Man City in Trophy",
-      "summary": "Blackpool beat Aston Villa and Port Vale put five past Manchester City's youngsters, plus Tuesday's EFL Trophy round-up.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T22:31:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e938c38a6807a9",
-      "title": "João Pedro out for ‘a few weeks’, reveals Alonso; Donnarumma gets Maresca’s backing",
-      "summary": "Chelsea manager making latest Anfield return Andoni Iraola upbeat before Carabao Cup tie Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
-      "publishedAt": "2026-10-27T22:30:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8c48ead151f829",
-      "title": "Fantastic Fleetwood seal shootout success in Carabao Cup shock against Arsenal",
-      "summary": "It is more than 20 years since Arsenal played at Highbury but their trip to League Two Fleetwood – and a stadium of the same name – did not bring back fond memories as...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
-      "publishedAt": "2026-10-27T22:26:05.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1e7b0be283b668",
-      "title": "Arsenal OUT on pens to League Two Fleetwood!",
-      "summary": "Highlights of the Carabao Cup fourth round match between Fleetwood Town and Arsenal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604607/fleetwood-1-1-arsenal-5-3-pens-carabao-cup-highlights",
-      "publishedAt": "2026-10-27T22:22:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "56210a2bae8778",
-      "title": "Merson critical of Arteta's reaction to Dowman after red",
-      "summary": "Paul Merson was critical of Mikel Arteta's reaction to Max Dowman being sent off in Arsenal's loss to Fleetwood Town in the EFL Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604600/fleetwood-vs-arsenal-paul-merson-critical-of-mikel-artetas-reaction-to-max-dowman-after-red",
-      "publishedAt": "2026-10-27T22:12:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5552ffe3d00875",
-      "title": "Arsenal dumped out of Carabao Cup by League Two Fleetwood",
-      "summary": "Fleetwood Town produced one of the biggest shocks in Carabao Cup history as the League Two team dumped out Premier League champions Arsenal on penalties to reach the qu...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/fleetwood-town-vs-arsenal/report/578610",
-      "publishedAt": "2026-10-27T21:50:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5c4520c01f1913",
-      "title": "Barcelona fined £503 over approach for Alvarez",
-      "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T21:38:20.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "f7a4431c50f2d5",
-      "title": "Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip",
-      "summary": "Liverpool are keen on Stuttgart's promising defender Finn Jeltsch, Chelsea still want to sign Bournemouth's Alex Scott; Arsenal, Tottenham and Newcastle are among the c...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T21:10:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6912a6d47fa3d3",
-      "title": "Harry Kane ‘boat has passed’ for Real Madrid as Barcelona chances revealed by expert",
-      "summary": "Spanish football expert Phil Kitromiledes has revealed the chances of Barcelona signing Harry Kane, with a Real Madrid switch believed to have “passed.”",
+      "id": "696d6640684e5d",
+      "title": "Alexis Mac Allister reaches decision on leaving Liverpool as his agent mobilises",
+      "summary": "Liverpool midfielder Alexis Mac Allister is now likely to leave Anfield in the summer transfer window, according to reports.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/harry-kane-barcelona-transfer-real-madrid-boat-passed",
-      "publishedAt": "2026-10-27T20:35:20.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "907faea813ea9c",
-      "title": "'Fleetwood's fantasy moment!' - Loupalo-Bi goal STUNS Arsenal with shock lead",
-      "summary": "Fleetwood Town's Aaron Loupalo-Bi gives the League Two side a shock lead over Arsenal in their Carabao Cup fourth round clash.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604521/fleetwood-vs-arsenal-the-league-two-side-take-a-shock-lead-against-the-premier-league-champions",
-      "publishedAt": "2026-10-27T20:25:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ddf012a7684d75",
-      "title": "Bizarre scenes! Drone stops play two minutes into Fleetwood-Arsenal tie",
-      "summary": "During their Carabao Cup clash at Highbury stadium, Fleetwood versus Arsenal was delayed due to a drone over the pitch.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13604513/fleetwood-vs-arsenal-delayed-due-to-drone-over-highbury-stadium",
-      "publishedAt": "2026-10-27T20:13:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "26d3da698cbd74",
-      "title": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
-      "summary": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory o...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
-      "publishedAt": "2026-10-27T20:02:34.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "bc824791ff7594",
-      "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
-      "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T18:56:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f3fa85b664942c",
-      "title": "Eberechi Eze sees price tag plummet with ‘time running out’ for Arsenal star",
-      "summary": "The Gunners paid Crystal Palace £67.5million for Eze in August 2025, but he is still struggling to cement his place in their starting lineup",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-news-eberechi-eze-price-tag-plummets-time-running-out-impress-arteta",
-      "publishedAt": "2026-10-27T18:33:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6101f0faf7781e",
-      "title": "Gary Neville ‘surprised’ as Michael Carrick set to stay in charge at Man Utd",
-      "summary": "Manchester United legend Gary Neville is “surprised” that Michael Carrick is set to keep his job at least for the club’s next game against Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-neville-surprised-bombshell-michael-carrick-news-man-utd",
-      "publishedAt": "2026-10-27T18:07:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5185809f0459dd",
-      "title": "Jamie Carragher takes aim at Tottenham after Harry Kane wins Ballon d’Or – ‘No way’",
-      "summary": "Jamie Carragher has taken a shot at Tottenham after their former striker Harry Kane won the Ballon d’Or after an unbelievable season with Bayern Munich.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jamie-carragher-aim-tottenham-harry-kane-ballon-dor",
-      "publishedAt": "2026-10-27T16:59:29.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "8fd7b10b6d99c2",
-      "title": "Milan derby to be shown live on BBC Two",
-      "summary": "The first Milan derby of the season takes place on Saturday, 31 October and it will be live on BBC Two.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T16:38:17.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Milan"
-      ]
-    },
-    {
-      "id": "2b4941e0e467ff",
-      "title": "Trent Alexander-Arnold requests Jose Mourinho meeting as Liverpool return chances revealed",
-      "summary": "Trent Alexander-Arnold has requested a meeting with Real Madrid boss Jose Mourinho over his game time, amid links with former club Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/trent-alexander-arnold-jose-mourinho-meeting-liverpool-return-real-madrid",
-      "publishedAt": "2026-10-27T15:35:08.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "84aee913c66e5a",
-      "title": "Man City players can block out 'noise' of away fans - Maresca",
-      "summary": "Manchester City suffered a first Premier League defeat of the season at a boisterous Aston Villa, amid persistent reminders of their financial charges.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwqd7jl3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T15:27:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8fd0c6465c59d2",
-      "title": "FAW boss renews call for Infantino to step down",
-      "summary": "Chief executive Noel Mooney says the Football Association of Wales retains the view that Fifa president Gianni Infantino should step down.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw054vdz9g7mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T15:20:51.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "cf1b2ac2c5288c",
-      "title": "Ballon d’Or winner Harry Kane told he’d be ‘miserable’ as the kicker for the New York Jets",
-      "summary": "Harry Kane has been told that a post-football career as an NFL kicker could be “miserable,” especially if he lands somewhere like the New York Jets.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ballon-dor-winner-harry-kane-miserable-new-nfl-career-new-york-jets",
-      "publishedAt": "2026-10-27T15:01:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "b20624c245b820",
-      "title": "Harry Kane wins the Ballon d’Or and an EFL round-up | Football Weekly – video",
-      "summary": "Max Rushden is joined by Barry Glendenning , Ali Maxwell and George Elek to reflect on the England captain’s Ballon d’Or award and to discuss the weekend’s EFL action C...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/oct/27/harry-kane-wins-the-ballon-dor-and-an-efl-round-up-football-weekly-video",
-      "publishedAt": "2026-10-27T14:59:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "f47d3f837838e4",
-      "title": "Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win",
-      "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a kni...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
-      "publishedAt": "2026-10-27T14:25:29.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "d5e6ebb95b8d02",
-      "title": "Man Utd tipped to appoint ex-Liverpool boss with Nagelsmann now ‘unlikely’",
-      "summary": "Man Utd are now ‘unlikely’ to make Julian Nagelsmann if they sack Michael Carrick, while ex-Liverpool boss Arne Slot has been tipped.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-tip-slot-next-manager-liverpool-nagelsmann-unlikely",
-      "publishedAt": "2026-10-27T14:24:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7147d972b8083b",
-      "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
-      "summary": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T14:24:23.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "f8a0b434e80f1b",
-      "title": "Chinese brands drop Mbappe as backlash grows over Mao joke",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T13:25:54.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "fc497dbc3bac4e",
-      "title": "Liverpool January winger signing ruled out as Szoboszlai question marks emerge",
-      "summary": "Liverpool will not look to sign Valencia winger David Otorbi in the January transfer window, according to the latest reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-january-signing-otorbi-valencia-szoboszlai-question-marks",
-      "publishedAt": "2026-10-27T13:23:09.000Z",
+      "url": "https://www.football365.com/news/liverpool-alexis-mac-allister-reaches-decision-leave-agent-mobilises",
+      "publishedAt": "2026-10-28T10:41:48.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -573,17 +270,320 @@
       ]
     },
     {
-      "id": "704915b1cd8f2d",
-      "title": "Thierry Henry Ballon d’Or robbery is one of the great football myths",
-      "summary": "Every Ballon d’Or season gives life to how Arsenal’s Thierry Henry was robbed in 2003. But it’s a myth – and here’s why.",
+      "id": "37e0302dd7b4db",
+      "title": "Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture",
+      "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes have met face to face to clear the air, with both vowing to refocus on turning the club's seaso...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604738/bruno-fernandes-man-utd-head-coach-michael-carrick-and-club-captain-hold-clear-the-air-talks-ahead-of-chelsea-fixture",
+      "publishedAt": "2026-10-28T10:39:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "6279f37d40b7e6",
+      "title": "Vickery's bodybuilding transformation amid life-changing diagnosis",
+      "summary": "In an interview with Sky Sports News ' Gail Davis, former England international Phil Vickery discusses his bodybuilding transformation and living with his diagnosis of...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13604546/phil-vickery-england-world-cup-winner-on-his-bodybuilding-transformation-amid-life-changing-diagnosis",
+      "publishedAt": "2026-10-28T10:35:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "95630ef81469ed",
+      "title": "Premier League: Most expensive managers ever as Emery and Hurzeler prices revealed",
+      "summary": "Manchester United are baulking at paying ‘half an Andrey Santos’ for Fabian Hurzeler, while Unai Emery may come slightly cheaper.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/thierry-henry-ballon-dor-robbery-football-enduring-myth",
-      "publishedAt": "2026-10-27T12:47:41.000Z",
+      "url": "https://www.football365.com/news/most-expensive-managers-ever-compensation-payout-chelsea-maresca",
+      "publishedAt": "2026-10-28T10:30:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ffc88da06d97ed",
+      "title": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains",
+      "summary": "Real Madrid forward was dropped by brands for comments Chinese media generally steered clear of outlining It’s been a bad start to the week for the France forward Kylia...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
+      "publishedAt": "2026-10-28T10:00:04.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "51999bc8d8131e",
+      "title": "Latte Lath: Carrick never screamed, he knew how to listen",
+      "summary": "For Emmanuel Latte Lath, the big moment came within three minutes of his Bundesliga debut for Union Berlin. At the age of 27, it was his first appearance in a major Eur...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13602307/emmanuel-latte-lath-interview-union-berlin-striker-on-memories-of-michael-carrick-lionel-messi-and-his-mental-coach",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "8d5bb5c951ba7d",
+      "title": "Insider reveals Liverpool movement for permanent Ronald Araujo transfer in January",
+      "summary": "Liverpool will contact Barcelona in January to begin the permanent signing process of defender Ronald Araujo, according to insider Juan Jesus.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/january-movement-liverpool-ronald-araujo-barcelona",
+      "publishedAt": "2026-10-28T09:49:58.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "840e2d92c5d72c",
+      "title": "Kuyt named Fenerbahce interim boss before Liverpool tie",
+      "summary": "Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T09:41:34.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Liverpool",
+        "Inter"
+      ]
+    },
+    {
+      "id": "9258f8c153c8b5",
+      "title": "Expectation vs reality: What if Man Utd have become a mid-table team?",
+      "summary": "Michael Carrick has been given a stay of execution by Manchester United after the club considered making a fourth managerial change in four years following their defeat...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604280/michael-carrick-is-latest-man-utd-manager-under-pressure-but-has-poor-recruitment-made-them-a-mid-table-team-between-the-lines",
+      "publishedAt": "2026-10-28T09:35:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "625c9a3088f438",
+      "title": "Man Utd abort January transfer window plans after Michael Carrick decision",
+      "summary": "Man Utd have decided that they won’t be signing a striker in the January transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-abort-january-transfer-plans-striker-carrick-decision-stay",
+      "publishedAt": "2026-10-28T09:28:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e610b30aecc28c",
+      "title": "Schmeichel accuses Wilcox of ‘hating’ Man Utd: ‘I just don’t understand why he is there’",
+      "summary": "Peter Schmeichel has questioned why former Leeds winger Jason Wilcox was allowed to become the director of football at Man Utd.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-schmeichel-accuses-wilcox-hating",
+      "publishedAt": "2026-10-28T08:51:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "76a2ab06447bc5",
+      "title": "Can clubs stop team news leaking out through FPL picks?",
+      "summary": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T08:36:46.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "fa3259f809857a",
+      "title": "Liverpool gambled on Jacquet and it is paying off",
+      "summary": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T08:36:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "3b0eca17dcee9a",
+      "title": "Sympathy for Man Utd kids under ‘leaking toxic ceiling’; play them",
+      "summary": "Manchester United kids like Shea Lacey are trying to develop in the worst possible club environment. Should they be playing?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-kids-lacey-leaking-toxic-ceiling-mailbox",
+      "publishedAt": "2026-10-28T08:30:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "31981182f943ab",
+      "title": "Arsenal striker Viktor Gyokeres a ‘clogger’ as Arteta blasted for Dowman reaction",
+      "summary": "Arsenal losing to Fleetwood has prompted the usual LOLs, while even Arsenal fans admit they need a new striker.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-viktor-gyokeres-clogger-arsenal-dowman-mailbox",
+      "publishedAt": "2026-10-28T08:12:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b1d275b8d05360",
+      "title": "Arsenal star should be ‘offended’ by what Arteta did against Fleetwood – Deeney",
+      "summary": "Troy Deeney insists Arsenal striker Viktor Gyokeres should be “offended” that he started in the Gunners’ Carabao Cup exit to Fleetwood Town.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-gyokeres-offended-arteta-fleetwood-deeney",
+      "publishedAt": "2026-10-28T08:09:21.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6d4878cf8c7986",
+      "title": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
+      "summary": "Norwegian federation president distances self from Fifa presidency but believes governing body can be reformed As the rain whips around Oslo’s government quarter, Lise...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino",
+      "publishedAt": "2026-10-28T08:00:03.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "02e550c35d8650",
+      "title": "Which footballers have scored in the same minute as their surname? | The Knowledge",
+      "summary": "Plus: the longest home droughts, pre-Christmas goal centuries and the first official club websites Mail us with all of your questions and answers “Justin Seven-Seven ca...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/which-footballers-have-scored-in-the-same-minute-as-their-surname-knowledge",
+      "publishedAt": "2026-10-28T08:00:02.000Z",
+      "category": "ucl",
+      "region": "france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Ligue 1",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "a3960013995b25",
+      "title": "Arsenal: Arteta slammed for reaction to Dowman red as he reveals what he said to youngster",
+      "summary": "Arsenal head coach Mikel Arteta has revealed what he said to Max Dowman after the Gunners starlet was sent off against Fleetwood Town.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-arteta-reveals-what-said-angrily-dowman-fleetwood",
+      "publishedAt": "2026-10-28T07:35:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ba1b9a6f443067",
+      "title": "Lawlor delighted after beating 'best team in the country'",
+      "summary": "Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T07:28:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "137256e08a1b94",
+      "title": "Man Utd: Klopp among five managers who could actually turn club around with Arteta trust",
+      "summary": "Manchester United need a manager with expertise in fixing broken football institutions and resetting the culture. It’s Gareth Southgate time.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/five-managers-who-could-actually-turn-manchester-united-around-arteta-klopp",
+      "publishedAt": "2026-10-28T07:25:54.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Arsenal"
+        "Manchester"
+      ]
+    },
+    {
+      "id": "34aabdf5747d0d",
+      "title": "Eddie Howe now odds-on favourite to be new Man Utd manager",
+      "summary": "Manchester United have been a disaster in the Premier League and Champions League. Who could replace Michael Carrick?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
+      "publishedAt": "2026-10-28T07:20:19.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "38ed0ec0672d0a",
+      "title": "Liverpool finally looked like a bold, exciting Iraola team v Brighton",
+      "summary": "What Liverpool manager Andoni Iraola attempted in the victory at Anfield was fascinating, bold and crucially, it worked.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-looked-bold-exciting-iraola-team-brighton",
+      "publishedAt": "2026-10-28T07:07:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "48b042f0dbaebf",
+      "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T06:33:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     }
   ],
