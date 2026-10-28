@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-27T21:58:22.123Z",
+  "generatedAt": "2026-10-28T04:54:30.283Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,190 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "bd57df7ea69a11",
-      "title": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
-      "summary": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to ma...",
+      "id": "7628ba44f77868",
+      "title": "'Biggest night in the club's history' for fearless Fleetwood",
+      "summary": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win ove...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:39:30.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3846f24926a53f",
+      "title": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "summary": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:34:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "62dc0fdc8ff899",
+      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+      "summary": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T23:54:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6d7686f4bee544",
+      "title": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "summary": "BBC Sport looks at the history of the biggest FA Cup and League Cup upsets after Fleetwood Town's shock win against Arsenal.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T23:35:11.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fe90b879ff911b",
+      "title": "Barcelona fined £503 over their approach for Atlético Madrid star Álvarez",
+      "summary": "Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Álvarez came at a modest cost ⁠on Tuesday a...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
-      "publishedAt": "2026-10-27T21:39:10.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
+      "publishedAt": "2026-10-27T23:18:47.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "d7171d99ff6c43",
+      "title": "Arteta explains reaction to Dowman red card amid criticism",
+      "summary": "Mikel Arteta has explained his reaction to Max Dowman as the 16-year-old went down the tunnel after being sent off in Arsenal's shock Carabao Cup exit to Fleetwood Town.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604637/max-dowman-red-card-mikel-arteta-explains-what-he-said-to-16-year-old-after-sending-off-in-carabao-cup-exit-to-fleetwood-town",
+      "publishedAt": "2026-10-27T23:11:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4936d302c440e6",
+      "title": "‘Laughable’ champions Arsenal embarrassed by Fleetwood in all-time Carabao Cup shock",
+      "summary": "Arsenal expected to stroll into the Carabao Cup quarter-finals, but were embarrassed by Fleetwood Town in an all-time shock.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-arsenal-embarrassed-fleetwood-carabao-cup-shock",
+      "publishedAt": "2026-10-27T22:58:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "96c2dc4b094a3e",
+      "title": "Papers: Carrick's job saved by failure to agree on replacement",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604626/manchester-united-failure-to-agree-on-michael-carricks-successor-buys-under-pressure-head-coach-more-time",
+      "publishedAt": "2026-10-27T22:45:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e1492d2a5a02ae",
+      "title": "Blackpool beat Villa and Vale thrash Man City in Trophy",
+      "summary": "Blackpool beat Aston Villa and Port Vale put five past Manchester City's youngsters, plus Tuesday's EFL Trophy round-up.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly0zyd15jqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T22:31:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e938c38a6807a9",
+      "title": "João Pedro out for ‘a few weeks’, reveals Alonso; Donnarumma gets Maresca’s backing",
+      "summary": "Chelsea manager making latest Anfield return Andoni Iraola upbeat before Carabao Cup tie Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
+      "publishedAt": "2026-10-27T22:30:36.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
+        "Chelsea",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8c48ead151f829",
+      "title": "Fantastic Fleetwood seal shootout success in Carabao Cup shock against Arsenal",
+      "summary": "It is more than 20 years since Arsenal played at Highbury but their trip to League Two Fleetwood – and a stadium of the same name – did not bring back fond memories as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/27/fleetwood-town-arsenal-carabao-cup-fourth-round-match-report",
+      "publishedAt": "2026-10-27T22:26:05.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1e7b0be283b668",
+      "title": "Arsenal OUT on pens to League Two Fleetwood!",
+      "summary": "Highlights of the Carabao Cup fourth round match between Fleetwood Town and Arsenal.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13604607/fleetwood-1-1-arsenal-5-3-pens-carabao-cup-highlights",
+      "publishedAt": "2026-10-27T22:22:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "56210a2bae8778",
+      "title": "Merson critical of Arteta's reaction to Dowman after red",
+      "summary": "Paul Merson was critical of Mikel Arteta's reaction to Max Dowman being sent off in Arsenal's loss to Fleetwood Town in the EFL Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13604600/fleetwood-vs-arsenal-paul-merson-critical-of-mikel-artetas-reaction-to-max-dowman-after-red",
+      "publishedAt": "2026-10-27T22:12:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "5552ffe3d00875",
+      "title": "Arsenal dumped out of Carabao Cup by League Two Fleetwood",
+      "summary": "Fleetwood Town produced one of the biggest shocks in Carabao Cup history as the League Two team dumped out Premier League champions Arsenal on penalties to reach the qu...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fleetwood-town-vs-arsenal/report/578610",
+      "publishedAt": "2026-10-27T21:50:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
         "Arsenal"
       ]
     },
@@ -153,19 +327,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "Barcelona",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "62dc0fdc8ff899",
-      "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
-      "summary": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:26:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     },
     {
@@ -248,19 +409,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Chelsea",
         "Manchester"
-      ]
-    },
-    {
-      "id": "91913a3021c8f7",
-      "title": "Borthwick lays down World Cup challenge to England",
-      "summary": "With just 12 Tests remaining before the Rugby World Cup, Steve Borthwick has made it clear that he wants an England group packed with genuine contenders for a place in...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13604478/steve-borthwick-lays-down-englands-rugby-world-cup-challenge-with-just-10-tests-left-before-naming-his-squad",
-      "publishedAt": "2026-10-27T17:51:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     },
     {
@@ -358,19 +506,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "603a8c2d97e0ca",
-      "title": "'Delaying the inevitable' or right call? Key questions as Carrick stays",
-      "summary": "Michael Carrick has been given the chance to turn Manchester United's form around - a shock decision that has divided supporters and Sky Sports pundits.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604361/michael-carrick-why-man-utd-head-coach-will-stay-on-and-could-bruno-fernandes-play-vs-chelsea-plus-other-key-questions",
-      "publishedAt": "2026-10-27T14:40:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "f47d3f837838e4",
       "title": "Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win",
       "summary": "Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a kni...",
@@ -438,22 +573,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e938c38a6807a9",
-      "title": "Donnarumma gets Maresca’s backing; Iraola feels bond growing at Anfield",
-      "summary": "Manchester City goalkeeper’s mistakes said to be normal Liverpool head coach upbeat before Chelsea cup tie • This story will update through the day Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
-      "publishedAt": "2026-10-27T13:05:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
       "id": "704915b1cd8f2d",
       "title": "Thierry Henry Ballon d’Or robbery is one of the great football myths",
       "summary": "Every Ballon d’Or season gives life to how Arsenal’s Thierry Henry was robbed in 2003. But it’s a myth – and here’s why.",
@@ -465,131 +584,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Football",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "3bd63fe87a8549",
-      "title": "How 'anti-superstar' Kane defied doubters to become world's best",
-      "summary": "Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T12:46:39.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "aa85febc678d01",
-      "title": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
-      "summary": "Neglect of African football and a third win for the Spanish great does little to challenge narrative that the prize is reserved only for top nations’ players After a fo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
-      "publishedAt": "2026-10-27T12:32:38.000Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "16c9e6c110f602",
-      "title": "Premier League goalkeepers ranked: David Raya sets the standard, Suzuki on podium",
-      "summary": "David Raya has started 2026/27 where he left off last season, while Alisson, Pickford, Donnarumma and Trafford languish in the lower rankings…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-goalkeepers-ranking-2026-27",
-      "publishedAt": "2026-10-27T12:14:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "225b58b06220b5",
-      "title": "Carrick to stay in charge of Man Utd for Chelsea game",
-      "summary": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T12:10:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f05c0883b58c77",
-      "title": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
-      "summary": "Organizer says parents were causing disturbance No one arrested or made to leave game in Florida Police were called after a dispute involving the parents of a three-yea...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
-      "publishedAt": "2026-10-27T12:07:25.000Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "fca98979bb9bae",
-      "title": "Unattached Coleman 'edging towards' retirement",
-      "summary": "Former Everton defender Seamus Coleman says he is contemplating retiring from football but does not \"want to completely draw a line in the sand\" on his career.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83lyz32yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T12:05:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "c9b9b6d8c379ea",
-      "title": "Carrick to remain in charge of Man Utd for Chelsea trip",
-      "summary": "Michael Carrick will remain in charge of Manchester United for their game against Chelsea on Saturday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
-      "publishedAt": "2026-10-27T12:03:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "dea65faa2c9c6a",
-      "title": "Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment",
-      "summary": "Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with the player Kylian Mbappé has apologised after the Real Madrid forward was dropp...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
-      "publishedAt": "2026-10-27T11:54:47.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c0409fcfa320bd",
-      "title": "Are Chelsea back? Have Man Utd weathered early-season storm?",
-      "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the sixth round of Women's Super League matches, bringing you closer to the key stories at the he...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
-      "publishedAt": "2026-10-27T11:45:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
