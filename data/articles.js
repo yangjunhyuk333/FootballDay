@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-28T12:25:58.555Z",
+  "generatedAt": "2026-10-28T22:22:42.485Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,432 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "ce5c7c63108152",
+      "title": "Emptyhad no laughing matter anymore as Man City knock Brighton out of Carabao Cup",
+      "summary": "The Etihad was again thousands short of capacity as Manchester City knocked Brighton out of the Carabao Cup on penalties.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-empty-etihad-man-city-beat-brighton-carabao-cup",
+      "publishedAt": "2026-10-28T22:19:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f6463d87f7016b",
+      "title": "Liverpool v Chelsea: Carabao Cup fourth-round tie goes to penalties – live",
+      "summary": "⚽ Latest updates from Anfield, 8pm (GMT) kick-off ⚽ Live scores | Football Daily | And email Scott here Basque pals Andoni and Xabi embrace warmly … but so much for fri...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
+      "publishedAt": "2026-10-28T22:15:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "9dd27f8d31bfb6",
+      "title": "History-maker Russo scores hat-trick as Arsenal dismiss Benfica",
+      "summary": "Alessia Russo became the highest-ever English goalscorer in Women's Champions League history with a hat-trick against Benfica as Arsenal won 3-0 in their league phase m...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/report/578250",
+      "publishedAt": "2026-10-28T22:10:00.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e004e0263a6801",
+      "title": "Rulli’s heroics earn Manchester City shootout success against Brighton",
+      "summary": "After Jérémy Doku’s second-half substitute appearance transformed Manchester City into a high-octane proposition, the smart money was on the momentum continuing and the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
+      "publishedAt": "2026-10-28T21:58:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "474063e8675f20",
+      "title": "Arsenal 3-0 Benfica: Women’s Champions League – as it happened",
+      "summary": "Alessia Russo made history after scoring a hat-trick in Arsenal’s win over Benfica at Meadow Park 1 min Benfica, in white, kick off from right to left as we watch. The...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/oct/28/arsenal-v-benfica-womens-champions-league-live",
+      "publishedAt": "2026-10-28T21:54:38.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "acff1cead95eb9",
+      "title": "Kompany discharged from hospital following collapse",
+      "summary": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board me...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T21:37:08.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "8c3c1617296add",
+      "title": "Sancho rejects Getafe - Thursday's gossip",
+      "summary": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for M...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T21:34:36.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "La Liga"
+      ]
+    },
+    {
+      "id": "6d2a1483db500c",
+      "title": "Man City dump Brighton out of Carabao Cup after shoot-out victory",
+      "summary": "Carabao Cup holders Manchester City needed penalties to progress past Brighton and into the quarter-finals after battling from behind to draw the game 2-2 at the Etihad.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/report/578614",
+      "publishedAt": "2026-10-28T21:19:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "514401e162e535",
+      "title": "Chelsea continue unbeaten start with win over Roma",
+      "summary": "Chelsea's strong start to the season continues with victory over Roma in the Women's Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T20:36:25.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2b6f1d80180f97",
+      "title": "European football: Two late own goals return Inter to top of Serie A but Milan lose at home",
+      "summary": "Bottom side Venezia beaten 2-0 after two late calamities Samuel Mbangula strikes three in Bologna’s win at Milan Inter returned to the Serie A summit with a nervy 2-0 w...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
+      "publishedAt": "2026-10-28T20:34:23.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "d84a1109382da1",
+      "title": "Sesko ruled out until January with shin injury",
+      "summary": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T19:57:04.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "16d6c600ab4fac",
+      "title": "Alonso makes brutal Liverpool decision as concerns over personal rift with Chelsea star emerge",
+      "summary": "Estevao might have been the only Chelsea stakeholder secretly pleased to see Palmer sent off vs Tottenham. And he still can’t get a game. What’s that about?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alonso-brutal-decision-liverpool-clash-push-chelsea-star-psg",
+      "publishedAt": "2026-10-28T19:50:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "752cbc78f0c917",
+      "title": "Chelsea continue unbeaten start in WCL after beating Roma",
+      "summary": "Chelsea continued their unbeaten start in the Women's Champions League as goals from Ellie Carpenter and Kadeisha Buchanan secured a 2-0 win against Roma.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-roma-women/report/578251",
+      "publishedAt": "2026-10-28T19:35:00.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0875e09973e571",
+      "title": "Roy Keane lined up as Man Utd coach before Ratcliffe gave job to Carrick",
+      "summary": "Roy Keane was lined up for a dramatic return to Man Utd before Michael Carrick was handed the interim reins last season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/keane-lined-up-man-utd-coach-ratcliffe-carrick",
+      "publishedAt": "2026-10-28T18:59:25.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "dd897e1c2416e2",
+      "title": "Wrexham fined for fielding ineligible players",
+      "summary": "The English Football League fines Wrexham £75k for two instances of fielding ineligible players.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T18:22:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "40df927b37d799",
+      "title": "Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?",
+      "summary": "Even an elite coach would surely struggle at Old Trafford amid the executive chaos and with an unfit, uneven squad In January 2014 the 13th series of Celebrity Big Brot...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop",
+      "publishedAt": "2026-10-28T18:00:09.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "87332a6a3a2899",
+      "title": "PREM Rugby wants English expansion despite Welsh interest",
+      "summary": "English rugby's governing bodies say they are committed to expanding the PREM with sides from England rather than clubs from Wales.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13604946/prem-rugby-and-rfu-committed-to-expanding-top-flight-with-english-clubs-despite-welsh-interest",
+      "publishedAt": "2026-10-28T17:07:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "44472986aae3e6",
+      "title": "Liverpool beat Chelsea in shoot-out - quarter-final draw coming up LIVE!",
+      "summary": "Liverpool beat Chelsea in shoot-out - quarter-final draw coming up LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-chelsea/live/578612",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "429a896be5496a",
+      "title": "WCL: Russo completes hat-trick as Arsenal beat Benfica LIVE!",
+      "summary": "WCL: Russo completes hat-trick as Arsenal beat Benfica LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/live/578250",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7f0dd940ea3555",
+      "title": "Max Dowman set for Arteta’s time-out corner as appeal decision made",
+      "summary": "Arsenal have appealed Max Dowman’s red card but the 16-year-old is set for three games out to think long and hard about what he’s done.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-max-dowman-three-games-arteta-naughty-step-appeal-decision-made",
+      "publishedAt": "2026-10-28T16:24:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "379c033a810946",
+      "title": "Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Having made a passing reference to Mick Fleetwood in Tuesday’s thrilling edition of your favourite email, Football D...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/fleetwood-arsenal-carabao-cup-football-daily-newsletter",
+      "publishedAt": "2026-10-28T16:08:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "8acf5b6099f7ec",
+      "title": "Ousmane Dembele, Winchester City and the Ballon d'Or",
+      "summary": "France and PSG star Ousmane Dembele's unique connection to non-league side Winchester City resurfaces at Monday's Ballon d'Or ceremony.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50mejwmry3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T16:01:47.000Z",
+      "category": "league",
+      "region": "france",
+      "tags": [
+        "Psg"
+      ]
+    },
+    {
+      "id": "eaf438491dedd1",
+      "title": "Man Utd told to give Unai Emery ‘the f***ing keys’ and an ‘open chequebook’ to leave Aston Villa",
+      "summary": "John Obi Mikel has told Manchester United to forget a pair of managers and hand “the f***ing keys” to Unai Emery, along with an “open chequebook.”",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-give-unai-emery-keys-open-chequebook",
+      "publishedAt": "2026-10-28T15:33:03.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5ceba5036b96df",
+      "title": "Max Dowman debate rumbles on: Should grown men kick children?",
+      "summary": "Arsenal losing to Fleetwood and the red card shown to a 16-year-old are low points but they have sparked opinions.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/max-dowman-debate-grown-men-kick-children-mailbox",
+      "publishedAt": "2026-10-28T14:44:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ce4c951cef2e78",
+      "title": "Chelsea asked ‘why the hell’ they sold seven-goal striker as Joao Pedro injury confirmed",
+      "summary": "Xabi Alonso has confirmed the general length of the injury suffered by Joao Pedro, as Chelsea have been asked “why the hell” they sold his perfect replacement.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/joao-pedro-injury-why-the-hell-sell-nicolas-jackson-chelsea",
+      "publishedAt": "2026-10-28T14:14:32.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b129acb1f09c31",
+      "title": "Newcastle: Jaissle ‘definitely wants’ England star in shock January move to spark ‘major crisis’",
+      "summary": "Newcastle United head coach Matthias Jaissle is looking to bring England international Ivan Toney to St James’ Park, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/newcastle-jaissle-definitely-wants-toney-al-ahli-january-major-crisis",
+      "publishedAt": "2026-10-28T13:50:34.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "bf02aa8b11e924",
+      "title": "Chelsea insider confirms Trent Alexander-Arnold interest after Real Madrid decision",
+      "summary": "Trent Alexander-Arnold is a target for Chelsea, with a decision made over his future at Real Madrid, where the right-back is currently struggling for minutes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/trent-alexander-arnold-chelsea-interest-real-madrid-decision",
+      "publishedAt": "2026-10-28T13:42:39.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Chelsea",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "862efda9f61fe7",
+      "title": "Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced",
+      "summary": "Teenager was maybe harshly sent off in the Carabao Cup tie but his reaction was a mistake he will learn from, while his manager might also have regrets Mikel Arteta’s r...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
+      "publishedAt": "2026-10-28T13:16:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "39ac0c4e32dc42",
+      "title": "Man Utd: ‘Inevitable’ that ‘disgrace’ Jason Wilcox will be sacked if he fires Michael Carrick",
+      "summary": "Man Utd director of football Jason Wilcox is reportedly likely to lose his job if the Red Devils decide to fire Michael Carrick this season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-jason-wilcox-disagrace-sacked-michael-carrick-fired",
+      "publishedAt": "2026-10-28T13:04:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "deb7559203eb17",
+      "title": "Fernandes tells Carrick he is committed to turning season around in clear-the-air talks",
+      "summary": "Manchester United captain expected to return to lineup Squad have positive meeting with under-pressure coach Michael Carrick and Bruno Fernandes held clear-the-air talk...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/bruno-fernandes-michael-carrick-clear-the-air-talks-manchester-united",
+      "publishedAt": "2026-10-28T12:47:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c9209c67184d9b",
+      "title": "West Ham’s Viviane Asseyi: ‘When I was four I said I wanted to be like Zidane’",
+      "summary": "French forward on how the 1998 World Cup inspired her football dream, her Gabonese background and finding a new family in east London On Saturday, once West Ham’s Vivia...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/west-ham-women-viviane-asseyi-zidane-wsl",
+      "publishedAt": "2026-10-28T12:26:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
       "id": "f66b048d7dddd6",
       "title": "Mikel Arteta reaction to Fleetwood defeat ‘sums up’ Arsenal boss in shock absence of ‘true colours’",
       "summary": "Arsenal’s miserable evening in Fleetwood hit new lows when it was revealed Mikel Arteta’s reaction didn’t even show any true colours.",
@@ -113,7 +539,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "e3469e6e4b17df",
-      "title": "Henry defends himself after Ballon d'Or criticism",
+      "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
       "summary": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
@@ -161,429 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "92e71c125354a6",
-      "title": "Arsenal to appeal against Dowman red card",
-      "summary": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T11:55:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "f681d1f5236d6c",
-      "title": "Carrick and Fernandes hold clear-the-air talks",
-      "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks ahead of side's trip to Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T11:48:28.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "65bb658dd0d959",
-      "title": "Marcus Rashford to Everton ‘definitely’ on the cards as insider reveals transfer chance",
-      "summary": "Former Everton CEO Keith Wyness has revealed there are “definitely” talks to sign Marcus Rashford ongoing, and he feels there’s a chance of the transfer going through.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/marcus-rashford-everton-talks-man-utd",
-      "publishedAt": "2026-10-28T11:32:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "827cf1b0bf4843",
-      "title": "Man Utd: Sources lift lid on Fernandes ‘mood’ as Carrick player meeting outcome is revealed",
-      "summary": "Man Utd head coach Michael Carrick is ready to draw a line under things and start Bruno Fernandes against Chelsea, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-carrick-fernandes-mood-player-meeting-outcome-revealed",
-      "publishedAt": "2026-10-28T11:28:03.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a2c543df506fa9",
-      "title": "Why did Fleetwood have to lose player for Arsenal penalty shootout?",
-      "summary": "Fleetwood Town had to remove a player for their penalty shootout against Arsenal - BBC Sport's Ask Me Anything team explains why.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8040xn769xgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T11:23:20.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d7171d99ff6c43",
-      "title": "Arteta explains reaction to Dowman red card amid criticism",
-      "summary": "Mikel Arteta has explained his reaction to Max Dowman as the 16-year-old went down the tunnel after being sent off in Arsenal's shock Carabao Cup exit to Fleetwood Town.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604637/max-dowman-red-card-mikel-arteta-explains-what-he-said-to-16-year-old-after-sending-off-in-carabao-cup-exit-to-fleetwood-town",
-      "publishedAt": "2026-10-28T11:21:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d22b9ee00080b7",
-      "title": "Man Utd latest: Should Fernandes start at Chelsea? VOTE!",
-      "summary": "Man Utd latest: Should Fernandes start at Chelsea? VOTE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-28T11:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "696d6640684e5d",
-      "title": "Alexis Mac Allister reaches decision on leaving Liverpool as his agent mobilises",
-      "summary": "Liverpool midfielder Alexis Mac Allister is now likely to leave Anfield in the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-alexis-mac-allister-reaches-decision-leave-agent-mobilises",
-      "publishedAt": "2026-10-28T10:41:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "37e0302dd7b4db",
-      "title": "Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture",
-      "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes have met face to face to clear the air, with both vowing to refocus on turning the club's seaso...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604738/bruno-fernandes-man-utd-head-coach-michael-carrick-and-club-captain-hold-clear-the-air-talks-ahead-of-chelsea-fixture",
-      "publishedAt": "2026-10-28T10:39:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6279f37d40b7e6",
-      "title": "Vickery's bodybuilding transformation amid life-changing diagnosis",
-      "summary": "In an interview with Sky Sports News ' Gail Davis, former England international Phil Vickery discusses his bodybuilding transformation and living with his diagnosis of...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13604546/phil-vickery-england-world-cup-winner-on-his-bodybuilding-transformation-amid-life-changing-diagnosis",
-      "publishedAt": "2026-10-28T10:35:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "95630ef81469ed",
-      "title": "Premier League: Most expensive managers ever as Emery and Hurzeler prices revealed",
-      "summary": "Manchester United are baulking at paying ‘half an Andrey Santos’ for Fabian Hurzeler, while Unai Emery may come slightly cheaper.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/most-expensive-managers-ever-compensation-payout-chelsea-maresca",
-      "publishedAt": "2026-10-28T10:30:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ffc88da06d97ed",
-      "title": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains",
-      "summary": "Real Madrid forward was dropped by brands for comments Chinese media generally steered clear of outlining It’s been a bad start to the week for the France forward Kylia...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
-      "publishedAt": "2026-10-28T10:00:04.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "51999bc8d8131e",
-      "title": "Latte Lath: Carrick never screamed, he knew how to listen",
-      "summary": "For Emmanuel Latte Lath, the big moment came within three minutes of his Bundesliga debut for Union Berlin. At the age of 27, it was his first appearance in a major Eur...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602307/emmanuel-latte-lath-interview-union-berlin-striker-on-memories-of-michael-carrick-lionel-messi-and-his-mental-coach",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "8d5bb5c951ba7d",
-      "title": "Insider reveals Liverpool movement for permanent Ronald Araujo transfer in January",
-      "summary": "Liverpool will contact Barcelona in January to begin the permanent signing process of defender Ronald Araujo, according to insider Juan Jesus.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/january-movement-liverpool-ronald-araujo-barcelona",
-      "publishedAt": "2026-10-28T09:49:58.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "840e2d92c5d72c",
-      "title": "Kuyt named Fenerbahce interim boss before Liverpool tie",
-      "summary": "Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T09:41:34.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9258f8c153c8b5",
-      "title": "Expectation vs reality: What if Man Utd have become a mid-table team?",
-      "summary": "Michael Carrick has been given a stay of execution by Manchester United after the club considered making a fourth managerial change in four years following their defeat...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13604280/michael-carrick-is-latest-man-utd-manager-under-pressure-but-has-poor-recruitment-made-them-a-mid-table-team-between-the-lines",
-      "publishedAt": "2026-10-28T09:35:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "625c9a3088f438",
-      "title": "Man Utd abort January transfer window plans after Michael Carrick decision",
-      "summary": "Man Utd have decided that they won’t be signing a striker in the January transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-abort-january-transfer-plans-striker-carrick-decision-stay",
-      "publishedAt": "2026-10-28T09:28:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e610b30aecc28c",
-      "title": "Schmeichel accuses Wilcox of ‘hating’ Man Utd: ‘I just don’t understand why he is there’",
-      "summary": "Peter Schmeichel has questioned why former Leeds winger Jason Wilcox was allowed to become the director of football at Man Utd.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-schmeichel-accuses-wilcox-hating",
-      "publishedAt": "2026-10-28T08:51:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "76a2ab06447bc5",
-      "title": "Can clubs stop team news leaking out through FPL picks?",
-      "summary": "Chelsea striker Joao Pedro's injury was leaked through the Fantasy Premier League game, but is there anything clubs can do?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T08:36:46.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "fa3259f809857a",
-      "title": "Liverpool gambled on Jacquet and it is paying off",
-      "summary": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T08:36:34.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3b0eca17dcee9a",
-      "title": "Sympathy for Man Utd kids under ‘leaking toxic ceiling’; play them",
-      "summary": "Manchester United kids like Shea Lacey are trying to develop in the worst possible club environment. Should they be playing?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-kids-lacey-leaking-toxic-ceiling-mailbox",
-      "publishedAt": "2026-10-28T08:30:42.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "31981182f943ab",
-      "title": "Arsenal striker Viktor Gyokeres a ‘clogger’ as Arteta blasted for Dowman reaction",
-      "summary": "Arsenal losing to Fleetwood has prompted the usual LOLs, while even Arsenal fans admit they need a new striker.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-viktor-gyokeres-clogger-arsenal-dowman-mailbox",
-      "publishedAt": "2026-10-28T08:12:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b1d275b8d05360",
-      "title": "Arsenal star should be ‘offended’ by what Arteta did against Fleetwood – Deeney",
-      "summary": "Troy Deeney insists Arsenal striker Viktor Gyokeres should be “offended” that he started in the Gunners’ Carabao Cup exit to Fleetwood Town.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-gyokeres-offended-arteta-fleetwood-deeney",
-      "publishedAt": "2026-10-28T08:09:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6d4878cf8c7986",
-      "title": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
-      "summary": "Norwegian federation president distances self from Fifa presidency but believes governing body can be reformed As the rain whips around Oslo’s government quarter, Lise...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino",
-      "publishedAt": "2026-10-28T08:00:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "02e550c35d8650",
-      "title": "Which footballers have scored in the same minute as their surname? | The Knowledge",
-      "summary": "Plus: the longest home droughts, pre-Christmas goal centuries and the first official club websites Mail us with all of your questions and answers “Justin Seven-Seven ca...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/which-footballers-have-scored-in-the-same-minute-as-their-surname-knowledge",
-      "publishedAt": "2026-10-28T08:00:02.000Z",
-      "category": "ucl",
-      "region": "france germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Ligue 1",
-        "Champions League"
-      ]
-    },
-    {
-      "id": "a3960013995b25",
-      "title": "Arsenal: Arteta slammed for reaction to Dowman red as he reveals what he said to youngster",
-      "summary": "Arsenal head coach Mikel Arteta has revealed what he said to Max Dowman after the Gunners starlet was sent off against Fleetwood Town.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-reveals-what-said-angrily-dowman-fleetwood",
-      "publishedAt": "2026-10-28T07:35:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ba1b9a6f443067",
-      "title": "Lawlor delighted after beating 'best team in the country'",
-      "summary": "Fleetwood Town manager Matt Lawlor could not hide his delight after seeing his team knock Premier League champions Arsenal out of the EFL Cup on penalties.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T07:28:41.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "137256e08a1b94",
-      "title": "Man Utd: Klopp among five managers who could actually turn club around with Arteta trust",
-      "summary": "Manchester United need a manager with expertise in fixing broken football institutions and resetting the culture. It’s Gareth Southgate time.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/five-managers-who-could-actually-turn-manchester-united-around-arteta-klopp",
-      "publishedAt": "2026-10-28T07:25:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "34aabdf5747d0d",
-      "title": "Eddie Howe now odds-on favourite to be new Man Utd manager",
-      "summary": "Manchester United have been a disaster in the Premier League and Champions League. Who could replace Michael Carrick?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
-      "publishedAt": "2026-10-28T07:20:19.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "38ed0ec0672d0a",
-      "title": "Liverpool finally looked like a bold, exciting Iraola team v Brighton",
-      "summary": "What Liverpool manager Andoni Iraola attempted in the victory at Anfield was fascinating, bold and crucially, it worked.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-looked-bold-exciting-iraola-team-brighton",
-      "publishedAt": "2026-10-28T07:07:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "48b042f0dbaebf",
-      "title": "Play the 100th edition of Who am I? Plus today's other quizzes",
-      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T06:33:14.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
