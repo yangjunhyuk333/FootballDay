@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:36:20.759Z",
+  "generatedAt": "2026-10-29T22:35:52.031Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,8 +99,402 @@
       "pinned": true
     },
     {
+      "id": "dc3e23dd656f1d",
+      "title": "Elimbi Gilbert snatches PSG point to leave Manchester City WCL hopes in balance",
+      "summary": "Manchester City’s hopes of securing a top-four spot in the Women’s Champions League are looking increasingly slim after a third successive draw dragged out their wait f...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+      "publishedAt": "2026-10-29T22:14:01.000Z",
+      "category": "ucl",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester",
+        "Psg"
+      ]
+    },
+    {
+      "id": "09a371be9b4bcd",
+      "title": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
+      "summary": "Generali Stadium will have 71,500-seat capacity Inter fans protest the plans outside gala event Internazionale and Milan have unveiled plans for their new Generali Stad...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
+      "publishedAt": "2026-10-29T21:46:26.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "8aa5e22a93d75f",
+      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+      "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds Uni...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T21:40:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "73b0e2734d856b",
+      "title": "Expert warns Chelsea they could lose ‘next Neymar’ with PSG target ‘looking for a way out’",
+      "summary": "South American football expert Tim Vickery has warned Chelsea that Estevao may already be “looking for a way out” with the “next Neymar” linked with Paris Saint-Germain.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/expert-warns-chelsea-they-could-lose-next-neymar-with-psg-target-looking-for-a-way-out",
+      "publishedAt": "2026-10-29T20:44:07.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Psg"
+      ]
+    },
+    {
+      "id": "ddcd27562c39c4",
+      "title": "Tottenham v Crystal Palace: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Tottenham and Crystal Palace.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/tottenham-v-crystal-palace-prediction-preview",
+      "publishedAt": "2026-10-29T20:07:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "f9a6dfe40329a1",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "summary": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier Leag...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T19:55:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "68de70d43d0d43",
+      "title": "Uefa close to selecting candidate to run against Infantino in Fifa election",
+      "summary": "Challenger’s identity could be approved by next week Arsène Wenger not thought to have entered reckoning Uefa and its allies are close to identifying a candidate to run...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/uefa-close-to-identifying-candidate-gianni-infantino-in-fifa-election",
+      "publishedAt": "2026-10-29T18:41:04.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa"
+      ]
+    },
+    {
+      "id": "566828ae6ef96a",
+      "title": "PSG hit back late on to deny Man City first WCL win",
+      "summary": "Manchester City remain winless in this season's Women's Champions League after Tara Elimbi Gilbert's late strike earned Paris Saint-Germain a 1-1 draw at the Joie Stadi...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-city-women-vs-paris-saint-germain-women/report/578257",
+      "publishedAt": "2026-10-29T18:16:00.000Z",
+      "category": "ucl",
+      "region": "england france",
+      "tags": [
+        "Champions League",
+        "Manchester",
+        "Psg"
+      ]
+    },
+    {
+      "id": "3bc2169455ac76",
+      "title": "MLS announces ‘sprint season’ schedule, with accommodations for cold-weather locales",
+      "summary": "Season will begin on 19 February in Miami MLS Cup due to be played on Memorial Day weekend Decision Day lands on 8 May Major League Soccer’s 2027 “sprint season” will b...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/mls-sprint-season-schedule",
+      "publishedAt": "2026-10-29T18:00:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "9189651ba5ea33",
+      "title": "Max Dowman to miss three games after Arsenal’s red card appeal rejected",
+      "summary": "Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their Ca...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood",
+      "publishedAt": "2026-10-29T17:57:45.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9299682e4cd9da",
+      "title": "Arsenal: FA make final decision on Max Dowman red card appeal as Arteta is slammed",
+      "summary": "The FA have rejected the appeal from Arsenal over Max Dowman’s red card in their defeat to Fleetwood Town in the Carabao Cup.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-fa-make-final-decision-on-max-dowman-red-card-appeal-as-arteta-is-slammed",
+      "publishedAt": "2026-10-29T17:46:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "d3c2497c713d4f",
+      "title": "Scottish football could pave way for 3pm TV blackout to end",
+      "summary": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T17:43:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "7b5cdf724e2290",
+      "title": "Chelsea’s fine finishing has them flying high – but how long can it last?",
+      "summary": "Despite being at opposite ends of the table, according to Opta’s expected points model, Chelsea have performed worse than Saturday’s opponents Manchester United Michael...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/chelseas-fine-finishing-has-them-flying-high-but-how-long-can-it-last",
+      "publishedAt": "2026-10-29T17:21:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4ae788b7012d20",
+      "title": "Dowman to miss three matches after appeal rejected",
+      "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T17:19:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b048026ccbdb5e",
+      "title": "Football Daily",
+      "summary": "Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m003434t?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T16:54:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "8a5908afbb4d1c",
+      "title": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Football Daily isn’t suggesting standards at Chelsea have slipped in recent years, but the quality of their players...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
+      "publishedAt": "2026-10-29T15:58:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "11b8a9dedddcde",
+      "title": "Arsenal: Arteta ‘pushes’ £75m title winner to leave as star ‘accepts’ Real Madrid negotiations",
+      "summary": "Arsenal head coach Mikel Arteta is looking to push Martin Zubimendi towards a move to Real Madrid, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-arteta-pushes-75m-title-winner-to-leave-as-star-accepts-real-madrid-negotiations",
+      "publishedAt": "2026-10-29T15:35:28.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d0f23e64b084e9",
+      "title": "Arsenal fail with appeal against Dowman's red card",
+      "summary": "Arsenal have failed in their appeal against Max Dowman's red card in the defeat to League Two Fleetwood Town.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
+      "publishedAt": "2026-10-29T14:50:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9ecec42d90b82f",
+      "title": "Man Utd coach ‘hated’ working for club in post-Fergie ‘circus’ – ‘Couldn’t believe what I was seeing’",
+      "summary": "Phil Neville “couldn’t believe” the difference at Manchester United when he returned to the club to work as a coach under David Moyes.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-coach-hated-working-post-fergie-circus",
+      "publishedAt": "2026-10-29T14:45:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ef6b0b69ed43c3",
+      "title": "'Fully committed' Fernandes to remain Man Utd captain",
+      "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T14:31:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5ec9cc3ec247f7",
+      "title": "Man Utd: Carrick gives Fernandes captain decision update – ‘It doesn’t change things’",
+      "summary": "Bruno Fernandes is set to return to the Man Utd starting line-up against Chelsea at the weekend as captain, Michael Carrick has confirmed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-carrick-fernandes-captain-decision-update",
+      "publishedAt": "2026-10-29T14:25:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "b905855d340065",
+      "title": "Liverpool perform stunning U-turn on Mac Allister contract with Iraola key as Man City lurk",
+      "summary": "Liverpool are now reportedly preparing to submit a contract offer to Alexis Mac Allister in order to ward off interest from Manchester City.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-perform-stunning-u-turn-mcallister-contract-iraola-man-city-transfer",
+      "publishedAt": "2026-10-29T13:54:45.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Liverpool",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "305926eaef3232",
+      "title": "Arsenal fail at Fleetwood and Michael Carrick clings on | Football Weekly Extra – video",
+      "summary": "Max Rushden is joined by Barry Glendenning , Dan Bardell and Seb Hutchinson as Fleetwood Town beat Arsenal in the League Cup and Michael Carrick remains in the dugout a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/oct/29/arsenal-fail-at-fleetwood-and-michael-carrick-clings-on-football-weekly-video",
+      "publishedAt": "2026-10-29T13:51:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d8af41d9e91991",
+      "title": "Toney nightclub assault trial set for June 2028",
+      "summary": "The footballer has denied assaulting a man at a Soho nightclub on 6 December last year.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:47:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "2b38563d184348",
+      "title": "Is double drop from the Premier League becoming more common?",
+      "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T13:19:52.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "192cb17b551a53",
+      "title": "Man Utd make Marcus Rashford January transfer decision amid Everton loan links",
+      "summary": "Man Utd are reportedly prepared to loan Marcus Rashford out in the January transfer window amid rumours that Everton are interested.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-marcus-rashford-january-transfer-decision-everton",
+      "publishedAt": "2026-10-29T13:16:42.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "9ecae1ce6eea4f",
+      "title": "Mussolini’s first Serie A goal marks high-flying Lazio’s thrashing of Sassuolo | Nicky Bandini",
+      "summary": "Home crowds have plummeted amid a dispute with the owner, but 10,000 travelled 300km to see Tuesday’s 6-2 win Serie A had its second scoreless draw of the season on Wed...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/blog/2026/oct/29/serie-a-lazio-sassuolo-romano-floriani-mussolini-gennaro-gattuso",
+      "publishedAt": "2026-10-29T12:52:33.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Milan"
+      ]
+    },
+    {
+      "id": "95fcd93a6fd122",
+      "title": "Why is there only one Premier League match on Sunday?",
+      "summary": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT kick-off on Sunday in the Premier League this weekend.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T12:47:29.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
       "id": "8e036e6c289a92",
-      "title": "Man City reaches verdict on Man Utd transfer in January as fresh talks take place",
+      "title": "Man City star reaches verdict on Man Utd transfer in January as fresh talks take place",
       "summary": "Man Utd have held fresh talks with intermediaries over a potential January move for Man City defender Rayan Ait-Nouri, according to reports.",
       "source": "Football365",
       "url": "https://www.football365.com/news/man-city-reaches-verdict-man-utd-transfer-fresh-talks-ait-nouri",
@@ -202,398 +596,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "c69f5173b48a16",
-      "title": "Liverpool forwards ‘stink the place up’ but Reds still ‘quietly impressive’",
-      "summary": "Liverpool beat Chelsea in the Carabao Cup but the victory was despite Florian Wirtz and co. Trey Nyoni was good, mind.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-forwards-stink-place-up-mailbox",
-      "publishedAt": "2026-10-29T09:40:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f59ee7d61a4c97",
-      "title": "How Bayern Munich fell in love with Kane",
-      "summary": "It was approaching midnight when Harry Kane emerged to take the congratulations of the media patiently waiting for a word with Bayern Munich's new Ballon d'Or winner. H...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain",
-      "publishedAt": "2026-10-29T09:30:00.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "52ec4d8541563b",
-      "title": "Arsenal debutant and ‘much better’ £25.7m summer signing among players who took Carabao chance",
-      "summary": "A £25.7m summer signing, an Arsenal debutant, Sunderland’s Dave Nugent and Alejandro Garnacho all took their Carabao Cup chance this round.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-debutant-25-7m-summer-signing-took-carabao-chance",
-      "publishedAt": "2026-10-29T09:02:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "73d4034eab4a85",
-      "title": "Dowman one of nine who f**ked Carabao chance, including Liverpool player Iraola insisted on keeping",
-      "summary": "Max Dowman should have been ‘very clear on the things to expect,’ while Fulham, Brentford and Liverpool players messed up their chances too.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/dowman-messed-up-carabao-chance-liverpool-nine-players",
-      "publishedAt": "2026-10-29T08:57:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b18ebb1f504d13",
-      "title": "Romano clarifies Estevao to PSG after Chelsea approve January move – ‘transfer alert’",
-      "summary": "Fabrizio Romano has clarified the situation of Estevao amid claims Chelsea have approved a January switch to PSG on three conditions.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-clarifies-estevao-psg-chelsea-approve-move-transfer-alert",
-      "publishedAt": "2026-10-29T08:56:14.000Z",
-      "category": "transfer",
-      "region": "england italy france",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Psg"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Carrick still odds-on favourite despite stay of execution, with Sage next in line",
-      "summary": "Michael Carrick is, obviously, out on his own at the head of the Sack Race as the humiliations continue to mount at home and in Europe.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-10-29T08:30:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "259ca15f65b753",
-      "title": "Arsenal should be top of Premier League table despite their own failings",
-      "summary": "Manchester City and Arsenal are both fluky frauds. Not our words, but the words of Opta’s Expected Premier League Table.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-top-premier-league-table-despite-failings",
-      "publishedAt": "2026-10-29T08:25:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "34aabdf5747d0d",
-      "title": "Eddie Howe now odds-on favourite to be new Man Utd manager",
-      "summary": "Manchester United have been a disaster in the Premier League and Champions League. Who could replace Michael Carrick?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
-      "publishedAt": "2026-10-29T08:20:19.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "54d082b1b036cc",
-      "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
-      "summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T08:07:22.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9904d0584afcf3",
-      "title": "A three-year-old soccer prodigy went viral. The adults have already let him down",
-      "summary": "From Ms Rachel to Roc Nation, the internet embraced a Florida toddler. Police records reviewed by the Guardian complicate the story – and raise troubling questions Ther...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/29/florida-three-year-old-soccer-viral-video-police-social-media",
-      "publishedAt": "2026-10-29T08:00:29.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Inter"
-      ]
-    },
-    {
-      "id": "c937674bdb2c8f",
-      "title": "Tottenham’s season has finally taken off. How far up the table can they go?",
-      "summary": "Spurs had an awful start but, after an impressive win at Chelsea, they are suddenly looking up at the table By Opta Analyst In reality, it was only three points. All To...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/29/tottenham-season-spurs-chelsea-win-table",
-      "publishedAt": "2026-10-29T08:00:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d5968cb21949b9",
-      "title": "Post your questions for Charlie Nicholas",
-      "summary": "Is there anything you would like to ask the former Celtic, Arsenal and Scotland forward? Ever wanted to ask Charlie Nicholas a question? Well, this is your chance. Whet...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
-      "publishedAt": "2026-10-29T08:00:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "63cf70f90df791",
-      "title": "Premier League underrated XI includes Leeds trio as ‘Big Six’ players snubbed",
-      "summary": "There are zero players from the so-called Premier League’s ‘Big Six’ in our underrated XI, but three Leeds stars make the cut.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-underrated-xi-leeds-brentford",
-      "publishedAt": "2026-10-29T07:18:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "543cdcdb3f6a80",
-      "title": "Alonso’s nine-word explanation for Estevao snub should sound Chelsea alarm bells",
-      "summary": "Xabi Alonso once again vowed that Estevao is “going to play his role this season”, but Chelsea fans will have their doubts after his nine-word explanation for snubbing...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-alonso-respons-estevao-criticism-alarming-nine-word-explanation-chelsea-snub",
-      "publishedAt": "2026-10-29T06:59:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3e5544cac38e1b",
-      "title": "Who am I? Plus today's other quizzes",
-      "summary": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T06:23:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "4a82db8990d517",
-      "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-      "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T00:17:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "efce68a61b006a",
-      "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-      "summary": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T00:05:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2b6f1d80180f97",
-      "title": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
-      "summary": "Kane gets guard of honour before 6-1 win over Magdeburg Serie A: Inter sink Venezia, Milan lose at home to Bologna Bayern Munich sailed to a 6-1 win over second-tier Ma...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
-      "publishedAt": "2026-10-29T00:00:58.000Z",
-      "category": "league",
-      "region": "italy germany",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d35089049ad2eb",
-      "title": "How unbeaten Chelsea are getting back to their best",
-      "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T23:17:33.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "db017ce851493e",
-      "title": "'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy",
-      "summary": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number o...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T23:10:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "262d9352909fe7",
-      "title": "Wirtz blushes saved by brilliant forgotten Liverpool man as Fofana costs Chelsea twice",
-      "summary": "Wesley Fofana is an idiot and cost Chelsea twice as Andoni Iraola turned to his £575m bench and made Liverpool worse.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-wirtz-blushes-saved-brilliant-forgotten-liverpool-man-fofana-chelsea",
-      "publishedAt": "2026-10-28T22:53:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "e072e5d6decbf7",
-      "title": "Kompany discharged from hospital after collapsing at training",
-      "summary": "Bayern Munich head coach Vincent Kompany has ‌been discharged from hospital following his collapse in training last week ‌due to a meningeal irritation, board member fo...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training",
-      "publishedAt": "2026-10-28T22:40:00.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "d60f36fc8e628f",
-      "title": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
-      "summary": "Chelsea must have been resigned to their fate as soon as the shootout arrived at Anfield. Four times they had faced Liverpool on penalties previously and four times the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
-      "publishedAt": "2026-10-28T22:30:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Uefa",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "03517e934fac78",
-      "title": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
-      "summary": "Alessia Russo wrote herself into the history books once more as she became the highest English goalscorer in the Women’s Champions League. Her hat-trick gave Arsenal a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
-      "publishedAt": "2026-10-28T22:21:52.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e533fe4d754b99",
-      "title": "Russo scores hat-trick as Arsenal beat Benfica",
-      "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T22:19:57.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ce5c7c63108152",
-      "title": "Emptyhad no laughing matter anymore as Man City knock Brighton out of Carabao Cup",
-      "summary": "The Etihad was again thousands short of capacity as Manchester City knocked Brighton out of the Carabao Cup on penalties.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-empty-etihad-man-city-beat-brighton-carabao-cup",
-      "publishedAt": "2026-10-28T22:19:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e004e0263a6801",
-      "title": "Rulli’s heroics earn Manchester City shootout success against Brighton",
-      "summary": "After Jérémy Doku’s second-half substitute appearance transformed Manchester City into a high-octane proposition, the smart money was on the momentum continuing into a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
-      "publishedAt": "2026-10-28T21:58:14.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "acff1cead95eb9",
-      "title": "Kompany discharged from hospital following collapse",
-      "summary": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board me...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T21:37:08.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bayern"
       ]
     }
   ],
