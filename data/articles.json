@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:22:42.485Z",
+  "generatedAt": "2026-10-29T05:05:22.555Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,161 @@
       "pinned": true
     },
     {
+      "id": "4a82db8990d517",
+      "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+      "summary": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T00:17:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "efce68a61b006a",
+      "title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+      "summary": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T00:05:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2b6f1d80180f97",
+      "title": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
+      "summary": "Kane gets guard of honour before 6-1 win over Magdeburg Serie A: Inter sink Venezia, Milan lose at home to Bologna Bayern Munich sailed to a 6-1 win over second-tier Ma...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
+      "publishedAt": "2026-10-29T00:00:58.000Z",
+      "category": "league",
+      "region": "italy germany",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "dc5ed3c328f0c7",
+      "title": "Papers: Liverpool make contact with Monaco midfielder Camara",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13605140/liverpool-transfer-news-reds-make-contact-with-lamine-camara-camp-ahead-of-proposed-january-move-for-monaco-midfielder-paper-talk",
+      "publishedAt": "2026-10-28T23:20:00.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d35089049ad2eb",
+      "title": "How unbeaten Chelsea are getting back to their best",
+      "summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T23:17:33.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "db017ce851493e",
+      "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+      "summary": "Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number o...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T23:10:06.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "262d9352909fe7",
+      "title": "Wirtz blushes saved by brilliant forgotten Liverpool man as Fofana costs Chelsea twice",
+      "summary": "Wesley Fofana is an idiot and cost Chelsea twice as Andoni Iraola turned to his £575m bench and made Liverpool worse.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-wirtz-blushes-saved-brilliant-forgotten-liverpool-man-fofana-chelsea",
+      "publishedAt": "2026-10-28T22:53:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "e072e5d6decbf7",
+      "title": "Kompany discharged from hospital after collapsing at training",
+      "summary": "Bayern Munich head coach Vincent Kompany has ‌been discharged from hospital following his collapse in training last week ‌due to a meningeal irritation, board member fo...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training",
+      "publishedAt": "2026-10-28T22:40:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "d60f36fc8e628f",
+      "title": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
+      "summary": "Chelsea must have been resigned to their fate as soon as the shootout arrived at Anfield. Four times they had faced Liverpool on penalties previously and four times the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
+      "publishedAt": "2026-10-28T22:30:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Uefa",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "03517e934fac78",
+      "title": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
+      "summary": "Alessia Russo wrote herself into the history books once more as she became the highest English goalscorer in the Women’s Champions League. Her hat-trick gave Arsenal a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+      "publishedAt": "2026-10-28T22:21:52.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "e533fe4d754b99",
+      "title": "Russo scores hat-trick as Arsenal beat Benfica",
+      "summary": "Alessia Russo becomes England's all-time leading goalscorer in the Women's Champions League with a hat-trick in Arsenal's 3-0 win over Benfica.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T22:19:57.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
       "id": "ce5c7c63108152",
       "title": "Emptyhad no laughing matter anymore as Man City knock Brighton out of Carabao Cup",
       "summary": "The Etihad was again thousands short of capacity as Manchester City knocked Brighton out of the Carabao Cup on penalties.",
@@ -109,22 +264,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "f6463d87f7016b",
-      "title": "Liverpool v Chelsea: Carabao Cup fourth-round tie goes to penalties – live",
-      "summary": "⚽ Latest updates from Anfield, 8pm (GMT) kick-off ⚽ Live scores | Football Daily | And email Scott here Basque pals Andoni and Xabi embrace warmly … but so much for fri...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
-      "publishedAt": "2026-10-28T22:15:02.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea",
-        "Liverpool"
       ]
     },
     {
@@ -144,7 +283,7 @@
     {
       "id": "e004e0263a6801",
       "title": "Rulli’s heroics earn Manchester City shootout success against Brighton",
-      "summary": "After Jérémy Doku’s second-half substitute appearance transformed Manchester City into a high-octane proposition, the smart money was on the momentum continuing and the...",
+      "summary": "After Jérémy Doku’s second-half substitute appearance transformed Manchester City into a high-octane proposition, the smart money was on the momentum continuing into a...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
       "publishedAt": "2026-10-28T21:58:14.000Z",
@@ -156,18 +295,17 @@
       ]
     },
     {
-      "id": "474063e8675f20",
-      "title": "Arsenal 3-0 Benfica: Women’s Champions League – as it happened",
-      "summary": "Alessia Russo made history after scoring a hat-trick in Arsenal’s win over Benfica at Meadow Park 1 min Benfica, in white, kick off from right to left as we watch. The...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/28/arsenal-v-benfica-womens-champions-league-live",
-      "publishedAt": "2026-10-28T21:54:38.000Z",
-      "category": "ucl",
+      "id": "8212c0d41a5911",
+      "title": "Liverpool beat Chelsea on penalties to reach last eight",
+      "summary": "Wesley Fofana missed the decisive spot kick as Liverpool beat Chelsea on penalties to set up a Carabao Cup quarter-final against Andoni Iraola's former side Bournemouth.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/liverpool-vs-chelsea/report/578612",
+      "publishedAt": "2026-10-28T21:50:00.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal"
+        "Chelsea",
+        "Liverpool"
       ]
     },
     {
@@ -221,22 +359,6 @@
       "tags": [
         "Champions League",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "2b6f1d80180f97",
-      "title": "European football: Two late own goals return Inter to top of Serie A but Milan lose at home",
-      "summary": "Bottom side Venezia beaten 2-0 after two late calamities Samuel Mbangula strikes three in Bologna’s win at Milan Inter returned to the Serie A summit with a nervy 2-0 w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
-      "publishedAt": "2026-10-28T20:34:23.000Z",
-      "category": "issue",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Inter",
-        "Milan"
       ]
     },
     {
@@ -334,29 +456,17 @@
       ]
     },
     {
-      "id": "44472986aae3e6",
-      "title": "Liverpool beat Chelsea in shoot-out - quarter-final draw coming up LIVE!",
-      "summary": "Liverpool beat Chelsea in shoot-out - quarter-final draw coming up LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-chelsea/live/578612",
-      "publishedAt": "2026-10-28T17:00:00.000Z",
-      "category": "transfer",
+      "id": "2e8a6c3c8c8827",
+      "title": "‘This isn’t supposed to happen’: giant-slaying Fleetwood revels in fairytale Arsenal win",
+      "summary": "Fishing town in disbelief the morning after its footballing minnows beat mighty Arsenal on penalties On a wet and windy night on the north-west coast of England, a Leag...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
+      "publishedAt": "2026-10-28T16:52:23.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "429a896be5496a",
-      "title": "WCL: Russo completes hat-trick as Arsenal beat Benfica LIVE!",
-      "summary": "WCL: Russo completes hat-trick as Arsenal beat Benfica LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-women-vs-benfica-women/live/578250",
-      "publishedAt": "2026-10-28T17:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
+        "Football",
+        "Premier League",
         "Arsenal"
       ]
     },
@@ -371,6 +481,20 @@
       "region": "england",
       "tags": [
         "Arsenal"
+      ]
+    },
+    {
+      "id": "84f71c63318ce3",
+      "title": "Liverpool draw Bournemouth in Carabao Cup quarters",
+      "summary": "Liverpool will play Bournemouth in the Carabao Cup quarter-finals while League One Bradford City will host Manchester City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13604920/carabao-cup-quarter-final-draw-liverpool-host-bournemouth-as-bradford-and-fleetwood-get-home-ties-against-premier-league-opposition",
+      "publishedAt": "2026-10-28T16:11:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
       ]
     },
     {
@@ -466,127 +590,6 @@
         "Chelsea",
         "Real Madrid",
         "Inter"
-      ]
-    },
-    {
-      "id": "862efda9f61fe7",
-      "title": "Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced",
-      "summary": "Teenager was maybe harshly sent off in the Carabao Cup tie but his reaction was a mistake he will learn from, while his manager might also have regrets Mikel Arteta’s r...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
-      "publishedAt": "2026-10-28T13:16:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "39ac0c4e32dc42",
-      "title": "Man Utd: ‘Inevitable’ that ‘disgrace’ Jason Wilcox will be sacked if he fires Michael Carrick",
-      "summary": "Man Utd director of football Jason Wilcox is reportedly likely to lose his job if the Red Devils decide to fire Michael Carrick this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-jason-wilcox-disagrace-sacked-michael-carrick-fired",
-      "publishedAt": "2026-10-28T13:04:39.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "deb7559203eb17",
-      "title": "Fernandes tells Carrick he is committed to turning season around in clear-the-air talks",
-      "summary": "Manchester United captain expected to return to lineup Squad have positive meeting with under-pressure coach Michael Carrick and Bruno Fernandes held clear-the-air talk...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/bruno-fernandes-michael-carrick-clear-the-air-talks-manchester-united",
-      "publishedAt": "2026-10-28T12:47:26.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c9209c67184d9b",
-      "title": "West Ham’s Viviane Asseyi: ‘When I was four I said I wanted to be like Zidane’",
-      "summary": "French forward on how the 1998 World Cup inspired her football dream, her Gabonese background and finding a new family in east London On Saturday, once West Ham’s Vivia...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/28/west-ham-women-viviane-asseyi-zidane-wsl",
-      "publishedAt": "2026-10-28T12:26:55.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "f66b048d7dddd6",
-      "title": "Mikel Arteta reaction to Fleetwood defeat ‘sums up’ Arsenal boss in shock absence of ‘true colours’",
-      "summary": "Arsenal’s miserable evening in Fleetwood hit new lows when it was revealed Mikel Arteta’s reaction didn’t even show any true colours.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mikel-arteta-fleetwood-reaction-sums-up-arsenal-boss-mediawatch",
-      "publishedAt": "2026-10-28T12:23:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e3469e6e4b17df",
-      "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-      "summary": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\".",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T12:13:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6f40eb65b7a4f3",
-      "title": "Liverpool enter bidding war for Van Dijk replacement with captain on course to leave",
-      "summary": "Liverpool have entered the bidding to sign Stuttgart centre-back Finn Jeltsch as a replacement for Virgil van Dijk, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-enter-bidding-war-jeltsch-stuttgart-van-dijk-exit",
-      "publishedAt": "2026-10-28T12:12:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "941358f36b2691",
-      "title": "Man Utd: Wilcox ‘failure’ which forced Carrick stay as ‘senior figure’ teases Ratcliffe ‘overhaul’ of executives",
-      "summary": "Michael Carrick has been granted what we are contractually obliged to refer to as a ‘stay of execution’ as Manchester United coach. But why?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/wilcox-failure-forced-carrick-stay-ratcliffe-overhaul-executives",
-      "publishedAt": "2026-10-28T12:01:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a360ecddf6123b",
-      "title": "Man Utd remain in open communication with Nagelsmann after talks to replace Carrick",
-      "summary": "Manchester United are said to remain in communication with Julian Nagelsmann after they spoke to him about the potential of taking over from Michael Carrick as manager.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-communications-julian-nagelsmann-michael-carrick",
-      "publishedAt": "2026-10-28T11:56:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
