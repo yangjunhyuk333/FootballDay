@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:35:52.031Z",
+  "generatedAt": "2026-10-30T05:04:47.787Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,9 +99,55 @@
       "pinned": true
     },
     {
+      "id": "470f1dd77707c8",
+      "title": "Premier League: 10 things to look out for this weekend",
+      "summary": "Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improving Premier League top scorers Michael Carrick and Bruno F...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
+      "publishedAt": "2026-10-30T00:01:38.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "267dd33d91b2e0",
+      "title": "PSG score late to hold struggling Man City",
+      "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T22:40:17.000Z",
+      "category": "ucl",
+      "region": "england france",
+      "tags": [
+        "Champions League",
+        "Manchester",
+        "Psg"
+      ]
+    },
+    {
+      "id": "c0643406204348",
+      "title": "Papers: Chelsea, Arsenal and Man Utd eye Como defender",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13605595/chelsea-arsenal-and-man-utd-eye-como-defender-paper-talk",
+      "publishedAt": "2026-10-29T22:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
       "id": "dc3e23dd656f1d",
-      "title": "Elimbi Gilbert snatches PSG point to leave Manchester City WCL hopes in balance",
-      "summary": "Manchester City’s hopes of securing a top-four spot in the Women’s Champions League are looking increasingly slim after a third successive draw dragged out their wait f...",
+      "title": "PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes",
+      "summary": "You cannot miss half a dozen big chances at Women’s Champions League level and expect to get away with it. That is the harsh lesson Manchester City learnt on Thursday a...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
       "publishedAt": "2026-10-29T22:14:01.000Z",
@@ -312,21 +358,6 @@
       ]
     },
     {
-      "id": "8a5908afbb4d1c",
-      "title": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Football Daily isn’t suggesting standards at Chelsea have slipped in recent years, but the quality of their players...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
-      "publishedAt": "2026-10-29T15:58:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
       "id": "11b8a9dedddcde",
       "title": "Arsenal: Arteta ‘pushes’ £75m title winner to leave as star ‘accepts’ Real Madrid negotiations",
       "summary": "Arsenal head coach Mikel Arteta is looking to push Martin Zubimendi towards a move to Real Madrid, according to reports.",
@@ -338,19 +369,6 @@
       "tags": [
         "Arsenal",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "d0f23e64b084e9",
-      "title": "Arsenal fail with appeal against Dowman's red card",
-      "summary": "Arsenal have failed in their appeal against Max Dowman's red card in the defeat to League Two Fleetwood Town.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
-      "publishedAt": "2026-10-29T14:50:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     },
     {
@@ -465,21 +483,6 @@
       ]
     },
     {
-      "id": "9ecae1ce6eea4f",
-      "title": "Mussolini’s first Serie A goal marks high-flying Lazio’s thrashing of Sassuolo | Nicky Bandini",
-      "summary": "Home crowds have plummeted amid a dispute with the owner, but 10,000 travelled 300km to see Tuesday’s 6-2 win Serie A had its second scoreless draw of the season on Wed...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/blog/2026/oct/29/serie-a-lazio-sassuolo-romano-floriani-mussolini-gennaro-gattuso",
-      "publishedAt": "2026-10-29T12:52:33.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Milan"
-      ]
-    },
-    {
       "id": "95fcd93a6fd122",
       "title": "Why is there only one Premier League match on Sunday?",
       "summary": "BBC Sport's Ask Me Anything team explains where is no 14:00 GMT kick-off on Sunday in the Premier League this weekend.",
@@ -573,19 +576,6 @@
       ]
     },
     {
-      "id": "a0923c00d420bd",
-      "title": "McDermott: England face 'unique task' to progress and can't get distracted",
-      "summary": "Brian McDermott has warned his England side not to chase the points as they look to keep their slim Rugby League World Cup hopes alive with a big win against Papua New...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13605180/rugby-league-world-cup-englands-brian-mcdermott-admits-side-face-unique-task-to-progress-and-cant-get-distracted",
-      "publishedAt": "2026-10-29T11:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "29194d2b661a59",
       "title": "Neville insists Glazers now ‘have to sell’ Man Utd after two ‘triggers’ for sale revealed",
       "summary": "Gary Neville insists the Glazers “have to sell” Manchester United in a furious rant after a report revealed two ‘sale triggers’.",
@@ -596,6 +586,20 @@
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "c69f5173b48a16",
+      "title": "Liverpool forwards ‘stink the place up’ but Reds still ‘quietly impressive’",
+      "summary": "Liverpool beat Chelsea in the Carabao Cup but the victory was despite Florian Wirtz and co. Trey Nyoni was good, mind.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-forwards-stink-place-up-mailbox",
+      "publishedAt": "2026-10-29T09:40:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
       ]
     }
   ],
