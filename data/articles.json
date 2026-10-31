@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:56:21.319Z",
+  "generatedAt": "2026-10-31T17:09:31.750Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,25 +99,12 @@
       "pinned": true
     },
     {
-      "id": "5ba3b263b61bb3",
-      "title": "Man Utd: Romano reveals Barcelona decision on selling Fermin to Red Devils",
-      "summary": "Fabrizio Romano has revealed Barcelona’s stance on selling Fermin Lopez to Man Utd amid reports linking the Spaniard with a move to Old Trafford.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-romano-barcelona-decision-selling-fermin-lopez",
-      "publishedAt": "2026-10-31T11:48:54.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "8e58060bf08f69",
-      "title": "Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live",
-      "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail Billy Here is the article in question and a snippet of Andy’s stat ac...",
+      "id": "c9e7f5e845d53e",
+      "title": "Manchester City v Brighton, Bournemouth v Leeds, and more: clockwatch - live",
+      "summary": "⚽ Clockwatch updates on the Saturday 3pm GMT kick-offs ⚽ Chelsea 2-0 Man Utd | Live scores | Table | Mail Tom Nottingham Forest are a strange proposition. Lots of quali...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
-      "publishedAt": "2026-10-31T11:33:57.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
+      "publishedAt": "2026-10-31T16:55:01.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -128,19 +115,265 @@
       ]
     },
     {
-      "id": "05fad3115699f8",
-      "title": "Chelsea v Manchester United: Premier League – live",
-      "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London ⚽ Football Daily | Goalscorers | Live Scores | Email Scott Both teams welcome back a fan favourite. Estevao starts...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-      "publishedAt": "2026-10-31T11:33:29.000Z",
+      "id": "c7d05cc35b855c",
+      "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+      "summary": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T16:38:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "71e9183ddc9e2b",
+      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
+      "summary": "Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T16:34:42.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "889bb4a73e918d",
+      "title": "Bayern Munich vs Dortmund team news as Kane starts LIVE!",
+      "summary": "Bayern Munich vs Dortmund team news as Kane starts LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bayern-munich-vs-borussia-dortmund/live/563377",
+      "publishedAt": "2026-10-31T16:15:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "8c29c05cad5eff",
+      "title": "Man Utd make it 10 games unbeaten in goalless draw at Everton",
+      "summary": "Manchester United extended their unbeaten run to 10 matches in all competitions but they failed to fire in a 0-0 Women's Super League draw at Everton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/everton-women-vs-manchester-united-women/report/575804",
+      "publishedAt": "2026-10-31T15:29:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a50af682ae4be3",
+      "title": "Alonso praises Estevao response to lack of gametime",
+      "summary": "Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T15:20:53.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
         "Premier League",
         "Chelsea",
         "Manchester"
+      ]
+    },
+    {
+      "id": "63e0efd6982d5d",
+      "title": "Carrick bemoans Man Utd defending in Chelsea loss",
+      "summary": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Pre...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T15:13:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2d4d181906b23f",
+      "title": "Manchester United miss chance to close on WSL top three in drab draw at Everton",
+      "summary": "A group of well-choreographed, fancy-dress-wearing school-age dancers fully embraced the Halloween spirit on Saturday as they boogied to one of Michael Jackson’s greate...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/31/everton-manchester-united-wsl-match-report",
+      "publishedAt": "2026-10-31T14:59:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c86766aad6f24a",
+      "title": "Man Utd: Cole suggests Red Devils man will never play for club again – ‘I think that’s his time done’",
+      "summary": "Joe Cole thinks Lisandro Martinez’s time at Man Utd is “done” after he was sent off in the Red Devils’ 2-0 loss to Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-cole-martinez-never-play-again-done-chelsea",
+      "publishedAt": "2026-10-31T14:53:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3817f309330361",
+      "title": "Man Utd crumble once again after Morgan Rogers scores a straight-line worldie",
+      "summary": "United shaded the first half, but their response to Chelsea’s opener will ultimately cost Carrick his job.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-crumble-once-again-after-morgan-rogers-scores-a-straight-line-worldie",
+      "publishedAt": "2026-10-31T14:47:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "485c21312bbdc7",
+      "title": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
+      "summary": "Get ready for another week of agonising over the sorry state of Manchester United. The legends of old will rage on podcasts, clips of a fuming Gary Neville will fly aro...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
+      "publishedAt": "2026-10-31T14:42:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "432fd43bba3dc1",
+      "title": "Worst run for 42 years but Carrick not expecting Man Utd sack before Roma",
+      "summary": "Michael Carrick expects to remain in charge of Manchester United despite the 2-0 defeat at Chelsea confirming the club's worst winless run for 42 years.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13606140/man-utd-boss-michael-carrick-expects-to-remain-in-charge-vs-roma-despite-winless-run-stretching-to-nine-matches",
+      "publishedAt": "2026-10-31T14:42:00.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "45f8ecfa800857",
+      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+      "summary": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T14:35:50.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8aa75a280638cb",
+      "title": "Man Utd: Carrick to be ‘sacked immediately’ with INEOS now ‘convinced’ by replacement",
+      "summary": "Man Utd have identified their top two targets to replace Michael Carrick as manager, according to reports, after they lost Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-carrick-sacked-immediately-nagelsmann-convinced-board",
+      "publishedAt": "2026-10-31T14:32:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a209e96b76cf98",
+      "title": "Jamie Carragher apologises to Aston Villa for ‘clumsy and wrong’ comments",
+      "summary": "Villa threatened legal action over ‘unacceptable insults’ Carragher said club will ‘never be Manchester United’ Jamie Carragher has apologised to Aston Villa for using...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
+      "publishedAt": "2026-10-31T13:56:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2536cc745d3a78",
+      "title": "Carragher apologises to Villa for 'wrong' language",
+      "summary": "Jamie Carragher apologises for \"clumsy and wrong\" language when linking manager Unai Emery with becoming Manchester United head coach, after Aston Villa threatened to s...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T13:51:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "56bde367ac1fec",
+      "title": "Liverpool legend Carragher apologises to Aston Villa fans after legal action threat",
+      "summary": "Liverpool legend Jamie Carragher has apologised to Aston Villa fans and the club’s owner for using “clumsy and wrong” language.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-legend-carragher-apologises-to-aston-villa-fans-after-legal-action-threat",
+      "publishedAt": "2026-10-31T13:48:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1a53935248995c",
+      "title": "Martinez sent off as Man Utd implode against Chelsea",
+      "summary": "Lisandro Martinez was sent off as Manchester United sank to a 2-0 loss at Chelsea to plunge Michael Carrick further into trouble.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-vs-manchester-united/report/559527",
+      "publishedAt": "2026-10-31T13:28:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "87adfb6d6a6434",
+      "title": "Liverpool star wants Premier League transfer despite interest from two Serie A clubs",
+      "summary": "Liverpool winger Federico Chiesa would like to remain in the Premier League if he leaves Anfield in January, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-chiesa-premier-league-transfer-serie-a-interest",
+      "publishedAt": "2026-10-31T12:57:48.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Serie A",
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5ba3b263b61bb3",
+      "title": "Man Utd: Romano reveals Barcelona decision on selling Fermin to Red Devils",
+      "summary": "Fabrizio Romano has revealed Barcelona’s stance on selling Fermin Lopez to Man Utd amid reports linking the Spaniard with a move to Old Trafford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-romano-barcelona-decision-selling-fermin-lopez",
+      "publishedAt": "2026-10-31T11:48:54.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Barcelona"
       ]
     },
     {
@@ -171,19 +404,6 @@
       ]
     },
     {
-      "id": "6666a148d33b00",
-      "title": "Fernandes restored to Man Utd line-up as Estevao starts for Chelsea LIVE!",
-      "summary": "Fernandes restored to Man Utd line-up as Estevao starts for Chelsea LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-manchester-united/live/559527",
-      "publishedAt": "2026-10-31T10:35:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
       "id": "6b8c82cb2e34fc",
       "title": "Chelsea: Alonso sack verdict revealed as Shearer predicts major Carrick blow",
       "summary": "Pressure will build “quite quickly” for Chelsea head coach Xabi Alonso if he doesn’t start winning more matches soon, according to reports.",
@@ -194,19 +414,6 @@
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "84c91d9fdf9fc6",
-      "title": "Listen: Shearer on MOTD, managerial jobs & scoring record",
-      "summary": "Kelly Somers speaks to former Premier League striker and pundit Alan Shearer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T10:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -368,32 +575,6 @@
       ]
     },
     {
-      "id": "c843e85753b3d1",
-      "title": "Papers: Martinez seeking summer Man Utd departure",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13605928/lisandro-martinez-wants-to-leave-man-utd-in-the-summer-with-atletico-madrid-interested-paper-talk",
-      "publishedAt": "2026-10-30T22:17:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "80ac341af52396",
-      "title": "Sherrock wins leg to beat Littler and claim £501,000 prize",
-      "summary": "Fallon Sherrock did indeed beat Luke Littler at the live 'Beat Luke Littler' event in Manchester, winning a prize of £501,000.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13605916/beat-luke-littler-fallon-sherrock-wins-one-off-leg-to-defeat-the-nuke-and-take-501000-prize",
-      "publishedAt": "2026-10-30T21:55:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "5d534108c0d393",
       "title": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
       "summary": "Bets predicted exact top-five men’s finishing order Organiser France Football has contacted police A series of suspicious bets that correctly predicted the exact top-fi...",
@@ -419,190 +600,6 @@
         "Football",
         "Arsenal",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "ac473365f8b7db",
-      "title": "How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay",
-      "summary": "Club’s predicament raises interesting questions about principles, both for individuals and the Premier League I felt unbelievably ponderous. My head was made of Aztec s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league",
-      "publishedAt": "2026-10-30T20:00:22.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "9652d311b182a0",
-      "title": "Romano reveals Man Utd top target to replace Carrick in ‘crucial’ sack update – ‘a manager they love’",
-      "summary": "Fabrizio Romano has revealed Manchester United’s leading manager target to replace current boss Michael Carrick and the chances of an appointment.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-reveals-man-utd-top-manager-target-replace-carrick-chances-appointment",
-      "publishedAt": "2026-10-30T19:39:02.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a37584ce36310a",
-      "title": "Man City FFP: Huge two-part punishment deemed too ‘excessive’ as ‘expected’ sanction revealed",
-      "summary": "A football finance expert has warned against an “excessive” two-part sanction for Manchester City after the guilty FFP verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-huge-two-part-punishment-too-excessive-expected-sanction-revealed",
-      "publishedAt": "2026-10-30T19:07:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7f6a23e3fe3e72",
-      "title": "Liverpool v Arsenal: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Liverpool and Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/liverpool-v-arsenal-prediction-preview",
-      "publishedAt": "2026-10-30T17:56:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "6d3de34e7ecd5f",
-      "title": "Man Utd: Ben Jacobs reveals huge takeover update as Glazer family now to sell club on one condition",
-      "summary": "Journalist Ben Jacobs has revealed an update on a potential Manchester United takeover, with the Glazer family to sell the club on one condition.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-takeover-ben-jacobs-reveals-update-glazer-family-now-sell-club-one-condition",
-      "publishedAt": "2026-10-30T17:33:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6cc2489bdddb42",
-      "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-      "summary": "The Africa Cup of Nations will remain on a two-year cycle after the Confederation of African Football performed a U-turn on a decision taken last December.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T17:33:02.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "116e6573ba60fd",
-      "title": "Aston Villa v Fulham: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Aston Villa and Fulham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/aston-villa-v-fulham-prediction-preview",
-      "publishedAt": "2026-10-30T17:20:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "26e8f74cbb460c",
-      "title": "Arsenal will sell Martin Odegaard on one condition as he reaches verdict on joining Bayern Munich",
-      "summary": "According to reports, Arsenal will sell captain Martin Odegaard on one condition as he is attracting interest from Bayern Munich.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-will-sell-martin-odegaard-one-condition-reaches-verdict-joining-bayern-munich",
-      "publishedAt": "2026-10-30T17:04:28.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Arsenal",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f1aad6a94aace1",
-      "title": "Grealish could have been Everton’s poster boy of a new era. Now his career is in limbo",
-      "summary": "After being dropped for ‘a breach of club discipline’, the winger must face the same questions about respect and self-awareness For the biggest game in Manchester City’...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/jack-grealish-dropped-disclipline-everton-newcastle-carabao-cup-david-moyes",
-      "publishedAt": "2026-10-30T16:50:09.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "77b446537eaba1",
-      "title": "What Howe could bring to Man Utd - and what are the challenges?",
-      "summary": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T16:27:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "73d80446020714",
-      "title": "Fears Chelsea's Lacroix could be out until January",
-      "summary": "Chelsea fear Maxence Lacroix will have a lengthy lay-off having suffered a serious hamstring injury.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgkpexjzneo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T16:21:10.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "b8c45a424baec0",
-      "title": "Premier League team news: predicted lineups for the weekend action",
-      "summary": "Chelsea take on Michael Carrick’s Manchester United on Saturday while Liverpool host Arsenal on Sunday Saturday 12.30pm TNT Sports 1 Venue Stamford Bridge Continue read...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "publishedAt": "2026-10-30T16:19:26.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "607792aead2594",
-      "title": "Putellas provides mindset change as London City bid to upstage champions",
-      "summary": "Ballon d’Or winner’s move to WSL has transformed the Lionesses on and off the pitch with belief soaring ahead of Manchester City clash As Martin Semmens, the London Cit...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/alexia-putellas-london-city-lionesses-manchester-city-womens-super-league",
-      "publishedAt": "2026-10-30T16:16:24.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
       ]
     }
   ],
