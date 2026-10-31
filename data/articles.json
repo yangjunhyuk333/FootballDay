@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T22:04:59.530Z",
+  "generatedAt": "2026-10-31T04:51:53.485Z",
   "windowDays": 7,
   "articles": [
     {
@@ -97,6 +97,65 @@
         "Top 5 leagues"
       ],
       "pinned": true
+    },
+    {
+      "id": "eb5891319d92cc",
+      "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+      "summary": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side, Arsenal eye Club Brugge striker Nicolo Tresoldi, plus...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T23:08:16.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "La Liga",
+        "Arsenal",
+        "Manchester",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "c000301cfd171d",
+      "title": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
+      "summary": "‘No discussions about that … Everyone has to be ready’ Brazilian has started only twice in 11 games this season Xabi Alonso has ruled out a January move for Estêvão Wil...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
+      "publishedAt": "2026-10-30T22:30:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4ebfc0249ce070",
+      "title": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
+      "summary": "Head coach reflects on ‘not always rosy’ conversations Players ‘hurting’ after eight games without a win Michael Carrick said he has had difficult conversations with th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united",
+      "publishedAt": "2026-10-30T22:30:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c843e85753b3d1",
+      "title": "Papers: Martinez seeking summer Man Utd departure",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13605928/lisandro-martinez-wants-to-leave-man-utd-in-the-summer-with-atletico-madrid-interested-paper-talk",
+      "publishedAt": "2026-10-30T22:17:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
     },
     {
       "id": "80ac341af52396",
@@ -249,46 +308,6 @@
         "Arsenal",
         "Bayern",
         "Inter"
-      ]
-    },
-    {
-      "id": "1bb77a47c1ca45",
-      "title": "Bompastor: WSL rivals are too strong to allow Chelsea squad rotation",
-      "summary": "Bompastor: WSL rivals are too strong to allow Chelsea squad rotation",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "1a7dbfb8e7a80e",
-      "title": "Carrick's last chance? The fixes Man Utd may need at Chelsea",
-      "summary": "You would be forgiven for wondering how much longer Michael Carrick will remain in the Manchester United dugout.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13605448/michael-carrick-what-man-utd-boss-could-change-for-saturdays-premier-league-game-at-chelsea",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: The more we win, the better we'll become, says Iraola",
-      "summary": "Liverpool latest: The more we win, the better we'll become, says Iraola",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     },
     {
@@ -449,19 +468,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "482c66340cffa2",
-      "title": "Wilkin: Rugby League World Cup format 'fundamentally flawed'",
-      "summary": "Sky Sports' Jon Wilkin believes the Rugby League World Cup format is \"fundamentally flawed\" after England were left on the brink of their first group-stage exit in the...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13605797/rugby-league-world-cup-jon-wilkin-says-tournament-format-is-fundamentally-flawed-as-england-on-brink-of-historic-exit",
-      "publishedAt": "2026-10-30T15:25:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
       ]
     },
     {
