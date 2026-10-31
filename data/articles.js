@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-10-31T17:09:31.750Z",
+  "generatedAt": "2026-10-31T21:14:03.354Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,19 +99,196 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "c9e7f5e845d53e",
-      "title": "Manchester City v Brighton, Bournemouth v Leeds, and more: clockwatch - live",
-      "summary": "⚽ Clockwatch updates on the Saturday 3pm GMT kick-offs ⚽ Chelsea 2-0 Man Utd | Live scores | Table | Mail Tom Nottingham Forest are a strange proposition. Lots of quali...",
+      "id": "f8e516f210aa78",
+      "title": "Verbruggen spreads belief as impressive Brighton beat Man City",
+      "summary": "Goalkeeper Bart Verbruggen was the man of the moment on Saturday afternoon as he produced an impressive individual display to help Brighton beat Manchester City",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T20:36:26.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2436b6aa66154c",
+      "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
+      "summary": "Bayern Munich held to 2-2 draw after Silva equaliser Atlético Madrid go top of La Liga after win over Levante The Ballon d’Or winner Harry Kane missed a penalty and hit...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
-      "publishedAt": "2026-10-31T16:55:01.000Z",
+      "url": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
+      "publishedAt": "2026-10-31T20:06:46.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "bd985cffc9749c",
+      "title": "Palace must be demoted for Manchester United reprieve as Mateta argues that Sage is invalid",
+      "summary": "Crystal Palace are in deep trouble, and Pierre Sage might justifiably point out that the daftness of Jean-Philippe Mateta does not help.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/palace-demoted-manchester-united-reprieve-mateta-sage-invalid",
+      "publishedAt": "2026-10-31T20:06:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d93fb2883224c5",
+      "title": "Sunderland's paradox - San Siro trip amid relegation battle",
+      "summary": "Sunderland were last season's surprise package in the Premier League, but this time they are struggling after Coventry handed them their sixth defeat.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T20:03:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ecfe651f6308ba",
+      "title": "If Mikel Arteta’s dossier is part of a deliberate strategy, it is a dangerous one for Arsenal | Jonathan Wilson",
+      "summary": "The manager is not yet in Alex Ferguson and José Mourinho’s league, but his conspiracy theories have reached new levels English football loves the word “dossier”. It do...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/31/mikel-arteta-dossier-arsenal-everton-premier-league",
+      "publishedAt": "2026-10-31T20:00:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "977d6127655d78",
+      "title": "Kane misses penalty as Silva snatches Dortmund draw in Der Klassiker",
+      "summary": "Harry Kane missed a penalty for Bayern Munich and was punished by Fabio Silva’s late equaliser as Borussia Dortmund earned a 2-2 draw in Der Klassiker.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/bayern-munich-vs-borussia-dortmund/report/563377",
+      "publishedAt": "2026-10-31T19:30:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "2bca862f889b67",
+      "title": "Maresca's big test is to address mounting Man City issues",
+      "summary": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T19:05:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "29b40b0264d569",
+      "title": "Man Utd held to goalless draw at Everton",
+      "summary": "Watch highlights as Manchester United make it 10 matches unbeaten in all competitions, but were held by Everton to a drab goalless draw at Goodison Park.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5vgj1gx3r77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T18:55:36.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f3a7933d55e66",
+      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
+      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
+      "publishedAt": "2026-10-31T18:50:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "68c59b011f08e2",
+      "title": "Chelsea top scorers against the Big Six: Palmer has more than rest of squad combined",
+      "summary": "Cole Palmer has scored at least one Premier League goal against every member of the Big Six, and can beat the rest of the squad combined.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-top-scorers-premier-league-big-six-games-hazard-alonso",
+      "publishedAt": "2026-10-31T18:38:20.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "f0a2ed0f2b02d5",
+      "title": "Le Bris shrugs off questions on Sunderland future",
+      "summary": "Sunderland manager Regis Le Bris says he is more focused on \"finding solutions\" than his job security after losing 3-1 to Coventry in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm9dz2yy1225o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T18:08:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "52ad3f57c44611",
+      "title": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
+      "summary": "Michael Carrick is now a little more pre-doomed, pre-sacked, but is miles away from being the actual story On and on and on. And then on just a little bit more it would...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
+      "publishedAt": "2026-10-31T17:54:19.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
         "Chelsea",
         "Manchester"
+      ]
+    },
+    {
+      "id": "683059f62faf5f",
+      "title": "16 Conclusions from Chelsea 2-0 Manchester United, and the end of ‘absolute disgrace’ Martinez",
+      "summary": "Lisandro Martinez embarrassed himself and pushed Michael Carrick closer to the brink at Manchester United after defeat to Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/16-conclusions-chelsea-manchester-united-martinez-carrick-disgrace",
+      "publishedAt": "2026-10-31T17:50:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "51ad1ae3e9dc3e",
+      "title": "'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row",
+      "summary": "Real Madrid head coach Jose Mourinho says the \"best thing is to keep your mouth shut\" but backs Kylian Mbappe following reaction to his Mao Zedong remark.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T17:40:41.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
       ]
     },
     {
@@ -120,10 +297,69 @@ window.FOOTBALLDAY_DATA = {
       "summary": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T16:38:15.000Z",
+      "publishedAt": "2026-10-31T17:27:06.000Z",
       "category": "league",
       "region": "england",
       "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a0c2b60e3850a8",
+      "title": "Le Bris reaches Sunderland endgame, Man City suffer Brighton payback and Leeds lose ground",
+      "summary": "Saturday’s 3pm kick-offs saw disappointment at the top and bottom of the Premier League table amid a Bermuda Triangle hat-trick worth a combined 5-0.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-le-bris-sunderland-endgame-man-city-brighton-payback",
+      "publishedAt": "2026-10-31T17:24:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "b2d5e682629422",
+      "title": "Chelsea capitalise on second-half implosion to defeat 10-man Man Utd",
+      "summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
+      "publishedAt": "2026-10-31T17:15:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3e1e64a534e38e",
+      "title": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
+      "summary": "Manchester City have lost two consecutive league games, but no alarm should be sounded. Enzo Maresca’s fast-passing team were defeated on Saturday because Yasin Ayari t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
+      "publishedAt": "2026-10-31T16:59:12.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "403fc7259e5442",
+      "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
+      "summary": "Defeat against Chelsea extends winless run to nine games Carrick clinging on to job after club’s worst run since 1988 Michael Carrick insisted he would still be in char...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
+      "publishedAt": "2026-10-31T16:43:37.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Champions League",
         "Chelsea",
         "Manchester"
       ]
@@ -139,32 +375,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "889bb4a73e918d",
-      "title": "Bayern Munich vs Dortmund team news as Kane starts LIVE!",
-      "summary": "Bayern Munich vs Dortmund team news as Kane starts LIVE!",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bayern-munich-vs-borussia-dortmund/live/563377",
-      "publishedAt": "2026-10-31T16:15:00.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "8c29c05cad5eff",
-      "title": "Man Utd make it 10 games unbeaten in goalless draw at Everton",
-      "summary": "Manchester United extended their unbeaten run to 10 matches in all competitions but they failed to fire in a 0-0 Women's Super League draw at Everton.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/everton-women-vs-manchester-united-women/report/575804",
-      "publishedAt": "2026-10-31T15:29:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -238,35 +448,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "485c21312bbdc7",
-      "title": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
-      "summary": "Get ready for another week of agonising over the sorry state of Manchester United. The legends of old will rage on podcasts, clips of a fuming Gary Neville will fly aro...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
-      "publishedAt": "2026-10-31T14:42:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "432fd43bba3dc1",
-      "title": "Worst run for 42 years but Carrick not expecting Man Utd sack before Roma",
-      "summary": "Michael Carrick expects to remain in charge of Manchester United despite the 2-0 defeat at Chelsea confirming the club's worst winless run for 42 years.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13606140/man-utd-boss-michael-carrick-expects-to-remain-in-charge-vs-roma-despite-winless-run-stretching-to-nine-matches",
-      "publishedAt": "2026-10-31T14:42:00.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
       "id": "45f8ecfa800857",
       "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
       "summary": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
@@ -331,20 +512,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "1a53935248995c",
-      "title": "Martinez sent off as Man Utd implode against Chelsea",
-      "summary": "Lisandro Martinez was sent off as Manchester United sank to a 2-0 loss at Chelsea to plunge Michael Carrick further into trouble.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-vs-manchester-united/report/559527",
-      "publishedAt": "2026-10-31T13:28:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
       ]
     },
     {
@@ -429,177 +596,6 @@ window.FOOTBALLDAY_DATA = {
         "Transfer",
         "Liverpool",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "f9077fbce00366",
-      "title": "Aston Villa to sue Liverpool legend Jamie Carragher over ‘unacceptable insults’",
-      "summary": "Aston Villa have said that they will begin legal action against Liverpool legend Jamie Carragher over “unacceptable insults”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-to-sue-liverpool-legend-jamie-carragher-over-unacceptable-insults",
-      "publishedAt": "2026-10-31T08:44:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "2b2795c9cb2117",
-      "title": "Man Utd takeover timeline revealed after two groups reveal their interest in deal with Glazers",
-      "summary": "Man Utd co-owner Sir Jim Ratcliffe could reportedly buy the Glazers out of the Red Devils in 2029 amid interest from other parties.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-takeover-timeline-revealed-ratcliffe-two-groups-buy-glazers",
-      "publishedAt": "2026-10-31T08:23:05.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "cbe3bff92349b3",
-      "title": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
-      "summary": "Iraola’s midfield has rediscovered its aggression and intensity just in time for Sunday’s visit of Arsenal to Anfield Alexis Mac Allister found himself in a strong posi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
-      "publishedAt": "2026-10-31T08:00:36.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6dce2b6cb817db",
-      "title": "Shearer makes major Liverpool Premier League title prediction ahead of crucial Arsenal clash",
-      "summary": "Alan Shearer insists that Liverpool will become Premier League title challengers if they beat Arsenal at Anfield on Sunday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-shearer-major-premier-league-title-prediction",
-      "publishedAt": "2026-10-31T07:38:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a03510a0f3d570",
-      "title": "Should football clubs reward fans for green travel? It feels like a no-brainer",
-      "summary": "Football clubs have spent decades finding new ways to reward loyalty. What about loyalty to the planet next?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/clubs-reward-fans-green-travel",
-      "publishedAt": "2026-10-31T07:11:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "8b06d3f4342ce5",
-      "title": "All-time Premier League table changes include former champions being overtaken as Spurs caught",
-      "summary": "There has been one huge change in the all-time Premier League table, with Spurs looking over their shoulder and Brighton aiming high.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spurs-liverpool-stoke-fall-all-time-premier-league-table",
-      "publishedAt": "2026-10-31T07:11:37.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "37f2466483161e",
-      "title": "AC Milan v Inter and the tale of an iconic image",
-      "summary": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T06:44:38.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "95954d473dfa8c",
-      "title": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
-      "summary": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T06:23:58.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "eb5891319d92cc",
-      "title": "Man Utd target Barcelona's Lopez - Saturday's gossip",
-      "summary": "Manchester United target Barcelona's Fermin Lopez, Lisandro Martinez is attracting interest from the La Liga side, Arsenal eye Club Brugge striker Nicolo Tresoldi, plus...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T23:08:16.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "La Liga",
-        "Arsenal",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "c000301cfd171d",
-      "title": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
-      "summary": "‘No discussions about that … Everyone has to be ready’ Brazilian has started only twice in 11 games this season Xabi Alonso has ruled out a January move for Estêvão Wil...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
-      "publishedAt": "2026-10-30T22:30:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5d534108c0d393",
-      "title": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
-      "summary": "Bets predicted exact top-five men’s finishing order Organiser France Football has contacted police A series of suspicious bets that correctly predicted the exact top-fi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
-      "publishedAt": "2026-10-30T21:12:33.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "7fea4c3bd1ec92",
-      "title": "Arteta can take inspiration from George Graham to expunge painful Anfield memories",
-      "summary": "Arsenal have not won at Liverpool for 13 league games but Gunners’ win in 1989 remains one of club’s greatest nights Mikel Arteta used a Spanish word to describe what i...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool",
-      "publishedAt": "2026-10-30T20:00:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Liverpool"
       ]
     }
   ],
