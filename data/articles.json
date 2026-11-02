@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:51:42.445Z",
+  "generatedAt": "2026-11-02T05:17:20.705Z",
   "windowDays": 7,
   "articles": [
     {
@@ -97,6 +97,138 @@
         "Top 5 leagues"
       ],
       "pinned": true
+    },
+    {
+      "id": "1922e6040b7f91",
+      "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+      "summary": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he wo...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:00:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "0825ee4a36f118",
+      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in th...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:00:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4a64b7ab3aa89b",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timbe...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T00:00:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "cee7de94319430",
+      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
+      "summary": "Bellingham and Diomandé complete 3-0 win over Racing Lazio top Serie A after fighting back to beat Cagliari Kylian Mbappé moved on from a tumultuous week by scoring a p...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
+      "publishedAt": "2026-11-01T23:46:31.000Z",
+      "category": "league",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Real Madrid",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "3e90eae4d5de27",
+      "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+      "summary": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbrugge...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T23:00:21.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Liverpool",
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "cb85a4bfdb6e67",
+      "title": "Defensive 'masterclass' and elite Rice - how Arsenal ended Anfield torment",
+      "summary": "Not since 2012 - when current boss Mikel Arteta was commanding Arsenal's midfield on the pitch - had the Gunners won on Liverpool’s patch. That curse has finally been b...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13606815/arsenals-defensive-masterclass-praised-in-liverpool-win-as-jamie-carragher-salutes-world-class-declan-rice",
+      "publishedAt": "2026-11-01T23:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "db100341b5b366",
+      "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+      "summary": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T22:50:05.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane still holds commanding lead over chasing pack",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-11-01T22:30:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9263396a537062",
+      "title": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
+      "summary": "Manager rues two dismissed penalty claims by referee Iraola complains ‘if you don’t go down, you don’t call it’ Andoni Iraola said he will instruct Liverpool players to...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
+      "publishedAt": "2026-11-01T21:25:01.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool",
+        "Inter"
+      ]
     },
     {
       "id": "1f97d7225c5e03",
@@ -285,22 +417,6 @@
       ]
     },
     {
-      "id": "9f0f4249f18ea1",
-      "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
-      "summary": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they ­accumulated over the course of last season. They headed back to London...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
-      "publishedAt": "2026-11-01T18:44:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
       "id": "bf46b52585b153",
       "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
       "summary": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
@@ -331,21 +447,6 @@
       ]
     },
     {
-      "id": "b10a66686540ed",
-      "title": "Arsenal triumphant in long-awaited Anfield victory",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Liverpool and Arsenal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13606781/liverpool-0-1-arsenal-premier-league-highlights",
-      "publishedAt": "2026-11-01T18:34:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
       "id": "02936383c4bcc8",
       "title": "Arsenal win at Anfield for first time in 14 years to move top",
       "summary": "Arsenal won at Anfield for the first time in 14 years after Kai Havertz's strike sealed a gritty 1-0 victory - but Liverpool were denied what looked to be a clear penal...",
@@ -373,35 +474,6 @@
         "Premier League",
         "Manchester",
         "Inter"
-      ]
-    },
-    {
-      "id": "cee7de94319430",
-      "title": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
-      "summary": "Bellingham and Diomandé complete 3-0 win over Racing Lazio top Serie A after fighting back to beat Cagliari Kylian Mbappé moved on from a tumultuous week by scoring a p...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
-      "publishedAt": "2026-11-01T17:55:23.000Z",
-      "category": "league",
-      "region": "spain italy germany",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Real Madrid",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "65047818287827",
-      "title": "Chelsea flex title-winning credentials but Man City following closely",
-      "summary": "Chelsea flex title-winning credentials but Man City following closely",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13606734/wsl-talking-points-chelsea-flex-title-winning-credentials-with-dominant-win-at-charlton-but-man-city-are-keeping-up",
-      "publishedAt": "2026-11-01T17:55:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     },
     {
@@ -442,19 +514,6 @@
       "tags": [
         "Transfer",
         "Manchester"
-      ]
-    },
-    {
-      "id": "e6fe0ba1ad2a56",
-      "title": "Laopakdee earns major invites after winning Asia-Pacific Amateur Championship",
-      "summary": "Highlights from day four of the Asia-Pacific Amateur Championship as Fifa Laopakdee triumphed to earn invites to the Masters and Open Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13606752/asia-pacific-amateur-championship-day-four-highlights",
-      "publishedAt": "2026-11-01T17:21:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
       ]
     },
     {
@@ -548,60 +607,6 @@
       "tags": [
         "Champions League",
         "Manchester"
-      ]
-    },
-    {
-      "id": "6b337c3ed03429",
-      "title": "Man Utd: Solskjaer makes huge claim on ‘devil’ Carrick as he reveals ‘offer’ for Old Trafford return",
-      "summary": "Club legend Ole Gunnar Solskjaer has delivered a verdict on Manchester United head coach Michael Carrick after he made an ‘offer’ to return.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-solskjaer-huge-claim-devil-carrick-reveals-offer-old-trafford-return",
-      "publishedAt": "2026-11-01T14:46:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Carrick remains odds-on favourite in what is now a three-horse race of despair",
-      "summary": "Michael Carrick remains out on his own at the head of the Sack Race as the humiliations continue to mount at home and in Europe.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-11-01T14:40:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "66dec5411c9f58",
-      "title": "Hemp strikes back as Manchester City edge out London City Lionesses in thriller",
-      "summary": "Goals from Khadija Shaw and Lauren Hemp helped Manchester City to escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/01/london-city-lionesses-manchester-city-wsl-match-report",
-      "publishedAt": "2026-11-01T14:13:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0a8d9167a2970d",
-      "title": "Arsenal choose two top targets to replace Viktor Gyokeres as internal verdict on signing Endrick revealed",
-      "summary": "According to reports, Arsenal have two leading striker targets in mind as potential replacements for Viktor Gyokeres.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-top-two-targets-replace-viktor-gyokeres-revealed-endrick-real-madrid",
-      "publishedAt": "2026-11-01T14:13:07.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
       ]
     }
   ],
