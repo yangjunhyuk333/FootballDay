@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T14:01:49.670Z",
+  "generatedAt": "2026-11-04T23:26:19.552Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,370 +99,419 @@
       "pinned": true
     },
     {
-      "id": "8309d31ea48e19",
-      "title": "Huge Leeds transfer boost for Liverpool star as permanent deal in January now possible",
-      "summary": "Leeds have reportedly been given a January transfer boost with news that Valencia are set to terminate Harvey Elliott’s loan from Liverpool.",
+      "id": "0829eaabef8e49",
+      "title": "Champions League prize money table calculated as Liverpool slip further off first place",
+      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/huge-leeds-transfer-boost-for-liverpool-star-as-permanent-deal-in-january-now-possible",
-      "publishedAt": "2026-11-04T13:55:16.000Z",
-      "category": "transfer",
+      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
+      "publishedAt": "2026-11-04T23:11:36.000Z",
+      "category": "ucl",
       "region": "england",
       "tags": [
-        "Transfer",
+        "Champions League",
         "Liverpool"
       ]
     },
     {
-      "id": "df93270f0ff78e",
-      "title": "JJ Gabriel: Ornstein confirms Man Utd starlet’s next destination, exit date with ‘agreement’ now reached",
-      "summary": "Respected reporter David Ornstein has confirmed where JJ Gabriel is going after Manchester United and when his transfer will be completed.",
+      "id": "116cebc47537cc",
+      "title": "Champions League: Como clobber Lens 9-1 after Real Madrid roar back to deny AEK Athens",
+      "summary": "Valverde hits late winner as Madrid win 3-2 in Athens Napoli thrashed by Porto, Club Brugge win at PSV Anastasios Douvikas led the rout with a hat-trick as Como cruised...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
+      "publishedAt": "2026-11-04T23:08:05.000Z",
+      "category": "ucl",
+      "region": "spain italy germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/jj-gabriel-ornstein-confirms-man-utd-starlets-next-destination-exit-date-with-agreement-now-reached",
-      "publishedAt": "2026-11-04T13:53:14.000Z",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-11-04T22:58:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "a583e0cf619861",
+      "title": "Liverpool bottom of running stats as Carrick’s Moyes retort damns Manchester United",
+      "summary": "Michael Carrick cares not for running more at Manchester United, with Liverpool bottom for distance covered of all Premier League teams so far.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-running-stats-distance-covered-sprints",
+      "publishedAt": "2026-11-04T22:55:09.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
+        "Premier League",
+        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "7fa3863bf99c2d",
-      "title": "Man City avoid points deduction, Arteta goes too far, Brighton are Leicester: Six ways Arsenal might not win the league",
-      "summary": "For assorted reasons, it’s hard to see how anyone can sustain a meaningful title challenge against Arsenal this season. That won’t do.",
+      "id": "8a7f397d34f9e7",
+      "title": "Which Arsenal players have scored the most Premier League goals against the Big Six?",
+      "summary": "Kai Havertz has risen to joint second in the current Arsenal squad for Premier League goals scored against fellow Big Six teams.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-avoid-points-deduction-arteta-brighton-arsenal-denied-premier-league-title",
-      "publishedAt": "2026-11-04T13:47:11.000Z",
+      "url": "https://www.football365.com/news/arsenal-top-scorers-games-premier-league-big-six-giroud-sanchez",
+      "publishedAt": "2026-11-04T22:47:45.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ce901e1c03fe75",
+      "title": "Como score nine to make Champions League history",
+      "summary": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:45:45.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "5f3a7933d55e66",
+      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
+      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
+      "publishedAt": "2026-11-04T22:41:26.000Z",
       "category": "transfer",
       "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "129ba970add7e5",
+      "title": "Man City win uncovers new De Bruyne, Man Utd’s next CB and Arsenal’s marquee left winger",
+      "summary": "Man City uncovered their new De Bruyne in a victory over an RB Leipzig team featuring Man Utd’s next centre-back and Arsenal’s marquee left winger.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-man-city-new-de-bruyne-man-utd-next-cb-arsenal-marquee-left-winger",
+      "publishedAt": "2026-11-04T22:39:01.000Z",
+      "category": "transfer",
+      "region": "england germany",
       "tags": [
         "Arsenal"
       ]
     },
     {
-      "id": "60312475303645",
-      "title": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
-      "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Mark Langdon as Manchester United comeback from 2-0 down to beat Roma in the Champions League Continue rea...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
-      "publishedAt": "2026-11-04T13:30:58.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "31590043fce816",
-      "title": "Nadal set to join Real Madrid board of directors",
-      "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
+      "id": "36853e64b9ad62",
+      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T13:21:01.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:38:24.000Z",
       "category": "league",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Riise's thunderbolt revisited 25 years on",
-      "summary": "Liverpool latest: Riise's thunderbolt revisited 25 years on",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-11-04T12:38:00.000Z",
-      "category": "transfer",
       "region": "england",
       "tags": [
         "Liverpool"
       ]
     },
     {
-      "id": "e81f0c6c657f16",
-      "title": "Arsenal: Arteta reaches decision on selling Hincapie, Zubimendi to Barcelona in January",
-      "summary": "Arsenal boss Mikel Arteta has reportedly made a decision on selling Barcelona transfer targets Piero Hincapie and Martin Zubimendi in January.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-reach-decision-selling-hincapie-zubimendi-barcelona-january",
-      "publishedAt": "2026-11-04T12:32:18.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "id": "75b6bd9cf477dd",
+      "title": "Dortmund take narrow win over Real Betis",
+      "summary": "Borussia Dortmund gain a home victory over Real Betis to end the Spanish side's winning run in the Champions League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:31:57.000Z",
+      "category": "ucl",
+      "region": "spain germany",
       "tags": [
-        "Transfer",
-        "Arsenal",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "73369de9e02317",
+      "title": "Gyokeres rescues dreadful Arsenal as Arteta welcomes next season’s Champions League ban",
+      "summary": "Arsenal were ridiculously sloppy and loose in the second half against Sparta Prague, but Viktor Gyokeres had shown up for them beforehand.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gyokeres-rescues-dreadful-arsenal-arteta-welcomes-ban",
+      "publishedAt": "2026-11-04T22:31:10.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "fe5a13fb7200f8",
+      "title": "Haaland scores winner as Man City beat Leipzig",
+      "summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group p...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:15:31.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Champions League",
+        "Uefa",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4d5ebb9fc88602",
+      "title": "Arsenal survive late Slavia scare for hard-fought win",
+      "summary": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fig...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:10:07.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "f51dddfd960b6b",
+      "title": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
+      "summary": "Another European away day, another victory for Arsenal: albeit only just. This time, Viktor Gyökeres stole the show as poor Slavia Prague matched the longest winless st...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
+      "publishedAt": "2026-11-04T22:05:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "25502a943cee36",
+      "title": "Erling Haaland settles thriller for Manchester City to end RB Leipzig resistance",
+      "summary": "Feed Erling Haaland and Manchester City’s totemic No 9 will score. The problem, recently, has been a paucity of openings for him. This was true again before Elliot Ande...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/04/rb-leipzig-manchester-city-champions-league-match-report",
+      "publishedAt": "2026-11-04T22:04:37.000Z",
+      "category": "league",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "62f7e4bd38b7fd",
+      "title": "Liverpool crumble at Kuyt's Fenerbahce",
+      "summary": "Liverpool are defeated by Turkish side Fenerbahce, who twice fought back from behind to seal a famous victory, ending the Reds' perfect start to this year's Champions L...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:04:16.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "25abbca3c83d62",
+      "title": "Valverde stunner earns Real Madrid late win at AEK Athens",
+      "summary": "Real Madrid continue their 100% start to their Champions League campaign with another late win, this time through captain Federico Valverde to inflict Athens' third los...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:04:13.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Champions League",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "8f459d1e8c98d5",
+      "title": "Manchester United beat Roma in epic second-half comeback",
+      "summary": "Manchester United drag themselves up off the canvas to come from two goals down to record a sensational Champions League victory against Roma at Old Trafford.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:04:05.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c06bc323e57798",
+      "title": "Raphinha scores twice as Barcelona beat Aston Villa",
+      "summary": "Barcelona end Aston Villa's perfect Champions League start with an enthralling win at the Spotify Nou Camp.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:04:02.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Champions League",
         "Barcelona"
       ]
     },
     {
-      "id": "cfb55c144d359a",
-      "title": "Trent Alexander-Arnold Liverpool return gets ‘green light’ as Sir Jim Ratcliffe sacks struggling coach",
-      "summary": "With the Manchester United crisis over, new content avenues are required. Trent Alexander-Arnold back to Liverpool it is, then.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/trent-alexander-arnold-liverpool-return-united-boss-sacks-coach-mediawatch",
-      "publishedAt": "2026-11-04T12:14:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6cd1cf4776ea33",
-      "title": "Liverpool deal with £30m midfielder now ‘advanced’ with FSG confident ‘agreement will be reached’",
-      "summary": "According to reports, Liverpool and young midfielder Trey Nyoni are now in ‘advanced’ talks over a new contract at Anfield.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-deal-30m-midfielder-now-advanced-fsg-confident-agreement-reached",
-      "publishedAt": "2026-11-04T12:06:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "cfc3882c88cad3",
-      "title": "Nadal appointed to Real Madrid board",
-      "summary": "Real Madrid have appointed Rafael Nadal to the club's board of directors.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/tennis/news/12040/13607900/real-madrid-rafael-nadal-appointed-to-laliga-clubs-board-of-directors",
-      "publishedAt": "2026-11-04T12:06:00.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "4fc060465518ee",
-      "title": "Mikel Arteta overtakes Jose Mourinho in top 10 Premier League managers list",
-      "summary": "Pep Guardiola’s record as a Premier League manager will probably never be bettered, while Mikel Arteta is closing in on Jurgen Klopp.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-10-all-time-premier-league-managers-guardiola-klopp-ferguson-wenger",
-      "publishedAt": "2026-11-04T12:02:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "6026a2d72b2c86",
-      "title": "Manchester United’s wild win against Roma showed angry fans we care, says Dalot",
-      "summary": "Full-back believes 3-2 win can transform season United were booed off by supporters at half-time Diogo Dalot believes Manchester United’s comeback win against Roma in t...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/04/roma-manchester-united-win-can-transform-season-says-diogo-dalot",
-      "publishedAt": "2026-11-04T12:00:10.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a3893fb9d139a3",
-      "title": "Real Madrid reach verbal agreement to sign Gabriel",
-      "summary": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
+      "id": "9206260f216d01",
+      "title": "Bayern continue unbeaten CL start with win at Atletico",
+      "summary": "Bayern Munich continued their unbeaten start to the Champions League season with an assured 2-0 victory at Atletico Madrid.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:49:23.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:03:54.000Z",
+      "category": "ucl",
+      "region": "spain germany",
       "tags": [
-        "Manchester",
-        "Real Madrid"
+        "Champions League",
+        "Bayern"
       ]
     },
     {
-      "id": "3c1396977e387a",
-      "title": "Man Utd loan move a ‘disaster’ with INEOS to benefit from ‘fine’",
-      "summary": "A loan transfer involving Man Utd has gone so poorly that a report claims a ‘fine’ could end up being paid",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-news-altay-bayindir-failed-loan-move-disaster-celta-vigo-fine",
-      "publishedAt": "2026-11-04T11:14:05.000Z",
-      "category": "transfer",
-      "region": "england",
+      "id": "90b522584b9223",
+      "title": "Spence stars as Inter Milan cruise to win at Feyenoord",
+      "summary": "England full-back Djed Spence staring as Inter Milan bounc back from their derby defeat with a comfortable Champions League victory over Feyenoord.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T22:03:51.000Z",
+      "category": "ucl",
+      "region": "italy",
       "tags": [
-        "Transfer"
+        "Champions League",
+        "Inter",
+        "Milan"
       ]
     },
     {
-      "id": "24a2a0bf5dbb27",
-      "title": "Two Man Utd striker targets prove huge decline as ex-Tottenham star told to snub transfer – ‘stay away’",
-      "summary": "It has been claimed that two Manchester United striker targets “show how far they’ve fallen”, and another player has been told to “stay away”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/two-man-utd-striker-targets-huge-decline-ex-tottenham-star-told-snub-transfer",
-      "publishedAt": "2026-11-04T11:13:35.000Z",
-      "category": "transfer",
+      "id": "7f6bd64dc5e3c9",
+      "title": "'Sloppy' Arsenal survive second-half scare to beat Slavia Prague",
+      "summary": "Arsenal survived a second-half fightback from Slavia Prague to win 2-1 at the Fortuna Arena and continue their unbeaten start to the season in the Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/slavia-prague-vs-arsenal/report/577667",
+      "publishedAt": "2026-11-04T22:00:00.000Z",
+      "category": "ucl",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ceeabf6296a548",
-      "title": "Arsenal: Mikel Arteta admits bizarre habit as he builds another ‘massive library’",
-      "summary": "Arsenal boss Mikel Arteta has revealed that he’s built a “massive library” of clips of other Premier League teams’ players pulling shirts.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-admits-bizarre-habit-build-massive-library",
-      "publishedAt": "2026-11-04T11:13:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
+        "Champions League",
         "Arsenal"
       ]
     },
     {
-      "id": "41a83622935188",
-      "title": "Arsenal: Arteta makes shock Konsa decision ahead of Saliba return in sale hint",
-      "summary": "Arsenal boss Mikel Arteta is reportedly planning to convert Ezri Konsa to a full-back as the Gunners prepare to welcome back William Saliba.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-arteta-shock-konsa-decision-saliba-return-white-sale",
-      "publishedAt": "2026-11-04T11:01:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "28dcb78522fd2d",
-      "title": "'They're not good enough!' - O'Hara's brutal assessment of Man Utd despite Roma win",
-      "summary": "Jamie O'Hara believes that Manchester United have not hit a turning point despite the impressive 3-2 comeback against Roma in the Champions League.",
+      "id": "e4f57d08717000",
+      "title": "Haaland nets Man City winner to haunt RB Leipzig again",
+      "summary": "Erling Haaland haunted RB Leipzig again to earn Manchester City a thrilling 3-2 victory in the Champions League.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13607870/jamie-oharas-brutal-assessment-of-man-utd-despite-roma-win-theyre-not-good-enough",
-      "publishedAt": "2026-11-04T10:41:00.000Z",
+      "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666",
+      "publishedAt": "2026-11-04T22:00:00.000Z",
       "category": "ucl",
-      "region": "england italy",
+      "region": "england germany",
       "tags": [
         "Champions League",
         "Manchester"
       ]
     },
     {
-      "id": "d81a1477a64acd",
-      "title": "Liverpool reach decision on Harvey Elliott’s future with deal set to be ‘terminated’",
-      "summary": "According to reports, Liverpool have already decided whether to give Harvey Elliott another chance while he struggles at La Liga side Valencia.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-reach-decision-harvey-elliotts-future-deal-terminated",
-      "publishedAt": "2026-11-04T10:40:15.000Z",
+      "id": "f784abf5203834",
+      "title": "Emery in line for new Villa deal - Thursday's gossip",
+      "summary": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni to stay with Liverpool and Leeds target Harvey Elliott, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T21:41:04.000Z",
       "category": "transfer",
-      "region": "england spain",
+      "region": "england",
       "tags": [
-        "La Liga",
         "Liverpool"
       ]
     },
     {
-      "id": "1bae3039569b97",
-      "title": "Bournemouth show Villa how to challenge ‘food chain’ without having to sue Jamie Carragher",
-      "summary": "Bournemouth have cracked the code and challenged the established football food chain without having to kick off or threaten legal action.",
+      "id": "294f51efc6a970",
+      "title": "Unai Emery in ‘advanced talks’ after deciding between Man Utd and Aston Villa",
+      "summary": "Unai Emery is in ‘advanced talks’ over a new Aston Villa deal in a huge blow to Manchester United as they seek a replacement for Michael Carrick.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/bournemouth-show-villa-challenge-food-chain-sue-jamie-carragher",
-      "publishedAt": "2026-11-04T10:26:20.000Z",
+      "url": "https://www.football365.com/news/unai-emery-advanced-talks-deciding-man-utd-aston-villa",
+      "publishedAt": "2026-11-04T21:21:13.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Manchester"
       ]
     },
     {
-      "id": "487dfd0b9e9d12",
-      "title": "How Carpenter has become Chelsea's surprise star",
-      "summary": "Ellie Carpenter has become a surprise star for Chelsea this season after a strong start to the Women's Super League campaign.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T09:55:26.000Z",
-      "category": "league",
+      "id": "f49eee9ceaf5f2",
+      "title": "Liverpool star ‘livid’ with ‘awful’ teammate as Reds destroyed for three ‘soft’ goals",
+      "summary": "Liverpool conceded three “soft” goals in their defeat to Fenerbahce on Wednesday and one Reds star was “livid” with his “awful” teammate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-livid-awful-teammate-reds-destroyed-three-soft-goals",
+      "publishedAt": "2026-11-04T20:54:57.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Liverpool"
       ]
     },
     {
-      "id": "b7f37943982307",
-      "title": "West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo",
-      "summary": "Parker takes over team eighth in Championship He has overseen three promotions to Premier League Scott Parker has been confirmed as West Ham’s head coach, taking over f...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-confirm-scott-parker-as-manager",
-      "publishedAt": "2026-11-04T09:30:41.000Z",
-      "category": "league",
+      "id": "d36df4a49a501c",
+      "title": "Alisson and Jacquet pathetic in Liverpool defeat as Nyoni vs Kante battle decided",
+      "summary": "Alisson looked the most past-it footballer on a pitch with a hodge-podge of Premier League Expendables.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-alisson-jacquet-pathetic-liverpool-defeat-nyoni-kante-decided",
+      "publishedAt": "2026-11-04T20:09:49.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League"
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
-      "id": "202a10a5aacfaf",
-      "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-      "summary": "Real Madrid have reached a verbal agreement with 16-year-old JJ Gabriel over a potential move to the Santiago Bernabeu.",
+      "id": "6a846a55b9383d",
+      "title": "Liverpool latest: Iraola bemoans cheap and messy goals in Fenerbahce defeat",
+      "summary": "Liverpool latest: Iraola bemoans cheap and messy goals in Fenerbahce defeat",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-      "publishedAt": "2026-11-04T09:28:00.000Z",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-11-04T20:00:00.000Z",
       "category": "transfer",
-      "region": "spain",
+      "region": "england",
       "tags": [
-        "Real Madrid"
+        "Liverpool"
       ]
     },
     {
-      "id": "49f6c0f1112c5b",
-      "title": "Man Utd striker targets ranked from practically impossible to perfect match",
-      "summary": "We ranked the strikers recently linked with Man Utd and found a straight choice between proven Prem pedigree and a Bundesliga-based hitman…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/striker-linked-with-man-utd-ranked-calvert-lewin-toney-balogun-mateta-guirassy",
-      "publishedAt": "2026-11-04T09:23:05.000Z",
-      "category": "transfer",
-      "region": "germany",
+      "id": "e401eb009e53c3",
+      "title": "Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses",
+      "summary": "Andoni Iraola arrived in Istanbul seeking improvement from Liverpool’s attack but departed with sudden cause for concern at the opposite end of the pitch. Fenerbahce ig...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/04/muriqi-caps-fenerbahce-comeback-to-make-liverpool-pay-for-defensive-lapses",
+      "publishedAt": "2026-11-04T19:58:13.000Z",
+      "category": "ucl",
+      "region": "england italy",
       "tags": [
-        "Bundesliga"
+        "Football",
+        "Champions League",
+        "Arsenal",
+        "Liverpool"
       ]
     },
     {
-      "id": "7a66294d78326c",
-      "title": "Liverpool: Real Madrid reach final decision Alexander-Arnold sale as Reds ‘would’ have him back",
-      "summary": "Real Madrid are not looking to sell Trent Alexander-Arnold to Liverpool or any other club in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpol-real-madrid-trent-alexander-arnold-sale",
-      "publishedAt": "2026-11-04T09:05:43.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "3d7645991f2207",
-      "title": "Man Utd: JJ Gabriel travels to finalise transfer as Romano makes ‘done deal’ claim – ‘they are way ahead’",
-      "summary": "Fabrizio Romano has revealed a huge update on Manchester United starlet JJ Gabriel, who is finalising a move to Real Madrid.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-jj-gabriel-travels-finalise-transfer-romano-makes-done-deal-claim",
-      "publishedAt": "2026-11-04T09:02:22.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9cf690cd3db7cf",
-      "title": "From Derby to Champions League - Brown's journey to face Reds",
-      "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T08:58:24.000Z",
+      "id": "98bfea2bc5f80d",
+      "title": "Liverpool suffer first CL defeat of season after stunning Fenerbahce comeback",
+      "summary": "Liverpool's perfect start to their Champions League campaign came to a sudden halt as they lost two leads in a 3-2 defeat to Fenerbahce in Istanbul.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/report/577663",
+      "publishedAt": "2026-11-04T19:40:00.000Z",
       "category": "ucl",
       "region": "england",
       "tags": [
@@ -471,56 +520,66 @@
       ]
     },
     {
-      "id": "66c1129447f10c",
-      "title": "Why is it going so wrong for Le Bris at Sunderland?",
-      "summary": "Will qualifying for the Europa League end up costing Sunderland their place in the Premier League at the end of the season?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T08:27:25.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Europa League"
-      ]
-    },
-    {
-      "id": "40d45473e58be2",
-      "title": "Man City FFP: City now face ‘new charges’ as executives raise ‘obvious question’ with PL ‘dilemma’ revealed",
-      "summary": "According to reports, Manchester City could face ‘new charges’ for their conduct after 2018, with the Premier League having a ‘dilemma’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-new-charges-executives-obvious-question-pl-dilemma-revealed",
-      "publishedAt": "2026-11-04T08:23:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3bc4bb068926e4",
-      "title": "Has a footballer ever run a marathon faster than James Milner? | The Knowledge",
-      "summary": "Plus: managers sacked after signing new deals, war victims commemorated on kits and the first club website (part II) Mail us with all of your questions and answers It c...",
+      "id": "e1161a197a1d3e",
+      "title": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
+      "summary": "The 2026 edition of the tournament brought in untold amounts of money to Gianni Infantino’s governing body The total hasn’t entirely stopped rising yet, still clicking...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge",
-      "publishedAt": "2026-11-04T08:00:29.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
+      "publishedAt": "2026-11-04T19:02:48.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
-        "Liverpool",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "2d9ab63ff22d67",
+      "title": "An island in mourning: Tenerife processes death of De Miguel",
+      "summary": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T18:51:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "fcfda4db385a7e",
+      "title": "Man Utd: Dalot blames Carrick tactics for first-half display vs Roma – ‘Yes, obviously’",
+      "summary": "Diogo Dalot says it was “obviously” Michael Carrick’s tactics which saw Man Utd cut open in the first half of their Champions League victory over Roma.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-dalot-blames-carrick-tactics-first-half-roma",
+      "publishedAt": "2026-11-04T17:47:08.000Z",
+      "category": "ucl",
+      "region": "italy",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "54f79ee6273bc0",
+      "title": "Jack Grealish: Everton reach loan cancellation decision as club chiefs side with ‘incensed’ Moyes",
+      "summary": "Everton have reached a decision on Jack Grealish’s future after the Manchester City loanee was dropped for missing training.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jack-grealish-everton-reach-loan-cancellation-decision-as-club-chiefs-side-with-incensed-moyes",
+      "publishedAt": "2026-11-04T17:13:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "942ae5016e1bde",
-      "title": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
-      "summary": "Forget speculation over how a Parker-led side would fare in the Premier League and let the man who has taken three clubs up do his work again It has taken West Ham six...",
+      "id": "8cd921d59589bf",
+      "title": "Bournemouth’s decision not to panic after their tough start is paying off",
+      "summary": "Marco Rose’s team did not win any of their first six games in the Premier League but he stayed calm and positive By Opta Analyst It would have been easy, understandable...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
-      "publishedAt": "2026-11-04T08:00:28.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/04/bournemouth-marco-rose-premier-league-games-opta",
+      "publishedAt": "2026-11-04T17:01:47.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -529,68 +588,16 @@
       ]
     },
     {
-      "id": "27b0e677c8e3b8",
-      "title": "Scottish Football Podcast",
-      "summary": "Leaky defences, the enigma of Kasper Høgh and can Pogcognoli get his system to work?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pl78bz?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "8f1c0098c31dc0",
-      "title": "Fernandes hits back at 'lies' and claims players don't need to save Carrick's job",
-      "summary": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but reiterated that the players didn't need to save his job in their 3-...",
+      "id": "0797c25ffae660",
+      "title": "Brady returns to Patriots as commentator for first time",
+      "summary": "Tom Brady will make an emotional homecoming this weekend when he returns to New England as a broadcaster for the first time since retiring from football.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
-      "publishedAt": "2026-11-04T07:20:00.000Z",
+      "url": "https://www.skysports.com/nfl/news/12040/13608003/tom-brady-seven-time-super-bowl-champion-returns-to-new-england-patriots-as-broadcaster-for-first-time-at-foxboro",
+      "publishedAt": "2026-11-04T16:50:00.000Z",
       "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ef3d7075fb5695",
-      "title": "New strategy launched to transform Scottish women's football over 10 years",
-      "summary": "The strategy aims to double the number of registered female players in Scotland, while also quadrupling attendances and audiences for matches.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly05y2jwzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T07:03:05.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "2e20451cbc94a0",
-      "title": "Fernandes critical of media 'lies' about Carrick relationship",
-      "summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:45:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c1ba6c652c1cf9",
-      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-      "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:27:37.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
