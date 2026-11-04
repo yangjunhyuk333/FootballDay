@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:01:53.119Z",
+  "generatedAt": "2026-11-04T05:37:11.963Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,129 @@
       "pinned": true
     },
     {
+      "id": "2e20451cbc94a0",
+      "title": "Fernandes critical of media 'lies' about Carrick relationship",
+      "summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T00:45:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c1ba6c652c1cf9",
+      "title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+      "summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T00:27:37.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d2b57f16d5c981",
+      "title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+      "summary": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T23:58:22.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Champions League",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "5ea370ef23512e",
+      "title": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
+      "summary": "There were protests at Old Trafford and even though two academy products stood out, Michael Carrick’s future is far from safe Green and yellow balloons bobbed around th...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
+      "publishedAt": "2026-11-03T23:57:56.000Z",
+      "category": "ratings",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b96ab43f402415",
+      "title": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
+      "summary": "The most immediate question thrown up by the delay of the tournament in Saudi Arabia is what it now means for Popovic Confirmation that the Asian Cup has been postponed...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
+      "publishedAt": "2026-11-03T23:54:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "3558a4b413824f",
+      "title": "Football world mourns Tenerife striker De Miguel",
+      "summary": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T23:37:12.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "1b3bc8f8e7dcf7",
+      "title": "Man Utd beat Roma - the other great Champions League comebacks",
+      "summary": "Manchester United come from two goals down to beat Roma 3-2 - but what are the other best fightbacks in Champions League history?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T23:25:20.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a2c1e3a9dc7da2",
+      "title": "Papers: Man Utd keen on signing Man City defender Ait-Nouri",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13607697/manchester-united-keen-on-signing-manchester-city-defender-rayan-ait-nouri-who-is-open-to-crossing-divide-in-january-paper-talk",
+      "publishedAt": "2026-11-03T23:10:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "cda7a1c67618d1",
+      "title": "'An important win for us' - Carrick 'proud' of players after CL comeback",
+      "summary": "Manchester United's Michael Carrick hailed the second performance of his team after they came back from two goals down to beat Roma 3-2 in the Champions League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13607712/manchester-united-3-2-roma-michael-carrick-proud-of-players-after-champions-league-comeback",
+      "publishedAt": "2026-11-03T23:09:00.000Z",
+      "category": "ucl",
+      "region": "england italy",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
       "id": "732b7573fa0b07",
       "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
       "summary": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre...",
@@ -127,19 +250,6 @@
       ]
     },
     {
-      "id": "2e20451cbc94a0",
-      "title": "'We don't need to save anyone's job,' says Man Utd captain Fernandes",
-      "summary": "Bruno Fernandes says Manchester United's players \"don't need to save anyone's job\" after their improbable comeback win against Roma.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T22:37:49.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "2edf1c76a4c3df",
       "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
       "summary": "“This stadium brings back bad memories but I hope to be able to replace them with good ones,” Harry Kane had said on Monday night, and 24 hours later this was a start....",
@@ -153,6 +263,19 @@
         "Champions League",
         "Liverpool",
         "Bayern"
+      ]
+    },
+    {
+      "id": "8f1c0098c31dc0",
+      "title": "Fernandes claims players don't need to save Carrick's job, but did they?",
+      "summary": "Manchester United captain Bruno Fernandes has come out in support of head coach Michael Carrick, but reiterated that the players didn't need to save his job in their 3-...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13607700/manchester-united-3-2-roma-bruno-fernandes-claims-players-dont-need-to-save-michael-carricks-job-after-first-win-in-10-games",
+      "publishedAt": "2026-11-03T22:28:00.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -187,7 +310,7 @@
     {
       "id": "5110f7ac33d92c",
       "title": "Raphinha underlines Barcelona’s class to give Aston Villa a reality check",
-      "summary": "This was a chastening night for Aston Villa, and a familiar one for Unai Emery in this corner of town. On a chilly, damp, oddly processional night at the Camp Nou Barce...",
+      "summary": "This was a chastening night for Aston Villa, and a familiar one for Unai Emery in this corner of town. On a processional night at the Camp Nou Barcelona produced a perf...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
       "publishedAt": "2026-11-03T22:00:11.000Z",
@@ -263,7 +386,7 @@
       "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
       "publishedAt": "2026-11-03T18:42:11.000Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
         "Football",
         "Premier League",
@@ -473,134 +596,6 @@
       "tags": [
         "Premier League",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "6858e4f7fa5dd3",
-      "title": "£84m-plus Liverpool double deal accelerates as green light arrives",
-      "summary": "Two Liverpool deals that could be worth over £84million combined are advancing, according to reports",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfer-news-double-deal-accelerates-lamine-camara-nico-schlotterbeck",
-      "publishedAt": "2026-11-03T14:29:02.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "cae234260655a5",
-      "title": "Who will win PFA Player of the Year award for 2026/27?",
-      "summary": "Will Bruno Fernandes retain his PFA Player of the Year award? He has competition from Manchester City, Chelsea and Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/who-will-win-pfa-player-of-the-year-award-for-2026-27",
-      "publishedAt": "2026-11-03T14:18:17.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1405b3ee0b88c4",
-      "title": "Fenerbahce v Liverpool: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Champions League clash between Fenerbahce and Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/fenerbahce-v-liverpool-prediction-preview",
-      "publishedAt": "2026-11-03T13:11:59.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "97e67fc517248f",
-      "title": "Chelsea react after learning Arsenal want to sign their winger who’s ‘great to watch’",
-      "summary": "Chelsea have made up their mind on selling the Brazil international to Premier League rivals Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/estevao-willian-chelsea-arsenal-2027-transfer-decision-reached",
-      "publishedAt": "2026-11-03T13:11:05.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2fe60eaafbf397",
-      "title": "Man Utd: Russell Martin idea shows exactly why Jason Wilcox should not choose next boss",
-      "summary": "Jason Wilcox’s suggestion of Russell Martin for the Manchester United gig should be enough to never trust him again.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/russell-martin-man-utd-idea-shows-exactly-why-jason-wilcox",
-      "publishedAt": "2026-11-03T12:41:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "63c5e0e2e375de",
-      "title": "Man City face 116th charge: Making Arsenal really boring",
-      "summary": "There’s a theory that Arsenal needed to start playing like that as the only way to beat the cheaters of Man City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-facing-116th-charge-making-arsenal-mailbox",
-      "publishedAt": "2026-11-03T12:33:06.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "b628a07d90481f",
-      "title": "Mac Allister and Nyoni moments ignored as Liverpool ‘far too nice’ problem exposed v Arsenal",
-      "summary": "Liverpool are just ‘far too nice’ and not ‘streetwise’ enough, as evidenced against Arsenal (if you happen to ignore a fair few things).",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mac-allister-nyoni-moments-ignored-liverpool-far-too-nice-exposed-arsenal",
-      "publishedAt": "2026-11-03T12:17:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "db40574cdf0fb4",
-      "title": "Manchester City win again and the Ballon d’Or comes to Bromley – Women’s Football Weekly podcast",
-      "summary": "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/audio/2026/nov/03/manchester-city-win-again-as-the-ballon-dor-comes-to-bromley-womens-football-weekly",
-      "publishedAt": "2026-11-03T12:15:09.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c6adf7ccf71ae1",
-      "title": "Arsenal plot stunning double January deal as Junior Kroupi reacts to interest",
-      "summary": "The Gunners are eyeing two attacking additions in January, and a report has revealed how Bournemouth star Kroupi feels about a transfer",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-news-stunning-double-january-deal-striker-eli-junior-kroupi-reacts",
-      "publishedAt": "2026-11-03T12:02:54.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Inter"
       ]
     }
   ],
