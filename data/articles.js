@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-04T23:26:19.552Z",
+  "generatedAt": "2026-11-05T05:55:29.786Z",
   "windowDays": 7,
   "articles": [
     {
@@ -120,10 +120,11 @@ window.FOOTBALLDAY_DATA = {
       "url": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
       "publishedAt": "2026-11-04T23:08:05.000Z",
       "category": "ucl",
-      "region": "spain italy germany",
+      "region": "england spain italy germany",
       "tags": [
         "Football",
         "Champions League",
+        "Liverpool",
         "Real Madrid"
       ]
     },
@@ -477,19 +478,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6a846a55b9383d",
-      "title": "Liverpool latest: Iraola bemoans cheap and messy goals in Fenerbahce defeat",
-      "summary": "Liverpool latest: Iraola bemoans cheap and messy goals in Fenerbahce defeat",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-11-04T20:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "e401eb009e53c3",
       "title": "Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses",
       "summary": "Andoni Iraola arrived in Istanbul seeking improvement from Liverpool’s attack but departed with sudden cause for concern at the opposite end of the pitch. Fenerbahce ig...",
@@ -598,6 +586,19 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "00aaac30df7c19",
+      "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+      "summary": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T16:12:46.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
       ]
     }
   ],
