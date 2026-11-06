@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:28:03.335Z",
+  "generatedAt": "2026-11-06T05:51:49.655Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,48 @@
       "pinned": true
     },
     {
+      "id": "b78e97ab804324",
+      "title": "Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement",
+      "summary": "New Zealand police dismiss claim of sexual assault at Auckland hotel Incident alleged to have occurred after football friendly in March New Zealand police have dismisse...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/06/cape-verde-football-ryan-mendes-sexual-assault-allegation-dismissed-ntwnfb",
+      "publishedAt": "2026-11-06T03:37:32.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "749cdb534bd500",
+      "title": "Socceroos urge FA to move Jordan friendly in Middle East due to safety concerns",
+      "summary": "Australia to face Qatar in Doha before football match in Amman Some players reluctant to travel to region where Asian Cup postponed Socceroos players, via their union,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/06/socceroos-football-australia-jordan-friendly-middle-east-safety-concerns",
+      "publishedAt": "2026-11-06T03:10:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer"
+      ]
+    },
+    {
+      "id": "896700df33acfc",
+      "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
+      "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta Prague Ferencvaros prevail 2-0 at Milan to keep 100% record Sunderland ’s unbeaten run in the Europa League came to an...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
+      "publishedAt": "2026-11-05T23:27:14.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Europa League",
+        "Milan"
+      ]
+    },
+    {
       "id": "e8bdc8200082a2",
       "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
@@ -137,21 +179,6 @@
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "896700df33acfc",
-      "title": "Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win",
-      "summary": "Evanilson helps Bournemouth to 3-1 win at Sparta Prague Ferencvaros prevail 2-0 at Milan to keep 100% record Sunderland ’s unbeaten run in the Europa League came to an...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/05/europa-league-roundup-sparta-prague-bournemouth-ferencvaros-milanstay-perfect-while-milan-sunderland-dinamo-zagreb",
-      "publishedAt": "2026-11-05T22:46:58.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Europa League",
-        "Milan"
       ]
     },
     {
@@ -568,35 +595,6 @@
         "Champions League",
         "Arsenal",
         "Liverpool"
-      ]
-    },
-    {
-      "id": "ac06689408ba8f",
-      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
-      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-05T14:29:40.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8df82eb797e1c6",
-      "title": "Arsenal leading star tipped to accept transfer to Real Madrid for one reason – ‘a lot of people will be mad’",
-      "summary": "Arsenal have been warned that William Saliba would be lured to Real Madrid if the Spanish giants made a big play for the centre-back.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-leading-star-tipped-accept-transfer-real-madrid-one-reason",
-      "publishedAt": "2026-11-05T14:13:42.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
       ]
     }
   ],
