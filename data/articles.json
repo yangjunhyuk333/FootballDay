@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:53:41.819Z",
+  "generatedAt": "2026-11-07T05:23:43.968Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,35 @@
       "pinned": true
     },
     {
+      "id": "1ce445e665b1a2",
+      "title": "Premier League news: Arteta insists Rice isn’t playing too many games",
+      "summary": "The Arsenal manager says ‘we’re really looking after’ midfielder, while Andoni Iraola backs keeper Alisson Continue reading...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
+      "publishedAt": "2026-11-06T23:09:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "635c83a4afb141",
+      "title": "Thierno becomes second-best Barry to inspire Everton against luckless Coventry",
+      "summary": "Thierno Barry’s purple patch continued as Everton showed impressive resilience to rein in a Coventry side getting their feet under the Premier League table…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/everton-3-1-coventry-reaction-thierno-barry-moyes-dewsbury-hall",
+      "publishedAt": "2026-11-06T22:42:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
       "id": "957dc78957e795",
       "title": "Barry scores twice as Everton fight back to beat Coventry",
       "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
@@ -128,7 +157,7 @@
     {
       "id": "7c08f49ec05540",
       "title": "Thierno Barry double fires Everton to comeback win against Coventry",
-      "summary": "The most optimistic Evertonian – if that is not an oxymoron – could not have envisaged David Moyes’s team sitting fifth in the Premier League and Thierno Barry just beh...",
+      "summary": "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
       "publishedAt": "2026-11-06T22:03:48.000Z",
@@ -301,22 +330,6 @@
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "1ce445e665b1a2",
-      "title": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
-      "summary": "Carrick says it is possible to restore former glory at Old Trafford with time and Unai Emery confirms Aston Villa contract talks Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
-      "publishedAt": "2026-11-06T16:06:30.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
       ]
     },
     {
@@ -572,19 +585,6 @@
       "region": "england",
       "tags": [
         "Premier League"
-      ]
-    },
-    {
-      "id": "c93fe04d9ae8c1",
-      "title": "Arsenal confident of major £45m January signing with hurdle set to be overcome",
-      "summary": "Arsenal are ‘confident’ that they can get a deal over the line to sign RB Leipzig winger Antonio Nusa in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-confident-of-major-45m-january-signing-with-hurdle-set-to-be-overcome",
-      "publishedAt": "2026-11-06T08:32:33.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
