@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-07T12:42:55.651Z",
+  "generatedAt": "2026-11-07T21:37:53.279Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,30 +99,488 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Listen to Off The Ball",
-      "summary": "The most petty and ill-informed football show on radio.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T14:00:00.000Z",
-      "category": "league",
+      "id": "e4111b84299f0f",
+      "title": "Liverpool make £85m defender their top target as stunning deal teed up",
+      "summary": "Liverpool have turned their full attention to an £85m centre-back after being told a Chelsea star is not available for transfer, according to a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-luka-vuskovic-top-target-85-million-defender-brighton-deal",
+      "publishedAt": "2026-11-07T21:31:36.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football"
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
       ]
     },
     {
-      "id": "da4ab1cc0ebb0a",
-      "title": "Leeds United v Tottenham Hotspur: Premier League – live",
-      "summary": "⚽️ Premier League updates from the 12.30pm GMT kick-off ⚽️ Live scores | Top scorers | Follow us on TikTok | Mail Scott A different fanfare for the common man – the Las...",
+      "id": "7f6eeaa8351a05",
+      "title": "Maresca's dream start turns into nightmare as title hopes hit",
+      "summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City ma...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T20:54:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7b1a62104b89a4",
+      "title": "Maresca looking to understand Man City's 'lack of intensity'",
+      "summary": "Enzo Maresca feels his side \"lacked intensity\" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T20:42:23.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5f3a7933d55e66",
+      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
+      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
+      "publishedAt": "2026-11-07T20:30:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7e875a84296c9c",
+      "title": "Delap double inspires Forest to stunning win over Man City",
+      "summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T20:02:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e96ddc669f5500",
+      "title": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
+      "summary": "Spaniard may feel some of Old Trafford’s allure when he goes there on Sunday but he is right in wanting to stay at the club with brighter prospects On Sunday afternoon,...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
-      "publishedAt": "2026-11-07T12:33:13.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
+      "publishedAt": "2026-11-07T20:00:19.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0e060d49e260a5",
+      "title": "Arsenal beat Hull to extend lead at top of the table",
+      "summary": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T19:59:31.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "76a50f19932f63",
+      "title": "Why offside Kai Havertz should have been awarded a penalty for Arsenal",
+      "summary": "Arsenal’s 1-0 win over Hull has been overshadowed by a contentious VAR decision. Here’s why Havertz should have won a penalty.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/why-kai-havertz-awarded-penalty-arsenal",
+      "publishedAt": "2026-11-07T19:49:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "c31a94bd922227",
+      "title": "Delightful Delap stars as Forest shock Man City",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Manchester City.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13609523/nottingham-forest-3-1-manchester-city-premier-league-highlights",
+      "publishedAt": "2026-11-07T19:37:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9fcfc17f333369",
+      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+      "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T19:34:32.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "105d18a625799f",
+      "title": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
+      "summary": "Wait long enough and results will come to reflect performances. Manchester City may have won their first seven league games of the season but they always looked vulnera...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
+      "publishedAt": "2026-11-07T19:30:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0983edf9be4235",
+      "title": "Forest end goal drought to make it three defeats in a row for Man City",
+      "summary": "Liam Delap scored two as Nottingham Forest ended their goal drought in style to beat Manchester City 3-1 at the City Ground.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542",
+      "publishedAt": "2026-11-07T19:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2dee24f6f21a3d",
+      "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+      "summary": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T19:26:31.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a339f749655b60",
+      "title": "'That one was a BELTER!' - Delap makes it THREE for Forest",
+      "summary": "Liam Delap puts the home side 3-1 up against Manchester City - with Forest boss Oliver Glasner running to join the goalscorer for the celebrations.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13609517/goal-l-delap-73-nottm-forest-2-1-manchester-city",
+      "publishedAt": "2026-11-07T19:10:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "83a5de4960a8bc",
+      "title": "Kane bags two assists in Bayern’s win over Mainz",
+      "summary": "Highlights of the Bundesliga match between Mainz and Bayern Munich.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13609514/mainz-vs-bayern-munich-bundesliga-highlights",
+      "publishedAt": "2026-11-07T18:59:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bundesliga",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "0f75afcc2df9cc",
+      "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+      "summary": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the t...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:35:43.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "96ab2b6707464c",
+      "title": "Argentina set to go to Cas after Fifa rejects appeals",
+      "summary": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:33:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "91a8c9269a3d88",
+      "title": "Title race hots up before Chelsea-Man City showdown",
+      "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:27:46.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8f504a23f00015",
+      "title": "Arsenal latest: Why Gunners should have had a penalty vs Hull",
+      "summary": "Arsenal latest: Why Gunners should have had a penalty vs Hull",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-11-07T18:20:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "75f62ee7789f93",
+      "title": "Sunderland v Chelsea: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Sunderland and Chelsea.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/sunderland-v-chelsea-prediction-preview-2",
+      "publishedAt": "2026-11-07T18:18:47.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "229d98a497e901",
+      "title": "IN FULL! Watch Vinnie Kemp drops EPIC post-fight interview!",
+      "summary": "Watch 'The King of Violence' Vinnie Kemp drop an epic post-fight interview after his win on Zuffa Boxing 12.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13609491/in-full-watch-vinnie-kemp-drops-epic-post-fight-interview",
+      "publishedAt": "2026-11-07T18:14:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "021fb826af2d77",
+      "title": "Arsenal spared anti-Man City conspiracies by Madueke and GOAT referee mic moment",
+      "summary": "A GOAT referee mic moment and the persistence of Madueke for Arsenal spared us all an international break’s worth of anti-Man City conspiracy theories.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-arsenal-anti-man-city-conspiracy-madueke-goat-referee-mic-moment",
+      "publishedAt": "2026-11-07T17:20:25.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "dea8c9eca58305",
+      "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
+      "summary": "Veteran becomes club’s oldest player but suffers injury Keeper also in spotlight after another gaffe Bayern Munich secured a 2-1 victory over Mainz in the Bundesliga on...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+      "publishedAt": "2026-11-07T17:13:48.000Z",
+      "category": "issue",
+      "region": "germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "2731673982c8b2",
+      "title": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
+      "summary": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta’s sid...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
+      "publishedAt": "2026-11-07T17:02:45.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0cb4fe40739ce8",
+      "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+      "summary": "Questions over whether Álvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+      "publishedAt": "2026-11-07T17:00:54.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
         "Premier League"
+      ]
+    },
+    {
+      "id": "abf2e26e6e8f20",
+      "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+      "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:00:38.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "3549ce5ffb8ac9",
+      "title": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
+      "summary": "Khadija Shaw hits hat-trick in City’s 5-0 rout of West Ham Chelsea held 1-1 by Everton after Lucy Bronze own goal An own goal by defender Lucy Bronze ⁠against Everton c...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
+      "publishedAt": "2026-11-07T15:11:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "006cfde02b8cff",
+      "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+      "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T14:35:23.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5bbc01b1f52246",
+      "title": "Liverpool captain Van Dijk accused of selfish act and leaving Reds team-mate to ‘fend for himself’",
+      "summary": "Liverpool captain Virgil van Dijk has been accused of not risking “being made to look foolish” by leaving Milos Kerkez to “fend for himself”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-van-dijk-selfish-act-foolish-kerkez",
+      "publishedAt": "2026-11-07T14:27:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5919c3b0c2f531",
+      "title": "Jayden Bogle red card: Hoddle disagrees with ex-Premier League ref – ‘Serious foul play’",
+      "summary": "Glenn Hoddle and Darren Cann disagree on whether Leeds’ Jayden Bogle should have been shown a red card vs Tottenham.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/hoddle-disagrees-ex-premier-league-referee-bogle-red-card-tottenham",
+      "publishedAt": "2026-11-07T14:26:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "eef7119c8bed9c",
+      "title": "Arteta issues ban after Arsenal star leaked team news for Liverpool clash",
+      "summary": "Mikel Arteta has stepped in after Christos Tzolis inadvertently leaked Arsenal’s team news for their clash with Liverpool last weekend.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arteta-ban-arsenal-star-leaked-team-news-liverpool-clash",
+      "publishedAt": "2026-11-07T13:51:01.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "67c15b4c2c2545",
+      "title": "Crystal Palace v Liverpool: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Crystal Palace and Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/crystal-palace-v-liverpool-prediction-preview",
+      "publishedAt": "2026-11-07T13:44:59.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "778f97be74cdda",
+      "title": "Man City FFP: City told ‘best outcome’ as Haaland ‘might want’ Arsenal or Man Utd move",
+      "summary": "Erling Haaland “might want” to stay in England, amid Arsenal and Man Utd rumours, if he leaves Man City, according to an ex-City star.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-best-outcome-punishment-haaland-might-want-arsenal-man-utd-transfer",
+      "publishedAt": "2026-11-07T13:42:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1518e4406d4df4",
+      "title": "Gerrard makes Carrick sack prediction as he reflects on ‘biggest problem’ at Man Utd",
+      "summary": "Steven Gerrard suggests it will be “tough” for Michael Carrick to survive the international break if Man Utd lose to Aston Villa on Sunday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gerrard-sack-prediction-reflects-biggest-problem-man-utd",
+      "publishedAt": "2026-11-07T12:57:33.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "e05a33c9ef89c6",
+      "title": "Arsenal transfer ‘completely obvious’ for Nusa as Romano brings transfer update",
+      "summary": "RB Leipzig winger Antonio Nusa has been told that moving to Arsenal would be the “completely obvious option” for him.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-transfer-completely-obvious-nusa-romano-transfer-update",
+      "publishedAt": "2026-11-07T12:45:15.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
@@ -137,464 +595,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Manchester",
         "Real Madrid"
-      ]
-    },
-    {
-      "id": "47d7611e2da67e",
-      "title": "Man Utd pick ‘preferred’ manager as ‘contact’ with Howe and Nagelsmann refuted",
-      "summary": "Manchester United have decided on their ‘preferred’ manager as a report refutes ‘contact’ with three possible replacements for Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-preferred-manager-contact-howe-nagelsmann-refuted",
-      "publishedAt": "2026-11-07T12:23:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "20da49073f9635",
-      "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-      "summary": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
-      "publishedAt": "2026-11-07T12:00:13.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7bc983c786f565",
-      "title": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
-      "summary": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "publishedAt": "2026-11-07T11:42:00.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
-        "Transfer",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "acfdd37f419293",
-      "title": "JJ Gabriel breaks silence on Man Utd exit with eight-word reason for joining Real Madrid",
-      "summary": "JJ Gabriel has broken his silence after leaving Manchester United for Real Madrid and took a swipe at Barcelona in the process.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/jj-gabriel-breaks-silence-on-man-utd-exit-with-eight-word-reason-for-joining-real-madrid",
-      "publishedAt": "2026-11-07T11:39:14.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "78152aa5fe8704",
-      "title": "Man Utd takeover: Expert reveals chance of Red Devils sale amid Aston Villa walkout plans",
-      "summary": "The Man Utd ownership would find it extremely difficult to sell the club in their current circumstances, according to a football finance expert.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-takeover-sale-chance-glazers-aston-villa-walkout",
-      "publishedAt": "2026-11-07T11:31:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "92025fc5cf6be5",
-      "title": "Fabrizio Romano reveals Arsenal striker plan amid interest in £42m Serie A star",
-      "summary": "Transfer insider Fabrizio Romano has revealed the plan that Arsenal have for signing a new striker over the next couple of transfer windows.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-striker-plan-varela-monza",
-      "publishedAt": "2026-11-07T10:37:18.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Serie A",
-        "Transfer",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5882576beecf00",
-      "title": "Chelsea’s Alonso identity still to form in a midfield that remains a problem",
-      "summary": "Roméo Lavia’s resurgence is not enough as injuries to other key players such as Moisés Caicedo are proving disruptive Xabi Alonso played for Pep Guardiola at Bayern Mun...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
-      "publishedAt": "2026-11-07T10:31:05.000Z",
-      "category": "league",
-      "region": "england italy germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "864a5c7f30baae",
-      "title": "Football Daily",
-      "summary": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "e7ff29ae925fab",
-      "title": "Archer and Rashid shine on return as England cruise to warm-up win in Australia",
-      "summary": "Jofra Archer and Adil Rashid made impressive returns to the England side as they stepped up preparations for their one-day international series against Australia with a...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/news/12040/13609173/england-beat-western-australia-in-odi-warm-up-as-jofra-archer-and-adil-rashid-return-to-star-for-touring-side",
-      "publishedAt": "2026-11-07T09:54:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac150cfb24722c",
-      "title": "Liverpool dream in tatters as Romano confirms ‘next mission’ at Bayern Munich after Kane",
-      "summary": "Any hope Liverpool had of signing Michael Olise are set to extinguished by Fabrizio Romano’s claims that Bayern Munich are looking to renew his contract.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-olise-dream-tatters-romano-confirms-mission-bayern-munich-kane",
-      "publishedAt": "2026-11-07T09:51:00.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "8074a944059540",
-      "title": "How Jose Mourinho has turned Real Madrid around – and why it might force Vinicius Junior out",
-      "summary": "Jose Mourinho returning to Real Madrid in 2026 felt like a recipe for disaster, but Vinicius Junior’s suspension has sparked some form.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/how-mourinho-turned-real-madrid-around-vinicius-junior",
-      "publishedAt": "2026-11-07T09:23:15.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "22e46b743ef614",
-      "title": "Vega plea for Scottish FA backing against Infantino - gossip",
-      "summary": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T09:11:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "4cd813a9cdfa04",
-      "title": "Liverpool turn to Brighton star in shock transfer as ‘concerns’ emerge over Iraola starter",
-      "summary": "Liverpool are weighing up a move to sign Brighton goalkeeper Bart Verbruggen in the summer transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-brighton-verbruggen-shock-transfer-alisson-concerns-kerkez",
-      "publishedAt": "2026-11-07T08:59:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "14e3424ce5f60d",
-      "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
-      "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide – and Fifa’s president may pay a price Oh baby, clamp me in your repulsive mouthparts. Si...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
-      "publishedAt": "2026-11-07T08:00:05.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a1123b6472e707",
-      "title": "Man Utd: Ex-Arsenal man advised to reject Old Trafford transfer as ‘project would set him back’",
-      "summary": "Ex-Arsenal striker Folarin Balogun has been urged to reject a move to Man Utd in January as the project at Old Trafford “would set him back”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-arsenal-balogun-reject-transfer-setback",
-      "publishedAt": "2026-11-07T07:36:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "da1e2ffd55996a",
-      "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
-      "summary": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:27:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "be597fb3b6d044",
-      "title": "I left Man City for my mental wellbeing - Trafford",
-      "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:16:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "183fe9a68af6bf",
-      "title": "How football stadiums are redesigned for greener future: Interview with the expert",
-      "summary": "What do the fuselages of retired passenger planes have to do with making football more sustainable? Quite a lot, as it turns out.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/football-stadiums-redesigned-greener-future-silvia-prandelli",
-      "publishedAt": "2026-11-07T06:53:35.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "dc5bf1e8ac4122",
-      "title": "Non-league's greatest giant-killers eye another scalp",
-      "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:45:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "4b79470e706923",
-      "title": "Can we play you every week? The day Southend toppled Man United",
-      "summary": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:22:41.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2bc65c3706a56d",
-      "title": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
-      "summary": "Teenage ultras are increasingly causing disorder and communities fear it will not be long before it becomes something more dangerous It is five past three on Saturday a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
-      "publishedAt": "2026-11-07T06:00:05.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1ce445e665b1a2",
-      "title": "Premier League news: Arteta insists Rice isn’t playing too many games",
-      "summary": "The Arsenal manager says ‘we’re really looking after’ midfielder, while Andoni Iraola backs keeper Alisson Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
-      "publishedAt": "2026-11-06T23:09:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "635c83a4afb141",
-      "title": "Thierno becomes second-best Barry to inspire Everton against luckless Coventry",
-      "summary": "Thierno Barry’s purple patch continued as Everton showed impressive resilience to rein in a Coventry side getting their feet under the Premier League table…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/everton-3-1-coventry-reaction-thierno-barry-moyes-dewsbury-hall",
-      "publishedAt": "2026-11-06T22:42:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "957dc78957e795",
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T22:30:12.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "7c08f49ec05540",
-      "title": "Thierno Barry double fires Everton to comeback win against Coventry",
-      "summary": "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
-      "publishedAt": "2026-11-06T22:03:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "6bb18fd9945fc3",
-      "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-      "summary": "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T21:08:04.000Z",
-      "category": "league",
-      "region": "spain italy france",
-      "tags": [
-        "Real Madrid",
-        "Psg",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "93bbf3b7332f96",
-      "title": "Nations Championship, Rugby League World Cup and NFL action – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/nov/06/nations-championship-rugby-league-world-cup-and-nfl-action-follow-with-us",
-      "publishedAt": "2026-11-06T20:33:58.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "5cbcafdb1f7490",
-      "title": "Football Daily",
-      "summary": "John, Ian and Ali tell us what makes a good radio football summariser",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T19:52:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "bce1c666e11993",
-      "title": "Fabrizio Romano reacts to shock Arsenal, Barcelona swap deal in January claims",
-      "summary": "Arsenal and Barcelona have been linked with swapping high profile defenders in January, and Fabrizio Romano has detailed the latest he’s hearing on the rumour",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-reacts-shock-arsenal-barcelona-swap-deal-january",
-      "publishedAt": "2026-11-06T18:57:18.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "5df2efe68bce83",
-      "title": "Nottingham Forest v Man City: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Nottingham Forest and Man City.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/nottingham-forest-v-man-city-prediction-preview",
-      "publishedAt": "2026-11-06T18:11:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "34a0f6a1aa90b2",
-      "title": "Man Utd January transfer set for ‘here we go’ as Romano confirms advanced talks",
-      "summary": "Romano is poised to give a United deal his ‘here we go’ confirmation before January, with an agreement very close",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-news-january-here-we-go-coming-jj-gabriel-fabrizio-romano",
-      "publishedAt": "2026-11-06T17:48:52.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "3d080e4ac23c33",
-      "title": "Liverpool reach decision on selling Rio Ngumoha to Bayern Munich – ‘in talks’",
-      "summary": "Bayern Munich are in discussions with the camp of Rio Ngumoha, and Liverpool have reached a decision on whether or not to sanction a hugely lucrative sale.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-reach-decision-selling-rio-ngumoha-bayern-munich-in-talks",
-      "publishedAt": "2026-11-06T17:14:29.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "28adc6980f53a2",
-      "title": "WSL LIVE! Unbeaten Chelsea and Man City in action",
-      "summary": "WSL LIVE! Unbeaten Chelsea and Man City in action",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
-      "publishedAt": "2026-11-06T17:03:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
