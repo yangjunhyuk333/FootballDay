@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:23:43.968Z",
+  "generatedAt": "2026-11-07T12:42:55.651Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,339 @@
       "pinned": true
     },
     {
+      "id": "5bca5e91ed777a",
+      "title": "Listen to Off The Ball",
+      "summary": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T14:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "da4ab1cc0ebb0a",
+      "title": "Leeds United v Tottenham Hotspur: Premier League – live",
+      "summary": "⚽️ Premier League updates from the 12.30pm GMT kick-off ⚽️ Live scores | Top scorers | Follow us on TikTok | Mail Scott A different fanfare for the common man – the Las...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
+      "publishedAt": "2026-11-07T12:33:13.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "62a08a417d0ccf",
+      "title": "My dream is to win Ballon d'Or - Gabriel",
+      "summary": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:25:14.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "47d7611e2da67e",
+      "title": "Man Utd pick ‘preferred’ manager as ‘contact’ with Howe and Nagelsmann refuted",
+      "summary": "Manchester United have decided on their ‘preferred’ manager as a report refutes ‘contact’ with three possible replacements for Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-preferred-manager-contact-howe-nagelsmann-refuted",
+      "publishedAt": "2026-11-07T12:23:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "20da49073f9635",
+      "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
+      "summary": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+      "publishedAt": "2026-11-07T12:00:13.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7bc983c786f565",
+      "title": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
+      "summary": "Transfer Centre LIVE! Gabriel gives interview ahead of Real Madrid move",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "publishedAt": "2026-11-07T11:42:00.000Z",
+      "category": "transfer",
+      "region": "spain italy",
+      "tags": [
+        "Transfer",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "acfdd37f419293",
+      "title": "JJ Gabriel breaks silence on Man Utd exit with eight-word reason for joining Real Madrid",
+      "summary": "JJ Gabriel has broken his silence after leaving Manchester United for Real Madrid and took a swipe at Barcelona in the process.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-breaks-silence-on-man-utd-exit-with-eight-word-reason-for-joining-real-madrid",
+      "publishedAt": "2026-11-07T11:39:14.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "78152aa5fe8704",
+      "title": "Man Utd takeover: Expert reveals chance of Red Devils sale amid Aston Villa walkout plans",
+      "summary": "The Man Utd ownership would find it extremely difficult to sell the club in their current circumstances, according to a football finance expert.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-takeover-sale-chance-glazers-aston-villa-walkout",
+      "publishedAt": "2026-11-07T11:31:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "92025fc5cf6be5",
+      "title": "Fabrizio Romano reveals Arsenal striker plan amid interest in £42m Serie A star",
+      "summary": "Transfer insider Fabrizio Romano has revealed the plan that Arsenal have for signing a new striker over the next couple of transfer windows.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-romano-striker-plan-varela-monza",
+      "publishedAt": "2026-11-07T10:37:18.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Serie A",
+        "Transfer",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "5882576beecf00",
+      "title": "Chelsea’s Alonso identity still to form in a midfield that remains a problem",
+      "summary": "Roméo Lavia’s resurgence is not enough as injuries to other key players such as Moisés Caicedo are proving disruptive Xabi Alonso played for Pep Guardiola at Bayern Mun...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
+      "publishedAt": "2026-11-07T10:31:05.000Z",
+      "category": "league",
+      "region": "england italy germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "864a5c7f30baae",
+      "title": "Football Daily",
+      "summary": "Trafford or Pickford? Why did James leave Man City? And why choose Leeds United?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T10:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e7ff29ae925fab",
+      "title": "Archer and Rashid shine on return as England cruise to warm-up win in Australia",
+      "summary": "Jofra Archer and Adil Rashid made impressive returns to the England side as they stepped up preparations for their one-day international series against Australia with a...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13609173/england-beat-western-australia-in-odi-warm-up-as-jofra-archer-and-adil-rashid-return-to-star-for-touring-side",
+      "publishedAt": "2026-11-07T09:54:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "ac150cfb24722c",
+      "title": "Liverpool dream in tatters as Romano confirms ‘next mission’ at Bayern Munich after Kane",
+      "summary": "Any hope Liverpool had of signing Michael Olise are set to extinguished by Fabrizio Romano’s claims that Bayern Munich are looking to renew his contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-olise-dream-tatters-romano-confirms-mission-bayern-munich-kane",
+      "publishedAt": "2026-11-07T09:51:00.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "8074a944059540",
+      "title": "How Jose Mourinho has turned Real Madrid around – and why it might force Vinicius Junior out",
+      "summary": "Jose Mourinho returning to Real Madrid in 2026 felt like a recipe for disaster, but Vinicius Junior’s suspension has sparked some form.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/how-mourinho-turned-real-madrid-around-vinicius-junior",
+      "publishedAt": "2026-11-07T09:23:15.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "22e46b743ef614",
+      "title": "Vega plea for Scottish FA backing against Infantino - gossip",
+      "summary": "Former Celtic centre-half Ramon Vega urges the Scottish FA to support his bid to oust Fifa president Gianni Infantino as Stephen Robinson admits he has no funds to add...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg55rxxrzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T09:11:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "4cd813a9cdfa04",
+      "title": "Liverpool turn to Brighton star in shock transfer as ‘concerns’ emerge over Iraola starter",
+      "summary": "Liverpool are weighing up a move to sign Brighton goalkeeper Bart Verbruggen in the summer transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-brighton-verbruggen-shock-transfer-alisson-concerns-kerkez",
+      "publishedAt": "2026-11-07T08:59:29.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "14e3424ce5f60d",
+      "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
+      "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide – and Fifa’s president may pay a price Oh baby, clamp me in your repulsive mouthparts. Si...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
+      "publishedAt": "2026-11-07T08:00:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa"
+      ]
+    },
+    {
+      "id": "a1123b6472e707",
+      "title": "Man Utd: Ex-Arsenal man advised to reject Old Trafford transfer as ‘project would set him back’",
+      "summary": "Ex-Arsenal striker Folarin Balogun has been urged to reject a move to Man Utd in January as the project at Old Trafford “would set him back”.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-arsenal-balogun-reject-transfer-setback",
+      "publishedAt": "2026-11-07T07:36:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "da1e2ffd55996a",
+      "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
+      "summary": "Leeds United's James Trafford opens up on his struggles at Manchester City last season that were behind his summer transfer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T07:27:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "be597fb3b6d044",
+      "title": "I left Man City for my mental wellbeing - Trafford",
+      "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T07:16:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "183fe9a68af6bf",
+      "title": "How football stadiums are redesigned for greener future: Interview with the expert",
+      "summary": "What do the fuselages of retired passenger planes have to do with making football more sustainable? Quite a lot, as it turns out.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/football-stadiums-redesigned-greener-future-silvia-prandelli",
+      "publishedAt": "2026-11-07T06:53:35.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "dc5bf1e8ac4122",
+      "title": "Non-league's greatest giant-killers eye another scalp",
+      "summary": "Non-league Altrincham aim to make Notts County number 18 on their list of FA Cup scalps, and breathe new life into their tag of English football's ultimate giant-killers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T06:45:56.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "4b79470e706923",
+      "title": "Can we play you every week? The day Southend toppled Man United",
+      "summary": "Southend United's heroes remember their famous victory against Manchester United 20 years on.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T06:22:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2bc65c3706a56d",
+      "title": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
+      "summary": "Teenage ultras are increasingly causing disorder and communities fear it will not be long before it becomes something more dangerous It is five past three on Saturday a...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
+      "publishedAt": "2026-11-07T06:00:05.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
       "id": "1ce445e665b1a2",
       "title": "Premier League news: Arteta insists Rice isn’t playing too many games",
       "summary": "The Arsenal manager says ‘we’re really looking after’ midfielder, while Andoni Iraola backs keeper Alisson Continue reading...",
@@ -141,20 +474,6 @@
       ]
     },
     {
-      "id": "bc32183b80a2f0",
-      "title": "Papers: Man Utd handed boost in pursuit of Barcelona left-back Alejandro Balde",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13609030/man-utd-handed-boost-in-pursuit-of-barcelona-left-back-paper-talk",
-      "publishedAt": "2026-11-06T22:30:00.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Barcelona"
-      ]
-    },
-    {
       "id": "7c08f49ec05540",
       "title": "Thierno Barry double fires Everton to comeback win against Coventry",
       "summary": "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling...",
@@ -167,19 +486,6 @@
         "Football",
         "Premier League",
         "Transfer"
-      ]
-    },
-    {
-      "id": "73ae281c493e9a",
-      "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
-      "summary": "FREE TO WATCH: Highlights from Everton’s match against Coventry in the Premier League.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights",
-      "publishedAt": "2026-11-06T22:02:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     },
     {
@@ -200,7 +506,7 @@
     },
     {
       "id": "93bbf3b7332f96",
-      "title": "Nations championship, Rugby League World Cup and NFL action – follow with us",
+      "title": "Nations Championship, Rugby League World Cup and NFL action – follow with us",
       "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/sport/2026/nov/06/nations-championship-rugby-league-world-cup-and-nfl-action-follow-with-us",
@@ -279,312 +585,16 @@
       ]
     },
     {
-      "id": "1ce4f1384238de",
-      "title": "Man Utd turn to next Jurgen Klopp as Howe, Nagelsmann interest cools",
-      "summary": "United could now target a ‘highly rated’ manager compared to Klopp amid reservations over Howe and Nagelsmann, according to a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/next-man-utd-manager-new-jurgen-klopp-hoeness-howe-nagelsmann-interest-cools",
-      "publishedAt": "2026-11-06T16:57:18.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "220de2d884a4ab",
-      "title": "James out for minimum of five games - Bompastor",
-      "summary": "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:44:44.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "19bb32b5890f37",
-      "title": "Premier League team news: predicted lineups for the weekend action",
-      "summary": "Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael Carrick Saturday 12.30pm TNT Sports 1 Venue Elland Road Continu...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "publishedAt": "2026-11-06T16:43:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fc8bfe71312222",
-      "title": "Is Palmer's England career over under Tuchel?",
-      "summary": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:30:03.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ca857d6e269cb4",
-      "title": "Liverpool to let legend ‘leave in the summer’ with Aston Villa ace eyed as heir",
-      "summary": "Liverpool are ready to wave goodbye to Alisson Becker at season’s end, and rather than install Giorgi Mamardashvili as the new No 1, an Aston Villa ace is being eyed ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-let-alisson-becker-leave-summer-aston-villa-zion-suzuki-replacement",
-      "publishedAt": "2026-11-06T15:55:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1ee18b47ccc3a8",
-      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-      "summary": "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:21:40.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "5bb5fbd91dade2",
-      "title": "Man Utd: Alejandro Balde decides destination as INEOS find out terms of January deal",
-      "summary": "Barcelona left-back Alejandro Balde has decided his future amid strong interest from Premier League giants Man Utd, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-alejandro-balde-decides-destination-terms-january",
-      "publishedAt": "2026-11-06T15:08:35.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Premier League",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f0b539759eeea2",
-      "title": "Liverpool: Iraola makes emphatic Bradley Barcola call after Fenerbahce defeat",
-      "summary": "Andoni Iraola has been left in no doubt over the future of Bradley Barcola at Liverpool after defeat to Fenerbahce.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/iraola-emphatic-barcola-call-fenerbahce-defeat",
-      "publishedAt": "2026-11-06T15:00:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "466f64332456c9",
-      "title": "Football Daily | You want proper football? Here are the FA Cup first-round ties to look out for",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! For the FA Cup, the early rounds are the juice. The first round proper to be played out over the long weekend is loo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/06/fa-cup-first-round-ties-to-look-out-for-football-daily-newsletter",
-      "publishedAt": "2026-11-06T14:55:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2d6c1cd83801fe",
-      "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
-      "summary": "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T14:25:41.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "39ba2c4de9fa55",
-      "title": "Carrick makes alarming claim about first half vs Roma as Man Utd boss moves ‘closer’ to Sir Alex",
-      "summary": "We doubt many will agree with Michael Carrick’s assessment of Manchester United’s first-half display vs Roma.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carrick-alarming-claim-first-half-roma-closer-sir-alex",
-      "publishedAt": "2026-11-06T14:18:49.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d88f28bf19cc61",
-      "title": "Talking points as Premiership prepares for international break",
-      "summary": "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T13:44:22.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e3b576aedbfa56",
-      "title": "Chelsea reach fresh decision on signing top Liverpool target Lamine Camara",
-      "summary": "Chelsea are likely to come back in for top Liverpool transfer target Lamine Camara despite their interest in Alex Scott, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-fresh-decision-lamine-camara-offer-liverpool",
-      "publishedAt": "2026-11-06T13:26:20.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "fe5d6a09738fb4",
-      "title": "Leeds v Tottenham: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Leeds and Tottenham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/leeds-v-tottenham-prediction-preview",
-      "publishedAt": "2026-11-06T12:54:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a1c84bd797a85a",
-      "title": "Liverpool want Aston Villa star to replace ‘lazy’ Iraola starter who’s subject of major move in 2027",
-      "summary": "Liverpool are weighing up a potential move for Aston Villa goalkeeper Zion Suzuki amid doubts over Alisson’s future, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-aston-villa-suzuki-lazy-allison-major-move-flamengo",
-      "publishedAt": "2026-11-06T12:26:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4e2c3fd7bbb773",
-      "title": "Has Anderson lived up to the hype after Man City move?",
-      "summary": "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T12:00:18.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2d107c4aba2be3",
-      "title": "Palmer misses too many chances to impress - Tuchel",
-      "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T11:59:37.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "92da15e63f6b2f",
-      "title": "Wolves legend and ex-England defender Coady retires",
-      "summary": "Wolves legend Conor Coady retires as a player at the age of 33 after a 503-game, eight-club career, which began at Liverpool.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T11:29:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "f51fdba117581b",
-      "title": "Man Utd three-man January transfer shortlist revealed after Scholes list five stars to save club",
-      "summary": "Man Utd have picked out a three-man shortlist as they look to bring in as many as two signings to the club in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-transfer-shortlist-ait-nouri-mitchell-munoz-scholes",
-      "publishedAt": "2026-11-06T11:16:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "decdead12cbde0",
-      "title": "Liverpool: Szoboszlai apes Bruno Fernandes in unacceptable reaction to teammate’s role vs Fenerbahce",
-      "summary": "Arrogance which saw Szoboszlai take games by the scruff of the neck last season now manifests itself as arm-flapping and sulking. He’s a bit Bruno Fernandes, isn’t he?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-szoboszlai-bruno-fernandes-doubts-captaincy-place-liverpool-team",
-      "publishedAt": "2026-11-06T11:03:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "648afe31d26db6",
-      "title": "Liverpool tell Real Madrid what ‘first offer’ for Alexis Mac Allister should be after brutal admission",
-      "summary": "Liverpool have set a starting price of €70m if Real Madrid want to sign Alexis Mac Allister in January, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-alexis-mac-allister-asking-price-real-madrid-brutal-admission",
-      "publishedAt": "2026-11-06T10:06:50.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e59259b6478f8c",
-      "title": "Rosenior insists ‘I’m not a joke’ (or a plonker) after Chelsea stitch up",
-      "summary": "Former Chelsea boss Rosenior insists “I’m not a joke” in a comically misguided attempt to distance himself from comparisons with David Brent.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/rosenior-not-a-joke-or-plonker-hits-out-chelsea-stitch-up",
-      "publishedAt": "2026-11-06T09:30:52.000Z",
+      "id": "28adc6980f53a2",
+      "title": "WSL LIVE! Unbeaten Chelsea and Man City in action",
+      "summary": "WSL LIVE! Unbeaten Chelsea and Man City in action",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-everton-women/live/575812",
+      "publishedAt": "2026-11-06T17:03:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
-      ]
-    },
-    {
-      "id": "795f9450c838f4",
-      "title": "Man Utd identify Bruno Fernandes replacement in Premier League as they enter battle with Spurs",
-      "summary": "Man Utd have identified Morgan Gibbs-White as a potential replacement for Red Devils captain Bruno Fernandes, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-identify-bruno-fernandes-replacement-in-premier-league-as-they-enter-battle-with-spurs",
-      "publishedAt": "2026-11-06T09:28:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
       ]
     }
   ],
