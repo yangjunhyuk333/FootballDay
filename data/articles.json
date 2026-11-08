@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T05:21:41.902Z",
+  "generatedAt": "2026-11-08T13:00:05.921Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,290 @@
       "pinned": true
     },
     {
+      "id": "5bca5e91ed777a",
+      "title": "Listen to Off The Ball",
+      "summary": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T14:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "77f92b5621249e",
+      "title": "Liverpool v Arsenal: Women’s Super League – live",
+      "summary": "⚽️ Women’s Super League updates from 12pm GMT ⚽️ Océane Hurtré making waves at Birmingham | Email Emillia 3 min: Endemann looks to send a cross towards the back post fr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
+      "publishedAt": "2026-11-08T12:54:25.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "65ee20945bbb4d",
+      "title": "Henderson returns for Chelsea to face former side Sunderland LIVE!",
+      "summary": "Henderson returns for Chelsea to face former side Sunderland LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/sunderland-vs-chelsea/live/559543",
+      "publishedAt": "2026-11-08T12:33:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "e4ff19f0744125",
+      "title": "Carrick, Sage or Le Bris next? The last 10 Premier League managers to be sacked during an international break",
+      "summary": "Could Michael Carrick, Pierre Sage or Regis Le Bris be next? And how did it go for the clubs who made a change at a time like this?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-managers-sacked-international-break",
+      "publishedAt": "2026-11-08T12:26:28.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a5936eb647f97b",
+      "title": "Crystal Palace vs Liverpool team news LIVE!",
+      "summary": "Crystal Palace vs Liverpool team news LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/crystal-palace-vs-liverpool/live/559536",
+      "publishedAt": "2026-11-08T12:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "bf1e3023822e9f",
+      "title": "Australia reach World Cup final as Samoa fume at decisions",
+      "summary": "Australia are one win away from a record-extending 13th men's Rugby League World Cup title after beating Samoa 44-12 in a fractious clash to secure a showdown with New...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/australia-vs-samoa/report/63154",
+      "publishedAt": "2026-11-08T11:30:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "90e110ed429512",
+      "title": "Arsenal: Danny Murphy sends shivers down Premier League rivals with ‘worrying’ claim",
+      "summary": "The Gunners claimed their latest narrow win on Saturday as they saw off a stubborn Hull City 1-0 at Emirates Stadium courtesy of skipper Martin Odegaard’s late strike.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/danny-murphy-sends-shivers-down-title-rivals-worrying-arsenal-claim",
+      "publishedAt": "2026-11-08T11:18:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "bf309062112292",
+      "title": "Man Utd v Aston Villa: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Man Utd and Aston Villa.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/man-utd-v-aston-villa-prediction-preview",
+      "publishedAt": "2026-11-08T11:08:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "edb342d219264f",
+      "title": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
+      "summary": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-11-08T10:55:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6af77a040d2415",
+      "title": "Tottenham: Pedro Porro snubs Premier League trio as decision reached on next move",
+      "summary": "Porro enjoyed an outstanding World Cup finals campaign, further enhancing his reputation and attracting interest from some of Europe’s biggest clubs – including three i...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-pedro-porro-snubs-premier-league-trio-decision-reached-next-move",
+      "publishedAt": "2026-11-08T10:24:35.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ba7f7765c8cf3b",
+      "title": "Liverpool to make different decisions on Alisson, Van Dijk with one staying, other leaving",
+      "summary": "Liverpool are expected to make contrasting decisions on whether to offer Alisson Becker and Virgil van Dijk new deals.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-different-decisions-alisson-virgil-van-dijk-one-staying-other-leaving",
+      "publishedAt": "2026-11-08T09:44:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0960dd5d4ca1e5",
+      "title": "Ipswich v Bournemouth: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Ipswich and Bournemouth.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/ipswich-v-bournemouth-prediction-preview",
+      "publishedAt": "2026-11-08T09:39:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "ad7c5acb850ff6",
+      "title": "‘Absolutely garbage’ Tottenham star slammed after Leeds loss – ‘Did we sign his twin brother?’",
+      "summary": "The summer signing has scored just once in seven appearances in all competitions for Spurs and was woeful in the Premier League loss at Leeds on Saturday",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/absolutely-garbage-tottenham-star-slammed-after-leeds-defeat",
+      "publishedAt": "2026-11-08T09:08:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "8894dd2ebe58c5",
+      "title": "Australia set up fifth straight final vs New Zealand after overcoming Fiji",
+      "summary": "Defending champions Australia set up a fifth consecutive Women's Rugby League World Cup final against New Zealand after coming from behind to beat a spirited Fiji in Sy...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/australia-vs-fiji-women/report/64248",
+      "publishedAt": "2026-11-08T08:40:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "abc76c8164f1aa",
+      "title": "Rio Ngumoha reaches decision on joining Bayern Munich from Liverpool",
+      "summary": "Bayern Munich are ‘in talks’ with the camp of Rio Ngumoha, according to a report, and the winger has reached a decision on whether or not to leave Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/rio-ngumoha-reaches-decision-joining-bayern-munich-from-liverpool",
+      "publishedAt": "2026-11-08T08:27:46.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "861bcc076fb59e",
+      "title": "Brighton v Brentford: Prediction, team news, lineups and odds",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Brighton and Brentford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/brighton-v-brentford-prediction-preview",
+      "publishedAt": "2026-11-08T08:17:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "bc05da7120e61d",
+      "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
+      "summary": "Top spot is up for grabs in Sunday’s heavyweight clash as the Spider faces the team that tried to trap him last summer Julián Alvarez said sorry but forgiveness must be...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
+      "publishedAt": "2026-11-08T08:00:35.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Champions League",
+        "World Cup",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "ec64fe03325e5a",
+      "title": "De Zerbi slammed for one baffling decision in Spurs defeat – ‘please could somebody tell me’",
+      "summary": "It turns out ‘you have to show a bit of intent’ to win games of football, and Roberto De Zerbi fell well short of that for Spurs at Leeds.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/de-zerbi-slammed-one-baffling-decision-spurs-defeat-leeds",
+      "publishedAt": "2026-11-08T07:30:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "587992fd019fd2",
+      "title": "Messi makes history with MLS Golden Boot",
+      "summary": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T07:23:50.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "acff51b06f3fa0",
+      "title": "Why unique Brighton defence is so tricky to unpick",
+      "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T06:41:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "961d05202095ba",
+      "title": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day",
+      "summary": "Messi first to win consecutive MLS Golden Boots Inter Miami surrender 3-0 lead in dramatic draw Nashville set new league record with 77 points Lionel Messi won his seco...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
+      "publishedAt": "2026-11-08T03:31:47.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
       "id": "e24ad176fa84ad",
       "title": "Forest win over Man City 'a turning point' - Murphy",
       "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest...",
@@ -136,22 +420,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "dea8c9eca58305",
-      "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
-      "summary": "Valverde opens scoring in 3-0 victory for Real Madrid Bayern beat Mainz but Neuer’s record-breaking day turns sour Kylian Mbappé scored for the seventh match running as...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-      "publishedAt": "2026-11-07T22:30:08.000Z",
-      "category": "league",
-      "region": "spain germany",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Barcelona",
-        "Real Madrid"
       ]
     },
     {
@@ -213,22 +481,9 @@
       ]
     },
     {
-      "id": "c740696144309c",
-      "title": "'A different Noni?' Madueke finding a new level for Arsenal",
-      "summary": "Noni Madueke lay sprawled on the turf, head in his hands, following his one-on-one miss late in Arsenal's 1-0 victory over Hull . His frustration continued to show even...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency",
-      "publishedAt": "2026-11-07T20:55:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "7f6eeaa8351a05",
       "title": "Maresca's dream start turns into nightmare as title hopes hit",
-      "summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City ma...",
+      "summary": "Enzo Maresca left the City Ground with chants of \"can we play you every week?\" ringing in his ears, as Manchester City's dream start turns into a nightmare.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T20:54:12.000Z",
@@ -323,20 +578,6 @@
       ]
     },
     {
-      "id": "2dee24f6f21a3d",
-      "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-      "summary": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T19:26:31.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
       "id": "96ab2b6707464c",
       "title": "Argentina set to go to Cas after Fifa rejects appeals",
       "summary": "The Argentina Football Association says it is planning to go to the Court of Arbitration for Sport over Fifa rejecting its appeals against World Cup punishments.",
@@ -349,257 +590,6 @@
         "Football",
         "World Cup",
         "Fifa"
-      ]
-    },
-    {
-      "id": "91a8c9269a3d88",
-      "title": "Title race hots up before Chelsea-Man City showdown",
-      "summary": "Champions Manchester City will travel to Chelsea next week on top of the pile after a decisive Saturday in the Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T18:27:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "75f62ee7789f93",
-      "title": "Sunderland v Chelsea: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Sunderland and Chelsea.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/sunderland-v-chelsea-prediction-preview-2",
-      "publishedAt": "2026-11-07T18:18:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "021fb826af2d77",
-      "title": "Arsenal spared anti-Man City conspiracies by Madueke and GOAT referee mic moment",
-      "summary": "A GOAT referee mic moment and the persistence of Madueke for Arsenal spared us all an international break’s worth of anti-Man City conspiracy theories.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-arsenal-anti-man-city-conspiracy-madueke-goat-referee-mic-moment",
-      "publishedAt": "2026-11-07T17:20:25.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2731673982c8b2",
-      "title": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
-      "summary": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta’s sid...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
-      "publishedAt": "2026-11-07T17:02:45.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "0cb4fe40739ce8",
-      "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
-      "summary": "Questions over whether Álvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
-      "publishedAt": "2026-11-07T17:00:54.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "abf2e26e6e8f20",
-      "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
-      "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T17:00:38.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3549ce5ffb8ac9",
-      "title": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
-      "summary": "Khadija Shaw hits hat-trick in City’s 5-0 rout of West Ham Chelsea held 1-1 by Everton after Lucy Bronze own goal An own goal by defender Lucy Bronze ⁠against Everton c...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
-      "publishedAt": "2026-11-07T15:11:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "006cfde02b8cff",
-      "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-      "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T14:35:23.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "5bbc01b1f52246",
-      "title": "Liverpool captain Van Dijk accused of selfish act and leaving Reds team-mate to ‘fend for himself’",
-      "summary": "Liverpool captain Virgil van Dijk has been accused of not risking “being made to look foolish” by leaving Milos Kerkez to “fend for himself”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-van-dijk-selfish-act-foolish-kerkez",
-      "publishedAt": "2026-11-07T14:27:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "5919c3b0c2f531",
-      "title": "Jayden Bogle red card: Hoddle disagrees with ex-Premier League ref – ‘Serious foul play’",
-      "summary": "Glenn Hoddle and Darren Cann disagree on whether Leeds’ Jayden Bogle should have been shown a red card vs Tottenham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/hoddle-disagrees-ex-premier-league-referee-bogle-red-card-tottenham",
-      "publishedAt": "2026-11-07T14:26:16.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "eef7119c8bed9c",
-      "title": "Arteta issues ban after Arsenal star leaked team news for Liverpool clash",
-      "summary": "Mikel Arteta has stepped in after Christos Tzolis inadvertently leaked Arsenal’s team news for their clash with Liverpool last weekend.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arteta-ban-arsenal-star-leaked-team-news-liverpool-clash",
-      "publishedAt": "2026-11-07T13:51:01.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "67c15b4c2c2545",
-      "title": "Crystal Palace v Liverpool: Prediction, team news, lineups and odds",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Crystal Palace and Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/crystal-palace-v-liverpool-prediction-preview",
-      "publishedAt": "2026-11-07T13:44:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "778f97be74cdda",
-      "title": "Man City FFP: City told ‘best outcome’ as Haaland ‘might want’ Arsenal or Man Utd move",
-      "summary": "Erling Haaland “might want” to stay in England, amid Arsenal and Man Utd rumours, if he leaves Man City, according to an ex-City star.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-best-outcome-punishment-haaland-might-want-arsenal-man-utd-transfer",
-      "publishedAt": "2026-11-07T13:42:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1518e4406d4df4",
-      "title": "Gerrard makes Carrick sack prediction as he reflects on ‘biggest problem’ at Man Utd",
-      "summary": "Steven Gerrard suggests it will be “tough” for Michael Carrick to survive the international break if Man Utd lose to Aston Villa on Sunday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gerrard-sack-prediction-reflects-biggest-problem-man-utd",
-      "publishedAt": "2026-11-07T12:57:33.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e05a33c9ef89c6",
-      "title": "Arsenal transfer ‘completely obvious’ for Nusa as Romano brings transfer update",
-      "summary": "RB Leipzig winger Antonio Nusa has been told that moving to Arsenal would be the “completely obvious option” for him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-completely-obvious-nusa-romano-transfer-update",
-      "publishedAt": "2026-11-07T12:45:15.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "62a08a417d0ccf",
-      "title": "My dream is to win Ballon d'Or - Gabriel",
-      "summary": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T12:25:14.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "47d7611e2da67e",
-      "title": "Man Utd pick ‘preferred’ manager as ‘contact’ with Howe and Nagelsmann refuted",
-      "summary": "Manchester United have decided on their ‘preferred’ manager as a report refutes ‘contact’ with three possible replacements for Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-preferred-manager-contact-howe-nagelsmann-refuted",
-      "publishedAt": "2026-11-07T12:23:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "20da49073f9635",
-      "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-      "summary": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
-      "publishedAt": "2026-11-07T12:00:13.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Transfer",
-        "Manchester"
       ]
     }
   ],
