@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-07T21:37:53.279Z",
+  "generatedAt": "2026-11-08T05:21:41.902Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,90 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "e24ad176fa84ad",
+      "title": "Forest win over Man City 'a turning point' - Murphy",
+      "summary": "Match of the Day's Danny Murphy breaks down Nottingham Forest's impressive 3-1 win over Manchester City, a victory that he believes could be \"a turning point\" in Forest...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c893zr4rlzp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:00:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d1782fb31f92f5",
+      "title": "Arsenal should have been awarded penalty against Hull - Cann",
+      "summary": "Former Premier League assistant referee Darren Cann explains why Arsenal should have been awarded a penalty for a foul on Kai Havertz in the Premier League champions' 1...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:00:09.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "727d0049b960d9",
+      "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
+      "summary": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T22:44:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "dea8c9eca58305",
+      "title": "European football: Mbappé eases Real Madrid past Valencia to move joint top",
+      "summary": "Valverde opens scoring in 3-0 victory for Real Madrid Bayern beat Mainz but Neuer’s record-breaking day turns sour Kylian Mbappé scored for the seventh match running as...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+      "publishedAt": "2026-11-07T22:30:08.000Z",
+      "category": "league",
+      "region": "spain germany",
+      "tags": [
+        "Football",
+        "La Liga",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "f3e4c3090577c2",
+      "title": "Liverpool considering Verbruggen move - Sunday's gossip",
+      "summary": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by ri...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T22:05:40.000Z",
+      "category": "league",
+      "region": "england germany",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "7424e88b9f323c",
+      "title": "Glasner glee and Delap double - win could be lift-off for Forest",
+      "summary": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the se...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T21:42:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
       "id": "e4111b84299f0f",
       "title": "Liverpool make £85m defender their top target as stunning deal teed up",
       "summary": "Liverpool have turned their full attention to an £85m centre-back after being told a Chelsea star is not available for transfer, according to a report",
@@ -114,6 +198,34 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "4d755d4af721c1",
+      "title": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
+      "summary": "‘You need desire and intensity … we didn’t match them’ City have now lost three successive league matches Enzo Maresca blamed his side’s lack of desire and the way they...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/enzo-maresca-nottingham-forest-manchester-city-premier-league",
+      "publishedAt": "2026-11-07T21:17:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c740696144309c",
+      "title": "'A different Noni?' Madueke finding a new level for Arsenal",
+      "summary": "Noni Madueke lay sprawled on the turf, head in his hands, following his one-on-one miss late in Arsenal's 1-0 victory over Hull . His frustration continued to show even...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency",
+      "publishedAt": "2026-11-07T20:55:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "7f6eeaa8351a05",
       "title": "Maresca's dream start turns into nightmare as title hopes hit",
       "summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City ma...",
@@ -123,20 +235,6 @@ window.FOOTBALLDAY_DATA = {
       "category": "league",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7b1a62104b89a4",
-      "title": "Maresca looking to understand Man City's 'lack of intensity'",
-      "summary": "Enzo Maresca feels his side \"lacked intensity\" as Manchester City suffered their third Premier League defeat in a row, losing 3-1 to Nottingham Forest at the City Ground.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T20:42:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
         "Manchester"
       ]
     },
@@ -211,20 +309,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c31a94bd922227",
-      "title": "Delightful Delap stars as Forest shock Man City",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Nottingham Forest and Manchester City.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609523/nottingham-forest-3-1-manchester-city-premier-league-highlights",
-      "publishedAt": "2026-11-07T19:37:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
       "id": "9fcfc17f333369",
       "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
       "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
@@ -239,33 +323,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "105d18a625799f",
-      "title": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
-      "summary": "Wait long enough and results will come to reflect performances. Manchester City may have won their first seven league games of the season but they always looked vulnera...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
-      "publishedAt": "2026-11-07T19:30:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0983edf9be4235",
-      "title": "Forest end goal drought to make it three defeats in a row for Man City",
-      "summary": "Liam Delap scored two as Nottingham Forest ended their goal drought in style to beat Manchester City 3-1 at the City Ground.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/report/559542",
-      "publishedAt": "2026-11-07T19:30:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "2dee24f6f21a3d",
       "title": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
       "summary": "How Nottingham Forest and Manchester City's players rated following their Premier League match at the City Ground.",
@@ -276,46 +333,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a339f749655b60",
-      "title": "'That one was a BELTER!' - Delap makes it THREE for Forest",
-      "summary": "Liam Delap puts the home side 3-1 up against Manchester City - with Forest boss Oliver Glasner running to join the goalscorer for the celebrations.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609517/goal-l-delap-73-nottm-forest-2-1-manchester-city",
-      "publishedAt": "2026-11-07T19:10:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "83a5de4960a8bc",
-      "title": "Kane bags two assists in Bayern’s win over Mainz",
-      "summary": "Highlights of the Bundesliga match between Mainz and Bayern Munich.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609514/mainz-vs-bayern-munich-bundesliga-highlights",
-      "publishedAt": "2026-11-07T18:59:00.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "0f75afcc2df9cc",
-      "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
-      "summary": "Khadija Shaw's first Women's Super League hat-trick of the season helps Manchester City to a resounding 5-0 win over West Ham, as the reigning champions return to the t...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T18:35:43.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     },
@@ -349,19 +366,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Why Gunners should have had a penalty vs Hull",
-      "summary": "Arsenal latest: Why Gunners should have had a penalty vs Hull",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-11-07T18:20:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "75f62ee7789f93",
       "title": "Sunderland v Chelsea: Prediction, team news, lineups and odds",
       "summary": "All the team news and predictions ahead of the Premier League clash between Sunderland and Chelsea.",
@@ -376,19 +380,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "229d98a497e901",
-      "title": "IN FULL! Watch Vinnie Kemp drops EPIC post-fight interview!",
-      "summary": "Watch 'The King of Violence' Vinnie Kemp drop an epic post-fight interview after his win on Zuffa Boxing 12.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609491/in-full-watch-vinnie-kemp-drops-epic-post-fight-interview",
-      "publishedAt": "2026-11-07T18:14:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "021fb826af2d77",
       "title": "Arsenal spared anti-Man City conspiracies by Madueke and GOAT referee mic moment",
       "summary": "A GOAT referee mic moment and the persistence of Madueke for Arsenal spared us all an international break’s worth of anti-Man City conspiracy theories.",
@@ -400,21 +391,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Inter"
-      ]
-    },
-    {
-      "id": "dea8c9eca58305",
-      "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
-      "summary": "Veteran becomes club’s oldest player but suffers injury Keeper also in spotlight after another gaffe Bayern Munich secured a 2-1 victory over Mainz in the Bundesliga on...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-      "publishedAt": "2026-11-07T17:13:48.000Z",
-      "category": "issue",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Bayern"
       ]
     },
     {
@@ -595,6 +571,35 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Manchester",
         "Real Madrid"
+      ]
+    },
+    {
+      "id": "47d7611e2da67e",
+      "title": "Man Utd pick ‘preferred’ manager as ‘contact’ with Howe and Nagelsmann refuted",
+      "summary": "Manchester United have decided on their ‘preferred’ manager as a report refutes ‘contact’ with three possible replacements for Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-preferred-manager-contact-howe-nagelsmann-refuted",
+      "publishedAt": "2026-11-07T12:23:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "20da49073f9635",
+      "title": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
+      "summary": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since £39m transfer “When I first saw him, I thought to myself: ‘Who on earth...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+      "publishedAt": "2026-11-07T12:00:13.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Transfer",
+        "Manchester"
       ]
     }
   ],
