@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-08T21:51:26.249Z",
+  "generatedAt": "2026-11-09T05:32:05.755Z",
   "windowDays": 7,
   "articles": [
     {
@@ -97,6 +97,134 @@ window.FOOTBALLDAY_DATA = {
         "Top 5 leagues"
       ],
       "pinned": true
+    },
+    {
+      "id": "50f962aeef14bd",
+      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T23:53:20.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e9762b6a779eae",
+      "title": "Why defenders hate playing against brilliant Brobbey",
+      "summary": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T23:53:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a9a025b619f6e3",
+      "title": "'A horrible place to be' - What's gone wrong for Palace?",
+      "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unpreced...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T23:53:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "17bed9ef611fd8",
+      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T23:41:30.000Z",
+      "category": "league",
+      "region": "spain",
+      "tags": [
+        "La Liga",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "f598f15a226ce5",
+      "title": "Who is the top scorer of 2026? Harry Kane lead down to eight after post-Ballon d’Or blues",
+      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
+      "publishedAt": "2026-11-08T22:30:59.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "287692d79d6018",
+      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+      "summary": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and hold...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+      "publishedAt": "2026-11-08T22:27:50.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Barcelona",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "d8bc84f19346a3",
+      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+      "summary": "Frenchman under pressure after four successive defeats Former Spurs manager Frank emerging as main candidate Crystal Palace are poised to sack Pierre Sage after Sunday’...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+      "publishedAt": "2026-11-08T22:12:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5a5a4296387bc8",
+      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+      "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T21:50:05.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5c168df5662343",
+      "title": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
+      "summary": "‘Is there?’ manager retorts when told of talk over position Bizarre 4-4 draw with Villa leaves United in bottom three A tetchy Michael Carrick dismissed a suggestion he...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
+      "publishedAt": "2026-11-08T21:40:36.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
     },
     {
       "id": "2a2623d95a7789",
@@ -235,6 +363,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "edaa3c2171ecf7",
+      "title": "SkyPad analysis: How Verstappen went from 21st to 2nd at the Sao Paulo GP!",
+      "summary": "Karun Chandhok looks at how Max Verstappen went from 21st to 2nd at Interlagos.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13609959/how-max-verstappen-maximised-car-potential-after-going-from-21st-to-2nd",
+      "publishedAt": "2026-11-08T19:50:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
       "id": "1c1239e0f3d677",
       "title": "What can you read into Premier League table after 10 games?",
       "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
@@ -341,20 +482,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "da4abe58a50e4e",
-      "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-      "summary": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back up their breathless Roma comeback victory on Tuesday by building momentum an...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-      "publishedAt": "2026-11-08T18:54:23.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
       "id": "01e33dd1b35ddc",
       "title": "Man Utd rescue draw in EIGHT-goal thriller against Villa",
       "summary": "FREE TO WATCH: Highlights from the Premier League match between Manchester United and Aston Villa.",
@@ -365,19 +492,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d2ee59566c582a",
-      "title": "Man Utd score two in stoppage-time to salvage 4-4 draw with Villa",
-      "summary": "Manchester United scored twice in stoppage-time to salvage an incredible 4-4 draw with Aston Villa at Old Trafford that still leaves them in the relegation zone.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541",
-      "publishedAt": "2026-11-08T18:30:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     },
@@ -420,20 +534,6 @@ window.FOOTBALLDAY_DATA = {
         "Chelsea",
         "Barcelona",
         "Inter"
-      ]
-    },
-    {
-      "id": "c72e3bb12a5c6e",
-      "title": "Russo double gives Arsenal win over Liverpool at Anfield",
-      "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T17:45:27.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool"
       ]
     },
     {
@@ -483,107 +583,6 @@ window.FOOTBALLDAY_DATA = {
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13609830/liverpool-goalkeeper-alisson-back-to-his-best-while-chelsea-go-back-to-square-one-premier-league-hits-and-misses",
       "publishedAt": "2026-11-08T16:58:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0b9ac455723b84",
-      "title": "Sunderland save Le Bris and survive Xhaka loss after all with imbalanced Chelsea second best",
-      "summary": "No Granit Xhaka? No problem. A penalty converted by Enzo Le Fee proved to be the difference in a physical, rough and tumble affair.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/sunderland-chelsea-premier-league-reaction-le-bris-saved",
-      "publishedAt": "2026-11-08T16:44:28.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5fb8062fab007a",
-      "title": "Liverpool starting to purr under Iraola as zonal marking folly exposed again",
-      "summary": "Liverpool are up to fourth as their £300million frontline eventually came good at Selhurst Park.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/crystal-palace-liverpool-reaction-wirtz-barcola-zonal-marking",
-      "publishedAt": "2026-11-08T16:31:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "23ceb92edc4375",
-      "title": "Brighton the only thing standing in the way of an Arsenal Premier League title cruise",
-      "summary": "Brighton are just very clearly the second best football team in the country at this time, exactly as everyone expected.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/brighton-arsenal-premier-league-title-cruise-brentford",
-      "publishedAt": "2026-11-08T16:19:01.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "ae309641de2196",
-      "title": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
-      "summary": "Who can stop Brighton’s ­ascension in English and European football? They are setting standards, ­practices ­leaving almost everybody else ­trailing in their wake. A ­s...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-      "publishedAt": "2026-11-08T16:17:32.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8dac238e257b7c",
-      "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
-      "summary": "A lot can change in five‑and‑a‑half months, but as an early winter chill descended on Wearside last week – both meteorologically and ­metaphorically – Sunderland were d...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-      "publishedAt": "2026-11-08T16:16:34.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "582b8cde16ac9b",
-      "title": "Wirtz provides quality as Liverpool leave Crystal Palace propping up table",
-      "summary": "It was the moment when ­Liverpool knew they would win here in south London and so move on from the ­Premier League defeat against ­Arsenal at Anfield last Sunday and th...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
-      "publishedAt": "2026-11-08T16:16:18.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "06e144bc86b4c9",
-      "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
-      "summary": "Enzo Le Fee's penalty is the difference as Sunderland climb off the bottom of the table but how did the players rate against Chelsea?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T16:13:36.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
