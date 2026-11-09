@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-09T05:32:05.755Z",
+  "generatedAt": "2026-11-09T15:42:06.346Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,13 +99,13 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "50f962aeef14bd",
-      "title": "Four 'huge mistakes' that show Man Utd's defensive problems",
-      "summary": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T23:53:20.000Z",
-      "category": "league",
+      "id": "8f8133dadce0b5",
+      "title": "How Enzo Maresca is exposing Elliot Anderson and Man City with duff tactics",
+      "summary": "Seven straight Premier League wins for Manchester City have been followed by three defeats. What’s gone wrong?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/enzo-maresca-exposing-elliot-anderson-man-city-duff-tactics",
+      "publishedAt": "2026-11-09T15:06:42.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
@@ -113,25 +113,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e9762b6a779eae",
-      "title": "Why defenders hate playing against brilliant Brobbey",
-      "summary": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T23:53:15.000Z",
-      "category": "league",
+      "id": "0086ab6e4ffb38",
+      "title": "What now for Man Utd and Carrick?",
+      "summary": "The future of Michael Carrick at Manchester United remains a mystery following the dramatic 4-4 draw with Aston Villa on Sunday.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13610134/manchester-united-the-key-questions-with-michael-carricks-future-still-up-in-the-air-at-old-trafford",
+      "publishedAt": "2026-11-09T15:00:00.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Manchester"
       ]
     },
     {
-      "id": "a9a025b619f6e3",
-      "title": "'A horrible place to be' - What's gone wrong for Palace?",
-      "summary": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unpreced...",
+      "id": "154ff83495ea53",
+      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T23:53:08.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T14:34:19.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -139,316 +139,205 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "17bed9ef611fd8",
-      "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
-      "summary": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T23:41:30.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "La Liga",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Harry Kane lead down to eight after post-Ballon d’Or blues",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
+      "id": "429a90fd1d123a",
+      "title": "Chelsea allow Liverpool to complete major January signing with deal approved",
+      "summary": "Chelsea have greenlit a January exit for a player Liverpool bid for over the summer, though the move could spell disaster for a fan favourite at Anfield.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-11-08T22:30:59.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "287692d79d6018",
-      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-      "summary": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and hold...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-      "publishedAt": "2026-11-08T22:27:50.000Z",
-      "category": "worldcup",
-      "region": "spain",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Barcelona",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "d8bc84f19346a3",
-      "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
-      "summary": "Frenchman under pressure after four successive defeats Former Spurs manager Frank emerging as main candidate Crystal Palace are poised to sack Pierre Sage after Sunday’...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
-      "publishedAt": "2026-11-08T22:12:58.000Z",
+      "url": "https://www.football365.com/news/chelsea-allow-liverpool-complete-major-january-signing-deal-approved",
+      "publishedAt": "2026-11-09T14:25:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "Premier League",
+        "Chelsea",
         "Liverpool"
       ]
     },
     {
-      "id": "5a5a4296387bc8",
-      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
-      "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+      "id": "64cda818e21ae7",
+      "title": "That’s a Mora: Rodrigo and Roma rise with Lazio to give Eternal City new life",
+      "summary": "Roma and Lazio have both made unbeaten starts to the Serie A season, giving those in the Italian capital dreams of a Scudetto After nine games in 28 days, Gian Piero Ga...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/09/rodrigo-mora-roma-lazio-rome-serie-a",
+      "publishedAt": "2026-11-09T14:18:45.000Z",
+      "category": "ratings",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Serie A",
+        "Manchester",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "f44357215217bf",
+      "title": "2026/27 Premier League player stats: Havertz most offsides, Doku most dribbles",
+      "summary": "From big chances missed to offsides, we have 2026/27 Premier League statistic leaders across 38 different metrics.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-player-stats-leaders-2026-27-season",
+      "publishedAt": "2026-11-09T13:50:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "d49294b63c9322",
+      "title": "Liverpool: ‘Outstanding’ star backed to give duo ‘new lease of life’ and save FSG £100m",
+      "summary": "Former Reds forward Emile Heskey thinks FSG could save themselves millions in the transfer market by trusting a 19-year-old star to become their defensive midfield pivo...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/trey-nyoni-backed-save-liverpool-millions-transfer-market-and-unleash-two-teammates",
+      "publishedAt": "2026-11-09T13:43:38.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "21554d470373b8",
+      "title": "Jack Grealish sent ‘virtually non-existent’ Everton warning after ‘termination’ claim",
+      "summary": "Manchester City loanee Jack Grealish now has very little chance of signing for Everton on a permanent deal, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/everton-jack-grealish-virtually-non-existent-future-man-city-termination-claim",
+      "publishedAt": "2026-11-09T13:42:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cb53459ee9b28c",
+      "title": "Could Old Trafford chaos keep Michael Carrick in the job? Football Weekly – video",
+      "summary": "Max Rushden is joined by Barney Ronay , Jonathan Wilson and Dan Bardell as Manchester United twice come back from two goals down to draw 4-4 with Aston Villa, while tro...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/nov/09/could-old-trafford-chaos-keep-michael-carrick-in-the-job-football-weekly-video",
+      "publishedAt": "2026-11-09T13:29:14.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c60032c8d36c7a",
+      "title": "Madueke, Moyes dominate Premier League winners as Manchester City, Spurs jinx and Leeds shamed",
+      "summary": "Noni Madueke, David Moyes and Rodrigo Muniz are Premier League winners. Unai Emery, both Manchester club and a Spurs jinx are big old losers.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-winners-losers-madueke-moyes-manchester-city",
+      "publishedAt": "2026-11-09T13:07:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "15ff66aacdc7c2",
+      "title": "Why are Manchester United fans wearing green and gold?",
+      "summary": "Our Ask Me Anything team explain why some Manchester United fans are wearing green and gold to matches.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T21:50:05.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8l8y2egk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T12:54:09.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "5a56d705dc37e5",
+      "title": "Chelsea staff warned over Fantasy Premier League use",
+      "summary": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed throug...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T12:41:23.000Z",
       "category": "issue",
       "region": "england",
       "tags": [
         "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5c168df5662343",
-      "title": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
-      "summary": "‘Is there?’ manager retorts when told of talk over position Bizarre 4-4 draw with Villa leaves United in bottom three A tetchy Michael Carrick dismissed a suggestion he...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
-      "publishedAt": "2026-11-08T21:40:36.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "2a2623d95a7789",
-      "title": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
-      "summary": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer for Nottingham Forest's Murillo, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T21:08:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Michael Carrick now such a loser he might not even win this",
-      "summary": "Michael Carrick might not even manage to win the Premier League Sack Race, with a new name now ahead of the beleaguered Man United boss.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-11-08T20:40:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "418df614afc7dd",
-      "title": "Who has made Troy's Premier League team of the week?",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T20:18:01.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "50499d061b32d1",
-      "title": "Neville says Carrick sack won’t help Man Utd while ownership ‘haven’t got a clue’",
-      "summary": "Gary Neville feels a change in management won’t help Manchester United, where the ownership “haven’t got a clue” with multiple board members out of their depth.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-neville-michael-carrick-ownership-havent-clue",
-      "publishedAt": "2026-11-08T20:08:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7cd01699180d22",
-      "title": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
-      "summary": "Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T20:05:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2d56a97e89e08f",
-      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the inte...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T20:01:16.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8efce9ae33ff4c",
-      "title": "Bournemouth beat Ipswich to extend winning streak",
-      "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:59:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "aa3e3e2dbc7f27",
-      "title": "Man Utd and Aston Villa serve up a nonsense festival that’s perfect… for absolutely everyone else",
-      "summary": "It’s a rare thing in football for a match to end in a perfect outcome for absolutely everyone apart from the two teams actually involved.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-aston-villa-nonsense-festival-perfect-michael-carrick-sack",
-      "publishedAt": "2026-11-08T19:58:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "134673e2e1a19d",
-      "title": "Liverpool dispatch Palace to pile pressure on Sage",
-      "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:58:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "48d9efa39bb77d",
-      "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-      "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:58:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
         "Chelsea"
       ]
     },
     {
-      "id": "edaa3c2171ecf7",
-      "title": "SkyPad analysis: How Verstappen went from 21st to 2nd at the Sao Paulo GP!",
-      "summary": "Karun Chandhok looks at how Max Verstappen went from 21st to 2nd at Interlagos.",
+      "id": "db6022e4c6b597",
+      "title": "'My will is to stay' - Alisson wants new Liverpool contract",
+      "summary": "Liverpool goalkeeper Alisson says he wants to stay at Anfield beyond the end of the season when his contract expires.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609959/how-max-verstappen-maximised-car-potential-after-going-from-21st-to-2nd",
-      "publishedAt": "2026-11-08T19:50:00.000Z",
+      "url": "https://www.skysports.com/football/news/12040/13610181/alisson-liverpool-goalkeeper-wants-to-stay-at-anfield-beyond-contract-expiry-at-the-end-of-this-season",
+      "publishedAt": "2026-11-09T12:38:00.000Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8bdab6013434a1",
+      "title": "Alexis Mac Allister sends Liverpool fans message over future amid Real Madrid links",
+      "summary": "Liverpool midfielder Alexis Mac Allister has sent a message to Reds fans over rumours he could leave Anfield in the near future.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-alexis-mac-allister-sends-message-future-real-madrid",
+      "publishedAt": "2026-11-09T12:09:14.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Liverpool",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "996574b79978a5",
+      "title": "Arsenal to complete three superb deals before January with Bayern Munich beaten",
+      "summary": "Arsenal are on course to complete three brilliant deals before the calendar ticks over to 2027, with Bayern Munich swatted aside in one of the trio.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-will-complete-three-superb-deals-before-january-bayern-munich-beaten",
+      "publishedAt": "2026-11-09T12:07:58.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "48bedef9a773c8",
+      "title": "Alisson wants to sign new Liverpool contract",
+      "summary": "Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T12:00:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0a00d7155d58a7",
+      "title": "Fleming turns to uncapped spinner amid big calls for first Test series as England coach",
+      "summary": "England have called up uncapped left-arm finger spinner Liam Patterson-White for this winter's three-Test series in South Africa, while Shoaib Bashir has dropped down t...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13609716/england-test-squad-for-south-africa-uncapped-spinner-liam-patterson-white-called-up-and-jacob-bethell-returns",
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "category": "worldcup",
       "region": "italy",
       "tags": [
         "Inter"
       ]
     },
     {
-      "id": "1c1239e0f3d677",
-      "title": "What can you read into Premier League table after 10 games?",
-      "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:40:34.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "e6685239415dbd",
-      "title": "Man Utd in relegation zone but boss Carrick 'expects' to stay on",
-      "summary": "Under-pressure Manchester United boss Michael Carrick \"expects\" to stay on despite his side sitting in the relegation zone after Sunday's dramatic 4-4 home draw against...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13609927/michael-carrick-manchester-united-boss-expects-to-stay-on-despite-club-sitting-in-relegation-zone-after-aston-villa-draw",
-      "publishedAt": "2026-11-08T19:40:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4004f2b4437333",
-      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
-      "summary": "Aston Villa manager Unai Emery was a frustrated figure after his side surrendered a two goal lead against Manchester United twice, leaving Old Trafford with a point fro...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:39:24.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "55c776196ee331",
-      "title": "Unai Emery gives verdict on Man Utd ‘level’ after Aston Villa ‘defeat’",
-      "summary": "Aston Villa failed to win against Manchester United at Old Trafford in the Premier League on Sunday.",
+      "id": "79ed85c1460ba9",
+      "title": "Arsenal flying start after 10 games ranks among best ever in Premier League history",
+      "summary": "Arsenal have enjoyed a flying start to their season, with nine wins from 10 games putting them in the top seven best openings to a Premier League campaign.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/unai-emery-michael-carrick-aston-villa-manchester-united-reaction",
-      "publishedAt": "2026-11-08T19:30:24.000Z",
+      "url": "https://www.football365.com/news/feature-best-premier-league-starts-to-season-arsenal-chelsea-liverpool-man-city-newcastle",
+      "publishedAt": "2026-11-09T11:55:04.000Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "56af3a934dd2ad",
-      "title": "Villa boss Emery explains why he went down tunnel before full-time",
-      "summary": "A prickly Unai Emery claimed he headed down the Old Trafford tunnel after Manchester United's late equaliser against his Aston Villa side because he thought the match w...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13609937/unai-emery-aston-villa-boss-reveals-why-he-went-down-old-trafford-tunnel-before-full-time-in-eight-goal-thriller-at-man-utd",
-      "publishedAt": "2026-11-08T19:25:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e92bdcfe0300dd",
-      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-      "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:24:36.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
         "Premier League",
@@ -456,38 +345,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "4bd04e0740b245",
-      "title": "Man Utd making it 'hard on ourselves' - Carrick",
-      "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to A...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:13:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1f3afcc5692e54",
-      "title": "Michael Owen reacts to Man Utd 4-4 Aston Villa and makes Michael Carrick sack prediction – ‘next couple of days’",
-      "summary": "Michael Owen has given his verdict on whether or not Manchester United co-owners INEOS will sack Michael Carrick after the match against Aston Villa.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-manchester-united-michael-owen-sack-prediction-aston-villa",
-      "publishedAt": "2026-11-08T19:00:54.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "01e33dd1b35ddc",
-      "title": "Man Utd rescue draw in EIGHT-goal thriller against Villa",
-      "summary": "FREE TO WATCH: Highlights from the Premier League match between Manchester United and Aston Villa.",
+      "id": "2a23a0ac2bf739",
+      "title": "Neville: Is Man City charges spotlight seeping into performances?",
+      "summary": "Gary Neville has questioned whether the recent attention over Manchester City being charged by the Premier League has begun to seep into the team's performances.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13609907/manchester-united-4-4-aston-villa-premier-league-highlights",
-      "publishedAt": "2026-11-08T18:49:00.000Z",
+      "url": "https://www.skysports.com/football/news/12040/13610133/gary-neville",
+      "publishedAt": "2026-11-09T11:55:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -496,67 +359,132 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "63c04df6dffff8",
-      "title": "Ashley Young says Man Utd star has regressed under Michael Carrick – ‘he hasn’t looked the same’",
-      "summary": "Ashley Young thinks that a Manchester United player’s level has dropped from last season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-senne-lammens-aston-villa-ashely-young-roy-keane-verdict",
-      "publishedAt": "2026-11-08T18:28:53.000Z",
+      "id": "ea14d25f47ac1b",
+      "title": "Old Firm the top two, but are Falkirk this season's surprise package?",
+      "summary": "It is as you were at the top of the Scottish Premiership heading into the second international break, but Falkirk's incredible rise has taken many by surprise.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13610080/scottish-premiership-celtic-rangers-lead-the-way-but-are-falkirk-the-surprise-package-as-aberdeen-consider-another-change",
+      "publishedAt": "2026-11-09T11:30:00.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "italy",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2434c647caefc1",
-      "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-      "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T18:20:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "e86d7fc4fc1175",
-      "title": "Chelsea make shock Levi Colwill decision as £75m Barcelona threat revealed",
-      "summary": "Barcelona are interested in signing centre-back Levi Colwill, who Chelsea are willing to sell if they receive in the region of £75million, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-levi-colwill-decision-barcelona-liverpool",
-      "publishedAt": "2026-11-08T17:47:29.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Chelsea",
-        "Barcelona",
         "Inter"
       ]
     },
     {
-      "id": "c9f90bc001544f",
-      "title": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
-      "summary": "Bethany England scores late to give Palace 3-2 win London City, Spurs and Manchester United all win It was heartbreak for Charlton on Sunday, after Bethany England’s 90...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
-      "publishedAt": "2026-11-08T17:10:11.000Z",
-      "category": "league",
+      "id": "1403d944a6abb4",
+      "title": "Did VAR come to an incorrect decision for Havertz penalty appeal?",
+      "summary": "The Ref Watch panel discuss VAR's decision to not award Arsenal a penalty against Hull.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13610143/kai-havertz-penalty-appeal-did-var-come-to-an-incorrect-decision-in-arsenal-game-against-hull-city",
+      "publishedAt": "2026-11-09T11:21:00.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4ea4b9c62193fe",
+      "title": "Arsenal: Verdict reached on January move for star in Prem team of the season so far",
+      "summary": "Hull City forward Mohamed Belloumi should wait until the end of the season to join Arsenal, according to former Algeria manager Rabah Saâdane.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-verdict-reached-january-transfer-belloumi-hull",
+      "publishedAt": "2026-11-09T11:16:09.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "904022f62241fc",
+      "title": "'Should've been ruled out!' - Did Lammens foul Suzuki for Man Utd's late equaliser?",
+      "summary": "The Ref Watch panel debate whether or not Manchester United's late equaliser against Aston Villa in their 4-4 draw should have been disallowed because of contact on Zio...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13610140/ref-watch-should-manchester-uniteds-late-equaliser-against-aston-villa-have-been-disallowed-because-of-contact-on-zion-suzuki",
+      "publishedAt": "2026-11-09T11:11:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "2786fa8edc2c77",
-      "title": "Florian Wirtz: Andoni Iraola gives two-word verdict on Liverpool star and reacts to Alisson heroics",
-      "summary": "Liverpool manager Andoni Iraola has raved about Florian Wirtz and Alisson for their performances against Crystal Palace at Selhurst Park.",
+      "id": "3e7ea333d5b47b",
+      "title": "Emery post-match crash out proved he would be disastrous Manchester United appointment",
+      "summary": "Aston Villa’s implosion at Man Utd did not prove why Unai Emery would be a dreadful Michael Carrick replacement – his post-match interview did.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/florian-wirtz-alisson-andoni-iraola-liverpool-crystal-palace-verdict",
-      "publishedAt": "2026-11-08T17:09:12.000Z",
+      "url": "https://www.football365.com/news/emery-post-match-crash-out-disastrous-manchester-united-appointment-villa",
+      "publishedAt": "2026-11-09T11:02:52.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "541c11be74b9d4",
+      "title": "Musiala may never return to his best - Hoeness",
+      "summary": "Bayern Munich honorary president Uli Hoeness questions whether forward Jamal Musiala will ever \"regain the performance level he once had\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T11:01:09.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "18217608205d96",
+      "title": "Football comes together across Spain to honour Jesús de Miguel: ‘We’ve seen how fragile life is’",
+      "summary": "Across La Liga and beyond this weekend, footballers took to the field knowing it could have been them In the final few minutes before stepping into the arena once more,...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/09/football-comes-together-spain-honour-jesus-de-miguel-tenerife",
+      "publishedAt": "2026-11-09T11:00:13.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "La Liga"
+      ]
+    },
+    {
+      "id": "a8ca0d909e31e2",
+      "title": "Which Premier League players are set for yellow card suspensions?",
+      "summary": "Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T10:33:57.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7fba51131a8a24",
+      "title": "Crystal Palace: Pierre Sage sack imminent as Eagles turn to familiar Premier League face",
+      "summary": "Palace currently sit rock-bottom of the Premier League table heading into the November international break.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/crystal-palace-pierre-sage-sack-imminent-thomas-frank-favourite-take-over",
+      "publishedAt": "2026-11-09T10:30:05.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "bddbbf7de728d8",
+      "title": "Liverpool reach final decision on Ronald Araujo signing after win at Crystal Palace",
+      "summary": "Liverpool have decided to wait until the end of the season to choose whether to take up their option on Ronald Araujo, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-reach-final-decision-on-ronald-araujo-signing-after-win-at-crystal-palace",
+      "publishedAt": "2026-11-09T10:09:03.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -564,29 +492,97 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "96ed79705106e4",
-      "title": "London City thump Birmingham to close gap on second",
-      "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T17:06:21.000Z",
-      "category": "league",
-      "region": "england",
+      "id": "acbc138255ff4a",
+      "title": "Man Utd plan stunning move for Bayern Munich coach after Carrick sack decision is made",
+      "summary": "Man Utd are weighing up a plan to bring in Bayern Munich coach Aaron Danks, according to reports…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-bayern-munich-danks-assistant-carrick-sack-decision",
+      "publishedAt": "2026-11-09T09:39:03.000Z",
+      "category": "transfer",
+      "region": "germany",
       "tags": [
-        "Chelsea"
+        "Bayern"
       ]
     },
     {
-      "id": "4c2aeb0781f8ff",
-      "title": "Hits and misses: Alisson back to his best while Chelsea go back to square one",
-      "summary": "Hits and misses: Alisson back to his best while Chelsea go back to square one",
+      "id": "9ee096a6604f82",
+      "title": "England Wheelchair ready for Australia showdown in RLWC semis",
+      "summary": "If England Wheelchair want to continue the defence of their Rugby League World Cup title, the task is simple: defeat Australia in the semi-finals in their own backyard.",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13609830/liverpool-goalkeeper-alisson-back-to-his-best-while-chelsea-go-back-to-square-one-premier-league-hits-and-misses",
-      "publishedAt": "2026-11-08T16:58:00.000Z",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13610092/rugby-league-world-cup-england-wheelchair-ready-for-australia-showdown-as-defence-on-line-in-semi-finals",
+      "publishedAt": "2026-11-09T09:38:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1f2ed8ba1d74c2",
+      "title": "No Arsenal again in Prem team of the season so far as veteran replaces Rice",
+      "summary": "Declan Rice is already out of the Premier League team of the season so far, with two players regaining their places…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-team-of-the-season-so-far-2026-27",
+      "publishedAt": "2026-11-09T09:23:35.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6adaa0f40e2b5d",
+      "title": "Who would buy Man Utd and for how much if the Glazers decide to sell?",
+      "summary": "Man Utd might be for sale; would INEOS be interested in a takeover? Is there still interest from the Middle East? What about David Beckham?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-would-buy-man-utd-how-much",
+      "publishedAt": "2026-11-09T09:12:47.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "3bc0c1993d8eb0",
+      "title": "Man Utd: Romano reveals Dalot January transfer decision after boos from fans",
+      "summary": "Transfer insider Fabrizio Romano has revealed why Michael Carrick wants to keep Diogo Dalot at Man Utd in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-romano-dalot-january-transfer-decision-boos-fans",
+      "publishedAt": "2026-11-09T09:10:22.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "1d2c0067d66b9f",
+      "title": "How Premier League teams qualify for 2027/28 Champions League and Europa competitions",
+      "summary": "Nine Premier League teams have qualified for Europe in 2026/27. Could that happen again next season? It could actually be 11.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/how-premier-league-teams-qualify-for-2027-28-champions-league-and-europa-competitions",
+      "publishedAt": "2026-11-09T09:01:04.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "34aabdf5747d0d",
+      "title": "Next Man Utd manager: Pochettino joins Howe to lead favourites list",
+      "summary": "Manchester United have picked up only eight points from their first 10 games of the Premier League season and are in the relegation zone.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/next-man-utd-manager-michael-carrick-replacement-candidates",
+      "publishedAt": "2026-11-09T08:33:19.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea"
+        "Premier League",
+        "Manchester"
       ]
     }
   ],
