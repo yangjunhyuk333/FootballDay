@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-11T05:29:35.548Z",
+  "generatedAt": "2026-11-11T13:51:22.874Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,114 +99,12 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "03784847e13bc7",
-      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
-      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clu...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T23:08:35.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Real Madrid",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ffa41bc747bbde",
-      "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
-      "publishedAt": "2026-11-10T22:44:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "598aabc0430d3e",
-      "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
-      "summary": "On a very satisfying night for Manchester City, perhaps the most pleasing element was that they did not even need to call on Khadija ‘Bunny’ Shaw. While giving their ta...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-      "publishedAt": "2026-11-10T22:05:43.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "adab1f5b87da89",
-      "title": "Man City thrash Inter to claim first CL win of season",
-      "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T22:05:15.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Manchester",
-        "Inter",
-        "Milan"
-      ]
-    },
-    {
-      "id": "e385df3c2a22c0",
-      "title": "Liverpool: Alisson agent drops huge update on Anfield contract extension",
-      "summary": "Alisson is set to be a free agent next summer, with speculation mounting over his future, but his comments after the win over Palace suggest that a new deal is ...",
+      "id": "805f28e51b1745",
+      "title": "Man Utd: After three failures they must ‘put faith’ in board ‘getting fourth one right’",
+      "summary": "Insider Mike Keegan has described how Manchester United fans are simply being told they need to have faith in the club’s board to get the next managerial appointment ri...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/alisson-agent-drops-huge-update-liverpool-contract-talks",
-      "publishedAt": "2026-11-10T20:58:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c7b1a73836db32",
-      "title": "Chelsea play out goalless draw with Hacken",
-      "summary": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:07:12.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5a787f72544ab4",
-      "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
-      "summary": "Midfielder was in hospital before Haiti match ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to hav...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-      "publishedAt": "2026-11-10T19:54:51.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c1c89e4574700e",
-      "title": "Super agent pushing Antonio Conte to Man Utd as Pochettino rival rejects different role",
-      "summary": "Antonio Conte is reportedly being represented by super agent Pini Zahavi in his quest to land the Manchester United job, having rejected another role as he rivals Mauri...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pini-zahavi-antonio-conte-man-utd-mauricio-pochettino",
-      "publishedAt": "2026-11-10T19:48:11.000Z",
+      "url": "https://www.football365.com/news/man-utd-faith-board-getting-fourth-right",
+      "publishedAt": "2026-11-11T13:42:07.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -214,256 +112,25 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6289eff5ea30df",
-      "title": "Partick Thistle lose SWPL points for amateur player payments",
-      "summary": "Partick Thistle are deducted three points and fined £6,000 by the Scottish Women's Premier League for making payments to players who were registered as amateurs last se...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme3x33vz0p0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T19:23:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "aaf5a2e85f0ea2",
-      "title": "Lecturer's bid to challenge Fifa president Infantino",
-      "summary": "University lecturer Peter Auf der Heyde is seeking to be nominated to take on Gianni Infantino for the Fifa presidency.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T19:14:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Fifa"
-      ]
-    },
-    {
-      "id": "8e9375119f1f14",
-      "title": "Man City FFP: Insider shares latest as Prem bring in ‘No.1 choice for government’",
-      "summary": "Football finance insider Stefan Borson has shared an update on the FFP case involving Manchester City, with a barrister used by the government brought in to oversee pro...",
+      "id": "23bbdbfbfa14dc",
+      "title": "Man Utd: Ratcliffe reaches verdict on axing Wilcox, Berrada after Carrick is sacked, Pochettino appointed",
+      "summary": "A report has revealed whether Manchester United plan to move past Jason Wilcox and/or Omar Berrada after Michael Carrick is sacked.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-stefan-borson-latest",
-      "publishedAt": "2026-11-10T19:04:30.000Z",
+      "url": "https://www.football365.com/news/man-utd-ratcliffe-verdict-axing-wilcox-berrada-carrick-pochettino",
+      "publishedAt": "2026-11-11T13:39:44.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
         "Manchester"
       ]
     },
     {
-      "id": "f8e4981a5d400f",
-      "title": "Chelsea frustrated at Hacken in WCL",
-      "summary": "Chelsea remain unbeaten in the Women’s Champions League but they were frustrated in a goalless draw at BK Hacken.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/report/578259",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "69cca56250dabf",
-      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-      "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:12:02.000Z",
-      "category": "league",
-      "region": "england france",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "50f66d25f4b1ba",
-      "title": "Wales' Johnson says definitely more to come after 50 caps",
-      "summary": "Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:01:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "149a6ae19589b2",
-      "title": "Wilcox and Berrada pushed to follow Carrick out the door at Man Utd – ‘This is on them’",
-      "summary": "Richard Keys has told Manchester United men Jason Wilcox and Omar Berrada that they should pack up their things if Michael Carrick is shown the door.",
+      "id": "5db86c08172c71",
+      "title": "Martin Zubimendi exit to help Arsenal sign €70m striker in January",
+      "summary": "Zubimendi leaving the Emirates in January could boost Arteta’s chances of landing a new forward, a report has revealed",
       "source": "Football365",
-      "url": "https://www.football365.com/news/jason-wilcox-omar-berrada-pushed-follow-michael-carrick-man-utd",
-      "publishedAt": "2026-11-10T17:55:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "aba2377660c23d",
-      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
-      "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is int...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
-      "publishedAt": "2026-11-10T17:40:40.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "96f0c1e6bb67f1",
-      "title": "Hacken 0-0 Chelsea commentary",
-      "summary": "Hacken 0-0 Chelsea commentary",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/live/578259",
-      "publishedAt": "2026-11-10T17:15:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "f7ae29564ca629",
-      "title": "McTominay reveals heart treatment at World Cup",
-      "summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T16:46:31.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "eaaea93d0ccbad",
-      "title": "England focused on Curry and Feyi-Waboso winning World Cup fitness race",
-      "summary": "Immanuel Feyi-Waboso and Tom Curry will be carefully managed between now and the World Cup as England look to give two key personnel the best possible chance of being a...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13610706/england-focused-on-ensuring-immanuel-feyi-waboso-and-tom-curry-get-fit-for-rugby-world-cup",
-      "publishedAt": "2026-11-10T16:44:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "c45cd7ff710f34",
-      "title": "Chelsea push ahead with Levi Colwill decision after £75m Barcelona rumours",
-      "summary": "Chelsea are pushing ahead with plans for Levi Colwill after a reveal from a second source following reports of interest from Barcelona.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-push-ahead-levi-colwill-decision-75m-barcelona-rumours",
-      "publishedAt": "2026-11-10T16:43:45.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Chelsea",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "7905c6483a6444",
-      "title": "What is the Women's Champions League prize money?",
-      "summary": "Our Ask Me Anything team break down the prize money on offer in the Women's Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8dzdzq2zn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T16:29:16.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "9e34f955a02339",
-      "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-      "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T16:17:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "498b7b0c3502f3",
-      "title": "Omar Berrada picks his next Man Utd manager and Joel Glazer agrees",
-      "summary": "Manchester United CEO Omar Berrada and co-owner Joel Glazer are in agreement over who should replace Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mauricio-pochettino-omar-berrada-joel-glazer-next-manchester-united-manager",
-      "publishedAt": "2026-11-10T16:02:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "88276820b4fe16",
-      "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
-      "summary": "Scott McTominay has revealed he needed to have his heart “shocked” two days before Scotland's World Cup opener against Haiti.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ab143d1c7309f1",
-      "title": "Man Utd: Butt makes Carrick ‘threatened to quit’ claim as sack looms – ‘I’m not taking the job if I don’t’",
-      "summary": "Manchester United legend Nicky Butt thinks head coach Michael Carrick should have ‘threatened to quit’ the club this summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-butt-carrick-threatened-quit-claim-sack-looms",
-      "publishedAt": "2026-11-10T15:52:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8e046fe4f05472",
-      "title": "Football Daily | ‘Where the hell is Roy Keane!’ Fifty shades of great football debate",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Forget about Michael Carrick. Don’t dwell on Women’s Bigger Cup. Fret not about Pierre Sage. No, the big football st...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/10/ultimate-shirt-numbers-football-daily-newsletter",
-      "publishedAt": "2026-11-10T15:26:40.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8842ab64464a11",
-      "title": "William Gallas names Arsenal’s ‘best’ player this season: ‘He’s a monster’",
-      "summary": "William Gallas has raved about an Arsenal star who has been on fire this season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/william-gallas-declan-rice-arsenal-best-player-this-season",
-      "publishedAt": "2026-11-10T15:21:49.000Z",
+      "url": "https://www.football365.com/news/arsenal-transfer-news-martin-zubimendi-exit-help-endrick-talks-january-real-madrid",
+      "publishedAt": "2026-11-11T13:04:29.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -471,80 +138,40 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3cccd5e971126f",
-      "title": "Pochettino told ‘same problems’ will continue at Man Utd as ex-scout names two main reasons",
-      "summary": "Manchester United look to be on the verge of parting with Michael Carrick, and ex-scout Mick Brown has told their next boss – potentially Mauricio Pochettino – that he’...",
+      "id": "a61bc96e2bbe46",
+      "title": "Tottenham now ‘ready’ to hijack Arsenal with ‘triple swap offer’ to secure ‘dream’ transfer",
+      "summary": "According to reports, Tottenham Hotspur are ‘ready’ to try to beat Arsenal in the race to sign Bournemouth forward Junior Kroupi.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/mauricio-pochettino-same-problems-man-utd-michael-carrick",
-      "publishedAt": "2026-11-10T15:20:41.000Z",
+      "url": "https://www.football365.com/news/tottenham-now-ready-hijack-arsenal-triple-swap-offer",
+      "publishedAt": "2026-11-11T12:59:31.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Transfer",
+        "Arsenal"
       ]
     },
     {
-      "id": "fdb30771ca4b70",
-      "title": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'",
-      "summary": "This year's edition of the Sao Paulo Grand Prix at Interlagos served up its usual fascinating challenges and surprises. The race was great, perhaps only missing a late...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/f1/news/12040/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil",
-      "publishedAt": "2026-11-10T15:20:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "324e3ce782e989",
-      "title": "Man Utd to make shock U-turn on sacking Carrick on one condition as INEOS ‘genuine option’ revealed",
-      "summary": "According to reports, Manchester United could yet make a U-turn on sacking Michael Carrick and keep the head coach beyond the international break.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-shock-u-turn-sacking-carrick-one-condition-ineos-genuine-option-revealed",
-      "publishedAt": "2026-11-10T15:16:19.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "0dd39a8cb847df",
-      "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
-      "summary": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid paying Pierre Sage signifi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-      "publishedAt": "2026-11-10T15:08:24.000Z",
-      "category": "transfer",
+      "id": "70bba4df95df2d",
+      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+      "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T12:58:17.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "47361cf55416e1",
-      "title": "Man Utd Q&A: Carrick, Poch, INEOS and more answered",
-      "summary": "Kaveh Solhekol has answered your latest questions on Manchester United, with Michael Carrick's future up in the air, the club in the relegation zone and more issues beh...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "16c9e6c110f602",
-      "title": "Premier League goalkeepers ranked: Lammens slips out of top 10 as Alisson climbs",
-      "summary": "David Raya has started 2026/27 where he left off last season, while Alisson climbs up into the top 10 as Senne Lammens slips…",
+      "id": "fb83344421e74f",
+      "title": "Carrick sack follows Van Gaal, Hughes, Gullit farces in Premier League",
+      "summary": "Michael Carrick is not the first manager to be sacked in shambolic fashion. He’s not even the first Man Utd manager to suffer such a fate…",
       "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-goalkeepers-ranking-2026-27",
-      "publishedAt": "2026-11-10T14:54:35.000Z",
+      "url": "https://www.football365.com/news/most-farcical-harshest-premier-league-manager-sackings",
+      "publishedAt": "2026-11-11T12:56:07.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -552,12 +179,286 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8b1622e1d5b414",
-      "title": "Liverpool: Van Dijk vows to ‘go somewhere else’ as contract decision made",
-      "summary": "Liverpool captain Virgil van Dijk insists he’ll “go somewhere else” if the Reds don’t extend his contract, and a report has outlined the current thinking amongst the Re...",
+      "id": "db901eeb7e72ef",
+      "title": "‘An eternal shame’: Bilic and Croatia aim to use 7-0 humbling as fuel against England",
+      "summary": "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley",
+      "publishedAt": "2026-11-11T12:30:30.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "12435864d6d279",
+      "title": "RIP Danny Kelly, founding father of Football365 and bloody good bloke",
+      "summary": "Danny Kelly was one of the founding fathers of Football365 and we mourn his passing; editor Sarah Winterburn remembers.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-van-dijk-vows-go-somewhere-else-contract-decision-made",
-      "publishedAt": "2026-11-10T14:45:07.000Z",
+      "url": "https://www.football365.com/news/rip-danny-kelly",
+      "publishedAt": "2026-11-11T12:25:52.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "10bc234ea8aba2",
+      "title": "Aston Villa push for Romeo Lavia amid decision on continuing at Chelsea – report",
+      "summary": "Aston Villa are reportedly interested in signing Chelsea midfielder Romeo Lavia amid his decision on continuing his career with the Blues.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/aston-villa-push-romeo-lavia-chelsea",
+      "publishedAt": "2026-11-11T12:24:42.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "66221e509ce2b7",
+      "title": "Mauricio Pochettino ‘breakthrough’ leaves only one ‘obstacle’ to Man United manager job",
+      "summary": "Mauricio Pochettino and Manchester United obviously dominating the media landscape today. Will he be any good? What are the obstacles?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mauricio-pochettino-man-utd-breakthrough-obstacle-mediawatch",
+      "publishedAt": "2026-11-11T12:12:39.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "87a306942b5864",
+      "title": "Man Utd strike Poch agreement as Carrick takes training",
+      "summary": "Manchester United have reached an agreement in principle with Mauricio Pochettino to take over as head coach if Michael Carrick is sacked.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+      "publishedAt": "2026-11-11T12:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "19b8f27736be55",
+      "title": "Scotland without captain Weir for World Cup play-off",
+      "summary": "Scotland will be without Caroline Weir for the World Cup play-off final with Sweden following a setback in the influential midfielder's recovery from a muscle injury.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T11:59:18.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "ab22ea169e60a0",
+      "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+      "summary": "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define c...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+      "publishedAt": "2026-11-11T11:56:39.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "c9d0d53f646be1",
+      "title": "Man Utd ‘reach agreement’ with Mauricio Pochettino as five huge details on next appointment revealed",
+      "summary": "According to reports, Manchester United have now ‘reached an agreement’ with Mauricio Pochettino for him to replace Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-reach-agreement-pochettino-five-details-appointment-revealed",
+      "publishedAt": "2026-11-11T11:47:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "205e86112f0055",
+      "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+      "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T11:47:09.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "a983d8c715ee3a",
+      "title": "Martin Zubimendi responds to Real Madrid rumour and makes Arsenal promise",
+      "summary": "Spain international midfielder Martin Zubimendi makes it clear whether he is planning to leave Arsenal anytime soon.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/martin-zubimendi-arsenal-real-madrid-2027-final-decision-made",
+      "publishedAt": "2026-11-11T11:25:55.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e2960745754fb5",
+      "title": "Chelsea star reaches verdict on leaving in January with transfer to Liverpool now on for two reasons",
+      "summary": "According to reports, Chelsea right-back Malo Gusto is keen to leave the Premier League club and could join rivals Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-star-reaches-verdict-leaving-january-transfer-liverpool-on-two-reasons",
+      "publishedAt": "2026-11-11T11:17:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "2bfc8d143b129d",
+      "title": "Liverpool strike agreement for dazzling first January capture",
+      "summary": "Chelsea believe Liverpool are set to beat them to a big January signing, an Anfield insider has revealed",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-first-january-signing-lamine-camara-strike-agreement",
+      "publishedAt": "2026-11-11T11:04:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "5e092e75bcc14b",
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+      "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T10:34:01.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f2288925c45674",
+      "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
+      "summary": "Liverpool should have been awarded a penalty when Jurrien Timber pulled Alexander Isak's shirt in Arsenal's victory at Anfield, an independent panel has ruled.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
+      "publishedAt": "2026-11-11T10:33:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "00b9cb4602dd54",
+      "title": "Pochettino expectation for Man Utd v Liverpool clarified amid £10.5m update",
+      "summary": "An update has been released on the expectation of Mauricio Pochettino for Manchester United against Liverpool, and the costs of taking him and his staff from their USMN...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mauricio-pochettino-expectation-man-utd-v-liverpool",
+      "publishedAt": "2026-11-11T10:31:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c91e106e97b71b",
+      "title": "Man Utd squad react to Pochettino appointment and reveal alternative they want to replace Carrick",
+      "summary": "According to reports, Manchester United players have reacted to the imminent arrival of Mauricio Pochettino, with some wanting a different manager.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-squad-react-pochettino-appointment-reveal-alternative-want-replace-carrick",
+      "publishedAt": "2026-11-11T10:26:57.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d244135f6adfc9",
+      "title": "Shirt pull on Isak should have been penalty - panel",
+      "summary": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T10:23:37.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d60d2076ab7527",
+      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+      "summary": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T10:17:09.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "ee679b9d75a538",
+      "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
+      "summary": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his fina...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+      "publishedAt": "2026-11-11T10:00:36.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3ede99607c4384",
+      "title": "Meet the youngest top-flight manager in Europe",
+      "summary": "As football has evolved, so have routes into football management.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13594403/jordan-hadaway-interview-meet-the-25-year-old-llandudno-boss-the-youngest-top-flight-manager-in-europe",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "4b213e31e6c7c1",
+      "title": "From the sack in Cyprus to Liverpool: Iraola's first job explained",
+      "summary": "Not every successful career starts spectacularly well but Andoni Iraola's journey to Liverpool will take some beating. Seven years ago, he was sacked from his first job...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13576948/andoni-iraola-was-sacked-from-his-first-job-at-aek-larnaca-in-cyprus-liverpool-managers-difficult-career-start-explained",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -565,31 +466,122 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "456aa9a84d7668",
-      "title": "Arsenal choose priority January signing with Arteta to sacrifice £60m Chelsea target to seal transfer",
-      "summary": "According to reports, Arsenal are considering sacrificing Martin Zubimendi so they can sign a new winger in January.",
+      "id": "d1dab53d8bb143",
+      "title": "11 Man Utd players on chopping block after Mauricio Pochettino appointment amid planned evolution",
+      "summary": "A report names the 11 players who could leave Manchester United, including Marcus Rashford, Luke Shaw and Harry Maguire.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-choose-priority-january-signing-arteta-sacrifice-60m-chelsea-target-seal-transfer",
-      "publishedAt": "2026-11-10T14:38:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a032d65b5219fc",
-      "title": "Glazers make big call on Mauricio Pochettino to Man Utd as doubts emerge among US insiders",
-      "summary": "Manchester United’s majority shareholders, the Glazer family, are ready to approve a deal for Mauricio Pochettino to replace Michael Carrick as the Red Devils’ manager,...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/glazers-make-big-call-on-mauricio-pochettino-to-man-utd-as-doubts-emerge-among-us-insiders",
-      "publishedAt": "2026-11-10T14:23:38.000Z",
+      "url": "https://www.football365.com/news/11-man-utd-players-chopping-block-mauricio-pochettino-appointment",
+      "publishedAt": "2026-11-11T09:59:26.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "9b51868b7188a6",
+      "title": "Liverpool reach decision on selling £33m star in January amid claim Reds ‘will accept big offer’",
+      "summary": "According to reports, Liverpool have reached a verdict on whether to sell Jeremie Frimpong in January amid claims he could leave.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-reach-decision-selling-33m-star-january-claim-reds-will-accept-big-offer",
+      "publishedAt": "2026-11-11T09:53:40.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "04d3290409d019",
+      "title": "Michael Carrick reacts to Man Utd sack claims and Mauricio Pochettino replacing him – report",
+      "summary": "A report has revealed how Michael Carrick feels amid claims that Manchester United will sack him and appoint Mauricio Pochettino.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/michael-carrick-manchester-united-sack-reaction-mauricio-pochettino-appointment",
+      "publishedAt": "2026-11-11T09:27:16.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2304390417e9a1",
+      "title": "Man Utd takeover: Expert reveals deal includes vital ‘clause’ as Glazers put club up ‘for sale’ at set price",
+      "summary": "According to reports, the deal between INEOS and the Glazer family includes an important ‘clause’, with Manchester United now up ‘for sale’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-takeover-expert-reveals-deal-vital-clause-glazers-for-sale-set-price",
+      "publishedAt": "2026-11-11T09:16:58.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3b6a1e7a346643",
+      "title": "Man Utd forced to consider contingency plan as Mauricio Pochettino decision made",
+      "summary": "Manchester United could be forced into an emergency plan amid their intent to hire Mauricio Pochettino as manager to succeed Michael Carrick.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-contingency-mauricio-pochettino-decision",
+      "publishedAt": "2026-11-11T09:04:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "300fc10b2f0c06",
+      "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
+      "summary": "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United are closing in on agreeing a deal for Mauricio Pochettino t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+      "publishedAt": "2026-11-11T08:56:37.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "23f4c25c68dc70",
+      "title": "New Man Utd manager is ‘single biggest fraud in world football’",
+      "summary": "It looks like Mauricio Pochettino will be the new Man Utd manager and not everybody is impressed.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-manager-mauricio-pochettino-fraud-mailbox",
+      "publishedAt": "2026-11-11T08:54:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e2c05cbdbfe100",
+      "title": "Newcastle United: Pairing Jaissle with that transfer business a high-wire act with no safety net",
+      "summary": "We can’t work Matthias Jaissle out. We don’t know whether Newcastle were brave or stupid, but we hope they’ve got enough of both to stick it out.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jaissle-transfer-spend-newcastle-high-wire-act-safety-net",
+      "publishedAt": "2026-11-11T08:47:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "e32c0fa619ead4",
+      "title": "George excels as Celtics best Sixers",
+      "summary": "Jayson Tatum scored 21 points and outplayed former Boston team-mate Jaylen Brown, and Paul George hit six 3-pointers and scored 36 points in his return to Philadelphia,...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/nba/news/12040/13610861/nba-boston-celtics-best-lebron-james-philadelphia-76ers-as-jaylen-brown-shares-frosty-reunion-with-former-team",
+      "publishedAt": "2026-11-11T08:34:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
       ]
     }
   ],
