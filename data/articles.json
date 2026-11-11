@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:00:15.185Z",
+  "generatedAt": "2026-11-11T05:29:35.548Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,19 +99,48 @@
       "pinned": true
     },
     {
+      "id": "03784847e13bc7",
+      "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "summary": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clu...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T23:08:35.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Arsenal",
+        "Liverpool",
+        "Real Madrid",
+        "Inter"
+      ]
+    },
+    {
+      "id": "ffa41bc747bbde",
+      "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+      "publishedAt": "2026-11-10T22:44:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
       "id": "598aabc0430d3e",
       "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
-      "summary": "Manchester City’s European campaign finally came roaring into life as they put four goals past Inter to record their first Women’s Champions League victory of the seaso...",
+      "summary": "On a very satisfying night for Manchester City, perhaps the most pleasing element was that they did not even need to call on Khadija ‘Bunny’ Shaw. While giving their ta...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
       "publishedAt": "2026-11-10T22:05:43.000Z",
       "category": "ucl",
-      "region": "england spain italy germany",
+      "region": "england italy",
       "tags": [
         "Football",
         "Champions League",
         "Manchester",
-        "Real Madrid"
+        "Inter"
       ]
     },
     {
@@ -560,33 +589,6 @@
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "01fed4a5109d59",
-      "title": "Kompany back at Bayern training after collapse",
-      "summary": "Bayern Munich say head coach Vincent Kompany is \"on the road to recovery\" following his recent collapse and treatment in hospital.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T14:17:04.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "93999879271897",
-      "title": "Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
-      "summary": "Max Rushden is joined by Nicky Bandini, Archie Rhind-Tutt, Philippe Auclair and Sid Lowe as Michael Carrick looks set to leave Manchester United and for a wrap of the b...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
-      "publishedAt": "2026-11-10T13:58:30.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
         "Manchester"
       ]
     }
