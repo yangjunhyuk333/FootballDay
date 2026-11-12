@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-12T14:53:16.564Z",
+  "generatedAt": "2026-11-12T23:22:08.700Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,17 +99,417 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "e05f62448c0dc0",
-      "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
-      "summary": "⚽️ Head coach departs after one win in 11 games ⚽️ Carrick was latest fall guy for dysfunctional hierarchy ⚽️ Have any thoughts? Email John “ After going through the Mo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
-      "publishedAt": "2026-11-12T14:38:54.000Z",
+      "id": "f03baa1c3bb54a",
+      "title": "Pochettino to Man Utd ‘done’ as Ornstein reveals huge contract detail and when ‘announcement’ is due",
+      "summary": "David Ornstein has revealed a huge update on Mauricio Pochettino’s move to Manchester United, with a ‘deal done’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pochettino-to-man-utd-done-as-ornstein-reveals-huge-contract-detail-and-when-announcement-is-due",
+      "publishedAt": "2026-11-12T23:11:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "28eb639e39f414",
+      "title": "Man Utd: Bruno Fernandes reaches decision on accepting new ‘contract offer’ as two key details revealed",
+      "summary": "According to reports, Manchester United captain Bruno Fernandes has now turned down a new ‘contract offer’ to extend his stay.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-bruno-fernandes-reaches-decision-accepting-new-contract-offer",
+      "publishedAt": "2026-11-12T22:38:15.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "864debe1d5e01a",
+      "title": "A step-by-step guide to show Harry Kane has actually scored precisely zero proper goals for England",
+      "summary": "No man has scored more World Cup goals for England than Harry Kane. But none of those 14 goals actually count. And nor do the other 78.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/handy-guide-harry-kane-precisely-zero-england-goals",
+      "publishedAt": "2026-11-12T22:26:26.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "49cfb13addd255",
+      "title": "Roy Keane brutally blasts Trent Alexander-Arnold after England win vs Croatia – ‘he’ll never learn’",
+      "summary": "Manchester United legend Roy Keane has hit out at England star Trent Alexander-Arnold after the 2-1 win against Croatia.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/roy-keane-brutally-blasts-trent-alexander-arnold-england-win-croatia",
+      "publishedAt": "2026-11-12T22:06:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "60e5fdad2b0d8d",
+      "title": "Gritty Arsenal show different side in Barcelona draw",
+      "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T21:50:59.000Z",
       "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "2f33a0476fcd80",
+      "title": "Kane scores winner but who else made an impression? England player ratings",
+      "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T21:47:36.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "45d16cf39d9dfc",
+      "title": "Carrick reacts to ‘disgusting’ Man Utd sack process as INEOS bold 26/27 target for Pochettino revealed",
+      "summary": "According to reports, Michael Carrick has been left ‘hurt’ by how his Manchester United sacking has been handled.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carrick-reacts-disgusting-man-utd-sack-process-ineos-bold-26-27-target-pochettino",
+      "publishedAt": "2026-11-12T21:38:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "efe985cdf2ec78",
+      "title": "SFA in talks with Boston officials over biennial friendly match",
+      "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T21:16:56.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a91f41adfffff6",
+      "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+      "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T21:13:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bc01c6cf9e064e",
+      "title": "Man Utd: Real reason ‘arrogant’ Holland ‘clashed’ with squad revealed as big call on Fernandes surfaces",
+      "summary": "According to reports, Manchester United’s squad are glad to see the back of former assistant manager Steve Holland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-real-reason-arrogant-holland-clashed-squad-revealed-big-call-fernandes",
+      "publishedAt": "2026-11-12T21:03:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "661690bf0668dd",
+      "title": "Papers: Bruno rejects second Man Utd contract offer",
+      "summary": "The top stories and transfer rumours from Friday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
+      "publishedAt": "2026-11-12T21:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f7e8593b018a88",
+      "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+      "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp N...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T20:09:07.000Z",
+      "category": "ucl",
+      "region": "england spain",
+      "tags": [
+        "Champions League",
+        "Uefa",
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "ce67157308f419",
+      "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
+      "summary": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, and they dug deep to hold on to a draw at the Camp Nou on Thursday night. Frida M...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
+      "publishedAt": "2026-11-12T20:00:16.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "3fe76bdd467dff",
+      "title": "Arsenal survive dominant Barca to earn precious WCL point",
+      "summary": "Arsenal managed to withstand Barcelona's dominance to claim an impressive 1-1 draw against the European champions.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13610422/barcelona-1-1-arsenal-renee-slegers-side-withstand-onslaught-from-european-champions-to-snatch-point-in-wcl",
+      "publishedAt": "2026-11-12T19:40:00.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "fb706a28663326",
+      "title": "Liverpool turn to ‘top’ PL star as Van Dijk replacement with ‘dream’ transfer decided and exit terms set",
+      "summary": "According to reports, Liverpool are considering a move for Brighton standout Luka Vuskovic as a potential replacement for Virgil van Dijk.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-top-pl-star-van-dijk-replacement-dream-transfer-decided-exit-terms-set",
+      "publishedAt": "2026-11-12T19:26:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "775b35cec1fe7c",
+      "title": "Man Utd: Pochettino tipped to turn to ex-Chelsea star as shock first signing – ‘that’s first and foremost’",
+      "summary": "Incoming Manchester United boss Mauricio Pochettino has been tipped to make ex-Chelsea star Antonio Rudiger his first signing.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pochettino-tipped-turn-to-ex-chelsea-star-shock-first-signing",
+      "publishedAt": "2026-11-12T19:01:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c3db7bce889731",
+      "title": "Man Utd: Pochettino bombshell revealed as ‘petrified’ Glazers overruled ‘irrelevant’ Wilcox, Berrada",
+      "summary": "According to reports, the Glazer family ‘intervened’ to overrule Jason Wilcox and Omar Berrada on Manchester United’s next manager.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-glazers-overruled-ineos-carrick-replacement-wilcox-berrada",
+      "publishedAt": "2026-11-12T18:31:51.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "1252ecc85907f2",
+      "title": "Alan Shearer names Arsenal star as early ‘player of the season’ as he makes surprising PL title prediction",
+      "summary": "Alan Shearer has named Arsenal summer signing Ezri Konsa as his Premier League “player of the season” so far.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alan-shearer-names-arsenal-star-early-player-of-the-season-pl-title-prediction",
+      "publishedAt": "2026-11-12T18:01:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b0616c9372acde",
+      "title": "Goodwillie prosecutors 'wrong' not to put footballer on trial for rape, court hears",
+      "summary": "Denise Clair has brought a case for a private criminal prosecution against the footballer, who was ruled to have raped her by a civil court.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T17:31:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "8aa0315e38764b",
+      "title": "Man Utd star ‘loved’ by Mauricio Pochettino as eight players revealed as main ‘winners’ of appointment",
+      "summary": "Mauricio Pochettino has reportedly ‘always loved’ Marcus Rashford, and eight Manchester United players are ‘winners’ of his appointment.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-star-loved-mauricio-pochettino-eight-players-revealed-winners-appointment",
+      "publishedAt": "2026-11-12T17:21:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8cd8141172c766",
+      "title": "UEFA Nations League: All you need to know",
+      "summary": "The UEFA Nations League is back for its fifth edition, with 54 European countries competing for silverware, promotion and a potentially crucial route to Euro 2028.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13611545/uefa-nations-league-format-rules-promotion-and-relegation-explained-and-how-it-affects-euro-2028-qualifying",
+      "publishedAt": "2026-11-12T17:09:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Uefa"
+      ]
+    },
+    {
+      "id": "d967f04d87dfee",
+      "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
+      "summary": "Michael Carrick’s replacement must find solutions on the pitch and pressure the hierarchy to accept a share of blame One of the final images of Michael Carrick’s time i...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
+      "publishedAt": "2026-11-12T17:00:22.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0fb388f9ce06f2",
+      "title": "Inside Man Utd's pursuit of Pochettino",
+      "summary": "Manchester United's bosses met Mauricio Pochettino two years ago and considered him as a possible replacement for Erik ten Hag.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b1b85ea0ab36ab",
+      "title": "Man Utd: Pochettino demands five ‘elite’ signings as two stars ‘set to leave’ revealed – ‘total reset’",
+      "summary": "According to reports, incoming Manchester United boss Mauricio Pochettino has made it clear that he wants five ‘elite’ signings in a ‘total reset’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pochettino-demands-five-elite-signings-two-stars-set-leave-total-reset",
+      "publishedAt": "2026-11-12T16:50:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a56da1b9fae88c",
+      "title": "Football Daily",
+      "summary": "Simon Stone, Jay Motty & Tom Allnutt join Rick & Lloyd for reaction to Carrick’s sacking.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T16:31:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "be6b828d9b2bec",
+      "title": "Football Daily | ‘The club would like to thank …’: Manchester United dust off the heartfelt exit message",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Tuesday 22 April 2014: “Manchester United has announced that David Moyes has left the club. The club would like to p...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/12/football-daily-manchester-united-michael-carrick",
+      "publishedAt": "2026-11-12T16:24:51.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "9d72d73bd4aa3b",
+      "title": "Man Utd transfer news: Striker ready to sign after instant green light and join Pochettino at Old Trafford",
+      "summary": "A striker that Arsenal sold is now willing to move to Manchester United and play for Mauricio Pochettino.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/folarin-balogun-wants-to-join-manchester-united-with-mauricio-pochettino",
+      "publishedAt": "2026-11-12T16:06:30.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "22def1954f774a",
+      "title": "Steven Gerrard urges Liverpool to U-turn on keeping star they’re ‘soft’ without",
+      "summary": "Steven Gerrard has made a compelling case as to why Liverpool are sleepwalking into a transfer blunder they’ll quickly regret",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/steven-gerrard-urges-liverpool-u-turn-keeping-alexis-mac-allister",
+      "publishedAt": "2026-11-12T15:23:12.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ed142381f21496",
+      "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+      "summary": "USMNT coach agreed framework of a deal with United United have made contact with US federation Balogun: ‘I’d like to keep things the way they are’ Live news and reactio...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+      "publishedAt": "2026-11-12T14:57:56.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Soccer",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "e49488a717b764",
+      "title": "Neville 'disgusted' at Man Utd's treatment of Carrick",
+      "summary": "Sky Sports' Gary Neville has described Manchester United's treatment of Michael Carrick as \"disgusting\" after the club legend was sacked as head coach, with Mauricio Po...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford",
+      "publishedAt": "2026-11-12T14:49:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
@@ -171,7 +571,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "e3d11b32b581da",
-      "title": "Archive, 1990: Peter Shilton wins 125th cap making him England’s record appearance holder",
+      "title": "Archive, 1990: Peter Shilton wins 125th and final cap of record-breaking England career",
       "summary": "9 July 1990: The goalkeeper’s 20-year international career ends at the Italia 90 World Cup Harry Kane is expected to break the record for England men’s appearances toni...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
@@ -182,19 +582,6 @@ window.FOOTBALLDAY_DATA = {
         "Football",
         "World Cup",
         "Inter"
-      ]
-    },
-    {
-      "id": "6b7135db0beb20",
-      "title": "Neville: I've always wanted Pochettino – but he has to take control of recruitment",
-      "summary": "Gary Neville says he has always wanted Mauricio Pochettino as Manchester United manager but he has to take control of recruitment.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13611488/gary-neville-ive-always-wanted-pochettino-8211-but-has-to-take-control-of-recruitment",
-      "publishedAt": "2026-11-12T12:44:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -210,386 +597,6 @@ window.FOOTBALLDAY_DATA = {
         "Transfer",
         "Arsenal",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "8bc67f1f9d8c04",
-      "title": "‘He got the job on the back of nothing!’ – Carragher refuses to ‘feel sorry’ for Carrick after Man Utd sack",
-      "summary": "Jamie Carragher refuses to “feel sorry” for Michael Carrick after he got the Manchester United job “on the back of nothing”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/carragher-refuses-to-feel-sorry-for-carrick",
-      "publishedAt": "2026-11-12T12:13:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d259fb6bf89a9d",
-      "title": "Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy | Jamie Jackson",
-      "summary": "Disastrous decisions and confused appointments have been a constant theme at Old Trafford since Sir Alex Ferguson’s retirement in 2013 For a window into the alarming dy...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
-      "publishedAt": "2026-11-12T12:00:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "04190fbbc32330",
-      "title": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
-      "summary": "Claire Emslie and Emma Kelly are among those taking advantage of new research and guidelines for pregnant players Claire Emslie wasn’t expecting to be able to run at 81...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
-      "publishedAt": "2026-11-12T12:00:47.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ee76b4516fb74c",
-      "title": "Pochettino at Man Utd next? Five times a manager actually did save a rotten club",
-      "summary": "He’s done it before but can Mauricio Pochettino really save Manchester United? Who has ever actually managed to save a rotten club?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/times-manager-actually-did-save-rotten-club",
-      "publishedAt": "2026-11-12T11:56:32.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "330f45781e6093",
-      "title": "Premier League sack race: Michael Carrick ‘wins’ but who’s next?",
-      "summary": "Michael Carrick managed to ‘win’ the Premier League Sack Race just ahead of Pierre Sage. But who will be next?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-sack-race-next-manager-leave",
-      "publishedAt": "2026-11-12T11:40:15.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "1c6903388571bd",
-      "title": "Six matches that defined Carrick's Man Utd tenure",
-      "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T11:25:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "33c1c3329a457f",
-      "title": "Man Utd: Gary Neville tells Pochettino to make THREE INEOS demands as Harry Kane drops verdict",
-      "summary": "Mauricio Pochettino is set to replace Michael Carrick as manager of Premier League giants Manchester United.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-gary-neville-tells-pochettino-to-make-three-ineos-demands-as-harry-kane-drops-verdict",
-      "publishedAt": "2026-11-12T11:07:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8cfe9e5202b919",
-      "title": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
-      "summary": "Midfielder’s old-school attributes came to the fore during Nottingham Forest’s win against Manchester City Modern football is more systematised and data-driven than eve...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
-      "publishedAt": "2026-11-12T11:00:48.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cadf43947911d9",
-      "title": "Tottenham: Younes Ebnoutalib reaches huge decision over stunning January move",
-      "summary": "It’s no secret that Spurs boss Roberto De Zerbi has instructed club chiefs to add a new No.9 to his misfiring squad in the upcoming winter window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/younes-ebnoutalib-reaches-huge-decision-joining-tottenham-january-window",
-      "publishedAt": "2026-11-12T11:00:28.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "fc5c186773c117",
-      "title": "Premier League’s top 10 for distance covered topped by fifth-oldest player",
-      "summary": "A 35-year-old has covered more distance than anyone else in the Premier League this season, while a couple of big-money buys are putting in the graft…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-player-distance-covered-stats-top-10-2026-27",
-      "publishedAt": "2026-11-12T10:57:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "63a8870656ae84",
-      "title": "How Carrick's reign unravelled",
-      "summary": "Michael Carrick has been sacked as Manchester United head coach , so how did his Old Trafford reign go so wrong, so quickly?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years",
-      "publishedAt": "2026-11-12T10:50:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ce971ee52d2d48",
-      "title": "Top 10 fastest Prem players: New leader as Barcola speeds into top three",
-      "summary": "Liverpool and Everton each have two representatives in the top 10 fastest players this season, topped by a Leeds stalwart.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-2026-27-fastest-players",
-      "publishedAt": "2026-11-12T10:45:08.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "886565345646c6",
-      "title": "Carrick sacked by Man Utd",
-      "summary": "Michael Carrick has been sacked as Manchester United head coach with Mauricio Pochettino lined up to replace him.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season",
-      "publishedAt": "2026-11-12T10:27:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "15b1d5fc6fcbdb",
-      "title": "Michael Carrick was doomed long ago; he was a little bit the problem at Manchester United",
-      "summary": "The pundits will queue up to tell you the departed Michael Carrick wasn’t the biggest problem at Man Utd. Doesn’t mean he wasn’t *a* problem.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/michael-carrick-doomed-long-ago-man-united-sack-problem",
-      "publishedAt": "2026-11-12T10:24:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3772952857a80f",
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T10:21:29.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "16b2ad42e5b5eb",
-      "title": "Arsenal are just €15m short of completing first January signing",
-      "summary": "Arsenal are competing with Tottenham Hotspur for a Norway international winger.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/antonio-nusa-arsenal-rb-leipzig-january-2027-transfer",
-      "publishedAt": "2026-11-12T09:57:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4ad927b6b2a7b1",
-      "title": "Mbappe and Zidane at war as ‘arrogant’ Real Madrid star denied exit from ‘very tense’ France camp",
-      "summary": "Mbappe and Zidane are at loggerheads in a “very tense” France camp as the “arrogant” Real Madrid star has been blocked from leaving by his intolerant manager.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mbappe-zidane-war-arrogant-real-madrid-star-denied-exit-very-trense-france-camp",
-      "publishedAt": "2026-11-12T09:55:12.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "e07958de4bb570",
-      "title": "Can Man Utd not be a ‘bunch of c***s’ about Carrick please?",
-      "summary": "That Michael Carrick is still Manchester United manager on Thursday morning is disgusting; nobody should be treated like that.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-carrick-treatment-mailbox",
-      "publishedAt": "2026-11-12T09:09:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6d436d3ce68290",
-      "title": "Spain v England and four more Nations League games actually worth watching",
-      "summary": "Another international break is here, full of everyone’s favourite: Nations League games. But here are five with actual storylines worth following.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spain-v-england-and-four-more-nations-league-games-actually-worth-watching",
-      "publishedAt": "2026-11-12T08:20:11.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "81f5fd7d04a2ca",
-      "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
-      "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by football Not many remember Japan’s bid for the...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-      "publishedAt": "2026-11-12T08:00:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "a0e46886106f55",
-      "title": "Liverpool must fear Ngumoha copying traitor and Manchester United teen in Ballon d’Or drive",
-      "summary": "Rio Ngumoha wanting to win the Ballon d’Or is no surprise and entirely normal, but Liverpool might fear that history will soon repeat itself.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-must-fear-ngomha-copying-traitor-manchester-united-ballon-dor",
-      "publishedAt": "2026-11-12T07:48:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "15abf1fea1e1d8",
-      "title": "USA withdraw from U17 World Cup",
-      "summary": "The USA pull out of the Under-17 World Cup, which starts in Qatar next week, because of the risk of armed conflict.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T07:44:21.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "ca7b14040ceb0b",
-      "title": "Romano deals Pochettino start date blow; reveals what Berrada has ‘already’ told him on Man Utd transfers",
-      "summary": "Romano has dealt Man Utd a blow in their bid to secure Pochettino as their new manager and has revealed what Omar Berrada has “already” told him about the January ...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-man-utd-romano-start-date-blow-berrada-already-told-him-transfers",
-      "publishedAt": "2026-11-12T07:08:17.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "e9733dcad29385",
-      "title": "How 'Barca way' continues despite big-name exits",
-      "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-12T06:41:09.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "500e51db0e3af4",
-      "title": "PDC chief reveals who we might see at Premier League Darts in 2027",
-      "summary": "Matt Porter updates darts fans on who they can expect to see in the new season of the Premier League of Darts.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13611250/smith-is-one-of-the-best-in-the-world-who-can-we-expect-to-see-at-pl-of-darts",
-      "publishedAt": "2026-11-11T22:47:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "c803e0352020a6",
-      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-      "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-      "publishedAt": "2026-11-11T21:54:46.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "ac8f9461f85693",
-      "title": "Arsenal join Scott chase - Thursday's gossip",
-      "summary": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfiel...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T21:38:01.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b6838c10b848da",
-      "title": "Christopher Vivell committed ‘sackable offence’ to help push Carrick out of Man Utd",
-      "summary": "Christophere Vivell committed a “sackable offence” in the summer as Michael Carrick waits patiently to be given his Manchester United marching orders.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/vivell-sackable-offence-push-carrick-man-utd",
-      "publishedAt": "2026-11-11T21:01:10.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
