@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-12T23:22:08.700Z",
+  "generatedAt": "2026-11-13T05:53:34.069Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,80 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "ae817f455b85cd",
+      "title": "Scorecard: Australia vs England, first ODI, Perth",
+      "summary": "Latest score from Optus Stadium as England face Australia in the first of three one-day internationals.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/e054c300-a10a-5762-b7a3-44e22f41180e",
+      "publishedAt": "2026-11-13T03:15:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "d7580c70e30e06",
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "summary": "Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer",
+      "publishedAt": "2026-11-12T23:39:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b8c910f782ccd4",
+      "title": "Football Daily",
+      "summary": "Harry Kane becomes the most-capped England men's player in history.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T23:37:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "25cd6fe5b1ee63",
+      "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
+      "summary": "Forward springs to defence of Chelsea teammate ‘He wanted to come and represent his country’ Morgan Rogers has said accusations that his Chelsea teammate Cole Palmer is...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+      "publishedAt": "2026-11-12T23:17:46.000Z",
+      "category": "worldcup",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
       "id": "f03baa1c3bb54a",
       "title": "Pochettino to Man Utd ‘done’ as Ornstein reveals huge contract detail and when ‘announcement’ is due",
       "summary": "David Ornstein has revealed a huge update on Mauricio Pochettino’s move to Manchester United, with a ‘deal done’.",
       "source": "Football365",
       "url": "https://www.football365.com/news/pochettino-to-man-utd-done-as-ornstein-reveals-huge-contract-detail-and-when-announcement-is-due",
       "publishedAt": "2026-11-12T23:11:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "41a1bb4b1074d8",
+      "title": "Pochettino agrees two-and-a-half-year deal to become Man Utd boss",
+      "summary": "Manchester United and Mauricio Pochettino have agreed a deal for him to become the club's next head coach.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick",
+      "publishedAt": "2026-11-12T23:00:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -233,7 +301,7 @@ window.FOOTBALLDAY_DATA = {
     },
     {
       "id": "661690bf0668dd",
-      "title": "Papers: Bruno rejects second Man Utd contract offer",
+      "title": "Papers: Manchester clubs to battle it out for Gusto",
       "summary": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/news/12040/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
@@ -241,7 +309,8 @@ window.FOOTBALLDAY_DATA = {
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Transfer",
+        "Manchester"
       ]
     },
     {
@@ -277,20 +346,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3fe76bdd467dff",
-      "title": "Arsenal survive dominant Barca to earn precious WCL point",
-      "summary": "Arsenal managed to withstand Barcelona's dominance to claim an impressive 1-1 draw against the European champions.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13610422/barcelona-1-1-arsenal-renee-slegers-side-withstand-onslaught-from-european-champions-to-snatch-point-in-wcl",
-      "publishedAt": "2026-11-12T19:40:00.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
       "id": "fb706a28663326",
       "title": "Liverpool turn to ‘top’ PL star as Van Dijk replacement with ‘dream’ transfer decided and exit terms set",
       "summary": "According to reports, Liverpool are considering a move for Brighton standout Luka Vuskovic as a potential replacement for Virgil van Dijk.",
@@ -302,6 +357,22 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Transfer",
         "Liverpool"
+      ]
+    },
+    {
+      "id": "e23ab6dee8be76",
+      "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
+      "summary": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it’s hard to know who could be in the chair next Sign up for our free newsletter here E...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
+      "publishedAt": "2026-11-12T19:20:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Soccer",
+        "World Cup",
+        "Manchester"
       ]
     },
     {
@@ -373,19 +444,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8cd8141172c766",
-      "title": "UEFA Nations League: All you need to know",
-      "summary": "The UEFA Nations League is back for its fifth edition, with 54 European countries competing for silverware, promotion and a potentially crucial route to Euro 2028.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13611545/uefa-nations-league-format-rules-promotion-and-relegation-explained-and-how-it-affects-euro-2028-qualifying",
-      "publishedAt": "2026-11-12T17:09:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Uefa"
-      ]
-    },
-    {
       "id": "d967f04d87dfee",
       "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
       "summary": "Michael Carrick’s replacement must find solutions on the pitch and pressure the hierarchy to accept a share of blame One of the final images of Michael Carrick’s time i...",
@@ -399,19 +457,6 @@ window.FOOTBALLDAY_DATA = {
         "Champions League",
         "Manchester",
         "Inter"
-      ]
-    },
-    {
-      "id": "0fb388f9ce06f2",
-      "title": "Inside Man Utd's pursuit of Pochettino",
-      "summary": "Manchester United's bosses met Mauricio Pochettino two years ago and considered him as a possible replacement for Erik ten Hag.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     },
     {
@@ -553,50 +598,6 @@ window.FOOTBALLDAY_DATA = {
         "Arsenal",
         "Inter",
         "Juventus"
-      ]
-    },
-    {
-      "id": "744d996514df21",
-      "title": "Man Utd: Pochettino tipped to replace shaky first-team regular in January",
-      "summary": "Incoming Manchester United manager Mauricio Pochettino has been tipped to delve into the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/senne-lammens-mauricio-pochettino-manchester-united",
-      "publishedAt": "2026-11-12T13:41:43.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e3d11b32b581da",
-      "title": "Archive, 1990: Peter Shilton wins 125th and final cap of record-breaking England career",
-      "summary": "9 July 1990: The goalkeeper’s 20-year international career ends at the Italia 90 World Cup Harry Kane is expected to break the record for England men’s appearances toni...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
-      "publishedAt": "2026-11-12T13:27:18.000Z",
-      "category": "worldcup",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ee440c87ad5a21",
-      "title": "Chelsea transfers: Alonso ‘loves’ Arsenal star and ‘would love to work’ with him – Romano",
-      "summary": "Fabrizio Romano names the Arsenal midfielder that Chelsea manager Xabi Alonso would love to work with.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-arsenal-martin-zubimendi-xabi-alonso",
-      "publishedAt": "2026-11-12T12:42:14.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Chelsea"
       ]
     }
   ],
