@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-13T23:24:04.595Z",
+  "generatedAt": "2026-11-14T05:42:33.196Z",
   "windowDays": 7,
   "articles": [
     {
