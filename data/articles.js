@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-14T13:14:26.257Z",
+  "generatedAt": "2026-11-14T22:08:57.666Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,225 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Listen to Off The Ball",
-      "summary": "The most petty and ill-informed football show on radio.",
+      "id": "482ea6a0f6a2cd",
+      "title": "Man Utd defender ‘oversteps the mark’ in ‘dressing room’ and ‘bites at teammates’ – top source",
+      "summary": "A top Manchester United journalist makes stunning revelations about a defender and how he is with his teammates.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/lisandro-martinez-manchester-united-dressing-room-revelation",
+      "publishedAt": "2026-11-14T21:51:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "77bbd9ac699e6e",
+      "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+      "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T14:00:00.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T21:48:45.000Z",
+      "category": "transfer",
+      "region": "england spain germany",
+      "tags": [
+        "Arsenal",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "9a4413b9235bb7",
+      "title": "Devlin nets first international goal as Northern Ireland beat Ukraine",
+      "summary": "Terry Devlin's first international goal kept Northern Ireland top of their Nations League group as a 1-0 win over Ukraine set up a promotion decider away to Hungary on...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/northern-ireland-vs-ukraine/report/554106",
+      "publishedAt": "2026-11-14T21:35:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "1f495d916cacf0",
+      "title": "Rice close to signing new Arsenal contract",
+      "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T20:40:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "759fcd2a33cb17",
+      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+      "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+      "publishedAt": "2026-11-14T20:30:00.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Football",
+        "World Cup",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a2b9232e719454",
+      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T20:22:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e9daf71e3d76be",
+      "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is paleo...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+      "publishedAt": "2026-11-14T20:00:53.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Football"
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c3dc0056f4a47e",
+      "title": "Fabrizio Romano reveals Liverpool reaction to Ronald Araujo permanent done deal in January claims",
+      "summary": "Uruguay international defender Ronald Araujo is on loan at Liverpool from Barcelona until the end of the season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronald-araujo-liverpool-barcelona-fabrizio-romano-transfer-update",
+      "publishedAt": "2026-11-14T19:02:42.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Liverpool",
+        "Barcelona",
+        "Inter"
+      ]
+    },
+    {
+      "id": "97e6cde3d0e120",
+      "title": "Bompastor's risks pay off as Chelsea go top of WSL",
+      "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T18:55:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "63721e45d9fcca",
+      "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
+      "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend thei...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T18:27:23.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4d50043a7c535b",
+      "title": "Teddy Sheringham responds when asked if Man Utd should sign Viktor Gyokeres from Arsenal for Pochettino",
+      "summary": "Teddy Sheringham gives his verdict on whether Manchester United should raid Arsenal for Swedish striker Viktor Gyokeres.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/viktor-gyokeres-manchester-united-arsenal-teddy-sheringham",
+      "publishedAt": "2026-11-14T16:38:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a93294dd89f149",
+      "title": "'I just play where the manager tells me to play!' - Walsh",
+      "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T16:17:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b94873063dc59f",
+      "title": "Chelsea go top with 1-0 win against Man City",
+      "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T15:50:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4403e2e9f11356",
+      "title": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
+      "summary": "Pragmatic, resolute and gutsy. Sonia Bompastor showed her ruthless side and delivered a tactical masterclass as Chelsea earned a 1-0 win over Manchester City and leapfr...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
+      "publishedAt": "2026-11-14T15:36:15.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4c01a3f83d9f63",
+      "title": "Man Utd duo tipped to ‘really thrive’ under Pochettino with one star ‘always loved’ by new manager",
+      "summary": "Two Manchester United players have been backed to “really thrive” under new head coach Mauricio Pochettino.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-duo-tipped-really-thrive-pochettino-one-star-always-loved-new-manager",
+      "publishedAt": "2026-11-14T14:24:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "46670b4b1cf906",
+      "title": "Man Utd: Pochettino, Wilcox bombshell revealed as new manager reaches verdict on ‘replacing’ director",
+      "summary": "Mauricio Pochettino reportedly wants Manchester United to appoint a new director of football to replace Jason Wilcox.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pochettino-wilcox-bombshell-revealed-new-manager-replacing-director",
+      "publishedAt": "2026-11-14T13:48:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
       ]
     },
     {
@@ -122,22 +331,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Liverpool"
-      ]
-    },
-    {
-      "id": "f118af978c865f",
-      "title": "Chelsea v Manchester City: Women’s Super League – live",
-      "summary": "Updates from 1.30pm (GMT) kick-off at Stamford Bridge Get in touch: email Simon and follow us on BlueSky Essential pre-match reading: here’s Suzanne Wrack’s preview of...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
-      "publishedAt": "2026-11-14T12:46:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
       ]
     },
     {
@@ -170,16 +363,29 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "21f8098ae12416",
-      "title": "WSL LIVE! Man Utd lead Palace on Sky before Chelsea vs Man City",
-      "summary": "WSL LIVE! Man Utd lead Palace on Sky before Chelsea vs Man City",
+      "id": "0805c41e8842d4",
+      "title": "Chelsea hang on for big win vs 10-player Man City as Man Utd beat Palace",
+      "summary": "Chelsea hang on for big win vs 10-player Man City as Man Utd beat Palace",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/live/575822",
+      "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
       "publishedAt": "2026-11-14T11:15:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "59ae7c1d709190",
+      "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
+      "summary": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
+      "publishedAt": "2026-11-14T10:54:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -373,20 +579,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "db6f86396d0dd4",
-      "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-      "summary": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T06:37:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
       "id": "2ba2b26e87d11b",
       "title": "Who am I? Plus today's other quizzes",
       "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -397,197 +589,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Football"
-      ]
-    },
-    {
-      "id": "667ef2d7c76adb",
-      "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T22:53:17.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e0ae4ae6266af3",
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T22:37:30.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "a5517cab5422bb",
-      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-      "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T22:05:14.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8572f6a2c96f35",
-      "title": "Fabrizio Romano reveals Pochettino stance on Marcus Rashford future at Man Utd",
-      "summary": "Romano has explained how Rashford will likely fare under Pochettino amid speculation Everton hold interest in a January loan deal",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mauricio-pochettino-man-utd-stance-marcus-rashford-transfer-fabrizio-romano",
-      "publishedAt": "2026-11-13T21:29:37.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "91275c2eeda374",
-      "title": "Liverpool join race for red-hot £42m striker as official sent",
-      "summary": "Andoni Iraola’s side have joined Manchester United and Arsenal in tracking a lethal goalscorer, as per a report",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-transfer-news-nicolo-tresoldi-striker-target-scout-sent",
-      "publishedAt": "2026-11-13T18:20:04.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "90a67eb963b985",
-      "title": "Man Utd players jealous of ‘outstanding’ Liverpool signing as Wilcox questioned again",
-      "summary": "More questions are being asked of Wilcox after a reporter revealed Man Utd stars looked on in bewilderment at Liverpool pulling off an ‘outstanding’ signing over the su...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-players-jealous-outstanding-liverpool-signing-jason-wilcox-questioned-again",
-      "publishedAt": "2026-11-13T18:05:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "518e593718cabf",
-      "title": "Bayern Munich reach final decision on signing Martin Zubimendi from Arsenal",
-      "summary": "The Spanish international has been linked with Bayern amid his difficult situation in north London, and a transfer decision has reportedly been made",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-news-martin-zubimendi-exit-bayern-munich-reach-final-decision",
-      "publishedAt": "2026-11-13T17:21:34.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "ac84a0422a3fc7",
-      "title": "All done deals from September-November 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T17:21:23.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "22bd2f104bc670",
-      "title": "Rugby League World Cup finals, ATP and WTA tennis, plus WSL – follow with us",
-      "summary": "Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/sport/2026/nov/13/rugby-league-world-cup-finals-atp-and-wta-tennis-plus-wsl-follow-with-us",
-      "publishedAt": "2026-11-13T16:42:46.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "4b3889acb6f84b",
-      "title": "Football Daily",
-      "summary": "The Commentators' View team describe a special night for Harry Kane at Wembley.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmwxf4?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T16:05:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "e0f5e21b404b39",
-      "title": "Mauricio Pochettino reveals real reason for joining Man Utd after ‘one of most difficult decisions’",
-      "summary": "New Manchester United head coach Mauricio Pochettino has revealed why he has taken the job after “one of the most difficult decisions”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mauricio-pochettino-reveals-real-reason-joining-man-utd-one-most-difficult-decisions",
-      "publishedAt": "2026-11-13T15:45:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4d5809891f6e9f",
-      "title": "Aston Villa decision on selling Boubacar Kamara to Chelsea revealed",
-      "summary": "Whether or not Aston Villa would allow Chelsea to secure another one of their star men has been revealed following reports of interest from the Blues.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/aston-villa-decision-boubacar-kamara-chelsea",
-      "publishedAt": "2026-11-13T15:30:48.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "8ada344f9030ec",
-      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-13T15:28:06.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "744c6d0d8e23b0",
-      "title": "Football Daily | Taking a brief minute to remember Pierre Sage’s impact at Crystal Palace",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! So farewell then, Pierre Sage . Many coaches leave under a cloud, not many have their departures completely obscured...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/13/pierre-sage-crystal-palace-football-daily-newsletter",
-      "publishedAt": "2026-11-13T15:21:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
       ]
     }
   ],
