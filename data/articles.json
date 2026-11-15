@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:41:52.750Z",
+  "generatedAt": "2026-11-15T13:42:31.443Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,233 @@
       "pinned": true
     },
     {
-      "id": "bcbbc30fba31a3",
-      "title": "Scorecard: Australia vs England, second ODI, Adelaide",
-      "summary": "Latest score from Adelaide Oval as England face Australia in the second of three one-day internationals.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/1b20e48f-0029-579d-877a-c6b509d9f268",
-      "publishedAt": "2026-11-15T03:15:00.000Z",
+      "id": "5bca5e91ed777a",
+      "title": "Off the Ball take petty & ill-informed look at Scottish football",
+      "summary": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T14:00:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "e16e67437b24d4",
+      "title": "Chelsea reach decision on selling star to Liverpool or Man Utd in the January transfer window",
+      "summary": "Chelsea could complicate a move from Liverpool or Man City for Malo Gusto in January because of their asking price, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-reach-decision-on-selling-star-to-liverpool-or-man-utd-in-the-january-transfer-window",
+      "publishedAt": "2026-11-15T13:38:00.000Z",
       "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "530f01a88e6560",
+      "title": "Ranking all 20 Premier League managers by their playing careers – Pochettino in 7th",
+      "summary": "Twenty men are entrusted to coach some of the finest footballers in the world but what were they like when it was them lacing up the boots?",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ranking-premier-league-managers-by-playing-careers",
+      "publishedAt": "2026-11-15T12:16:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "82cce62abd5245",
+      "title": "Romano reveals Liverpool decision on £46m January transfer: ‘The answer I got is..’",
+      "summary": "Fabrizio Romano has revealed that Liverpool have made a decision on whether to trigger Ronald Araujo’s buyout clause in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-romano-decision-araujo-january-transfer-answer",
+      "publishedAt": "2026-11-15T12:01:29.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "855d1ae06b9d59",
+      "title": "Arsenal star Declan Rice hits back at Graeme Souness over ‘cheating’ jibe",
+      "summary": "Arsenal midfielder Declan Rice has hit back at Graeme Souness after being accused of playing “old man’s football” by the Liverpool legend.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-rice-hits-back-souness-cheating-jibe",
+      "publishedAt": "2026-11-15T11:46:14.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8e831a592719b1",
+      "title": "The best-paid managers in the Premier League: Where Pochettino fits in with Man Utd deal",
+      "summary": "Massive salaries are not just for the players and some of the top Premier League bosses earn multiple millions every year.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/who-are-best-paid-premier-league-managers-de-zerbi",
+      "publishedAt": "2026-11-15T11:45:18.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2b6e848a9d425e",
+      "title": "Wenger decides not to challenge Fifa chief Infantino",
+      "summary": "Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T11:28:25.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Fifa"
+      ]
+    },
+    {
+      "id": "484d1983854e47",
+      "title": "Celtic have eye on midfielder Ebonog - gossip",
+      "summary": "Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvglr4d04x2go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T10:45:52.000Z",
+      "category": "league",
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "3c43902b6702ba",
+      "title": "Australia brush off New Zealand to win fourth straight Rugby League World Cup",
+      "summary": "Jack Bostock and Liam Martin both starred as Australia swept away New Zealand 32-12 in the men's Rugby League World Cup final to be crowned world champions for the four...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13612427/mens-rugby-league-world-cup-final-australia-32-12-new-zealand-kangaroos-brush-off-kiwis-to-win-fourth-straight-world-title",
+      "publishedAt": "2026-11-15T10:27:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "22550a1805abe0",
+      "title": "Australia win record fourth Women's Rugby League World Cup",
+      "summary": "Jaime Chapman guided Australia to a historic 34-10 victory in the Women's Rugby League World Cup final on Sunday in Brisbane.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
+      "publishedAt": "2026-11-15T10:07:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "e7230618d95df2",
+      "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13612415/x-paper-talk",
+      "publishedAt": "2026-11-15T09:47:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "b1935f0c35687e",
+      "title": "Arsenal ‘believe’ they will sign Vinicius Junior from Real Madrid in 2027",
+      "summary": "Arsenal have ‘genuine belief’ that they will sign Vinicius Junior from Real Madrid in the summer transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-believe-vinicius-junior-real-madrid-transfer-2027",
+      "publishedAt": "2026-11-15T09:02:49.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "af972d184c495c",
+      "title": "Tottenham urged to make shock move for Arsenal star in January: ‘Who else is there?’",
+      "summary": "Former Tottenham boss David Pleat has suggested that Spurs should attempt to sign Viktor Gyokeres from Arsenal in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/tottenham-shock-transfer-arsenal-gyokeres-january",
+      "publishedAt": "2026-11-15T08:30:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "9a2cff2cbd29ee",
+      "title": "Stranded supporters – new report shows how football is failing its travelling fans",
+      "summary": "Why should fans bear the entire financial burden when fixtures are moved for commercial reasons? Some are left stranded following their team.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/football-failing-travelling-fans-away-supporters-trains",
+      "publishedAt": "2026-11-15T08:00:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "9caa10780242e9",
+      "title": "Mauricio Pochettino’s record against every current Premier League manager",
+      "summary": "Manchester United boss Mauricio Pochettino is no stranger to Premier League management – nor some of his upcoming opponents in the dugout.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mauricio-pochettino-record-against-current-premier-league-managers",
+      "publishedAt": "2026-11-15T08:00:14.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7e06081d27b7fa",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T06:47:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "01e3e7fd8028a1",
+      "title": "Respect? Exposure? Why England's star names are going abroad",
+      "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T06:25:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     },
     {
@@ -191,19 +408,6 @@
       ]
     },
     {
-      "id": "9a4413b9235bb7",
-      "title": "Devlin nets first international goal as Northern Ireland beat Ukraine",
-      "summary": "Terry Devlin's first international goal kept Northern Ireland top of their Nations League group as a 1-0 win over Ukraine set up a promotion decider away to Hungary on...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/northern-ireland-vs-ukraine/report/554106",
-      "publishedAt": "2026-11-14T21:35:00.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
       "id": "759fcd2a33cb17",
       "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
       "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end...",
@@ -236,7 +440,7 @@
     {
       "id": "e9daf71e3d76be",
       "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is paleo...",
+      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts … now! What is paleont...",
       "source": "The Guardian Football",
       "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
       "publishedAt": "2026-11-14T20:00:53.000Z",
@@ -373,104 +577,6 @@
       ]
     },
     {
-      "id": "4cde48fdbd22ce",
-      "title": "Liverpool star tipped to win Ballon d’Or on two conditions – ‘he can be breathtaking’",
-      "summary": "Liverpool summer signing Bradley Barcola has been backed to win the Ballon d’Or on two conditions, because he “can be breathtaking”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-star-tipped-win-ballon-dor-two-conditions-breathtaking",
-      "publishedAt": "2026-11-14T12:56:38.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "5fded1b949116c",
-      "title": "Arsenal now ‘accelerate’ to sign ‘explosive’ £66m star as Berta turns to two ‘key’ priorities for January",
-      "summary": "Arsenal are reportedly stepping up their move for RB Leipzig winger Antonio Nusa as one of two priorities for the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-accelerate-sign-explosive-66m-star-berta-turns-two-priority-january-signings",
-      "publishedAt": "2026-11-14T12:10:40.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "76c276af9943eb",
-      "title": "Man Utd could finalise SIX transfers in January as Mauricio Pochettino to axe three stars in ‘ruthless’ call",
-      "summary": "Manchester United could reportedly finalise six transfers in the upcoming winter transfer window for new boss Mauricio Pochettino.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-finalise-six-transfers-january-pochettino-axe-three-stars-ruthless-call",
-      "publishedAt": "2026-11-14T11:28:21.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "34f3f0918f8438",
-      "title": "Arsenal ‘top’ star would not ‘turn down’ Real Madrid transfer as Arteta warned over ‘bigger question’",
-      "summary": "Arsenal have been warned that William Saliba would not “turn down” Real Madrid, with the Gunners facing a “bigger question”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-top-star-would-not-turn-down-real-madrid-arteta-warned-bigger-question",
-      "publishedAt": "2026-11-14T10:52:41.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "d14c7d3f92b56f",
-      "title": "Man Utd: Romano confirms Pochettino first signing ‘complete’ with deal for ‘talented’ striker ‘all done’",
-      "summary": "Fabrizio Romano has confirmed that Manchester United have ‘completed’ a deal to make a ‘talented’ forward the first signing for Mauricio Pochettino.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-romano-pochettino-first-signing-complete-deal-talented-striker-all-done",
-      "publishedAt": "2026-11-14T10:19:04.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f655be460483db",
-      "title": "Romano delivers verdict on Liverpool re-signing Alexander-Arnold with ‘important’ Real Madrid stance",
-      "summary": "Fabrizio Romano has delivered a verdict on Liverpool re-signing Trent Alexander-Arnold, with an ‘important’ update on his Real Madrid future.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/romano-liverpool-re-signing-alexander-arnold-important-real-madrid-stance",
-      "publishedAt": "2026-11-14T09:52:48.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8fb14b8b81a406",
-      "title": "Pochettino reaches ‘first decision’ as Man Utd boss as huge ‘request’ to INEOS ‘knocks out’ Barcelona",
-      "summary": "Mauricio Pochettino has reportedly reached his ‘first decision’ as Manchester United head coach, and it has implications for Lisandro Martinez.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-reaches-first-decision-man-utd-boss-request-knock-out-barcelona",
-      "publishedAt": "2026-11-14T09:17:17.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
       "id": "3757b41d9aede9",
       "title": "Tuchel to remind England of anti-racism protocols before Spain game",
       "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
@@ -481,114 +587,6 @@
       "region": "england",
       "tags": [
         "Uefa"
-      ]
-    },
-    {
-      "id": "0efd3bbaa4c416",
-      "title": "Has Evanilson been gifted the easiest Premier League five-goal run ever",
-      "summary": "The Bournemouth striker has scored five in five, with four of them coming from goalkeeper errors. But should we give the Cherries more credit?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/why-goalkeepers-keep-giving-evanilson-easy-goals",
-      "publishedAt": "2026-11-14T09:10:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "252a45db047536",
-      "title": "Man Utd choose two top priority January signings with Pochettino set to be ‘backed considerably’",
-      "summary": "Manchester United reportedly have two transfer priorities for this winter transfer window, with Mauricio Pochettino to be “backed considerably”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-choose-two-top-priority-january-signings-pochettino-backed-considerably",
-      "publishedAt": "2026-11-14T08:50:15.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "60c4645c007bc6",
-      "title": "Clough's longevity: landmark achievement or indictment on football?",
-      "summary": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T08:35:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "3407aa9a1a3ee3",
-      "title": "Liverpool: Rio Ngumoha ‘most likely’ decision on leaving revealed with Bayern ‘still in talks’ to sign him",
-      "summary": "A new report has revealed Bayern Munich’s chances of signing Liverpool star Rio Ngumoha, with the Bundesliga giants “still in talks”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-rio-ngumoha-most-likely-decision-leaving-revealed-bayern-talks-sign-him",
-      "publishedAt": "2026-11-14T08:23:55.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bundesliga",
-        "Liverpool",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "12cc912987c7f4",
-      "title": "Man Utd: Romano reveals huge update on Bruno Fernandes future as INEOS told to ‘move on’ captain",
-      "summary": "Fabrizio Romano has revealed a huge update on Bruno Fernandes’ future at Manchester United, with a new contract still “far away”.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-romano-reveals-huge-update-bruno-fernandes-future",
-      "publishedAt": "2026-11-14T07:49:31.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9bb085f5e72644",
-      "title": "Gary Lineker makes bleak prediction for Mauricio Pochettino’s fate at Man Utd – ‘I’ll be surprised’",
-      "summary": "Gary Lineker has explained why he cannot see Mauricio Pochettino lasting too long at Manchester United after succeeding Michael Carrick.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/gary-lineker-bleak-prediction-mauricio-pochettino-fate-man-utd-ill-be-surprised",
-      "publishedAt": "2026-11-14T07:21:26.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "edc07cd8e729fb",
-      "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-      "summary": "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come....",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-      "publishedAt": "2026-11-14T06:53:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1decc5762cf48c",
-      "title": "Manchester United under Pochettino will be ‘slow and painful’ – but Palmer can vouch for the results",
-      "summary": "Manchester United must give Mauricio Pochettino time to properly embed his proven modern tactics on this embarrassing group of players.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-pochettino-slow-painful-palmer-results",
-      "publishedAt": "2026-11-14T06:42:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
       ]
     }
   ],
