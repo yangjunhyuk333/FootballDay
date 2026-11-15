@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-14T22:08:57.666Z",
+  "generatedAt": "2026-11-15T05:41:52.750Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,71 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "bcbbc30fba31a3",
+      "title": "Scorecard: Australia vs England, second ODI, Adelaide",
+      "summary": "Latest score from Adelaide Oval as England face Australia in the second of three one-day internationals.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/1b20e48f-0029-579d-877a-c6b509d9f268",
+      "publishedAt": "2026-11-15T03:15:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "f48242aa917da5",
+      "title": "The 'manager's dream' who has put NI one game from history",
+      "summary": "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T23:21:45.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "6c94a6d6ab0e06",
+      "title": "Erling Haaland: Man City superstar responds when asked about his future after FFP guilty verdict",
+      "summary": "Manchester City striker Erling Haaland has broken his silence about the Cityzens being found guilty of FFP charges and has also opened up about his future.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-manchester-city-future-ffp-guilty-verdict",
+      "publishedAt": "2026-11-14T23:18:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c05ccbe169c66a",
+      "title": "Liverpool put three past Brighton to end winless run",
+      "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T23:00:29.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "1f495d916cacf0",
+      "title": "White has 'exciting future' despite boos - Rice",
+      "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T22:26:56.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
       "id": "482ea6a0f6a2cd",
       "title": "Man Utd defender ‘oversteps the mark’ in ‘dressing room’ and ‘bites at teammates’ – top source",
       "summary": "A top Manchester United journalist makes stunning revelations about a defender and how he is with his teammates.",
@@ -136,19 +201,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "italy",
       "tags": [
         "Inter"
-      ]
-    },
-    {
-      "id": "1f495d916cacf0",
-      "title": "Rice close to signing new Arsenal contract",
-      "summary": "Arsenal and England midfielder Declan Rice says he is close to signing a new contract with his club.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T20:40:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     },
     {
@@ -363,32 +415,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "0805c41e8842d4",
-      "title": "Chelsea hang on for big win vs 10-player Man City as Man Utd beat Palace",
-      "summary": "Chelsea hang on for big win vs 10-player Man City as Man Utd beat Palace",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
-      "publishedAt": "2026-11-14T11:15:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "59ae7c1d709190",
-      "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
-      "summary": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
-      "publishedAt": "2026-11-14T10:54:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
       "id": "34f3f0918f8438",
       "title": "Arsenal ‘top’ star would not ‘turn down’ Real Madrid transfer as Arteta warned over ‘bigger question’",
       "summary": "Arsenal have been warned that William Saliba would not “turn down” Real Madrid, with the Gunners facing a “bigger question”.",
@@ -563,32 +589,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "fe8833f3d51993",
-      "title": "Pochettino the ‘bottle job’ doomed to fail at ‘unmanageable’ Manchester United",
-      "summary": "Mauricio Pochettino is a ‘bottle job’ who has no chance of succeeding at ‘unmanageable’ and ‘toxic’ Manchester United without change.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-bottle-job-doomed-fail-unmanageable-manchester-united",
-      "publishedAt": "2026-11-14T06:41:31.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2ba2b26e87d11b",
-      "title": "Who am I? Plus today's other quizzes",
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T06:27:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
       ]
     }
   ],
