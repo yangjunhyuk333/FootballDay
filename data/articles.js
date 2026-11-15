@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-15T13:42:31.443Z",
+  "generatedAt": "2026-11-15T22:38:39.020Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,16 +99,277 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "5bca5e91ed777a",
-      "title": "Off the Ball take petty & ill-informed look at Scottish football",
-      "summary": "The most petty and ill-informed football show on radio.",
+      "id": "485d4eec016ace",
+      "title": "Who swaggered around like he owned the place? Spain v England ratings",
+      "summary": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T14:00:00.000Z",
-      "category": "league",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:12:55.000Z",
+      "category": "ratings",
       "region": "england",
       "tags": [
         "Football"
+      ]
+    },
+    {
+      "id": "6909b48453c557",
+      "title": "London City earn point in thrilling draw against Arsenal",
+      "summary": "London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:06:41.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "2cc911102cf49b",
+      "title": "Pochettino reverts to Mourinho method at Man Utd as ‘talks’ planned with ex-Red Devils boss",
+      "summary": "Mauricio Pochettino plans to ditch Michael Carrick’s post-match plan at Manchester United after revealing he’s set for talks with Sir Alex Ferguson.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pochettino-reverts-mourinho-method-man-utd-talks-ex-red-devils-boss",
+      "publishedAt": "2026-11-15T21:56:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2528c6ecab6d97",
+      "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group",
+      "summary": "It was the game to show Thomas Tuchel where his rebooted England team had got to; surely the ultimate test in international football. Spain in Spain. A world champion t...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
+      "publishedAt": "2026-11-15T21:56:41.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "29edd6d8562588",
+      "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+      "summary": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T20:47:44.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Real Madrid",
+        "Milan"
+      ]
+    },
+    {
+      "id": "70ea8dd6df1373",
+      "title": "Man City FFP: Percentage of lawyers who think City will win appeal revealed",
+      "summary": "A football finance expert has revealed the percentage of lawyers he’s spoken to who believe Manchester City will win their appeal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-percentage-of-lawyers-think-city-win-appeal",
+      "publishedAt": "2026-11-15T20:19:36.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3f0d2fa4d37988",
+      "title": "Erling Haaland: Real Madrid chief reveals ‘confidence’ in signing Man City star over lunch",
+      "summary": "Florentino Perez is ‘increasingly confident’ in Real Madrid signing Erling Haaland at the end of the season as agents of Manchester City players ‘explore free transfer...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/erling-haaland-perez-increasingly-confident-real-madrid-man-city",
+      "publishedAt": "2026-11-15T19:43:27.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "e3456baaf2cb48",
+      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
+      "summary": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management has be...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
+      "publishedAt": "2026-11-15T19:29:41.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "a8f702d2c45bef",
+      "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+      "summary": "Arsenal’s fifth draw from five home games in the Women’s Super League left them frustrated once again but this was a wholly different story to the previous four, as the...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+      "publishedAt": "2026-11-15T18:53:08.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Chelsea",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "8319b246970b68",
+      "title": "Earps stars as London City frustrate Arsenal to seal point at Emirates",
+      "summary": "Highlights of the Women's Super League match between Arsenal and London City Lionesses.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13612562/arsenal-1-1-london-city-lionesses-wsl-highlights",
+      "publishedAt": "2026-11-15T18:37:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "8a04cee67703f2",
+      "title": "Arsenal's wait for home WSL win goes on after Earps masterclass",
+      "summary": "Arsenal's wait for a home WSL win continues as they drew 1-1 against London City Lionesses on Sunday - their fifth draw in a row at the Emirates this season - with an i...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/report/575818",
+      "publishedAt": "2026-11-15T18:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "306a0a0a3ba5e8",
+      "title": "Children's tournament abandoned for parents' behaviour",
+      "summary": "A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:24:54.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "984e073a417014",
+      "title": "AS FAR retain Women's African Champions League title",
+      "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T17:23:45.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "7f193afd7f0de2",
+      "title": "Chapecoense air crash survivor wins promotion in final game",
+      "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match befo...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T17:10:24.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Serie A"
+      ]
+    },
+    {
+      "id": "a9433be874cb05",
+      "title": "London City Lionesses hit back minutes after Arsenal take the lead!",
+      "summary": "London City Lionesses were not behind for long as Isobel Goodwin cancelled out Frida Maanum's opener.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13612525/wsl-london-city-lionesses-hit-back-minutes-after-arsenal-take-the-lead",
+      "publishedAt": "2026-11-15T16:48:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "1e10401c526b78",
+      "title": "Arteta ‘recommends’ signing to Arsenal board as fate of Gunners duo is sealed",
+      "summary": "Mikel Arteta would reportedly like Arsenal to sign Barcelona star Frenkie de Jong in January to seal Martin Zubimendi’s fate at the club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-arteta-recommends-de-jong-signing-board-barcelona-zubimendi-merino",
+      "publishedAt": "2026-11-15T15:58:53.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Arsenal",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "3ecf27515a009d",
+      "title": "Martin Odegaard reaches decision on Bayern transfer as ‘terribly tame’ Arsenal star slammed",
+      "summary": "Arsenal captain Martin Odegaard was slammed for a “terribly tame” display for Norway after reaching a decision on moving to Bayern Munich at the end of the season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/martin-odegaard-reaches-decision-on-bayern-transfer-as-terribly-tame-arsenal-star-slammed",
+      "publishedAt": "2026-11-15T15:36:19.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "a7da56c6616df2",
+      "title": "Man City FFP: Erling Haaland reaches decision on next club as ‘important date’ emerges",
+      "summary": "Man City striker Erling Haaland has chosen Barcelona as his next destination if he decides to leave the Etihad in 2027, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-erling-haaland-reaches-decision-on-next-club-as-important-date-emerges",
+      "publishedAt": "2026-11-15T14:16:46.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "546b7a4dcfbc8a",
+      "title": "One for the World Cup? England's new-ball switch to Baker pays dividends",
+      "summary": "As England impressively levelled their three-match ODI series against Australia with a 135-run win in Adelaide, might they have stumbled upon the perfect bowling formul...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13612458/england-beat-australia-in-second-odi-sonny-baker-new-ball-switch-from-jofra-archer-pays-off-in-adelaide",
+      "publishedAt": "2026-11-15T14:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "804aa9a1db3ec6",
+      "title": "Pitch perimeters under review after Vigar death",
+      "summary": "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T13:49:17.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
       ]
     },
     {
@@ -222,32 +483,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "22550a1805abe0",
-      "title": "Australia win record fourth Women's Rugby League World Cup",
-      "summary": "Jaime Chapman guided Australia to a historic 34-10 victory in the Women's Rugby League World Cup final on Sunday in Brisbane.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/australia-vs-new-zealand/report/64249",
-      "publishedAt": "2026-11-15T10:07:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e7230618d95df2",
-      "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
-      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13612415/x-paper-talk",
-      "publishedAt": "2026-11-15T09:47:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
       "id": "b1935f0c35687e",
       "title": "Arsenal ‘believe’ they will sign Vinicius Junior from Real Madrid in 2027",
       "summary": "Arsenal have ‘genuine belief’ that they will sign Vinicius Junior from Real Madrid in the summer transfer window, according to reports.",
@@ -352,241 +587,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "c05ccbe169c66a",
-      "title": "Liverpool put three past Brighton to end winless run",
-      "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T23:00:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "1f495d916cacf0",
-      "title": "White has 'exciting future' despite boos - Rice",
-      "summary": "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T22:26:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "482ea6a0f6a2cd",
-      "title": "Man Utd defender ‘oversteps the mark’ in ‘dressing room’ and ‘bites at teammates’ – top source",
-      "summary": "A top Manchester United journalist makes stunning revelations about a defender and how he is with his teammates.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/lisandro-martinez-manchester-united-dressing-room-revelation",
-      "publishedAt": "2026-11-14T21:51:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "77bbd9ac699e6e",
-      "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-      "summary": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T21:48:45.000Z",
-      "category": "transfer",
-      "region": "england spain germany",
-      "tags": [
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "759fcd2a33cb17",
-      "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-      "summary": "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-      "publishedAt": "2026-11-14T20:30:00.000Z",
-      "category": "transfer",
-      "region": "england italy germany",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "a2b9232e719454",
-      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-      "summary": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T20:22:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "e9daf71e3d76be",
-      "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts … now! What is paleont...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-      "publishedAt": "2026-11-14T20:00:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c3dc0056f4a47e",
-      "title": "Fabrizio Romano reveals Liverpool reaction to Ronald Araujo permanent done deal in January claims",
-      "summary": "Uruguay international defender Ronald Araujo is on loan at Liverpool from Barcelona until the end of the season.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ronald-araujo-liverpool-barcelona-fabrizio-romano-transfer-update",
-      "publishedAt": "2026-11-14T19:02:42.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "Liverpool",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "97e6cde3d0e120",
-      "title": "Bompastor's risks pay off as Chelsea go top of WSL",
-      "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T18:55:34.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "63721e45d9fcca",
-      "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-      "summary": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend thei...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T18:27:23.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4d50043a7c535b",
-      "title": "Teddy Sheringham responds when asked if Man Utd should sign Viktor Gyokeres from Arsenal for Pochettino",
-      "summary": "Teddy Sheringham gives his verdict on whether Manchester United should raid Arsenal for Swedish striker Viktor Gyokeres.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/viktor-gyokeres-manchester-united-arsenal-teddy-sheringham",
-      "publishedAt": "2026-11-14T16:38:52.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a93294dd89f149",
-      "title": "'I just play where the manager tells me to play!' - Walsh",
-      "summary": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T16:17:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b94873063dc59f",
-      "title": "Chelsea go top with 1-0 win against Man City",
-      "summary": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T15:50:34.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4403e2e9f11356",
-      "title": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
-      "summary": "Pragmatic, resolute and gutsy. Sonia Bompastor showed her ruthless side and delivered a tactical masterclass as Chelsea earned a 1-0 win over Manchester City and leapfr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
-      "publishedAt": "2026-11-14T15:36:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4c01a3f83d9f63",
-      "title": "Man Utd duo tipped to ‘really thrive’ under Pochettino with one star ‘always loved’ by new manager",
-      "summary": "Two Manchester United players have been backed to “really thrive” under new head coach Mauricio Pochettino.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-duo-tipped-really-thrive-pochettino-one-star-always-loved-new-manager",
-      "publishedAt": "2026-11-14T14:24:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "46670b4b1cf906",
-      "title": "Man Utd: Pochettino, Wilcox bombshell revealed as new manager reaches verdict on ‘replacing’ director",
-      "summary": "Mauricio Pochettino reportedly wants Manchester United to appoint a new director of football to replace Jason Wilcox.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-pochettino-wilcox-bombshell-revealed-new-manager-replacing-director",
-      "publishedAt": "2026-11-14T13:48:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3757b41d9aede9",
-      "title": "Tuchel to remind England of anti-racism protocols before Spain game",
-      "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T09:13:30.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Uefa"
       ]
     }
   ],
