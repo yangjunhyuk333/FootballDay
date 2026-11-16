@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-15T22:38:39.020Z",
+  "generatedAt": "2026-11-16T05:41:46.399Z",
   "windowDays": 7,
   "articles": [
     {
@@ -97,6 +97,32 @@ window.FOOTBALLDAY_DATA = {
         "Top 5 leagues"
       ],
       "pinned": true
+    },
+    {
+      "id": "c3294cae361c42",
+      "title": "Football Daily",
+      "summary": "Reaction to England’s 3-2 win over Spain in the Nations League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T23:16:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "99ceeefe6a0c7a",
+      "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
+      "summary": "The top stories and transfer rumours from Monday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
+      "publishedAt": "2026-11-15T22:45:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
     },
     {
       "id": "485d4eec016ace",
@@ -291,19 +317,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "a9433be874cb05",
-      "title": "London City Lionesses hit back minutes after Arsenal take the lead!",
-      "summary": "London City Lionesses were not behind for long as Isobel Goodwin cancelled out Frida Maanum's opener.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13612525/wsl-london-city-lionesses-hit-back-minutes-after-arsenal-take-the-lead",
-      "publishedAt": "2026-11-15T16:48:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "1e10401c526b78",
       "title": "Arteta ‘recommends’ signing to Arsenal board as fate of Gunners duo is sealed",
       "summary": "Mikel Arteta would reportedly like Arsenal to sign Barcelona star Frenkie de Jong in January to seal Martin Zubimendi’s fate at the club.",
@@ -470,19 +483,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3c43902b6702ba",
-      "title": "Australia brush off New Zealand to win fourth straight Rugby League World Cup",
-      "summary": "Jack Bostock and Liam Martin both starred as Australia swept away New Zealand 32-12 in the men's Rugby League World Cup final to be crowned world champions for the four...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13612427/mens-rugby-league-world-cup-final-australia-32-12-new-zealand-kangaroos-brush-off-kiwis-to-win-fourth-straight-world-title",
-      "publishedAt": "2026-11-15T10:27:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
       "id": "b1935f0c35687e",
       "title": "Arsenal ‘believe’ they will sign Vinicius Junior from Real Madrid in 2027",
       "summary": "Arsenal have ‘genuine belief’ that they will sign Vinicius Junior from Real Madrid in the summer transfer window, according to reports.",
@@ -577,16 +577,16 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6c94a6d6ab0e06",
-      "title": "Erling Haaland: Man City superstar responds when asked about his future after FFP guilty verdict",
-      "summary": "Manchester City striker Erling Haaland has broken his silence about the Cityzens being found guilty of FFP charges and has also opened up about his future.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/erling-haaland-manchester-city-future-ffp-guilty-verdict",
-      "publishedAt": "2026-11-14T23:18:24.000Z",
-      "category": "transfer",
+      "id": "c05ccbe169c66a",
+      "title": "Liverpool put three past Brighton to end winless run",
+      "summary": "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T23:00:29.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Liverpool"
       ]
     }
   ],
