@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:45:02.185Z",
+  "generatedAt": "2026-11-17T15:43:38.378Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,73 +99,105 @@
       "pinned": true
     },
     {
-      "id": "fb6a5392456890",
-      "title": "Rice: More to come from Arsenal's £105m 'bargain'",
-      "summary": "Arsenal's Kroenke family owners tend not to get involved in transfer dealings but when it came to Declan Rice, and the prospect of spending £100m on a player for the fi...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13596475/declan-rice-arsenals-total-player-and-105m-bargain-can-unlock-more-levels-after-agreeing-new-contract",
-      "publishedAt": "2026-11-17T01:45:01.889Z",
+      "id": "7728082683a4ca",
+      "title": "Man Utd turn to new ‘solution’ for problem position as chances of INEOS sealing ‘dream’ signing revealed",
+      "summary": "According to reports, Manchester United are considering a new ‘solution’ for their left-back problem with a move for Lewis Hall looking unlikely.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-turn-new-solution-problem-position-pochettino-set-miss-out-dream-signing",
+      "publishedAt": "2026-11-17T15:22:13.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "41202ff6538cb7",
-      "title": "Swansea braced to lose Vítor Matos as Strasbourg seek to replace Hugo Oliveira",
-      "summary": "Matos has indicated a desire for move to Ligue 1 Championship club would be due compensation Swansea City are increasingly resigned to their head coach, Vítor Matos, jo...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/16/swansea-city-head-coach-vitor-matos-strasbourg-chelsea-sister-club-ligue-1",
-      "publishedAt": "2026-11-16T23:32:23.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Ligue 1",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "c2afae90f6cf2e",
-      "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
-      "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US h...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
-      "publishedAt": "2026-11-16T23:01:52.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Soccer",
-        "Premier League",
         "Manchester"
       ]
     },
     {
-      "id": "cfb6359143db54",
-      "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
-      "summary": "Manchester United may struggle to prise defender Lewis Hall from Newcastle, Arsenal midfielder Martin Zubimendi is pondering his future, Chelsea eye a double swoop for...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T22:06:32.000Z",
-      "category": "league",
-      "region": "england spain italy",
+      "id": "c2e9b7b898a56a",
+      "title": "Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes",
+      "summary": "A new film about the historic World Cup quarter-final clash finds new angles for a new generation “Is there anything new to say about it?” Gary Lineker asked the produc...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/17/reliving-the-drama-england-and-argentina-stars-watch-1986-classic-with-fresh-eyes",
+      "publishedAt": "2026-11-17T15:00:16.000Z",
+      "category": "worldcup",
+      "region": "england",
       "tags": [
-        "Arsenal",
-        "Chelsea",
-        "Manchester",
-        "Barcelona"
+        "Football",
+        "World Cup"
       ]
     },
     {
-      "id": "08a96644404d96",
-      "title": "Man City FFP: Richard Masters asks Premier League clubs to foot personal legal bill if Etihad sue him",
-      "summary": "Richard Masters is asking member clubs for their protection against Man City’s sponsors should they try to sue him or any of the Premier League board members for defama...",
+      "id": "1e447488a72606",
+      "title": "Man Utd: Gary Neville tells Mauricio Pochettino to ‘lose’ £117m trio and keep Diogo Dalot",
+      "summary": "Gary Neville names the defenders that new Manchester United head coach Mauricio Pochettino need to offload.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-richard-masters-premier-league-clubs-personal-legal-bill-etihad-sue-him",
-      "publishedAt": "2026-11-16T21:21:58.000Z",
+      "url": "https://www.football365.com/news/noussair-mazraoui-lisandro-martinez-matthijs-de-ligt-diogo-dalot-manchester-united",
+      "publishedAt": "2026-11-17T14:43:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bf5d5683537c46",
+      "title": "Man Utd make shock decision to sell Ten Hag favourite to pave way for £50m PL signing",
+      "summary": "Man Utd are open to selling Matthijs de Ligt in the January transfer window amid interest from Turkish giants Besiktas, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-shock-decision-sell-de-ligt-pave-way-bassey",
+      "publishedAt": "2026-11-17T14:41:19.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "cb51cc7a523491",
+      "title": "Liverpool decision on Virgil van Dijk future already made – Jamie Carragher",
+      "summary": "Jamie Carragher shares his opinion on what Liverpool will do with Virgil van Dijk, who is out of contract at Anfield at the end of the season.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/virgil-van-dijk-liverpool-future-jamie-carragher-verdict",
+      "publishedAt": "2026-11-17T14:37:26.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "ee12187ae99319",
+      "title": "Rooney contemplated suicide at ‘lowest point’ of Man Utd career",
+      "summary": "Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated suicide.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career",
+      "publishedAt": "2026-11-17T14:36:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "298141bb2e08b4",
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T14:09:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "0ab6e094f81eb7",
+      "title": "Alejandro Garnacho the new Harvey Elliott? Eight pointless loan moves",
+      "summary": "Who will be this season’s Harvey Elliott? Here are eight loan moves this season involving Premier League clubs already looking like they might be a waste of everyone’s...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-loan-moves-looking-like-a-waste-of-time-already",
+      "publishedAt": "2026-11-17T13:42:43.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -173,25 +205,71 @@
       ]
     },
     {
-      "id": "f1c608639e7218",
-      "title": "Football Daily",
-      "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T21:14:00.000Z",
+      "id": "21d4be8a6e5137",
+      "title": "Chelsea back on top as Baltimore bullet stuns Manchester City: Women’s Football Weekly – podcast",
+      "summary": "Faye Carruthers is joined by Suzanne Wrack , Sophie Downey and Chris Paouros to discuss the latest WSL action The title race is on with Chelsea nudging ahead after Sand...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/audio/2026/nov/17/chelsea-back-on-top-manchester-city-wsl-womens-football-weekly-podcast",
+      "publishedAt": "2026-11-17T13:39:23.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Football"
+        "Football",
+        "Arsenal",
+        "Chelsea",
+        "Liverpool"
       ]
     },
     {
-      "id": "7af4e410deab65",
-      "title": "Rice verbally agrees new Arsenal contract",
-      "summary": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal, Sky Sports News can reveal.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
-      "publishedAt": "2026-11-16T21:12:00.000Z",
+      "id": "eb4852a0f4ecae",
+      "title": "Liverpool or Chelsea? Lamine Camara most ‘likely destination’ revealed with agreement ‘close’",
+      "summary": "Monaco midfielder Lamine Camara is more likely to join Liverpool than Chelsea in the January transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-chelsea-lamine-camara-most-likely-destination-revealed-agreement-close",
+      "publishedAt": "2026-11-17T13:26:02.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c09408d5e6c08b",
+      "title": "Liverpool to bid for tenacious LaLiga midfielder who is perfect for Iraola",
+      "summary": "The Reds have found an alternative to Alex Scott and Lamine Camara who appears ‘ideal’ for Iraola, a report has claimed",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-mikel-jauregizar-move-perfect-iraola-midfielder",
+      "publishedAt": "2026-11-17T13:23:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "12c7ee11eea83f",
+      "title": "Arsenal in advanced talks for two huge deals ahead of January window",
+      "summary": "Arsenal are close to landing two international stars to help bolster their title defence ahead of the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-in-advanced-talks-for-two-deals-ahead-of-january",
+      "publishedAt": "2026-11-17T13:12:09.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "cd46f229bf09e3",
+      "title": "Hincapie in advanced talks over new Arsenal deal",
+      "summary": "Arsenal are in advanced talks with defender Piero Hincapie over a new contract.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T13:09:23.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -201,10 +279,10 @@
     {
       "id": "2c6d873ef05ffb",
       "title": "Swansea in fight to keep Matos amid Strasbourg interest",
-      "summary": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+      "summary": "Vitor Matos is understood to have indicated he is interested in leaving Swansea, who have had an official approach from the French top-flight club.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T21:01:50.000Z",
+      "publishedAt": "2026-11-17T13:04:18.000Z",
       "category": "league",
       "region": "italy",
       "tags": [
@@ -212,398 +290,305 @@
       ]
     },
     {
-      "id": "89f293e9fc7ad6",
-      "title": "BBC Women's Football Weekly",
-      "summary": "Manchester City star Vivianne Miedema joins Ellen and Ben to discuss her WSL comeback.",
+      "id": "75dfac0f646ff7",
+      "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
+      "summary": "A man has been convicted of a hate crime after directing racist insults at Real Madrid forward Kylian Mbappe during a La Liga match at Real Oviedo in 2025.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pnb81q?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T19:58:00.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T12:56:27.000Z",
       "category": "league",
-      "region": "england",
+      "region": "spain",
       "tags": [
-        "Football",
-        "Manchester"
+        "La Liga",
+        "Real Madrid"
       ]
     },
     {
-      "id": "eac45e0ce64606",
-      "title": "Arsenal star slammed for ‘nightmare’ display vs Belgium star who ‘does what he wants’ against him",
-      "summary": "Riccardo Calafiori had a game to forget for Italy vs Belgium as his opposite number ‘does what he wants’ against him in the 4-1 defeat.",
+      "id": "4852fb5f9de6cc",
+      "title": "Liverpool given the Jurgen Klopp blueprint for how to get the best out of Florian Wirtz",
+      "summary": "Another excellent Germany performance for Florian Wirtz but how can Liverpool unlock the same player?",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-star-nightmare-display-belgium",
-      "publishedAt": "2026-11-16T19:10:53.000Z",
+      "url": "https://www.football365.com/news/liverpool-given-jurgen-klopp-blueprint-florian-wirtz",
+      "publishedAt": "2026-11-17T12:39:17.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal"
+        "Liverpool"
       ]
     },
     {
-      "id": "b6aa3be8eb3730",
-      "title": "Pochettino insists upon transfer ‘dream’ as USMNT star responds to ‘inevitable’ Man Utd links",
-      "summary": "USMNT star Weston McKennie has opened up on the “inevitable” transfer links to Manchester United as Mauricio Pochettino insists “it’s the dream”.",
+      "id": "6459f008fe59e1",
+      "title": "Pochettino sanctions first Man Utd exit as Red Devils choose fast track transfer",
+      "summary": "New Man Utd head coach Mauricio Pochettino has already chosen to sanction his first player exit at Old Trafford, according to reports.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-transfer-dream-usmnt-star-inevitable-man-utd-links",
-      "publishedAt": "2026-11-16T18:11:45.000Z",
+      "url": "https://www.football365.com/news/pochettino-sanctions-first-man-utd-exit-as-red-devils-choose-fast-track-transfer",
+      "publishedAt": "2026-11-17T12:17:31.000Z",
       "category": "transfer",
       "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "3acc0ca30cf14a",
+      "title": "Man Utd transfer: Juventus respond after learning Pochettino wants to sign McKennie",
+      "summary": "Manchester United have been linked with a January move for Juventus and USA international midfielder Weston McKennie.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-juventus-respond-after-learning-pochettino-wants-to-sign-mckennie",
+      "publishedAt": "2026-11-17T12:11:01.000Z",
+      "category": "transfer",
+      "region": "england italy",
       "tags": [
         "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0de31b61fa8a83",
-      "title": "Klopp plays ‘complete’ Kai Havertz by default – just like Arteta at Arsenal",
-      "summary": "Jurgen Klopp isn’t fooling anyone with his declaration of love for Kai Havertz. He’s playing him by default, just like Mikel Arteta at Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinin-klopp-complete-kai-havertz-default-arteta-arsenal",
-      "publishedAt": "2026-11-16T17:30:56.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "3af94c87f29c90",
-      "title": "Pedro Porro reaches decision on next club as staying at Tottenham is ‘out of the question’",
-      "summary": "Pedro Porro is ‘determined to leave’ Tottenham and has two of Europe’s biggest clubs expressing interest in his services.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/porro-holds-hope-of-returning-to-spain-remaining-at-spurs-out-of-question-per-reports",
-      "publishedAt": "2026-11-16T16:44:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e4c90da175d3c6",
-      "title": "Man Utd told to land Pascal Gross in Brighton revenge after Fabian Hurzeler miss",
-      "summary": "Manchester United have been told by a journalist that they should pursue Brighton star Pascal Gross, after information came to light surrounding their attempts to land...",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-land-pascal-gross-brighton-revenge-fabian-hurzeler",
-      "publishedAt": "2026-11-16T16:42:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "27d4711f12be9b",
-      "title": "Football Daily | England’s Nations League triumph in Spain sparks familiar rush to glory",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Glory. Imminent and near-enough-guaranteed glory. That, surely, is what we’re looking at from the giddy heights Engl...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/16/england-spain-nations-league-victory-football-daily-newsletter",
-      "publishedAt": "2026-11-16T16:20:21.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Arsenal",
         "Manchester",
-        "Inter"
+        "Inter",
+        "Juventus"
       ]
     },
     {
-      "id": "a40c3ffedab626",
-      "title": "Chelsea emerge as top Premier League destination for elite Inter Milan defender",
-      "summary": "The 27-year-old is considered by many experts to be the best left-sided centre-back in world football and would represent a major statement signing for Chelsea, or any...",
+      "id": "d55b97e2028971",
+      "title": "Man Utd fully-costed plan to sign entire USA squad plus Palmer, Kane and 11 defenders emerges",
+      "summary": "Mauricio Pochettino is going to sign all the USA lads as well as all his other former players for Manchester United in a very busy January.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-emerge-top-premier-league-destination-elite-inter-milan-defender",
-      "publishedAt": "2026-11-16T16:15:54.000Z",
+      "url": "https://www.football365.com/news/man-utd-usa-palmer-kane-transfer-plan-pochettino-mediawatch",
+      "publishedAt": "2026-11-17T12:00:41.000Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Inter"
+        "Manchester"
       ]
     },
     {
-      "id": "f9ac1ffb91a561",
-      "title": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
-      "summary": "In a mailbag edition of our newsletter, we look at Mauricio Pochettino, Pep Guardiola’s international credentials and the lack of elite English managers Sign up for our...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
-      "publishedAt": "2026-11-16T16:14:29.000Z",
+      "id": "991408d224d1ac",
+      "title": "Chelsea latest: Estevao scores in dominant Brazil win",
+      "summary": "Chelsea latest: Estevao scores in dominant Brazil win",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
       "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Soccer",
-        "World Cup",
-        "Inter"
-      ]
-    },
-    {
-      "id": "45d245b9fd509c",
-      "title": "Chelsea star’s England career in danger as 10/10 star ‘is the No 1’ now",
-      "summary": "A Chelsea star could be in danger of losing prominence in the England squad with three reasons named why the match-winner against Spain could retain his spot.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/reece-james-england-career-danger-ben-white-10-10",
-      "publishedAt": "2026-11-16T16:00:36.000Z",
-      "category": "worldcup",
       "region": "england",
       "tags": [
         "Chelsea"
       ]
     },
     {
-      "id": "6df7be2a0b28ec",
-      "title": "Klopp says Infantino worse than Blatter",
-      "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T15:54:36.000Z",
-      "category": "worldcup",
+      "id": "27bc2f09a6bbe4",
+      "title": "India's Dhoni retires from playing role with Chennai Super Kings",
+      "summary": "Former India captain MS Dhoni has retired from playing with Chennai Super Kings in the Indian Premier League and will take up a new role as team mentor from the 2027 se...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/news/12040/13613181/ms-dhoni-former-india-captain-retires-from-playing-role-with-ipls-chennai-super-kings-aged-45",
+      "publishedAt": "2026-11-17T11:59:00.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Fifa"
+        "Premier League"
       ]
     },
     {
-      "id": "6b04f3694eb751",
-      "title": "Arsenal learn Real Madrid decision on loaning Endrick to Gunners in January as Mourinho intervenes",
-      "summary": "Arsenal have reportedly learned whether Real Madrid will loan forward Endrick to them in this winter transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/real-madrid-decision-loaning-endrick-arsenal-january-clear-mourinho-stance",
-      "publishedAt": "2026-11-16T15:52:26.000Z",
+      "id": "9da430da56ff13",
+      "title": "Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’",
+      "summary": "In an extract from the former South Africa captain’s book, she details less than ideal Wafcon 2006 preparations I was just a year into my international career when we q...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/17/janine-van-wyck-south-africa-wafcon-book-extract-moving-the-goalposts-newsletter",
+      "publishedAt": "2026-11-17T11:57:35.000Z",
       "category": "transfer",
-      "region": "england spain italy",
+      "region": "italy",
       "tags": [
-        "Transfer",
-        "Arsenal",
-        "Real Madrid",
+        "Football",
         "Inter"
       ]
     },
     {
-      "id": "f08c017668fe1a",
-      "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
-      "summary": "Diallo confirmed by Uefa as its chosen candidate He accused Infantino of seriously damaging football The French Football Federation president, Philippe Diallo, has been...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
-      "publishedAt": "2026-11-16T15:27:30.000Z",
+      "id": "14b1a42b5e348b",
+      "title": "'Why not have a go?' - the halfway line goal phenomenon",
+      "summary": "Why Premier League players are trying their luck on goal from long range more regularly.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:54:07.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "7d17c5a31dfec4",
+      "title": "Piers Morgan reveals Bruno Fernandes fallout and Ben White ‘humiliated by Steve Holland’",
+      "summary": "Piers Morgan makes big revelations about Ben White and Bruno Fernandes fallout with former England and Manchester United coach Steve Holland.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-fernandes-arsenal-steve-holland-piers-morgan-fallout-revealation",
+      "publishedAt": "2026-11-17T11:30:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "1541704de18f1b",
+      "title": "Arsenal want stunning January transfer for £33m Inter star after Brentford bid",
+      "summary": "Arsenal are looking to make a January transfer move for Inter Milan defensive midfielder Aleksandar Stankovic, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-stunning-january-transfer-stankovic-inter-milan-brentford-bid",
+      "publishedAt": "2026-11-17T11:30:25.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "d2fe327b24988e",
+      "title": "London City's Goodwin gets first England call-up",
+      "summary": "London City Lionesses forward Izzy Goodwin is named in the England squad for the first time for the World Cup qualifying play-off against Ukraine.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr9d7pw90x14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:06:33.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "d8a4748886585a",
+      "title": "Man Utd submit stunning €100m bid for Barcelona ace to hijack Chelsea deal",
+      "summary": "Chelsea have reportedly sent two proposals for the 23-year-old, but Man Utd have seemingly burst into the race with a huge offer of their own",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-fermin-lopez-submit-huge-bid-barcelona-hijack-chelsea",
+      "publishedAt": "2026-11-17T10:42:39.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Chelsea",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "cb17295fa8f0c0",
+      "title": "Newcastle reach verdict on selling Malick Thiaw to Man Utd as asking price is set",
+      "summary": "Newcastle have set a huge asking price for German centre-back Malick Thiaw amid interest from Man Utd, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-newcastle-reach-verdict-sell-thiaw-asking-price",
+      "publishedAt": "2026-11-17T10:39:10.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "ee221d97689879",
+      "title": "Ranking Man Utd’s 11 post-Fergie January signings before Pochettino’s first transfer window",
+      "summary": "Mauricio Pochettino needs to make some savvy January signings – which Man Utd have achieved maybe twice since Sir Alex Ferguson…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-january-transfers-signings-ranked",
+      "publishedAt": "2026-11-17T10:37:05.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "051ba2440e9c81",
+      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+      "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T10:32:07.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
         "Fifa",
         "Uefa"
       ]
     },
     {
-      "id": "dc65e789f71e53",
-      "title": "Newcastle looking to steal Liverpool transfer target deemed perfect Van Dijk replacement",
-      "summary": "Liverpool face competition in their pursuit of impressive French defender as Newcastle United express interest in the 21-year-old.",
+      "id": "d87a3272806f02",
+      "title": "Manchester City ‘deterioration’ gives Barcelona chance to solve defensive crisis",
+      "summary": "The 24-year-old defender is one of several candidates on Barcelona’s shortlist, although a move could be difficult for the Spanish side.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-steal-liverpool-target-perfect-van-dijk-replacement",
-      "publishedAt": "2026-11-16T15:23:58.000Z",
+      "url": "https://www.football365.com/news/city-star-one-of-leading-options-to-solve-barca-defensive-crisis",
+      "publishedAt": "2026-11-17T10:30:44.000Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england spain",
       "tags": [
-        "Transfer",
-        "Liverpool",
-        "Inter"
+        "Manchester",
+        "Barcelona"
       ]
     },
     {
-      "id": "aa6741aea07843",
-      "title": "Liverpool tipped to ‘finalise deal’ with leading star in ‘no-brainer’ decision despite ‘a few concerns’",
-      "summary": "Liverpool have been backed to ‘finalise a deal’ with captain Virgil van Dijk as he nears the end of his current contract.",
+      "id": "8697749c780cb5",
+      "title": "Man Utd targets among 15 best footballers out of contract next summer in 2027",
+      "summary": "As we approach the January transfer window, we are looking at the players who are available on the cheap because their contracts expire in 2027.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-tipped-finalise-deal-leading-star-no-brainer-decision-few-concerns",
-      "publishedAt": "2026-11-16T15:16:35.000Z",
+      "url": "https://www.football365.com/news/best-footballers-players-out-of-contract-in-summer-2027",
+      "publishedAt": "2026-11-17T09:58:09.000Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "3f8679ed382011",
-      "title": "Liverpool: Romano reveals Slot first signing set to demand exit on one condition as final straw looms",
-      "summary": "Fabrizio Romano has revealed that Liverpool goalkeeper Giorgi Mamardashvili is set to demand an exit from the Premier League giants.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-romano-reveals-slot-first-signing-demand-exit-one-condition-final-straw",
-      "publishedAt": "2026-11-16T14:33:32.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "908b2fa60d625f",
-      "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
-      "summary": "There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak",
-      "publishedAt": "2026-11-16T14:00:19.000Z",
-      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
-        "Soccer",
-        "World Cup"
+        "Transfer"
       ]
     },
     {
-      "id": "b04b8f31927bf7",
-      "title": "Arsenal star Zubimendi ‘open’ to Chelsea transfer as Gunners name price for January sale",
-      "summary": "Arsenal midfielder Martin Zubimendi is ‘open to everything’ including a transfer to Premier League rivals Chelsea, according to reports.",
+      "id": "f24304de66e175",
+      "title": "Man Utd react after learning Newcastle want £70m for Lewis Hall in January",
+      "summary": "Newcastle United have made their stance clear on selling Lewis Hall to Manchester United in the January transfer window.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-star-zubimendi-open-to-chelsea-transfer-as-gunners-name-price-for-january-sale",
-      "publishedAt": "2026-11-16T13:11:38.000Z",
+      "url": "https://www.football365.com/news/manchester-united-newcastle-united-lewis-hall-january-2027-transfer",
+      "publishedAt": "2026-11-17T09:52:44.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
         "Transfer",
-        "Arsenal",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "3c5532ec18e670",
-      "title": "Michael Owen delivers verdict on Man Utd appointing Pochettino as he makes huge relegation claim",
-      "summary": "Michael Owen has given his thoughts on Manchester United appointing Mauricio Pochettino and potential relegation from the Premier League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/owen-delivers-verdict-man-utd-appointing-pochettino-huge-relegation-claim",
-      "publishedAt": "2026-11-16T13:07:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
         "Manchester"
       ]
     },
     {
-      "id": "8af557966909ff",
-      "title": "England hang on to end Spain’s unbeaten reign | Football Weekly – video",
-      "summary": "Max Rushden is joined by Lucy Ward, George Elek and Will Unwin as England win 3-2 in Madrid to top their Nations League group Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/nov/16/england-hang-on-to-end-spains-unbeaten-reign-football-weekly-video",
-      "publishedAt": "2026-11-16T12:56:01.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "ce1f0978a5d2a5",
-      "title": "McAteer 'intelligence' earns praise from Ipswich boss",
-      "summary": "Ipswich Town boss David Wright praised the football intelligence of Wales international Mary McAteer following her first goal for the club.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrlg3dgyp50o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T12:47:39.000Z",
-      "category": "league",
+      "id": "a7ab749e182696",
+      "title": "Man Utd transfer seems inevitable for Pochettino favourite as star admits it’s ‘a possibility’",
+      "summary": "Weston McKennie has admitted that a move to Man Utd for him and other USA internationals is “a possibility” in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-transfer-mckennie-juventus-pochettino-possibility",
+      "publishedAt": "2026-11-17T09:48:30.000Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5358792e523a5c",
-      "title": "WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?",
-      "summary": "Blues beat champions after bold substitution and Gunners’ home struggles continue with fifth consecutive WSL draw Sonia Bompastor attempted to deflect suggestions that...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
-      "publishedAt": "2026-11-16T12:30:57.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e74da073996589",
-      "title": "Thomas Frank ‘finalising’ Crystal Palace deal as top insider reveals Chelsea man is coming with",
-      "summary": "Former Tottenham boss Thomas Frank is finalising his deal to become the next Crystal Palace manager, with insider David Ornstein revealing the next steps.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/thomas-frank-crystal-palace-manager",
-      "publishedAt": "2026-11-16T12:29:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6ed4d9d62d5764",
-      "title": "Chelsea star tipped to move to Man Utd under Pochettino as one of three PL signings",
-      "summary": "Chelsea starlet Estevao “would be a good signing” for Man Utd under new boss Mauricio Pochettino, according to Mikael Silvestre.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-estevao-tipped-man-utd-transfer-pochettino-hall-calvert-lewin",
-      "publishedAt": "2026-11-16T12:19:53.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0728d51582d285",
-      "title": "Spanish media blast Jude Bellingham for ‘fighting’ Real Madrid teammate in England win – ‘very nasty’",
-      "summary": "Spanish media have hit out at Jude Bellingham for clashing with Real Madrid teammate Marc Cucurella during England’s win against Spain.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/spanish-media-slam-jude-bellingham-fighting-real-madrid-star-england-win-very-nasty",
-      "publishedAt": "2026-11-16T12:10:36.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "9a6cf8b1b42d29",
-      "title": "Pochettino implements immediate Manchester United ‘ban’ as Bellingham bullying vindicated",
-      "summary": "Mauricio Pochettino has put a Manchester United ‘ban’ in place already, while the bullying of Jude Bellingham was all part of a grand plan.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-implements-immediate-manchester-united-ban-bellingham",
-      "publishedAt": "2026-11-16T12:03:18.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0d6225253a746f",
-      "title": "Vinicius says transfer interest affected Real form",
-      "summary": "Real Madrid forward Vinicius Jr says he felt \"truly overwhelmed\" by transfer speculation in the summer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-16T12:01:16.000Z",
-      "category": "transfer",
-      "region": "spain italy",
-      "tags": [
         "Transfer",
-        "Real Madrid",
         "Inter"
       ]
     },
     {
-      "id": "0c939dd3ca870b",
-      "title": "Man Utd backed to hand Pochettino bold signing of Howe favourite in January – journalist",
-      "summary": "Manchester United have been told by a journalist to hand Mauricio Pochettino the ambitious signing of a star Eddie Howe would have wanted at the club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-backed-hand-mauricio-pochettino-lewis-hall-eddie-howe-favourite",
-      "publishedAt": "2026-11-16T11:44:12.000Z",
-      "category": "transfer",
+      "id": "aacfdd6b02810a",
+      "title": "Pochettino says he would tell Guardiola to take USA job",
+      "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T09:48:24.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Manchester"
+      ]
+    },
+    {
+      "id": "f8e720a2a9ab55",
+      "title": "Declan Rice agrees new Arsenal contract making him club’s joint highest-paid player",
+      "summary": "Deal will run to 2031 and worth about £300,000 a week Jurriën Timber also agrees fresh contract extension Declan Rice has agreed a new five-year contract at Arsenal, wi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/17/declan-rice-new-arsenal-contract-jurrien-timber",
+      "publishedAt": "2026-11-17T09:19:34.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal"
       ]
     }
   ],
