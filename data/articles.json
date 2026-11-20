@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:26:16.962Z",
+  "generatedAt": "2026-11-20T15:07:22.261Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,304 +99,83 @@
       "pinned": true
     },
     {
-      "id": "20213a7f57ef89",
-      "title": "Premier League: 10 things to look out for this weekend",
-      "summary": "Bruno Guimarães to feel the heat on Tyneside, Alex Scott’s return further cheers Cherries and Manchester City face favourite whipping boys After three Premier League de...",
+      "id": "e0a6b87e1cdaf6",
+      "title": "Pochettino session leaked on drone footage; Arteta takes fantasy football action; Nations League draw – live",
+      "summary": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Tom A Liverpool fan accused of racially abusing Antoine Se...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
-      "publishedAt": "2026-11-20T00:00:15.000Z",
-      "category": "issue",
+      "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+      "publishedAt": "2026-11-20T14:44:33.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Football",
         "Premier League",
-        "Chelsea",
+        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "90327210c1db78",
-      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-      "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T23:57:54.000Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "a8fbac0c5ff9e0",
-      "title": "Arsenal ‘separate deals’ for Viktor Gyokeres, Julian Alvarez in January will ‘proceed’ on two conditions",
-      "summary": "According to reports, Arsenal have held talks over ‘separate deals’ for Viktor Gyokeres and Julian Alvarez in this January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-separate-deals-gyokeres-alvarez-january-will-proceed-two-conditions",
-      "publishedAt": "2026-11-19T22:56:44.000Z",
+      "id": "6542d2aa9c1984",
+      "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
+      "summary": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to chan...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+      "publishedAt": "2026-11-20T14:36:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Arsenal"
+        "Manchester"
       ]
     },
     {
-      "id": "bfb32849d8d132",
-      "title": "Lyon outclass Arsenal for Champions League win",
-      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T22:56:07.000Z",
-      "category": "transfer",
-      "region": "england france",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "fa805365797c2a",
-      "title": "Man Utd: Drone footage reveals ‘quite incredible’ details on Mauricio Pochettino first training session",
-      "summary": "Footage has leaked of Mauricio Pochettino’s first training session as Manchester United head coach ahead of Sunday’s match against Liverpool.",
+      "id": "133443a88edab9",
+      "title": "Hull vs Brighton prediction: Gross to play key role as team news confirmed",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Hull and Brighton.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-drone-footage-reveals-quite-incredible-details-pochettino-training-session",
-      "publishedAt": "2026-11-19T22:23:36.000Z",
+      "url": "https://www.football365.com/match-preview/hull-vs-brighton-prediction-preview",
+      "publishedAt": "2026-11-20T14:27:27.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7ce78fea9ce07d",
-      "title": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
-      "summary": "Ban by Uefa is suspended for two years Uefa also fines FA £12,500 for offensive chants England have been handed a ­suspended ­one-match ban on away ticket sales by Uefa...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
-      "publishedAt": "2026-11-19T22:05:54.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Uefa"
-      ]
-    },
-    {
-      "id": "3d6d5baf1e9dad",
-      "title": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
-      "summary": "Arsenal’s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL Lyonnes, as the French side continued their statement form in...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
-      "publishedAt": "2026-11-19T22:05:36.000Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d34d18fbf07bd0",
-      "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
-      "summary": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T21:57:22.000Z",
-      "category": "league",
-      "region": "england spain italy",
-      "tags": [
-        "Serie A",
-        "Liverpool",
-        "Manchester",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "622189aafea95c",
-      "title": "Man Utd: Decision reached on selling Bassey to Red Devils in January amid ‘double reason to strike deal’",
-      "summary": "Fulham have reportedly reached a decision on whether to sell centre-back Calvin Bassey to Manchester United in January.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-fulham-reach-decision-selling-calvin-bassey-to-red-devils-in-january",
-      "publishedAt": "2026-11-19T21:48:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "de3b0e7244f850",
-      "title": "Arsenal outclassed in defeat to dominant Lyon",
-      "summary": "Arsenal’s hopes of automatic qualification to the Women’s Champions League quarter-finals are hanging by a thread after they were beaten 2-0 at home by a dominant Lyon...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
-      "publishedAt": "2026-11-19T21:28:00.000Z",
-      "category": "ucl",
-      "region": "england france",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "8247c03619a933",
-      "title": "Huge Erling Haaland to Liverpool update revealed as Man City set terms for sale after guilty FFP verdict",
-      "summary": "According to reports, Liverpool are plotting a move for Erling Haaland, with Manchester City setting the terms for his sale.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/erling-haaland-liverpool-man-city-set-terms-sale-guilty-ffp-verdict",
-      "publishedAt": "2026-11-19T21:23:46.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "40bf4006ea3451",
-      "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
-      "summary": "Ukraine great Andriy Shevchenko accuses Mykhailo Mudryk of a \"baseless slander\" after the on-loan Tottenham winger blamed his failed drugs test on the nation's football...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T20:44:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "506f38e81d7978",
-      "title": "Drone footage of Pochettino's first Man Utd training session leaked online",
-      "summary": "Mauricio Pochettino’s first Manchester United training session today has been leaked online in a major security breach.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13614159/manchester-united-drone-footage-of-mauricio-pochettinos-first-training-session-leaked-online",
-      "publishedAt": "2026-11-19T20:28:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1f23f802efa5e8",
-      "title": "Antonio Conte reacts to Man Utd snubbing him for Mauricio Pochettino and responds to ‘afraid’ claims",
-      "summary": "Manchester United looked at Antonio Conte but hired Mauricio Pochettino as Michael Carrick’s replacement instead.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/antonio-conte-mauricio-pochettino-manchester-united",
-      "publishedAt": "2026-11-19T20:07:40.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "ac44fa4fbcbecb",
-      "title": "New manager Frick to take Aberdeen back to basics",
-      "summary": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T19:11:26.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1e5b152db9a1f1",
-      "title": "England fined for fans' anti-Catholic chants in Spain",
-      "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T19:11:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Uefa"
-      ]
-    },
-    {
-      "id": "f08325046c1c7e",
-      "title": "Sutton's predictions v world champion boxer Lauren Price",
-      "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League f...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T18:52:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
         "Premier League"
       ]
     },
     {
-      "id": "a40986f959501d",
-      "title": "Pochettino's first Man Utd training session filmed by drone operator",
-      "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T18:45:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "040d7e1fb29ae3",
-      "title": "Man Utd: Four ‘lined up’ January signings revealed as Romano confirms decision on selling Sesko, Zirkzee",
-      "summary": "Manchester United reportedly have four targets for the January transfer window, while Fabrizio Romano has an update on two strikers.",
+      "id": "724b193f52472f",
+      "title": "Arsenal: Romano reveals what he ‘can guarantee’ about Zubimendi to Chelsea",
+      "summary": "Fabrizio Romano has revealed that Chelsea head coach Xabi Alonso “is a big fan” of Arsenal midfielder Martin Zubimendi.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-choose-four-january-transfer-targets-romano-decision-selling-sesko-zirkzee",
-      "publishedAt": "2026-11-19T18:31:11.000Z",
+      "url": "https://www.football365.com/news/arsenal-romano-can-guarantee-chelsea-transfer-zubimendi",
+      "publishedAt": "2026-11-20T14:20:47.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "34648db83805ee",
-      "title": "Mykhaylo Mudryk: Tottenham loanee blasted for ‘baseless slander’ after shock drugs ban accusation",
-      "summary": "Ex-Chelsea star Andriy Shevchenko has slammed Tottenham Hotspur loanee Mykhaylo Mudryk after making a “baseless” drugs ban claim.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mykhaylo-mudryk-tottenham-loanee-blasted-baseless-slander-shock-drugs-ban-accusation",
-      "publishedAt": "2026-11-19T18:05:22.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
+        "Arsenal",
         "Chelsea"
       ]
     },
     {
-      "id": "2de8a3c3b5effb",
-      "title": "PL Predictions: How will your club fare this weekend?",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight as the Premier League returns from the international break.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "category": "transfer",
-      "region": "england italy",
+      "id": "a145f00f3cb643",
+      "title": "SFA should not change to pander to clubs - McLeish",
+      "summary": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T14:09:07.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Premier League",
-        "Inter"
+        "Football"
       ]
     },
     {
-      "id": "1cc4a770b9aa31",
-      "title": "Newcastle vs Arsenal prediction: The Gunners to win again as team news confirmed",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Newcastle and Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/newcastle-vs-arsenal-prediction-preview",
-      "publishedAt": "2026-11-19T17:56:08.000Z",
-      "category": "transfer",
+      "id": "97b7ea241532d2",
+      "title": "Arteta warns Arsenal players over FPL team news leak",
+      "summary": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T14:08:55.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
         "Premier League",
@@ -404,66 +183,97 @@
       ]
     },
     {
-      "id": "ac84a0422a3fc7",
-      "title": "All done deals from September-November 2026",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:54:30.000Z",
+      "id": "d745baa7aaf1c9",
+      "title": "Victor Osimhen reaches decision on joining Man Utd in the January transfer window",
+      "summary": "Victor Osimhen is ready to listen to offers from Man Utd or other Premier League clubs in the January transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-victor-osimhen-reaches-decision-january-transfer-galatasaray",
+      "publishedAt": "2026-11-20T13:50:55.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Premier League",
+        "Transfer"
       ]
     },
     {
-      "id": "a8391f1dfeef5a",
-      "title": "Man Utd: ‘Real chance’ Mauricio Pochettino first signing will arrive from Chelsea with transfer ‘in mind’",
-      "summary": "There is reportedly a ‘real chance’ that Manchester United’s first signing under new boss Mauricio Pochettino will be a player from Chelsea.",
+      "id": "9d4770595b2e4b",
+      "title": "Miami Magic fancied for Newbury gold as ante-post selections revealed",
+      "summary": "On the latest episode of Weekend Winners, the panel reveal their top ante-post bets for the upcoming winter months.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/racing/news/12040/13614284/racing-tips-miami-magic-fancied-for-newbury-gold-as-ante-post-selections-revealed-on-weekend-winners",
+      "publishedAt": "2026-11-20T13:30:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "91799175a101a0",
+      "title": "Jose Mourinho says he ‘feels nothing’ for JJ Gabriel ahead of Real Madrid transfer",
+      "summary": "Jose Mourinho says he “no feelings for” JJ Gabriel as the teenager edges close to a Real Madrid transfer.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-real-chance-mauricio-pochettino-first-signing-will-arrive-chelsea",
-      "publishedAt": "2026-11-19T17:43:22.000Z",
+      "url": "https://www.football365.com/news/mourinho-feels-nothing-jj-gabriel-real-madrid",
+      "publishedAt": "2026-11-20T13:14:36.000Z",
+      "category": "transfer",
+      "region": "spain",
+      "tags": [
+        "Transfer",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "6188d6a77ffd9d",
+      "title": "Arsenal: Transfer approved for January in £10.7m deal with ‘1k performance bonuses’ – ‘absolutely confirmed’",
+      "summary": "Arsenal are “seriously pursuing” a deal to sign Olimpia midfielder Eduardo Delmás ahead of the January transfer window, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-transfer-approved-delmas-olimpia-absolutely-confirmed",
+      "publishedAt": "2026-11-20T13:01:50.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Transfer",
-        "Chelsea",
-        "Manchester"
+        "Arsenal"
       ]
     },
     {
-      "id": "b639d2871732fe",
-      "title": "Mauricio Pochettino ‘will talk to’ £68m star over Man Utd deal – Fabrizio Romano",
-      "summary": "Fabrizio Romano reveals that new Manchester United head coach Mauricio Pochettino plans to discuss the future of a star midfielder.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/manchester-united-mauricio-pochettino-bruno-fernandes-fabrizio-romano-contract-talks",
-      "publishedAt": "2026-11-19T17:33:14.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "79fc9a005e539d",
-      "title": "Man City vs Fulham prediction: A low-scoring clash at the Etihad",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Man City and Fulham.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/man-city-vs-fulham-prediction-preview",
-      "publishedAt": "2026-11-19T17:28:15.000Z",
-      "category": "transfer",
+      "id": "428f55d5c4c586",
+      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
+      "summary": "Germany forward on her new life in London and drawing strength from the memory of her late brother, Dennis Lisa Baum is 19, for the next few days at least, but you woul...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
+      "publishedAt": "2026-11-20T13:00:29.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Premier League"
+        "Football",
+        "Arsenal"
       ]
     },
     {
-      "id": "c085194cfc32d6",
-      "title": "Liverpool star is ‘the future’ as Ryan Gravenberch told he’s got to make a big change",
-      "summary": "A Liverpool youngster is “the future”as Ryan Gravenberch has been fired a warning and told he’s got to make a big change if he wants to stay where he is.",
+      "id": "729fd32c6f0579",
+      "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
+      "summary": "Man accused of abusing former Bournemouth winger Alleged incident happened at Anfield game in 2025 A Liverpool fan accused of racially abusing Antoine Semenyo has been...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
+      "publishedAt": "2026-11-20T12:20:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "4b74c0d02b3446",
+      "title": "Shock Pochettino decision ‘leaked’ as mystery teenager lined up for Man Utd debut v Liverpool",
+      "summary": "Some daft sod flew a drone over Man Utd training and others have noticed Mauricio Pochettino was training with ten outfielders, so…",
       "source": "Football365",
-      "url": "https://www.football365.com/news/trey-nyoni-future-ryan-gravenberch-big-change-liverpool",
-      "publishedAt": "2026-11-19T16:53:57.000Z",
+      "url": "https://www.football365.com/news/shock-pochettino-decision-leaked-mystery-teenager-man-utd-debut-liverpool",
+      "publishedAt": "2026-11-20T12:00:49.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -471,53 +281,151 @@
       ]
     },
     {
-      "id": "204317520ac586",
-      "title": "Manager ins and outs - 2026-27",
-      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T16:45:46.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League"
-      ]
-    },
-    {
-      "id": "78041e0e8aa506",
-      "title": "Football Daily",
-      "summary": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T16:42:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "794f34964180c8",
-      "title": "Chelsea told to snub Alex Scott and sign Arsenal star despite ‘agreement’ with top target",
-      "summary": "Chelsea have been told to sign an alternative to Alex Scott despite reaching an agreement with the Bournemouth star over personal terms.",
+      "id": "826dd39dc2e994",
+      "title": "Man Utd star now seriously questioning his future with transfer to Aston Villa on the cards",
+      "summary": "Man Utd winger Amad Diallo is now seriously considering his future at Old Trafford amid interest from Aston Villa, according to reports.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-reach-agreement-alex-scott-bournemouth-decision-record-january-transfer",
-      "publishedAt": "2026-11-19T16:40:44.000Z",
+      "url": "https://www.football365.com/news/man-utd-star-now-seriously-questioning-his-future-with-transfer-to-aston-villa-on-the-cards",
+      "publishedAt": "2026-11-20T11:41:58.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Transfer",
+        "Inter"
+      ]
+    },
+    {
+      "id": "11878a9318f71d",
+      "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+      "summary": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T11:35:16.000Z",
+      "category": "issue",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "d7d9a3e4ec5527",
+      "title": "Mikel Arteta discloses what Mauricio Pochettino has told him about Man Utd",
+      "summary": "Arsenal manager Mikel Arteta says that he has spoken to Manchester United boss Mauricio Pochettino.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mikel-arteta-mauricio-pochettino-arsenal-manchester-united",
+      "publishedAt": "2026-11-20T11:20:56.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Arsenal",
-        "Chelsea"
+        "Manchester"
       ]
     },
     {
-      "id": "d51babcce2d8f9",
-      "title": "Man Utd ‘yet to decide’ whether Pochettino ally has a job after travelling to Carrington",
-      "summary": "Manchester United are reportedly ‘yet to decide’ whether a member of staff who was working under Mauricio Pochettino at USMNT has a job despite her travelling to Carrin...",
+      "id": "97dd5dff5003b5",
+      "title": "Fabrizio Romano reveals Benjamin Sesko decision on leaving Man Utd for Juventus",
+      "summary": "Romano has clarified whether the striker could depart Old Trafford for Turin this winter despite his injury",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-yet-decide-mauricio-pochettino-ally-job",
-      "publishedAt": "2026-11-19T16:14:00.000Z",
+      "url": "https://www.football365.com/news/man-utd-news-benjamin-sesko-reaches-decision-juventus-transfer-fabrizio-romano",
+      "publishedAt": "2026-11-20T11:14:21.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "c5fc4ed1326427",
+      "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+      "summary": "Zubimendi also out of Saturday’s game at Newcastle Arteta imposes Fantasy Premier League ban after leak Mikel Arteta has said Bukayo Saka may not return before Christma...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
+      "publishedAt": "2026-11-20T10:46:32.000Z",
+      "category": "issue",
+      "region": "england italy germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "600e4a1781c210",
+      "title": "Mikel Arteta sends firm instructions to Newcastle fans about Bruno Guimaraes",
+      "summary": "Bruno Guimaraes is set to line up for Arsenal against Newcastle United at St. James’ Park in the Premier League on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-bruno-guimaraes-newcastle-united-fans-mikel-arteta-st-james-park",
+      "publishedAt": "2026-11-20T10:35:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "01dafe57cb94b4",
+      "title": "Man Utd reach verdict on signing McKennie from Juventus as Romano sheds light on ‘a lot of talks’",
+      "summary": "Fabrizio Romano has clarified Man Utd’s reported interest in Juventus star Weston McKennie, who’s starred under Mauricio Pochettino for USMNT.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-verdict-mckennie-juventus-romano-a-lot-of-talks",
+      "publishedAt": "2026-11-20T10:07:37.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter",
+        "Juventus"
+      ]
+    },
+    {
+      "id": "71b17ff501e594",
+      "title": "Will Frank turn things around at Crystal Palace?",
+      "summary": "One of the Premier League's most charismatic managers is back.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "c62d4b69accf5a",
+      "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
+      "summary": "It's all eyes on Bruno Guimaraes this Saturday. The Newcastle hero who captained the team to cup success returns in Arsenal colours. And he returns as a growing cog in...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+      "publishedAt": "2026-11-20T09:38:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "b97ab78f1e6c38",
+      "title": "JJ Gabriel was ‘saved from a Mancunian dumpster fire’ by delegating dad",
+      "summary": "The father of JJ Gabriel deserves praise for saving him from the Manchester United ‘dumpster fire’, not criticism for lining up Real Madrid.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jj-gabriel-saved-from-manchester-united-delegating-dad",
+      "publishedAt": "2026-11-20T09:18:19.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "644c77b21d1922",
+      "title": "Drone operator takes down Man Utd footage and issues apology",
+      "summary": "The drone operator who posted footage of Mauricio Pochettino's first training session at Manchester United on YouTube has said he has now removed the video.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+      "publishedAt": "2026-11-20T09:15:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -525,56 +433,111 @@
       ]
     },
     {
-      "id": "f3123d90a6b935",
-      "title": "Man Utd: Mauricio Pochettino has just suffered his first transfer blow at Old Trafford",
-      "summary": "Fabrizio Romano reveals the chances of Manchester United signing Nico Paz from Como in the January transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fabrizio-romano-nico-paz-manchester-united-como-transfer-latest",
-      "publishedAt": "2026-11-19T16:07:42.000Z",
+      "id": "8a17f6d7daafb6",
+      "title": "Celtic look to keep Rangers at bay in title race as Frick starts Aberdeen rebuild",
+      "summary": "The Scottish Premiership returns after the international break and with it comes the guaranteed drama.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13614280/scottish-premiership-derek-mcinnes-rangers-on-sky-celtic-lead-the-way-as-aberdeen-begin-mario-frick-era",
+      "publishedAt": "2026-11-20T09:00:00.000Z",
       "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "99ea20b3094c8d",
+      "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
+      "summary": "AC Milan, Manchester United and Real Madrid are reportedly interested in Napoli's Scott McTominay, while it is claimed Celtic would be interested in Aston Villa's John...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T08:07:48.000Z",
+      "category": "league",
+      "region": "england spain italy",
+      "tags": [
+        "Manchester",
+        "Real Madrid",
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "3ad9759f60fba8",
+      "title": "What history tells us about the Premier League table after 10 games of a season",
+      "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most i...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+      "publishedAt": "2026-11-20T08:00:26.000Z",
+      "category": "league",
       "region": "england italy",
       "tags": [
-        "Transfer",
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Inter"
+      ]
+    },
+    {
+      "id": "0e1dfb831d3fda",
+      "title": "How West Ham striker's testicular cancer tragedy is educating next generation",
+      "summary": "Fifteen years on from West Ham striker Dylan Tombides discovering he had testicular cancer at the U17 World Cup, his mother and brother are back at the tournament deliv...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13614140/how-the-story-of-dylan-tombides-is-helping-educate-fifa-u17-world-cup-players-about-testicular-cancer",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "1999f934a0ed6f",
+      "title": "Big Weekend: Liverpool v Manchester United, Manchester City, Matthias Jaissle, Pascal Gross",
+      "summary": "Yeah, that’s a Big Weekend all right. And a sensational headline act as Mauricio Pochettino kicks off his Man United reign at Anfield.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-preview-liverpool-manchester-united-city-jaissle-gross",
+      "publishedAt": "2026-11-20T07:50:04.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "91d004a03bfd24",
-      "title": "Premier League clubs vote through new rules to increase legal protection for board",
-      "summary": "Individual indemnity extended for potential lawsuits Key figures may be named in action over Manchester City Clubs rallied behind the Premier League’s leadership in a k...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
-      "publishedAt": "2026-11-19T16:03:07.000Z",
+      "id": "6f7d858a06900c",
+      "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
+      "summary": "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool. He is doing exactly that and thriving under Andoni Iraola.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T07:42:04.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
-        "Premier League",
-        "Manchester"
+        "Liverpool"
       ]
     },
     {
-      "id": "6ce2d93732f024",
-      "title": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
-      "summary": "It also wants exchange-rate fees exemption for 2035 Fifa at loggerheads with UK’s four FAs and government Fifa is at loggerheads with the UK’s government and four footb...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
-      "publishedAt": "2026-11-19T16:00:06.000Z",
+      "id": "63f482bfe9a9c1",
+      "title": "Man Utd circus bottom of Premier League club ranking for manageability",
+      "summary": "Being a Premier League manager at any club is obviously very, very hard but at some clubs, their circumstances make it very, very, very hard.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/every-premier-league-club-ranked-worst-best-managers",
+      "publishedAt": "2026-11-20T07:41:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
+        "Premier League"
       ]
     },
     {
-      "id": "65e7ea31d1ae0f",
-      "title": "Man Utd squad reach verdict on Mauricio Pochettino appointment as two main takeaways revealed",
-      "summary": "A new report has revealed how Manchester United’s squad are feeling about the appointment of new head coach Mauricio Pochettino.",
+      "id": "52ea00b26859d9",
+      "title": "Man Utd squads inherited by incoming managers ranked: Pochettino 6th",
+      "summary": "With a lot of talk about the squad Mauricio Pochettino is inheriting at Manchester United, we have taken a look at where it ranks.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-squad-reach-verdict-pochettino-appointment-two-main-takeaways",
-      "publishedAt": "2026-11-19T15:57:27.000Z",
+      "url": "https://www.football365.com/news/ranking-man-utd-squads-inherited-incoming-managers-pochettino",
+      "publishedAt": "2026-11-20T07:41:08.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
@@ -582,19 +545,55 @@
       ]
     },
     {
-      "id": "b77ab05201e3ac",
-      "title": "Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Although the millions of gamers who are pulling sickies would beg to differ, the release of Grand Theft Auto VI wasn...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
-      "publishedAt": "2026-11-19T15:42:09.000Z",
+      "id": "59aa4f7e51f647",
+      "title": "Man Utd: Pochettino already under pressure as ambitious target set for this season",
+      "summary": "Pochettino takes over a team in 18th place after their worst league start since 1986, but guys, “It’s Manchester United” we’re talking about. Here we go again.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pochettino-under-pressure-ambitious-target-set-season",
+      "publishedAt": "2026-11-20T07:33:34.000Z",
       "category": "transfer",
-      "region": "england italy",
+      "region": "england",
       "tags": [
-        "Football",
-        "Transfer",
-        "Fifa",
         "Manchester"
+      ]
+    },
+    {
+      "id": "6f0033ad43ae3c",
+      "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+      "summary": "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T07:26:36.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "384cc3f69038eb",
+      "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+      "summary": "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T07:08:51.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "aac85298a4333a",
+      "title": "Mudryk can ‘do one’ after burning Tottenham and Ukraine bridges in one bombshell podcast",
+      "summary": "Mykhaylo Mudryk can’t do anything right. The Chelsea star has burned bridges with Ukraine and Tottenham in one podcast appearance. High time you did your talking *on* t...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mudryk-do-one-burning-tottenham-ukraine-bridges-bombshell-podcast",
+      "publishedAt": "2026-11-20T06:58:25.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
       ]
     }
   ],
