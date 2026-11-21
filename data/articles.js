@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-21T06:24:12.118Z",
+  "generatedAt": "2026-11-21T18:54:33.207Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,232 +99,56 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "3f48cf2a4821dc",
-      "title": "Pochettino's Man United squad audit: Big calls to make on stars like Fernandes, Rashford",
-      "summary": "New Manchester United manager Mauricio Pochettino inherits a squad built by his six predecessors. Which players have a future at the club, and which should go?",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
-      "publishedAt": "2026-11-21T00:36:33.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2d7a775e1e7f1e",
-      "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-      "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
-      "publishedAt": "2026-11-21T00:36:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4712b063e73858",
-      "title": "Ballon d'Or winner Kane out a 'few months' after ankle injury in Bayern draw",
-      "summary": "Ballon d'Or winner Harry Kane is set to be out for several months after suffering a ligament tear in his left ankle during Bayern Munich's draw with Cologne.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich",
-      "publishedAt": "2026-11-21T00:36:24.000Z",
-      "category": "issue",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "6bc2a61bd7e9a0",
-      "title": "Sources: Tom Brady buys stake in Chelsea after Birmingham exit",
-      "summary": "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
-      "publishedAt": "2026-11-21T00:36:24.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Soccer",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "29180d0c950b7c",
-      "title": "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United",
-      "summary": "Mauricio Pochettino said the experience of coaching the U.S. at the World Cup stands him in good stead for taking over Manchester United.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
-      "publishedAt": "2026-11-21T00:36:24.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a43d08b9b2c834",
-      "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-      "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-      "publishedAt": "2026-11-21T00:36:24.000Z",
-      "category": "league",
-      "region": "global",
-      "tags": [
-        "Soccer"
-      ]
-    },
-    {
-      "id": "020780867fea2f",
-      "title": "Papers: Osimhen ready to listen to Man Utd offers",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13614555/x-paper-talk",
-      "publishedAt": "2026-11-20T23:30:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "0c46cce146a9a3",
-      "title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T23:18:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Soccer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "cadb60dbb6ebaa",
-      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
-      "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out...",
+      "id": "48dc2bce666a58",
+      "title": "Newcastle United v Arsenal: Premier League – live",
+      "summary": "⚽️ Premier League updates from the 5.30pm GMT kick-off ⚽️ Live scores | Latest table | Follow us on TikTok | Mail Rob “There is an ebb and a flow to Arsenal’s front thr...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-      "publishedAt": "2026-11-20T22:43:40.000Z",
-      "category": "issue",
-      "region": "germany",
-      "tags": [
-        "Football",
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "d8917d6cb60a19",
-      "title": "NFL great Brady could buy Chelsea stake",
-      "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:36:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8946f37038079d",
-      "title": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
-      "summary": "Everton’s playmaker returns after being stood down, while Liverpool’s head coach keeps focus for Anfield showdown Continue reading...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
-      "publishedAt": "2026-11-20T22:31:19.000Z",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+      "publishedAt": "2026-11-21T18:40:06.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Football",
         "Premier League",
-        "Chelsea",
-        "Liverpool"
+        "Arsenal"
       ]
     },
     {
-      "id": "61ee9bb7be46fa",
-      "title": "Kane set to miss three months with ankle injury",
-      "summary": "Harry Kane is expected to be sidelined for three months after suffering an ankle injury during Bayern Munich's Bundesliga game with Cologne on Friday.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury",
-      "publishedAt": "2026-11-20T22:26:00.000Z",
-      "category": "issue",
-      "region": "germany",
-      "tags": [
-        "Bundesliga",
-        "Bayern"
-      ]
-    },
-    {
-      "id": "ace63414bfcaec",
-      "title": "Monstrous striker among four named Man Utd targets as Pochettino refresh revealed",
-      "summary": "A towering striker has been named among four Manchester United targets, with a ‘refresh’ coming in the club’s squad, according to a report.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/igor-matanovic-named-man-utd-target-mauricio-pochettino-refresh",
-      "publishedAt": "2026-11-20T21:00:18.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "c5e12c1d4238e1",
-      "title": "Van Dijk uncertain on Liverpool future",
-      "summary": "Liverpool captain Virgil van Dijk believes he can keeping playing for \"many more years\" - but says he does not yet know whether that will be at Anfield next season.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years",
-      "publishedAt": "2026-11-20T20:15:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "911901f6115dbf",
-      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
-      "summary": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+      "id": "76ead4935cefe8",
+      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+      "summary": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny S...",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T20:06:51.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T18:34:55.000Z",
       "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "f4c819fc006f4c",
-      "title": "Drones, data and Bruno - Pochettino on his early Man Utd challenges",
-      "summary": "Mauricio Pochettino has questioned what could have been gained from the drone footage of a Manchester United training session ahead of his first game in charge against...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13614363/mauricio-pochettino-manchester-united-head-coach-discusses-drone-footage-his-approach-to-data-and-bruno-fernandes-ahead-of-first-game",
-      "publishedAt": "2026-11-20T20:00:00.000Z",
-      "category": "transfer",
       "region": "england",
       "tags": [
+        "Chelsea",
         "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "104ec36b3fe7e6",
-      "title": "Mauricio Pochettino told to immediately drop Man Utd attacker who’s acting ’15’",
-      "summary": "Mauricio Pochettino has been told to take the bold decision to drop a Manchester United attacker who’s acting “15” with his recent antics.",
+      "id": "5d584dd47b7852",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "summary": "The decision to give Leeds a crucial penalty in their win at Chelsea reopens the Premier League handball debate around intent.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T18:30:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "0eadfe42305db8",
+      "title": "Maresca seething with Haaland VAR controversy after Man City 1-1 Fulham",
+      "summary": "Manchester City boss Enzo Maresca showed clear distaste with Erling Haaland’s disallowed goal in the first half of his side’s 1-1 draw with Fulham, as the Citizen’s dro...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/mauricio-pochettino-immediately-drop-bryan-mbeumo-man-utd",
-      "publishedAt": "2026-11-20T19:53:08.000Z",
+      "url": "https://www.football365.com/news/maresca-seething-with-haaland-var-controversy-fulham-stalemate",
+      "publishedAt": "2026-11-21T17:56:26.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -332,250 +156,125 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "3d60fc8771f51e",
-      "title": "MLS playoff Round 1 predictions: Who will move on to the conference semifinals?",
-      "summary": "Round 1 of the MLS Cup playoffs begins Saturday, so who will emerge from the best-of-three series? ESPN's U.S. soccer analysts make their predictions.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
-      "publishedAt": "2026-11-20T19:07:41.000Z",
-      "category": "league",
-      "region": "global",
-      "tags": [
-        "Soccer"
-      ]
-    },
-    {
-      "id": "f9d96e02927c37",
-      "title": "Pochettino the connector: will human touch lift Manchester United?",
-      "summary": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style...",
+      "id": "db7e0f792c929d",
+      "title": "European football: Noslin’s double helps Lazio extend Serie A lead; Nmecha sends Dortmund top",
+      "summary": "Dortmund beat Mönchengladbach in Bundesliga Harry Kane vows to return after Bayern injury Lazio continued to underline their Serie A title credentials with a comfortabl...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-      "publishedAt": "2026-11-20T19:00:37.000Z",
-      "category": "worldcup",
-      "region": "england france",
+      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
+      "publishedAt": "2026-11-21T17:47:21.000Z",
+      "category": "issue",
+      "region": "italy france germany",
       "tags": [
         "Football",
-        "Liverpool",
-        "Manchester",
+        "Serie A",
+        "Bundesliga",
         "Psg"
       ]
     },
     {
-      "id": "25b5938fe51445",
-      "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
-      "summary": "The 30-year-old former England star combines Twitch streaming with working to return to the top as a player Consider the training regime Dele Alli has followed since he...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
-      "publishedAt": "2026-11-20T19:00:37.000Z",
-      "category": "transfer",
-      "region": "england italy",
+      "id": "570415a40f7605",
+      "title": "Fifpro criticises Bayern Munich for Musiala comments",
+      "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T17:43:44.000Z",
+      "category": "league",
+      "region": "germany",
       "tags": [
         "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "4fa0e0ef8b41e2",
-      "title": "Sarr focused on Palace return after Liverpool interest",
-      "summary": "Crystal Palace forward Ismaila Sarr says he has moved on from Liverpool's interest in signing him and is keen for a \"fresh start\" under Thomas Frank.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T18:41:33.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Liverpool",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5a0c5cdb312792",
-      "title": "Antonio Conte explains why Man Utd links were ‘almost offensive’ after Pochettino hire",
-      "summary": "Former Tottenham and Chelsea boss Antonio Conte has slammed claims that he missed out on the Man Utd job over his methodology.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-antonio-conte-links-almost-offensive-pochettino",
-      "publishedAt": "2026-11-20T18:20:59.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "bb65b5aebf394a",
-      "title": "Premier League team news: predicted lineups for the weekend action",
-      "summary": "Newcastle host Arsenal on Saturday while Mauricio Pochettino’s Manchester United visit Liverpool on Sunday Saturday 12.30pm TNT Sports 1 Venue Etihad Stadium Continue r...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "publishedAt": "2026-11-20T18:03:15.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "fdffcaac14aa8b",
-      "title": "Chelsea fined £150,000 for discriminatory chanting",
-      "summary": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T17:52:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "4fee6e97b25f5a",
-      "title": "Arsenal make Michael Olise transfer manoeuvre as ‘next logical step’ for €300m star is clear",
-      "summary": "Arsenal have reportedly added Bayern Munich star Michael Olise to their transfer ‘shortlist’ as they look to sign a marquee attacker.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-michael-olise-transfer-manoeuvre-next-logical-step-real-madrid",
-      "publishedAt": "2026-11-20T17:12:43.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Transfer",
-        "Arsenal",
         "Bayern"
       ]
     },
     {
-      "id": "f008d21d9f5321",
-      "title": "Man Utd fan criticism has gone too far at times - Berrada",
-      "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+      "id": "02aba33d2ed2d9",
+      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
+      "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T16:55:11.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T17:42:14.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Manchester"
+        "Chelsea"
       ]
     },
     {
-      "id": "80ce160f4cca50",
-      "title": "Football Daily",
-      "summary": "The team look at Mauricio Pochettino's opening match as Manchester United head coach",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/m003471n?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T16:53:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0cfa2027ff220f",
-      "title": "Man Utd ‘actually happy’ with summer transfers, admits Berrada; Rashford is named as ‘addition’",
-      "summary": "Man Utd are “actually happy” with their summer transfer business as Omar Berrada names Marcus Rashford among “five additions”.",
+      "id": "8ca9f6d9378c9f",
+      "title": "Alonso no closer to Chelsea answers while Leeds party like it’s 1999",
+      "summary": "Daniel Farke found the answers when he really needed them a year ago but Xabi Alonso seems to have tried everything and Chelsea remain an enigma…",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-actually-happy-summer-transfers-berrada-rashford-addition",
-      "publishedAt": "2026-11-20T16:38:01.000Z",
+      "url": "https://www.football365.com/news/chelsea-1-leeds-united-4-alonso-answers-leeds-first-win-1999",
+      "publishedAt": "2026-11-21T17:28:30.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer"
+        "Chelsea"
       ]
     },
     {
-      "id": "c685aba7883da4",
-      "title": "Mowbray support no surprise, says interim boss Johnson",
-      "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T16:27:19.000Z",
-      "category": "league",
+      "id": "c6e32244eccd29",
+      "title": "Chelsea defender branded a ‘disgrace’ v Leeds: ‘He has been really poor’",
+      "summary": "Steve Sidwell has hammered a Chelsea defender for his performance against Leeds United at Stamford Bridge.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/wesley-fofana-chelsea-leeds-steve-sidwell-verdict",
+      "publishedAt": "2026-11-21T17:15:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a9d7c3f160d357",
+      "title": "Managerless Swans hit back twice to hold West Brom",
+      "summary": "Ashley Williams began life as Swansea's interim head coach with a draw against the club who showed him the door as a 16-year-old 25 years ago.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/swansea-city-vs-west-bromwich-albion/report/560687",
+      "publishedAt": "2026-11-21T17:15:00.000Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
         "Inter"
       ]
     },
     {
-      "id": "a585c3d5f333a7",
-      "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
-      "summary": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
-      "publishedAt": "2026-11-20T15:47:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "18f75f83c5c955",
-      "title": "Transfer rumors, news: Arsenal want World Cup winner Williams",
-      "summary": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
-      "publishedAt": "2026-11-20T15:25:57.000Z",
-      "category": "transfer",
-      "region": "england spain italy",
-      "tags": [
-        "World Cup",
-        "Transfer",
-        "Arsenal",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "4819f42791d923",
-      "title": "Why injured Joao Pedro may be Chelsea's most important player",
-      "summary": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T15:18:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "7e64a2a5d4fcf0",
-      "title": "Filming training by drones should be illegal - Iraola",
-      "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T15:08:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "4d769a719edf34",
-      "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
-      "summary": "NFL legend was Chelsea guest at Club World Cup Brady has good relationship with Behdad Eghbali Tom Brady is in discussions about buying a small stake in Chelsea. The NF...",
+      "id": "3bcb287b4aeb5c",
+      "title": "Noah Okafor piles on pain for Alonso as rampant Leeds demolish dismal Chelsea",
+      "summary": "Xabi Alonso is straying towards crisis territory. Here’s a mind-bending statistic: Chelsea are eighth but have now lost more league games than Manchester United. They w...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/tom-brady-chelsea-talks-stake-birmingham-city",
-      "publishedAt": "2026-11-20T14:50:09.000Z",
-      "category": "worldcup",
-      "region": "england france",
+      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
+      "publishedAt": "2026-11-21T17:14:52.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
         "Football",
-        "World Cup",
         "Chelsea",
-        "Psg"
+        "Manchester"
       ]
     },
     {
-      "id": "133443a88edab9",
-      "title": "Hull vs Brighton prediction: Gross to play key role as team news confirmed",
-      "summary": "All the team news and predictions ahead of the Premier League clash between Hull and Brighton.",
+      "id": "7a04c7e94b488e",
+      "title": "Bournemouth’s Evanilson and Kluivert sink Forest to make it nine wins in a row",
+      "summary": "Bournemouth extended their winning run to nine in all competitions as Evanilson scored for the sixth Premier League game in a row in a 2-0 win over Nottingham Forest. J...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+      "publishedAt": "2026-11-21T17:10:24.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b37c5a41ee98df",
+      "title": "Tom Brady sets sights on Premier League club just weeks after Birmingham exit",
+      "summary": "Tom Brady, who has an estimated net worth of around £500 million, is set to buy a stake in of the Premier League’s traditional ‘big six’ just weeks after leaving ...",
       "source": "Football365",
-      "url": "https://www.football365.com/match-preview/hull-vs-brighton-prediction-preview",
-      "publishedAt": "2026-11-20T14:27:27.000Z",
+      "url": "https://www.football365.com/news/tom-brady-buy-stakes-chelsea-weeks-after-leaving-birmingham",
+      "publishedAt": "2026-11-21T16:54:27.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -583,17 +282,322 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "724b193f52472f",
-      "title": "Arsenal: Romano reveals what he ‘can guarantee’ about Zubimendi to Chelsea",
-      "summary": "Fabrizio Romano has revealed that Chelsea head coach Xabi Alonso “is a big fan” of Arsenal midfielder Martin Zubimendi.",
+      "id": "b1c4de5ee41e37",
+      "title": "Leaders Celtic ease to victory against St Mirren",
+      "summary": "Celtic looked refreshed after the international break as they eased to a 4-1 win against St Mirren.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/celtic-vs-st-mirren/report/558411",
+      "publishedAt": "2026-11-21T16:50:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "3b8c5a5d02625b",
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "summary": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T16:07:19.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "208e7f947189f4",
+      "title": "Man City left baffled as Premier League shed light on disallowed Haaland goal",
+      "summary": "The Premier League have left supporters perplexed after officials disallowed an Erling Haaland goal against Fulham, with their X explanation shedding little light on wh...",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-romano-can-guarantee-chelsea-transfer-zubimendi",
-      "publishedAt": "2026-11-20T14:20:47.000Z",
+      "url": "https://www.football365.com/news/man-city-left-baffled-premier-league-shed-light-disallowed-haaland-goal",
+      "publishedAt": "2026-11-21T16:06:22.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "fdca1353e71197",
+      "title": "Arsenal winger target ‘not far off’ Lamine Yamal as £80m will secure supreme talent",
+      "summary": "Arsenal have been told one of their targets on the wing is “not far off” Lamine Yamal, with an £80million price tag quoted to land the supreme talent.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-winger-target-antonio-nusa-not-far-off-lamine-yamal",
+      "publishedAt": "2026-11-21T15:42:06.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "a8ef1c5b025749",
+      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+      "summary": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T15:34:35.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "59d2703d929a37",
+      "title": "Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw",
+      "summary": "Khiara Keating’s resilient performance in goal denied Chelsea, the Women’s Super League leaders, and earned Liverpool a point. After hard-fought 1-0 wins against Manche...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+      "publishedAt": "2026-11-21T15:03:50.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7ca9e88746b77d",
+      "title": "Liverpool: Virgil van Dijk thoughts on emotional ‘goodbyes’ as contract reveal made",
+      "summary": "Virgil van Dijk has given his thoughts on emotional “goodbyes” at Liverpool, with a pair of updates issued on his contract expiry situation at Anfield.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/virgil-van-dijk-thoughts-emotional-reds-goodbyes",
+      "publishedAt": "2026-11-21T15:03:45.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "a4ada14bf2309b",
+      "title": "Liverpool vs Man Utd prediction: Pochettino to suffer debut defeat at Anfield",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Liverpool and Man Utd.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/liverpool-vs-man-utd-prediction-preview",
+      "publishedAt": "2026-11-21T14:57:48.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "6bf225bde843b1",
+      "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
+      "summary": "Manchester City are living in Premier League purgatory, without a win in four, but at least against Fulham they ended a three-game losing run. As they await their fate...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+      "publishedAt": "2026-11-21T14:34:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "54d573d65a506d",
+      "title": "Man Utd captain Bruno Fernandes contacted by European royalty as new frontrunners emerge",
+      "summary": "Galatasaray and Al-Hilal are both showing keen interest in the playmaker, but a return to Italy is now possible, as per a report",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/bruno-fernandes-man-utd-future-transfer-ac-milan-contact-frontrunners",
+      "publishedAt": "2026-11-21T14:32:27.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "32129570ccdfd5",
+      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
+      "summary": "How Manchester City and Fulham players rated in their Premier League match.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T14:21:31.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b83a6748f6817d",
+      "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
+      "summary": "Attorney also representing Joshua Kushner in Uefa battle Clearlake Capital seeking additional investors Elon Musk’s lawyer is joining Tom Brady in buying a stake in Che...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
+      "publishedAt": "2026-11-21T14:20:05.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Fifa",
+        "Uefa",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "fcaf18958f1906",
+      "title": "Liverpool on red alert as Iraola admits Man Utd hold ‘advantage’ ahead of clash",
+      "summary": "Liverpool boss Andoni Iraola can’t quite predict how Manchester United will play on Sunday, as the Spaniard insists his players will have to ‘adapt’ to ‘new challenges’...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-red-alert-iraola-admits-man-utd-hold-advantage",
+      "publishedAt": "2026-11-21T13:56:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ce94897d442780",
+      "title": "Benjamin Sesko future decided as Man Utd prepare sacrifice for new No.9 – Fabrizio Romano",
+      "summary": "Transfer insider Fabrizio Romano has revealed Manchester United plan to sign a new striker and could sacrifice one of their own, and it’s known whether that’ll be Benja...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/benjamin-sesko-future-man-utd-prepare-sacrifice-no-9",
+      "publishedAt": "2026-11-21T13:34:07.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Arsenal",
-        "Chelsea"
+        "Transfer",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "21aa93d578d976",
+      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+      "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw w...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T13:29:40.000Z",
+      "category": "issue",
+      "region": "germany",
+      "tags": [
+        "Bundesliga",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "9570598b478e45",
+      "title": "Liverpool alerted by Bayern Munich star’s £147m release clause – not Olise",
+      "summary": "Olise is not the only elite Bayern star Liverpool are interested in, but it could be a risky transfer",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-transfer-news-alerted-jamal-musiala-release-clause-bayern-munich-147-million",
+      "publishedAt": "2026-11-21T11:59:00.000Z",
+      "category": "transfer",
+      "region": "england italy germany",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Bayern",
+        "Inter"
+      ]
+    },
+    {
+      "id": "df4b8f1b886187",
+      "title": "Ronald Araujo decision on permanent Liverpool transfer after Barcelona ‘money’ reveal",
+      "summary": "Ronald Araujo has given his thoughts on swapping Barcelona for Liverpool permanently in the summer, after Deco revealed how that could help the Spanish club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ronald-araujo-decision-permanent-liverpool-transfer-barcelona-money",
+      "publishedAt": "2026-11-21T11:51:47.000Z",
+      "category": "transfer",
+      "region": "england spain",
+      "tags": [
+        "Transfer",
+        "Liverpool",
+        "Barcelona"
+      ]
+    },
+    {
+      "id": "fcc3c5651f2c1e",
+      "title": "Football Daily",
+      "summary": "Why did Leon choose Aston Villa, & how does the Premier League compare to the Bundesliga?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp3b1b?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T10:00:00.000Z",
+      "category": "league",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "89f1808b95e3a4",
+      "title": "Man Utd: Expert reacts to claim Pochettino has ‘£500m to spend in January’ on four players",
+      "summary": "Man Utd have “no chance” of spending £500m in January, according to a football finance expert, amid claims of a humongous budget.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-expert-finance-reacts-pochettino-500m-spend-january",
+      "publishedAt": "2026-11-21T09:58:42.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "2b01215cc14079",
+      "title": "The real reason Guimaraes ditched Newcastle for Arsenal revealed by insider",
+      "summary": "Insider Luke Edwards has revealed the true reasons Bruno Guimaraes left Newcastle as he prepares to face up against his old club for Arsenal.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/real-reason-bruno-guimaraes-newcastle-arsenal",
+      "publishedAt": "2026-11-21T09:39:20.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "bc41d5916bab92",
+      "title": "Premier League wage bills and why Man Utd should be in the top four",
+      "summary": "Brighton have no business being where they are in the Premier League, while Man Utd should be in the top four, not the bottom three…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-wage-bills-salaries-2026-27-season-how-the-table-should-look",
+      "publishedAt": "2026-11-21T09:27:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "258f7c0a818763",
+      "title": "Prem tables highlight Liverpool flaws for Pochettino and Man Utd to expose at Anfield",
+      "summary": "Why facing Liverpool at Anfield might not be the daunting task it appears for Mauricio Pochettino in his first game in charge of Man Utd…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-stats-tables-liverpool-home-form-flaws-man-utd-pochettino",
+      "publishedAt": "2026-11-21T09:26:13.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "39baca4fa13a7a",
+      "title": "Can football fans force their clubs to be greener?",
+      "summary": "A club’s environmental future shouldn’t be decided exclusively by the people in its boardroom; the fans will be around much longer.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/football-fans-force-clubs-greener",
+      "publishedAt": "2026-11-21T09:25:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
       ]
     }
   ],
