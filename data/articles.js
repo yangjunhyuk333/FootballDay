@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-20T23:49:45.718Z",
+  "generatedAt": "2026-11-21T06:24:12.118Z",
   "windowDays": 7,
   "articles": [
     {
@@ -97,6 +97,86 @@ window.FOOTBALLDAY_DATA = {
         "Top 5 leagues"
       ],
       "pinned": true
+    },
+    {
+      "id": "3f48cf2a4821dc",
+      "title": "Pochettino's Man United squad audit: Big calls to make on stars like Fernandes, Rashford",
+      "summary": "New Manchester United manager Mauricio Pochettino inherits a squad built by his six predecessors. Which players have a future at the club, and which should go?",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
+      "publishedAt": "2026-11-21T00:36:33.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2d7a775e1e7f1e",
+      "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
+      "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+      "publishedAt": "2026-11-21T00:36:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "4712b063e73858",
+      "title": "Ballon d'Or winner Kane out a 'few months' after ankle injury in Bayern draw",
+      "summary": "Ballon d'Or winner Harry Kane is set to be out for several months after suffering a ligament tear in his left ankle during Bayern Munich's draw with Cologne.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich",
+      "publishedAt": "2026-11-21T00:36:24.000Z",
+      "category": "issue",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "6bc2a61bd7e9a0",
+      "title": "Sources: Tom Brady buys stake in Chelsea after Birmingham exit",
+      "summary": "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
+      "publishedAt": "2026-11-21T00:36:24.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Soccer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "29180d0c950b7c",
+      "title": "Pochettino: 'Massive' pressure with USMNT makes me better coach for Man United",
+      "summary": "Mauricio Pochettino said the experience of coaching the U.S. at the World Cup stands him in good stead for taking over Manchester United.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50542344/mauricio-pochettino-usa-man-united-coach",
+      "publishedAt": "2026-11-21T00:36:24.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a43d08b9b2c834",
+      "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
+      "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+      "publishedAt": "2026-11-21T00:36:24.000Z",
+      "category": "league",
+      "region": "global",
+      "tags": [
+        "Soccer"
+      ]
     },
     {
       "id": "020780867fea2f",
@@ -252,6 +332,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
+      "id": "3d60fc8771f51e",
+      "title": "MLS playoff Round 1 predictions: Who will move on to the conference semifinals?",
+      "summary": "Round 1 of the MLS Cup playoffs begins Saturday, so who will emerge from the best-of-three series? ESPN's U.S. soccer analysts make their predictions.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
+      "publishedAt": "2026-11-20T19:07:41.000Z",
+      "category": "league",
+      "region": "global",
+      "tags": [
+        "Soccer"
+      ]
+    },
+    {
       "id": "f9d96e02927c37",
       "title": "Pochettino the connector: will human touch lift Manchester United?",
       "summary": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style...",
@@ -393,22 +486,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e5f977ad3f0aeb",
-      "title": "Football Daily | The Premier League resumes: here’s our almost essential club-by-club recap",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Just like taking the Manchester United job or listening in on a conversation with Stephen Warnock, the men’s interna...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-resumes-club-by-club-recap-football-daily-newsletter",
-      "publishedAt": "2026-11-20T16:32:26.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
       "id": "c685aba7883da4",
       "title": "Mowbray support no surprise, says interim boss Johnson",
       "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
@@ -419,6 +496,35 @@ window.FOOTBALLDAY_DATA = {
       "region": "italy",
       "tags": [
         "Inter"
+      ]
+    },
+    {
+      "id": "a585c3d5f333a7",
+      "title": "Estêvão is Brazil's brightest young talent. Is Chelsea the right place for him?",
+      "summary": "Estêvão is widely regarded as Brazil's brightest young talent, but he has struggled for playing time at Chelsea.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50523536/estevao-brazil-young-talent-chelsea",
+      "publishedAt": "2026-11-20T15:47:35.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "18f75f83c5c955",
+      "title": "Transfer rumors, news: Arsenal want World Cup winner Williams",
+      "summary": "Real Madrid are looking to boost their attack by signing Como and Argentina international Nico Paz. Transfer Talk has the latest.",
+      "source": "ESPN Soccer",
+      "url": "https://www.espn.com/soccer/story/_/id/50539252/transfer-rumors-news-arsenal-world-cup-nico-williams-spain",
+      "publishedAt": "2026-11-20T15:25:57.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
+      "tags": [
+        "World Cup",
+        "Transfer",
+        "Arsenal",
+        "Real Madrid"
       ]
     },
     {
@@ -488,118 +594,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Arsenal",
         "Chelsea"
-      ]
-    },
-    {
-      "id": "a145f00f3cb643",
-      "title": "SFA should not change to pander to clubs - McLeish",
-      "summary": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T14:09:07.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "97b7ea241532d2",
-      "title": "Arteta warns Arsenal players over FPL team news leak",
-      "summary": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T14:08:55.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d745baa7aaf1c9",
-      "title": "Victor Osimhen reaches decision on joining Man Utd in the January transfer window",
-      "summary": "Victor Osimhen is ready to listen to offers from Man Utd or other Premier League clubs in the January transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-victor-osimhen-reaches-decision-january-transfer-galatasaray",
-      "publishedAt": "2026-11-20T13:50:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "91799175a101a0",
-      "title": "Jose Mourinho says he ‘feels nothing’ for JJ Gabriel ahead of Real Madrid transfer",
-      "summary": "Jose Mourinho says he “no feelings for” JJ Gabriel as the teenager edges close to a Real Madrid transfer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mourinho-feels-nothing-jj-gabriel-real-madrid",
-      "publishedAt": "2026-11-20T13:14:36.000Z",
-      "category": "transfer",
-      "region": "spain",
-      "tags": [
-        "Transfer",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "6188d6a77ffd9d",
-      "title": "Arsenal: Transfer approved for January in £10.7m deal with ‘1k performance bonuses’ – ‘absolutely confirmed’",
-      "summary": "Arsenal are “seriously pursuing” a deal to sign Olimpia midfielder Eduardo Delmás ahead of the January transfer window, according to reports.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-transfer-approved-delmas-olimpia-absolutely-confirmed",
-      "publishedAt": "2026-11-20T13:01:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "428f55d5c4c586",
-      "title": "Arsenal’s Lisa Baum: ‘I believe in us. I think it’s all about the small margins’",
-      "summary": "Germany forward on her new life in London and drawing strength from the memory of her late brother, Dennis Lisa Baum is 19, for the next few days at least, but you woul...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/arsenal-lisa-baum-germany-brother-dennis",
-      "publishedAt": "2026-11-20T13:00:29.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "729fd32c6f0579",
-      "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
-      "summary": "Man accused of abusing former Bournemouth winger Alleged incident happened at Anfield game in 2025 A Liverpool fan accused of racially abusing Antoine Semenyo has been...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
-      "publishedAt": "2026-11-20T12:20:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "4b74c0d02b3446",
-      "title": "Shock Pochettino decision ‘leaked’ as mystery teenager lined up for Man Utd debut v Liverpool",
-      "summary": "Some daft sod flew a drone over Man Utd training and others have noticed Mauricio Pochettino was training with ten outfielders, so…",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/shock-pochettino-decision-leaked-mystery-teenager-man-utd-debut-liverpool",
-      "publishedAt": "2026-11-20T12:00:49.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
       ]
     }
   ],
