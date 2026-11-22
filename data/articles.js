@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-22T05:55:26.264Z",
+  "generatedAt": "2026-11-22T14:22:00.728Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,135 +99,384 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "c173cbfa399e42",
-      "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
-      "summary": "Inter Miami and star Lionel Messi are facing the prospect of an early exit from the MLS playoffs after a 3-0 home loss to the Columbus Crew in Game 1.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
-      "publishedAt": "2026-11-22T04:42:53.000Z",
+      "id": "5bca5e91ed777a",
+      "title": "Listen: Sportsound - football & rugby reviews",
+      "summary": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T17:00:00.000Z",
       "category": "league",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "e55d6a67e70527",
-      "title": "PSG star Doué 'sad' and 'worried' after suffering 'serious' knee injury",
-      "summary": "PSG forward Désiré Doué was carried off on a stretcher with a serious knee injury late in the first half of the team's 3-2 win at Nice in Ligue 1 on Saturday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50554155/psg-desire-doue-injury-nice-knee",
-      "publishedAt": "2026-11-22T04:42:53.000Z",
-      "category": "issue",
-      "region": "france",
-      "tags": [
-        "Ligue 1",
-        "Psg"
-      ]
-    },
-    {
-      "id": "0867036c8290e8",
-      "title": "Supersub Espí's 'most special' goal earns win for Madrid and praise from Nadal",
-      "summary": "Real Madrid supersub Carlos Espí said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50555627/real-madrid-carlos-espi-celta-vigo-rafael-nadal",
-      "publishedAt": "2026-11-22T04:42:53.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "8390755debc9bf",
-      "title": "Raya exits with injury as Arsenal held by Newcastle: 'Never good news'",
-      "summary": "David Raya was forced off with an injury during Arsenal's 2-2 draw at Newcastle United on Saturday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50552162/david-raya-injured-arsenal-newcastle-premier-league",
-      "publishedAt": "2026-11-22T04:42:53.000Z",
-      "category": "issue",
       "region": "england",
       "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "22d6a0c35996a1",
+      "title": "Hull City v Brighton: Premier League – live",
+      "summary": "Premier League updates from the 2pm GMT kick-off Live scores | Table | Follow on TikTok | And mail Dom Fabian Hürzeler sounded a little way of Hull in his pre-match pre...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
+      "publishedAt": "2026-11-22T14:14:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
         "Arsenal"
       ]
     },
     {
-      "id": "9c98ac3fffb767",
-      "title": "Chelsea in 'fragile moment' as Caicedo injury adds to pain of Leeds rout",
-      "summary": "Another crisis might be unfolding at Chelsea, just a few months into Xabi Alonso's tenure.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50554949/chelsea-leeds-united-moises-caicedo-injury-xabi-alonso",
-      "publishedAt": "2026-11-22T04:42:53.000Z",
-      "category": "issue",
+      "id": "be3b745d044860",
+      "title": "Manchester City 1-3 Tottenham, Arsenal v West Ham: WSL clockwatch – live",
+      "summary": "Manchester United rally late on to beat Birmingham Live scores | Table | Follow on TikTok | And email John Shaw strikes for City! Rose wins the ball high up the pitch b...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
+      "publishedAt": "2026-11-22T14:14:47.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e733cb0062a1d0",
+      "title": "Two things Man Utd players have noticed about Pochettino as new boss sends message",
+      "summary": "Man Utd players have been warned by Mauricio Pochettino that the real work on the training pitch will start after their clash with Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-two-things-players-noticed-pochettino-sends-message-liverpool",
+      "publishedAt": "2026-11-22T13:34:44.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "da55e224e06f07",
+      "title": "Chelsea humiliation brutally summarised by top pundit after Leeds battering",
+      "summary": "Alan Shearer was very critical of Chelsea’s defeat to Leeds on Saturday, as the ex-England striker believed Alonso set up wrong defensively",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-humilation-brutally-summarised-alan-shearer-leeds-battering",
+      "publishedAt": "2026-11-22T13:21:14.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
       ]
     },
     {
-      "id": "a43d08b9b2c834",
-      "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-      "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-      "publishedAt": "2026-11-22T04:42:53.000Z",
+      "id": "32fb62f781409b",
+      "title": "Frick delivers on 'heavy metal football' promise",
+      "summary": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T13:12:42.000Z",
       "category": "league",
-      "region": "global",
+      "region": "england",
       "tags": [
-        "Soccer"
+        "Football"
       ]
     },
     {
-      "id": "85362e41906459",
-      "title": "Milan boss Amorim heaps praise on Pulisic: 'The player we cannot replace'",
-      "summary": "AC Milan head coach Ruben Amorim has heaped praise on Christian Pulisic, calling him \"the player we cannot replace.\"",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50553931/ruben-amorim-christian-pulisic-milan",
-      "publishedAt": "2026-11-22T04:42:52.000Z",
+      "id": "204317520ac586",
+      "title": "Manager ins and outs - 2026-27",
+      "summary": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T12:02:00.000Z",
       "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "f2a8bc5cc727cf",
+      "title": "Man Utd hold talks over priority January target after Pochettino strongly underlined transfer",
+      "summary": "Man Utd boss Mauricio Pochettino has ‘strongly underlined’ the need for a striker as talks over a deal for Ivan Toney have been held.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-hold-talks-toney-al-ahli-pochettino-underlined-transfer",
+      "publishedAt": "2026-11-22T11:35:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "10ad58f3e11ded",
+      "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+      "summary": "Club captain confirms he has been offered a new deal ‘Not the right moment to be talking about negotiations’ Bruno Fernandes has revealed that Manchester United have of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+      "publishedAt": "2026-11-22T11:33:54.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "93f4d53249bbfa",
+      "title": "WSL: Arsenal host West Ham after Spurs' incredible win at Man City LIVE!",
+      "summary": "WSL: Arsenal host West Ham after Spurs' incredible win at Man City LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/arsenal-women-vs-west-ham-united-women/live/575825",
+      "publishedAt": "2026-11-22T11:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "655e28d4b03476",
+      "title": "Man Utd: Bruno Fernandes confirms ‘no negotiations’ over new deal as Milan make their move",
+      "summary": "Man Utd captain Bruno Fernandes has confirmed that there are currently “no negotiations ongoing” for him to sign a new contract.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-bruno-fernandes-confirms-no-negotiations-contract-milan-transfer",
+      "publishedAt": "2026-11-22T10:38:33.000Z",
+      "category": "transfer",
       "region": "italy",
       "tags": [
         "Milan"
       ]
     },
     {
-      "id": "70e6d26f5136f5",
-      "title": "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
-      "summary": "Vanessa DiBernardo joined an elite list on Saturday, scoring for Kansas City direct from a corner. Known in soccer circles as an Olimpico, here are some of the very best.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/46407078/celebrating-olimpico-one-soccers-most-audacious-goals",
-      "publishedAt": "2026-11-22T04:03:22.000Z",
-      "category": "league",
-      "region": "global",
+      "id": "3fe55cc37e26c8",
+      "title": "Romano gives update on Liverpool, Aston Villa interest in Endrick with one club ‘in love’",
+      "summary": "Fabrizio Romano has revealed the latest on Liverpool and Aston Villa interest in Real Madrid striker Endrick ahead of January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-aston-villa-romano-update-interest-endrick-milan-love-real-madrid",
+      "publishedAt": "2026-11-22T10:21:25.000Z",
+      "category": "transfer",
+      "region": "england spain italy",
       "tags": [
-        "Soccer"
+        "Liverpool",
+        "Real Madrid",
+        "Inter"
       ]
     },
     {
-      "id": "8bc71267d9d4b6",
-      "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-      "summary": "Arsenal could have moved eight points clear at the top of the Premier League. Instead, they completely lost their way in the second half vs. Newcastle.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50553100/arsenal-collapse-newcastle-premier-league",
-      "publishedAt": "2026-11-22T01:49:45.000Z",
+      "id": "859b93a6da7656",
+      "title": "Brentford vs Everton prediction: Thiago Barry to score again as team news confirmed",
+      "summary": "All the team news and predictions ahead of the Premier League clash between Brentford and Everton.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/brentford-vs-everton-prediction-preview",
+      "publishedAt": "2026-11-22T10:02:19.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "a703f0c2e70c0a",
+      "title": "Arsenal ‘positioning themselves’ to sign Kvaratskhelia after Newcastle draw",
+      "summary": "Arsenal are ‘positioning themselves’ to sign the younger brother of PSG superstar Khvicha Kvaratskhelia, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-positioning-themselves-sign-kvaratskhelia-transfer-dinamo-tbilisi",
+      "publishedAt": "2026-11-22T09:39:50.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "f081b8a63c449d",
+      "title": "Xabi Alonso sent Chelsea sack warning as ‘rotten’ and ‘disgusting’ Blues are slammed for Leeds loss",
+      "summary": "Chelsea head coach Xabi Alonso has been told that he could face the sack if he doesn’t turn results around soon.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-xabi-alonso-sack-warning-rotten-disgusting-leeds",
+      "publishedAt": "2026-11-22T09:28:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d34c6573cabb68",
+      "title": "Armstrong plays down talk of Rangers transfer - gossip",
+      "summary": "Dinamo Bucharest winger Danny Armstrong says he has not talked with Rangers manager Derek McInnes about a move to Ibrox, while the chances of Jack Grealish joining Celt...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:10:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "83f89ef1f829be",
+      "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T08:41:20.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "df0290c0a0aa46",
+      "title": "Wright demands Arsenal sign £67m star in January after draw against Newcastle",
+      "summary": "Ian Wright thinks Arsenal need to sign a left winger in January and has recommended RB Leipzig’s Antonio Nusa as the perfect signing.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-wright-demands-nusa-signing-leipzig-january-newcastle",
+      "publishedAt": "2026-11-22T08:33:23.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
         "Arsenal"
       ]
     },
     {
-      "id": "2d7a775e1e7f1e",
-      "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-      "summary": "Anfield has a power to propel Liverpool to greatness, but the team are struggling for form there this season.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
-      "publishedAt": "2026-11-22T01:44:33.000Z",
+      "id": "25f862764b4f09",
+      "title": "Seven immediate Manchester United changes Mauricio Pochettino must make to fix Red Devils",
+      "summary": "Mauricio Pochettino has inherited a mess at Manchester United, but there are seven immediate changes he must make to expedite their rebuild…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/feature-seven-immediate-manchester-united-changes-mauricio-pochettino-must-make",
+      "publishedAt": "2026-11-22T08:03:17.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "86de1f6e664cfe",
+      "title": "Pochettino swaps roles with Klopp as Manchester United debut priority becomes clear",
+      "summary": "Mauricio Pochettino had a perfect view of Jurgen Klopp’s immediate Liverpool impact; he must have the same instant effect at Manchester United.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pochettino-swaps-roles-klopp-manchester-united-debut-priority",
+      "publishedAt": "2026-11-22T08:03:10.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "88e63b0ef5c4a4",
+      "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+      "summary": "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summit There have been false dawns before. Plenty of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+      "publishedAt": "2026-11-22T08:00:22.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Liverpool"
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "643e2dc453b392",
+      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+      "summary": "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirement César Azpilicueta looks well. César Azpilicueta al...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+      "publishedAt": "2026-11-22T08:00:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "84fa19eef3076f",
+      "title": "Scottish Football Podcast",
+      "summary": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp1j7j?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T08:00:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "cc6907f6f48c58",
+      "title": "Why Arsenal are behind in race for Champions League spots",
+      "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:17:10.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "54bccc470ba506",
+      "title": "Argentina midfielder Paredes collapses during TV interview",
+      "summary": "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:13:34.000Z",
+      "category": "worldcup",
+      "region": "italy",
+      "tags": [
+        "World Cup",
+        "Inter"
+      ]
+    },
+    {
+      "id": "fe9e24e406579d",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:12:55.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "b5b68920bcf3a2",
+      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+      "summary": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with h...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:21:55.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "02708ca4496cf8",
+      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew c...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "publishedAt": "2026-11-22T03:01:55.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
       ]
     },
     {
@@ -271,16 +520,19 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "c8c1e019c33fa2",
-      "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
-      "summary": "Tottenham boss Roberto De Zerbi was not surprised by a dazzling full-debut display from “special” talent Luca Williams-Barnett and compared the 18-year-old to Barcelona...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
-      "publishedAt": "2026-11-21T22:15:00.000Z",
-      "category": "transfer",
-      "region": "england spain",
+      "id": "64c07d378a5a1c",
+      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "summary": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "publishedAt": "2026-11-21T21:48:21.000Z",
+      "category": "issue",
+      "region": "england",
       "tags": [
-        "Barcelona"
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
       ]
     },
     {
@@ -294,35 +546,6 @@ window.FOOTBALLDAY_DATA = {
       "region": "england",
       "tags": [
         "Arsenal"
-      ]
-    },
-    {
-      "id": "aef3ea79a05137",
-      "title": "Euro latest: PSG's Doue suffers serious knee injury",
-      "summary": "Euro latest: PSG's Doue suffers serious knee injury",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "publishedAt": "2026-11-21T21:00:00.000Z",
-      "category": "issue",
-      "region": "france",
-      "tags": [
-        "Psg"
-      ]
-    },
-    {
-      "id": "59d2703d929a37",
-      "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
-      "summary": "Keating’s resilience keeps Chelsea at bay in 0-0 draw Van de Donk and Putellas score twice to sink Palace 6-2 Khiara Keating’s resilient performance in goal denied Chel...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
-      "publishedAt": "2026-11-21T20:54:39.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Liverpool",
-        "Manchester"
       ]
     },
     {
@@ -355,19 +578,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "8f504a23f00015",
-      "title": "Arsenal latest: Arteta gives update on Raya injury",
-      "summary": "Arsenal latest: Arteta gives update on Raya injury",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-11-21T20:33:00.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
       "id": "54834ba23ecbdc",
       "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
       "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result se...",
@@ -379,213 +589,6 @@ window.FOOTBALLDAY_DATA = {
       "tags": [
         "Premier League",
         "Arsenal"
-      ]
-    },
-    {
-      "id": "db7e0f792c929d",
-      "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
-      "summary": "Doué injury adds to that of Kvaratskhelia last month Nice 2-3 PSG; Lazio 3-0 Lecce; Gladbach 0-1 Dortmund Désiré Doué was carried off in tears after suffering what look...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
-      "publishedAt": "2026-11-21T20:25:53.000Z",
-      "category": "issue",
-      "region": "france germany",
-      "tags": [
-        "Football",
-        "Ligue 1",
-        "Psg"
-      ]
-    },
-    {
-      "id": "c4a049a805d8eb",
-      "title": "Arsenal cruise becomes complacent chaos as champions fall for Newcastle rope-a-dope",
-      "summary": "Is Matthias Jaissle a low-key genius, or was Newcastle’s draw the result of a smidgen of intensity combined with Arsenal’s complacency?",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/newcastle-2-2-arsenal-jaissle-vertical-rope-a-dope-arteta-complacency",
-      "publishedAt": "2026-11-21T20:21:20.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "4e93401983fa71",
-      "title": "How 'complacent' Arsenal unravelled at Newcastle - and their key lesson",
-      "summary": "From \"exceptional\" to \"complacent\" - Arsenal's drop-off in the second half at Newcastle was extraordinary.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13615040/arsenal-escape-with-2-2-draw-at-newcastle-after-complacent-second-half-almost-proves-costly-for-defending-champions",
-      "publishedAt": "2026-11-21T20:21:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "eb1c2353b88e5e",
-      "title": "Arsenal: Jamie Redknapp makes brutal Kepa prediction after David Raya injury v Newcastle",
-      "summary": "Kepa Arrizabalaga replaced David Raya for Arsenal in the Premier League game against Newcastle United on Saturday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/david-raya-injury-kepa-arrizabalaga-arsenal-newcastle-jamie-redknapp-verdict",
-      "publishedAt": "2026-11-21T20:06:53.000Z",
-      "category": "issue",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "7b63e9c55367af",
-      "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
-      "summary": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budge Everybody knows the pattern. Performances fade. Res...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-      "publishedAt": "2026-11-21T20:00:06.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e9333bde7d562b",
-      "title": "Arsenal go six points clear after lively draw at Newcastle",
-      "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the P...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1d88ebc4042831",
-      "title": "Evanilson strikes again as Bournemouth beat Forest",
-      "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:17.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "2ce6e6ac399e61",
-      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-      "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premi...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:13.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "5a1e65c6953956",
-      "title": "Man City drop points to Fulham despite superb Anderson volley",
-      "summary": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:59:08.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0c5ba0292f4420",
-      "title": "Villa's home woes continue as Sunderland earn point",
-      "summary": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:58:56.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "a471a91117752f",
-      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
-      "summary": "If Mikel Arteta was delighted to see the back of Eddie Howe as Newcastle’s head coach, the bad news is that another similarly awkward technical area adversary has been...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
-      "publishedAt": "2026-11-21T19:47:11.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "e506dd39baaad1",
-      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
-      "summary": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:29:48.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "16e1f2c479a29e",
-      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "summary": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:21:01.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League"
-      ]
-    },
-    {
-      "id": "3bcb287b4aeb5c",
-      "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
-      "summary": "Xabi Alonso is straying towards crisis territory. Here’s a mind-bending statistic: Chelsea are eighth but have now lost more league games than Manchester United. They w...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
-      "publishedAt": "2026-11-21T19:20:51.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d022d5cb261cac",
-      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
-      "summary": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:04:09.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Chelsea"
       ]
     }
   ],
