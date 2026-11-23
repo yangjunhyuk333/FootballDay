@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:45:09.913Z",
+  "generatedAt": "2026-11-23T23:37:54.774Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,351 +99,200 @@
       "pinned": true
     },
     {
-      "id": "83d85ea34e9238",
-      "title": "Who am I? Plus today's other quizzes",
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "id": "5ed9727066a6be",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T06:31:21.000Z",
-      "category": "league",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T23:26:35.000Z",
+      "category": "ratings",
       "region": "england",
       "tags": [
-        "Football"
+        "Premier League"
       ]
     },
     {
-      "id": "bb656045d5deaf",
-      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
-      "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T06:17:59.000Z",
-      "category": "league",
-      "region": "england spain",
-      "tags": [
-        "Football",
-        "Manchester",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "c3b9d8bf0787b7",
-      "title": "Did Liverpool 'get lucky' with red card decision?",
-      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T23:59:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7d8bfd17e80377",
-      "title": "'We feel the pain': Pochettino on 4-0 defeat at Liverpool to start Manchester United era – video",
-      "summary": "Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bot...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
-      "publishedAt": "2026-11-22T23:33:33.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8fe8525ac228cd",
-      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
-      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T23:20:16.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7abcc67786fbae",
-      "title": "Football Daily",
-      "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T23:14:00.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "de7f443c3d0ad0",
-      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-      "summary": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarr...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-      "publishedAt": "2026-11-22T22:20:43.000Z",
-      "category": "league",
-      "region": "spain italy",
-      "tags": [
-        "Football",
-        "La Liga",
-        "Barcelona",
-        "Inter"
-      ]
-    },
-    {
-      "id": "327bf4117d9fa2",
-      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T21:44:37.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup",
-        "Fifa"
-      ]
-    },
-    {
-      "id": "f1c782a9221285",
-      "title": "Price looking to continue trend of Grand Slam victors tasting Worlds glory",
-      "summary": "An interesting trend has occurred over the last four years: The winner of the Grand Slam has gone on to win the World Darts Championship.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/darts/news/12040/13615450/gerwyn-price-looking-to-continue-trend-of-grand-slam-victors-tasting-world-darts-championship-glory",
-      "publishedAt": "2026-11-22T21:43:00.000Z",
+      "id": "c7e324c469e78c",
+      "title": "Man Utd reach decision on Pochettino budget for January transfer window",
+      "summary": "Pochettino will be handed a paltry sum in the January transfer window to save Man Utd from relegation.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-reach-decision-on-pochettino-budget-for-january-transfer-window",
+      "publishedAt": "2026-11-23T23:06:15.000Z",
       "category": "transfer",
-      "region": "italy",
+      "region": "england",
       "tags": [
-        "Inter"
+        "Transfer"
       ]
     },
     {
-      "id": "a6dd01275d08a0",
-      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devil...",
+      "id": "96bbb98994c0ba",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T21:36:00.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T22:43:39.000Z",
       "category": "league",
       "region": "england",
       "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "bac7e8aa03c8ae",
+      "title": "Carragher destroys Chelsea pair as summer signing no more than a ‘sticking plaster’",
+      "summary": "Jamie Carragher has ripped into Chelsea pair Wesley Fofana and Levi Colwill after the Blues’ 4-1 defeat to Leeds on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carragher-chelsea-pair-summer-signing-sticking-plaster",
+      "publishedAt": "2026-11-23T22:40:31.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a83903f82b1882",
+      "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
+      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
+      "publishedAt": "2026-11-23T22:40:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "4bf50b0a2b99e2",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T22:31:27.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "66ab1bea4c22c6",
+      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
+      "summary": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alis...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T21:41:52.000Z",
+      "category": "league",
+      "region": "england france germany",
+      "tags": [
+        "Arsenal",
+        "Chelsea",
         "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2d38380949908a",
-      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
-      "summary": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sen...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
-      "publishedAt": "2026-11-22T21:31:03.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1df5ba39e28518",
-      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
-      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T21:22:10.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7b2497963a8e32",
-      "title": "Man Utd plotting Toney move - Monday's gossip",
-      "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T21:04:15.000Z",
-      "category": "league",
-      "region": "england france",
-      "tags": [
-        "Manchester",
         "Psg"
       ]
     },
     {
-      "id": "d41df23837bc04",
-      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
-      "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
-      "publishedAt": "2026-11-22T20:58:35.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "64589e9390f5e6",
-      "title": "16 Conclusions from Liverpool 4-0 Man Utd: Poch, Ngumoha, Wirtz, Yoro, De Ligt, Neville, six pints",
-      "summary": "Mauricio Pochettino has waited a long time to be manager of Manchester United, and it took eight minutes to become a catastrophe.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-4-0-man-utd-poch-de-ligt-yoro-ngumoha-wirtz-six-pints-16-conclusions",
-      "publishedAt": "2026-11-22T20:35:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f598f15a226ce5",
-      "title": "Who is the top scorer of 2026? Harry Kane lead down to eight before year-ending injury",
-      "summary": "Harry Kane is miles clear as the leading scorer in 2026 among players from Europe’s top leagues, scoring his Bayern Munich goals at a daft rate.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/top-scorers-2026-mbappe-haaland-kane",
-      "publishedAt": "2026-11-22T20:30:59.000Z",
-      "category": "issue",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "6839bcb01ff62f",
-      "title": "Gary Neville on De Ligt selection and 'negligent' Man Utd",
-      "summary": "Gary Neville accused Manchester United's hierarchy of negligence for failing to strengthen their back line as their 4-0 loss to Liverpool left them with the worst defen...",
+      "id": "836e5bdf33a8d0",
+      "title": "WHAT A STRIKE! Janelt rifles rocket for Brentford’s third",
+      "summary": "Janelt rifles rocket for Brentford’s third against Everton in the Premier League",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13615413/liverpool-4-0-man-utd-gary-neville-on-matthijs-de-ligt-selection-and-negligent-red-devils",
-      "publishedAt": "2026-11-22T20:25:00.000Z",
+      "url": "https://www.skysports.com/watch/video/13615825/goal-v-janelt-67-brentford-3-0-everton",
+      "publishedAt": "2026-11-23T21:41:00.000Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5d9c15a6c94c3b",
-      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-      "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T19:59:38.000Z",
-      "category": "league",
       "region": "england",
       "tags": [
         "Premier League"
       ]
     },
     {
-      "id": "8a12f4ae784b2f",
-      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-      "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League rel...",
+      "id": "0f40bb099a463a",
+      "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
+      "summary": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+      "publishedAt": "2026-11-23T21:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "dd7dd14733f8e6",
+      "title": "De Bruyne's feelings for Man City will 'never change'",
+      "summary": "Kevin de Bruyne says he has \"love\" for Manchester City's owners and his feelings for the club will \"never change\" despite being found guilty of breaching the Premier Le...",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T19:59:35.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxq6e9vlp39jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T21:05:23.000Z",
       "category": "league",
       "region": "england",
       "tags": [
         "Premier League",
-        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "98bc22a394571c",
-      "title": "Pochettino hurt by ‘painful’ Man Utd start as ‘rubbish’ has Keane fuming",
-      "summary": "Mauricio Pochettino detailed his “painful” start to life at Manchester United as Roy Keane fumed at the “rubbish” on display in the 4-0 loss to Liverpool.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/mauricio-pochettino-hurt-painful-man-utd-start-rubbish-roy-keane",
-      "publishedAt": "2026-11-22T19:52:28.000Z",
+      "id": "9a445d766baacb",
+      "title": "Hosting World Cup means decade of excitement - Weir",
+      "summary": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" fo...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T21:03:42.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "58d2b952eef80a",
+      "title": "The 2035 Women’s World Cup has huge potential for women and girls in UK",
+      "summary": "Maximising the societal impact of the tournament, especially combating misogyny, should be a top priority The announcement that the 2035 Women’s World Cup will be hoste...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/23/2035-womens-world-cup-potential-women-girls-uk",
+      "publishedAt": "2026-11-23T21:02:10.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
-        "Manchester"
+        "Football",
+        "World Cup"
       ]
     },
     {
-      "id": "30c18be791de13",
-      "title": "Iraola 'enjoyed' big win over Man Utd",
-      "summary": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play bet...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T19:25:21.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "12874fd7b91f21",
-      "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-      "summary": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T19:03:32.000Z",
-      "category": "league",
+      "id": "a81c7065f0716b",
+      "title": "RED CARD! VAR controversy as Tarkowski sent off after review",
+      "summary": "VAR controversy as Tarkowski sent off after review during Everton's Premier League match against Brentford.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13615787/off-j-tarkowski-40-brentford-2-0-everton",
+      "publishedAt": "2026-11-23T20:46:00.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League"
       ]
     },
     {
-      "id": "445a2a6a9ce193",
-      "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
-      "summary": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T19:03:24.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "125b20389cc501",
-      "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
-      "summary": "Mauricio Pochettino felt Manchester United were given an \"unfair\" red card in their 4-0 defeat at Liverpool - with Kobbie Mainoo replying \"no chance\" when asked whether...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
-      "publishedAt": "2026-11-22T18:58:00.000Z",
+      "id": "84512370ffc27b",
+      "title": "Carragher reaches Man Utd relegation verdict – ‘They’ve won one game all season’",
+      "summary": "Jamie Carragher has revealed if he thinks Man Utd will get relegated from the Premier League this season after their 4-0 defeat to Liverpool at Anfield.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/carragher-man-utd-relegation-verdict-won-one-game-all-season",
+      "publishedAt": "2026-11-23T20:19:51.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
-        "Manchester"
+        "Premier League",
+        "Liverpool"
       ]
     },
     {
-      "id": "f6b8147c617751",
-      "title": "Pochettino’s Man Utd era gets off to disastrous start as Liverpool and Ngumoha run riot",
-      "summary": "Pochettino’s United reign couldn’t have started worse, with his decision to start De Ligt quickly coming back to bite him.",
+      "id": "99b6125abfcf29",
+      "title": "Gerrard accuses Pochettino of ‘disrespecting’ Man Utd star in Liverpool defeat – ‘He got it wrong’",
+      "summary": "Gerrard has accused Pochettino of “disrespecting” one Man Utd star after dropping them for the 4-0 defeat to Liverpool on Sunday.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-pochettino-man-utd-disaster-liverpool-ngumoha-wirtz-de-ligt",
-      "publishedAt": "2026-11-22T18:36:01.000Z",
+      "url": "https://www.football365.com/news/gerrard-pochettino-disrespecting-man-utd-star-liverpool-defeat",
+      "publishedAt": "2026-11-23T19:39:32.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -451,13 +300,26 @@
       ]
     },
     {
-      "id": "1d6375417fd5a2",
-      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen g...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "publishedAt": "2026-11-22T18:35:14.000Z",
-      "category": "league",
+      "id": "b1821e9dac2d66",
+      "title": "Carra: Chelsea must sign centre-back or achieve nothing",
+      "summary": "Jamie Carragher believes Chelsea must sign a dominant centre-back or they will have \"no chance of achieving anything\".",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13615767/chelsea-must-sign-centre-back-or-will-achieve-nothing-with-levi-colwill-and-wesley-fofana-says-jamie-carragher",
+      "publishedAt": "2026-11-23T19:37:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "da64582031eab4",
+      "title": "Man Utd: Scholes rips into ‘cheating’ Red Devils star ‘not physically right for Premier League’",
+      "summary": "Paul Scholes has hit out at a Manchester United star for his “cheating football” in the 4-0 defeat to Liverpool on Sunday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/scholes-rips-cheating-man-utd-star-not-physically-right-premier-league",
+      "publishedAt": "2026-11-23T19:11:01.000Z",
+      "category": "issue",
       "region": "england",
       "tags": [
         "Football",
@@ -467,140 +329,265 @@
       ]
     },
     {
-      "id": "a6f21c99cafeb8",
-      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T18:28:51.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a88f3984393407",
-      "title": "Man Utd suffer humiliation against Liverpool after ‘worst possible’ start for Pochettino",
-      "summary": "Mauricio Pochettino had a nightmare start to Manchester United life, as the Red Devils trailed by two goals after 13 minutes against Liverpool",
+      "id": "57bfd1e086fda7",
+      "title": "Levi Colwill *still* needs a ‘good meal’ as Chelsea flop acts as perfect shield from criticism",
+      "summary": "Carragher claimed Levi Colwill needed a “good meal” in February 2025 and what’s changed? It’s high time we pointed fingers at Chelsea’s supposed first-choice centre-back.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-humiliation-liverpool-worst-possible-start",
-      "publishedAt": "2026-11-22T18:17:15.000Z",
+      "url": "https://www.football365.com/news/opinion-colwill-good-meal-chelsea-teammates-perfect-criticism-shield",
+      "publishedAt": "2026-11-23T18:20:56.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
-        "Manchester"
+        "Chelsea"
       ]
     },
     {
-      "id": "65cced726eb9cc",
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
-      "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:55:54.000Z",
-      "category": "league",
+      "id": "7bc983c786f565",
+      "title": "Transfer Centre LIVE! Williams-Barnett agrees long-term Spurs contract",
+      "summary": "Transfer Centre LIVE! Williams-Barnett agrees long-term Spurs contract",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "publishedAt": "2026-11-23T17:30:00.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Liverpool",
-        "Manchester"
+        "Transfer"
       ]
     },
     {
-      "id": "e54c44cfccf6d4",
-      "title": "Spurs deny Man City top spot with statement win",
-      "summary": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to re...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:54:36.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7521e6bfc127f4",
-      "title": "Man Utd score dramatic late winner to extend record run",
-      "summary": "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 1...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:54:32.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e33922758a8265",
-      "title": "Arsenal frustrations grow as winless home run continues",
-      "summary": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T17:30:45.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6f3a0b6ae89546",
-      "title": "Grealish to stay in England as two clubs lead race amid increasingly tense Everton saga",
-      "summary": "Sources believe that Jack Grealish would prefer to stay in England next season as two Premier League clubs express interest in the attacker",
+      "id": "506cb06a073b26",
+      "title": "Bruno Fernandes ‘very proud’ as Man Utd captain changes post-match interview tack after Liverpool mauling",
+      "summary": "Bruno Fernandes changed tack after his recent scathing post-match interviews to hail his “very brave” Man Utd teammates after their 4-0 defeat to Liverpool on Sunday.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/jack-grealish-aston-villa-sunderland-everton",
-      "publishedAt": "2026-11-22T17:07:44.000Z",
+      "url": "https://www.football365.com/news/bruno-fernandes-very-proud-very-brave-man-utd-liverpool-mauling",
+      "publishedAt": "2026-11-23T16:59:54.000Z",
       "category": "transfer",
       "region": "england italy",
       "tags": [
-        "Premier League",
+        "Liverpool",
         "Inter"
       ]
     },
     {
-      "id": "b33b2f0f5d4504",
-      "title": "Arsenal unearth new hero as Hull keeper sets platform for stunning win over Brighton",
-      "summary": "Hull survived a first-half battering from Brighton before punishing them late on to end an eight-match winless run in some style.",
+      "id": "7eb0688f45693c",
+      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+      "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T16:30:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "20c75cb77f763d",
+      "title": "Liverpool in multi-club race to sign €45m-rated Bundesliga wonderkid",
+      "summary": "The 17-year-old attacking midfielder has broken multiple club records at Monchengladbach and is now drawing attention from several elite European sides.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-unearth-new-hero-brighton-defeat",
-      "publishedAt": "2026-11-22T16:31:50.000Z",
+      "url": "https://www.football365.com/news/liverpool-multi-club-race-sign-bundesliga-wonderkid-wael-mohya",
+      "publishedAt": "2026-11-23T16:26:28.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Bundesliga",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7b26c1bd296e7f",
+      "title": "Ngumoha reveals six-word Liverpool battle cry after Yoro red card for Man Utd",
+      "summary": "Rio Ngumoha has revealed the on-pitch message passed between the Liverpool players after Manchester United’s Leny Yoro saw red at Anfield on Sunday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ngumoha-six-word-liverpool-battle-cry-yoro-red-card-man-utd",
+      "publishedAt": "2026-11-23T16:23:09.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "a1c0de29c026da",
+      "title": "Man Utd: Pochettino told to sell Fernandes in brutal 14-man ‘mass clear-out’ to ‘cleanse dressing room’",
+      "summary": "Mauricio Pochettino has been encouraged to sanction a 14-man ‘mass clear-out’ to ‘cleanse’ the Manchester United dressing room.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pochettino-told-sell-fernandes-brutal-14-man-mass-clear-out",
+      "publishedAt": "2026-11-23T15:51:07.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3aff12f557b25f",
+      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
+      "summary": "The manager’s first game in charge was a disaster and he needs to lift the mood within a sunken squad if a relegation battle is to be avoided Sign up for our free newsl...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
+      "publishedAt": "2026-11-23T15:45:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "fb28f0efa6ae97",
+      "title": "Football Daily | Neville, Keane and Manchester United meltdowns at world’s funniest comedy club",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Hoo-boy. Short of forgetting to put on his washable virgin wool navy trousers before striding towards the visitors’...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/23/gary-neville-roy-keane-manchester-united-meltdown-comedy-club-football-daily-newsletter",
+      "publishedAt": "2026-11-23T15:45:30.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "d6049dd7d95d20",
+      "title": "IFA 'positive' over upgrades needed for World Cup",
+      "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure th...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T15:26:23.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "56de3d6b5144f7",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T15:23:09.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Champions League",
         "Arsenal"
       ]
     },
     {
-      "id": "87b01162eca7d4",
-      "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
-      "summary": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester Ci...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T16:25:35.000Z",
+      "id": "1440e0917fe137",
+      "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
+      "summary": "No 1 to miss Dortmund game but could return for City clash ‘We were worried … he’s better than expected,’ says manager Mikel Arteta is hopeful the ­shoulder injury Davi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
+      "publishedAt": "2026-11-23T15:13:56.000Z",
       "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "bcaa219493e090",
+      "title": "Chelsea board U-turn on Xabi Alonso as sack decision reached after Leeds United ‘disaster’",
+      "summary": "After it was reported that Xabi Alonso has universal backing at Chelsea, it has now been claimed that their board have ‘serious concerns’.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-board-u-turn-xabi-alonso-sack-decision-reached-leeds-united-disaster",
+      "publishedAt": "2026-11-23T15:12:44.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
-        "Champions League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "327bf4117d9fa2",
+      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+      "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T15:09:50.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "Football",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "a719d6435a341c",
+      "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
+      "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
+      "publishedAt": "2026-11-23T15:05:00.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup"
+      ]
+    },
+    {
+      "id": "6c42bb828b49e6",
+      "title": "Liverpool: Szoboszlai names ‘world class’ Reds team-mate for special praise in Man Utd win",
+      "summary": "Liverpool star Dominik Szoboszlai has picked out Reds team-mate Florian Wirtz as “world class” after they thrashed Manchester United 4-0.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-szoboszlai-world-class-wirtz-special-praise-man-utd",
+      "publishedAt": "2026-11-23T15:01:33.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
         "Manchester"
       ]
     },
     {
-      "id": "21dc16a9684c22",
-      "title": "Man Utd learn Newcastle world-record demands as Lewis Hall valuation explodes",
-      "summary": "Newcastle could now demand a world-record fee from Lewis Hall with Manchester United still pursuing the left-back ahead of the January transfer window.",
+      "id": "8945f5dcc3e970",
+      "title": "Man City vs Napoli: Choose Cherki to strike against Italians after team news",
+      "summary": "Man City vs Napoli team news, how to watch and predictions ahead of the Champions League clash.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-newcastle-world-record-fee-lewis-hall",
-      "publishedAt": "2026-11-22T15:59:51.000Z",
+      "url": "https://www.football365.com/match-preview/man-city-vs-napoli-choose-cherki-to-strike-against-italians-after-team-news",
+      "publishedAt": "2026-11-23T14:59:00.000Z",
+      "category": "ucl",
+      "region": "italy",
+      "tags": [
+        "Champions League"
+      ]
+    },
+    {
+      "id": "0e8b4919ce672e",
+      "title": "Man City FFP: ‘Expert’ issues verdict on City players ‘already knowing’ appeal outcome – ‘it’s ridiculous’",
+      "summary": "An ‘expert’ has responded to suggestions that Manchester City have been struggling because their players “already know” the FFP appeal verdict.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-expert-issues-verdict-city-players-already-knowing-appeal-outcome-its-ridiculous",
+      "publishedAt": "2026-11-23T14:33:18.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
         "Manchester"
+      ]
+    },
+    {
+      "id": "e411662e87d155",
+      "title": "Arsenal vs Borussia Dortmund preview: Gunners vulnerable with David Raya set to miss out",
+      "summary": "Arsenal vs Dortmund without David Raya leaves us fancying Felix Nmecha to score at the Emirates. Team news and predictions here.",
+      "source": "Football365",
+      "url": "https://www.football365.com/match-preview/arsenal-vs-borussia-dortmund-preview-gunners-vulnerable-with-david-raya-set-to-miss-out",
+      "publishedAt": "2026-11-23T14:28:55.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Arsenal"
       ]
     }
   ],
