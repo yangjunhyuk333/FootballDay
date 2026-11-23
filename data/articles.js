@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-22T23:25:53.587Z",
+  "generatedAt": "2026-11-23T06:45:09.913Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,6 +99,64 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
+      "id": "83d85ea34e9238",
+      "title": "Who am I? Plus today's other quizzes",
+      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjred9vl7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T06:31:21.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "bb656045d5deaf",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T06:17:59.000Z",
+      "category": "league",
+      "region": "england spain",
+      "tags": [
+        "Football",
+        "Manchester",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "c3b9d8bf0787b7",
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T23:59:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "7d8bfd17e80377",
+      "title": "'We feel the pain': Pochettino on 4-0 defeat at Liverpool to start Manchester United era – video",
+      "summary": "Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bot...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+      "publishedAt": "2026-11-22T23:33:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
       "id": "8fe8525ac228cd",
       "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
       "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
@@ -113,16 +171,17 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "de4ada542d2eea",
-      "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-      "summary": "Only a small group of clubs now truly compete for the NWSL Championship. Kansas City Current is one of them, and now it's a champion for the first time.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50561566/kansas-city-nwsl-championship-final-washington-spirit",
-      "publishedAt": "2026-11-22T22:21:24.000Z",
+      "id": "7abcc67786fbae",
+      "title": "Football Daily",
+      "summary": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0ppcw2v?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T23:14:00.000Z",
       "category": "league",
-      "region": "global",
+      "region": "england",
       "tags": [
-        "Soccer"
+        "Football",
+        "Liverpool"
       ]
     },
     {
@@ -139,115 +198,6 @@ window.FOOTBALLDAY_DATA = {
         "La Liga",
         "Barcelona",
         "Inter"
-      ]
-    },
-    {
-      "id": "8bc71267d9d4b6",
-      "title": "Arsenal's near-collapse at Newcastle a wake-up call -- and a missed opportunity",
-      "summary": "Arsenal could have moved eight points clear at the top of the Premier League. Instead, they completely lost their way in the second half vs. Newcastle.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50553100/arsenal-collapse-newcastle-premier-league",
-      "publishedAt": "2026-11-22T22:20:11.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "5238f7c1774e9a",
-      "title": "Under pressure: Is time running out for Arsenal boss Renee Slegers?",
-      "summary": "After Arsenal again failed to win at home, pressure is building on manager Renee Slegers.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50563366/arsenal-renee-slegers-west-ham-women-super-league",
-      "publishedAt": "2026-11-22T22:18:53.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "d41ec22a028de9",
-      "title": "Poch blames 'circumstances' in painful Man United loss to Liverpool",
-      "summary": "Mauricio Pochettino called for understanding of the \"circumstances\" that led to Manchester United suffering a 4-0 defeat Sunday against Liverpool in his first game as h...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool",
-      "publishedAt": "2026-11-22T22:04:42.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e5ab3ef6a5b967",
-      "title": "Milan into top four as classy Pulisic solo goal caps Serie A rout",
-      "summary": "AC Milan racked up their biggest win of the season under Ruben Amorim as Frosinone were beaten 5-1 at San Siro on Sunday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401874989",
-      "publishedAt": "2026-11-22T22:04:41.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Serie A",
-        "Milan"
-      ]
-    },
-    {
-      "id": "3ccf4ef32f317b",
-      "title": "Liverpool trounce 10-man United in Pochettino's first game in charge",
-      "summary": "Mauricio Pochettino's Manchester United reign got off to a miserable start as Liverpool punished Leny Yoro's red card with a pair of early goals on their way to a compr...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/report/_/gameId/401878755",
-      "publishedAt": "2026-11-22T22:04:41.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "13dfed6cbb4c0d",
-      "title": "Flick: Barça comeback 'unbelievable,' not happy with ref",
-      "summary": "Barcelona coach Hansi Flick praised his side's \"unbelievable\" comeback from two goals down to beat Villarreal 3-2 in LaLiga on Sunday, but was left far from happy with...",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50562953/barcelona-villarreal-la-liga-hansi-flick-refereeing",
-      "publishedAt": "2026-11-22T22:04:41.000Z",
-      "category": "league",
-      "region": "spain",
-      "tags": [
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "a43d08b9b2c834",
-      "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-      "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-      "publishedAt": "2026-11-22T22:04:41.000Z",
-      "category": "league",
-      "region": "global",
-      "tags": [
-        "Soccer"
-      ]
-    },
-    {
-      "id": "2c3c8c8a38f733",
-      "title": "Mauricio Pochettino gets reality check as Liverpool ruin his Man United debut",
-      "summary": "Mauricio Pochettino began his Manchester United career with a nightmare as his Red Devils went to Anfield and were routed 4-0 by Liverpool on Sunday.",
-      "source": "ESPN Soccer",
-      "url": "https://www.espn.com/soccer/story/_/id/50563684/liverpool-ruin-pochettino-manchester-united-debut",
-      "publishedAt": "2026-11-22T21:58:50.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
       ]
     },
     {
@@ -288,6 +238,21 @@ window.FOOTBALLDAY_DATA = {
       "category": "league",
       "region": "england",
       "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2d38380949908a",
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "summary": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sen...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "publishedAt": "2026-11-22T21:31:03.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
         "Liverpool",
         "Manchester"
       ]
@@ -517,33 +482,6 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "e1659542a9152c",
-      "title": "Nightmare start for Pochettino as Liverpool rout 10-man Man Utd",
-      "summary": "Mauricio Pochettino endured a horror start to his Manchester United tenure as his 10-man side were thrashed 4-0 by Liverpool at Anfield following Leny Yoro's early send...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/liverpool-vs-manchester-united/report/559550",
-      "publishedAt": "2026-11-22T18:25:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d22b9ee00080b7",
-      "title": "Man Utd latest: Worst defence in Europe as Keane & Neville react to Liverpool loss",
-      "summary": "Man Utd latest: Worst defence in Europe as Keane & Neville react to Liverpool loss",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-11-22T18:24:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
       "id": "a88f3984393407",
       "title": "Man Utd suffer humiliation against Liverpool after ‘worst possible’ start for Pochettino",
       "summary": "Mauricio Pochettino had a nightmare start to Manchester United life, as the Red Devils trailed by two goals after 13 minutes against Liverpool",
@@ -594,6 +532,74 @@ window.FOOTBALLDAY_DATA = {
       "category": "league",
       "region": "england",
       "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e33922758a8265",
+      "title": "Arsenal frustrations grow as winless home run continues",
+      "summary": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T17:30:45.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "6f3a0b6ae89546",
+      "title": "Grealish to stay in England as two clubs lead race amid increasingly tense Everton saga",
+      "summary": "Sources believe that Jack Grealish would prefer to stay in England next season as two Premier League clubs express interest in the attacker",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/jack-grealish-aston-villa-sunderland-everton",
+      "publishedAt": "2026-11-22T17:07:44.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Inter"
+      ]
+    },
+    {
+      "id": "b33b2f0f5d4504",
+      "title": "Arsenal unearth new hero as Hull keeper sets platform for stunning win over Brighton",
+      "summary": "Hull survived a first-half battering from Brighton before punishing them late on to end an eight-match winless run in some style.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-unearth-new-hero-brighton-defeat",
+      "publishedAt": "2026-11-22T16:31:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "87b01162eca7d4",
+      "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+      "summary": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester Ci...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T16:25:35.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "21dc16a9684c22",
+      "title": "Man Utd learn Newcastle world-record demands as Lewis Hall valuation explodes",
+      "summary": "Newcastle could now demand a world-record fee from Lewis Hall with Manchester United still pursuing the left-back ahead of the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-newcastle-world-record-fee-lewis-hall",
+      "publishedAt": "2026-11-22T15:59:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Manchester"
       ]
     }
