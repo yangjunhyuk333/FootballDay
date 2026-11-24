@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:37:54.774Z",
+  "generatedAt": "2026-11-24T09:12:15.890Z",
   "windowDays": 7,
   "articles": [
     {
@@ -97,6 +97,231 @@
         "Top 5 leagues"
       ],
       "pinned": true
+    },
+    {
+      "id": "06ea90e41a67bc",
+      "title": "Arsenal: Nusa says YES to Gunners but PSG could destroy deal after Kvaratskhelia, Doue injuries",
+      "summary": "French giants Paris Saint-Germain could ruin plans for Arsenal to sign RB Leipzig star Antonio Nusa in January, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-nusa-says-yes-psg-destroy-deal-kvaratskhelia-doue-injuries",
+      "publishedAt": "2026-11-24T09:04:07.000Z",
+      "category": "transfer",
+      "region": "england france germany",
+      "tags": [
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "9cd45f80609e11",
+      "title": "Why Potts swapped West Ham for Club Brugge after 16 years",
+      "summary": "When Liverpool visit Club Brugge on Wendesday they are likely to come up against English midfelder Freddie Potts.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T08:36:50.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7b6fe63f7661e0",
+      "title": "Man Utd: Seven-man shortlist for January revealed as THREE priority signings are confirmed",
+      "summary": "Man Utd have seven players on their transfer shortlist for January as they look to make as many as three signings, according to reports.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-seven-man-shortlist-january-revealed",
+      "publishedAt": "2026-11-24T08:35:32.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer"
+      ]
+    },
+    {
+      "id": "f9d78283d2cf87",
+      "title": "Florian Wirtz is becoming Florian Wirtz at Liverpool and we should all celebrate",
+      "summary": "We all like laughing at £100m-plus flops but do we actually want technically brilliant footballers in the Premier League? We should.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/no-more-laughing-enjoy-brilliance-florian-wirtz",
+      "publishedAt": "2026-11-24T08:25:52.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "65b5314b5876f1",
+      "title": "Scorecard: Australia vs England, second T20 international, Carrara",
+      "summary": "Latest score from the second T20 international between England and Australia at the People First Stadium in Carrara.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/37fbf9b0-2226-54c4-a1d7-83ad754bb54a",
+      "publishedAt": "2026-11-24T08:10:00.000Z",
+      "category": "transfer",
+      "region": "italy",
+      "tags": [
+        "Inter"
+      ]
+    },
+    {
+      "id": "1f2ed8ba1d74c2",
+      "title": "Liverpool midfielder in Prem team of the season so far as striker comes in",
+      "summary": "Dominik Szoboszlai is one of two new faces in the midfield for the Premier League team of the season so far…",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/premier-league-team-of-the-season-so-far-2026-27",
+      "publishedAt": "2026-11-24T08:09:35.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "7d7a776b8910e4",
+      "title": "Big Midweek: Arsenal v Borussia Dortmund, take two for Pochettino and Frank, Manchester City…",
+      "summary": "The Champions League is back and we’re about to pass the halfway point in the league phase, with Mauricio Pochettino getting his second chance for lift-off at Mancheste...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/big-midweek-arsenal-borussia-dortmund-pochettino-frank-manchester-city",
+      "publishedAt": "2026-11-24T08:00:31.000Z",
+      "category": "ucl",
+      "region": "england germany",
+      "tags": [
+        "Champions League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "f4e8796840a466",
+      "title": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund",
+      "summary": "Youngest player to appear in Premier League is struggling to establish himself on loan at the Bundesliga club Ethan Nwaneri has one record Max Dowman can never break. I...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
+      "publishedAt": "2026-11-24T08:00:11.000Z",
+      "category": "transfer",
+      "region": "england germany",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Bundesliga",
+        "Champions League"
+      ]
+    },
+    {
+      "id": "8bc847e0377fb1",
+      "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
+      "summary": "Even without the charges, the Belgian maestro will be an unwelcome throwback to happier times for Enzo Maresca As Manchester City come to terms with turbulence, one of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
+      "publishedAt": "2026-11-24T08:00:10.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "3204e633a63bdf",
+      "title": "Liverpool star outed as Man Utd fan with transfer fumble compared to Bellingham miss",
+      "summary": "Former Man Utd midfielder Nicky Butt has revealed that Liverpool starlet Rio Ngumoha is a Red Devils fan and was shown around Carrington.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/liverpool-ngumoha-man-utd-fan-transfer-fumble-bellingham",
+      "publishedAt": "2026-11-24T07:56:46.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "0df4eb60c70b54",
+      "title": "Celtic duo Duran and Nygren attract interest - gossip",
+      "summary": "Premier League club keep an eye on Celtic summer signing as Serie A sides monitor the champion's Swedish midfielder...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d71gjnznz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T07:53:41.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Serie A",
+        "Inter"
+      ]
+    },
+    {
+      "id": "92065342520dc2",
+      "title": "Pochettino and Frank join De Boer, Moyes, Rodgers, Van Gaal and more in worst first Premier League games",
+      "summary": "What a weekend for disastrous starts from new managers. But Thomas Frank and Mauricio Pochettino are not the first and won’t be the last.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pochettino-frank-moyes-rodgers-van-gaal-worst-first-games-premier-league-managers",
+      "publishedAt": "2026-11-24T07:35:28.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "581c8dd4467bd7",
+      "title": "Ornstein reveals Chelsea verdict on signing Alex Scott in the January transfer window",
+      "summary": "The Athletic’s David Ornstein has revealed that he’s “not aware” of Chelsea preparing a move for Bournemouth star Alex Scott in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/chelsea-ornstein-verdict-alex-scott-bournemouth-january-transfer",
+      "publishedAt": "2026-11-24T07:34:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "aac1a34e1c90fc",
+      "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+      "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T06:57:16.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ca16210e38a318",
+      "title": "Two goals in 15 games - what's going on with Gyokeres?",
+      "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T06:45:27.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "7b797b0fa0eed6",
+      "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T06:16:53.000Z",
+      "category": "worldcup",
+      "region": "england",
+      "tags": [
+        "World Cup",
+        "Fifa"
+      ]
     },
     {
       "id": "5ed9727066a6be",
@@ -366,228 +591,6 @@
       "tags": [
         "Liverpool",
         "Inter"
-      ]
-    },
-    {
-      "id": "7eb0688f45693c",
-      "title": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-      "summary": "How does Mauricio Pochettino halt Manchester United's desperate slide towards the foot of the Premier League",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9d7qxxl7w8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T16:30:59.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "20c75cb77f763d",
-      "title": "Liverpool in multi-club race to sign €45m-rated Bundesliga wonderkid",
-      "summary": "The 17-year-old attacking midfielder has broken multiple club records at Monchengladbach and is now drawing attention from several elite European sides.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-multi-club-race-sign-bundesliga-wonderkid-wael-mohya",
-      "publishedAt": "2026-11-23T16:26:28.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Bundesliga",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "7b26c1bd296e7f",
-      "title": "Ngumoha reveals six-word Liverpool battle cry after Yoro red card for Man Utd",
-      "summary": "Rio Ngumoha has revealed the on-pitch message passed between the Liverpool players after Manchester United’s Leny Yoro saw red at Anfield on Sunday.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/ngumoha-six-word-liverpool-battle-cry-yoro-red-card-man-utd",
-      "publishedAt": "2026-11-23T16:23:09.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a1c0de29c026da",
-      "title": "Man Utd: Pochettino told to sell Fernandes in brutal 14-man ‘mass clear-out’ to ‘cleanse dressing room’",
-      "summary": "Mauricio Pochettino has been encouraged to sanction a 14-man ‘mass clear-out’ to ‘cleanse’ the Manchester United dressing room.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-pochettino-told-sell-fernandes-brutal-14-man-mass-clear-out",
-      "publishedAt": "2026-11-23T15:51:07.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "3aff12f557b25f",
-      "title": "Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson",
-      "summary": "The manager’s first game in charge was a disaster and he needs to lift the mood within a sunken squad if a relegation battle is to be avoided Sign up for our free newsl...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are",
-      "publishedAt": "2026-11-23T15:45:50.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "fb28f0efa6ae97",
-      "title": "Football Daily | Neville, Keane and Manchester United meltdowns at world’s funniest comedy club",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Hoo-boy. Short of forgetting to put on his washable virgin wool navy trousers before striding towards the visitors’...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/23/gary-neville-roy-keane-manchester-united-meltdown-comedy-club-football-daily-newsletter",
-      "publishedAt": "2026-11-23T15:45:30.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "d6049dd7d95d20",
-      "title": "IFA 'positive' over upgrades needed for World Cup",
-      "summary": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure th...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:26:23.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "56de3d6b5144f7",
-      "title": "Raya to miss Dortmund game but injury 'not serious'",
-      "summary": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:23:09.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "1440e0917fe137",
-      "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
-      "summary": "No 1 to miss Dortmund game but could return for City clash ‘We were worried … he’s better than expected,’ says manager Mikel Arteta is hopeful the ­shoulder injury Davi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
-      "publishedAt": "2026-11-23T15:13:56.000Z",
-      "category": "ucl",
-      "region": "england germany",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "bcaa219493e090",
-      "title": "Chelsea board U-turn on Xabi Alonso as sack decision reached after Leeds United ‘disaster’",
-      "summary": "After it was reported that Xabi Alonso has universal backing at Chelsea, it has now been claimed that their board have ‘serious concerns’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-board-u-turn-xabi-alonso-sack-decision-reached-leeds-united-disaster",
-      "publishedAt": "2026-11-23T15:12:44.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "327bf4117d9fa2",
-      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
-      "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:09:50.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Football",
-        "World Cup"
-      ]
-    },
-    {
-      "id": "a719d6435a341c",
-      "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
-      "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
-      "publishedAt": "2026-11-23T15:05:00.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "World Cup"
-      ]
-    },
-    {
-      "id": "6c42bb828b49e6",
-      "title": "Liverpool: Szoboszlai names ‘world class’ Reds team-mate for special praise in Man Utd win",
-      "summary": "Liverpool star Dominik Szoboszlai has picked out Reds team-mate Florian Wirtz as “world class” after they thrashed Manchester United 4-0.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-szoboszlai-world-class-wirtz-special-praise-man-utd",
-      "publishedAt": "2026-11-23T15:01:33.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8945f5dcc3e970",
-      "title": "Man City vs Napoli: Choose Cherki to strike against Italians after team news",
-      "summary": "Man City vs Napoli team news, how to watch and predictions ahead of the Champions League clash.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/man-city-vs-napoli-choose-cherki-to-strike-against-italians-after-team-news",
-      "publishedAt": "2026-11-23T14:59:00.000Z",
-      "category": "ucl",
-      "region": "italy",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "0e8b4919ce672e",
-      "title": "Man City FFP: ‘Expert’ issues verdict on City players ‘already knowing’ appeal outcome – ‘it’s ridiculous’",
-      "summary": "An ‘expert’ has responded to suggestions that Manchester City have been struggling because their players “already know” the FFP appeal verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-ffp-expert-issues-verdict-city-players-already-knowing-appeal-outcome-its-ridiculous",
-      "publishedAt": "2026-11-23T14:33:18.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "e411662e87d155",
-      "title": "Arsenal vs Borussia Dortmund preview: Gunners vulnerable with David Raya set to miss out",
-      "summary": "Arsenal vs Dortmund without David Raya leaves us fancying Felix Nmecha to score at the Emirates. Team news and predictions here.",
-      "source": "Football365",
-      "url": "https://www.football365.com/match-preview/arsenal-vs-borussia-dortmund-preview-gunners-vulnerable-with-david-raya-set-to-miss-out",
-      "publishedAt": "2026-11-23T14:28:55.000Z",
-      "category": "transfer",
-      "region": "england germany",
-      "tags": [
-        "Arsenal"
       ]
     }
   ],
