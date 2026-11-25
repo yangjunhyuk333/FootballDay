@@ -1,5 +1,5 @@
 window.FOOTBALLDAY_DATA = {
-  "generatedAt": "2026-11-25T07:47:51.167Z",
+  "generatedAt": "2026-11-25T21:24:24.718Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,40 +99,155 @@ window.FOOTBALLDAY_DATA = {
       "pinned": true
     },
     {
-      "id": "db6804ccb4b92c",
-      "title": "Premier League back-up goalkeepers ranked: Raya deputy Kepa third above Man Utd No. 2",
-      "summary": "We’ve ranked all 20 Premier League back-up goalkeepers, with Kepa Arrizabalaga set for a run in the Arsenal team.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/premier-league-back-up-goalkeepers-ranked-raya-kepa-arsenal",
-      "publishedAt": "2026-11-25T07:23:50.000Z",
+      "id": "32b530d7915a44",
+      "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
+      "summary": "⚽️ Updates from Wednesday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Simon And it’s equally over in Prague, where Slavia had twice as many shots...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+      "publishedAt": "2026-11-25T21:03:41.000Z",
+      "category": "ucl",
+      "region": "england spain france germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "83f9d0200c4ade",
+      "title": "Liverpool mull Quansah return - Thursday's gossip",
+      "summary": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T20:57:48.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "debd57f1a306bb",
+      "title": "Sporting v Manchester United: Champions League – live",
+      "summary": "⚽️ Match at Estádio José Alvalade kicks off at 8pm GMT ⚽️ Live scoreboard | Read Football Daily | Email Rob In which Poch gets the Squires treatment “Trying to calm my...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+      "publishedAt": "2026-11-25T20:51:56.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3886136190e904",
+      "title": "'Where's he going?!' - Morrison reacts to Man Utd double penalty drama!",
+      "summary": "Clinton Morrison reacts to the two penalties in Manchester United's Champions League clash with Sporting Lisbon.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13616547/sporing-lisbon-vs-manchester-united-clinton-morrison-reacts-to-double-penalty-drama",
+      "publishedAt": "2026-11-25T20:43:00.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "014befb3f45965",
+      "title": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
+      "summary": "England forward scores two in 4-1 win in Azerbaijan Lamine Yamal left out of Barça squad with ankle injury Anthony Gordon scored twice as Barcelona cruised to a ⁠4-1 vi...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+      "publishedAt": "2026-11-25T20:16:42.000Z",
+      "category": "worldcup",
+      "region": "spain italy france germany",
+      "tags": [
+        "Football",
+        "Champions League",
+        "Barcelona",
+        "Psg"
+      ]
+    },
+    {
+      "id": "ebd6cfb2cb1323",
+      "title": "Dubois vs Parker announced for WBO heavyweight title clash",
+      "summary": "Daniel Dubois will defend the WBO heavyweight world championship against Joseph Parker on January 30 at Manchester's Co-op Live arena.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/boxing/news/12040/13614342/daniel-dubois-to-fight-joseph-parker-in-wbo-heavyweight-world-championship-clash-in-manchester-on-january-30",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c5939921f84df4",
+      "title": "Raheem Sterling’s rise and fall: a sign football is broken? - The Latest",
+      "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from gra...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/news/video/2026/nov/25/raheem-sterlings-rise-and-fall-a-sign-football-is-broken-the-latest",
+      "publishedAt": "2026-11-25T18:48:50.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "3751a656009367",
+      "title": "Liverpool lead Club Brugge as Munoz limps off LIVE!",
+      "summary": "Liverpool lead Club Brugge as Munoz limps off LIVE!",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/club-brugge-vs-liverpool/live/577679",
+      "publishedAt": "2026-11-25T17:58:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "804cde33e91923",
+      "title": "Man City FFP: Sheikh Mansour removal coming after appeal defeat as football regulator chief makes vow",
+      "summary": "Man City owner Sheikh Mansour looks set to be removed as owner of the Premier League giants should their appeal against their 114 breaches of Premier League rules fail.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-sheikh-mansour-dismisaal-coming-appeal-defeat-football-regulator-vow",
+      "publishedAt": "2026-11-25T17:47:24.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "5cce90552928f9",
+      "title": "Peter Storey obituary",
+      "summary": "Arsenal midfielder capped by England 19 times whose life after football suffered a drink-fuelled decline The footballer Peter Storey , who has died aged 81, was a tough...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/25/peter-storey-obituary",
+      "publishedAt": "2026-11-25T17:40:02.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
         "Arsenal"
       ]
     },
     {
-      "id": "9e9113329e71ad",
-      "title": "How to unearth young stars, the Bayern Munich way",
-      "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T07:22:27.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "15fc7e169fcebc",
-      "title": "Are Manchester United this season's Tottenham?",
-      "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Man Utd in danger of being the new Spurs?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T06:22:36.000Z",
-      "category": "league",
+      "id": "4fa85fa74dba89",
+      "title": "Man City FFP: City will end up with ‘about 30 charges’ – ‘Why isn’t it out?’",
+      "summary": "Former Premier League scout Bryan King thinks Manchester City will end up with “about 30 charges” as he wonders why there has been no decision on their financial rule b...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-city-ffp-about-30-charges",
+      "publishedAt": "2026-11-25T16:59:56.000Z",
+      "category": "transfer",
       "region": "england",
       "tags": [
         "Premier League",
@@ -140,26 +255,12 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "cf01f62c000146",
-      "title": "Matildas keeper reveals head trauma-induced neurological disorder almost ended career",
-      "summary": "Teagan Micah reveals she was nearly forced into early retirement 29-year-old consulted international specialists to get back on field A neurological disorder threatened...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/25/matildas-goalkeeper-teagan-micah-neurological-disorder-head-trauma",
-      "publishedAt": "2026-11-25T03:46:28.000Z",
-      "category": "league",
-      "region": "italy france",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "7ba09c8eddd0e2",
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+      "id": "98a6cc0011f461",
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T23:54:10.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T16:46:36.000Z",
       "category": "league",
       "region": "spain",
       "tags": [
@@ -167,54 +268,165 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "6b1261cca7a4c0",
-      "title": "Arteta says Arsenal need more luck to kill off games",
-      "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+      "id": "713e43cccdd435",
+      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+      "summary": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T23:44:04.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T16:28:10.000Z",
       "category": "league",
-      "region": "england germany",
+      "region": "england",
       "tags": [
-        "Arsenal"
+        "Liverpool"
       ]
     },
     {
-      "id": "5a5923467137f4",
-      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-      "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+      "id": "be9ed6ecd379a5",
+      "title": "Leicester no longer for sale as owner looks to future",
+      "summary": "Leicester owner Khun Aiyawatt 'Top' Srivaddhanaprabha confirms the one-time Premier League title winners are no longer up for sale.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T23:17:42.000Z",
-      "category": "ucl",
-      "region": "england italy",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T16:19:45.000Z",
+      "category": "league",
+      "region": "england",
       "tags": [
-        "Football",
-        "Champions League",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "c8867b13277198",
+      "title": "Man Utd: Pochettino told USMNT double deal can completely ‘unlock’ his system",
+      "summary": "Mauricio Pochettino has been told that adding a couple of important USMNT players to his Manchester United side can “unlock” his system at the club.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/mauricio-pochettino-usmnt-double-deal-antonee-robinson-alex-freeman",
+      "publishedAt": "2026-11-25T16:18:11.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
         "Manchester"
       ]
     },
     {
-      "id": "a7efaa37db0dc0",
-      "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
-      "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
-      "publishedAt": "2026-11-24T23:02:00.000Z",
+      "id": "8dc63a6f090ae8",
+      "title": "Man Utd: ‘Verbal agreement’ reached with Red Devils to sign Chelsea star in January on one condition",
+      "summary": "Malo Gusto reportedly has a ‘verbal agreement’ to leave Chelsea in January, with Manchester United to sign him on one condition.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-agreement-reached-red-devils-sign-chelsea-star-january-one-condition",
+      "publishedAt": "2026-11-25T15:48:05.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Transfer",
-        "Chelsea"
+        "Chelsea",
+        "Manchester"
       ]
     },
     {
-      "id": "318f8df20efed5",
-      "title": "Arsenal punished for bluntless in attack - but Man City also have problems",
-      "summary": "Arsenal face Manchester City in a blockbuster Premier League contest this weekend, but in recent days and months, both teams have issues to overcome.",
+      "id": "6936945c833c75",
+      "title": "Eli Junior Kroupi chooses between Arsenal, PSG for stunning £100m transfer",
+      "summary": "The electric 20-year-old has decided where he wants to go in 2027 if he leaves Bournemouth, according to a journalist",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-transfer-news-eli-junior-kroupi-chooses-gunners-psg-100-million-transfer",
+      "publishedAt": "2026-11-25T15:44:35.000Z",
+      "category": "transfer",
+      "region": "england france",
+      "tags": [
+        "Transfer",
+        "Arsenal",
+        "Psg"
+      ]
+    },
+    {
+      "id": "b8aadfd4865124",
+      "title": "Man Utd: Victor Osimhen reaches final decision on joining Red Devils in January amid ‘mutual interest’",
+      "summary": "Galatasaray striker Victor Osimhen has reportedly reached a final decision on whether to join Manchester United in January.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/victor-osimhen-reaches-final-decision-joining-man-utd-january",
+      "publishedAt": "2026-11-25T15:15:33.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester",
+        "Inter"
+      ]
+    },
+    {
+      "id": "882aee9cabe822",
+      "title": "Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?",
+      "summary": "Mauricio Pochettino fumed over Leny Yoro's red card for Manchester United in their defeat to Liverpool, but also felt Dominik Szoboszlai's opener should not have stood...",
       "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13616234/arsenal-and-manchester-citys-problems-analysed-as-both-set-to-meet-in-bumper-premier-league-clash-this-weekend",
-      "publishedAt": "2026-11-24T22:54:00.000Z",
+      "url": "https://www.skysports.com/football/news/12040/13616388/dominik-szoboszlai-free-kick-for-liverpool-vs-man-utd-reveals-grey-area-as-mauricio-pochettino-questions-decision",
+      "publishedAt": "2026-11-25T15:15:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "132a1c505ee0dd",
+      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 First it was Val Kilmer, then Greta Garbo, but finally AI...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+      "publishedAt": "2026-11-25T15:13:10.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "7855e44defc59a",
+      "title": "Football Daily | Manchester City get that empty feeling as they fail to win again",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! Early in the second half of Tuesday night’s National League South match between Torquay United and Chesham, play was...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/25/manchester-city-empty-feeling-football-daily-newsletter",
+      "publishedAt": "2026-11-25T15:13:01.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "033e0392a86424",
+      "title": "‘First choice’ revealed as Tottenham learn if they can sign Hakan Calhanoglu",
+      "summary": "Hakan Calhanoglu has decided on his next club amid Inter Milan contract talks and interest from Tottenham and others, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/first-choice-hakan-calhanoglu-tottenham-inter-milan",
+      "publishedAt": "2026-11-25T14:56:57.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Inter",
+        "Milan"
+      ]
+    },
+    {
+      "id": "f02d5b3d794408",
+      "title": "Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason",
+      "summary": "While referees tend to reach for red early in the season before easing off, players are under increasing pressure to keep pace in a frenetic environment Off! Off! Off!...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/25/premier-league-red-cards-costinha-leny-yoro-james-tarkowski-referees",
+      "publishedAt": "2026-11-25T14:46:33.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "be685155294b05",
+      "title": "Arsenal: Merson makes huge PL title prediction ahead of Gunners vs Man City – ‘absolutely no chance’",
+      "summary": "Paul Merson has made a major Premier League title prediction ahead of Sunday’s match between Arsenal and Manchester City at the Emirates.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/arsenal-merson-huge-pl-title-prediction-gunners-man-city-absolutely-no-chance",
+      "publishedAt": "2026-11-25T14:41:14.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -224,361 +436,127 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "50d2802eb08c4a",
-      "title": "Arsenal join the crisis-club collective as nightmarish winless run extends to two games",
-      "summary": "Chuck Arsenal in the crisis-club pot with everyone else. It’s now two games without a win for Mikel Arteta’s stragglers.",
+      "id": "847453e49af791",
+      "title": "Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video",
+      "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jonathan Liew as Manchester City’s terrible recent run continues with a draw at home to Napoli. Continue r...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/video/2026/nov/25/premier-league-sides-stumble-in-europe-and-bellingham-brilliance-football-weekly-video",
+      "publishedAt": "2026-11-25T14:38:54.000Z",
+      "category": "issue",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d0a36f39fc37cc",
+      "title": "Best Premier League transfers of the season XI gives Spurs reason to laugh and cry",
+      "summary": "Which new players have made the biggest impact in the Premier League this season and what would it look like if we put them all in one team?",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-join-crisis-club-collective-nightmarish-winless-run",
-      "publishedAt": "2026-11-24T22:51:43.000Z",
+      "url": "https://www.football365.com/news/best-premier-league-signings-2026-27-season",
+      "publishedAt": "2026-11-25T14:10:34.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
+        "Premier League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "eebf1967e68af3",
+      "title": "Garnacho shambles should lead to one of five transfer bans with Arsenal impacted",
+      "summary": "Aston Villa have derailed the career of another Big Six cast-off in Alejandro Garnacho and simply cannot keep getting away with this.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/garnacho-shambles-five-transfer-bans-aston-villa",
+      "publishedAt": "2026-11-25T13:40:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
         "Arsenal"
       ]
     },
     {
-      "id": "b00f17d5833531",
-      "title": "'You question everything' - Haaland lays City's frustrations bare",
-      "summary": "Erling Haaland has admitted Manchester City's poor form is affecting the players, admitting \"when you don't win, you question everything\" after they were held 2-2 at ho...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13616226/erling-haaland-frustrated-with-manchester-city-form-when-you-dont-win-you-question-everything",
-      "publishedAt": "2026-11-24T22:51:00.000Z",
-      "category": "ucl",
-      "region": "england italy",
-      "tags": [
-        "Champions League",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "b5ecad7c8d1537",
-      "title": "Man Utd: Mauricio Pochettino issues angry response to Leny Yoro decision – ‘this thing can never happen’",
-      "summary": "Leny Yoro has had his red card overturned, but Manchester United head coach Mauricio Pochettino is still annoyed with VAR officials.",
+      "id": "f6b3230d9a2a3a",
+      "title": "Liverpool now ‘serious’ on re-signing Jarell Quansah as FSG turn to ‘wrapping up’ £97m double deal",
+      "summary": "Liverpool are reportedly ‘serious’ about re-signing England international Jarell Quansah from Bayer Leverkusen in 2027.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-pochettino-issues-angry-response-yoro-decision",
-      "publishedAt": "2026-11-24T22:48:58.000Z",
+      "url": "https://www.football365.com/news/liverpool-now-serious-re-signing-jarell-quansah-fsg-wrap-up-97m-double-deal",
+      "publishedAt": "2026-11-25T13:10:47.000Z",
       "category": "transfer",
-      "region": "england",
+      "region": "england italy germany",
       "tags": [
-        "Manchester"
+        "Liverpool",
+        "Inter"
       ]
     },
     {
-      "id": "64a4a625203109",
-      "title": "Poch cites Eze as he questions Barcola role in Szoboszlai goal - is he right?",
-      "summary": "Speaking ahead of his side's clash against Sporting Lisbon, Manchester United boss Mauricio Pochettino questioned Bradley Barcola's impact on Dominik Szoboszlai's freek...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13616207/mauricio-pochettino-questions-bradley-barcola-impact-on-dominik-szoboszlai-goal-and-makes-eberechi-eze-comparison",
-      "publishedAt": "2026-11-24T22:18:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "1d3908b9b7c3dd",
-      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-      "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T22:05:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8edcfc3c641697",
-      "title": "Man City FFP, Guardiola forcing the worst feeling a supporter can have as Maresca issues remain",
-      "summary": "The FFP case and Pep Guardiola split are giving Manchester City supporters the worst feeling imaginable as Enzo Maresca’s issues remain…",
+      "id": "5f3a7933d55e66",
+      "title": "Premier League 2026/27 prize money calculated after Arsenal shatter record",
+      "summary": "Arsenal shattered the record for prize money earned in a single Premier League season, with Manchester United wasting a 2026/27 head start.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-man-city-ffp-guardiola-forcing-worst-feeling-supporter-maresca",
-      "publishedAt": "2026-11-24T22:01:55.000Z",
+      "url": "https://www.football365.com/news/premier-league-prize-money-table-2026-27",
+      "publishedAt": "2026-11-25T13:05:26.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "5b690116f4a16e",
-      "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
-      "summary": "For reasons best known to those eyeing the pound signs, Manchester City gave a debut to a special rust-coloured kit in front of a nonplussed crowd. It was of a piece wi...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-      "publishedAt": "2026-11-24T22:01:51.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Serie A",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "9e125a2b438d38",
-      "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
-      "summary": "Arsenal’s sky-high standards are slipping. For the second time in four days, Mikel Arteta’s side found themselves a goal up at half-time and apparently coasting toward...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-      "publishedAt": "2026-11-24T22:01:50.000Z",
-      "category": "league",
-      "region": "england spain germany",
-      "tags": [
-        "Football",
+        "Premier League",
         "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "92dac9693c359e",
+      "title": "Ornstein drops key update on Xabi Alonso sack at Chelsea as Liverpool comparison made",
+      "summary": "Recent reports have suggested the Blues could sack Alonso if results continue to spiral, and Ornstein has now weighed in on the situation",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/xabi-alonso-sack-chelsea-david-ornstein-update-liverpool-comparison",
+      "publishedAt": "2026-11-25T13:00:56.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "830dded7516810",
+      "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
+      "summary": "Englishman hailed by teammates and manager Mourinho after coming on to completely change Champions League game against PSV Eindhoven “It was one of those moments when y...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
+      "publishedAt": "2026-11-25T12:59:29.000Z",
+      "category": "ucl",
+      "region": "spain",
+      "tags": [
+        "Football",
+        "Champions League",
         "Real Madrid"
       ]
     },
     {
-      "id": "dfc033fee6d246",
-      "title": "Wasteful Arsenal held by Borussia Dortmund",
-      "summary": "Arsenal were punished for failing to take their chances for the second game in a row as Maximilian Beier clinched a 1-1 draw for Borussia Dortmund in the Champions Leag...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/report/577669",
-      "publishedAt": "2026-11-24T21:56:00.000Z",
+      "id": "0829eaabef8e49",
+      "title": "Champions League prize money table calculated as Liverpool slip further off first place",
+      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
+      "publishedAt": "2026-11-25T12:49:36.000Z",
       "category": "ucl",
-      "region": "england germany",
+      "region": "england",
       "tags": [
         "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "2fda23c17fe544",
-      "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
-      "summary": "Manchester United defender wrongly sent off in 4-0 loss ‘If we have VAR, what were they doing?’ asks head coach Mauricio Pochettino has criticised officiating in Englis...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-      "publishedAt": "2026-11-24T21:51:31.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "a02d3fe9278993",
-      "title": "Poch fumes at Yoro red and thinks Szoboszlai goal shouldn't have stood",
-      "summary": "Mauricio Pochettino has heavily criticised VAR in Manchester United's loss at Liverpool after Leny Yoro's red card was overturned, while the Argentine believes Dominik...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13616134/mauricio-pochettino-man-utd-boss-fumes-at-var-in-liverpool-loss-over-leny-yoro-and-dominik-szoboszlai-calls",
-      "publishedAt": "2026-11-24T21:50:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "343a788f1382c5",
-      "title": "Man Utd target Collins - Wednesday's gossip",
-      "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T20:51:44.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "740f821313f369",
-      "title": "Scruffy Villa succumb to scruffy Galatasaray defeat after scruffy goal on scruffy sandpit pitch",
-      "summary": "A rubbish game on a rubbish pitch ended in an irritating Champions League defeat for Aston Villa against Galatasaray.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/scruffy-villa-succumb-scruffy-galatasaray-defeat-scruffy-goal-scruffy-sandpit-pitch",
-      "publishedAt": "2026-11-24T20:25:07.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "bb8aa715d6f8d5",
-      "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
-      "summary": "This was Aston Villa’s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besikt...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
-      "publishedAt": "2026-11-24T20:03:50.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Champions League",
-        "Europa League"
-      ]
-    },
-    {
-      "id": "d2a6301a9e4c6d",
-      "title": "Bayern hold 'constructive' talks over Musiala's health",
-      "summary": "Bayern Munich are only focused on getting Jamal Musiala back from injury and not interested in the comments made regarding his contract, the club's sporting director Ma...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T19:58:58.000Z",
-      "category": "issue",
-      "region": "italy germany",
-      "tags": [
-        "Bayern",
-        "Inter"
-      ]
-    },
-    {
-      "id": "5acb0b797118e6",
-      "title": "Pochettino protested Man Utd transfers by ‘stitching up’ star vs Liverpool after ‘criminal’ INEOS error",
-      "summary": "Mauricio Pochettino has been accused of “protesting” Manchester United’s transfer model after a “criminal” error in the summer.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-protested-man-utd-transfers-stitching-up-star-liverpool-criminal-ineos-error",
-      "publishedAt": "2026-11-24T19:55:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "792a36ba8fe589",
-      "title": "Villa beaten late on at Galatasaray as winless run continues",
-      "summary": "Aston Villa's winless run extended to six games as a late Deniz Gul's header saw them beaten 1-0 by Galatasaray in the Champions League league phase.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/galatasaray-vs-aston-villa/report/577673",
-      "publishedAt": "2026-11-24T19:40:00.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Champions League"
-      ]
-    },
-    {
-      "id": "2138f0671ac392",
-      "title": "Arsenal: Decision reached on selling Kroupi to Gunners in January as ‘whopping’ transfer terms revealed",
-      "summary": "According to reports, AFC Bournemouth have decided on whether to sell Junior Kroupi in January amid interest from Arsenal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-decision-reached-selling-kroupi-gunners-january-whopping-terms-transfer-set",
-      "publishedAt": "2026-11-24T19:32:46.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "68c62db4d8e94b",
-      "title": "Florian Wirtz aims subtle dig at ex-Liverpool manager Arne Slot as he issues verdict on Iraola, Klopp",
-      "summary": "Liverpool star Florian Wirtz has offered his thoughts on some managers he has worked with over the past year and has aimed a subtle dig at Arne Slot.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/florian-wirtz-aims-subtle-dig-ex-liverpool-manager-arne-slot-verdict-iraola-klopp",
-      "publishedAt": "2026-11-24T19:07:36.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
         "Liverpool"
       ]
     },
     {
-      "id": "3716e274c3d063",
-      "title": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
-      "summary": "Playmaker in best form since moving to Anfield ‘I am really enjoying playing under Iraola’ Florian Wirtz has credited Andoni Iraola with helping him recapture the form...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
-      "publishedAt": "2026-11-24T19:02:09.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Liverpool",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "a9c61ce55e6710",
-      "title": "Man Utd takeover: Glazers family verdict on selling club revealed amid ‘regret’ over Ratcliffe ‘mistake’",
-      "summary": "Members of the Glazer family are reportedly ‘split’ on whether to sell Manchester United, while there is ‘regret’ over the Sir Jim Ratcliffe deal.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-takeover-glazers-verdict-selling-club-revealed-regret-ratcliffe-mistake",
-      "publishedAt": "2026-11-24T18:27:19.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "6fafb617c2a1aa",
-      "title": "Man Utd centre-back reaches shock verdict on leaving in January and Mauricio Pochettino blamed",
-      "summary": "Manchester United centre-back Ayden Heaven is reportedly keen on leaving the Premier League giants in the winter transfer window.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-centre-back-reaches-shock-verdict-leaving-january-mauricio-pochetino-reason",
-      "publishedAt": "2026-11-24T17:36:01.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "d5dbdd24945052",
-      "title": "Klopp advice and Iraola confidence boosts Wirtz",
-      "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T17:19:08.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "679831fe733665",
-      "title": "Yoro red card overturned, but refs' chief Webb backs decision",
-      "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T17:00:32.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "97b8a3051f678d",
-      "title": "‘Fragile’ Chelsea ‘can’t handle setbacks’ as legend defends Cole Palmer",
-      "summary": "Chelsea legend Jimmy Floyd Hasselbaink has stated the side “can’t handle little setbacks” and he does not think Cole Palmer is the problem after feuding with Joao Pedro.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/fragile-chelsea-cole-palmer-jimmy-floyd-hasselbaink",
-      "publishedAt": "2026-11-24T16:53:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "bf667fd19ca293",
-      "title": "Dominic Calvert-Lewin: ‘Agreement close’ after Arsenal tipped to land ‘blockbuster’ signing from Leeds",
-      "summary": "There is reportedly an ‘agreement close’ between Leeds United and Dominic Calvert-Lewin after Arsenal were tipped to sign him.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/dominic-calvert-lewin-agreement-close-arsenal-tipped-land-blockbuster-signing-leeds",
-      "publishedAt": "2026-11-24T16:44:15.000Z",
+      "id": "edb342d219264f",
+      "title": "Man City latest: 'Title race over if City lose to Arsenal,' says Merse",
+      "summary": "Man City latest: 'Title race over if City lose to Arsenal,' says Merse",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-11-25T12:45:00.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
@@ -586,17 +564,44 @@ window.FOOTBALLDAY_DATA = {
       ]
     },
     {
-      "id": "abafa09f974442",
-      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
-      "summary": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+      "id": "1a6b33c760a359",
+      "title": "The ridiculous records of World Cup cheat code Kylian Mbappe",
+      "summary": "Kylian Mbappe is the all-time record World Cup scorer and only player to win the Golden Boot twice. He’s been decent for Real Madrid too.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/kylian-mbappe-ridiculous-statistics-paris-saint-germain-france-champions-league",
+      "publishedAt": "2026-11-25T12:44:46.000Z",
+      "category": "worldcup",
+      "region": "spain",
+      "tags": [
+        "World Cup",
+        "Real Madrid"
+      ]
+    },
+    {
+      "id": "3ac4c432fcebf4",
+      "title": "Raheem Sterling - from national icon to suspended jail sentence",
+      "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T16:34:18.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T12:42:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "3b72f41e1c4ffd",
+      "title": "Who has scored the most Premier League goals for Manchester United against the Big Six?",
+      "summary": "Bruno Fernandes is behind just two players for Premier League goals against the Big Six for Manchester United, and should get enough penalties to catch them.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-top-scorers-games-premier-league-big-six-rooney-rashford",
+      "publishedAt": "2026-11-25T12:41:48.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Football",
-        "Fifa"
+        "Premier League",
+        "Manchester"
       ]
     }
   ],
