@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:04:51.063Z",
+  "generatedAt": "2026-11-28T19:44:54.448Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,12 +99,158 @@
       "pinned": true
     },
     {
-      "id": "45d062bd2feb7d",
-      "title": "How a football team rebuilt after 19 players died in plane crash",
-      "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their...",
+      "id": "4269949d2ed353",
+      "title": "Fabrizio Romano hints major INEOS change at Man Utd coming after spotting ‘problems’",
+      "summary": "Fabrizio Romano makes a stunning claim after Manchester United’s 4-0 defeat to Brentford at Old Trafford in the Premier League.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/manchester-united-ineos-change-fabrizio-romano-update",
+      "publishedAt": "2026-11-28T19:42:36.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "47fc283bcbdc7b",
+      "title": "No honeymoon period for Pochettino as Man Utd ship another four goals",
+      "summary": "Mauricio Pochettino has suffered a nightmare start as Manchester United manager, conceding 10 goals in three matches. Is there a way out of this mess for the club?",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T06:30:34.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq62pz0ew2kno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T19:36:59.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "346c93203d5ed4",
+      "title": "Ipswich come from behind TWICE to share points with Villa",
+      "summary": "FREE TO WATCH: Highlights from the Premier League match between Ipswich Town and Aston Villa.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13617794/ipswich-town-2-2-aston-villa-premier-league-highlights",
+      "publishedAt": "2026-11-28T19:35:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "56f233e8135e31",
+      "title": "Villa held by Ipswich in exciting stalemate",
+      "summary": "Ipswich came from behind twice to pick up a 2-2 draw with Aston Villa, who extended their run of unbeaten Premier League games to eight.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/ipswich-town-vs-aston-villa/report/559559",
+      "publishedAt": "2026-11-28T19:30:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "4508a34a8c606a",
+      "title": "Ipswich Town 2-2 Aston Villa: Premier League – live",
+      "summary": "️⚽️ U️pdates from 5.30pm (GMT) kick-off at Portman Road ⚽️ Get in touch: mail Scott about the game Ipswich kick off and immediately give the ball away. Jackson runs at...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
+      "publishedAt": "2026-11-28T19:27:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "aef3ea79a05137",
+      "title": "Bayern struggle without Kane as Kimmich sent off in Hamburg draw",
+      "summary": "Bayern struggle without Kane as Kimmich sent off in Hamburg draw",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "publishedAt": "2026-11-28T19:01:00.000Z",
+      "category": "transfer",
+      "region": "germany",
+      "tags": [
+        "Bayern"
+      ]
+    },
+    {
+      "id": "2a2f5139d549cc",
+      "title": "Pochettino admits Man Utd job is tougher than he expected",
+      "summary": "Manchester United boss Mauricio Pochettino has admitted the job he faces at Old Trafford is \"tougher than expected\" after a humiliating 4-0 defeat to Brentford left his...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13617771/mauricio-pochettino-admits-manchester-united-job-tougher-than-expected-after-second-successive-4-0-premier-league-thrashing",
+      "publishedAt": "2026-11-28T19:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "521fdbda48a7c7",
+      "title": "From jeers to European dreams - how Farke transformed Leeds",
+      "summary": "Leeds United fans are starting to dream of Europe after climbing to sixth in the Premier League - but what is behind the Whites' rise under boss Daniel Farke?",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60rk07wp22vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T18:51:44.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League"
+      ]
+    },
+    {
+      "id": "42d708c6b75d9a",
+      "title": "Man Utd: Pochettino and Tielemans reveal players’ mood in ‘changing room’ after Brentford hammering",
+      "summary": "Manchester United suffered a 4-0 defeat at the hands of Brentford at Old Trafford in the Premier League on Saturday.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/man-utd-pochettino-and-tielemans-reveal-players-mood-in-changing-room-after-brentford-hammering",
+      "publishedAt": "2026-11-28T18:07:49.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "39cb38873d2009",
+      "title": "Pochettino and Wilcox commit £614.2m sackable offences as Manchester United create abysmal history",
+      "summary": "Manchester United suffered maybe only their second worst ever 4-0 loss to Brentford – which should shame Mauricio Pochettino and many others.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pochettino-wilcox-sackable-offences-manchester-united-create-abysmal-history",
+      "publishedAt": "2026-11-28T17:42:53.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e88917bea54dd7",
+      "title": "Difficult to be positive after Brentford loss - Pochettino",
+      "summary": "Manchester United Mauricio Pochettino says it is \"difficult to be positive\" after their four-goal home thrashing at the hands of Brentford, but that \"it is only a matte...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmlyd70nd775o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T17:42:12.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "b3d8252aabeefc",
+      "title": "Europe-chasing Leeds can 'dream big' - Farke",
+      "summary": "Leeds United manager Daniel Farke post match reaction as his side got a strong three goal win to keep in the hunt for European football for the first time since 2003.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwdr1k85kgexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T17:23:45.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -112,424 +258,262 @@
       ]
     },
     {
-      "id": "3a17b7369a2b74",
-      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
-      "summary": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a forego...",
+      "id": "ac42a9d02bed10",
+      "title": "Viktor Gyokeres and Mikel Arteta reach full agreement over Arsenal January exit",
+      "summary": "Mikel Arteta and Viktor Gyokeres have decided whether or not the striker will leave Arsenal in the January transfer window.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/viktor-gyokeres-mikel-arteta-arsenal-january-2027-transfer-decision-reached",
+      "publishedAt": "2026-11-28T17:21:23.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Transfer",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "4fb060744864c3",
+      "title": "'Not fit to wear the shirt!' - Poch leads Man Utd players in lap of angry Old Trafford",
+      "summary": "Mauricio Pochettino led his players in a lap of an Old Trafford as fans sang: \"You're not fit to wear the shirt\" after Brentford's 4-0 win over Manchester United in the...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13617679/mauricio-pochettino-leads-man-utd-players-in-lap-of-old-trafford-after-4-0-brentford-defeat-not-fit-to-wear-the-shirt",
+      "publishedAt": "2026-11-28T17:14:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "e1ef40aea8c4ea",
+      "title": "Brentford thump Man Utd for FOUR to condemn Poch to Old Trafford debut defeat",
+      "summary": "FREE TO WATCH: Highlights from Manchester United’s match against Brentford in the Premier League.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13617677/manchester-united-0-4-brentford-premier-league-highlights",
+      "publishedAt": "2026-11-28T17:13:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "bedab88a87f910",
+      "title": "European football: Kimmich red card for hair pull in goalless draw caps Bayern’s bad week",
+      "summary": "Munich captain sent off in 0-0 at Hamburg Schalke shattered in record 8-1 defeat by Paderborn Bayern Munich were held to a scoreless draw away at Hamburg in the Bundesl...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
-      "publishedAt": "2026-11-28T04:14:42.000Z",
+      "url": "https://www.theguardian.com/football/2026/nov/28/european-football-hamburg-bayern-munich-lazio-inter-real-madrid-psg",
+      "publishedAt": "2026-11-28T17:12:21.000Z",
+      "category": "league",
+      "region": "italy france germany",
+      "tags": [
+        "Football",
+        "Bundesliga",
+        "Psg",
+        "Bayern"
+      ]
+    },
+    {
+      "id": "262f084d483bb3",
+      "title": "Whose Man Utd days look numbered? Player ratings",
+      "summary": "Callum Wilson scored twice as Brentford secured their first victory at Old Trafford since 1937 and kept Manchester United in relegation trouble - how they rated.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2wjegj9nko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T17:04:43.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "14d8e9f57d0017",
+      "title": "Manchester United mauled by Brentford in Pochettino’s ugly Old Trafford debut",
+      "summary": "Utter despair for Mauricio Pochettino’s new Manchester United project; sheer deserving delight for Brentford who ended an 89-year wait to win here. They made this fine...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/28/manchester-united-brentford-premier-league-match-report",
+      "publishedAt": "2026-11-28T17:03:40.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "cbc29781656b19",
+      "title": "Poch suffers nightmare Old Trafford debut as brilliant Brentford pile on misery",
+      "summary": "Manchester United sank to another frightening low in Mauricio Pochettino's first home game in charge, thrashed 4-0 by Champions League-chasing Brentford at Old Trafford.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/manchester-united-vs-brentford/report/559561",
+      "publishedAt": "2026-11-28T17:00:00.000Z",
+      "category": "ucl",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "c9fb1187590edc",
+      "title": "Sean Longstaff double fires Leeds past overwhelmed Coventry",
+      "summary": "Leeds are becoming the poster boys of evolutionary progress in the Premier League. In their second season back in the top flight, they sit sixth after almost a third of...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/28/leeds-coventry-premier-league-match-report",
+      "publishedAt": "2026-11-28T16:54:51.000Z",
+      "category": "issue",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League"
+      ]
+    },
+    {
+      "id": "2a902ede62284e",
+      "title": "Liverpool tipped to sell Ryan Gravenberch with Trey Nyoni decision coming",
+      "summary": "Former Everton CEO Keith Wyness feels Liverpool will look to sell Ryan Gravenberch amid contract “regret,” with a decision coming on Trey Nyoni.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/ryan-gravenberch-sale-trey-nyoni-decision-liverpool",
+      "publishedAt": "2026-11-28T16:13:41.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "b7af205250fddd",
+      "title": "Xabi Alonso sack: Chelsea pick preferred successor after admitting wrong appointment",
+      "summary": "Chelsea already have a manager in mind should they decide to get rid of Xabi Alonso as the boss, according to a report.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/xabi-alonso-chelsea-sack-cesc-fabregas-replacement",
+      "publishedAt": "2026-11-28T15:36:02.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d4f5af44582496",
+      "title": "Pochettino sends Ratcliffe strong Jason Wilcox message ahead of Man Utd vs Brentford",
+      "summary": "Pochettino has sent a damning message to Ratcliffe concerning Wilcox’s work as Man Utd’s director of football ahead the clash with Brentford.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/pochettino-ratcliffe-strong-jason-wilcox-message-man-utd-brentford",
+      "publishedAt": "2026-11-28T15:07:51.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "6351ad8a7ec504",
+      "title": "Gerrard credits two men for Florian Wirtz change at Liverpool – ‘He makes you feel taller’",
+      "summary": "Steven Gerrard has given two men credit for the recent improvement in Florian Wirtz’s performances for Liverpool.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/gerrard-credits-two-men-florian-wirtz-change-liverpool",
+      "publishedAt": "2026-11-28T14:14:35.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "8829df8a039c46",
+      "title": "England call up Wubben-Moy for World Cup play-off",
+      "summary": "Arsenal defender Lotte Wubben-Moy is called up to the England squad for next month's Women's World Cup play-off ties against Ukraine, with Lauren Hemp and Jess Carter w...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T13:41:04.000Z",
       "category": "worldcup",
       "region": "england",
       "tags": [
-        "Football",
-        "Soccer",
-        "World Cup"
+        "World Cup",
+        "Arsenal"
       ]
     },
     {
-      "id": "b08dd2bc1d86b4",
-      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
-      "summary": "Santiago Rodríguez strikes in stoppage time to seal win Inter Miami fail to defend 2025 MLS Cup title. Messi retired internationally earlier this year Inter Miami’s que...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
-      "publishedAt": "2026-11-28T03:53:14.000Z",
-      "category": "league",
-      "region": "italy",
-      "tags": [
-        "Football",
-        "Inter"
-      ]
-    },
-    {
-      "id": "257847c76a2377",
-      "title": "What went wrong for Alonso's Chelsea at Forest?",
-      "summary": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a mi...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
-      "publishedAt": "2026-11-27T23:40:00.000Z",
+      "id": "2772531c913b42",
+      "title": "Merson urges Arteta to drop Arsenal stalwart to avoid ‘football match’ with Man City",
+      "summary": "Paul Merson insists the Premier League will be “finished” if Arsenal beat Man City on Sunday and has urged Mikel Arteta to drop a stalwart to claim victory.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/merson-arteta-arsenal-stalwart-avoid-football-match-man-city",
+      "publishedAt": "2026-11-28T13:21:08.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d3265785ed7c86",
-      "title": "Papers: Man Utd in running for Paz, but Champions League key",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
-      "publishedAt": "2026-11-27T23:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Transfer"
-      ]
-    },
-    {
-      "id": "d78cc9877c2650",
-      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
-      "summary": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:58:49.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
+        "Football",
         "Premier League",
         "Arsenal"
       ]
     },
     {
-      "id": "ac3a70e360c212",
-      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
-      "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:47:57.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2cba0b01d965fd",
-      "title": "Chelsea must stick together in 'difficult moment' - Alonso",
-      "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this se...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:45:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "73f1f02fcaa9c3",
-      "title": "Bremen fight back to earn draw in six-goal thriller",
-      "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:37:16.000Z",
-      "category": "league",
-      "region": "germany",
-      "tags": [
-        "Bundesliga"
-      ]
-    },
-    {
-      "id": "5e894dff5a588c",
-      "title": "Alonso sack coming without £60m saviour as Chelsea lose to Forest before kick-off",
-      "summary": "Who could have predicted a Fofana blunder would cost Chelsea against Forest? Literally everyone except Xabi Alonso. He’s heading for the sack without his £60m saviour.",
+      "id": "c81f8b6dcb6030",
+      "title": "Mateus Fernandes says he wants to leave Tottenham ‘right now’ as his ‘heart’ is elsewhere",
+      "summary": "Mateus Fernandes wants to leave Tottenham “right now” as his “heart” is elsewhere in a shocking interview revelation.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-alonso-sack-coming-60m-saviour-chelsea-lose-forest-before-kick-off",
-      "publishedAt": "2026-11-27T22:35:57.000Z",
+      "url": "https://www.football365.com/news/mateus-fernandes-says-he-wants-to-leave-tottenham-right-now-as-his-heart-is-elsewhere",
+      "publishedAt": "2026-11-28T12:40:11.000Z",
       "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0bed2d74b2bf6b",
-      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
-      "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a r...",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:30:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "8564f0c311e0aa",
-      "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
-      "summary": "‘It’s only been done once and that’s what we want’ Arteta not being drawn on City’s financial charges Mikel Arteta has set Arsenal the ­target of emulating Manchester C...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
-      "publishedAt": "2026-11-27T22:30:22.000Z",
-      "category": "league",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "d514e2150e828a",
-      "title": "'We're low on confidence'- Alonso discusses difficult spell after Forest loss",
-      "summary": "Chelsea boss Xabi Alonso reflects on his side's 3-2 away defeat to Nottingham Forest and explains how he aims to drag the Blues out of their poor form.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13617385/nottm-forest-3-2-chelsea-xabi-alonso-discusses-low-on-confidence-blues-after-another-loss",
-      "publishedAt": "2026-11-27T22:23:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "10abdda4fdf5c8",
-      "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
-      "summary": "Wesley Fofana, as a former Leicester player, might have expected the celebrating Nottingham Forest fans to give him a hard time. But, at the end of a week in which he i...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
-      "publishedAt": "2026-11-27T22:10:35.000Z",
-      "category": "ratings",
       "region": "england italy",
       "tags": [
-        "Football",
-        "Premier League",
-        "Chelsea",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "c9fb50e492f7f2",
-      "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
-      "summary": "Highlights from the Premier League clash between Nottingham Forest and Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights",
-      "publishedAt": "2026-11-27T22:08:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "2d7c22487c8edb",
-      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
-      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T21:59:48.000Z",
-      "category": "ratings",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "a44fa46d4bb07e",
-      "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
-      "summary": "Morgan Gibbs-White scored two in Nottingham Forest’s 3-2 win over Chelsea at the City Ground as the crisis deepened for Xabi Alonso.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562",
-      "publishedAt": "2026-11-27T21:45:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "135a13afb79b7a",
-      "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
-      "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T21:31:54.000Z",
-      "category": "league",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Chelsea",
         "Inter"
       ]
     },
     {
-      "id": "2b7cab29f8f853",
-      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
-      "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+      "id": "c974271e572b55",
+      "title": "Work in progress but Liverpool find belief again with Iraola",
+      "summary": "With the attack finally firing and Liverpool looking more solid at the back, Andoni Iraola has got the fans believing again. Just in time for derby day.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T21:19:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Champions League",
-        "Arsenal",
-        "Liverpool",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "2968c90551261f",
-      "title": "Football Daily",
-      "summary": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T20:47:00.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T12:36:26.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Football",
         "Liverpool"
       ]
     },
     {
-      "id": "e10ee177088f0f",
-      "title": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
-      "summary": "A sensational start for the Italian was swiftly followed by a dismal run and long faces in the team This is the great known unknown in Manchester City’s run of one win...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/why-things-started-go-wrong-manchester-city-under-enzo-maresca",
-      "publishedAt": "2026-11-27T20:00:19.000Z",
-      "category": "ucl",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Premier League",
-        "Champions League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "69f379457771d7",
-      "title": "Alonso tempts fate as Chelsea star suffers unprecedented humiliation vs Nottingham Forest",
-      "summary": "Levi Colwill deserves to be dropped in normal circumstances – he’s been rubbish for Chelsea. But not like this, Xabi Alonso. Not now.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/opinion-alonso-tempts-fate-chelsea-star-unprecedented-humiliation-nottingham-forest",
-      "publishedAt": "2026-11-27T19:37:45.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "e99fc31f9a5790",
-      "title": "Chelsea: Tom Brady’s role detailed after seven-time Super Bowl champion buys Blues stake",
-      "summary": "Tom Brady’s expected role at Chelsea has been detailed after the seven-time Super Bowl champion quarterback purchased a stake in the club.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/chelsea-tom-brady-role-detailed-blues-stake",
-      "publishedAt": "2026-11-27T19:00:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6dd287305ea950",
-      "title": "Don't sleep on the NFL 'uncs' - can they finally win a Super Bowl?",
-      "summary": "Kyle Shanahan's San Francisco 49ers are the best team in football. Is this finally the season they win a Lombardi Trophy? Their next test is against the champions.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/nfl/news/12040/13615930/nfl-why-kyle-shanahan-brock-purdy-and-san-francisco-49ers-uncs-deserve-super-bowl-moment-plus-kirk-cousins-revenge-game-and-sam-darnold-pressure",
-      "publishedAt": "2026-11-27T19:00:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "957063c946ef3b",
-      "title": "Nottingham Forest 3-2 Chelsea highlights & rate the players",
-      "summary": "Nottingham Forest 3-2 Chelsea highlights & rate the players",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
-      "publishedAt": "2026-11-27T18:30:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "6062e8ee87a887",
-      "title": "Glazers gatecrash Man Utd transfer plans as Ratcliffe line blurred ‘given current circumstances’",
-      "summary": "The Glazers intend to have their say on Manchester United transfers as the line between them and Sir Jim Ratcliffe has been blurred ‘given current circumstances’.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/glazers-gatecrash-man-utd-transfer-plans-as-ratcliffe-line-blurred-given-current-circumstances",
-      "publishedAt": "2026-11-27T17:49:47.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "7d576cf2a5e707",
-      "title": "Pochettino admits stunning Man Utd contract oversight and relies on Ratcliffe’s ‘common sense’ to fix it",
-      "summary": "Mauricio Pochettino has pinned his and Manchester United’s future on Sir Jim Ratcliffe and INEOS using their “common sense”. It doesn’t seem likely.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-admits-stunning-man-utd-contract-oversight-and-relies-on-common-sense-of-ratcliffe-to-fix-it",
-      "publishedAt": "2026-11-27T16:50:13.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "8df9f4ee63d427",
-      "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-      "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+      "id": "743f137007b632",
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "summary": "Cole Palmer's dip in form mirrors Chelsea's recent slump and his frustration was evident after his side's recent defeat against Leeds - but will he ever get back to his...",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T16:14:34.000Z",
-      "category": "ucl",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T11:53:00.000Z",
+      "category": "league",
       "region": "england",
       "tags": [
-        "Champions League",
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "6ebcebc871e21f",
-      "title": "Man City reach decision on sacking Enzo Maresca as board react to ‘alarm bells’ ahead of Arsenal game",
-      "summary": "Manchester City have reportedly reached a decision on whether to sack head coach Enzo Maresca after a string of poor results.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-reach-decision-sacking-enzo-maresca-board-react-alarm-bells-arsenal-game",
-      "publishedAt": "2026-11-27T15:46:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "da4900f5ecfe61",
-      "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
-      "summary": "Club activate option and plan further talks with captain ‘I am not nice,’ says Pochettino as he targets improvement Manchester United have triggered a clause to extend...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
-      "publishedAt": "2026-11-27T15:29:41.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Transfer",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "50bad3940865b7",
-      "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
-      "summary": "Club languishing sixth in WSL after six home draws Held high hopes of mounting title challenge this term Renée Slegers has left her job as Arsenal Women’s head coach af...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach",
-      "publishedAt": "2026-11-27T15:11:25.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football",
-        "Arsenal",
         "Chelsea"
+      ]
+    },
+    {
+      "id": "b84e1a027fc19f",
+      "title": "Alejandro Garnacho: Romano reveals January ‘option’ to suit Aston Villa and Chelsea",
+      "summary": "Romano has revealed a January “option” that would suit Aston Villa and Chelsea, though not necessarily Garnacho, whose career is in stasis once again.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/alejandro-garnacho-romano-reveals-january-option-to-suit-aston-villa-and-chelsea",
+      "publishedAt": "2026-11-28T11:52:48.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "3d163216a44685",
+      "title": "Fabrizio Romano reveals Man Utd plan for Marcus Rashford with Pochettino key",
+      "summary": "Insider Fabrizio Romano has revealed the plan at Manchester United for Marcus Rashford, who is returning from injury to a new manager in Mauricio Pochettino.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/fabrizio-romano-man-utd-plan-marcus-rashford-mauricio-pochettino",
+      "publishedAt": "2026-11-28T11:27:00.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Manchester"
       ]
     },
     {
@@ -538,7 +522,7 @@
       "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
       "source": "BBC Football",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T15:08:41.000Z",
+      "publishedAt": "2026-11-28T10:28:36.000Z",
       "category": "league",
       "region": "england",
       "tags": [
@@ -546,59 +530,60 @@
       ]
     },
     {
-      "id": "46cd87aa5cf47d",
-      "title": "What happens now for Bayern Munich and Musiala?",
-      "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T15:03:12.000Z",
-      "category": "transfer",
-      "region": "germany",
-      "tags": [
-        "Bayern"
-      ]
-    },
-    {
-      "id": "57c3f03ef5fd88",
-      "title": "Arsenal star reaches decision on January exit to Barcelona after Arteta ‘break up’",
-      "summary": "Arsenal midfielder Mikel Merino wants to leave the Emirates Stadium to join Barcelona in the January transfer window, according to reports.",
+      "id": "8fef96b192f001",
+      "title": "Man Utd: Damning Jason Wilcox phone call with transfer advisor leaked – ‘Are you kidding?!’",
+      "summary": "Jason Wilcox ‘talks a lot, but actually says very little’ as a damning phone call between Man Utd’s director of football and a transfer advisor has been leaked.",
       "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-star-reaches-decision-on-january-exit-to-barcelona-after-arteta-break-up",
-      "publishedAt": "2026-11-27T15:02:06.000Z",
-      "category": "transfer",
-      "region": "england spain",
-      "tags": [
-        "Transfer",
-        "Arsenal",
-        "Barcelona"
-      ]
-    },
-    {
-      "id": "0b93dcb365b8e9",
-      "title": "Arsenal stars not ‘comfortable’ playing with teammate who could start vs Man City – ‘will be targeting him’",
-      "summary": "Arsenal have been warned that their players will not feel “comfortable” against Manchester City if goalkeeper Kepa Arrizabalaga starts.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-stars-not-comfortable-playing-teammate-could-start-man-city",
-      "publishedAt": "2026-11-27T15:01:17.000Z",
+      "url": "https://www.football365.com/news/man-utd-damning-wilcox-phone-call-transfer-adviser-leaked",
+      "publishedAt": "2026-11-28T10:24:52.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
-        "Arsenal",
-        "Manchester"
+        "Football",
+        "Transfer"
       ]
     },
     {
-      "id": "6c8db37342a350",
-      "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
-      "summary": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
+      "id": "66bb98a4345307",
+      "title": "Ranking the Premier League's ultimate free-kick specialists",
+      "summary": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10.",
       "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T14:37:58.000Z",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T08:14:24.000Z",
       "category": "league",
       "region": "england",
       "tags": [
-        "Arsenal",
-        "Manchester"
+        "Premier League"
+      ]
+    },
+    {
+      "id": "c594e030762de7",
+      "title": "Wesley Fofana addresses the interview, his Chelsea performances and the ‘racist’ response in 309-word post",
+      "summary": "Wesley Fofana has reminded Chelsea fans that ‘behind every footballer is a human being who also has feelings’ in a 308-word social media post responding to ‘racist mess...",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/wesley-fofana-interview-chelsea-performances-racist-reponse-309-word-post",
+      "publishedAt": "2026-11-28T08:11:29.000Z",
+      "category": "transfer",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "36eac533c9da42",
+      "title": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
+      "summary": "Liverpool head coach sees parallels with Athletic v Sociedad derby as he comes up against his old foe David Moyes “I haven’t lived this derby,” Andoni Iraola acknowledg...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
+      "publishedAt": "2026-11-28T08:00:34.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Liverpool",
+        "Inter"
       ]
     }
   ],
