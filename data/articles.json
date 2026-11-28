@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:54:39.964Z",
+  "generatedAt": "2026-11-28T07:04:51.063Z",
   "windowDays": 7,
   "articles": [
     {
@@ -99,31 +99,284 @@
       "pinned": true
     },
     {
-      "id": "b5e27d758b86c7",
-      "title": "Nottingham Forest v Chelsea: Premier League – live",
-      "summary": "⚽ Updates on the Friday night kick-off at the City Ground ⚽ Fixtures | Tables | Sign up for Football Daily | Mail Scott Forest get the game started. What to expect? Wel...",
+      "id": "45d062bd2feb7d",
+      "title": "How a football team rebuilt after 19 players died in plane crash",
+      "summary": "How a Brazilian football team rose again after a plane crash that killed most of their players and staff on the way to what should have been the biggest match of their...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0ev91zlwgpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T06:30:34.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football"
+      ]
+    },
+    {
+      "id": "3a17b7369a2b74",
+      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+      "summary": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a forego...",
       "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
-      "publishedAt": "2026-11-27T20:39:26.000Z",
-      "category": "transfer",
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "publishedAt": "2026-11-28T04:14:42.000Z",
+      "category": "worldcup",
       "region": "england",
       "tags": [
         "Football",
+        "Soccer",
+        "World Cup"
+      ]
+    },
+    {
+      "id": "b08dd2bc1d86b4",
+      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "summary": "Santiago Rodríguez strikes in stoppage time to seal win Inter Miami fail to defend 2025 MLS Cup title. Messi retired internationally earlier this year Inter Miami’s que...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "publishedAt": "2026-11-28T03:53:14.000Z",
+      "category": "league",
+      "region": "italy",
+      "tags": [
+        "Football",
+        "Inter"
+      ]
+    },
+    {
+      "id": "257847c76a2377",
+      "title": "What went wrong for Alonso's Chelsea at Forest?",
+      "summary": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a mi...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
+      "publishedAt": "2026-11-27T23:40:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "d3265785ed7c86",
+      "title": "Papers: Man Utd in running for Paz, but Champions League key",
+      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/news/12040/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+      "publishedAt": "2026-11-27T23:00:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Transfer"
+      ]
+    },
+    {
+      "id": "d78cc9877c2650",
+      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+      "summary": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T22:58:49.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Arsenal"
+      ]
+    },
+    {
+      "id": "ac3a70e360c212",
+      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+      "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T22:47:57.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
         "Premier League",
         "Chelsea"
       ]
     },
     {
-      "id": "26cf2567a29bb6",
-      "title": "'It's a WORLDIE!' - Igor Jesus shocks Chelsea with stunning volley",
-      "summary": "Igor Jesus volleys home a stunning opener to give Nottingham Forest the lead against Chelsea.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/watch/video/13617329/goal-i-jesus-5-nottm-forest-1-0-chelsea",
-      "publishedAt": "2026-11-27T20:10:00.000Z",
+      "id": "2cba0b01d965fd",
+      "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+      "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this se...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T22:45:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "73f1f02fcaa9c3",
+      "title": "Bremen fight back to earn draw in six-goal thriller",
+      "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T22:37:16.000Z",
+      "category": "league",
+      "region": "germany",
+      "tags": [
+        "Bundesliga"
+      ]
+    },
+    {
+      "id": "5e894dff5a588c",
+      "title": "Alonso sack coming without £60m saviour as Chelsea lose to Forest before kick-off",
+      "summary": "Who could have predicted a Fofana blunder would cost Chelsea against Forest? Literally everyone except Xabi Alonso. He’s heading for the sack without his £60m saviour.",
+      "source": "Football365",
+      "url": "https://www.football365.com/news/opinion-alonso-sack-coming-60m-saviour-chelsea-lose-forest-before-kick-off",
+      "publishedAt": "2026-11-27T22:35:57.000Z",
       "category": "transfer",
       "region": "england",
       "tags": [
         "Chelsea"
+      ]
+    },
+    {
+      "id": "0bed2d74b2bf6b",
+      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a r...",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T22:30:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "8564f0c311e0aa",
+      "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+      "summary": "‘It’s only been done once and that’s what we want’ Arteta not being drawn on City’s financial charges Mikel Arteta has set Arsenal the ­target of emulating Manchester C...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
+      "publishedAt": "2026-11-27T22:30:22.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Arsenal",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "d514e2150e828a",
+      "title": "'We're low on confidence'- Alonso discusses difficult spell after Forest loss",
+      "summary": "Chelsea boss Xabi Alonso reflects on his side's 3-2 away defeat to Nottingham Forest and explains how he aims to drag the Blues out of their poor form.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13617385/nottm-forest-3-2-chelsea-xabi-alonso-discusses-low-on-confidence-blues-after-another-loss",
+      "publishedAt": "2026-11-27T22:23:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "10abdda4fdf5c8",
+      "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+      "summary": "Wesley Fofana, as a former Leicester player, might have expected the celebrating Nottingham Forest fans to give him a hard time. But, at the end of a week in which he i...",
+      "source": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
+      "publishedAt": "2026-11-27T22:10:35.000Z",
+      "category": "ratings",
+      "region": "england italy",
+      "tags": [
+        "Football",
+        "Premier League",
+        "Chelsea",
+        "Liverpool"
+      ]
+    },
+    {
+      "id": "c9fb50e492f7f2",
+      "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
+      "summary": "Highlights from the Premier League clash between Nottingham Forest and Chelsea.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights",
+      "publishedAt": "2026-11-27T22:08:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Premier League",
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "2d7c22487c8edb",
+      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T21:59:48.000Z",
+      "category": "ratings",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "a44fa46d4bb07e",
+      "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
+      "summary": "Morgan Gibbs-White scored two in Nottingham Forest’s 3-2 win over Chelsea at the City Ground as the crisis deepened for Xabi Alonso.",
+      "source": "Sky Sports Football",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562",
+      "publishedAt": "2026-11-27T21:45:00.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Chelsea"
+      ]
+    },
+    {
+      "id": "135a13afb79b7a",
+      "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+      "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T21:31:54.000Z",
+      "category": "league",
+      "region": "england italy",
+      "tags": [
+        "Premier League",
+        "Chelsea",
+        "Inter"
+      ]
+    },
+    {
+      "id": "2b7cab29f8f853",
+      "title": "Champions League to be a factor in Paz move - Saturday's gossip",
+      "summary": "Manchester United may lose the chance to sign Nico Paz without Champions League qualification, Arsenal also want the Como midfielder and Liverpool eye Lamine Camara.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23jg6x78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T21:19:27.000Z",
+      "category": "transfer",
+      "region": "england",
+      "tags": [
+        "Champions League",
+        "Arsenal",
+        "Liverpool",
+        "Manchester"
+      ]
+    },
+    {
+      "id": "2968c90551261f",
+      "title": "Football Daily",
+      "summary": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts.",
+      "source": "BBC Football",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T20:47:00.000Z",
+      "category": "league",
+      "region": "england",
+      "tags": [
+        "Football",
+        "Liverpool"
       ]
     },
     {
@@ -183,8 +436,8 @@
     },
     {
       "id": "957063c946ef3b",
-      "title": "Stunning Igor Jesus volley gives Forest early lead vs Chelsea LIVE!",
-      "summary": "Stunning Igor Jesus volley gives Forest early lead vs Chelsea LIVE!",
+      "title": "Nottingham Forest 3-2 Chelsea highlights & rate the players",
+      "summary": "Nottingham Forest 3-2 Chelsea highlights & rate the players",
       "source": "Sky Sports Football",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
       "publishedAt": "2026-11-27T18:30:00.000Z",
@@ -219,32 +472,6 @@
       "region": "england",
       "tags": [
         "Manchester"
-      ]
-    },
-    {
-      "id": "440399eeaabab8",
-      "title": "Football Daily | Watford, the Pozzos and the hottest managerial seat in the game",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now! A few weeks ago, Alessio Dionisi was forced to deny the “fake news” he had joined Sean Dyche, Gianfranco Zola, Beppe...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/watford-hottest-managerial-seat-pozzos-football-daily-newsletter",
-      "publishedAt": "2026-11-27T16:36:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Football"
-      ]
-    },
-    {
-      "id": "1bb77a47c1ca45",
-      "title": "VOTE: Were Arsenal right to sack Slegers?",
-      "summary": "VOTE: Were Arsenal right to sack Slegers?",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "publishedAt": "2026-11-27T16:35:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
       ]
     },
     {
@@ -371,227 +598,6 @@
       "region": "england",
       "tags": [
         "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "dae218ec8a3e86",
-      "title": "Alejandro Garnacho: Aston Villa loanee told ‘it’s over’ as ‘blunt truth’ on Chelsea outcast’s future revealed",
-      "summary": "The ‘blunt truth’ about Alejandro Garnacho’s future has been revealed, and “it’s over” for the Chelsea outcast at Aston Villa.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/alejandro-garnacho-blunt-truth-future-revealed-villa-now-axe-chelsea-outcast-its-over",
-      "publishedAt": "2026-11-27T14:18:05.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "d9bda59e32ed87",
-      "title": "Man Utd activate Fernandes contract extension clause",
-      "summary": "Manchester United have triggered their 12-month option to extend captain Bruno Fernandes' contract.",
-      "source": "Sky Sports Football",
-      "url": "https://www.skysports.com/football/news/12040/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028",
-      "publishedAt": "2026-11-27T14:10:00.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "f44b77c6f4c335",
-      "title": "Arsenal vs Man City: Merson makes huge prediction and tells City stars to ‘live today’",
-      "summary": "Paul Merson has made a prediction ahead of Arsenal against Man City at the weekend with teams no longer fearing the Citizens.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-man-city-merson-prediction-title-race-over",
-      "publishedAt": "2026-11-27T13:55:58.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Arsenal"
-      ]
-    },
-    {
-      "id": "0333bdbbc666a0",
-      "title": "Man Utd reach shock verdict on selling Bruno Fernandes in January as he decides transfer ‘clear preference’",
-      "summary": "Manchester United could reportedly sell Bruno Fernandes in the upcoming winter transfer window amid interest from a growing list of clubs.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-reach-shock-verdict-selling-bruno-fernandes-january",
-      "publishedAt": "2026-11-27T13:23:11.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Transfer",
-        "Manchester",
-        "Inter"
-      ]
-    },
-    {
-      "id": "1707bafac4b76f",
-      "title": "Cole Palmer told he ‘will never play for England again’ with EIGHT players ahead of Chelsea star",
-      "summary": "Chelsea superstar Cole Palmer “will never play for England again” after being left out of the last squad by Thomas Tuchel.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/cole-palmer-never-play-england-again-chelsea",
-      "publishedAt": "2026-11-27T13:11:52.000Z",
-      "category": "worldcup",
-      "region": "england",
-      "tags": [
-        "Chelsea"
-      ]
-    },
-    {
-      "id": "0829eaabef8e49",
-      "title": "Champions League prize money table calculated as Liverpool rise past Real Madrid",
-      "summary": "With a long old way to go, some teams have already banked £50m or more from the 2026/27 Champions League season so far.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/champions-league-prize-money-table-202627",
-      "publishedAt": "2026-11-27T13:11:36.000Z",
-      "category": "ucl",
-      "region": "england spain",
-      "tags": [
-        "Champions League",
-        "Liverpool",
-        "Real Madrid"
-      ]
-    },
-    {
-      "id": "dd60fc2f663214",
-      "title": "Man Utd: Final decision reached on selling Bassey to Red Devils as ‘talks taking place’ for priority signing",
-      "summary": "Fulham head coach Alvaro Arbeloa has revealed whether they will sell centre-back Calvin Bassey to Manchester United in January.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-utd-final-decision-reached-selling-bassey-red-devils-talks-priority-signing",
-      "publishedAt": "2026-11-27T12:53:06.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "923902382b982a",
-      "title": "Erling Haaland: Neville issues bleak Man City transfer claim with striker ‘frustrated’ at City",
-      "summary": "Man Utd legend Gary Neville insists Norway striker Erling Haaland has “a maximum of 18 months” left at Man City before he leaves.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-neville-issues-bleak-haaland-transfer-statement-frustrated",
-      "publishedAt": "2026-11-27T12:29:11.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer"
-      ]
-    },
-    {
-      "id": "6ce24f8f1d47ee",
-      "title": "Ipswich Women sign Ademiluyi for record fee",
-      "summary": "Ipswich Town Women confirm the permanent signing of England youth international Princess Ademiluyi for a club record fee.",
-      "source": "BBC Football",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3x29q4nwe1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T12:10:39.000Z",
-      "category": "transfer",
-      "region": "italy",
-      "tags": [
-        "Inter"
-      ]
-    },
-    {
-      "id": "95ea51c14cd810",
-      "title": "Arsenal legend Dixon makes bold PL title claim on Man City ahead of Gunners match – ‘I do believe that’",
-      "summary": "Arsenal legend Lee Dixon has made a bold Premier League title claim about Manchester City ahead of the match against the Gunners.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-legend-dixon-bold-pl-title-claim-man-city",
-      "publishedAt": "2026-11-27T12:02:21.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Arsenal",
-        "Manchester"
-      ]
-    },
-    {
-      "id": "451f4c812ab374",
-      "title": "Liverpool: Poland star issues come-and-get-me plea to Iraola in ‘ultimate dream’",
-      "summary": "Jagiellonia Białystok’s Sławomir Abramowicz has revealed that his “ultimate dream” is to play for Liverpool in the Premier League.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/liverpool-abramowicz-come-and-get-me-plea-dream-transfer-jagiellonia",
-      "publishedAt": "2026-11-27T12:00:55.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Premier League",
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "b15644342e6503",
-      "title": "Ross County have 102 goals and British football’s best start but is it a fairytale?",
-      "summary": "There is cynicism and jealousy but one of County’s top scorers is 39 as club try to climb leagues again after tumbling It was a vidiprinter moment worthy of a double ta...",
-      "source": "The Guardian Football",
-      "url": "https://www.theguardian.com/football/2026/nov/27/ross-county-british-football-best-start-102-goals",
-      "publishedAt": "2026-11-27T12:00:10.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Football",
-        "Chelsea",
-        "Inter"
-      ]
-    },
-    {
-      "id": "1281c3652d8f6f",
-      "title": "Pochettino sack timeline revealed after Manchester United inexorable ‘dressing room’ curse returns",
-      "summary": "Michael Carrick and Ruben Amorim both lasted about 20 more games after positive Man Utd mood updates; the Mauricio Pochettino card is marked.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/pochettino-sack-timeline-revealed-manchester-united-inexorable-dressing-room-curse",
-      "publishedAt": "2026-11-27T11:51:35.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Manchester"
-      ]
-    },
-    {
-      "id": "0f4ceea9bac9f2",
-      "title": "Big Liverpool squad rift brewing once iconic superstar signs in 2027",
-      "summary": "One of the greatest players in Liverpool history is now expected to sign a contract extension, though this won’t go down well with one Reds player.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/big-liverpool-squad-rift-brewing-once-iconic-superstar-signs-in-2027",
-      "publishedAt": "2026-11-27T11:34:27.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Liverpool"
-      ]
-    },
-    {
-      "id": "dc0092fddfa4f6",
-      "title": "Arsenal looking at FIVE January deals as they make contact for first signing",
-      "summary": "Premier League leaders Arsenal are interested in five players ahead of the January transfer window, according to a reliable source.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/arsenal-five-january-transfers-fresneda-nusa",
-      "publishedAt": "2026-11-27T11:28:51.000Z",
-      "category": "transfer",
-      "region": "england italy",
-      "tags": [
-        "Premier League",
-        "Transfer",
-        "Arsenal",
-        "Inter"
-      ]
-    },
-    {
-      "id": "df13caf2412531",
-      "title": "Man City: Carragher makes brutal FFP claim as he predicts Haaland ‘final destination’ and Neville agrees",
-      "summary": "Jamie Carragher and Gary Neville have predicted Erling Haaland’s next transfer after Manchester City’s guilty FFP verdict.",
-      "source": "Football365",
-      "url": "https://www.football365.com/news/man-city-carragher-brutal-ffp-claim-predicts-haaland-final-destination-neville-agrees",
-      "publishedAt": "2026-11-27T11:08:48.000Z",
-      "category": "transfer",
-      "region": "england",
-      "tags": [
-        "Transfer",
         "Manchester"
       ]
     }
